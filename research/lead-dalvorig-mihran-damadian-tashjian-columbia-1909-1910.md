@@ -94,3 +94,20 @@ The same anthology explains the 1897 Khanasor expedition as an ARF company attac
 6. Assess master/composition/performer/transfer/repository rights by territory. Do not call this cleared until that work is done.
 
 **Editorial decision:** prioritize this lead for the next Armenian research pass. It has a documented pre-1926 recording trail, a printed pre-cutoff text attributed to an author who died before 1956, and a later lyric witness that explicitly frames the Khanasor action as revenge. It remains a lead, not a verified candidate, because the recorded text and raw audio have not been checked.
+
+
+## Additional “Dalvorig” recording witnesses: Torcom Bezazian (1915–1916)
+
+A cross-catalogue search finds at least two further pre-1926 recordings titled “Dalvorig,” performed by Torcom Bezazian. They must be treated as separate recording witnesses, not assumed to be the Tashjian/Damadian text.
+
+1. **Columbia E2296, matrix 39813-1** — Recording Pioneers' Columbia E-Series spreadsheet lists “Dalvorig,” author **H. Simanian**, performer **Torcom Bezazian, baritone**, orchestra accompaniment, Armenian language, recorded **2 February 1915, New York City**. The paired matrix 39812-1 is “Voh, Intch Anouche,” also credited to H. Simanian. The spreadsheet is a specialist secondary discography assembled from scattered surviving sources; seek the physical label, runout and contemporary catalogue to confirm issue and exact title/credit.
+2. **Victor 69189, matrix B18806-3** — 78opera's Torcom Bezazian discography lists a New York Victor session on **6 December 1916**: B18806-1 and -2 “Dalvorig (Sinanian)” unpublished; B18806-3 issued as **69189**. This independently establishes a later issued take according to that discography. No direct archival audio or primary label image located in this pass.
+
+The 1915 and 1916 entries both credit **Sinanian**, not Mihran Damadian. “H. Simanian” in the Columbia list and “Sinanian” in the Victor list may refer to the same person or a related transliteration/credit, but that identity is not established here. Do not silently merge this attribution with the 1924 *Ergaran* score's “M. Damadian” lyrics. It is possible that “Dalvorig” is a shared title used for distinct songs, or that the later records represent an alternate text/arrangement; only lyric comparison can decide.
+
+**Research implication:** the Bezazian Victor 69189 issue may offer a more tractable issued discographic object than the Tashjian items, but it still needs exact lyrics, composition-author identity/death evidence, a raw archival transfer and rights review. Keep it as a separate **LEAD / NOT CLEARED** until those checks are complete.
+
+Sources:
+- Recording Pioneers, *Columbia Records E Series, 1908–1923*, matrix 39813-1: https://www.recordingpioneers.com/docs/Columbia_E_Series.pdf
+- 78opera, Torcom Bézazian discography, Victor New York 1916-12-06, B18806 takes and issue 69189: https://78opera.com/files/ARTIST_Ba-Bi.pdf
+- Armenian Museum of America / Harout Arakelian, Tashjian discography: https://www.armenianmuseum.org/sound-archive/tashjian-story
