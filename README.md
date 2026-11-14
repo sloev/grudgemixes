@@ -65,6 +65,38 @@ Prioritize:
 
 Use collector databases, commercial catalogues, discographies and secondary scholarship as discovery and corroboration sources—not as substitutes for the exact archival audio object or primary metadata.
 
+### Global search mandate
+
+Global coverage is a core research requirement from the first pass. Do not build a European/North American shortlist and add the rest of the world later. Search by **recording market, language, label, performer, archive and region**, including local and regional recording industries as well as international companies' overseas catalogues.
+
+The project is interested in both:
+- **Commercially issued recordings** (78rpm discs, cylinders and other eligible early formats) made for local or export markets.
+- **Contemporary field / ethnographic recordings** that document local performance traditions. These may be valuable research leads, but do not assume they meet the commercial-release brief or that archive access permits commercial reuse.
+
+Initial global archive and discography routes (a starting map, not a closed list):
+
+| Region / market | Starting collections and routes | Search emphasis |
+|---|---|---|
+| South Asia | UCSB Benno Häupl Collection; Gramophone Company / HMV India catalogues; British Library; national archives | India, Pakistan, Sri Lanka, Bengali, Hindustani, Urdu, Punjabi, Tamil, Telugu, Marathi and other language catalogues; early commercial sessions from 1902 onward |
+| Middle East and North Africa | AMAR Foundation; UCSB Arabic/Maghrebi holdings; Berliner Phonogramm-Archiv; British Library; Phonobase | Cairo, Alexandria, Beirut, Damascus, Istanbul and regional labels; Arabic, Ottoman Turkish, Persian, Kurdish, Amazigh and local dialect repertoires |
+| East and Southeast Asia | Berliner Phonogramm-Archiv / Beka expedition records; UCSB Häupl collection; national libraries and sound archives | China, Japan, Korea, Burma/Myanmar, Siam/Thailand, Malaya, Java and Dutch East Indies; local-language catalogues and export series |
+| Latin America and Caribbean | Berliner Phonogramm-Archiv digitized holdings via Ibero-Amerikanisches Institut; UCSB Häupl and Mexican/Cuban cylinders; national sound archives | Argentina, Brazil, Chile, Mexico, Peru, Cuba, Caribbean islands and local/regional labels |
+| Sub-Saharan Africa and Indian Ocean | UCSB African 78rpm collection and Häupl collection; British Library; national sound archives | Local-language commercial series, African performers recorded in regional studios, Madagascar, Réunion and Indian Ocean routes |
+| Europe beyond the main Western catalogues | Gallica/BnF; Phonobase; Yale Berliner discs; UCSB Eastern European/Balkan holdings; national archives | Balkans, Greece, Albania, Armenia, Ukraine, Poland, Yiddish/cantorial recordings, regional labels and minority-language catalogues |
+| Indigenous and diasporic communities worldwide | National and university archives; Berlin/Vienna phonogram archives; community-controlled collections | Local names and self-identification, provenance, consent/ethics, historical context and restrictions on reuse |
+
+Useful global discovery gateways:
+- [UCSB Benno Häupl Collection](https://www.library.ucsb.edu/special-collections/performing-arts/benno-haupl-collection-pa-mss-122) — a major international commercial 78 collection, with holdings across South Asia, Turkey, Arabic/Maghreb, Africa, China, Greece, Armenia, Afghanistan and many other traditions.
+- [Berliner Phonogramm-Archiv digitization projects](https://www.smb.museum/en/museums-institutions/ethnologisches-museum/collection-research/research/digitisation-and-publication-of-sound-recordings-from-the-berliner-phonogramm-archiv/) — digitized historical recordings from Argentina, Brazil, Chile, Mexico and Peru; the wider archive holds cylinders recorded across many world regions.
+- [AMAR Foundation](https://www.amar-foundation.org/record-companies/) — commercial Arab-world 78rpm recording history and labels, especially the Nahḍa era.
+- [Vienna Phonogrammarchiv](https://www.phonogrammarchiv.at/) — historical recordings from 1899 onward, with worldwide linguistic and musical coverage; many are research/field recordings rather than commercial issues.
+- [CNRS / Musée de l'Homme sound archives (CREM)](https://archives.crem-cnrs.fr/) — commercial and field recordings from around the world, from 1900 onward.
+- [Phonobase](https://archeophone.org/html/languages/en/main_en/door_to_phonobase.html) — commercial discs and cylinders, mainly France and Europe, c.1888–1920, with audio fragments and discographic detail.
+- [Brussels Instrument Museum phonographic archive](https://www.mim.be/en/phonographic-archive-brussels-instrumental-museum-1899) — early cylinders from 1898–1900 documenting Provence, the Mashreq, China, India, Ottoman territories, Britain and North America.
+- [Harvard Early Sound Recording Research guide](https://guides.library.harvard.edu/c.php?g=1026781&p=7574724) — an excellent cross-archive directory including Gallica, Yale Berliner discs, UCSB cylinders, Belfer cylinders and the Great 78 Project.
+
+These routes are not a quota or a claim that every region has equally accessible digitized material. Record gaps, colonial collecting histories, uneven digitization and rights restrictions explicitly. Do not equate an archive's geographic label with the performer's identity, language, community or intended audience.
+
 ## Required candidate record
 
 Every substantial candidate should have a Markdown file under `candidates/` or a clearly labelled research lead under `research/`. Include:
@@ -128,7 +160,7 @@ As of **2026-11-14**, the repository contains:
 |---|---|---|
 | Enrico Caruso, “Vesti la giubba” (Victor 930, 1904) | **PARTIALLY VERIFIED** | Exact issue/publication and raw-transfer details; rights review |
 | “Papus Rache,” Carl Gutentag / *Bar Kochba* (Homocord 1118) | **LEAD** | Exact master, matrix, recording date/location and archival audio |
-| “Revenge! Timotheus Cries,” Handel / HMV D589 (1921), and Vocalion X-9560 (1924) | **LEAD** | Stronger discographical evidence now exists for HMV matrix Cc584-2, issue 02927; exact archival audio and rights remain unlocated/unassessed |
+| “Revenge! Timotheus Cries,” Handel / HMV D589 (1921), and Vocalion X-9560 (1924) | **LEAD** | HMV D589 / 02927 is documented, but performer and matrix take conflict across discographies; exact archival audio and rights remain unlocated/unassessed |
 | Robert Radford, “Hagen meditates revenge,” Wagner / HMV D704 (1922) | **LEAD** | Strong UCSB/Victor discographical metadata; exact archival audio and rights remain unlocated/unassessed |
 | Emilio de Gogorza and Louise Homer, “Vengeance at Last,” Saint-Saëns / Victor 87501 (1908) | **PARTIALLY VERIFIED** | Exact FAU archive item and strong matrix/session metadata; FAU public access is non-downloadable and not a commercial licence; transfer and rights review remain open |
 | Evelyn Scotney and Giacomo Rimini, “Sì, vendetta,” Verdi / Vocalion 60019 (ca. 1921) | **PARTIALLY VERIFIED** | FAU archive item and catalogue match; date is tentative, matrix/take and transfer details unresolved; rights review open |
@@ -141,7 +173,7 @@ See [`research/first-pass-screening.md`](research/first-pass-screening.md), the 
 
 1. Find exact archival transfers for the HMV Handel D589 and Wagner D704 recordings.
 2. Find exact archival transfers for Vocalion X-9560 and Goldfaden/Homocord 1118.
-3. Expand searches across non-English commercial catalogues and cylinder collections.
+3. Run parallel regional searches across South Asia, Middle East/North Africa, East and Southeast Asia, Latin America/Caribbean, Sub-Saharan Africa/Indian Ocean, Eastern Europe/Balkans and Indigenous/diasporic archives; include local labels and local-language search terms from the outset.
 4. Verify publication and fixation dates from primary catalogues, labels, ledgers or contemporary trade sources.
 5. Build a separate rights/clearance register for intended territories.
 6. Do not assign production IDs or sequence tracks until their evidence is strong enough.
