@@ -90,3 +90,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - The LOC National Jukebox data package documents NAVCC's 24-bit/96 kHz Broadcast Wave preservation masters made from shellac discs, with MP3 access derivatives. The online MP3 should not automatically be called a raw transfer. Need stable direct file URL, exact issue/publication date, and confirmation of transfer processing.
 - Rights status remains **PARTIALLY VERIFIED / NOT CLEARED**: the LOC data package states pre-1923 published recordings entered the US public domain in 2022, but this specific issue date and commercial use across all target territories require review.
 - Useful sources: LOC item record; LOC National Jukebox README and rights page; Ruggero Leoncavallo Foundation; English National Opera synopsis. Full citations and liner-note draft are in the candidate file.
+
+
+## 2026-11-14 — ChatGPT (Handel / Alexander's Feast lead)
+- Created `research/lead-handel-alexanders-feast-revenge-timotheus.md` (commit `de54e9443dbcf0c67cbd4c0ac16ae87382c8afcd`).
+- Located the 1925 UK Vocalion catalogue listing “Revenge! Timotheus Cries” from Handel's *Alexander's Feast*, sung by bass Malcolm McEachern with the Aeolian Orchestra, catalogue X-9560. A specialist sessionography groups matrix/session numbers 03724/03725 under a tentative London, October 1924 session; exact side/matrix/take details still need primary-source confirmation.
+- The aria's English text explicitly invokes revenge and vengeance; Newburgh Hamilton is identified as text author and Handel (1685–1759) as composer. Editorial classification: **Represented revenge / collective vengeance rhetoric**, not a documented historical event.
+- No exact archival audio object or direct raw transfer located in this pass. Master/performance/transfer and territorial rights remain unassessed. Status **LEAD / NOT CLEARED**; do not sequence as a verified recording.
+- Handoff: seek Vocalion ledger/pressing evidence, locate an archival shellac transfer, and perform UK/EU plus intended-market rights review.
