@@ -64,3 +64,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Read `sloev/grudgebook/README.md`, `foreword.md` and `coop.log`. Editorial approach follows the book's distinction between documented history, folklore and literary representation; its precise vocabulary; and its non-moralizing voice.
 - Initial task: establish candidate records from approved archives. No track is designated commercially cleared merely because its recording appears to predate 1926.
 - Handoff: contributors should append candidate IDs and evidence links here; Fable/editorial owner should review sequencing and any disputed taxonomy.
+
+
+## 2026-11-14 — ChatGPT (first archival screening)
+- Created `research/first-pass-screening.md` (commit `470b6a310ccfbf85e6455574170f7e69574bedac`).
+- Screened Gene Greene and Charley Straight's “Franky & Johnny” (Pathé 5370; reported London, December 1912) as a promising early murder-ballad recording.
+- **Rejected for the current composition gate:** the sheet music credits the Leighton Brothers and Ren Shields; Bert Leighton lived until 1964. The candidate also lacks an approved-repository raw audio file and matrix/take verification in this pass. Do not include it in a commercial master list.
+- Confirmed useful pathways: UCSB Cylinder Audio Archive, DAHR, National Jukebox, and LOC's traditional-ballad research guide. The latter's “Suncook Town Tragedy” and other field examples are later than the 1925 cutoff and are contextual leads only.
+- No five-to-eight-track batch is claimed as verified. The evidence gathered so far does not support that claim. Next step is catalog-level searching in non-English commercial cylinder/disc collections, followed by exact audio and rights checks.
