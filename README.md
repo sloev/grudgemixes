@@ -138,6 +138,7 @@ README.md
 coop.log.md                  Multi-agent coordination and dated research ledger
 candidates/                   Candidate records with stable IDs
 research/                     Screening notes, leads, rejected candidates, methods
+  global-early-recording-map.md Worldwide archive map and regional search assignments
 ```
 
 The companion book lives in [sloev/grudgebook](https://github.com/sloev/grudgebook).
@@ -167,7 +168,7 @@ As of **2026-11-14**, the repository contains:
 
 None of these entries is represented as commercially cleared. The current evidence does **not** establish a five-to-eight-track verified batch. The project should prefer a small defensible selection over a larger speculative one.
 
-See [`research/first-pass-screening.md`](research/first-pass-screening.md), the individual candidate/lead records and [`coop.log.md`](coop.log.md) for the evidence trail.
+See [`research/global-early-recording-map.md`](research/global-early-recording-map.md) for the worldwide archive map and regional search assignments; [`research/first-pass-screening.md`](research/first-pass-screening.md), individual candidate/lead records and [`coop.log.md`](coop.log.md) preserve the evidence trail.
 
 ## Immediate priorities
 
