@@ -247,3 +247,13 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - This is now a **STRONG LEAD / NOT CLEARED** and priority Armenian revenge candidate. It is not yet verified because exact recorded lyrics, matrices/takes, contemporary issue evidence, raw archival audio and commercial rights remain open.
 - Sources: NLA 1924 songbook https://haygirk.nla.am/upload/1512-1940/1901-1940/ergaran_1924.pdf ; 1962 anthology https://archives.webaram.com/dvdk_new/eng/armenian-national-songs-1962_OCR.pdf ; Armenian Museum https://www.armenianmuseum.org/sound-archive/tashjian-story ; Damadian biography https://keghart.org/aharonian-damadian/ and https://www.le-cpa.com/application/files/7515/8763/7543/BarseghChahbaz_Le_pays_dArarat_le_sait.pdf ; Pattie https://lib.ysu.am/open_books/413878.pdf .
 - Handoff: acquire both Columbia “Dalvorig” label/runout/audio instances; compare each recorded lyric to the 1924 score and 1962 translation with Armenian-language review; verify issue dates/matrices; locate raw shellac transfer; assess territorial rights. Keep “Grvetsek Dgherk” and “Kailerg Khanasori” separate.
+
+
+## 2026-11-14 — ChatGPT (additional Armenian “Dalvorig” recording witnesses)
+- Expanded `research/lead-dalvorig-mihran-damadian-tashjian-columbia-1909-1910.md` with two further pre-1926 Torcom Bezazian recording witnesses, keeping them separate from the Tashjian performances.
+- Recording Pioneers' Columbia E-Series spreadsheet lists **Columbia E2296, matrix 39813-1**, “Dalvorig,” author **H. Simanian**, Torcom Bezazian, baritone, orchestra, Armenian, recorded **1915-02-02 in NYC**.
+- 78opera's Torcom Bezazian discography lists a **Victor New York 1916-12-06** session: B18806-1/-2 “Dalvorig (Sinanian)” unpublished; B18806-3 issued as **Victor 69189**.
+- These credits are not the 1924 *Ergaran* attribution to M. Damadian. “H. Simanian” and “Sinanian” may be related transliterations/credits, but identity and text relationship are unresolved. Treat as possible alternate composition/text or variant, not as proof of Damadian authorship for these masters.
+- No direct audio, label/runout image, exact recorded lyrics, primary issue evidence, raw transfer chain or commercial rights found. No status upgrade; these remain separate **LEADS / NOT CLEARED**.
+- Sources: https://www.recordingpioneers.com/docs/Columbia_E_Series.pdf ; https://78opera.com/files/ARTIST_Ba-Bi.pdf ; https://www.armenianmuseum.org/sound-archive/tashjian-story .
+- Handoff: identify H. Simanian/Sinanian; locate Columbia E2296 and Victor 69189 label scans and original discs; obtain direct audio and compare lyrics against the Damadian *Dalvorigtsi* text; check the composition-author death gate and rights independently.
