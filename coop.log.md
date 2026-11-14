@@ -130,3 +130,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Composition gate: Saint-Saëns died 1921; BnF identifies Ferdinand Lemaire (1832–1879) as librettist. French libretto has Delilah's “A moi l'honneur de la vengeance”; contemporary ad says the disc is in English, so recorded words must be transcribed from audio.
 - Taxonomy: **Calculated revenge / conspiracy**, with betrayal as precipitating grievance; fictional operatic plot, not historical testimony.
 - Handoff: request original 87501 label/runout scan, FAU transfer details and commercial-use permission; seek an alternate rights-cleared transfer from another archive or a private original pressing.
+
+
+## 2026-11-14 — ChatGPT (Verdi / “Sì, vendetta” Vocalion ca. 1921)
+- Created `candidates/GM-IT-002-verdi-si-vendetta-vocalion-1921.md` (commit `666a9becc1f4f2923b0eac0fc36ca486bf72697d`) and added it to README inventory (commit `c8c83ab188583aa91889ba469f632e35db7d9719`).
+- Exact FAU RSA item located: https://rsa.fau.edu/album/54400. Catalogue 60019; 78 rpm, 10-inch; shelf 15716; item metadata names Aeolian Orchestra, Rosa Raisa, Giacomo Rimini, Evelyn Scotney; track 2 is “Rigoletto - Si vendetta (Yes, My Vengeance),” composer Verdi. FAU item leaves matrix/date blank.
+- Specialist 78opera Scotney discography lists Vocalion USA session 7176, “Rigoletto: Si vendetta (w. Rimini),” issue 30146/60019, date tentatively “1921-03?”. UCSB *American Celebrity Recordings* also lists the selection under Vocalion 1920–1924 and catalogue 60019. Treat March 1921 as tentative, not confirmed.
+- Taxonomy: **Calculated revenge / retaliatory justice**, a fictional operatic plot involving Gilda and Rigoletto; distinguish their motives and avoid presenting it as history.
+- Exact take/matrix, recorded language, transfer chain and commercial rights remain unverified. FAU archive access is a listening/discovery lead only, not a commercial source licence. Status **PARTIALLY VERIFIED / NOT CLEARED**.
+- Handoff: secure original Vocalion 60019/30146 label/runout image, identify matrix/take, verify session/date and language by listening, request FAU transfer provenance and commercial permissions, then assess territorial rights.
