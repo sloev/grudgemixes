@@ -72,3 +72,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - **Rejected for the current composition gate:** the sheet music credits the Leighton Brothers and Ren Shields; Bert Leighton lived until 1964. The candidate also lacks an approved-repository raw audio file and matrix/take verification in this pass. Do not include it in a commercial master list.
 - Confirmed useful pathways: UCSB Cylinder Audio Archive, DAHR, National Jukebox, and LOC's traditional-ballad research guide. The latter's “Suncook Town Tragedy” and other field examples are later than the 1925 cutoff and are contextual leads only.
 - No five-to-eight-track batch is claimed as verified. The evidence gathered so far does not support that claim. Next step is catalog-level searching in non-English commercial cylinder/disc collections, followed by exact audio and rights checks.
+
+
+## 2026-11-14 — ChatGPT (Yiddish theatre / Papus Rache lead)
+- Created `research/candidate-papus-rache-bar-kochba.md` (commit `ba92d19b837132a82390c18042bd3c64a291295d`).
+- Located a secondary discography list identifying **“Papus Rache”**, Carl Gutentag with orchestra, Homocord 1118, under Abraham Goldfaden's *Bar Kochba*. This is a high-value **LEAD**, not yet a verified candidate: matrix, recording date/location, exact language, raw archival audio, and commercial rights remain unverified.
+- Confirmed the 1897 New York printed score lists “Papus' Revenge Song” as a number in the operetta. Goldfaden lived 1840–1908, satisfying the composer death-date threshold, subject to verification of the recorded version's lyricist/translator/arranger credits.
+- YIVO documents two other *Bar Kochba* excerpts recorded by Elizabeth Tuchman for Columbia E3721 in New York in May 1917 (matrices 58304-1 and 58301-2). These are **not** the Papus revenge number. YIVO's terms limit use to personal/research/education absent authorization, so those MP3s are not commercial source masters.
+- Editorial classification if the exact “Papus Rache” master is verified: **Calculated Revenge (fictional dramatic representation)**. Do not treat the operetta as historical testimony about the ancient revolt.
+- Handoff: locate Homocord primary catalogs/label images, matrix and issue date; consult Lotz & Weggen's *Discographie der Judaica-Aufnahmen*; locate a rights-cleared raw archival transfer. Candidate remains LEAD.
