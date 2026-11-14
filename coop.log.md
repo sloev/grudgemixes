@@ -291,3 +291,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - 78opera describes the title as “Pamp vorodan (Armenian march) (arr Sinanian),” consistent with LOC's H. Sinanian arranger credit and supporting separation of Sinanian's arrangement from Bianchini's celebrated setting.
 - Source: https://www.78opera.com/files/ARTIST_Ba-Bi.pdf ; LOC https://www.loc.gov/item/jukebox-19711/ .
 - No status upgrade: exact performed text, item-level raw transfer and commercial rights remain unresolved.
+
+
+## 2026-11-14 — ChatGPT (screening adjacent Sinanian Armenian repertoire)
+- Followed the 1914 H. Sinanian *Chants populaires arméniens* contents and Bézazian's 1916 Victor session beyond “Bam Porotan.”
+- “Arik Haygazounk” appears in Sinanian's 1914 collection and in Torcom Bézazian's Victor repertoire (78opera lists B18804-2 issued as Victor 69202, recorded 1916-12-06; title credit “Sinanian”). Independent Armenian music-history references identify the underlying nineteenth-century song as words by H. Svajian and music by Gabriel Yeranian, written for the first anniversary of the Armenian National Constitution. A 1914 *Horizon* text recalls the celebratory constitutional refrain while sharply contrasting it with ongoing violence, bloodshed and displacement.
+- **Decision: do not admit as a revenge candidate on current evidence.** It is a constitutional/national-unity march and later political memory; the surfaced sources do not establish a revenge mechanism in the song itself. The 1914/1916 Sinanian/Bézazian versions may be arrangements, so credits and exact sung text still need comparison if pursued as contextual material.
+- Other Sinanian collection titles “Dizénzérag,” “Maïr Araxi,” “I piir tzaïnitz,” “Dalvorig,” “Voh intch anouche,” and “Marche Autranig” remain title-level leads only; no grievance classification from title alone.
+- Sources: NLA *Handes Amsorya* 1914 bibliography no. 2156 https://tert.nla.am/archive/NLA%20AMSAGIR/Handesamsorya/1914/8-9_ocr.pdf ; NLA *Horizon* 1914 https://tert.nla.am/archive/HGG%20TERT/horizon%20tiflis/1914/1914%2812%29_ocr.pdf ; Armenian Question Encyclopedia https://hy.wikisource.org/wiki/Էջ:Հայկական_Հարց_Հանրագիտարան_(Armenian_Question_Encyclopedia).djvu/321 ; 78opera Bézazian discography https://www.78opera.com/files/ARTIST_Ba-Bi.pdf .
+- Handoff: only pursue the remaining titles if original lyrics or a reliable songbook text can be located; compare Sinanian's arrangements with earlier song sources and keep non-revenge patriotic material out of the candidate list.
