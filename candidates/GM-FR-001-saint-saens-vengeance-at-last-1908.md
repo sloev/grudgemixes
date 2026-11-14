@@ -16,8 +16,9 @@ The scene is a fictional operatic conspiracy: Delilah and the High Priest plot t
 - A November 1908 *Talking Machine* trade advertisement lists Victor 87501, “Samson and Delilah—Vengeance at Last,” with Homer and de Gogorza, **in English**: https://www.worldradiohistory.com/Archive-Talking-Machine/00s/Talking-Machine-1908-11.pdf
 - Florida Atlantic University's Recorded Sound Archives has a digitized item page for this exact recording, catalogue 87501, Victrola label, 78 rpm, 10-inch, shelf 16661, performers Louise Homer and Emilio de Gogorza: https://rsa.fau.edu/album/57310
   - The page's date and matrix fields are blank, but the UCSB/HRS sources supply those details.
-  - The page has an embedded player. It says copyright-restricted items are limited to 45-second previews; this page does not identify the track as a restricted “Research Station” item in the visible metadata. Confirm actual access and archive terms before using.
-  - No direct audio-file URL or transfer notes are currently recorded here. Do not call the FAU stream an unedited raw transfer until the archive confirms the provenance and processing.
+  - The page has an embedded player. FAU's RSA copyright policy states that site recordings cannot be downloaded; copyrighted items are limited to 45-second public previews, with full listening available only through the Research Station for bona fide academic study. The item page's visible metadata does not show the Research Station marker, but the archive-wide no-download policy still applies.
+  - FAU's Digital Library policy says it does not authorize commercial use of digital items and requires written permission for distribution/reproduction beyond fair use. The archive stream is therefore a discovery/listening reference, not a commercially licensed source file.
+  - No direct audio-file URL or transfer notes are currently recorded here. Do not call the FAU stream an unedited raw transfer until the archive confirms provenance and processing.
 - The libretto text of the aria includes Delilah's “A moi l'honneur de la vengeance!” and the High Priest's “A toi l'honneur de la vengeance!”: https://www.operatoday.com/documents/Samson_et_Dalila.pdf
 - The Bibliothèque nationale de France identifies Camille Saint-Saëns as 1835–1921: https://catalogue.bnf.fr/ark:/12148/cb13899342r
 - The BnF identifies Ferdinand Lemaire as librettist of *Samson et Dalila*, 1832–1879: https://catalogue.bnf.fr/ark:/12148/cb413950842
@@ -42,7 +43,7 @@ The scene is a fictional operatic conspiracy: Delilah and the High Priest plot t
 | Archive item | FAU Recorded Sound Archives item 57310: https://rsa.fau.edu/album/57310 |
 | Direct audio file | Not yet captured/verified; embedded FAU player available on item page |
 | Raw-transfer status | Not established |
-| Rights | NOT CLEARED; assess sound-recording rights, transfer/digitization, FAU terms and territories |
+| Rights | NOT CLEARED; FAU public access is non-downloadable and not a commercial licence; assess sound-recording rights, transfer/digitization and intended territories |
 
 ## Taxonomy
 
@@ -57,7 +58,7 @@ In Saint-Saëns's *Samson et Dalila*, revenge is not a sudden response but a neg
 ## What must happen next
 
 1. Listen to the FAU item and transcribe the actual English text; confirm whether the full side is available or preview-limited.
-2. Request FAU's digitization/transfer provenance: source pressing, playback equipment/stylus, speed, equalization, filtering, restoration and file format.
+2. Request FAU's digitization/transfer provenance: source pressing, playback equipment/stylus, speed, equalization, filtering, restoration and file format. Ask whether a commercial-use permission or high-quality file licence is available; FAU's public policy currently limits access to listening and does not authorize commercial use.
 3. Locate a scan of the original Victor 87501 label and runout to verify catalogue, matrix and take.
 4. Confirm exact 1908 publication evidence from the trade advertisement and contemporary Victor catalogues.
 5. Review US pre-1923 sound-recording public-domain status and EU/UK/EEA phonogram rights separately; review FAU access terms and any restrictions on commercial reuse of the digitized file.
