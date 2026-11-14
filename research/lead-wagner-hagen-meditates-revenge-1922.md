@@ -4,7 +4,7 @@
 
 ## Why it matters
 
-This is a particularly strong thematic and discographical lead: an acoustic HMV recording of Robert Radford singing Hagen in Wagner’s *Götterdämmerung*, catalogued as **“Hagen meditates revenge.”** The University of California, Santa Barbara's American Discography Project edition of John R. Bolig's *Victor Discography* identifies the singer, orchestra, conductor, matrix, recording date, HMV issue number and later Victor catalogue equivalents.
+This is a particularly strong thematic and discographical lead: an acoustic HMV recording of Robert Radford singing Hagen in Wagner’s *Götterdämmerung*, catalogued as **“Hagen meditates revenge.”** The University of California, Santa Barbara's American Discography Project edition of John R. Bolig's *Victor Discography* identifies the singer, orchestra, conductor, matrix, recording date, HMV issue number and later Victor catalogue equivalents. Alan Kelly's Gramophone Company matrix catalogue independently identifies the same matrix/issue as “Hagen's Watch, A1,” which may be a more precise contemporary title than the later English-language discographical description “Hagen meditates revenge.”
 
 The entry is **HMV D704**, side **3-0857**, matrix **Cc1586-1**, recorded at Hayes, Room 1, on **29 June 1922**; issued in the HMV catalogue on **6 February 1924**. Robert Radford is listed as bass, with the Symphony Orchestra conducted by Percy Pitt.
 
@@ -13,6 +13,7 @@ The entry is **HMV D704**, side **3-0857**, matrix **Cc1586-1**, recorded at Hay
 - UCSB / American Discography Project, John R. Bolig, *The Victor Discography: Green, Blue, and Purple Labels* (2023 e-book edition), entry 55213: https://adp-assets.library.ucsb.edu/BoligGreenBluePurple.pdf
   - This edition states that Bolig's discographies were compiled through examination of original Victor company documents in the Sony archives (preface, lines/pages in the front matter).
   - The entry identifies “Götterdämmerung, Die (Wagner): Hagen meditates revenge”; Robert Radford, bass; Symphony Orchestra, Percy Pitt, director; matrix Cc1586-1; recording date 29-Jun-22; publication/issue date 6-Feb-24; Hayes - Room 1; HMV 3-0857; D704; W572.
+- Alan Kelly's *Gramophone Company Limited / His Master's Voice Matrix Series prefixed Bb/Cc* catalogue groups Cc1586 under **ROBERT RADFORD bass (o PERCY PITT)** and lists “Die Götterdämmerung: Hagen's Watch, A1 (Wagner),” matrix Cc1586-1, recorded 29-6-22, issued 3-0857 D704 W572 (set 4): https://www.gramophonecompanydiscography.com/PDF/File%20D%20-%20BB.pdf
 - Robert Radford discography independently lists “Die Götterdämmerung: Hagen meditates revenge (Wagner),” matrix Cc1586-1, 29 June 1922, issue 3-0857 D704 W572: https://www.musicweb-international.com/hooey/radford-discog.htm
 - A specialist account of the acoustic “English Ring” recordings describes this HMV excerpt as Hagen sung by Robert Radford, with the Symphony Orchestra conducted by Percy Pitt, recorded 29 June 1922: https://www.audioplanet.biz/t55602-wagner-el-anillo-en-disco-ano-uno
 - The UCSB source is a discographical publication, not the archive audio itself. No direct audio object or unedited transfer has yet been found.
@@ -22,7 +23,7 @@ The entry is **HMV D704**, side **3-0857**, matrix **Cc1586-1**, recorded at Hay
 | Field | Current evidence |
 |---|---|
 | Performer | Robert Radford, bass |
-| Title as catalogued | “Hagen meditates revenge” |
+| Title | “Hagen meditates revenge” in Bolig/Radford discographies; “Hagen's Watch, A1” in Alan Kelly's matrix catalogue |
 | Work | *Götterdämmerung* (The Twilight of the Gods), from Wagner’s *Der Ring des Nibelungen* |
 | Language | Probably English (part of the “English Ring” HMV series); confirm by listening to the actual disc |
 | Genre | Operatic scene / bass solo with orchestra |
