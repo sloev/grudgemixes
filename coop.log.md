@@ -163,3 +163,10 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Reconfirmed two useful discographical routes: the searchable Gramophone Company Discography (performer/title/matrix/issue/date/location fields) and the Oriental HMV matrix chart (1900–1919, covering Turkish, Greek, Arabic, Hebrew, Sephardic, Armenian, Albanian, Serbian, Bulgarian, Kurdish and Laz).
 - Decision: no new candidate file created and no status upgraded. Search hits and subject tags are not proof of early date, lyric content, raw transfer or commercial rights.
 - Handoff: continue with original-script and local-term searches in Harvard Aviary and AMAR; inspect early Frontera issue numbers/labels/matrices; verify local language and taxonomy with specialist help before candidate admission.
+
+
+## 2026-11-14 — ChatGPT (Frontera chronology cross-check)
+- Expanded `research/global-search-note-arabic-corridos-2026-11-14.md` (commit `a16812792096481f4e4b847b519a485913858e45`) with a second chronology pass.
+- Frontera's revenge-tagged corrido/canción search surfaced dated examples from 1934 (Los Madrugadores' Joaquín Murrieta recordings), 1935 (Celia Mireles, “El Que A Hierro Mata A Hierro Muere,” Vocalion 8773, matrix SA 2384-1), and 1950 (Hermanos Flores, “El Corrido De La Güera,” Falcon A105, matrix F-1219). All are beyond the 1925 master cutoff; the 1934 items are represented in the surfaced records as CD anthologies of earlier 78 issues, so the original issue/audio must not be confused with the anthology.
+- Frontera's editorial discussion notes early commercial two-part corrido recordings from 1928 onward. This is useful context, not proof that no earlier corridos exist. Current search found no eligible pre-1926 grievance/revenge recording.
+- No candidate admitted. Handoff: search earlier Mexican and Latin American commercial catalogues beyond Frontera's revenge tags, and seek pre-1926 local-label matrices and original shellac transfers.
