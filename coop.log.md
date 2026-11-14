@@ -81,3 +81,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - YIVO documents two other *Bar Kochba* excerpts recorded by Elizabeth Tuchman for Columbia E3721 in New York in May 1917 (matrices 58304-1 and 58301-2). These are **not** the Papus revenge number. YIVO's terms limit use to personal/research/education absent authorization, so those MP3s are not commercial source masters.
 - Editorial classification if the exact “Papus Rache” master is verified: **Calculated Revenge (fictional dramatic representation)**. Do not treat the operetta as historical testimony about the ancient revolt.
 - Handoff: locate Homocord primary catalogs/label images, matrix and issue date; consult Lotz & Weggen's *Discographie der Judaica-Aufnahmen*; locate a rights-cleared raw archival transfer. Candidate remains LEAD.
+
+
+## 2026-11-14 — ChatGPT (Italian opera / Caruso candidate)
+- Created `candidates/GM-IT-001-caruso-vesti-la-giubba-1904.md` (commit `09574dc67ed8475e3eb9d301721ea9bffb43c265`).
+- Located a strong Library of Congress National Jukebox record: Enrico Caruso, **“Vesti la giubba”**, Victor 930, matrix B-1002, take 1, recorded New York on 1904-02-01; Italian; tenor with piano. LOC item: https://www.loc.gov/item/jukebox-119158/
+- Ruggero Leoncavallo (1857–1919) wrote the opera and libretto; his death satisfies the composition cutoff. The aria is classified as **Betrayal / Lament**, not revenge: Canio sings after learning of Nedda's infidelity, before the later killings.
+- The LOC National Jukebox data package documents NAVCC's 24-bit/96 kHz Broadcast Wave preservation masters made from shellac discs, with MP3 access derivatives. The online MP3 should not automatically be called a raw transfer. Need stable direct file URL, exact issue/publication date, and confirmation of transfer processing.
+- Rights status remains **PARTIALLY VERIFIED / NOT CLEARED**: the LOC data package states pre-1923 published recordings entered the US public domain in 2022, but this specific issue date and commercial use across all target territories require review.
+- Useful sources: LOC item record; LOC National Jukebox README and rights page; Ruggero Leoncavallo Foundation; English National Opera synopsis. Full citations and liner-note draft are in the candidate file.
