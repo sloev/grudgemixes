@@ -4,35 +4,52 @@
 
 ## Why it matters
 
-The 1925 UK Vocalion catalogue lists “Revenge! Timotheus Cries” from Handel’s *Alexander’s Feast*, performed by bass Malcolm McEachern with the Aeolian Orchestra, catalog number **X-9560**, 10-inch. This is a direct thematic fit: the text explicitly stages revenge and vengeance. It is a literary/classical representation, not evidence of an actual grievance or a contemporary act of revenge.
+The aria is a direct thematic fit: its text explicitly stages revenge and vengeance. It is a literary/classical representation, not evidence of an actual grievance or a contemporary act of revenge.
+
+Two early commercial recording paths have now surfaced:
+
+1. **HMV / Gramophone Company, London, 24 October 1921** — Robert Radford discography identifies the performance as “Alexander’s Feast: Revenge, Timotheus cries,” matrix **Cc584-2**, issued as **HMV D589**, catalogue/side number **02927**. This is currently the stronger early issue lead.
+2. **Vocalion X-9560** — the 1925 UK catalogue lists bass Malcolm McEachern with the Aeolian Orchestra, 10-inch. A specialist session listing tentatively places the recording in London in October 1924, matrices/session numbers 03724/03725.
+
+Neither exact master has yet been located as an archival audio object.
 
 ## Evidence located
 
-- The 1925 Vocalion catalogue entry gives the title, work, performer, accompaniment and catalogue number: https://78rpm.club/wp-content/uploads/2015/10/Vocalion-Records-Catalogue-1925-UK.pdf
-- A specialist Vocalion matrix/session listing places recording numbers **03724** and **03725** in a “Vocalion, London 1924-10?” session grouping; it associates *Alexander’s Feast* “Revenge Timotheus cries, pt 1 & 3” with X-9560 and a second aria side “Behold a ghastly band” with an unpublished X-9560 variant: https://www.78opera.com/files/ARTIST_M.pdf
-- A secondary McEachern discography corroborates the X-9560 issue and session numbers 03724/03725: https://classicmusiccds.com/product/australian-bass-malcolm-mceachern-1883-1945-vol-1-cdr/
-- The 1925 catalogue's contents establish that the work was commercially listed by that year. The session listing tentatively places the recording in London in October 1924. Both should be checked against primary Vocalion ledgers/pressing evidence.
-- The aria text begins “Revenge, revenge, Timotheus cries” and describes the Furies and the unburied Greek dead: https://www.vmii.org/hwv-75-alexander-s-feast/21-revenge-timotheus-cries
-- The text author is Newburgh Hamilton; Handel (1685–1759) composed the work. Both died well before the cutoff: https://www.vmii.org/hwv-75-alexander-s-feast/21-revenge-timotheus-cries
+### HMV 1921 — preferred search target
+
+- The *Robert Radford Discography* lists item 302, “Alexander’s Feast: Revenge, Timotheus cries (Handel),” with **Cc584-2, 24 Oct 21, 02927 D589**. The work appears within Radford's discography; this supports Robert Radford as the singer, but a primary label/catalogue image should still be sought: https://www.musicweb-international.com/hooey/radford-discog.htm
+- The earlier *78opera* sessionography gives the same session date and matrix, but its line includes a question-marked first matrix Cc584-1 as unpublished. The issued take is **Cc584-2**, not Cc584-1: https://www.78opera.com/files/ARTIST_R.pdf
+- The Radford discography's matrix-to-issue entry is stronger than the abbreviated 78opera entry for identifying the issued side. Do not treat the first take as the commercial issue.
+
+### Vocalion 1924/1925 — alternate recording
+
+- The 1925 Vocalion catalogue entry gives the title, work, performer, accompaniment and catalogue number X-9560: https://78rpm.club/wp-content/uploads/2015/10/Vocalion-Records-Catalogue-1925-UK.pdf
+- A specialist Vocalion matrix/session listing places recording numbers **03724** and **03725** in a “Vocalion, London 1924-10?” session grouping: https://www.78opera.com/files/ARTIST_M.pdf
+- A secondary McEachern discography corroborates X-9560 and session numbers 03724/03725: https://classicmusiccds.com/product/australian-bass-malcolm-mceachern-1883-1945-vol-1-cdr/
+
+### Composition and text
+
+- The aria text begins “Revenge, revenge, Timotheus cries” and describes the Furies and the unburied Greek dead: https://www.vmii.org/hwv-75-alexanders-feast/21-revenge-timotheus-cries
+- Newburgh Hamilton wrote the text; Handel (1685–1759) composed the work. Both died well before the composition cutoff: https://www.vmii.org/hwv-75-alexanders-feast/21-revenge-timotheus-cries
 
 ## Provisional metadata
 
-| Field | Current evidence |
-|---|---|
-| Performer | Malcolm McEachern, bass |
-| Title | “Revenge! Timotheus Cries” |
-| Work | *Alexander’s Feast*, Part II |
-| Language | English |
-| Genre | Oratorio aria |
-| Recording date | Probably October 1924; specialist sessionography uses a question mark |
-| Recording location | Probably London; same provisional sessionography |
-| Label | Vocalion |
-| Catalogue | X-9560 |
-| Matrix/session | 03724 / 03725 are associated with the two-part session; exact side-to-matrix allocation and take numbers not established |
-| Accompaniment | Aeolian Orchestra, per 1925 catalogue |
-| Direct archival audio | Not located |
-| Raw-transfer status | Not established |
-| Rights | NOT CLEARED; master, performance, transfer and territory status unassessed |
+| Field | HMV 1921 | Vocalion 1924/25 |
+|---|---|---|
+| Performer | Robert Radford (supported by discography context; confirm on label) | Malcolm McEachern, bass |
+| Title | “Revenge, Timotheus cries” | “Revenge! Timotheus Cries” |
+| Work | *Alexander’s Feast*, Part II | *Alexander’s Feast*, Part II |
+| Language | English | English |
+| Genre | Oratorio aria | Oratorio aria |
+| Recording date | 1921-10-24 | Probably October 1924; tentative sessionography |
+| Recording location | London | Probably London |
+| Label | HMV / Gramophone Company | Vocalion |
+| Catalogue / issue | D589 / 02927 | X-9560 |
+| Matrix | Cc584-2 (issued); Cc584-1 reportedly unpublished | 03724 / 03725 associated with the two-part session; exact allocation not established |
+| Accompaniment | Orchestra; George Byng is identified as conductor for this group of sessions | Aeolian Orchestra, per 1925 catalogue |
+| Direct archival audio | Not located | Not located |
+| Raw-transfer status | Not established | Not established |
+| Rights | NOT CLEARED; all layers and territories unassessed | NOT CLEARED; all layers and territories unassessed |
 
 ## Taxonomy
 
@@ -40,12 +57,13 @@ The 1925 UK Vocalion catalogue lists “Revenge! Timotheus Cries” from Handel�
 
 ## What must happen next
 
-1. Locate an original Vocalion X-9560 pressing or primary company ledger to verify the exact issue date, recording date, matrix, take and side sequence.
-2. Search the British Library Sound Archive, Internet Archive, Great 78 Project, Discogs collector uploads only as discovery leads, and other national sound archives for the exact X-9560 audio.
-3. Verify whether the accessible file is a direct, unedited transfer of the original shellac disc; document any restoration, equalization, speed correction or derivative processing.
-4. Review UK/EU and other intended-market master, performer, composition, and transfer rights. Do not infer commercial clearance from the old composition alone.
-5. Only then draft final liner notes and consider assigning a production candidate ID.
+1. Locate an original HMV D589 / 02927 pressing or Gramophone Company ledger; photograph both label sides and verify singer, conductor, matrix and take.
+2. Search British Library Sound Archive, Internet Archive, Great 78 Project, specialist HMV discographies and national sound archives for exact matrix Cc584-2 / issue D589.
+3. Search the same archives for Vocalion X-9560 as a separate alternative.
+4. Verify whether any accessible file is a direct, unedited transfer of the original shellac disc; document restoration, equalization, speed correction, filtering, edits and derivative formats.
+5. Review UK/EU and other intended-market master, performer, composition and transfer rights. Do not infer commercial clearance from the old composition alone.
+6. Only then draft final liner notes and consider assigning a production candidate ID.
 
 ## Decision
 
-Keep in the research queue as a high-value **LEAD**. It is not yet eligible for a production mix because the archival audio and rights gates are unproven.
+Keep both recordings in the research queue as **LEADS**, with the 1921 HMV Cc584-2 / D589 issue as the first search target. Neither is eligible for a production mix yet because the exact archival audio and rights gates remain unproven.
