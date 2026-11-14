@@ -14,6 +14,14 @@
 ## High-value global gateways and what they contain
 
 ### South Asia
+
+- **Early Gramophone Company India sessions:** the 1902–03 Far Eastern expedition recorded 554 masters in Calcutta in November 1902, then continued through Tokyo, Shanghai, Hong Kong, Singapore, Bangkok and Rangoon. Keep recording/fixation date distinct from issue date: masters were shipped to Hannover for pressing and finished records returned to Asian markets months later.
+- **Kinnear's Indian discographies:** *The Gramophone Company's First Indian Recordings, 1899–1908* (1994) and *The Gramophone Company's Indian Recordings, 1908 to 1910* (2000; matrix-serial numerical catalogue) are key specialist references for early Indian sessions and matrix verification.
+- **UCSB Ethnic and Vernacular Music guide:** useful chronology and bibliography for India and related regional repertoires.
+- **Archive of Indian Music:** modern preservation/listening route for early commercial recordings, theatre and multilingual material; verify source-disc provenance, transfer chain and reuse terms before treating any restoration as eligible audio.
+- **Young India / EAP190:** useful archive of catalogues and digitised recordings, but the label operated 1935–1955 and is therefore outside the current pre-1926 cutoff.
+- Search local labels and regional repertoires, not only Gramophone/HMV; use original scripts and specialist language review. Do not infer a recording's place, language or issue date from the expedition itinerary alone.
+
 - **UCSB Benno Häupl Collection:** 1,200 78s from India, Pakistan and Ceylon/Sri Lanka among its international commercial holdings; further material from Afghanistan/Pashtun and other regions.
 - **Gramophone Company Discography / EMI Archive Trust:** searchable company-wide database of over 430,000 recordings, including global catalogues and recording sessions from 1898 onward. Search language, performer, title, matrix, issue, date and location, not only artist name.
 - **Early Indian commercial recording history:** the Gramophone era in India begins in 1902; research literature documents the early recording campaigns and later local-label catalogues. Use local-language title searches and specialist discographies.
