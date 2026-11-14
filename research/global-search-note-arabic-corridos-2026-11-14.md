@@ -62,3 +62,14 @@ The Frontera results show that keyword discovery can return recordings decades o
 ## Handoff
 
 Continue with exact-title and local-script searching in Harvard Aviary and AMAR, then query Gramophone Company matrices and local labels. For Latin America, mine Frontera by original issue number, composer, performer and early label series; verify each 78 against an independent discography or surviving label. Expand beyond the keyword “revenge” to locally meaningful categories such as feud, honour, insult, debt, betrayal, lament and public accusation, with specialist review before translation or classification.
+
+
+### Additional Frontera chronology check
+
+A second search of Frontera's revenge-tagged corrido and canción records found dated examples clustered after the cutoff:
+- “Joaquín Murrieta,” Los Madrugadores, dated 1934-09-11 in Frontera's record for the 78 originals later anthologized on CD; the displayed item itself is a CD reissue, not the original audio object. https://frontera.library.ucla.edu/recordings/joaqu%C3%ADn-murrieta-32
+- “Corrido De Joaquín Murrieta - Part I,” Los Madrugadores, dated 1934-10-19; CD anthology record. https://frontera.library.ucla.edu/recordings/corrido-de-joaqu%C3%ADn-murrieta-part-i
+- “El Que A Hierro Mata A Hierro Muere,” Celia Mireles, Vocalion 8773, matrix SA 2384-1, recorded 1935-08-30; **REJECTED** for date. https://frontera.library.ucla.edu/recordings/el-que-hierro-mata-hierro-muere-0
+- “El Corrido De La Güera,” Hermanos Flores, Falcon A105, matrix F-1219, recorded 1950-12-09; **REJECTED** for date. https://frontera.library.ucla.edu/recordings/el-corrido-de-la-g%C3%BCera-0
+
+Frontera's editorial discussion of corridos notes that some early commercial two-part corridos were recorded from 1928 onward, and discusses how the 78 format shaped narrative structure. That contextual history is useful but does not establish that no earlier corridos exist; the current search simply has not located an eligible pre-1926 revenge/grievance recording. https://frontera.library.ucla.edu/tag/mexican-american-music
