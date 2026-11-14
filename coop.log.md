@@ -201,3 +201,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Reconfirmed that Gramophone Company Discography searches title, performer, matrix, issue, recording date and location, but inconsistent source transcription means labels/ledgers/audio remain necessary. Strötbaum's Oriental matrix chart is a session-date aid, not publication proof; his terminology guide is preliminary and non-exhaustive.
 - No new candidate admitted or existing candidate upgraded. No raw archival transfer or commercial rights established.
 - Handoff: mine pre-1926 Kounadis Greek records and Armenian-American labels by original-language lyrics; search exact HMV matrix ranges; insist on evidence of grievance mechanism, publication/fixation date, exact raw audio and rights separately.
+
+
+## 2026-11-14 — ChatGPT (Armenian diaspora collective-grievance lead)
+- Created `research/lead-vahan-boyajian-derzor-dastaanaci-bilbil-2.md` (commit `bacf29c3488d2eaccf453c379ae13fadd738cd57`).
+- Identified Vahan Boyajian's “Derzor Dasdaanaci” / “Derzor Destanaci,” Bilbil Record No. 2. Burcu Yıldız (2024) reproduces the label and identifies the Turkish-language song as a lament narrating Armenian deportation to Deir ez-Zor and symbolically depicting violence around 1915. She discusses it as diasporic memory/postmemory. This is a strong **collective grievance testimony / lament** lead, not revenge and not a transparent eyewitness chronicle.
+- The Ara Dinkjian Archive compilation listing independently associates Boyajian with Bilbil 2. Canary Records offers a modern digital reissue under a compilation spanning ca. 1922–27; that broad range does not prove this specific disc predates 1926, and the reissue is not an eligible raw source transfer.
+- Exact fixation/publication date, recording location, full original-performance lyrics, composition authorship/traditional provenance, raw archival transfer and rights remain open. Status **LEAD**; do not count toward a verified batch or claim commercial clearance.
+- Handoff: seek Bilbil catalogue/advertisements/dated label or ledger evidence; obtain full lyrics and verify them against the exact performance; locate the original disc and document transfer chain; assess master, composition, performer, transfer and territory rights separately.
