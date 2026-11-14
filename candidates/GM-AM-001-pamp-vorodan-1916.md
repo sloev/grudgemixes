@@ -91,3 +91,28 @@ Sources:
 - LOC, “Making the National Jukebox”: https://www.loc.gov/collections/national-jukebox/articles-and-essays/making-the-jukebox/
 - LOC, “Copies of Audio Recordings” (copies supplied only after rights restrictions are cleared): https://www.loc.gov/programs/audio-visual-conservation/using-the-collections/copies-of-audio-recordings/
 - LOC National Jukebox rights and access: https://www.loc.gov/collections/national-jukebox/about-this-collection/rights-and-access/
+
+
+## Title correction and Sinanian setting / arrangement evidence (new pass)
+
+### Correct Armenian title
+
+Haig Utidjian's Armenian Institute study (2021) corrects the title to **Բա՜մ. փորոտան** (*Bam Porotan*), approximately **“Boom! They roar.”** The verb փորոտալ means “to roar, to blow,” with a deep/mighty sound. Utidjian notes that the title was repeatedly mis-transcribed as Բամբ որոտան and that Shah-Mouradian's 1914 recording audibly appears to sing “Pamp vorodan.” Thus:
+- Preserve **“Pamp vorodan”** as the LOC catalogue title for Victor 69102.
+- Index the work under the corrected Armenian title **Բա՜մ. փորոտան / Bam Porotan**.
+- Record “Pamp Vorodan,” “Pamp Porodan,” “Bamb Vorotan” and related spellings as historical/catalogue variants, not as the preferred normalized title.
+- The corrected title itself is not a revenge claim; the revenge classification comes from Alishan's full poem title and narrative frame.
+
+### H. Sinanian: setting, harmonisation and arrangement
+
+The 1909 *Bazmavep* volume reproduces contemporary press notices (one attributed to *Stamboul*, apparently dated 21 February 1908, and another to *La Turquie*) reporting that Maestro H. Sinanian had put the Armenian song “Pamp Vorodan” to music, and that the score was for sale at music shops in Pera, Constantinople. This is evidence that a Sinanian musical setting/edition circulated by 1908–09. The 1914 *Handes Amsorya* bibliography lists H. Sinanian's *Հայկական երգեր / Chants populaires arméniens*, including No. 5 “Pamp Vorodan” and No. 6 “Dalvorig,” described as harmonised and arranged for piano and voice or violin ad libitum. The LOC Victor 1916 item credits H. Sinanian specifically as **arranger**.
+
+This evidence needs to be reconciled with Utidjian's identification of Pietro Bianchini (1828–1905) as composer of the celebrated setting of Alishan's poem. A cautious interpretation is that Sinanian prepared a distinct harmonisation/arrangement or a local setting/edition of the song; the available sources do not yet establish whether his 1908 score is an independent composition, a re-harmonisation of Bianchini's melody, or a variant musical setting. Do not collapse “composer,” “harmoniser,” “arranger” and “publisher/editor” into one credit. For this Victor recording, retain the LOC credit “H. Sinanian — arranger”; separately note Bianchini's celebrated setting and the open question of the precise musical version used on the 1916 take.
+
+The 1909 press notices are reproduced in *Bazmavep* (1909), pp. 135–136, in a section quoting Constantinople press notices. Their date/issue context should be checked against the original *Stamboul* and *La Turquie* issues if publication chronology becomes material. The notice's “for sale in music shops at Pera” supports circulation of a printed musical setting by the period, but does not prove the Victor 69102 issue date.
+
+Sources:
+- Haig Utidjian, Armenian Institute, “Word Stories — բամ and փորոտալ” (2021): https://www.armenianinstitute.org.uk/viewstext/word-stories-pam-porodan
+- National Library of Armenia, *Bazmavep* (1909), pp. 135–136, press notices on H. Sinanian's “Pamp Vorodan” setting: https://tert.nla.am/archive/NLA%20AMSAGIR/Bazmavep/1909%283%29_ocr.pdf
+- National Library of Armenia, *Handes Amsorya* (1914), bibliography no. 2156, H. Sinanian, *Chants populaires arméniens*, nos. 5 “Pamp Vorodan” and 6 “Dalvorig,” arranged for piano and voice/violin: https://tert.nla.am/archive/NLA%20AMSAGIR/Handesamsorya/1914/8-9_ocr.pdf
+- LOC item, catalogue title and arranger credit: https://www.loc.gov/item/jukebox-19711/
