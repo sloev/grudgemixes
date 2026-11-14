@@ -131,6 +131,7 @@ As of **2026-11-14**, the repository contains:
 | “Revenge! Timotheus Cries,” Handel / HMV D589 (1921), and Vocalion X-9560 (1924) | **LEAD** | Stronger discographical evidence now exists for HMV matrix Cc584-2, issue 02927; exact archival audio and rights remain unlocated/unassessed |
 | Robert Radford, “Hagen meditates revenge,” Wagner / HMV D704 (1922) | **LEAD** | Strong UCSB/Victor discographical metadata; exact archival audio and rights remain unlocated/unassessed |
 | Emilio de Gogorza and Louise Homer, “Vengeance at Last,” Saint-Saëns / Victor 87501 (1908) | **PARTIALLY VERIFIED** | Exact FAU archive item and strong matrix/session metadata; FAU public access is non-downloadable and not a commercial licence; transfer and rights review remain open |
+| Evelyn Scotney and Giacomo Rimini, “Sì, vendetta,” Verdi / Vocalion 60019 (ca. 1921) | **PARTIALLY VERIFIED** | FAU archive item and catalogue match; date is tentative, matrix/take and transfer details unresolved; rights review open |
 
 None of these entries is represented as commercially cleared. The current evidence does **not** establish a five-to-eight-track verified batch. The project should prefer a small defensible selection over a larger speculative one.
 
