@@ -73,3 +73,21 @@ In this Armenian-language march, the word “revenge” is not an interpretive g
 4. Identify H. Sinanian on the 1916 Victor label and reconcile with H. Simanian in the 1915 Columbia discography; do not conflate the arranger with Bianchini, the composer of the celebrated setting.
 5. Consult an Armenian-language specialist for exact lyrics and idiomatic translation.
 6. Assess rights for master, performance, transfer, composition and target territories. Keep **NOT CLEARED** until reviewed.
+
+
+## LOC transfer-chain clarification (collection-level, not item-specific)
+
+The LOC National Jukebox Data Package documentation now clarifies the general transfer workflow for the Jukebox's Recorded Sound Section material:
+- Original format is mostly 78rpm shellac discs.
+- Engineers select an optimal stylus for each disc; the initial mono-disc transfer is captured in two channels (both groove walls), then summed to mono in the digital audio workstation.
+- Preservation masters are created as 24-bit / 96 kHz Broadcast Wave files.
+- Access copies are made from the mono master; the data-package README says the downloadable files are 44.1 kHz MP3s. LOC's public “Making the National Jukebox” page describes an access BWF at 16-bit / 44.1 kHz as an intermediate, with 320/128 kbps MP3s generated for streaming.
+- LOC notes that discs are cleaned and otherwise prepared before digitization; in cases with multiple copies, the best-condition disc is selected.
+
+This materially improves the provenance picture: the Jukebox MP3 is a derivative from a preservation workflow, not an undocumented modern reissue. It does **not** establish that the accessible MP3 is an unedited/raw transfer, nor does the collection-level description prove every step applied identically to this specific Victor side. The 24/96 preservation master may be the appropriate source to request for evaluation, subject to LOC access and rights procedures. Ask the Recorded Sound Research Center for the item-specific transfer notes and master availability.
+
+Sources:
+- LOC National Jukebox Data Package README (v1.1, 2024-04-17): https://data.labs.loc.gov/jukebox/README.html
+- LOC, “Making the National Jukebox”: https://www.loc.gov/collections/national-jukebox/articles-and-essays/making-the-jukebox/
+- LOC, “Copies of Audio Recordings” (copies supplied only after rights restrictions are cleared): https://www.loc.gov/programs/audio-visual-conservation/using-the-collections/copies-of-audio-recordings/
+- LOC National Jukebox rights and access: https://www.loc.gov/collections/national-jukebox/about-this-collection/rights-and-access/
