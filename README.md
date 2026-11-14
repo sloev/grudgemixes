@@ -128,7 +128,8 @@ As of **2026-11-14**, the repository contains:
 |---|---|---|
 | Enrico Caruso, “Vesti la giubba” (Victor 930, 1904) | **PARTIALLY VERIFIED** | Exact issue/publication and raw-transfer details; rights review |
 | “Papus Rache,” Carl Gutentag / *Bar Kochba* (Homocord 1118) | **LEAD** | Exact master, matrix, recording date/location and archival audio |
-| Malcolm McEachern, “Revenge! Timotheus Cries” (Vocalion X-9560) | **LEAD** | Exact matrix/side and archival audio; rights unassessed |
+| “Revenge! Timotheus Cries,” Handel / HMV D589 (1921), and Vocalion X-9560 (1924) | **LEAD** | Stronger discographical evidence now exists for HMV matrix Cc584-2, issue 02927; exact archival audio and rights remain unlocated/unassessed |
+| Robert Radford, “Hagen meditates revenge,” Wagner / HMV D704 (1922) | **LEAD** | Strong UCSB/Victor discographical metadata; exact archival audio and rights remain unlocated/unassessed |
 
 None of these entries is represented as commercially cleared. The current evidence does **not** establish a five-to-eight-track verified batch. The project should prefer a small defensible selection over a larger speculative one.
 
@@ -136,8 +137,9 @@ See [`research/first-pass-screening.md`](research/first-pass-screening.md), the 
 
 ## Immediate priorities
 
-1. Find exact archival transfers for the strongest leads, especially the Handel/Vocalion and Goldfaden/Homocord recordings.
-2. Expand searches across non-English commercial catalogues and cylinder collections.
-3. Verify publication and fixation dates from primary catalogues, labels, ledgers or contemporary trade sources.
-4. Build a separate rights/clearance register for intended territories.
-5. Do not assign production IDs or sequence tracks until their evidence is strong enough.
+1. Find exact archival transfers for the HMV Handel D589 and Wagner D704 recordings.
+2. Find exact archival transfers for Vocalion X-9560 and Goldfaden/Homocord 1118.
+3. Expand searches across non-English commercial catalogues and cylinder collections.
+4. Verify publication and fixation dates from primary catalogues, labels, ledgers or contemporary trade sources.
+5. Build a separate rights/clearance register for intended territories.
+6. Do not assign production IDs or sequence tracks until their evidence is strong enough.
