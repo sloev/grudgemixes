@@ -1,0 +1,75 @@
+# “Pamp Vorodan” / “Bam Porotan” — Torcom Bézazian, Victor 69102 (1916)
+
+**Status: PARTIALLY VERIFIED / NOT CLEARED.** This is a strong Armenian-language revenge-song candidate with an exact Library of Congress National Jukebox item, recording date, matrix, take, label and catalogue number. The underlying poem was published in 1850 and is by Ghevont Alishan (1820–1901); its musical setting is attributed by Armenian Institute researcher Haig Utidjian to Pietro Bianchini (1828–1905). The LOC item credits H. Sinanian as arranger. The 1916 recording's exact sung text has not yet been compared with the 1850 poem, and the LOC access audio is not yet proven to be an unedited raw shellac transfer. No commercial rights are cleared.
+
+## Exact recording object
+
+- **Performer:** Torcom Bézazian, male vocal solo / tenor.
+- **Title in LOC catalogue:** “Pamp vorodan”; other title “Armenian march.”
+- **Label/catalogue:** Victor 69102.
+- **Matrix/take:** B-18462, take 3.
+- **Recording date/location:** 1916-10-11, New York City.
+- **Accompaniment:** King's Orchestra; Edward T. King, conductor.
+- **Arranger credit:** H. Sinanian.
+- **Archive item:** Library of Congress National Jukebox, https://www.loc.gov/item/jukebox-19711/
+- LOC describes an online audio and label image, and identifies the original source as the Johnson Victrola Museum, Delaware. Its rights advisory says the item is presented courtesy of Sony Music Entertainment or EMI Music and places responsibility for reuse/legal permissions on the user.
+- The LOC web MP3/access audio is not, on current evidence, established as an unedited transfer of the original shellac. Obtain transfer/master documentation before treating it as an eligible source file.
+
+## Composition, poem and author gate
+
+Armenian Institute researcher Haig Utidjian identifies the correct Armenian title as **Բա՜մ. փորոտան** (*Bam Porotan*, approximately “Boom! They roar”), often miscatalogued/transliterated as “Pamp Vorodan” or “Bamb Vorotan.” He identifies the setting as Pietro Bianchini's composition, based on an excerpt from Ghevont Alishan's poem:
+
+**Երգ ու գնացք զօրացն հայոց ընդ Վահանայ Մամիկոնենոյ ի Շաւարշական դաշտին վրէժք** — “Song and March of the Armenian Soldiers Under Vahan Mamikonian in the Field of Shavarshakan for Vengeance,” published at San Lazzaro, Venice, in **1850**.
+
+- **Poet/lyricist:** Ghevont (Łewond) Alishan, 1820–1901.
+- **Composer of the celebrated setting:** Pietro Bianchini, 1828–1905.
+- Both author and composer died before the project's 1956 composition cutoff.
+- The poem's historical-poetic frame is a rallying of Armenian soldiers under Vahan Mamikonian to avenge Vardan Mamikonian's defeat in 451. This is a literary/commemorative song about a historical past, not a contemporary eyewitness report of the fifth-century events.
+- The phrase “revenge” is explicit in the poem's full title, and the lyrics include **Հայրենավրէժքդ Հայկազունք** (a phrase commonly transliterated *Hayrenavrezhk't Haykazunk*) and repeated **ի վրէժ** (“for revenge / in revenge”) calls to arms. An Armenian-language specialist should confirm the transcription, morphology and idiomatic translation before liner-note publication.
+
+## Variant and recording history — keep credits distinct
+
+1. **Mardiros Tashjian, Columbia 1909:** the Armenian Museum of America lists “Pomp Orodan [Vorodan]” on Columbia E530 / 4099 among Mardiros's solo recordings. Its relationship to the exact 1916 Victor performance should be checked.
+2. **Tashjian Brothers, Columbia 1910:** the museum lists “Pamp Vorodan” on E667, paired with “Togh Pche Kamin”; it reports the 1910 session was released in 1911.
+3. **Torcom Bézazian, Columbia 1915:** Recording Pioneers' E-Series spreadsheet lists matrix 39818-1, “Pamp Vorodan,” author H. Simanian, Bézazian, baritone, orchestra, Armenian, recorded 5 February 1915 in New York. It also lists a further 1917 matrix 44706- (date/location shown as 1917 / NYC). The spreadsheet is a specialist secondary discography; verify label and issue details.
+4. **Torcom Bézazian, Victor 1916:** LOC item above, matrix B-18462 take 3, Victor 69102. LOC credits H. Sinanian as arranger. The 1915 Columbia credit “H. Simanian” and 1916 LOC “H. Sinanian” likely reflect a transliteration/credit variant, but confirm against primary labels and specialist biographies before normalizing.
+5. **Armenag Shah-Mouradian, Orfeon 1914 and Columbia 1917:** Armenian Institute research documents two other performances; the 1914 Constantinople performance was accompanied by Komitas at piano, and the 1917 New York recording by orchestra. These are separate recordings and arrangements. The later recording is catalogued as “National song,” without naming Bianchini.
+
+The Armenian Institute article explains that Bianchini's setting became widely adopted in Armenian diaspora communities, and that numerous later arrangements exist. Therefore, do not assume every performance uses the same melody/arrangement or includes the same excerpt/stanzas.
+
+## Taxonomy
+
+**Calculated / collective revenge rhetoric; historical-heroic commemoration.** The poem explicitly frames armed mobilization as vengeance for an earlier defeat. It should not be labelled “spite”: the text does not establish self-costly harm as its mechanism. It is not a documentary account of the 451 battle. The exact 1916 performance's text and arrangement still need listening and comparison.
+
+## Publication/fixation, audio and rights gates
+
+- **Composition fixation/publication:** poem published in 1850; the Bianchini setting is documented in Armenian music scholarship. This is well before the cutoff.
+- **Master fixation:** LOC gives a specific recording date of 1916-10-11 and matrix/take; pre-cutoff fixation is supported.
+- **Issue:** Victor catalogue number 69102 is recorded by LOC; exact first publication date/issue catalogue evidence should still be sought.
+- **Audio:** LOC access audio exists, but raw/unprocessed shellac-transfer provenance is unverified.
+- **Rights:** no commercial clearance. LOC's own advisory says permission is from Sony/EMI and directs users to assess legal permissions; separate master, transfer, performer, composition and territory analysis remains necessary.
+
+## Provisional liner-note direction (not final copy)
+
+In this Armenian-language march, the word “revenge” is not an interpretive gloss imposed on a vague patriotic title. It is built into the poem's full title: a song and march for the Armenian soldiers under Vahan Mamikonian, in the field of Shavarshakan, “for vengeance.” Ghevont Alishan's poem was published in 1850; Pietro Bianchini's musical setting helped carry it into Armenian communal and diasporic repertoire. The text recalls a much earlier defeat and summons a later generation of fighters to answer it. The 1916 Victor recording by Torcom Bézazian is one witness among several: related versions were recorded in Constantinople and New York, with different performers and arrangements. The recording should be heard as a historical-heroic representation of collective retaliation, not as an eyewitness document of fifth-century warfare. The exact words and arrangement on this Victor take still require comparison with the poem and other surviving versions.
+
+## Sources
+
+1. Library of Congress, National Jukebox, “Pamp vorodan,” Victor 69102, matrix B-18462 take 3, 1916-10-11: https://www.loc.gov/item/jukebox-19711/
+2. Haig Utidjian, Armenian Institute, “Word Stories — բամ and փորոտալ” (2021): https://www.armenianinstitute.org.uk/viewstext/word-stories-pam-porodan
+   - Identifies Bianchini (1828–1905) as composer, Alishan (1820–1901) as poet, the full 1850 poem title and the historical-heroic revenge frame; discusses alternate arrangements and 1914/1917 Shah-Mouradian recordings.
+3. National Library of Armenia, *Bazmavep* 1909 OCR, notice about H. Sinanian's musical setting/edition of “Pamp Vorodan”: https://tert.nla.am/archive/NLA%20AMSAGIR/Bazmavep/1909%283%29_ocr.pdf
+4. National Library of Armenia, *Handes Amsorya* 1914 OCR, bibliography entry for H. Sinanian's Armenian songs including “Pamp Vorodan” and “Dalvorig,” harmonized/arranged for piano and voice/violin: https://tert.nla.am/archive/NLA%20AMSAGIR/Handesamsorya/1914/8-9_ocr.pdf
+5. National Library of Armenia, *Ararat-Armenia*, August 1917, report calling “Pamp Vorodan” Father Alishan's war song: https://tert.nla.am/archive/NLA%20AMSAGIR/Ararat-Armenia/1917/50_ocr.pdf
+6. Armenian Museum of America, Harout Arakelian, Tashjian discography (1909/1910 “Pomp/Pamp Vorodan” entries): https://www.armenianmuseum.org/sound-archive/tashjian-story
+7. Recording Pioneers, *Columbia Records E Series, 1908–1923*, Bézazian entries 39818-1 and 44706-: https://www.recordingpioneers.com/docs/Columbia_E_Series.pdf
+8. Armenian Institute / Haig Utidjian, “Word Stories” also notes the correct title and the Bianchini setting; see source 2.
+
+## Handoff
+
+1. Listen to the exact LOC Victor take and compare its Armenian text with the 1850 Alishan poem; record omissions, substitutions and arrangement differences.
+2. Obtain the LOC label image and request transfer provenance / source master format and processing history from the Johnson Victrola Museum or LOC.
+3. Locate original Victor 69102 shellac and document runout/matrix/take and issue evidence.
+4. Identify H. Sinanian on the 1916 Victor label and reconcile with H. Simanian in the 1915 Columbia discography; do not conflate the arranger with Bianchini, the composer of the celebrated setting.
+5. Consult an Armenian-language specialist for exact lyrics and idiomatic translation.
+6. Assess rights for master, performance, transfer, composition and target territories. Keep **NOT CLEARED** until reviewed.
