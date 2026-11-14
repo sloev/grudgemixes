@@ -106,3 +106,10 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Created `research/lead-wagner-hagen-meditates-revenge-1922.md` (commit `329745272db027d47ca807f620451123ddc8e20a`). UCSB / American Discography Project's edition of John R. Bolig's *Victor Discography*, drawing on original Victor company documents in the Sony archives, identifies Robert Radford, bass; Symphony Orchestra; Percy Pitt, conductor; matrix Cc1586-1; recorded Hayes, Room 1, 1922-06-29; issued HMV D704 / 3-0857 on 1924-02-06. Status remains **LEAD** because exact archival audio and rights are not established.
 - Taxonomy for Wagner lead: **Calculated revenge / conspiracy**, as a fictional/mythic operatic representation. Do not treat the plot as historical evidence.
 - Handoff: prioritize exact HMV D589 / 02927 and D704 / 3-0857 audio in British Library, Internet Archive / Great 78 Project, DAHR and other sound archives. Confirm labels, runouts, language and raw-transfer status before upgrading either lead.
+
+
+## 2026-11-14 — ChatGPT (Handel HMV attribution correction)
+- Corrected `research/lead-handel-alexanders-feast-revenge-timotheus.md` (commit `e1cac251bf91b0ae8c0039a47f49b7af437a1853`) and README summary (commit `48efbfeb18fe6d82838b7f2214f045fa2f0e841b`).
+- New Alan Kelly-compiled Gramophone Company matrix catalogue lists Cc584-1, 24-Oct-21, issued 02927 D589, performer The Gresham Singers (p Mrs Baker). The Robert Radford discography lists Cc584-2 for the same issue under Radford's discography; 78opera marks Cc584-1 unpublished and Cc584-2 issued. This is a real source conflict, not resolved by current evidence.
+- Safe state: HMV D589 / 02927 is a documented early issue lead, but performer and take remain disputed. Do not claim Robert Radford or The Gresham Singers as certain until label/runout or company ledger evidence is checked. Exact audio and rights remain open.
+- Sources: Alan Kelly matrix catalogue https://www.gramophonecompanydiscography.com/PDF/File%20D%20-%20BB.pdf ; Radford discography https://www.musicweb-international.com/hooey/radford-discog.htm ; 78opera sessionography https://www.78opera.com/files/ARTIST_R.pdf .
