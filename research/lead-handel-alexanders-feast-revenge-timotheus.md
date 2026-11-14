@@ -8,7 +8,7 @@ The aria is a direct thematic fit: its text explicitly stages revenge and vengea
 
 Two early commercial recording paths have now surfaced:
 
-1. **HMV / Gramophone Company, London, 24 October 1921** — Robert Radford discography identifies the performance as “Alexander’s Feast: Revenge, Timotheus cries,” matrix **Cc584-2**, issued as **HMV D589**, catalogue/side number **02927**. This is currently the stronger early issue lead.
+1. **HMV / Gramophone Company, London, 24 October 1921** — HMV D589 / side 02927 is associated with matrix **Cc584**, but the performer and take are disputed. The Alan Kelly matrix catalogue lists Cc584-1 as the issued matrix and credits **The Gresham Singers (p Mrs Baker)**. The Robert Radford discography instead lists Cc584-2 for the same issue under Radford's discography. A third sessionography marks Cc584-1 unpublished and Cc584-2 issued. Do not assign performer or take until the original label/runout or company ledger is checked.
 2. **Vocalion X-9560** — the 1925 UK catalogue lists bass Malcolm McEachern with the Aeolian Orchestra, 10-inch. A specialist session listing tentatively places the recording in London in October 1924, matrices/session numbers 03724/03725.
 
 Neither exact master has yet been located as an archival audio object.
@@ -17,9 +17,10 @@ Neither exact master has yet been located as an archival audio object.
 
 ### HMV 1921 — preferred search target
 
-- The *Robert Radford Discography* lists item 302, “Alexander’s Feast: Revenge, Timotheus cries (Handel),” with **Cc584-2, 24 Oct 21, 02927 D589**. The work appears within Radford's discography; this supports Robert Radford as the singer, but a primary label/catalogue image should still be sought: https://www.musicweb-international.com/hooey/radford-discog.htm
-- The earlier *78opera* sessionography gives the same session date and matrix, but its line includes a question-marked first matrix Cc584-1 as unpublished. The issued take is **Cc584-2**, not Cc584-1: https://www.78opera.com/files/ARTIST_R.pdf
-- The Radford discography's matrix-to-issue entry is stronger than the abbreviated 78opera entry for identifying the issued side. Do not treat the first take as the commercial issue.
+- The Alan Kelly-compiled *Gramophone Company Limited / His Master's Voice Matrix Series prefixed Bb/Cc* catalogue lists **Cc584-1**, recorded 24-10-21, issued as **02927 D589**, and attributes the selection to **The Gresham Singers (p Mrs Baker)**: https://www.gramophonecompanydiscography.com/PDF/File%20D%20-%20BB.pdf
+- The *Robert Radford Discography* lists item 302, “Alexander’s Feast: Revenge, Timotheus cries (Handel),” with **Cc584-2, 24 Oct 21, 02927 D589**. Since this is a Radford discography, it implies Radford performed the selection, but conflicts with the Kelly matrix catalogue's take and performer attribution: https://www.musicweb-international.com/hooey/radford-discog.htm
+- The *78opera* sessionography marks **Cc584-1** unpublished and **Cc584-2** as D589 / 02927, agreeing with the Radford discography on the issued take but not the Kelly catalogue: https://www.78opera.com/files/ARTIST_R.pdf
+- The current safe conclusion: HMV D589 / 02927 is a genuine pre-1926 issue lead; performer and exact take are unresolved pending primary label/runout or ledger evidence.
 
 ### Vocalion 1924/1925 — alternate recording
 
@@ -36,7 +37,7 @@ Neither exact master has yet been located as an archival audio object.
 
 | Field | HMV 1921 | Vocalion 1924/25 |
 |---|---|---|
-| Performer | Robert Radford (supported by discography context; confirm on label) | Malcolm McEachern, bass |
+| Performer | Disputed: The Gresham Singers (p Mrs Baker) in Alan Kelly catalogue; Robert Radford in his discography | Malcolm McEachern, bass |
 | Title | “Revenge, Timotheus cries” | “Revenge! Timotheus Cries” |
 | Work | *Alexander’s Feast*, Part II | *Alexander’s Feast*, Part II |
 | Language | English | English |
@@ -45,7 +46,7 @@ Neither exact master has yet been located as an archival audio object.
 | Recording location | London | Probably London |
 | Label | HMV / Gramophone Company | Vocalion |
 | Catalogue / issue | D589 / 02927 | X-9560 |
-| Matrix | Cc584-2 (issued); Cc584-1 reportedly unpublished | 03724 / 03725 associated with the two-part session; exact allocation not established |
+| Matrix | Disputed: Cc584-1 listed as issued by Alan Kelly; Cc584-2 listed as issued by Radford discography and 78opera | 03724 / 03725 associated with the two-part session; exact allocation not established |
 | Accompaniment | Orchestra; George Byng is identified as conductor for this group of sessions | Aeolian Orchestra, per 1925 catalogue |
 | Direct archival audio | Not located | Not located |
 | Raw-transfer status | Not established | Not established |
@@ -66,4 +67,4 @@ Neither exact master has yet been located as an archival audio object.
 
 ## Decision
 
-Keep both recordings in the research queue as **LEADS**, with the 1921 HMV Cc584-2 / D589 issue as the first search target. Neither is eligible for a production mix yet because the exact archival audio and rights gates remain unproven.
+Keep both recordings in the research queue as **LEADS**, with HMV D589 / 02927 the first search target. The performer and matrix take are disputed across discographies and must not be silently resolved. Neither is eligible for a production mix yet because the exact archival audio and rights gates remain unproven.
