@@ -27,6 +27,12 @@
 - **Early Indian commercial recording history:** the Gramophone era in India begins in 1902; research literature documents the early recording campaigns and later local-label catalogues. Use local-language title searches and specialist discographies.
 
 ### Middle East and North Africa
+
+- **Oriental HMV matrix chart (1900–1919):** gives session windows, locations and matrix ranges for Turkish, Greek, Arabian, Hebrew, Sephardic, Armenian, Albanian, Serbian, Bulgarian, Kurdish and Laz recordings. Use it to narrow sessions, then verify exact titles/issues in the Gramophone Company Discography and contemporary catalogues. Some locations are explicitly uncertain.
+- **Ottoman/Armenian diaspora 78s:** commercial recordings made by first-generation Armenian immigrants in the United States preserve Anatolian musical memory and minority-language repertoires. Search diaspora labels and original-script spellings, and keep recording location, language and later national attribution distinct.
+- **Ottoman field recordings:** 1901 Lesbos and 1902 Zincirli expeditions are important sound-history leads, but field recordings are a separate evidence class and are not automatically commercially reusable or within the commercial-release brief.
+- **Late-Ottoman Sound of Anatolia (EAP1637):** digitising Darülelhân shellac holdings; the described folk-music expedition recordings date 1926–29 and are outside the current pre-1926 cutoff unless an individual item has independent earlier issue evidence.
+
 - **AMAR Foundation:** 9,000+ 78rpm discs and a public listening room with selected recordings; its archive documents Gramophone/Zonophone campaigns in Egypt from 1903 and later regional and local labels including Baidaphon, Orphéon-Blumenthal and Méchian.
 - **Harvard Loeb Music Library Arabic 78 Collection:** nearly 600 catalogued Arab and Arab-American recordings, roughly 1903 onward; a subset of early pre-1923 recordings is streamable/downloadable through its digital collection. Harvard's own dating notes stress that exact recording dates are often difficult to establish.
 - **UCSB Häupl holdings:** substantial Turkish, Arabic and Maghrebi commercial 78 collections.
