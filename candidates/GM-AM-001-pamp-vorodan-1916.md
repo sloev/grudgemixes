@@ -116,3 +116,14 @@ Sources:
 - National Library of Armenia, *Bazmavep* (1909), pp. 135–136, press notices on H. Sinanian's “Pamp Vorodan” setting: https://tert.nla.am/archive/NLA%20AMSAGIR/Bazmavep/1909%283%29_ocr.pdf
 - National Library of Armenia, *Handes Amsorya* (1914), bibliography no. 2156, H. Sinanian, *Chants populaires arméniens*, nos. 5 “Pamp Vorodan” and 6 “Dalvorig,” arranged for piano and voice/violin: https://tert.nla.am/archive/NLA%20AMSAGIR/Handesamsorya/1914/8-9_ocr.pdf
 - LOC item, catalogue title and arranger credit: https://www.loc.gov/item/jukebox-19711/
+
+
+## Victor session/take cross-check
+
+78opera's Torcom Bézazian discography adds useful session detail for matrix B-18462:
+- **New York, 1916-09-26:** B18462-1 and B18462-2, “Pamp vorodan (Armenian march) (arr Sinanian),” both unpublished.
+- **New York, 1916-10-11:** B18462-3, same title and arrangement credit, issued as Victor 69102; B18462-4 unpublished.
+- LOC independently records the issued B-18462 take 3 and date 1916-10-11. This supports the distinction between the earlier session/takes and the later issued take.
+- 78opera's explicit “arr Sinanian” credit reinforces the interpretation that Sinanian is the arranger on this Victor master, not necessarily the original composer of the celebrated setting. Compare against LOC's “arranger” field and Utidjian's Bianchini attribution.
+
+Source: 78opera, Torcom Bézazian discography: https://www.78opera.com/files/ARTIST_Ba-Bi.pdf
