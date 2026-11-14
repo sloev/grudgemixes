@@ -283,3 +283,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - These sources establish a Sinanian musical setting/edition by 1908–09, but the exact relationship between Sinanian's version and Pietro Bianchini's celebrated setting (identified by Utidjian as the composer of the 1850 Alishan poem setting) remains unresolved. Keep composer, harmoniser, arranger and editor roles distinct. Do not assert that the 1916 Victor take uses Bianchini's melody or that Sinanian independently composed the tune without score/audio comparison.
 - Sources: https://www.armenianinstitute.org.uk/viewstext/word-stories-pam-porodan ; https://tert.nla.am/archive/NLA%20AMSAGIR/Bazmavep/1909%283%29_ocr.pdf ; https://tert.nla.am/archive/NLA%20AMSAGIR/Handesamsorya/1914/8-9_ocr.pdf ; https://www.loc.gov/item/jukebox-19711/ .
 - Handoff: compare Sinanian's 1908/1914 printed arrangement with Bianchini's score and the exact 1916 Victor take; inspect original labels and transfer provenance; maintain separate composition/arrangement credits.
+
+
+## 2026-11-14 — ChatGPT (Bam Porotan Victor take chronology)
+- Cross-checked LOC item metadata against 78opera's Torcom Bézazian discography.
+- 78opera lists B18462-1/-2 as unpublished takes from New York 1916-09-26; B18462-3 as issued Victor 69102 from New York 1916-10-11; B18462-4 unpublished. LOC independently confirms the issued B-18462 take 3 and 1916-10-11 date.
+- 78opera describes the title as “Pamp vorodan (Armenian march) (arr Sinanian),” consistent with LOC's H. Sinanian arranger credit and supporting separation of Sinanian's arrangement from Bianchini's celebrated setting.
+- Source: https://www.78opera.com/files/ARTIST_Ba-Bi.pdf ; LOC https://www.loc.gov/item/jukebox-19711/ .
+- No status upgrade: exact performed text, item-level raw transfer and commercial rights remain unresolved.
