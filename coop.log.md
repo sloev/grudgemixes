@@ -817,3 +817,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Kept 1651 at B — PROBABLE; no exact year, matrix, physical label inspection or audio/text collation. Explicitly distinguished the 1912 printed text witness from recorded wording.
 - Added later Taihei 1935 and undated Taihei III items as separate negative controls, not conflated with Royal 1651.
 - Sources: https://www.78music.jp/other5.html ; https://crd.ndl.go.jp/reference/entry/index.php?id=2000030112&page=man_view ; https://www.78music.jp/hNipponophone.html ; https://78music.jp/lisitTop.html .
+
+
+## 2026-11-15 — ChatGPT (Kushiro Museum physical-inventory corroboration)
+
+- Located Satō Hirotsugu's 1981 Kushiro Municipal Museum catalogue of a 1,347-disc collection transferred from the municipal library in April 1979.
+- The Yoshida Naramaru inventory section independently lists one-sided Royal no. 1651, *Akō Gishiden, Denchū Ninjō*. Ditto marks in the performer column inherit Yoshida Naramaru from the preceding explicit row. This verifies physical-collection existence and Royal attribution independently of 78MUSIC.
+- It does not provide a date, matrix, label photo, disc condition or audio. It does not prove the specimen matches the precise red-label/front-facing eagle variant in 78MUSIC.
+- Retained B — PROBABLE (strong); A requires label/runout and audio/text inspection. Do not claim exact year.
+- Source: https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf (1981, pp. 18–19).
