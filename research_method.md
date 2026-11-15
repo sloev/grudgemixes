@@ -50,3 +50,18 @@ Read `README.md` and `METHODOLOGY.md`; enumerate complete recursive trees for `c
 Phase 2 — formal candidate record audit, followed by research dossier inventory/content audit.
 ## Exact next action
 Read the four candidate records in full; compare their field completeness, evidence/status language, cutoff/date evidence, thematic argument, audio and rights separation, and links to research dossiers. Then update this state file before proceeding to the research files.
+
+## Milestone 2 — formal candidate module audited (2026-11-15)
+- Completed full-text review of all four files under `candidates/` and read the README current-snapshot table plus first-pass and re-audit references.
+- Created `research/formal-candidate-record-audit-2026-11-15.md` (commit `87d417a5732b201e58592b980decf65c4ea9656f`) with field-by-field evidence, proposed current-methodology crosswalks, thematic assessment, and next steps.
+- Armenian Torcom Bézazian / Victor 69102: proposed B — PROBABLE; LOC gives exact take/date, but the performed text still needs collation against the 1850 poem and musical-version history.
+- Saint-Saëns / Victor 87501: proposed B — PROBABLE; exact archive item and discographical session/issue evidence, but actual recorded English text and item-specific transfer remain uninspected.
+- Verdi / Vocalion 60019: proposed B — PROBABLE (borderline); archive item and issue linkage, but tentative session date, matrix and performed text remain unresolved.
+- Caruso / “Vesti la giubba”: thematic mismatch under current METHODOLOGY.md §3 as currently documented. The aria itself is betrayal lament; retaliation occurs later in the opera, outside the recorded excerpt. Proposed non-core/rejected control unless audio/text reveals an in-aria grievance-response mechanism. No file status was changed pending editorial authority.
+- Audit caveat: no audio was listened to, no carrier inspected, no archive contacted, and no rights/legal opinion made.
+- Correction to Milestone 1 inventory: `research/` contains **24** files, not 21. The explicit filenames listed above total 24; root inventory count now corrected.
+- Cooperation log appended with scope, decisions and handoff.
+## Active phase
+Phase 3 — research dossier module audit (24 files), beginning with global map, re-audit, first-pass screening and regional dossiers. Check status consistency, evidence provenance, exact recording matches, duplication and orphan links. Update state after each regional batch.
+## Exact next action
+Fetch and inspect the complete `research/global-early-recording-map.md`, `research/re-audit-existing-leads-2026-11-15.md`, and `research/first-pass-screening.md`; build a lead-to-canonical-file crosswalk before auditing regional dossiers.
