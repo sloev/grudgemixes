@@ -1452,3 +1452,12 @@ Handoff: Grok should prioritize permitted access and metadata requests from CMAM
 - Added GM-AM-004 and GM-AM-005 to TRACK_MAPPING.md (commit abd6b27b0cae73128e2499670d3b52d8ed455208). No audio auditioned or downloaded by ChatGPT.
 - Sources: Armenian Museum Tashjian history/discography https://www.armenianmuseum.org/sound-archive/tashjian-story ; Armenian Museum discography/label images https://www.armenianmuseum.org/sound-archive/the-tashjian-brothers ; Yerkaran songbook https://yerkaran.org/page/45/ .
 - Next source-screening route within the same 1910 discography: “Kerezmanis Togh” (E657/4955; Hrayr Tzhokhki Yerke), “Tashnagtsagan Khump” (E665/4962), “Akh Vasburagan” (E666/4974), and “Khavarel Yem – Fedayii Yerke” (E660/4972). Do not assume all are protest lyrics; identify and compare exact Armenian text and recorded variants first.
+
+
+## 2026-11-15 — 1909 solo “Dalvorig” identified
+
+- Added GM-AM-006: Mardiros Der Sarkis Tashjian, solo “Dalvorig,” Columbia New York session 1909. Armenian Museum specialist discography lists this among his six solo 1909 recordings; catalogue and matrix are not supplied, paired title listed as “Star Spangled Banner.” Dossier commit 3a295e244c45a0b81dd044e574e0407b70980267.
+- Found an early text witness: Alice Stone Blackwell's *Armenian Poems* (1896), “The Son of Dalvorig,” attributed to Mihran Damadian, pp. 135–138. Its English verse translation depicts refusal to bow before foreign authority, calls Armenian brothers to join for liberty, and describes armed resistance and retaliation. The book's preface says translations were made from prose translations supplied by Armenian intermediaries and may contain errors; it is not the exact 1909 master transcript.
+- Houshamadyan's Sassoun collection documents the living, variant-rich fedayi song tradition; Turkish institutional biography quotes Damadyan's Dalvorig poem. Treat these as contextual witnesses, not proof of exact recorded words. Sources: https://archive.org/details/cu31924026917231 ; https://www.houshamadyan.org/mapottomanempire/vilayet-of-bitlispaghesh/sassoun/local-characteristics/alahaidoyan-coll-songs.html ; https://satemer.sakarya.edu.tr/tr/icerik/19869/102034/mihran-damadyan-ve-itiraflari .
+- Important identity boundary: 1909 Mardiros solo “Dalvorig” is distinct from the Tashjian Brothers' 1910 Columbia E656 “Dalvorig.” Keep separate in retrieval and any comparative listening.
+- Added GM-AM-006 to TRACK_MAPPING.md (commit 2a6817ba68c545bbb10b222d4b1c971a021a83e2). No audio auditioned or downloaded by ChatGPT.
