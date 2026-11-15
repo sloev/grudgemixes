@@ -67,3 +67,12 @@ In Saint-Saëns's *Samson et Dalila*, revenge is not a sudden response but a neg
 ## Decision
 
 Retain as a high-priority **PARTIALLY VERIFIED** candidate. It has a strong discographical record and an exact digitized archive item, but the direct audio file, raw-transfer status and commercial rights remain unresolved.
+
+
+## Current-methodology reassessment and mix-development note (2026-11-15)
+
+**Evidence level: B — PROBABLE CANDIDATE. Date: CORE DATE — VERIFIED (fixation 1908-05-25).** This maps the legacy “PARTIALLY VERIFIED” label to the adopted A/B/C scale without erasing the older label. The exact recording is identified by matrix B-6227-2 and Victor 87501; contemporary November 1908 trade advertising confirms the English-language issue; FAU RSA item 57310 identifies the exact catalogue item and performer pair. Thematic content is strongly corroborated by the full French libretto: Act II, Scene II, the High Priest and Dalila explicitly frame their conspiracy as revenge for Samson's resistance and seek to humiliate and destroy him. The actual disc's English words and excerpt boundaries still need listening/transcription, so it is not yet A.
+
+**Discographical caution:** one modern discography gives issue number 89501, while the contemporaneous Victor trade advertisement, UCSB Red Seal Discography and FAU item identify **87501**. Use 87501 as the supported issue identity; retain the 89501 discrepancy in the audit trail rather than silently harmonizing it. The Historic Record Society and UCSB Red Seal entries corroborate matrix B-6227-2, take 2, Camden, 25 May 1908.
+
+**Mix potential:** strong anchor for a theatrical-revenge sequence, provisionally paired with Verdi's “Sì, vendetta” (Vocalion 60019). The pairing is conceptually strong but not yet release-ready: confirm both access copies by listening, identify excerpt boundaries and exact sung language, obtain item-specific transfer details, and complete separate rights reviews. FAU states that restricted items may offer only a 45-second preview and that full access is through its Research Station; the page does not provide a preservation master or reuse licence. Do not imply commercial clearance.
