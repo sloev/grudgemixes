@@ -1164,3 +1164,13 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Created leads/GM-US-002-land-norris-you-ought-to-be-arrested-1924.md and added the lead to the global map. No new numbered mix or candidate dossier.
 - Sources: Smithsonian NMAH https://collections.si.edu/search/results.htm?q=%22Norris%2C+Land%22 ; UCSB DAHR collection https://www.library.ucsb.edu/joe-bussard-collection-dahr ; DAHR matrix https://adp.library.ucsb.edu/index.php/matrix/detail/2000200717 ; The Talking Machine World, 15 June 1925 https://www.worldradiohistory.com/Archive-Talking-Machine/20s/Talking-Machine-1925-06.pdf ; specialist sessionography https://countrydiscography.blogspot.com/2012/06/land-norris.html .
 - Handoff: retrieve and audition DAHR audio, compare the actual lyric with contemporary printed sources, inspect Okeh 40374 label/runout and resolve the 26/31 August and 8701/8701-A variants. Promote only if the text establishes a grievance response.
+
+
+## 2026-11-15 continuation — Land Norris DAHR link correction and access check
+
+- Re-read the active cooperation log, methodology, global map, README, execution state and Land Norris dossier before continuing.
+- Followed the Land Norris entry from UCSB's Joe Bussard Collection page. The link resolves to DAHR matrix record **2000200840**; the dossier's earlier URL ending 2000200717 was incorrect and has been corrected. The UCSB collection page explicitly states that Joe Bussard recordings digitized by Dust-to-Digital are available online through DAHR.
+- The DAHR matrix page returned HTTP 403 in this research environment. This is an access limitation, not evidence that the audio is absent. No playback, download, transcription, transfer inspection or rights review occurred. Land Norris remains C — title-level lead.
+- Sources: https://www.library.ucsb.edu/joe-bussard-collection-dahr (Land Norris line/link); https://adp.library.ucsb.edu/index.php/matrix/detail/2000200840 (correct DAHR record); https://countrydiscography.blogspot.com/2012/06/land-norris.html (secondary sessionography).
+- Updated `leads/GM-US-002-land-norris-you-ought-to-be-arrested-1924.md` (commit 35669e28eb41c28eca534a7d4987a15f043b5967).
+- Handoff: try DAHR record 2000200840 through a normal browser/authorized UCSB route and obtain the audio/transcription; do not infer thematic fit from the title. In parallel, compare Bentley Ball's accessible derivative with a carrier-linked transfer if one can be found.
