@@ -90,3 +90,40 @@ Sources:
 **Thematic status:** The episode belongs to the Chūshingura / Akō retainer narrative, but the OPAC record alone does not tell us whether this particular Hazama Jūjirō performance foregrounds grievance, punishment, retaliation or the wider story. The episode text/audio still needs inspection. The OPAC does establish an extant physical SP and a direct archive record, which is a major access/provenance improvement, but no recording date or rights clearance is established.
 
 **Disposition:** create/track as a distinct C-level archival item; prioritize inspecting the archive record and requesting label/audio access. Do not merge it with the Royal 1645/1649 *Toiri* leads.
+
+
+## Expanded Naramaru Akō repertory and an openly playable archive item (2026-11-15)
+
+The Nichibunken / CiNii parent record BB17632622 groups seven separate Naramaru SP entries under *Akō Gishiden*: *Ōishi Kuranosuke Yamashina-gaeri*, *Kanzaki Yūgorō*, *Hazama Jūjirō* (including the lower part), *Nanbuzaka Yuki no Wakare*, *Tonochū Jinshō*, *Akagaki Genzō*, and *Ōtaka Gengō*. The parent record itself gives no dates and only says Nipponophone / SP / Japanese lyrics. Do not assume all seven items are on the same issue or from the same session. 78MUSIC provides a more granular number sequence: 1723–1724 *Hazama Jūjirō*; 1725–1728 *Kanzaki Yūgorō* (four parts); 1729 and 1732 *Ōishi Kuranosuke Yamashina-gaeri*; 1733–1734 *Amanoya Rihei* (upper/lower). The specialist listing notes 1723's reverse as Nipponophone 1724. These are catalogue-number associations, not recording dates.
+
+### A directly accessible Naramaru archival audio record — *Akagaki Genzō Tokuri no Wakare*
+
+Nichibunken's rōkyoku archive has a separate public record for *Akagaki Genzō Tokuri no Wakare* (赤垣源藏徳利の別れ):
+- Performer: Yoshida Naramaru
+- Label/number: Royal Record 1853
+- One-sided disc; A-side 3:42
+- Nichibunken archive record: https://kutsukake.nichibun.ac.jp/rsp/?reg=525671
+- NCID BB17636022; call no. 05084; material ID 525671; Morikawa Tsukasa collection
+- Archive metadata says playback condition poor, transfer made with laser turntable / phono equalizer / analogue-digital converter, and the sound is internet-accessible because the archive considers the copyright term expired.
+
+This is a valuable proof that the archive sometimes exposes Naramaru audio directly, unlike the Royal 1723 record page that could not be retrieved in this research pass. But *Akagaki Genzō Tokuri no Wakare* is a farewell episode within the Akō narrative, not self-evidently a revenge song. It is a control / context recording until its actual text demonstrates grievance, vow, accusation or retaliation. Archive release does not equal commercial-use clearance, and the record has no issue date in its metadata.
+
+### Separate, publicly accessible Naramaru item — *Kanzaki Azumakudari*
+
+The same archive indexes *Kanzaki Azumakudari* (神崎東下り), performer Yoshida Naramaru, Nipponophone 15572–15574, three discs, archive record https://kutsukake.nichibun.ac.jp/rsp/?reg=525710, NCID BB17678984, call no. 05123, material ID 525710. It has six sides, each around 3:28–3:41, and an internet-playable audio interface. Do not conflate it with the earlier 1725–1728 four-part *Kanzaki Yūgorō* entry: the title, catalogue numbers and extent differ. Date and thematic content remain unverified.
+
+### A 1912 printed performance witness
+
+Nichibunken also digitizes *Yoshida Naramaru Kōen Naniwabushi Ohakoshū* (吉田奈良丸講演 浪花節十八番集), published by Naniwabushi Shinbunsha on 8 May 1912, 27 pages, NCID BB24153492, archive record https://kutsukake.nichibun.ac.jp/rsp/?reg=553460. Its catalogue notes list Naramaru's *Nanbuzaka Yuki no Wakare* and an excerpt from *Kanzaki Yūgorō Azumakudari* among the contents. This establishes that these works were part of Naramaru's documented repertoire by 1912, but it does **not** date any specific 1723/1725/15572 disc session or prove that the text of a particular disc matches the printed excerpt. The digitized page images returned 403 on attempted retrieval, so the actual printed text has not yet been transcribed.
+
+### Status and next evidence needed
+
+- Royal 1723/1724 *Hazama Jūjirō*: C — LEAD; physical catalogue record and linked archive item, exact label / matrix / date / audio still needed.
+- Royal/Nipponophone 1725–1728 *Kanzaki Yūgorō*: C — LEAD; parent catalogue and specialist discography, no verified date or audio match.
+- Nipponophone 15572–15574 *Kanzaki Azumakudari*: C — LEAD; exact archive item and accessible audio, but date and thematic content unverified.
+- Royal 1853 *Akagaki Genzō Tokuri no Wakare*: C — contextual/control item; audio openly available but poor condition, date absent, revenge theme not established.
+- 1912 Naramaru *Ohakoshū*: pre-cutoff printed repertoire witness, not a sound recording; useful for text comparison when page images can be accessed.
+
+Do not upgrade any item to A/B on catalogue presence alone. The next practical request to Nichibunken should ask for call-number-ordered access to 05077 (Hazama Jūjirō), 05084 (Akagaki Genzō), and 05123 (Kanzaki Azumakudari), and ask whether a digital audio file exists for 05077. Nichibunken's published policy says to apply at least one week in advance through a university/public library, limits use to 10 titles per day, and requests use of an available digital sound file in preference to handling the disc.
+
+Sources: Nichibunken archive records reg=525671 and reg=525710; Nichibunken 1912 booklet reg=553460; CiNii parent record BB17632622 and individual records BB17634016, BB17635201, BB17635937; 78MUSIC discography https://78music.jp/other5.html; Nichibunken SP-record access policy https://www.nichibun.ac.jp/en/library/guide/specialcollection_use/sprecord/.
