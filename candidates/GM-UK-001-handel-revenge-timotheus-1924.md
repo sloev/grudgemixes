@@ -80,3 +80,12 @@ The catalogue cited above is a **1926 edition** whose foreword says it includes 
 ## 1926 catalogue wording clarification
 
 The Vocalion source is the **1926 edition** of the catalogue, not a catalogue published in 1925. Its foreword explicitly says it lists records issued up to and including November 1925. Its X-9560 entry lists parts I and II, Aeolian Orchestra and bass Malcolm McEachern, with part I replayed to complete the aria. The 1924-10? session date and 03724/03725 matrix/session references remain specialist-discography evidence and provisional. See the item entry in the catalogue (pp. 90 and 137): https://78rpm.club/wp-content/uploads/2015/10/Vocalion-Records-Catalogue-1925-UK.pdf and the sessionography https://www.78opera.com/files/ARTIST_M.pdf .
+
+
+## Physical-carrier and image search checkpoint (2026-11-15)
+
+A fresh exact-identifier web search for Vocalion X-9560, X 9560, Malcolm McEachern, matrices 03724/03725/03725X, and label/78rpm imagery did **not** locate a traceable physical copy, label photograph, runout image, auction/collection record, or authenticated archival accession. The results returned the same two already-known discographical witnesses: the 1926 Vocalion catalogue and 78opera's tentative London October 1924 sessionography. A commercial CDR seller repeats the catalogue/matrix association but supplies no carrier provenance or transfer chain. It is not independent physical evidence. The later AWA 4:51 listing still does not identify its source carrier or prove that it derives from X-9560.
+
+This is a bounded negative search, not evidence that no copy survives. No candidate metadata or evidence level is upgraded. The two advertised parts versus sessionography's 03724 / 03725 (unpublished) / 03725X allocation remain unresolved; exact label, runout, take, side sequence, audio and rights remain open.
+
+Sources checked: Vocalion 1926 catalogue, X-9560 entry (pp. 90, 137), https://78rpm.club/wp-content/uploads/2015/10/Vocalion-Records-Catalogue-1925-UK.pdf ; 78opera, McEachern sessionography, https://www.78opera.com/files/ARTIST_M.pdf ; commercial CDR listing (discovery lead only), https://classicmusiccds.com/product/australian-bass-malcolm-mceachern-1883-1945-vol-1-cdr/ ; AWA listing (carrier unidentified), https://prd-s.awa.fm/track/95f94923e616e638ed09 .
