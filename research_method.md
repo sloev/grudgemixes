@@ -130,3 +130,21 @@ Inspect the Favorite 1911 Turkish/Armenian catalogue indexed by Recording Pionee
 - Exact-title/order-number searches did not surface an independent transcription of Favorite 1-56211. The linked catalogue PDF remains to be inspected page-by-page; do not claim that its contents confirm Rosalie or the item number.
 - Keep 1911 as MGK item-level collection metadata, not a verified contemporary catalogue date; keep runout 4456-1 and handwritten 6/2.11 as provisional image readings.
 - Next: obtain/inspect the Favorite catalogue page and ask MGK collection contact for high-resolution runout, reverse label, original-carrier provenance and any audio. Search physical holdings/archives by 1-56211, Rosalie/Rozali Benliyan, “Ermeni milli havassi,” and possible matrix 4456-1.
+
+
+## Milestone 3 — mix-quality prioritization (2026-11-15)
+
+- User priority: move beyond accumulating leads and build at least a handful of mixes with rock-solid tracks and deeply researched contextual notes. Operational response: prioritize completed evidence packages and mix-level editorial coherence over raw candidate counts. Do not count C leads as tracks; do not call a mix finished while exact audio/text, transfer provenance or rights are unresolved.
+- Identified the strongest existing pair for a first provisional mix: Saint-Saëns, “Vengeance at Last,” Victor 87501 (matrix B-6227-2 take 2; Camden, 25 May 1908; English per contemporary November 1908 advertisement), and Verdi, “Sì, vendetta,” Vocalion 60019 / 30146 (session 7176, ca. March 1921, date tentative; matrix/take unknown). Both remain B — PROBABLE, not A.
+- Created research/mix-01-the-honour-of-vengeance.md with sequence, historical framing, approximately 190-word draft liner note, evidence ledger, discrepancy notes and bounded release-readiness checklist.
+- Updated both formal candidate records, formal audit, global map and cooperation log. No audio was listened to in this run; no preservation master, transfer statement or commercial licence was obtained.
+
+## Active phase
+Phase 3 — convert strongest B candidates into evidence-complete mix packages; continue global discovery only where it can realistically add another strong track to a coherent mix.
+
+## Exact next actions
+1. Arrange legitimate listening to FAU RSA items 57310 and 54400; record exact excerpt boundaries, language, transcription and listening observations.
+2. Request item-level transfer provenance and permitted-use terms from FAU; do not infer permission from public streaming.
+3. Resolve Victor 87501 label/runout and the conflicting 89501 secondary listing; seek Vocalion 60019 label/runout and session/matrix evidence.
+4. In parallel, audit the next strongest candidates (Armenian Victor 69102, Japan Royal 1651, Yiddish Papus Rache, Handel and Wagner leads) against the same mix-ready gates. Only promote a track when its exact performed content and date can be tied to an eligible master.
+5. Develop at least two further distinct mix concepts from verified/probable tracks, preserving geographic and language diversity and avoiding a quota-driven lowering of evidence standards.
