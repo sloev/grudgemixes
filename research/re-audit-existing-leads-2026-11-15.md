@@ -114,3 +114,8 @@ NDL-documented May 1912 (Meiji 45.5) anthology Takuma Sadao, ed., *Naniwabushi H
 78MUSIC lists exact Nipponophone/Royal entry **1651, Akō Gishi-den: Denchū Ninjō**, Osaka Yoshida Naramaru, single-sided, front-facing eagle label. Neighbouring 1645–1654 titles include *Toiri*, *Ōtaka Gengō*, *Akagaki Genzō* and *Nanbuzaka*. 78MUSIC gives no date; number proximity is not chronology proof. Its 1912 general repertoire witness is not a recording date.
 
 Generation control: keep 1651 separate from Taihei 10254–10257 (Naramaru III, date [19--]) and from Taihei 6036–6037 (Naramaru III, 1935; definitely post-cutoff). Status: printed 1912 repertoire strongly supported; 1651 disc remains C pending physical label/matrix and date. Detailed note: research/japan-ako-gishi-yoshida-naramaru-royal-record.md.
+
+
+### Chronology reassessment — Yoshida Naramaru Royal 1651
+
+Close reading of 78MUSIC shows no. 1651 *Akō Gishiden: Denchū Ninjō* under the specific section “ROYAL RECORD — red-label eagle mark / NIPPONOPHONE,” not simply an undifferentiated Nipponophone category. 78MUSIC's label history says Royal was an early label and was discontinued in Taishō 4 (1915); it separately dates the Nipponophone 15000 series from April 1923. If the 1651 label-family classification is accurate for the extant item, this is a strong pre-1926 terminus. **Reclassify as B — PROBABLE chronology**, conditional on physical confirmation of the Royal red-eagle label; no exact year, matrix or contemporary dated release list yet. Text/repertoire fit independently supported by Naramaru's 1912 anthology. Upgrade to A only after label/physical object and recording content inspection. Source: https://www.78music.jp/other5.html ; https://78music.jp/hNipponophone.html. Detailed note updated.
