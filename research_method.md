@@ -1,6 +1,6 @@
 # Research execution state
 
-Last updated: 2026-11-15
+Last updated: 2026-11-15 (continued)
 Repository: https://github.com/sloev/grudgemixes
 Default branch: `main`
 
@@ -176,3 +176,16 @@ Phase 3 — convert strongest B candidates into evidence-complete mix packages; 
 Phase 3 — make the provisional mixes evidence-complete; prioritize real audio/text verification and transfer/rights documentation.
 ## Exact next action
 A human project researcher must apply to FAU Research Station if eligible (the form requires real name/contact/status and detailed research-purpose statement; do not invent those details). If approved, inspect full item audio for 57310 and 54400, capture precise listening notes and transcribe the recorded excerpt. If not eligible, contact FAU RSA about supervised/alternative listening. In parallel, seek original Vocalion X-9560 pressing and compare the AWA reissue. Continue discovering another potential mix only when it can add a genuinely verified track, not merely another title.
+
+
+## Milestone 9 — Vocalion X-9560 issue and sessionography cross-check (2026-11-15)
+- Re-examined the 1926 Vocalion catalogue at both the artist entry and alphabetical index. It explicitly lists X-9560, 10-inch, Malcolm McEachern, Aeolian Orchestra, and *Alexander's Feast* Parts I & II; the catalogue foreword says the edition covers records issued through November 1925. This is catalogue-level issue evidence, not physical-carrier proof.
+- The specialist sessionography associates 03724 (“Revenge Timotheus cries, pt 1 & 3”) and 03725X (“d:o”) with X-9560 in a tentative London October 1924 session; 03725 (“Behold a ghastly band, pt 2”) is marked unpublished. Its “pt 1 & 3” wording conflicts or is at least unclear against the catalogue's “Parts I & II” description. Do not infer the exact sides, parts or take from these listings.
+- AWA's 4:51 McEachern *Arias* listing is a potential later listening/reissue lead, but it does not identify X-9560, matrices, carrier or transfer chain. A commercial CDR seller's listing likewise does not establish an authenticated source or reuse permission.
+- Updated the Handel research dossier and appended a detailed cooperation-log entry. Dossier commit: 2aac11eeaf5a0e9266af61e805c2831a16bb4724. Log commit: ed61eb73b89e9a433b7d5603ac472040f0702f71.
+- No original pressing, physical label/runout photograph or item-level archive audio located. No listening, archive contact, transfer verification or rights clearance. The dossier's LEAD status and formal candidate/README B mapping remain inconsistent; no status promotion was made.
+- Sources: https://78rpm.club/wp-content/uploads/2015/10/Vocalion-Records-Catalogue-1925-UK.pdf ; https://www.78opera.com/files/ARTIST_M.pdf ; https://prd-s.awa.fm/track/95f94923e616e638ed09 ; https://classicmusiccds.com/product/australian-bass-malcolm-mceachern-1883-1945-vol-1-cdr/ .
+## Active phase
+Phase 3 — make provisional mixes evidence-complete; pursue actual audio, exact transfer provenance and rights. Parallel X-9560 discographical work has reached a catalogue/sessionography cross-check but still lacks a physical disc or authenticated audio object.
+## Exact next action
+Seek an original Vocalion X-9560 pressing or high-resolution photographs of both labels and runouts from a traceable collection; ask the holder for provenance and whether a transfer exists. Specifically resolve whether 03724/03725X correspond to the catalogue's two advertised parts, and identify the source behind AWA's 4:51 listing before using it for listening comparison. Mix 01 remains blocked on a real, eligible human researcher's FAU access application or an alternative supervised listening arrangement; do not fabricate eligibility or submit on the user's behalf.
