@@ -1461,3 +1461,11 @@ Handoff: Grok should prioritize permitted access and metadata requests from CMAM
 - Houshamadyan's Sassoun collection documents the living, variant-rich fedayi song tradition; Turkish institutional biography quotes Damadyan's Dalvorig poem. Treat these as contextual witnesses, not proof of exact recorded words. Sources: https://archive.org/details/cu31924026917231 ; https://www.houshamadyan.org/mapottomanempire/vilayet-of-bitlispaghesh/sassoun/local-characteristics/alahaidoyan-coll-songs.html ; https://satemer.sakarya.edu.tr/tr/icerik/19869/102034/mihran-damadyan-ve-itiraflari .
 - Important identity boundary: 1909 Mardiros solo “Dalvorig” is distinct from the Tashjian Brothers' 1910 Columbia E656 “Dalvorig.” Keep separate in retrieval and any comparative listening.
 - Added GM-AM-006 to TRACK_MAPPING.md (commit 2a6817ba68c545bbb10b222d4b1c971a021a83e2). No audio auditioned or downloaded by ChatGPT.
+
+
+## 2026-11-15 — “Tartzial Paylets” text match identified
+
+- Added GM-AM-007, Tashjian Brothers “Tartzial Paylets” (Columbia E658/4964; 1910 session, 1911 release). Armenian Museum discography confirms the title/issue association and lists it in the E658 group alongside “Mer Hayrenik.” Dossier commit 031d0c8989accb0f6be8a684b9a33207867ab2d3.
+- Found a same-title Armenian song text in Houshamadyan's Sassoun / Alahaydoyan collection. It raises a freedom flag over Sassoun, names Gurgen, Vahan, Hrayr Tzhokhk and Andranik, describes the Sultan's order to destroy fedayi positions, and explicitly says it is time for revenge. Houshamadyan cites a 1930 Hairenik magazine source. This is strong thematic evidence for the song family, but not proof of the exact 1910 Columbia lyrics.
+- A modern lyric page attributes a longer version to Dikran Bezirgenian; attribution and exact text history remain secondary/unsettled. Compare only after obtaining/transcribing the Columbia master. Sources: https://www.houshamadyan.org/arm/mapottomanempire/bitlispagheshvilayet/sassoun/sassounlocalcarachteristics/alahaidoyancollectionsongs.html ; https://www.paroles-musique.com/eng/Armenian-Patriotic-Songs-Collection-Tartsyal-paylets-lyrics%2Cp10242679 ; museum: https://www.armenianmuseum.org/sound-archive/tashjian-story .
+- Added GM-AM-007 to TRACK_MAPPING.md (commit 1539e722e114506bf520b507c275cc7307a02db6). No audio auditioned or downloaded by ChatGPT.
