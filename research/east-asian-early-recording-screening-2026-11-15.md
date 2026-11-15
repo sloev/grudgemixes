@@ -237,3 +237,30 @@ Sources:
 - JapanKnowledge reference entry on Naniwabushi, stating Kumoemon's *Gishiden* record was released in 1912: https://japanknowledge.com/introduction/keyword.html?i=972
 
 Status: **HIGH-PRIORITY LEAD / NOT YET CANDIDATE / NOT CLEARED**. This gives a likely performer and title for the 1910 milestone, but exact disc, catalogue/matrix, source audio, precise text and rights remain unverified.
+
+
+### H. Nipponophone / early Japanese discography: exact Naramaru issue numbers and a primary-source verification route
+
+A specialist Nipponophone discography now supplies a more concrete set of Naramaru Gishi-series catalogue numbers, while the National Diet Library (NDL) identifies the primary printed sources needed to date and transcribe them:
+- 78MUSIC lists the pre-1915 single-sided Naramaru series under Nipponophone / earlier eagle-face label variants:
+  - **1645** — *赤穂義士討入* (*Akō Gishi Uchiiri*), Yoshida Naramaru.
+  - **1646–1648** — *大高源吾* (parts 1–3).
+  - **1649–1650** — *赤垣源蔵* (parts 1–2).
+  - **1651** — *赤穂義士伝 殿中刃傷* (the palace-corridor assault / grievance precipitating the revenge), Naramaru.
+  - **1652** — *義経安宅落* (not Gishi material).
+  - **1653–1654** — *南部坂雪の別れ* (parts 1–2), Naramaru.
+  - **1723–1724** — *赤穂浪士伝 間重次郎* (parts 1–2), Naramaru.
+  These entries are not individually dated on the 78MUSIC page. Do not assign an issue year based only on their sequence or label family.
+- The NDL's official prewar sales-catalogue guide records a **December 1912** *Shin-onpu tsuika mokuroku* (新音譜追加目録, YM2-L144), covering the Nipponophone eagle and red-paper labels; it also records March, April, May and November 1913 additions. This is a promising primary source to check whether Nos. 1645–1654 were already on sale by late 1912/1913. The catalogue is listed in the NDL holdings guide as a paper item, not as an openly digitized PDF.
+- NDL's Nitchiku reference guide explains that a **1914 fifth-edition *Chikuonki monku-shū*** (蓄音器文句集, 1914, call no. KH13-L245) transcribes Nitchiku record contents through January 1914, including title, performer, issue number and the actual spoken/sung text. If Nos. 1645/1651/1653 are included, this could give us a primary textual witness for the recorded Naramaru repertoire.
+- The same NDL guide identifies Kurata Hiroyuki and National Theatre's *Engei Record Sales Catalogue* (1990, call no. KD1-E21), covering Japanese performance records from 1909–1945 and listing title, performer, author, company, catalogue number and issue month in release order. This is the strongest next reference to consult for the 1910 *Akō Gishiden* and the early Naramaru issues.
+- The Kyoto City University of Arts archive history of Nitchiku confirms the company began its own disc manufacture in 1907 under the Nitchiku predecessor, that Nitchiku established its corporate identity in 1910, and that it recalled its old single-sided labels in 1915 when changing to double-sided Nipponophone eagle labels. Therefore the early 1645–1654 Naramaru titles are in the single-sided-era catalogue, not automatically the later 1923 double-sided 15139 issue.
+
+Sources:
+- 78MUSIC Nipponophone catalogue and Naramaru entries: https://www.78music.jp/other5.html
+- NDL, prewar record-company sales catalogues guide; 1912–13 Nipponophone catalogue holdings and access notes: https://ndlsearch.ndl.go.jp/en/rnavi/avmaterials/post
+- NDL, Nitchiku prewar recording publication guide; 1914 *Chikuonki monku-shū* and related lyric catalogues: https://ndlsearch.ndl.go.jp/en/rnavi/avmaterials/post_1198
+- NDL, domestic sound-recording publication research guide; Kurata's *Engei Record Sales Catalogue* and the SP lyric corpora: https://ndlsearch.ndl.go.jp/en/rnavi/avmaterials/2_11
+- Kyoto City University of Arts, Nitchiku / Nipponophone label chronology: https://rijtm.kcua.ac.jp/archive-db/archives/gallery/1008ohnishi/index.html
+
+Decision: these numbers make a concrete Naramaru Gishi disc series searchable in physical collections and institutional catalogues. No new issue is upgraded: catalogue numbers and performer are established by specialist discography, but issue date, matrix, exact text, raw transfer and rights still need primary verification. Immediate library requests: *Engei Record Sales Catalogue* (KD1-E21), *Chikuonki monku-shū* (KH13-L245), and the 1912–13 *Shin-onpu* sales lists (YM2-L144; YM2-M2340–2344).
