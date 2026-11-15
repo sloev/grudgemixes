@@ -44,3 +44,8 @@ The first search pass did **not** establish five to eight tracks satisfying all 
 3. Search the Great 78 Project for early commercial recordings with explicit catalog metadata, but verify that the audio file is a faithful archival transfer and determine the repository's reuse terms.
 4. Maintain a strict distinction between a song's narrative and a documented historical event.
 5. Deliver the first 5–8-track batch only when each candidate has an eligible master, eligible composition, exact archival audio file, and enough lyric/context evidence to support its taxonomy. Until then, label records as leads or rejects.
+
+
+## Methodology re-audit — 2026-11-15
+
+The original rejection above was made under the superseded rule requiring every credited composer/lyricist to have died before 1956. Under the revised [methodology](../METHODOLOGY.md), that death-date test is no longer a discovery gate. “Franky & Johnny” is now cross-listed as **B — PROBABLE CANDIDATE** in [the existing-lead re-audit](re-audit-existing-leads-2026-11-15.md), because the reported 1912 recording / c.1913 issue and the ballad's immediate-retaliation narrative warrant version-specific investigation. This does not resolve the exact recorded text, matrix/take, composition chronology, audio provenance or rights; the original caveats remain active. The old rejection is retained here as part of the audit trail, not as the current decision.
