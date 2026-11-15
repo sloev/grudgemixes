@@ -437,3 +437,10 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Added the distinction between the 78rpm commercial theatre repertoire and YIVO's broader mixed holdings; highlighted YIVO's research/education restrictions and the need to check exact original labels/matrices.
 - Sources: Aylward https://doi.org/10.3828/liverpool/9781906764739.003.0008 ; Forgotten Galicia https://forgottengalicia.com/shund-on-shellac-or-gimpels-theatre-lemberg/ ; IEMJ https://www.iemj.org/en/wandering-stars-songs-from-gimpels-lemberg-yiddish-theater-1906-1910/ ; YIVO https://www.yivo.org/Sound .
 - Map commit: fc6e7d7381722b4c1056bb33dc16436b7abe714d.
+
+
+## 2026-11-15 — ChatGPT (README research snapshot refresh)
+- Updated the README's current research snapshot from 2026-11-14 to 2026-11-15.
+- Added the Yamato On-ei Naramaru raid lead (sale documented by contemporaneous 1914-06-19 newspaper report), Takamine Chikufu's 1924 four-side biwa version, the exact Nichibunken Kumoemon 1912 archive item, and the Kolkata 1902 theatre lead.
+- Updated immediate priorities to reflect original Yamato disc identification, archive audio inspection, Papus/Homokord verification, and continued global regional searches.
+- README commit: e28b0c44737c2cc8dfba09ddd7092a1119074797.
