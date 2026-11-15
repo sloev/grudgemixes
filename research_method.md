@@ -189,3 +189,12 @@ A human project researcher must apply to FAU Research Station if eligible (the f
 Phase 3 — make provisional mixes evidence-complete; pursue actual audio, exact transfer provenance and rights. Parallel X-9560 discographical work has reached a catalogue/sessionography cross-check but still lacks a physical disc or authenticated audio object.
 ## Exact next action
 Seek an original Vocalion X-9560 pressing or high-resolution photographs of both labels and runouts from a traceable collection; ask the holder for provenance and whether a transfer exists. Specifically resolve whether 03724/03725X correspond to the catalogue's two advertised parts, and identify the source behind AWA's 4:51 listing before using it for listening comparison. Mix 01 remains blocked on a real, eligible human researcher's FAU access application or an alternative supervised listening arrangement; do not fabricate eligibility or submit on the user's behalf.
+
+
+## Milestone — Vocalion X-9560 physical-carrier search checkpoint (2026-11-15)
+
+- Re-read the current cooperation log, formal X-9560 dossier, global map and execution-state handoff before continuing.
+- Exact-identifier and image-oriented searches found no new physical-copy evidence: no traceable pressing, label/runout image, collection accession or authenticated archive transfer record.
+- Search results repeated the known 1926 Vocalion catalogue and 78opera sessionography. A commercial CDR listing is secondary and gives no source carrier; AWA's 4:51 digital listing still lacks carrier/transfer identification.
+- Updated the formal dossier, global map and cooperation log with this bounded negative result. No candidate/status/chronology promotion; no audio played, physical carrier inspected, archive contacted or rights cleared.
+- Next: seek a named holder/institutional accession and exact label/runout evidence; if none is found, select the next highest-value unresolved regional thread rather than repeating broad searches.
