@@ -455,3 +455,14 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Sources: Smith https://www.columbia.edu/~hds2/pdf/2006_Ako_Gishi_media_and_politics.pdf ; Tokita https://rijtm.kcua.ac.jp/pub/document2018-/publications/bulletin/15/kiyou15_tokita.pdf ; 78MUSIC https://www.78music.jp/other5.html ; secondary-market listing https://auctions.yahoo.co.jp/search/search/78%E5%9B%9E%E8%BB%A2sp%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/0/ .
 - Decision: Japanese Gishi/Naniwabushi is now better documented as a pre-1926 commercial recording ecosystem. No new item upgraded to candidate; exact 1910 first issue, 1914 Yamato disc identity/master, original audio transfer and commercial rights remain open.
 - East Asia note commit: cfb2998c84fd781ac9b86be7eb17a57ec3004e0d.
+
+
+## 2026-11-15 — ChatGPT (1910 Naramaru *Akō Gishiden* lead)
+- Added a provisional section to the East Asian screening note on the likely first Gishi record.
+- Henry D. Smith (2006) dates the first Gishi-tale record to August 1910 but does not identify it in the cited passage.
+- A Japanese academic article on the content industry states that a Naniwabushi recording titled *Akō Gishiden* appeared in 1910 and sold over 200,000 copies by 1915, citing Kurata Hiroyuki (2007), pp.65–70. A separate Otaru local-history article attributes this 1910 recording to Yoshida Naramaru II; treat this attribution as provisional pending Kurata / contemporary catalogue verification.
+- The National Theatre's Cultural Digital Library documents Naramaru's printed *Yamato Sakura Gishi no Omokage*, first part, in 1910, confirming a contemporary printed Naramaru Gishi text but not necessarily the exact disc content.
+- JapanKnowledge separately dates Tōchūken Kumoemon's *Gishiden* record to 1912 (reportedly 72,000 pressings), indicating a distinct later issue. Do not conflate it with the 1910 recording or with Kumoemon's 1912 Lyrophone *Akagaki Genzo: Tokkuri no Wakare* item.
+- Sources: Smith https://www.columbia.edu/~hds2/pdf/2006_Ako_Gishi_media_and_politics.pdf ; academic article / Kurata citation https://www.jstage.jst.go.jp/article/jasi/23/0/23_0_108/_pdf ; Otaru local history https://otarujin-no-bungakushi.com/?p=442 ; National Theatre https://www2.ntj.jac.go.jp/dglib/contents/learn/edc21/hirogari/wagei/wa2.html ; JapanKnowledge https://japanknowledge.com/introduction/keyword.html?i=972 .
+- Decision: high-priority lead, not candidate or cleared. Need Kurata 2007 pp.65–70 and an original 1910 label/catalogue/matrix/audio to establish exact disc and contents.
+- East Asia note commit: 18e6b3bec6d292dbb75c293c5be70f76957f455e.
