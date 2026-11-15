@@ -127,3 +127,29 @@ Nichibunken also digitizes *Yoshida Naramaru Kōen Naniwabushi Ohakoshū* (吉�
 Do not upgrade any item to A/B on catalogue presence alone. The next practical request to Nichibunken should ask for call-number-ordered access to 05077 (Hazama Jūjirō), 05084 (Akagaki Genzō), and 05123 (Kanzaki Azumakudari), and ask whether a digital audio file exists for 05077. Nichibunken's published policy says to apply at least one week in advance through a university/public library, limits use to 10 titles per day, and requests use of an available digital sound file in preference to handling the disc.
 
 Sources: Nichibunken archive records reg=525671 and reg=525710; Nichibunken 1912 booklet reg=553460; CiNii parent record BB17632622 and individual records BB17634016, BB17635201, BB17635937; 78MUSIC discography https://78music.jp/other5.html; Nichibunken SP-record access policy https://www.nichibun.ac.jp/en/library/guide/specialcollection_use/sprecord/.
+
+
+## New pre-1926 text witness and separate Taihei *Denchū Ninjō* recordings (2026-11-15)
+
+### The 1912 text gives explicit grievance and revenge language
+
+A digitized NDL-contributed booklet, *Naniwabushi Meikyoku-sen* (浪花節名曲選), has a section headed *Denchū Ninjō* under Yoshida Naramaru / Yoshida Naramaru-ke Tsugiyū. Its bibliographic header gives M45 (Meiji 45 = 1912), and the scan's text is legible enough to establish the plot and thematic content (NDL scan hosted at Wikimedia Commons, PDF pp. approx. 2–3; searchable text at https://upload.wikimedia.org/wikipedia/commons/c/c9/NDL891714_%E5%90%89%E7%94%B0%E5%A5%88%E8%89%AF%E4%B8%B8%E3%83%BB%E6%9D%B1%E5%AE%B6%E6%A5%BD%E9%81%8A%E6%B5%AA%E8%8A%B1%E7%AF%80.pdf).
+
+The passage titled 「殿中忍従」 says that Asano Naganori (Takumi-no-kami) endures because drawing a sword in the palace would bring the house's extinction and his own seppuku, and he fears for his retainers. At the corridor entrance he is insulted as a “dog samurai” and “inhuman” and accused of theft; his patience then breaks. He draws the short sword and attacks Ueno/Kira, but the blow fails to achieve his purpose. The text then says his forty-seven retainers avenge their lord on the snowbound night at Sengakuji. This is direct textual evidence for grievance, insult, a failed immediate retaliation, and a later collective revenge. It is a printed performance text, not a recording; it does not prove that a given SP contains this exact wording.
+
+A second digitized Naramaru booklet, *Gishi no Issetsu — Naniwabushi Jūhachi-ban, Yuki no Maki* (義士の一節 浪花節十八番 雪の巻), includes the chapter sequence “Asano Takumi-no-kami's attack in the palace,” Tamura residence, seppuku, the Akō castle oath, and later “the raid on Kira's mansion” / “the fulfillment of the retainers' purpose.” It therefore documents the episode as part of a larger performance cycle, but the current scan metadata and date still need bibliographic verification before assigning a publication year. PDF: https://upload.wikimedia.org/wikipedia/commons/8/83/NDL891540_%E7%BE%A9%E5%A3%AB%E3%81%AE%E4%B8%80%E7%AF%80_-_%E6%B5%AA%E8%8A%B1%E7%AF%80%E5%8D%81%E5%85%AB%E7%95%AA_%E9%9B%AA%E3%81%AE%E5%B7%BB_part2.pdf.
+
+### Two distinct *Denchū Ninjō* discographic branches — do not conflate
+
+1. **Nipponophone/Royal-era Yoshida Naramaru, number 1651.** 78MUSIC lists *Akō Gishiden: Denchū Ninjō*, Osaka Yoshida Naramaru, no. 1651, one-sided, alongside *Gishi Toiri* 1645 and *Hazama Jūjirō* 1723–1724. The Nichibunken/CiNii Naramaru *Akō Gishiden* parent record BB17632622 separately includes a *Denchū Ninjō* item among its seven related titles. Likely the same catalogue trail, but no exact label/matrix link or date is yet established. Do not assign pre-1926 solely from adjacent catalogue numbers.
+2. **Taihei, third-generation Yoshida Naramaru.** CiNii BB17753999 describes a four-disc 25 cm SP set, title *Denchū Ninjō: Naniwabushi*, performer Yoshida Naramaru III, Taihei, date “[19--]”; first part number 10254 and later part numbers 10255–10257. Nichibunken holdings: call no. 05193 (first part; material 00525780) and 05195 (later part; material 00525782). This is a distinct later-generation performance and is not the earlier 1651 item. With no firm date, it remains outside the core pending proof of pre-1926 release/session.
+
+### Status
+
+- The *Denchū Ninjō* **story/text** is now strongly eligible thematically on a 1912 printed witness: grievance/insult → failed immediate retaliation → collective revenge.
+- The 1912 printed text is not a recording and is not an A/B sound candidate.
+- The **Nipponophone/Royal 1651** recording is C — LEAD pending date, physical label/matrix, and audio.
+- The **Taihei 10254–10257, Naramaru III** set is C — LEAD with unresolved chronology; likely a distinct generation/issue, and should not enter core without pre-1926 proof.
+- The 1912 text must not be used to claim the exact words or sequence are present on either recording until audio or record-specific text is matched.
+
+Sources: NDL scan *Naniwabushi Meikyoku-sen* (M45/1912); NDL scan *Gishi no Issetsu*; CiNii BB17753999; CiNii parent BB17632622; 78MUSIC discography https://www.78music.jp/other5.html.
