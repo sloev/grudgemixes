@@ -151,3 +151,8 @@ Separately, Daniel K. Avorgbedor's peer-reviewed 1994 article dates *haló* from
 - Added C / LEAD for R.S. Rattray's Techiman Apoɔ male-chorus wax-cylinder recording (16 Apr 1922), with a separate Mampong *Kwadwom* session (Wudu Atiahonea and Yaw Ansere, 6 Jan 1922; BL C176/241). The former has thematic relevance to grievance/public accountability, but exact item/audio/text remains unverified. Digitized copies of Rattray's 1921–22 cylinders were reportedly transferred to the J.H. Kwabena Nketia Archive in 2018.
 - Corrected Zonophone 3983: a secondary discography lists 1925, but Afrodisc's matrix-level dates place both sides in March/April 1927; exclude from core. Keep distinct from 3972 (20 Nov 1925), which remains C / LEAD pending actual text/audio.
 - Detailed additions and source trail: `research/african-early-recording-leads-1923-1925.md`.
+
+
+## 2026-11-15 correction — Wagner Cc1586-1
+
+The matrix catalogue identifies Cc1586-1 as “Hagen's Watch, A1” (*Hier sitz' ich zur Wacht*), not the later discographical label “Hagen meditates revenge.” In Act I, Scene 2, Hagen guards the hall and broods on obtaining the Ring; the explicit revenge promise to Brünnhilde occurs in another scene. Recording chronology remains B/strongly corroborated, but thematic fit is not established. Do not count it as a revenge candidate without exact audio and text verification. See research/lead-wagner-hagen-meditates-revenge-1922.md for the full correction and sources.
