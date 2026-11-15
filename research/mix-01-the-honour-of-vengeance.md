@@ -10,7 +10,7 @@ Two early commercial opera excerpts make vengeance an explicit public declaratio
 
 ### 1. Camille Saint-Saëns — “Vengeance at Last”
 - **Recording:** Emilio de Gogorza, baritone; Louise Homer, contralto; orchestra.
-- **Carrier/issue:** Victor 87501, 10-inch, single-sided 78rpm.
+- **Carrier/issue:** Victor 87501, 10-inch, single-sided 78rpm. UCSB's Victor Red Seal Discography, the November 1908 *Talking Machine* advertisement, FAU and HRS all support 87501; the 89501 appearing in a modern Marston listing is treated as an isolated transcription discrepancy.
 - **Matrix/session:** B-6227-2, take 2; Camden, 25 May 1908.
 - **Language:** English, specified in November 1908 Victor trade advertising; exact performed text still to be checked.
 - **Archive access:** Florida Atlantic University Recorded Sound Archives, item 57310: https://rsa.fau.edu/album/57310
@@ -30,7 +30,7 @@ Two early commercial opera excerpts make vengeance an explicit public declaratio
 
 ## Draft liner note (approx. 190 words; revise after listening)
 
-Vengeance is rarely a single voice. In Camille Saint-Saëns's *Samson et Dalila*, the Philistine High Priest and Dalila turn political defeat into a private conspiracy: the phrase “Vengeance at Last” names a plan to break Samson by exploiting the intimacy he trusts. Victor recorded the English-language selection in Camden on 25 May 1908, with contralto Louise Homer and baritone Emilio de Gogorza. Thirteen years later, Verdi's *Rigoletto* offers a different register. Evelyn Scotney and Giacomo Rimini perform “Sì, vendetta,” the Act III duet in which Rigoletto's carefully arranged retaliation meets Gilda's troubled participation. One grievance is collective and religious-political; the other is familial, shaped by sexual abuse, betrayal and unequal power. Neither scene is a documentary account, and neither makes revenge morally simple. These records preserve something more revealing: how the operatic stage made retaliation legible as both declaration and strategy. The 1908 Victor issue is securely tied to its matrix and session; the Vocalion recording is identified by catalogue and specialist sessionography, though its exact date and matrix still need confirmation.
+Vengeance is rarely a single voice. In Camille Saint-Saëns's *Samson et Dalila*, the Philistine High Priest and Dalila turn political defeat into a private conspiracy: the phrase “Vengeance at Last” names a plan to break Samson by exploiting the intimacy he trusts. Victor recorded the English-language selection in Camden on 25 May 1908, with contralto Louise Homer and baritone Emilio de Gogorza. Thirteen years later, Verdi's *Rigoletto* offers a different register. Evelyn Scotney and Giacomo Rimini perform “Sì, vendetta,” the Act III duet in which Rigoletto's carefully arranged retaliation meets Gilda's troubled participation. One grievance is collective and religious-political; the other is familial, shaped by sexual abuse, betrayal and unequal power. Neither scene is a documentary account, and neither makes revenge morally simple. These records preserve something more revealing: how the operatic stage made retaliation legible as both declaration and strategy. The 1908 Victor issue is securely tied to Victor 87501, matrix and session; the Vocalion recording is identified by the linked 30146 / 60019 catalogues and specialist sessionography, though its exact date and matrix still need confirmation.
 
 ## Release-readiness gates
 
@@ -57,8 +57,8 @@ Vengeance is rarely a single voice. In Camille Saint-Saëns's *Samson et Dalila*
 
 ## Source and discrepancy notes
 
-- FAU item 57310 lists Victor 87501, Louise Homer and Emilio de Gogorza, single-sided 10-inch 78rpm; matrix/date blank on the item page. UCSB and HRS supply B-6227-2, Camden, 25 May 1908. The 1908 trade ad independently confirms Victor 87501 and English language. One secondary source lists 89501; retain as a discrepancy, but 87501 is supported by the contemporaneous and institutional sources.
-- FAU item 54400 lists catalogue 60019, track 2 “Rigoletto - Si vendetta,” and Scotney/Rimini. Mintzer's specialist discography lists session 7176, ca. March 1921, issue 30146 / B60019; the date is tentative and Vocalion matrix data are known to be difficult.
+- FAU item 57310 lists Victor 87501, Louise Homer and Emilio de Gogorza, single-sided 10-inch 78rpm; matrix/date blank on the item page. UCSB and HRS supply B-6227-2, Camden, 25 May 1908. The 1908 trade ad independently confirms Victor 87501 and English language. Marston's modern reissue listing gives 89501, but UCSB, the 1908 trade advertisement, FAU and HRS all give 87501; treat 89501 as a likely transcription error unless a physical label proves otherwise.
+- FAU item 54400 lists catalogue 60019, track 2 “Rigoletto - Si vendetta,” and Scotney/Rimini. UCSB's *American Celebrity Recordings* pairs Vocalion 30146 with 60019 for Scotney's “Si vendetta” with Rimini; Mintzer's specialist discography lists session 7176, tentatively ca. March 1921. Exact matrix/take and date remain open.
 - Full French libretto is used to establish dramatic context, not to claim that the Victor disc contains the French words. The contemporaneous advertisement says the recording is in English.
 
 ## Current decision
