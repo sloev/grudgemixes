@@ -776,3 +776,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - This is a separate episode recording, not the Royal *Akō Gishi-den Toiri* raid disc from the 2016 prospectus. Kept separate from Royal 1645/1649 and Nipponophone 15139-A/B. No recording date, matrix, audio content or rights status established. Archive page retrieval returned 403 in this pass; the OPAC record itself was accessible.
 - Updated the detailed Japanese note, re-audit and global map. Status C — LEAD pending date and audio/text inspection.
 - Sources: https://toshonin.nichibun.ac.jp/webopac/ctlsrh.do?ncid=BB17634016&search_mode=detail&tab_num=0&locale=en ; https://ci.nii.ac.jp/ncid/BB17634016 ; archive record link https://kutsukake.nichibun.ac.jp/rsp/?reg=525664.
+
+
+## 2026-11-15 — ChatGPT (Naramaru series expansion and archive-access route)
+- Cross-checked Nichibunken/CiNii parent record BB17632622 and 78MUSIC. Identified a seven-item Akō Gishiden SP grouping; 78MUSIC maps Royal 1723–1724 to *Hazama Jūjirō*, 1725–1728 to *Kanzaki Yūgorō*, 1729/1732 to *Ōishi Kuranosuke Yamashina-gaeri*, and 1733–1734 to *Amanoya Rihei*. Catalogue associations are not dates.
+- Found Nichibunken archive entry *Akagaki Genzō Tokuri no Wakare*, Naramaru, Royal 1853, reg=525671, call 05084, one-sided 3:42; audio publicly accessible but transfer marked poor, and the theme is not yet shown to meet criteria. Found separate *Kanzaki Azumakudari*, Naramaru, Nipponophone 15572–15574, three discs, reg=525710, call 05123, with public audio interface. Kept distinct from 1725–1728 *Kanzaki Yūgorō*.
+- Found 1912 printed Naramaru repertoire booklet (reg=553460; 27 pp.) listing *Nanbuzaka Yuki no Wakare* and an excerpt of *Kanzaki Yūgorō Azumakudari*. It establishes repertoire by 1912, not date/text of any individual disc. Page images returned 403.
+- Recorded Nichibunken's access procedure: apply at least one week ahead through a university/public library, max 10 titles/day, request digital audio if available. Recommended request call nos. 05077, 05084, 05123.
+- Updated detailed Japanese note, re-audit and global map. All sound items remain leads/context until date and content are verified.
+- Sources: https://kutsukake.nichibun.ac.jp/rsp/?reg=525671 ; https://kutsukake.nichibun.ac.jp/rsp/?reg=525710 ; https://kutsukake.nichibun.ac.jp/rsp/?reg=553460 ; https://www.nichibun.ac.jp/en/library/guide/specialcollection_use/sprecord/ ; https://78music.jp/other5.html.
