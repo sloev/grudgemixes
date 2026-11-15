@@ -18,13 +18,16 @@ Purpose: coordinate archival research, discographical verification, rights revie
 6. Editorial decisions and final commercial clearance require human review. No agent may promise worldwide clearance from a single date or repository label.
 
 ## Candidate acceptance and rights gates
-- Initial master cutoff: published or fixed before 1926-01-01. Record both publication and fixation dates where known; do not conflate them.
-- Composition gate: traditional with documented provenance, or author/composer/lyricist death before 1956-01-01. Identify translators, arrangers and later adaptations separately.
-- Audio gate: link to the exact archival audio object/file and document whether it is an unedited transfer of the original cylinder/disc. A repository page is not proof that a file is raw or that the transfer carries no separate rights.
-- Rights gate: assess master, composition, performer/producer/phonogram rights, archival digitization/transfer terms, repository terms, and territory. US and EU status must be assessed separately; publication/fixation status and national rules matter.
-- Approved first-pass repositories: Internet Archive / Great 78 Project; Library of Congress / National Jukebox; UCSB Cylinder Audio Archive; Europeana; national sound archives with explicit rights statements.
-- Never describe a recording as globally public domain or commercially cleared unless the relevant rights and territories have actually been checked. Use **NOT CLEARED** where appropriate.
 
+The authoritative current rules are in [METHODOLOGY.md](METHODOLOGY.md). The former rule that every candidate had to pass composition-death, raw-audio and rights gates before discovery is superseded.
+
+- Core recording window remains published or fixed before 1926-01-01; record publication and fixation separately. Classify date as CORE DATE — VERIFIED, PROBABLE DATE, DATE UNCERTAIN or OUTSIDE CORE.
+- Composition chronology is version-specific. Traditional/anonymous material may qualify with documented provenance; later adaptations/translations/lyrics must be dated separately. Unknown authorship/date is provisional, not an automatic rejection.
+- Thematic scope includes grievance responses beyond revenge: retaliation, punishment, defiance/resistance, accusation, protest, curses, feuds, spite and collective grievance. Lament/betrayal/resentment need a further grievance response; generic sadness or a suggestive title is insufficient.
+- Candidate evidence levels: A — VERIFIED RESEARCH CANDIDATE; B — PROBABLE CANDIDATE; C — LEAD. Candidate means worth investigating, not release-ready.
+- Raw unedited archival transfer is the preferred final audio source, not a discovery gate. Record carrier, exact item, access copy, transfer provenance and processing separately.
+- Rights are a separate workstream: assess composition, lyrics/adaptations, master/phonogram, performer, transfer/digitization, repository terms and territories independently. Streaming access is not commercial permission. No status implies worldwide clearance.
+- Retain historical statuses in old notes; during re-audit map them transparently to A/B/C and preserve previous wording and reasons.
 ## Required candidate record
 - Candidate ID; status; proposed mix/sequence.
 - Performer(s); title as catalogued; original language; genre/local term.
