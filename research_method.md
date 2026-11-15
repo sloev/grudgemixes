@@ -148,3 +148,6 @@ Phase 3 — convert strongest B candidates into evidence-complete mix packages; 
 3. Resolve Victor 87501 label/runout and the conflicting 89501 secondary listing; seek Vocalion 60019 label/runout and session/matrix evidence.
 4. In parallel, audit the next strongest candidates (Armenian Victor 69102, Japan Royal 1651, Yiddish Papus Rache, Handel and Wagner leads) against the same mix-ready gates. Only promote a track when its exact performed content and date can be tied to an eligible master.
 5. Develop at least two further distinct mix concepts from verified/probable tracks, preserving geographic and language diversity and avoiding a quota-driven lowering of evidence standards.
+
+- Added formal candidate GM-UK-001: Handel / Malcolm McEachern, “Revenge! Timotheus Cries,” Vocalion X-9560. Contemporary 1925 catalogue gives a two-part issue; specialist sessionography suggests London October 1924? with session/matrix references 03724/03725. Text chronology and grievance/revenge mechanism are strong; audio item not yet found. B — PROBABLE.
+- Expanded provisional Mix 01 “The Honour of Vengeance” to three tracks: Handel/McEachern, Saint-Saëns/Homer–de Gogorza, Verdi/Scotney–Rimini. No audio was listened to and no rights or transfer clearance claimed.
