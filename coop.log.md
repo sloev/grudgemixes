@@ -928,3 +928,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Caruso is now described as C — thematically outside / negative control, consistent with the re-audit; Saint-Saëns and Verdi are B; Naramaru and Takamine B; Kumoemon, Papus and Kolkata C; Handel and Wagner shown as provisional B because their detailed dossiers still use LEAD/C language and the discrepancy remains open.
 - Added explicit statement that the README table is a priority snapshot, not an exhaustive inventory; states the current crosswalk has no A-level candidates, 8 provisional B and 18 C plus one Greek false positive outside core. Reiterated that evidence level is not audio readiness or rights clearance.
 - No candidate dossier status was overwritten. Next: inspect root README local links and the newly added report links; decide whether to make a separate index/rights/archive-request register only after editorial agreement. Continue item-level evidence research after repository crosswalk stabilizes.
+
+
+## 2026-11-15 — ChatGPT (cross-module link QA and persistent-state documentation)
+
+- Parsed relative Markdown links in `README.md`, `research/formal-candidate-record-audit-2026-11-15.md`, `research/research-dossier-architecture-audit-2026-11-15.md`, `research_method.md` and `research/re-audit-existing-leads-2026-11-15.md`. README's 18 relative links point to repository paths present in the live inventory; the audit/state reports contain no local links requiring resolution.
+- Confirmed the Macario catalogue caution is now outside the re-audit Markdown table; the earlier table interruption is repaired.
+- Updated README repository layout to list root `METHODOLOGY.md` and `research_method.md`; contributor instructions now require reading the persistent handoff before continuing. Commit 3a4dde427489932a32ce8037cdec6418949c95ba.
+- Current research directory has 26 files (24 original research files + 2 audit reports). Formal candidates remain 4. No software source/test modules exist in Grudgemixes; the technical audit is document/schema/workflow integrity.
+- Next: establish a compact research index/crosswalk only if it reduces duplication, then begin evidence work on strongest B candidates. The first high-value unresolved issues are exact performed text/audio for Victor 69102 and Victor 87501, matrix/session for Vocalion 60019, and Handel/Wagner B-vs-C status reconciliation.
