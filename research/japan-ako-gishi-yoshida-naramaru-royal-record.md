@@ -268,3 +268,46 @@ The NDL catalogue confirms *Chikuonki Monkusū*, fifth edition, 正文舘, Janua
 - **Overall candidate: C — LEAD pending exact carrier-to-performance linkage.** Do not promote the recording as a verified thematic track merely because the title and separate 1912 text align. A future promotion requires the actual label/matrix and an audio or record-specific text comparison.
 
 This consolidates evidence already present in the larger East Asian screening dossier; it is not a newly discovered museum holding. The main improvement in this run is integration into this canonical item note and correction of the Kushiro company-column interpretation. Keep the separate Nichibunken *Toiri* Royal object, ToMuCo Royal *Akō Gishiden* set, Taihei Naramaru III recordings, and Royal 1645/1649/1723–1724 issues distinct.
+
+
+
+
+## Separate Naramaru recording witnesses: 1914 Yamato and Nichibunken Royal 1853 (2026-11-15)
+
+### 1914 Yamato On-ei / horse-mark Naramaru recording group
+
+Onishi's 2023 Ritsumeikan University study reproduces a contemporaneous *Osaka Mainichi* Kyoto-Shiga supplement report dated 19 June 1914. It reports that Tokyo's Yamato On-ei commissioned Yoshida Naramaru to record and sold three of his signature Naniwabushi pieces under the horse-mark: **義士の討入** (*Gishi no Uchiiri*), **源蔵徳利の別れ** (*Genzo Tokkuri no Wakare*) and **南部坂** (*Nanbuzaka*). The article's Fig. 5 reproduces a genuine Yamato/Naramaru record label, visibly marked YAMATO RECORD and “RECORDED BY YAMATO ON-EI KABUSHIKI KAISHA.”
+
+This materially strengthens the chronology of Naramaru's direct raid narrative as a commercial recording offered by June 1914. But the photograph is captioned generically as a Yamato/Naramaru record; the visible label does not identify which of the three titles it contains and does not expose a readable issue number or matrix. Thus the report proves that *Gishi no Uchiiri* was among the titles sold, while the label image proves that a physical Yamato/Naramaru record existed; it does **not yet prove the photographed disc is the specific *Gishi no Uchiiri* item**. Keep as **B — HIGH-PRIORITY LEAD / NOT EXACT CARRIER-MATCHED**.
+
+Onishi also reproduces a 16 July 1914 *Hinode* report concerning a separate record-copying dispute involving Naniwabushi records. This is period reporting about a historical dispute, not a determination of present rights in any master or transfer. No rights conclusion follows from it.
+
+### Nichibunken Royal 1853 — *Akagaki Genzo Tokkuri no Wakare*
+
+Nichibunken Rōkyoku SP Digital Archive item **525671** identifies a physical one-sided disc:
+- Title: *Akagaki Genzo Tokkuri no Wakare* (赤垣源藏徳利の別れ)
+- Performer: Yoshida Naramaru
+- Label / catalogue number: Royal Record **1853**
+- Side duration: A 3:42
+- Set: one disc / one-sided
+- Release date: not supplied
+- Collection: Morikawa Tsukasa Collection
+- Condition note: playback poor
+- Digitization: laser turntable / phono equalizer / ADC; item marked internet-open
+
+This is a separate Naramaru Royal disc, not Kumoemon's 1912 Lyrophone E1009/70937–70940 (Nichibunken register 519319), and not the Royal 1651 *Denchū Ninjō* or Royal 1645 *Akō Gishi Uchiiri* object family. It corroborates Naramaru's recorded *Akagaki Genzo* repertoire but gives no pre-1926 issue date and does not by itself show a direct grievance/retaliation passage. Keep **C — CONTEXTUAL PHYSICAL LEAD**. Nichibunken's archive overview states that label images are public, while audio is public only where copyright term has expired; the direct item page returned 403 in this session, so the label image was not actually inspected and the audio was not played.
+
+### Next verification
+
+1. Inspect the archive's label images for register 525671; record the visible label text, any number and any matrix/runout evidence separately from catalogue metadata.
+2. Search Nichibunken for Yoshida Naramaru's *Gishi no Uchiiri*, Royal 1645 and the Yamato On-ei titles. Do not assume a search hit is the same object as Kushiro's Royal 1645 or the 1914 Yamato disc.
+3. Obtain a legible Yamato/Naramaru label with title and catalogue/matrix, or inspect the 19 June 1914 *Osaka Mainichi* Kyoto-Shiga supplement issue. NDL confirms its holdings of *Osaka Mainichi* on microfilm; the exact 1914 issue and page still need access.
+4. Keep the July 1923 Nipponophone 15139-A/B issue separate; no master equivalence with the 1914 Yamato disc has been shown.
+
+Sources:
+- Onishi, *ART RESEARCH* 23-2 (2023), pp. 84–85: https://www.arc.ritsumei.ac.jp/download/ar/ar23/artresearch_23.pdf
+- Nichibunken item 525671: https://kutsukake.nichibun.ac.jp/rsp/?reg=525671
+- Nichibunken archive overview: https://kutsukake.nichibun.ac.jp/rsp/about/
+- Nichibunken archive announcement: https://www.nichibun.ac.jp/en/topics/db/2020/06/24/s001/
+- NDL *Osaka Mainichi* holdings: https://ndlsearch.ndl.go.jp/books/R100000002-I000000098327
+- 78MUSIC Nipponophone 15139-A/B: https://www.78music.jp/other5.html
