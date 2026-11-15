@@ -240,3 +240,23 @@ A fresh source check strengthens the historical setting but does not yet upgrade
 - UCSB separately describes its broader Performing Arts sound-recording holdings as including commercial 78rpm discs, cylinders, trade catalogues and international material. This makes a search of both the African 78rpm collection and the broader UC Library Search catalogue worthwhile; collection-level scope is not evidence that item 3972 is held. Source: https://www.library.ucsb.edu/special-collections/performing-arts/pasound.
 
 **Run decision:** retain “Ewe Battle Hymn” at C — LEAD. Exact session/master and Ewe language are well supported by the specialist discography; the thematic relation to *haló*, Kpegisu, Yakagbe or any particular conflict remains unproven. No verified audio or transcript surfaced in this run. Next action: query UCSB by both catalogue number “Zonophone 3972” and matrix “Yy7339-2,” request label/runout and transfer metadata if held, and ask an Anlo-Ewe language/music specialist to identify the recorded text only after obtaining the audio.
+
+
+## 2026-11-15 — Anlo-Ewe oral-history text cross-check (Gbolonyo 2005)
+
+A closer reading of Justice Stephen Kofi Gbolonyo's University of Pittsburgh MA thesis, *Want the History? Listen to the Music! Historical Evidence in Anlo Ewe Musical Practices: A Case Study of Traditional Song Texts* (2005), supplies a more specific Anlo-Ewe repertoire context than the broad “war-song tradition” summary above. It does **not**, however, identify the text of Nathaniels's 1925 “Ewe Battle Hymn.”
+
+### Texts and themes documented independently of Zonophone 3972
+
+- In a discussion of Anlo political and military song (thesis pp.52–53), Gbolonyo describes a song warning attackers that harm done to Anlo will not be forgotten merely because no immediate response follows: the community will respond in due course. This is a direct collective grievance / delayed-retaliation theme. The excerpt available in the thesis does not securely give the song's title or full Ewe text in the same passage; do not invent one or attach it to Nathaniels.
+- The thesis transcribes an *Atamga/Atrikpui* song, “Atamga Ya De Mie Gbloe Dzro,” with a literal translation about a sworn oath that may have to be broken because “so long as the enemy persists” the community cannot stand aside. Gbolonyo interprets it as defensive resistance to an ongoing attack, not private revenge (pp.54–55).
+- An *Akpoka* song, “Mila yi Ahoe,” includes the line rendered “When the day of reckoning is come, / You would hear from us.” Gbolonyo interprets it in a historical narrative of escape from slave traders / oppression, while noting competing accounts linking it to Agokoli/Notsie or European encounter and slavery. Its precise origin is uncertain; the text expresses deferred response and hope for freedom (pp.74–75).
+- Gbolonyo also recounts Yakagbe, an Anlo woman whose son was killed in war: she vowed revenge, joined the male fighters, and her courage is associated with the later institution of *kpegisu* in her honour (pp.95–96). This is a strong revenge narrative in Anlo cultural memory, but the thesis does not establish that any particular Yakagbe song is the 1925 recording.
+
+### Editorial consequence for “Ewe Battle Hymn”
+
+This research upgrades the **contextual plausibility** that an Anlo-Ewe martial song could articulate collective injury, delayed retaliation or resistance. It does not upgrade the recording's thematic evidence: “Native melody” and “Ewe Battle Hymn” remain catalogue descriptors, not a transcript. The 1925 recording stays **C — LEAD** until the actual Yy7339-2 performance is heard and transcribed, and its relationship (if any) to *Atamga*, *Atrikpui*, *Akpoka*, *Kpegisu* or another named tradition is established by evidence.
+
+### Source
+
+- Justice Stephen Kofi Gbolonyo, *Want the History? Listen to the Music! Historical Evidence in Anlo Ewe Musical Practices: A Case Study of Traditional Song Texts* (MA thesis, University of Pittsburgh, 2005), especially pp.52–55 and 74–75, 95–96: https://d-scholarship.pitt.edu/6773/1/JSKofiGbolonyoPhDdiss2005FinalETD.pdf . The thesis is an ethnomusicological/oral-history source for Anlo repertoire and interpretation, not a discographic or sound-recording source.
