@@ -73,3 +73,10 @@ AMAR Foundation documents several 1908 commercial recordings commemorating Musta
 Source: AMAR Foundation, “007 – Muṣṭafa Kāmil Bāshā – Min Al Tarikh”: https://www.amar-foundation.org/007-mustafa-kamel/ .
 
 **Decision unchanged:** the Dinshaway mawwāl remains an oral/textual lead only. No exact recording, master, label, matrix, raw transfer or rights evidence has been identified.
+
+
+### Identification refinement for the 1908 control disc
+
+The Arabic AMAR page identifies the single-sided 012250 / matrix 37P item as **“Yā Mufrad al-Ghīd”**, sung by ʿAbd al-Ḥayy Ḥilmī, and says it appears to have been recorded around Mustafa Kamil’s death, with a prayer for mercy for him. Keep this distinct from Ibrahim al-Qabbani’s separately documented two-sided “Mustafa Kamil” mawwāl (Gramophone G.C.11-12282 / G.C.11-12283; matrices 11948b / 11949b). The 012250 item is therefore a topical contemporary mawwāl reference, but the title itself is not “Mustafa Kamil.”
+
+Arabic source: https://www.amar-foundation.org/ar/007-mustafa-kamel/ .
