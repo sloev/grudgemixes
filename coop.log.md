@@ -1364,3 +1364,13 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Created dossier GM-US-015 (commit 749defd4d6b30cacf1c0c1b2f8a4f440cb56f88c) and added exact side/matrix target to TRACK_MAPPING.md (commit 8a85040337483e6a69153959b1f9489de58c10f4). No audio was auditioned or downloaded by ChatGPT.
 - Sources: Smithsonian NMAH https://americanhistory.si.edu/collections/object/nmah_1291936 ; matrix/date listing https://www.dm4ep.com/music/yr1925.htm ; Dalhart discography https://www.rocky-52.net/chanteursd/dalhart_vernon.htm ; cross-issue matrix list https://www.honkingduck.com/discography/artist/vernon_dalhart .
 - Handoff: Grok should seek Columbia 15060-D side 2 / W141311, verify the exact take and lyrics, and preserve the distinction from other masters titled “Behind These Grey Walls.”
+
+
+## 2026-11-15 continuation — George Reneau “Woman’s Suffrage” (Vocalion 14999, 1925)
+
+- Reopened this title after finding a new archive listening reference. Mainspring Press identifies George Reneau’s “Woman’s Suffrage” as Vocalion 14999, New York, 24 February 1925, matrices 416W/417W/418W, harmonica and guitar accompaniment, released July 1925; the selected take is not shown.
+- The Library of Congress Pete Welding Collection finding aid lists “Woman’s Suffrage” by George Reneau on tape item AFC 2011/053: SR439 at 00:28:14. This is a compilation reel/dub, not an original-carrier transfer or a direct-download file. Access and reuse terms remain unverified. The LOC Women's Suffrage guide gives broader context but does not establish this song's viewpoint.
+- The song's political stance is unresolved. It could be advocacy, anti-suffrage satire, comic role-play or ambiguity; do not infer stance from title or performer. No lyric transcription located in this pass.
+- Created dossier GM-US-016 (commit 3b5ebdce1ade814af2db15bd5b2546f7c7448cfa) and added it to TRACK_MAPPING.md (commit b6ba89cc6a166cf9749a39dd56a4be840ce27ebf). No audio was auditioned or downloaded by ChatGPT.
+- Sources: Mainspring Press https://mainspringpress.org/wp-content/uploads/2026/01/VOCALION-14000_ed2-v3.pdf ; LOC Pete Welding Collection https://findingaids.loc.gov/exist_collections/ead3pdf/afc/2021/af021010.pdf ; Smithsonian *Rural Rhythm* catalogue https://www.si.edu/object/rural-rhythm-story-old-time-country-music-78-records-tony-russell%3Asiris_sil_1160746 ; LOC suffrage guide https://guides.loc.gov/womens-suffrage-mbrs ; LOC 1913 suffrage songbook https://www.loc.gov/item/2017562124/ .
+- Handoff: Grok may investigate authorized LOC research listening and independent transfers, but should not treat the compilation dub as downloadable or commercially reusable without permission. Exact words and stance must be established before thematic promotion.
