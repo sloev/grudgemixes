@@ -87,3 +87,6 @@ FAU Recorded Sound Archives item 54400 has an embedded audio player for the exac
 ## FAU full-audio access route (2026-11-15)
 
 FAU's Recorded Sound Archives Research Station describes a password-protected virtual music library with metadata, images and digitized streaming audio, containing over 99,000 full tracks. External access is limited to educators, students and serious researchers, who may apply by providing status and a detailed academic/educational purpose and relevant expertise. This is a concrete route to request full listening access to item 54400 rather than relying on the public item page's legacy player/possible preview restrictions. Approval is not guaranteed and does not grant reuse rights. Research Station overview: https://rsa.fau.edu/rs ; external application: https://rsa.fau.edu/rs/register.
+
+
+**Playback caveat:** the public item page displays a legacy player and says an updated browser or Flash plug-in is required. Do not claim that the public page currently plays in a modern browser. The Research Station application route above is the practical next step for a full digital listen.
