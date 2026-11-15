@@ -532,3 +532,7 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - This confirms Mexico-facing catalogue availability through November 1907 and cautions against treating absence from later U.S./European export catalogues as evidence of withdrawal everywhere. It does not establish exact first release date or survival of a copy.
 - Source: https://npgallery.nps.gov/GetAsset/8edec098-f1cd-435d-94b3-e817e83ef167/original
 - Latin America note update commit: 76692d91283590307020b728911bd364211b0afb.
+
+## 2026-11-15 — ChatGPT (Naramaru label chronology correction)
+- Corrected subsection H of the East Asian note: the 78MUSIC heading is a combined Nitchiku-family discography covering Nipponophone, Royal and American, not evidence that every early number was a Nipponophone eagle-label issue. The Kushiro 1981 inventory identifies no.1645 as a **Royal** one-sided record. NDL's label chronology says Royal and related labels were used through 1915, before transition to double-sided Nipponophone eagle labels.
+- East Asia note correction commit: f98235d568124cc6b320f7837031f4a6ccc5f9c9.
