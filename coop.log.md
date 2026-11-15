@@ -410,3 +410,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - A 1981 Kushiro Municipal Museum inventory of the Tokuji Sakai collection lists a physical four-side Takamine *Gishi no Uchiiri* on Menophone 1618–1621, but no publication date/matrix/transfer details. Same inventory lists *Zoku Gishi no Honkai* and *Gishi no Honkai* by Toyoda Kyokusuì on Nipponophone numbers 379–380 and 1799–1800, also undated.
 - Sources: 78MUSIC https://www.78music.jp/other5.html ; Takamine biography https://kotobank.jp/word/%E9%AB%98%E5%B3%B0%E7%AD%91%E9%A2%A8-1087925 ; Kushiro museum 1981 inventory https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf ; 2020 modern biwa SP study https://www.jstage.jst.go.jp/article/toyoongakukenkyu/2020/85/2020_61/_pdf/-char/ja .
 - Decision: 1924 Nipponophone issue is a strong date/title/performer lead; Menophone discs are a physical collection lead but undated. Both remain **LEADS / NOT CANDIDATES** pending composition gate, archive transfer and rights. Keep distinct from the Naramaru versions.
+
+
+## 2026-11-15 — ChatGPT (1912 Naniwabushi printed witnesses for the raid)
+- Added a new subsection documenting two pre-1914 printed witnesses for the raid narrative:
+  - Yoshida Naramaru (2nd), *Gishi no Hitofushi: Naniwabushi Jūhachiban* (1912-03), contents list **義士吉良邸討入** and **義士の本懐を遂する條**.
+  - Takuma Sadao, *Naniwabushi Hitofushi Zenshū* (1912-05), contents include **討入** p.39 and multiple Naramaru repertoire items, but this anthology also includes other reciters. Do not attribute the bare “討入” section to Naramaru without checking the page itself.
+- This strengthens provenance of the Akō Gishi raid story within Naniwabushi performance before the 1914 Yamato recording report, but does not prove word-for-word identity with the recorded performance or remove performer-specific authorship questions.
+- Sources: Naramaru 1912 scan https://commons.wikimedia.org/wiki/File:NDL891540_%E7%BE%A9%E5%A3%AB%E3%81%AE%E4%B8%80%E7%AF%80_-_%E6%B5%AA%E8%8A%B1%E7%AF%80%E5%8D%81%E5%85%AB%E7%95%AA_%E9%9B%AA%E3%81%AE%E5%B7%BB_part2.pdf ; Takuma 1912 scan https://commons.wikimedia.org/wiki/File:NDL891638_%E6%B5%AA%E8%8A%B1%E7%AF%80%E4%B8%80%E3%83%88%E7%AF%80%E5%85%A8%E9%9B%86.pdf ; Onishi 2023 / Osaka Mainichi 1914-06-19 reproduction https://www.arc.ritsumei.ac.jp/download/ar/ar23-2/02/ar23-2-02ho.pdf .
+- Decision unchanged: Naramaru *Gishi no Uchiiri* remains a high-priority lead pending original disc identity, exact lyrics, raw transfer and rights.
