@@ -96,3 +96,11 @@
 6. **Africa / Indian Ocean:** inspect UCSB commercial holdings and British Library country-of-origin releases; search local labels and languages.
 
 Each researcher should log search terms, archive coverage, inaccessible/restricted items and negative findings, so the team can see which regions have actually been investigated.
+
+
+## Egypt — Dinshaway mawwal / 1906 oral ballad lead
+
+- Ziad Fahmy reports rural Egyptian *mawāwīl* commemorating the 1906 Dinshaway incident. One mawwāl attributed to Sheikh Mustafa ʿAjāj frames the incident as a gendered honour violation and invokes revenge; it names Lord Cromer and ends with the insult “ghabi ingilizi yastahil al-darb bil-naʿl” (“a stupid Englishman who deserves a beating with a shoe”). Fahmy cites Safwat Kamal 1994, pp.92–94, for the Arabic transcript. This is a strong textual/oral tradition lead, not yet a verified recording.
+- The oral form and many ballads' likely anonymous/collective authorship mean no composer death date should be assumed. No pre-1926 shellac or cylinder master for this particular ballad was located in the current search. Egypt's early Gramophone, Zonophone, Odeon, Baidaphon and Mechian recording infrastructure makes the archive route plausible, not proven.
+- Status: **TEXTUAL / ORAL-TRADITION LEAD — NOT A CANDIDATE TRACK** until the Arabic text is inspected and an exact pre-1926 archival master/transfer is found. Full note: research/egypt-dinshaway-mawwal-1906.md.
+- Sources: Fahmy https://dokumen.pub/ordinary-egyptians-creating-the-modern-nation-through-popular-culture-9780804777742.html ; Racy https://www.recordingpioneers.com/docs/arabica/ALIJIHADRACY.pdf ; AMAR https://www.amar-foundation.org/record-companies/ ; Gramophone 1903 Egypt discography https://www.recordingpioneers.com/docs/arabica/1903_EGYPT_DISCOGRAPHY.pdf .
