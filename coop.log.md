@@ -971,3 +971,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 
 - Added formal candidate GM-UK-001, Handel / Malcolm McEachern, “Revenge! Timotheus Cries,” Vocalion X-9560. Contemporary 1925 catalogue confirms two-part issue; specialist sessionography gives London, Oct 1924? and session/matrix references 03724/03725. Text and revenge mechanism are strong (Dryden 1697; Handel/Hamilton 1736), but no exact audio item located. B — PROBABLE, not A.
 - Expanded provisional mix dossier “The Honour of Vengeance” to three tracks: Handel/McEachern, Saint-Saëns/Homer–de Gogorza, Verdi/Scotney–Rimini. Sequence proposed from collective historical memory → political-religious conspiracy → familial retaliation. All remain B; no listening, transfer verification or rights clearance claimed. New candidate dossier: candidates/GM-UK-001-handel-revenge-timotheus-1924.md.
+
+
+## 2026-11-15 — ChatGPT (Japan: independent Royal *Akō Gishiden* museum object)
+
+- Located and checked Tokyo Museum Collection / Edo-Tokyo Museum record 98651727–98651728: a physical SP set titled *Naniwa-Bushi: Akō Gishiden*, maker/label “ROYAL RECORD/製”. The catalogue gives only a broad 20th-century date and no performer, catalogue number, matrix or audio transfer.
+- Appended the finding to the Yoshida Naramaru/Royal research note and global map; explicitly distinguished this object from Royal/Nipponophone 1651, Royal 1645 and Nichibunken's separate Naramaru episodes.
+- Added it as a C lead for a possible “The Long Grudge” mix, not as a track. Next action: enquire with Edo-Tokyo Museum for label/runout images, performer attribution, provenance, exact dating and audio access.
+- Mix 01 remains unchanged in track count and status; no claim of Japanese audio verification or rights clearance.
