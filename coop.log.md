@@ -536,3 +536,7 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 ## 2026-11-15 — ChatGPT (Naramaru label chronology correction)
 - Corrected subsection H of the East Asian note: the 78MUSIC heading is a combined Nitchiku-family discography covering Nipponophone, Royal and American, not evidence that every early number was a Nipponophone eagle-label issue. The Kushiro 1981 inventory identifies no.1645 as a **Royal** one-sided record. NDL's label chronology says Royal and related labels were used through 1915, before transition to double-sided Nipponophone eagle labels.
 - East Asia note correction commit: f98235d568124cc6b320f7837031f4a6ccc5f9c9.
+
+## 2026-11-15 — ChatGPT (Posada broadside date discrepancy)
+- Added a qualification to the Latin America screening note: the same Ya la autoridad echó garra al malvado Ignacio Parra title/image/refrain is catalogued as 1914 by El Colegio de México and as 1912 by the Amon Carter Museum (Posada zinc etching). Until the physical copies/imprints are compared, use 1912–1914 as a discrepant institutional date, not a single fixed date. The separate anonymous 1905 Corrido de Ignacio Parra broadside remains distinct.
+- Latin America note correction commit: 8f9e087cc5a58c5c6068f423dde768a50ff9bc69.
