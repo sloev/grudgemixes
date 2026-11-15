@@ -472,3 +472,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Expanded the Japan section of `research/global-early-recording-map.md` with the provisional 1910 *Akō Gishiden* / Yoshida Naramaru II lead, the separate 1912 Kumoemon *Gishiden* record, and the distinction from Naramaru's 1914 Yamato and 1923 Nipponophone issues.
 - Added the Nichibunken archive access restriction and linked the scholarly and institutional sources.
 - Global map commit: f1ed99209fde72b3e8d0844474af8bc3ab0b78e8.
+
+
+## 2026-11-15 — ChatGPT (Naramaru Nipponophone catalogue numbers / NDL verification path)
+- Added subsection H to `research/east-asian-early-recording-screening-2026-11-15.md` with the specialist 78MUSIC Naramaru Gishi-series numbers: 1645 (*Akō Gishi Uchiiri*), 1646–48 (*Ōtaka Gen'go*), 1649–50 (*Akagaki Genzo*), 1651 (*Akō Gishiden: palace-corridor attack*), 1653–54 (*Nanbuzaka yuki no wakare*), plus 1723–24 (*Ma Jūjirō*). These remain undated catalogue entries, not proof of pre-1926 publication.
+- Identified the NDL primary-source route: 1912-12 Nipponophone *Shin-onpu tsuika mokuroku* (YM2-L144), 1913 additions (YM2-M2340–2344), 1914 *Chikuonki monku-shū* (KH13-L245, contents through 1914-01), and Kurata's *Engei Record Sales Catalogue* (KD1-E21, 1909–1945 with release month, title, performer, author, company and issue number).
+- Kyoto City University of Arts' Nitchiku label history confirms the transition from old single-sided labels to double-sided Nipponophone eagle labels in 1915. Keep early 1645–1654 single-sided issues distinct from the later 1923 double-sided 15139 A/B issue.
+- Sources: 78MUSIC https://www.78music.jp/other5.html ; NDL sales catalogue guide https://ndlsearch.ndl.go.jp/en/rnavi/avmaterials/post ; NDL Nitchiku publication guide https://ndlsearch.ndl.go.jp/en/rnavi/avmaterials/post_1198 ; NDL domestic sound-recording publication guide https://ndlsearch.ndl.go.jp/en/rnavi/avmaterials/2_11 ; Kyoto City University of Arts https://rijtm.kcua.ac.jp/archive-db/archives/gallery/1008ohnishi/index.html .
+- Decision unchanged: stronger catalogue trail, but no issue upgraded pending primary sales list / text / master and audio checks.
+- East Asia note commit: 24b9e6615604a123ef45cfe9e6514a37f780e0be.
