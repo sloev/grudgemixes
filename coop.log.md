@@ -633,3 +633,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Updated research/candidate-papus-rache-bar-kochba.md to distinguish Beka 10872 from the still-unlocated Homocord/Homokord 1118 “Papus Rache” lead. Status remains **LEAD / NOT VERIFIED / NOT CLEARED**. The online audio is not proven to be a raw archival transfer or commercially reusable.
 - Source: Forgotten Galicia, “Songs from Gimpel’s Lemberg Yiddish Theatre 1906–1910”: https://forgottengalicia.com/songs-from-gimpels-lemberg-yiddish-theatre-1906-1910/ ; Aylward, “Gimpel’s Theatre, Lwów”: https://doi.org/10.3828/liverpool/9781906764739.003.0008 .
 - Candidate note commit: 1b4407728ff8baa5b40489b75a09de9633b41fb4.
+
+
+## 2026-11-15 — ChatGPT (Papus catalogue cross-check and plot motive)
+- A fresh search result for the Albis discography confirms the compiler separately lists “Bucher,” Carl Gutentag with orchestra, Homocord 11184, and “Papus Rache,” Carl Gutentag with orchestra, Homocord 1118; it also lists Jakob Fuchs's Bar Kochba under Beka 10872 and Scala 10872. This reinforces the distinction between the Homocord Papus entry and the Lemberg Beka 10872 “Der Bucher,” but all remain secondary listings pending original labels/catalogues.
+- A German-language dissertation provides a more precise Papus motive: he first betrays the Jewish community to the Romans out of love, hoping to secure Dina; when she continues to reject him, he acts out of revenge. The revenge is a later motive, not necessarily the motive for the initial betrayal. The event is a fictional theatrical construction, not ancient history.
+- Refined the candidate note's taxonomy to personal/calculated revenge after rejection, with betrayal as the enabling act and collective harm as consequence. The exact Homocord recording's lyrics/performance remain unheard.
+- Sources: Albis International https://www.albis-international.de/dokumente/orient_im_plattenschrank.pdf ; dissertation https://univerlag.uni-goettingen.de/bitstream/handle/3/isbn-978-3-86395-630-1/lukas_diss_theater.pdf?isAllowed=y&sequence=1 ; Frankfurt 1897 score https://sammlungen.ub.uni-frankfurt.de/judaicaffm/download/pdf/2032154 ; LOC Heskes finding aid https://findingaids.loc.gov/repositories/15/resources/7111 .
+- Candidate note commit: 16879aea1fdf0edd033ac52143997836d07ece82.
