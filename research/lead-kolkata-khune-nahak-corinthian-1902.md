@@ -51,3 +51,23 @@ These are not candidates from title evidence alone.
 6. Locate an original-shellac archival transfer and determine whether it is an unedited transfer. Assess composition, master, transfer and repository rights separately, including EU/UK territories.
 
 No candidate admitted. If the lyrics prove to concern a prior injury followed by payback, a new candidate record should be created only after exact disc identity and composition gate are established.
+
+
+## Further source check — song/scene caution and catalogue access (2026-11-15)
+
+A closer check of Vikram Singh Thakur's *Shakespeare and Indian Theatre: The Politics of Performance* strengthens the warning against reading the recording as a revenge number merely because its parent play adapts *Hamlet*. Thakur describes *Khun-e-nahaq* as a musical and notes that the play opens in Claudius's court at the celebration of Claudius and Gertrude's marriage, with dance and music. The same discussion describes Parsi-theatre songs as serving love scenes and other dramatic occasions; the wider Parsi-theatre account notes songs accompanying joy, death, war and dialogue, sometimes without a close relationship to plot or character. Therefore a song recorded under the play title could be a court/celebration number, a detachable popular song, or a revenge-related passage. The exact lyric and scene remain indispensable.
+
+The Madan Theatres page's CHARM link does resolve to a search query for **CORINTHIAN THEATRE CHORUS, Calcutta, India**, but the CHARM endpoint returned a fetch/access failure in this research session. This is an access limitation, not evidence that catalogue work 14561 is absent. The page itself remains the available evidence for the title/work number and November 1902 session context.
+
+The British Library EAP261 songbooks are a useful *parallel* source route, but their catalogue records identify Bengali-language collections. They should not be treated as direct witnesses to an Urdu *Khun-e-Nahaq* lyric unless a bilingual adaptation, transcription, or cross-reference is found. The 1920 four-volume set has 376 pages; the earlier theatre-song collection has 138 pages. The archive records digitised TIFF content, though the EAP viewer was not accessible through this web session.
+
+A further identity caution: sources use variants including **Munshi Mehdi Hasan**, **Munshi Mehdi Hasan Ahsan**, and **Syed Mehdi Hasan / Ahsan Laknavi** in discussions of Shakespeare adaptations. Do not collapse these forms into one fully established legal/biographical identity without primary biographical evidence. The author attribution to the 1898 play is supported in theatre scholarship, but the death-date/composition gate is not established by the sources checked here.
+
+Additional sources:
+- Vikram Singh Thakur, *Shakespeare and Indian Theatre: The Politics of Performance* (discussion of the musical opening and Parsi-theatre song conventions): https://dokumen.pub/shakespeare-and-indian-theatre-the-politics-of-performance-9789389812640-9789389351125-9789389351132.html
+- Madan Theatres / CHARM query link: https://charm.rhul.ac.uk/discography/search/search_advanced?operatorSel_0=and&parameterKeyTxt_0=CORINTHIAN+THEATRE+CHORUSCalcutta%2C+India&parameterKey_0=artist_007054&parameterSel_0=performer
+- British Library EAP261/1/5/36 (1920 Bengali theatre songbook): https://searcharchives.bl.uk/catalog/040-002724773
+- British Library EAP261/1/5/37 and series listing: https://searcharchives.bl.uk/?f%5Brelated_places_ssim%5D%5B%5D=India%2C+Asia&f%5Brelated_subjects_ssim%5D%5B%5D=Bengali+Culture&page=3&per_page=100&sort=hierarchy
+- Shakespeare adaptation author variants in research literature: https://www.researchgate.net/publication/376521119_Shakespeare_Across_Cultures
+
+Decision unchanged: **LEAD ONLY / NOT A CANDIDATE / NOT CLEARED**. Next useful move is direct CHARM/archive contact for work 14561's complete metadata and audio, followed by an Urdu-script copy of the relevant *Khun-e-Nahaq* text/songbook. Do not use the Bengali EAP songbook as a substitute for that primary lyric witness.
