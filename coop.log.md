@@ -1011,3 +1011,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Updated the Papus dossier: song identity and 1897 score evidence remain strong, but exact record identity is downgraded in confidence; status remains C — LEAD, not verified or cleared. The 1907 Beka 10872 “Der Bucher” remains a separate title, not Papus' aria.
 - Next action: seek original label/runout evidence or ask Albis compiler Bernd Meyer-Rähnitz for the source behind the Homocord 1118 entry.
 - Sources: https://www.albis-international.de/dokumente/orient_im_plattenschrank.pdf ; https://78opera.com/files/ARTIST_L.pdf ; https://www.phonomuseum.at/wp-content/uploads/2017/05/diskographie_handbuch.pdf ; https://www.lotz-verlag.de/Online-Disco-Homocord-Liliput.html
+
+
+## 2026-11-15 — Gutentag / Homocord adjacent-number cross-check
+- Located a second online Yiddish-music discography listing Carl Gutentag's Goldfaden song “Bucher” as Homocord M 11185, 1909. This independently supports an early Gutentag recording of Goldfaden repertory, but it dates “Bucher,” not “Papus Rache.”
+- Albis gives “Bucher” as Homocord 11184 and “Papus Rache” as Homocord 1118; the one-digit discrepancy and the separate 1907 Homokord 1118 assignment indicate an unresolved transcription/catalogue identity problem.
+- Do not transfer the 1909 date to Papus, assume the two songs were paired on one disc, or infer the missing digit. The Gutentag audio link is a RAR archive and has not been auditioned or identified as Papus.
+- Updated Papus dossier with the new cross-check and retained C — LEAD / not verified. Next step: request the primary label/source and full catalogue/matrix details from Albis and YiddishMusic/Jewniverse.
+- Source: https://yiddishmusic.jewniverse.info/goldfadenavrom/ ; https://www.albis-international.de/dokumente/orient_im_plattenschrank.pdf ; https://78opera.com/files/ARTIST_L.pdf
