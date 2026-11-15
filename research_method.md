@@ -102,3 +102,14 @@ Update the ten-row README snapshot: add canonical dossier links, clarify that th
 Phase 6 — cross-module quality assurance and evidence reconciliation.
 ## Exact next action
 Check README's new relative links and the new audit-report links against the live repository tree; inspect whether the re-audit and README counts/statuses remain internally coherent. Then move from architecture audit to the highest-value substantive research task: listen/inspect accessible audio if tools permit, otherwise research exact primary catalogue/label evidence for a B candidate. Do not claim listening or archive contact unless performed.
+
+## Milestone 6 — cross-module QA and persistent-state documentation (2026-11-15)
+- Checked relative Markdown links in README and the new audit/state reports against the live tree. README has 18 relative links; all target paths exist in the current repository inventory. Audit reports and state file contain no unresolved local links.
+- Confirmed the re-audit Markdown table repair: Macario Romero catalogue caution is outside the table, under a dedicated heading.
+- Updated README root layout to include `METHODOLOGY.md` and `research_method.md`; contribution instructions now direct future contributors/automated runs to read the persistent handoff. Commit `3a4dde427489932a32ce8037cdec6418949c95ba`.
+- Current counts: 4 formal candidate files; 26 research files (24 original dossiers + 2 audit reports); 1 root persistent state file. No software source or test modules exist in this repository.
+- Latest cooperation-log entry added. No external audio or archive access has occurred.
+## Active phase
+Phase 7 — targeted evidence work on the strongest unresolved B candidates, after optional compact index design.
+## Exact next action
+Choose the strongest candidate whose exact audio/text can be verified through public source material without pretending to play audio. First assess LOC access and metadata for Torcom Bézazian / Victor 69102 and FAU's Saint-Saëns / Victor 87501. If the current environment cannot actually play audio, state that limitation and pursue label/session/primary catalogue corroboration instead. Keep rights separate.
