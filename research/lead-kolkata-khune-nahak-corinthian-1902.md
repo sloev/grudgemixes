@@ -71,3 +71,19 @@ Additional sources:
 - Shakespeare adaptation author variants in research literature: https://www.researchgate.net/publication/376521119_Shakespeare_Across_Cultures
 
 Decision unchanged: **LEAD ONLY / NOT A CANDIDATE / NOT CLEARED**. Next useful move is direct CHARM/archive contact for work 14561's complete metadata and audio, followed by an Urdu-script copy of the relevant *Khun-e-Nahaq* text/songbook. Do not use the Bengali EAP songbook as a substitute for that primary lyric witness.
+
+
+## Further scene-context check — the play is a musical, but the 1902 song cannot be assigned to the revenge plot
+
+A fresh check of Vikram Singh Thakur's *Shakespeare and Indian Theatre: The Politics of Performance* sharpens the distinction between **the dramatic work's revenge plot** and **the particular recorded chorus number**.
+
+- Thakur identifies *Khun-e-Nahaq* (1898) as Munshi Mehdi Hasan Ahsan's Urdu adaptation of *Hamlet* for the Parsi Alfred Company, and says it was transformed into a musical.
+- The play opens in Claudius's court with the celebration of Claudius and Gertrude's nuptials, accompanied by dance and music. The source recounts Parsi-theatre audience practices in which popular songs could be demanded again—even after the scene had ended—and notes that songs could be repeated independently of the dramatic action.
+- The existence of a revenge plot in the source drama does **not** establish that “Gana Gana Gana,” recorded under the play title, is a revenge aria. It could be a court/celebration song, a detachable popular number, or another scene's chorus. The exact placement and words remain unknown.
+- The title *Khūn-e Nāḥaq* is often glossed “unjust/innocent blood” or “unjustified murder.” It points to wrongful killing, not necessarily the act of revenge itself.
+
+**Research decision unchanged:** LEAD ONLY / NOT A CANDIDATE / NOT CLEARED. The new source reinforces the need not to infer the recorded number's theme from the play title or Hamlet source plot.
+
+Sources:
+- Vikram Singh Thakur, *Shakespeare and Indian Theatre: The Politics of Performance*, discussion of the musical opening and Parsi-theatre song conventions: https://dokumen.pub/shakespeare-and-indian-theatre-the-politics-of-performance-9789389812640-9789389351125-9789389351132.html
+- Kathryn Hansen, *Stages of Life*, Appendix 1, identifies Ahsan Lakhnavi / Mehdi Hasan as author of *Khun-e Nahaq* based on *Hamlet*: https://www.cambridge.org/core/books/abs/stages-of-life/historical-personages-and-institutions/1CAB9A0E04E9FB5015CD4C5BECE61B9D
