@@ -680,3 +680,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Sources: Fahmy https://dokumen.pub/ordinary-egyptians-creating-the-modern-nation-through-popular-culture-9780804777742.html ; Racy https://www.recordingpioneers.com/docs/arabica/ALIJIHADRACY.pdf ; AMAR https://www.amar-foundation.org/record-companies/ ; Gramophone 1903 Egypt discography https://www.recordingpioneers.com/docs/arabica/1903_EGYPT_DISCOGRAPHY.pdf ; Harvard Loeb https://archive.blogs.harvard.edu/loebmusic/2022/01/19/early-arabic-sound-recordings-and-the-public-domain/ .
 - New note commit: a461d4c74470b72dc532116c55f8ff920ce3fd44.
 - Global map commit: 84037a9bc77c7cf14d74648eb77ab3aafd5cab85.
+
+
+## 2026-11-15 — Papus discography and Egyptian mawwāl control evidence
+
+- Albis International explicitly lists Carl Gutentag with orchestra, “Papus Rache,” Homocord 1118, separately from “Bucher,” Homocord 11184, and Jakob Fuchs’s Beka/Scala 10872 records. This strengthens the Homocord 1118 identification but remains secondary evidence; no label/runout, matrix, date code or audio verified. Updated research/candidate-papus-rache-bar-kochba.md.
+- LOC Heskes finding aid says sound recordings were transferred to NAVCC but leaves the AVCMS number blank; the collection inventory is the practical archival target. The online “Dinah’s welcome ... : Papus revenge song” wording remains ambiguous and should not be treated as proof of an audio item.
+- AMAR documents 1908 Mustafa Kamil mawwāl recordings, including Gramophone 012250 / matrix 37P. This is not the Dinshaway ballad, but it establishes early commercial circulation of topical Egyptian mawwāl and is a useful discographic control. Updated research/egypt-dinshaway-mawwal-1906.md.
+- Statuses unchanged: Papus = LEAD, not verified/cleared; Dinshaway = oral/textual lead, not a candidate track.
+- Sources: https://www.albis-international.de/dokumente/orient_im_plattenschrank.pdf ; https://findingaids.loc.gov/repositories/15/resources/7111 ; https://www.amar-foundation.org/007-mustafa-kamel/ ; https://sammlungen.ub.uni-frankfurt.de/judaicaffm/download/pdf/2032143 .
