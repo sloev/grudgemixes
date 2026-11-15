@@ -697,3 +697,15 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Provisional taxonomy: collective grievance / commemorative protest; quoted lines denounce colonial and judicial violence but do not establish revenge. Keep distinct from the Mustafa ʿAjāj ballad's reported gendered honour/revenge language until full texts are compared.
 - No exact recording/master/audio/rights evidence found. Status remains oral-textual lead, not a candidate track.
 - Sources: https://gate.ahram.org.eg/daily/NewsQ/357864.aspx ; https://jfma.journals.ekb.eg/article_160233_ee60ed733e4d99fc7491654043737b75.pdf ; https://www.wataninet.com/2016/02/%D8%A7%D9%84%D9%87%D8%B1%D9%85-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9/ ; https://www.sama3y.net/forum/showthread.php?p=768372&s=f0d36cf7f446ed95ecf46e553babbcde .
+
+
+## 2026-11-15 — ChatGPT (Ignacio Parra taxonomy and cylinder archive follow-up)
+
+- Rechecked the Mexico lead against Jesús Iván Mora Muro's 2025 chapter. It says venganza recurs as a motif in nineteenth-century heroic corridos and distinguishes blood-feud bandits from social bandits; it places Ignacio Parra among the latter. This is genre-level context only: the chapter's quoted revenge/score-settling narrative is Macario Romero, not Parra. Do not infer revenge in the 1904 Parra performance from the genre pattern.
+- Confirmed the 18512/18513 two-part title/performer sequence against both the 2025 historiography chapter and the November 1907 Edison Phonograph Monthly Mexico catalogue; Frontera independently gives the recording year as 1904 and reports a possible seditious undercurrent behind non-reprise on later Victor/Columbia sessions.
+- Checked UCSB archive coverage. Its public Cylinder Audio Archive has >15,000 digital cylinders from a >22,000-title collection; the Todd Collection includes nearly 6,000 primarily commercial Edison/Columbia cylinders. No item-level public 18512/18513 record/audio was located in this pass. UCSB's catalog and Special Research Collections request pathway are now the concrete next steps.
+- Classification remains unresolved for the recorded performance. Keep the 1905/1914 print witnesses distinct from the cylinder; do not conflate state punishment/social vengeance with Parra's own retaliation. Status remains HIGH-PRIORITY LEAD / NEAR CANDIDATE, not candidate track, raw-transfer verified or cleared.
+- Updated research/latin-american-corridos-screening-2026-11-15.md and research/global-early-recording-map.md.
+- Sources: https://ri-ng.uaq.mx/bitstream/123456789/12411/2/LUAQ-000028.pdf ; https://www.worldradiohistory.com/Archive-All-Audio/Edison-Phonograph/Edison-Phonograph-Monthly-1907-Vol-5.pdf ; https://frontera.library.ucla.edu/blog/2017/12/mexican-corrido-ballads-adversity-and-rebellion-part-4-corridos-mexican-revolution ; https://www.library.ucsb.edu/special-collections/performing-arts/cylinders ; https://www.library.ucsb.edu/special-collections/performing-arts/pamss01 ; https://www.library.ucsb.edu/special-collections/performing-arts/paaccess .
+- Research note commit: 7e800435f299ea677aa02a0f9f5b5a9437464f7f.
+- Global map commit: 2f3065a7c3785924965d12230579b388fc121d0a.
