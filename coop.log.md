@@ -481,3 +481,13 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Sources: 78MUSIC https://www.78music.jp/other5.html ; NDL sales catalogue guide https://ndlsearch.ndl.go.jp/en/rnavi/avmaterials/post ; NDL Nitchiku publication guide https://ndlsearch.ndl.go.jp/en/rnavi/avmaterials/post_1198 ; NDL domestic sound-recording publication guide https://ndlsearch.ndl.go.jp/en/rnavi/avmaterials/2_11 ; Kyoto City University of Arts https://rijtm.kcua.ac.jp/archive-db/archives/gallery/1008ohnishi/index.html .
 - Decision unchanged: stronger catalogue trail, but no issue upgraded pending primary sales list / text / master and audio checks.
 - East Asia note commit: 24b9e6615604a123ef45cfe9e6514a37f780e0be.
+
+
+## 2026-11-15 — ChatGPT (contemporary 1911 Naramaru Gishi record advertisement)
+- Added subsection I to the East Asian screening note with a transcription of the *Asahi Shimbun* advertisement dated 1911-09-04. It says ten new Yoshida Naramaru Gishi recordings were released from 1911-09-01: *Hazama Jūjirō* (2 sides), *Kanzaki Yogorō* (4), *Akagaki Genzo* (2), and *Ōishi Kuranosuke* (2).
+- This is strong contemporary evidence of a ten-side commercial Naramaru Gishi series by September 1911, but it does not list the actual raid episode. The 1914 Yamato On-ei *Gishi no Uchiiri* remains the direct raid lead.
+- A separate 1913-04-05 *Asahi* ad lists Naramaru's *Asano Takumi no Kami saigo* in four parts; this is the precipitating grievance episode, not the revenge action.
+- CiNii/Nichibunken catalogues document a Naramaru *Hazama Jūjirō: Akō Gishi-den* physical SP, Nipponophone/Royal Record 1723, and a wider Nipponophone SP Gishi-den episode series. Do not assume Royal 1723 is the exact 1911 advertised issue until label/catalogue comparison.
+- NDL catalogue inventory confirms paper holdings for 1912-12 Nipponophone *Shin-onpu tsuika mokuroku* (YM2-L144) and 1913 additions YM2-M2340–2344; these should be consulted. CiNii also records Itō Naoki ed., *Nihon Chikuonki Monku Zenshū* (1914-02), 690 pp., at Tokyo Gakugei University; possible lyric text source, distinct until collated with other 1914 catalogue.
+- Sources: 1911/1913 ads https://ameblo.jp/chitoseame28/entry-12551102020.html ; https://ameblo.jp/chitoseame28/entry-12551102203.html ; CiNii/Nichibunken Hazama SP https://ci.nii.ac.jp/ncid/BB17634016 ; Gishi-den series https://ci.nii.ac.jp/ncid/BB17632622 ; NDL guide https://ndlsearch.ndl.go.jp/rnavi/avmaterials/post ; NDL catalogue list https://ndlsearch.ndl.go.jp/file/rnavi/avmaterials/post/01_prewar_general_catalog_202606.pdf ; 1914 phrasebook https://ci.nii.ac.jp/ncid/BA83515293 .
+- East Asia note commit: 3879cda3c956dcb354c6becee7f9cdfc11d094a6.
