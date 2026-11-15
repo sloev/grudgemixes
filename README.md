@@ -160,3 +160,8 @@ See [`research/global-early-recording-map.md`](research/global-early-recording-m
 5. Find exact archival transfers for the HMV Handel D589 and Wagner D704 recordings and Vocalion X-9560.
 6. Continue parallel regional searches across South Asia, Middle East/North Africa, East and Southeast Asia, Latin America/Caribbean, Sub-Saharan Africa/Indian Ocean, Eastern Europe/Balkans and Indigenous/diasporic archives.
 7. Build a separate rights/clearance register for intended territories; do not assign production IDs or sequence tracks until evidence is strong enough.
+
+
+## Methodology transition and lead audit
+
+The revised evidence framework and first crosswalk of earlier leads are recorded in [METHODOLOGY.md](METHODOLOGY.md) and [research/re-audit-existing-leads-2026-11-15.md](research/re-audit-existing-leads-2026-11-15.md). The crosswalk preserves prior candidate notes and distinguishes B-level active research candidates from C-level leads; none is commercially cleared.
