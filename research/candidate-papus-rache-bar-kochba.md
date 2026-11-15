@@ -70,3 +70,25 @@ Retain as **LEAD** for further discographical work. Do not include in the verifi
 ## Research note
 
 This is a particularly useful example of the project's distinction between an early recording, a dramatic song, and a historical event. The title gives unusually direct thematic evidence, but the song's grievance belongs first to a nineteenth-century Yiddish theatrical narrative about an imagined ancient betrayal and revenge.
+
+
+## Further verification pass — score, stage manuscript and label chronology (2026-11-15)
+
+Additional evidence strengthens the **composition and theatrical-context** side of this lead, but not the exact Homokord master:
+- The Library of Congress Irene Heskes finding aid explicitly lists **“Dinah's welcome to Jerusalem: Papus revenge song,” circa 1900s**, by A. Goldfaden, arranged by H.A. Russotta, as digitized sheet music in the collection. It also lists a complete *Bar Kochba* piano score dated 1909, arranged by Henry A. Russotto and described as words and music by Goldfaden. This independently corroborates that the Papus revenge number circulated as a named operetta number in early twentieth-century U.S. Yiddish music publishing.
+- The University Library Frankfurt scan of the 1897 *Bar Kochba* score lists “Papus' Revenge Song” as No. 5 in volume 3. Goldfaden's 1840–1908 lifespan remains clear; the recording-specific question is whether the Homokord performance is the Goldfaden number, rather than another song from the same operetta or a later adaptation.
+- YIVO's manuscript record for the *Bar Kochba* first violin part dates the manuscript group 1901–1911 and notes performances in Oswiecim (1901) and Brody (1907), with manuscript stamps from 1905, 1907 and 1911. This documents the work's active stage life, but is not the Papus recording itself.
+- A separate Lemberg 1907–08 record, Jacob Fuchs's **“Der Bucher”**, Beka-Grand 10872, is labelled as from *Bar Kochba* in a specialist historical account. The author cannot find it in the printed editions or surviving sheet music and suggests it may be a lost/temporary addition to the opera's song corpus; its mood might fit Papus, but there is no proof it is “Papus' Revenge Song.” Keep it as a **separate unidentified Bar Kochba number**, not an alternate title for Homokord 1118.
+- Label chronology is now better understood: Homophon was renamed Homokord in 1907 after a trademark dispute; from 1912 the company name was again Homophon, while its principal label retained the spelling Homokord; in 1924 the label spelling changed to Homocord. Thus the spelling “Homocord 1118” in the secondary list may be a later normalization or transcription error. This broad corporate chronology makes an early Homokord-era issue plausible, but does **not** date catalogue number 1118. Do not infer eligibility from the number alone.
+- Rainer E. Lotz and Axel Weggen's 2006 *Discographie der Judaica-Aufnahmen* states that its first volume covers Jewish-related recordings in the German-speaking world and expressly excludes Yiddish and cantorial recordings made especially in Lemberg, Czernowitz and Budapest. Its failure to surface this Lemberg lead is therefore not a negative finding about the record's existence.
+
+New sources:
+- Library of Congress, Irene Heskes Collection finding aid: https://findingaids.loc.gov/repositories/15/resources/7111
+- YIVO, *Bar Kochba* first-violin manuscript, stage history and manuscript dates: https://polishjews.yivo.org/archive/?id=23948&p=collections%2Fcontrolcard
+- Forgotten Galicia, Gimpel's Lemberg theatre 1906–1910, including the distinct Beka 10872 “Der Bucher”: https://forgottengalicia.com/songs-from-gimpels-lemberg-yiddish-theatre-1906-1910/
+- Michael Aylward, “Gimpel's Theatre, Lwów: The Sounds of a Popular Yiddish Theatre Preserved on Gramophone Records 1904–1913”: https://doi.org/10.3828/liverpool/9781906764739.003.0008
+- Rainer E. Lotz and Axel Weggen, *Discographie der Judaica-Aufnahmen* (2006), full text preview; scope and exclusions: https://www.academia.edu/126588420/Discographie_der_Judaica_Aufnahmen
+- Homokord/Homocord naming chronology: https://www.lotz-verlag.de/Online-Disco-Homocord-Liliput.html and https://run.unl.pt/server/api/core/bitstreams/37131add-d385-4ea5-92a0-ceca4c7587c9/content
+- IEMJ's *Wandering Stars* collection of original 78s from Gimpel's Lemberg theatre (1906–1910): https://www.iemj.org/en/wandering-stars-songs-from-gimpels-lemberg-yiddish-theater-1906-1910/
+
+Decision unchanged: **LEAD — not verified and not cleared**. The composition/title evidence is stronger; exact Homokord/Homocord 1118 identity, issue/fixation date, matrix, label image, original audio, recording location, language, and transfer provenance remain open. The 1907–08 Beka 10872 “Der Bucher” must not be conflated with the Papus revenge aria.
