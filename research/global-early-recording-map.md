@@ -104,3 +104,8 @@ Each researcher should log search terms, archive coverage, inaccessible/restrict
 - The oral form and many ballads' likely anonymous/collective authorship mean no composer death date should be assumed. No pre-1926 shellac or cylinder master for this particular ballad was located in the current search. Egypt's early Gramophone, Zonophone, Odeon, Baidaphon and Mechian recording infrastructure makes the archive route plausible, not proven.
 - Status: **TEXTUAL / ORAL-TRADITION LEAD — NOT A CANDIDATE TRACK** until the Arabic text is inspected and an exact pre-1926 archival master/transfer is found. Full note: research/egypt-dinshaway-mawwal-1906.md.
 - Sources: Fahmy https://dokumen.pub/ordinary-egyptians-creating-the-modern-nation-through-popular-culture-9780804777742.html ; Racy https://www.recordingpioneers.com/docs/arabica/ALIJIHADRACY.pdf ; AMAR https://www.amar-foundation.org/record-companies/ ; Gramophone 1903 Egypt discography https://www.recordingpioneers.com/docs/arabica/1903_EGYPT_DISCOGRAPHY.pdf .
+
+
+### Egypt — Dinshaway ballad family, variant evidence (2026-11-15)
+
+Add “Mawwal Zahran” / “Mawwal Shanq Zahran” as a second oral-textual lead alongside (not yet equated with) the Sheikh Mustafa ʿAjāj mawwāl. A 2021 Helwan University musicology article quotes a short Zahran passage; *Al-Ahram* (2015) retrospectively says Umm Kulthum sang it as a child. These do not establish an early commercial recording. Taxonomy remains collective grievance / commemorative protest on the quoted text; revenge is not established. See research/egypt-dinshaway-mawwal-1906.md.
