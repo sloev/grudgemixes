@@ -866,3 +866,13 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Updated the African research note and global map. No recording candidate promoted.
 - Source: Gbolonyo, *Want the History? Listen to the Music! Historical Evidence in Anlo Ewe Musical Practices* (MA thesis, University of Pittsburgh, 2005), pp.52–55, 74–75, 95–96: https://d-scholarship.pitt.edu/6773/1/JSKofiGbolonyoPhDdiss2005FinalETD.pdf .
 - Commits: African note e87711b0a27e75d6c04b8dca37dd1ada494f7049; global map ddf1d7f24518409bf06d33c2603d7c7276ee411e.
+
+
+## 2026-11-15 — ChatGPT (Nathaniels archive-path cross-check)
+
+- Searched for item-level audio/archive records for Roland C. Nathaniels's Zonophone 3972 / matrix Yy7339-2. No exact 1925 transfer was located in this pass.
+- Identified UCSB African 78rpm Recording Collection (>1,200 commercial African discs, including Ghanaian issues) and Benno Häupl Collection (~9,000 78s, including ~850 African discs) as concrete catalogues to query. Both describe item-level discovery through UC Library Search and digital-copy requests via Special Collections; neither collection-level page proves the target disc is held.
+- Found CREM-CNRS records for two separate 1928 Zonophone sides involving Nathaniels and S. Abochee, Togo, collection CNRSMH_E_1952_009_004, label reference EZ 287. Restricted access; post-cutoff controls only, not substitutes for the 1925 master.
+- Added a detailed archive-path section to the African note and an access pointer to the global map. No status upgrade: “Ewe Battle Hymn” remains C — LEAD until its actual audio and Ewe text are obtained.
+- Sources: https://www.library.ucsb.edu/special-collections/collections/african-78rpm-recording-collection ; https://www.library.ucsb.edu/special-collections/performing-arts/benno-haupl-collection-pa-mss-122 ; https://archives.crem-cnrs.fr/archives/collections/CNRSMH_E_1952_009_004/ ; https://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-3926-3990/ .
+- Commits: African note 94d55ca0a6d8eb39f49a9ebcd0f57b006a05ad61; global map 3fe18d730d3fc61c2fc29606e8dd70f3af72960a.
