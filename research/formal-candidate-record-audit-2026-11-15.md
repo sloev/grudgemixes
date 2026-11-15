@@ -78,3 +78,8 @@ The two strongest existing candidates for an initial tightly themed mix are Sain
 The Saint-Saëns item has an especially strong date and matrix chain: Victor 87501, B-6227-2 take 2, Camden, 25 May 1908, plus a contemporary November 1908 trade advertisement specifying English. A conflicting secondary entry gives 89501; retain that discrepancy but prefer 87501, corroborated by contemporary advertising, UCSB and FAU. Its full libretto places the recorded selection in Act II, Scene II, where Dalila and the High Priest conspire to defeat Samson and explicitly call it vengeance. The English recording itself still needs collation.
 
 Verdi's FAU item 54400 confirms the exact catalogue item and performers; Mintzer's specialist Rimini discography links it to Vocalion session 7176 and catalogue 30146 / 60019, ca. March 1921. The session date is tentative and the matrix/take unresolved. Read the duet as Rigoletto's revenge plan and Gilda's participation/complication, not as a simple shared motive.
+
+
+### New candidate: Handel / McEachern, “Revenge! Timotheus Cries” (Vocalion X-9560)
+
+Added formal candidate GM-UK-001 at B — PROBABLE. The 1925 Vocalion catalogue lists X-9560, two parts, bass Malcolm McEachern and Aeolian Orchestra. Specialist sessionography gives London, October 1924? and references 03724/03725; exact takes/side sequence remain unresolved. The underlying Handel/Dryden/Hamilton text is securely pre-1926 and its revenge mechanism is clear in the aria and wider narrative. No item-level audio has yet been located, so this is not A. It has been added as the third track in the provisional “The Honour of Vengeance” mix dossier.
