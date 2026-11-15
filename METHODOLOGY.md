@@ -134,3 +134,25 @@ Thematic and evidence standards above remain unchanged. For mix sequencing, clas
 A mix may combine these roles; the liner note must distinguish what is audible from what belongs to the larger story. A provisional 10–12 track recipe is 4–6 core, 3–4 narrative and 1–3 context tracks, with no quota: a shorter mix is preferable to padding weak material. Candidate evidence levels remain independent of editorial usefulness.
 
 The pre-1926 historical core remains intact. A separately labelled 1926–1930 afterlife/extension track may be proposed for a mix, but must be marked OUTSIDE CORE and never counted as an eligible early recording. Later field/ethnographic recordings may serve as tradition witnesses in a distinct role, subject to cultural protocols and access/reuse conditions. See `research/mix-building-flexibility-proposal-2026-11-15.md`; this trial framework is pending editorial approval.
+
+## 10. Collaboration and division of work
+
+The project owner/editor sets priorities, scope, mix concepts and final inclusion decisions. The work is divided into two coordinated operational streams, following the working pattern used in `sloev/insanemusic`:
+
+- **ChatGPT — research and evaluation:** global discovery; local-language and genre research; archive/catalogue/press/discography digging; exact recording identification; date and version cross-checks; lyric/text and thematic evaluation; candidate dossiers; global map; methodology; mix concepts; research queue; and append-only cooperation log. ChatGPT prepares precise audio targets and source URLs for retrieval; it does not claim to have downloaded or auditioned files it cannot access.
+- **Grok — audio retrieval:** works from the explicit `READY FOR GROK` queue in `TRACK_MAPPING.md` and the companion `GROK_HANDOFF.md`; retrieves the specified tracks to the shared Drive folder; preserves the original file; and reports exact filenames, source URLs, retrieval result, format/size/duration where available, date and any mismatch or access obstacle. Grok is not the authority for historical/thematic promotion.
+- **Project owner/editor:** sets priorities and resolves editorial decisions; approves mixes and final selection.
+
+### Shared operating protocol
+- Read this methodology and the latest `coop.log.md` before every session; also inspect `README.md`, `research_method.md`, `TRACK_MAPPING.md`, the global map and relevant dossiers.
+- State search boundaries and record queries, languages and archives searched. Give source URLs, page numbers, catalogue IDs and explain what each source proves.
+- Separate direct observation, source statement and inference. AI-generated translations, transcriptions, summaries and identifications remain provisional until checked.
+- Keep research evidence grade (A/B/C), chronology, thematic fit, audio identity/provenance, access and rights as independent dimensions. A successful download is not evidence of thematic fit; an inaccessible file is not grounds to discard a well-supported lead.
+- ChatGPT prepares a precise **READY FOR GROK** queue with stable ID, exact recording identity, source page/direct audio URL, expected filename, catalogue/matrix/archive identifiers, date confidence and caveats. Grok reports retrieval outcomes; ChatGPT reconciles those reports into the mapping and research records.
+- Shared destination: https://drive.google.com/drive/folders/1cOwvMN1k_bLznh-1K8bCHzRQPAJjnGRO . Treat files as **GROK REPORTED DOWNLOADED** until independently inspected or supported by verifiable file metadata; then mark **FILE VERIFIED**.
+- Never claim to have listened, inspected a file/object, contacted an archive, downloaded a track or obtained permission unless actually done by the named actor.
+- Append dated log entries; do not silently overwrite prior findings or erase disagreements. Before editing, fetch the latest revision of every file being changed.
+- Hand-offs should include: question → sources searched → findings → evidence/uncertainty → exact retrieval queue → files changed/commits → next verification step.
+- Rights clearance may be deferred during private research as a separate workstream, but archive access restrictions and download terms remain factual constraints and must not be misrepresented.
+
+See [`GROK_HANDOFF.md`](GROK_HANDOFF.md) for the operational queue and reporting template.
