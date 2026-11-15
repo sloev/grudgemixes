@@ -67,3 +67,26 @@ Sources:
 - Kushiro City Museum collection survey, “本館所蔵の音盤資料について (II) 一坂井徳治氏収集資料を中心に”: https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf.
 
 This new evidence makes the physical disc more traceable, but the date of the Royal 1645/1649 entries remains unestablished in these sources. Do not infer pre-1926 solely from the 1923 Nipponophone 15139 issue; it is a separate catalogue item. The candidate remains C pending exact label/matrix linkage and date evidence.
+
+
+## New item-level Nichibunken OPAC identification — Royal 1723 (2026-11-15)
+
+A direct follow-through from CiNii Books to Nichibunken’s own OPAC has identified a **separate, more fully catalogued Naramaru disc**:
+
+- **Title:** 間重次郎 : 赤穗義士傳 : 浪花節 (modern variant: 間重次郎 : 赤穂義士伝 : 浪花節)
+- **Reading:** *Hazama Jūjirō: Akō Gishiden: Naniwabushi*
+- **Performer:** 吉田奈良丸 (Yoshida Naramaru)
+- **Label / number:** Royal Record **1723**
+- **Format:** one 25 cm analogue mono SP disc; Japanese lyrics; rōkyoku
+- **Nichibunken OPAC / NCID:** BB17634016; catalogue page https://toshonin.nichibun.ac.jp/webopac/ctlsrh.do?ncid=BB17634016&search_mode=detail&tab_num=0&locale=en
+- **Holdings:** OPAC lists two copies/holdings, including the Morikawa Tsukasa former collection (material ID 005256649; call number 05077) and a second copy/volume (material ID 005546767; call number 10466).
+- **Archive link:** OPAC links this exact bibliographic record to Nichibunken's rōkyoku database with reg=525664: https://kutsukake.nichibun.ac.jp/rsp/?reg=525664. Automated page retrieval returned 403, so I have not inspected the item image or audio in this research pass.
+
+Sources:
+- CiNii Books record BB17634016: https://ci.nii.ac.jp/ncid/BB17634016 (explicitly notes “Royal Record 1723”).
+- Nichibunken WebOPAC detailed record: https://toshonin.nichibun.ac.jp/webopac/ctlsrh.do?ncid=BB17634016&search_mode=detail&tab_num=0&locale=en (title, performer, holdings, physical format, Japanese lyrics, Royal 1723, and database link).
+- The item is distinct from the prospectus's Royal *Akō Gishi-den Toiri* (“raid”) item. The 1723 disc is a *Hazama Jūjirō* episode within the Akō Gishiden narrative, not the raid episode. It is also distinct from Royal 1645/1649 leads and from Nipponophone 15139-A/B. Do not infer a date from those other catalogue entries.
+
+**Thematic status:** The episode belongs to the Chūshingura / Akō retainer narrative, but the OPAC record alone does not tell us whether this particular Hazama Jūjirō performance foregrounds grievance, punishment, retaliation or the wider story. The episode text/audio still needs inspection. The OPAC does establish an extant physical SP and a direct archive record, which is a major access/provenance improvement, but no recording date or rights clearance is established.
+
+**Disposition:** create/track as a distinct C-level archival item; prioritize inspecting the archive record and requesting label/audio access. Do not merge it with the Royal 1645/1649 *Toiri* leads.
