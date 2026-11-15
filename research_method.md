@@ -124,3 +124,9 @@ Choose the strongest candidate whose exact audio/text can be verified through pu
 Phase 8 — resolve the Rosalie 1911 Favorite record's primary catalogue, runout and audio access; then reconcile the Armenian multi-recording family.
 ## Exact next action
 Inspect the Favorite 1911 Turkish/Armenian catalogue indexed by Recording Pioneers for order no. 1-56211; identify exact catalogue title, date, matrix and possible session. Ask the MGK collection contact for full-resolution label/runout and audio/transfer provenance. Search archives/discographies for Favorite 1-56211 / Rosalie / 4456-1. Keep the transcription provisional until the exact recording is heard.
+
+### Phase 8 follow-up — Favorite catalogue verification (2026-11-15)
+- Recording Pioneers' index identifies a Favorite Turkish/Armenian catalogue containing 1905, 1910 and Jan/Feb 1911 recordings, published/catalogued mid-1911. This is a primary-catalogue route but not yet item-level proof for 1-56211.
+- Exact-title/order-number searches did not surface an independent transcription of Favorite 1-56211. The linked catalogue PDF remains to be inspected page-by-page; do not claim that its contents confirm Rosalie or the item number.
+- Keep 1911 as MGK item-level collection metadata, not a verified contemporary catalogue date; keep runout 4456-1 and handwritten 6/2.11 as provisional image readings.
+- Next: obtain/inspect the Favorite catalogue page and ask MGK collection contact for high-resolution runout, reverse label, original-carrier provenance and any audio. Search physical holdings/archives by 1-56211, Rosalie/Rozali Benliyan, “Ermeni milli havassi,” and possible matrix 4456-1.
