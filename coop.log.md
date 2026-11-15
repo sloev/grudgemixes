@@ -920,3 +920,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Chapter 25's archival principles directly support the compendium's additive dated corrections, source provenance, original-order awareness, explicit uncertainty, and preserving prior interpretations. The book's “archive” is conceptual guidance; it does not define the Grudgemixes candidate schema.
 - Companion book is a broader social/scientific history and atlas, not a source-of-truth for early recorded-song eligibility. Grudgemixes `METHODOLOGY.md` remains the governing recording-specific standard.
 - Next: update Grudgemixes README snapshot with current A/B/C crosswalk and canonical file links, while preserving legacy notes and not changing candidate dossier statuses. Companion repository was read only.
+
+
+## 2026-11-15 — ChatGPT (README snapshot reconciliation)
+
+- Updated `README.md` “Current research snapshot” to distinguish formal candidate records from research leads, use the current A/B/C crosswalk, and link each of the ten priority rows to its canonical dossier. Commit f690759742a81183db73f7e2b14f9d9b1bb70bef.
+- Caruso is now described as C — thematically outside / negative control, consistent with the re-audit; Saint-Saëns and Verdi are B; Naramaru and Takamine B; Kumoemon, Papus and Kolkata C; Handel and Wagner shown as provisional B because their detailed dossiers still use LEAD/C language and the discrepancy remains open.
+- Added explicit statement that the README table is a priority snapshot, not an exhaustive inventory; states the current crosswalk has no A-level candidates, 8 provisional B and 18 C plus one Greek false positive outside core. Reiterated that evidence level is not audio readiness or rights clearance.
+- No candidate dossier status was overwritten. Next: inspect root README local links and the newly added report links; decide whether to make a separate index/rights/archive-request register only after editorial agreement. Continue item-level evidence research after repository crosswalk stabilizes.
