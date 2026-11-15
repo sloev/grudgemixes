@@ -134,18 +134,20 @@ The companion book lives in [sloev/grudgebook](https://github.com/sloev/grudgebo
 
 As of **2026-11-15**, the repository contains:
 
-| Recording / lead | Status | Current limitation |
-|---|---|---|
-| Enrico Caruso, “Vesti la giubba” (Victor 930, 1904) | **PARTIALLY VERIFIED** | Exact issue/publication and raw-transfer details; rights review |
-| “Papus Rache,” Carl Gutentag / *Bar Kochba* (Homokord/Homocord 1118) | **LEAD** | LOC confirms the aria's printed score; exact record identity, matrix, date, location and archival audio remain unresolved |
-| Yoshida Naramaru, “Gishi no Uchiiri” (Yamato On-ei; sale documented by 1914-06-19) | **HIGH-PRIORITY LEAD** | Contemporaneous sale report and 1912 repertoire witnesses; original catalogue/matrix, exact recorded text, archive audio and rights remain open |
-| Takamine Chikufu, “Gishi no Uchiiri” (Nipponophone 15226–15227, 1924-01) | **LEAD** | Four-side issue listed in specialist catalogue; authorship/traditional provenance, archival audio and rights unresolved |
-| Tōchūken Kumoemon, “Akagaki Genzo: Tokkuri no Wakare” (Lyrophone 70937–70940, 1912-05) | **PARTIALLY VERIFIED** | Exact Nichibunken archive item identified; access audio not listened to in this session; episode is a farewell within the revenge story, not the raid itself; transfer and rights review remain open |
-| “Revenge! Timotheus Cries,” Handel / HMV D589 (1921), and Vocalion X-9560 (1924) | **LEAD** | HMV D589 / 02927 is documented, but performer and matrix take conflict across discographies; exact archival audio and rights remain unlocated/unassessed |
-| Robert Radford, “Hagen meditates revenge,” Wagner / HMV D704 (1922) | **LEAD** | Strong UCSB/Victor discographical metadata; exact archival audio and rights remain unlocated/unassessed |
-| Emilio de Gogorza and Louise Homer, “Vengeance at Last,” Saint-Saëns / Victor 87501 (1908) | **PARTIALLY VERIFIED** | Exact FAU archive item and strong matrix/session metadata; FAU public access is non-downloadable and not a commercial licence; transfer and rights review remain open |
-| Evelyn Scotney and Giacomo Rimini, “Sì, vendetta,” Verdi / Vocalion 60019 (ca. 1921) | **PARTIALLY VERIFIED** | FAU archive item and catalogue match; date is tentative, matrix/take and transfer details unresolved; rights review open |
-| “Khune Nahak: Gana Gana Gana,” Corinthian Theatre Chorus (Kolkata, 1902) | **LEAD ONLY** | CHARM work 14561 and play context found; exact scene, lyrics, performer/matrix and surviving audio unresolved |
+| Recording / lead | Record type | Current evidence level | Current limitation / canonical dossier |
+|---|---|---|---|
+| Enrico Caruso, “Vesti la giubba” (Victor 930, 1904) | Formal candidate record; thematic negative control | **C — THEMATICALLY OUTSIDE** | The recorded aria is betrayal lament; retaliation occurs later elsewhere in the opera. Retain only as a control unless the aria itself proves a qualifying grievance-response mechanism. [Dossier](candidates/GM-IT-001-caruso-vesti-la-giubba-1904.md) |
+| “Papus Rache,” Carl Gutentag / *Bar Kochba* (Homocord 1118) | Research lead | **C — LEAD** | Exact carrier, matrix/date code, audio and performed-version linkage remain unresolved. [Dossier](research/candidate-papus-rache-bar-kochba.md) |
+| Yoshida Naramaru, “Gishi no Uchiiri” (Yamato On-ei; sale documented by 1914-06-19) | Research lead | **B — PROBABLE** | Strong narrative and chronology lead; exact catalogue/matrix, version and surviving audio remain open. [Dossier](research/japan-ako-gishi-yoshida-naramaru-royal-record.md) |
+| Takamine Chikufu, “Gishi no Uchiiri” (Nipponophone 15226–15227, 1924-01) | Research lead | **B — PROBABLE** | Four-side issue is listed; composition/traditional provenance, exact text/audio and rights remain unresolved. [Regional dossier](research/east-asian-early-recording-screening-2026-11-15.md) |
+| Tōchūken Kumoemon, “Akagaki Genzo: Tokkuri no Wakare” (Lyrophone 70937–70940, 1912-05) | Research lead | **C — LEAD** | Exact Nichibunken item identified, but the excerpt is a farewell within the revenge story, not the raid itself; listen/transcribe to test thematic fit. [Regional dossier](research/east-asian-early-recording-screening-2026-11-15.md) |
+| “Revenge! Timotheus Cries,” Handel / HMV D589 (1921), and Vocalion X-9560 (1924) | Research lead | **B — PROBABLE (crosswalk provisional)** | Performer and matrix/take conflicts remain; verify exact archival audio and keep the HMV and Vocalion recording branches distinct. [Dossier](research/lead-handel-alexanders-feast-revenge-timotheus.md) |
+| Robert Radford, “Hagen meditates revenge,” Wagner / HMV D704 (1922) | Research lead | **B — PROBABLE (crosswalk provisional)** | Strong discographical metadata, but exact archival audio, text/version and rights remain open. [Dossier](research/lead-wagner-hagen-meditates-revenge-1922.md) |
+| Emilio de Gogorza and Louise Homer, “Vengeance at Last,” Saint-Saëns / Victor 87501 (1908) | Formal candidate record | **B — PROBABLE** | Exact FAU item and session metadata; actual English text, item-specific transfer and rights remain open. [Dossier](candidates/GM-FR-001-saint-saens-vengeance-at-last-1908.md) |
+| Evelyn Scotney and Giacomo Rimini, “Sì, vendetta,” Verdi / Vocalion 60019 (ca. 1921) | Formal candidate record | **B — PROBABLE** | FAU item and catalogue match; session date is tentative, matrix/take and performed text unresolved. [Dossier](candidates/GM-IT-002-verdi-si-vendetta-vocalion-1921.md) |
+| “Khune Nahak: Gana Gana Gana,” Corinthian Theatre Chorus (Kolkata, 1902) | Research lead | **C — LEAD** | The play's revenge plot cannot be assigned to this recording without exact scene, lyrics, performer/matrix and audio. [Dossier](research/lead-kolkata-khune-nahak-corinthian-1902.md) |
+
+This is a **priority snapshot, not an exhaustive inventory**. Current crosswalk: no A-level candidates; 8 provisional B and 18 C, plus one outside-core Greek false positive. B/C levels describe research evidence, not audio readiness or rights clearance. See [the full re-audit](research/re-audit-existing-leads-2026-11-15.md) for the complete crosswalk.
 
 None of these entries is represented as commercially cleared. The current evidence does **not** establish a five-to-eight-track verified batch. The project should prefer a small defensible selection over a larger speculative one.
 
