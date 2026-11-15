@@ -520,3 +520,9 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Sources: González https://revistas-filologicas.unam.mx/anuario-letras/index.php/al/article/download/998/996/0 ; Colmex 1914 broadside https://repositorio.colmex.mx/downloads/70795c46z?locale=es ; Colmex catalogue https://repositorio.colmex.mx/concern/books/9s161b045?locale=es ; Amon Carter https://www.cartermuseum.org/collection/ya-la-autoridad-echo-garra-al-malvado-ignacio-parra-1978181 ; Vázquez Santana 1925 https://books.google.com/books?id=JMEOAQAAMAAJ .
 - Latin America screening note update commit: 98bbd8ca269ccf7bda49ff5c4e0a805442bf506e.
 - Global map update commit: 9b867ee20b711d03f7bb7817c6eff552d01133d6.
+
+## 2026-11-15 — ChatGPT (Edison 1904 Mexican cylinder chronology refinement)
+- Opened the full *Edison Phonograph Monthly* Vol. II (1904–05). The January 1905 issue's “Seventy-one Mexican Records” article lists the two-part *Ignacio Parra* (18512–18513) and *Heraclio Bernal* (18515) under Rafael Herrera Robinson, states the 71 records were made in Mexico City by National Phonograph Company recording experts, and says large numbers had already sold in Mexico.
+- The same issue reproduces Thomas A. Edison's letter to Porfirio Díaz dated 2 September 1904, saying he is sending records “recently made” in Mexico City and that Díaz should receive the first copies on 15 September 1904; Díaz's reply dated 19 September acknowledges receipt. Thus the session campaign produced first copies by 15 September 1904; exact session date for 18512–18513 remains unknown. Catalogue listing / commercial availability documented by January 1905.
+- Added this date refinement to research/latin-american-corridos-screening-2026-11-15.md. Note update commit: 838857749fa3769b617698cc6281353008b019dd.
+- Source: https://www.worldradiohistory.com/Archive-All-Audio/Edison-Phonograph/Edison-Phonograph-Monthly-1904-Vol-2.pdf (Vol II, No.11, Jan 1905, pp.4–5).
