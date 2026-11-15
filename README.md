@@ -112,6 +112,8 @@ Build a geographically and linguistically varied sequence, not a country-by-coun
 
 ```
 README.md
+METHODOLOGY.md                Recording eligibility and evidence rules
+research_method.md            Persistent autonomous-run methodology and handoff state
 coop.log.md                  Multi-agent coordination and dated research ledger
 candidates/                   Candidate records with stable IDs
 research/                     Screening notes, leads, rejected candidates, methods
@@ -122,7 +124,7 @@ The companion book lives in [sloev/grudgebook](https://github.com/sloev/grudgebo
 
 ## How to contribute
 
-1. Read this README and the full [`coop.log.md`](coop.log.md) before starting.
+1. Read this README, [`METHODOLOGY.md`](METHODOLOGY.md), the current [`research_method.md`](research_method.md) handoff, and the full [`coop.log.md`](coop.log.md) before starting.
 2. Read the relevant parts of the companion `grudgebook` repository to understand the editorial voice and terminology.
 3. Check existing candidate and research files before creating a duplicate.
 4. Work additively. Prefer a new, clearly named file; do not silently rewrite another contributor's findings or upgrade a status.
