@@ -898,3 +898,15 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - No candidate record was rewritten or status unilaterally changed. No audio was listened to and no rights determination made.
 - Next: audit all 24 research files for schema/status/date consistency, orphan records and cross-links; then reconcile README snapshot and global map. Preserve the current evidence and editorial authority.
 - Commit: audit report 87d417a5732b201e58592b980decf65c4ea9656f.
+
+
+## 2026-11-15 — ChatGPT (research dossier architecture and integrity audit)
+
+- Inspected all 24 research dossiers present at the start of this audit: regional screens, item-level leads, the global map, first-pass screening and existing-lead re-audit. The repo is document-first; there are no application source files, package manifests, build/test configuration or CI workflows in the root inventory. The effective architecture is README → methodology → formal candidates / research dossiers → global map and re-audit crosswalk → append-only cooperation log.
+- Added `research/research-dossier-architecture-audit-2026-11-15.md` (commit 267aa35828e774e973f2a12491ad9cbbc2b88a0d). It inventories regional modules, duplication risks, status drift, rights/archive-register gaps and recommended non-destructive information architecture.
+- Confirmed the current re-audit crosswalk states: no A-level candidates; 8 provisional B; 18 C; one Greek false positive outside core. It explicitly says this is not full re-verification and does not imply rights clearance.
+- Identified status drift: Handel and Wagner are C/LEAD in their item dossiers but B in the re-audit crosswalk. Caruso is C — thematically outside in the re-audit and should be treated as a negative control unless its recorded aria itself shows a qualifying response mechanism. README snapshot uses legacy labels and mixes formal candidates with research leads.
+- Identified duplicate/overlapping research branches: Japanese Naramaru/Chūshingura across East Asian screen, Japan dossier, map and re-audit; Armenian Dalvorig across separate 1909/1910 branches; Anlo-Ewe haló context versus Nathaniels 1925 disc must remain unlinked absent evidence.
+- Found and repaired a Markdown defect in `research/re-audit-existing-leads-2026-11-15.md`: a free-standing Macario Romero catalogue-caution paragraph interrupted the reclassification table. Moved it below the table under a dedicated heading. Commit c424a49c109661b61abe955f3ed328606efec86f.
+- No audio playback, physical carrier inspection, archive contact or legal clearance occurred in this repository-text audit.
+- Next: inspect the companion `sloev/grudgebook` editorial framework, reconcile README snapshot and canonical links, then perform targeted evidence work on strongest B candidates. Do not unilaterally change candidate status or merge similar Armenian/Japanese recording branches.
