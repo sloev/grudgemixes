@@ -106,3 +106,33 @@ A more practical listening route has now been identified. FAU's Recorded Sound A
 
 
 **Playback caveat:** although both FAU item pages display player controls, the public pages also show a legacy Flash/update warning. Therefore the public pages prove digitized item records and an embedded-player provision, not that playback works in a current browser. The FAU Research Station is the credible full-audio access route; external access requires an application and is not guaranteed.
+
+
+## Item-page and research-access audit (2026-11-15)
+
+The FAU item pages have now been inspected directly. They provide the following item-level catalogue facts, but **not** the matrix, session date or transfer chain:
+
+| FAU item | Public page fields | What remains unavailable on that page |
+|---|---|---|
+| [57310 — Victor 87501](https://rsa.fau.edu/album/57310) | Title “Samson And Delilah—Vengeance At Last”; catalogue 87501; Victrola label; 78 rpm, 10-inch, single-sided; shelf 16661; Louise Homer and Emilio de Gogorza; one track; track title and composer Saint-Saëns | Matrix N/A; date recorded N/A; notes N/A; no transfer statement or rights grant |
+| [54400 — Vocalion 60019](https://rsa.fau.edu/album/54400) | Title “Don Giovanni - La ci darem; Rigoletto - Si vendetta”; catalogue 60019; 78 rpm, 10-inch; shelf 15716; two tracks; Evelyn Scotney, Giacomo Rimini, Rosa Raisa and Aeolian Orchestra; track 2 is “Rigoletto - Si vendetta (Yes, My Vengeance)” | Matrix N/A; record-label field blank; date recorded N/A; notes N/A; no transfer statement or rights grant |
+
+Both public pages show legacy player controls and a browser/Flash update warning. They do not expose a verifiable direct audio file in the page text. Do not mark them “listened” or assume the current public player works solely from the presence of controls.
+
+### FAU access route and conditions
+
+- The FAU Research Station describes a password-protected virtual music library with metadata, label/cover scans and full-length digitized streaming; FAU says it contains over 99,000 full audio tracks. Audio is **non-downloading**.
+- External access is limited to educators, students and serious researchers. The application asks for title/status, contact details and a detailed explanation of academic/educational purpose and relevant expertise. It is an application, not guaranteed access.
+- FAU's copyright page says restricted recordings may be limited to 45 seconds on the public site, with full access through the Research Station for bona fide academic study. The page extraction does not reveal whether either item has the restriction marker; check the actual player after access.
+- Research Station overview: https://rsa.fau.edu/rs ; external application: https://rsa.fau.edu/rs/register ; copyright terms: https://rsa.fau.edu/copyright .
+- FAU's Music on Demand page says digitization requests may take more than a month. This is a queue for items not yet digitized, not a promise of downloadable files: https://rsa.fau.edu/music-on-demand .
+- FAU's public access and research listening do not grant permission to download, sample, redistribute or commercially exploit either transfer. Any intended production use needs a separate rights and permission inquiry covering the master, transfer, territory and use.
+
+### Updated practical gate
+
+1. A qualified project researcher may apply to FAU Research Station for bona fide academic listening, if the project purpose fits FAU's criteria. The application requires personal/status details and a detailed research-purpose statement; do not submit fabricated credentials or imply approval.
+2. Once admitted, verify that item 57310 and 54400 have full tracks and label scans; capture only listening observations and permitted metadata, not restricted downloads.
+3. Record actual playback conditions and the full text heard. If access is denied or does not cover project activity, ask FAU about supervised listening or an alternative lawful access path.
+4. Ask RSA separately whether the specific transfers can be licensed for the project's intended use, and who controls the underlying master/phonogram. Research Station access is for study, not commercial clearance.
+
+**Current outcome:** this run verifies the two item-page metadata records and the formal access procedure. It does not complete listening, transcription, transfer-provenance review or rights clearance.
