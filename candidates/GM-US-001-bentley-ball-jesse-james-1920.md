@@ -69,3 +69,10 @@ Best placed in a sequence about **The Betrayal**, **The Public Answer**, or **Th
 - *The Talking Machine World*, 15 August 1919, p. 89, “Bentley Ball Recordings for Educational Department”: https://www.worldradiohistory.com/Archive-Talking-Machine/10s/Talking-Machine-1919-08.pdf
 - *The Talking Machine World*, October 1919, “The Vision”: https://www.worldradiohistory.com/Archive-Talking-Machine/10s/Talking-Machine-1919-10.pdf
 - Ballad Index, Laws E1 recording list (discovery/corroboration only): https://balladindex.org/Ballads/LE01.html
+
+
+## Commons access-copy metadata verified (2026-11-15)
+
+The Wikimedia Commons file record provides a concrete access route: a 3:00 Ogg Vorbis file, 2.23 MB, 104 kbps, titled “Jesse James (Bentley Ball).” Its description identifies Columbia A3085 and Bentley Ball and dates the recording 15 May 1919; the page's file history says uploaded 24 January 2018. The page marks the recording public domain in the United States under the pre-1926 publication rule. This is sufficient to give Grok a precise retrieval target, but it does not establish the source carrier, transfer operator, playback equipment, speed, equalization, restoration or whether the audio is complete and unaltered. Preserve it as an **access derivative**, not an archival master transfer. The Smithsonian still gives 1920 as recording date, so fixation date remains uncertain; the contemporary August 1919 trade listing proves publication by then but does not settle the session date.
+
+Source: Wikimedia Commons file record https://commons.wikimedia.org/wiki/File:Jesse_James_(Bentley_Ball).ogg .
