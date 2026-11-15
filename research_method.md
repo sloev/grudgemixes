@@ -262,3 +262,11 @@ Seek an original Vocalion X-9560 pressing or high-resolution photographs of both
 - Followed DAHR's Joe Bussard Collection list to Land Norris's “You Ought to Be Arrested and Put in Jail” (Okeh 40374), matrix 8701, dated 31 August 1924 in the DAHR list. Smithsonian identifies the physical Okeh 40374 disc and 1924 date. The June 15, 1925 Talking Machine World listing independently names the title. A specialist sessionography instead gives 26 August and 8701-A. This is C-level only: no lyrics/audio examined, so the title's apparent punitive force is not yet evidence of a grievance song.
 - Added the Land Norris lead dossier and global map entry. Mix 01 remains the only numbered mix; The Public Answer remains an unnumbered pilot. No candidate promotion or rights clearance.
 - Handoff: get DAHR audio working and listen/transcribe Land Norris; inspect Okeh 40374 label/runout; compare Bentley Ball's Ogg to an authenticated carrier-linked transfer if available.
+
+
+## Continuation checkpoint — Land Norris DAHR access (2026-11-15)
+- Re-read the current cooperation log, METHODOLOGY.md, README.md, global map and Land Norris dossier.
+- Corrected the DAHR matrix URL for Land Norris / Okeh 40374 to record 2000200840 after following the UCSB Joe Bussard Collection link. The collection page confirms the item is in the digitized set made available online through DAHR.
+- DAHR returned HTTP 403 from this environment. Audio is listed as available online by UCSB, but playback/download and transfer details were not inspected. No listening or transcription occurred; lead remains C.
+- Updated the Land Norris dossier and appended the cooperation log. Commits: dossier 35669e28eb41c28eca534a7d4987a15f043b5967; log 47b7d2bd0fcc226115344a50a0ba4c6c9e9b7406.
+- Next: access DAHR record 2000200840 through a normal/authorized browser, then listen and transcribe before deciding thematic relevance. If inaccessible, seek a legitimate alternative transfer or lyric witness. Bentley Ball A3085 still needs actual audio comparison; do not claim either recording was auditioned.
