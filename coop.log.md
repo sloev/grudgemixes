@@ -526,3 +526,9 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - The same issue reproduces Thomas A. Edison's letter to Porfirio Díaz dated 2 September 1904, saying he is sending records “recently made” in Mexico City and that Díaz should receive the first copies on 15 September 1904; Díaz's reply dated 19 September acknowledges receipt. Thus the session campaign produced first copies by 15 September 1904; exact session date for 18512–18513 remains unknown. Catalogue listing / commercial availability documented by January 1905.
 - Added this date refinement to research/latin-american-corridos-screening-2026-11-15.md. Note update commit: 838857749fa3769b617698cc6281353008b019dd.
 - Source: https://www.worldradiohistory.com/Archive-All-Audio/Edison-Phonograph/Edison-Phonograph-Monthly-1904-Vol-2.pdf (Vol II, No.11, Jan 1905, pp.4–5).
+
+## 2026-11-15 — ChatGPT (Edison 1907 Mexico-only distribution confirmation)
+- Added a section to the Latin American corrido note documenting the November 1907 *Edison Phonograph Monthly* article “Mexican Records Cut Out.” Edison removed selected Mexican titles from the U.S. Foreign Record Catalogue due to limited demand among U.S. dealers, but explicitly continued listing them in catalogues printed for Mexico. The list includes *Ignacio Parra* 18512–18513 and *Heraclio Bernal* 18515 (also *El Descarrilamiento* 18510–18511).
+- This confirms Mexico-facing catalogue availability through November 1907 and cautions against treating absence from later U.S./European export catalogues as evidence of withdrawal everywhere. It does not establish exact first release date or survival of a copy.
+- Source: https://npgallery.nps.gov/GetAsset/8edec098-f1cd-435d-94b3-e817e83ef167/original
+- Latin America note update commit: 76692d91283590307020b728911bd364211b0afb.
