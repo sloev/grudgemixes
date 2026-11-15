@@ -952,3 +952,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Updated global map, re-audit crosswalk (B count 8→9; C remains 18; no A), Bézazian 1916 dossier cross-reference, and README priority snapshot. No formal candidate record created; no audio played and no rights cleared.
 - Sources: https://hub.catalogit.app/mgk-collection/folder/entry/mademoiselle-rosalie-pamp-vorodan-oh-inch-anush ; label image https://d8e7jbdw4fu0e.cloudfront.net/15232/75bed020-2866-11f0-b3aa-2d6b6a1423dc-vd7lgCY.lg-nt%402x.jpg ; 1917 comparison https://hub.catalogit.app/mgk-collection/folder/entry/armenag-shah-muradian-pamp-orodan-hayastan ; Favorite catalogue index https://www.recordingpioneers.com/CATALOGS-RP-2025.html .
 - Commits: dossier 6d6ee70e67853dc26e840d64788249a80d94d196; global map 8db6b3e01861f6e0c3bf265ba2015095a9d1ed81; re-audit f841cb04fd1ad3bc07681144e8d7a7074d3ed53f; Bézazian cross-reference 02de4e55dda6f4a5cfdc48f7899baf91b7f8d003; README d8b1cc19bc37c4bba8131086fe7548a538dc5819.
+
+
+## 2026-11-15 — ChatGPT (Rosalie Favorite catalogue verification attempt)
+
+- Checked the Recording Pioneers catalogue index. It identifies a Favorite Turkish/Armenian catalogue containing recordings from 1905, 1910 and January/February 1911, catalogued as a mid-1911 publication. This establishes a concrete primary-catalogue route but does not itself prove order no. 1-56211 appears in that catalogue.
+- Targeted web searches for Favorite 1-56211, Rosalie, 4456-1 and “Ermeni milli havassi” did not surface an independent catalogue transcription or another item-level discography. The catalogue PDF is linked in the index but has not been inspected page-by-page.
+- Therefore keep the 1911 date as item-level MGK collection metadata, not a verified contemporary catalogue date. Keep 4456-1 and “6/2.11” as visual readings pending high-resolution confirmation.
+- No audio found/listened to; no rights conclusion. Next task remains obtain the catalogue entry and contact the collection custodian for carrier/audio details.
