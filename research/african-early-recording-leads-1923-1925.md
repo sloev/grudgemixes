@@ -43,7 +43,7 @@ The original English text makes the thematic content more precise than the title
 - Hymnary, full text of “A band of hard-pressed men are we”: https://www.hymnary.org/text/a_band_of_hard_pressed_men_are_we
 - Wits University Historical Papers, Solomon Tshekisho Plaatje recordings, ZA HPRA A1742 (collection description): https://researcharchives.wits.ac.za/informationobject/browse?creators=343914&mediatypes=137&query=Land+Act
 - Wits University, Plaatje archive finding aid / collection reference A1742: https://researcharchives.wits.ac.za/
-- Wits item record ZA HPRA A1742-1 (audio item; access page may require archive site access): https://researcharchives.wits.ac.za/informationobject/browse?media=print&mediatypes=135&onlyMedia=1&sf_culture=en&sort=endDate&sortDir=asc&topLod0=view=table
+- Wits item record ZA HPRA A1742-1 (audio item; access page may require archive site access): https://researcharchives.wits.ac.za/informationobject/browse?media=print&mediatypes=135&onlyMedia=1&sf_culture=en&sort=endDate&sortDir=asc&topLod=0&view=table
 - Academic contextual discussion of Plaatje's 1923 recordings and his political work: https://www.academia.edu/71442625/The_sound_of_war_Apartheid_audibility_and_resonance
 
 ## 2. Roland C. Nathaniels — “Ewe Battle Hymn” (Zonophone 3972, 1925)
