@@ -671,3 +671,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Candidate remains **LEAD / NOT VERIFIED / NOT CLEARED**. No master, matrix, label, audio transfer or commercial rights verified.
 - Sources: GfHT handbook https://www.phonomuseum.at/wp-content/uploads/2017/05/diskographie_handbuch.pdf ; LOC Recorded Sound FAQ https://ask.loc.gov/recorded-sound/faq/304422 ; LOC Heskes finding aid https://findingaids.loc.gov/repositories/15/resources/7111 .
 - Candidate note commit: 8a442ed4a738a7a5340e139074dd58ef0656e1fd.\n
+
+## 2026-11-15 — ChatGPT (Egyptian Dinshaway mawwal oral-history lead)
+- Identified a significant Egyptian thematic lead in Ziad Fahmy, *Ordinary Egyptians* (2011): rural colloquial *mawāwīl* commemorated the 1906 Dinshaway incident. One mawwāl attributed to Sheikh Mustafa ʿAjāj frames the incident as a gendered honour violation for which revenge is the remedy, names Lord Cromer, and concludes “ghabi ingilizi yastahil al-darb bil-naʿl” (roughly, a stupid Englishman deserving a shoe-beating). Fahmy cites Safwat Kamal 1994, pp.92–94, for the Arabic transcript.
+- Important distinction: the oral ballad is not Hafiz Ibrahim's fuṣḥā poem, the banned *Hadithit Dinshaway* play, or any particular commercial recording. Fahmy says many of the ballads likely had no single identifiable author. Do not assume Mustafa ʿAjāj's authorship/life dates or assign composition eligibility without inspecting the text and provenance.
+- Early Egyptian Gramophone/Zonophone, Odeon, Baidaphon and Mechian activity confirms a plausible recording environment, but no exact pre-1926 cylinder/shellac master for this mawwāl was found. Status: **TEXTUAL / ORAL-TRADITION LEAD — NOT A CANDIDATE TRACK**.
+- Created research/egypt-dinshaway-mawwal-1906.md; updated research/global-early-recording-map.md.
+- Sources: Fahmy https://dokumen.pub/ordinary-egyptians-creating-the-modern-nation-through-popular-culture-9780804777742.html ; Racy https://www.recordingpioneers.com/docs/arabica/ALIJIHADRACY.pdf ; AMAR https://www.amar-foundation.org/record-companies/ ; Gramophone 1903 Egypt discography https://www.recordingpioneers.com/docs/arabica/1903_EGYPT_DISCOGRAPHY.pdf ; Harvard Loeb https://archive.blogs.harvard.edu/loebmusic/2022/01/19/early-arabic-sound-recordings-and-the-public-domain/ .
+- New note commit: a461d4c74470b72dc532116c55f8ff920ce3fd44.
+- Global map commit: 84037a9bc77c7cf14d74648eb77ab3aafd5cab85.
