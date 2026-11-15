@@ -689,3 +689,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - AMAR documents 1908 Mustafa Kamil mawwāl recordings, including Gramophone 012250 / matrix 37P. This is not the Dinshaway ballad, but it establishes early commercial circulation of topical Egyptian mawwāl and is a useful discographic control. Updated research/egypt-dinshaway-mawwal-1906.md.
 - Statuses unchanged: Papus = LEAD, not verified/cleared; Dinshaway = oral/textual lead, not a candidate track.
 - Sources: https://www.albis-international.de/dokumente/orient_im_plattenschrank.pdf ; https://findingaids.loc.gov/repositories/15/resources/7111 ; https://www.amar-foundation.org/007-mustafa-kamel/ ; https://sammlungen.ub.uni-frankfurt.de/judaicaffm/download/pdf/2032143 .
+
+
+## 2026-11-15 — Additional Dinshaway ballad variant lead
+
+- Identified a second named oral ballad form, “Mawwal Zahran” / “Mawwal Shanq Zahran,” distinct for now from the Mustafa ʿAjāj mawwāl. *Al-Ahram* (2015) retrospectively says Umm Kulthum sang it as a child; this is not evidence of a commercial recording. A 2021 Helwan University musicology article quotes a short passage and cites a 1998 publication by Muhammad al-Shafi, Egyptian General Authority for Cultural Palaces. *Watani* (2016) reports a late-1960s recollection mediated through Saad al-Din Wahba. Added to Egypt note as separate oral-textual lead.
+- Provisional taxonomy: collective grievance / commemorative protest; quoted lines denounce colonial and judicial violence but do not establish revenge. Keep distinct from the Mustafa ʿAjāj ballad's reported gendered honour/revenge language until full texts are compared.
+- No exact recording/master/audio/rights evidence found. Status remains oral-textual lead, not a candidate track.
+- Sources: https://gate.ahram.org.eg/daily/NewsQ/357864.aspx ; https://jfma.journals.ekb.eg/article_160233_ee60ed733e4d99fc7491654043737b75.pdf ; https://www.wataninet.com/2016/02/%D8%A7%D9%84%D9%87%D8%B1%D9%85-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9/ ; https://www.sama3y.net/forum/showthread.php?p=768372&s=f0d36cf7f446ed95ecf46e553babbcde .
