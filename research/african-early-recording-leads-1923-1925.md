@@ -174,3 +174,57 @@ Sources:
 - Abel Adeleke, “Aesthetic Philosophies of Yoruba Folk Musical Idioms,” *Awka Journal of Research in Music and the Arts* 9 (2013), pp.174–177: https://www.nigerianjournalsonline.com/index.php/ajrma/article/download/1898/1855
 - Olaleye and Adeyeye, “Classification of Indigenous Yoruba Vocal Music” (2020): https://fpiwitedjournal.federalpolyilaro.edu.ng/administrator/docs/9466792.pdf
 - Afrodisc, West Africa Zonophone 3926–3990: https://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-3926-3990/
+
+
+## New Anlo-Ewe research branch: *haló* song-poetry, retaliation and the 1925 Nathaniels disc
+
+### *Haló*: an exceptionally strong thematic tradition, attested from ca.1912
+
+Daniel K. Avorgbedor's peer-reviewed article, “Freedom to Sing, License to Insult: The Influence of *Haló* Performance on Social Violence Among the Anlo Ewe,” *Oral Tradition* 9/1 (1994), pp.83–112, dates this musical-dramatic genre from approximately **1912** until its official proscription in 1960. It combines insult songs, dance, drumming, mime, poetry, spoken forms and visual symbols. Rival villages or wards exchange provocations, sung and spoken insults, accusations and counterattacks. Triggers include inter-ward marriage/wife-taking, insults about another group's music, personal insults and existing hostilities. Performances could escalate into physical confrontation and persist for months or years.
+
+Most important for this compendium, Avorgbedor explicitly describes an injured party seeking **vindication and revenge through song** when no formal channel can condemn an inter-ward marriage. Group-backed songs communicate grievances and aggressive intent; counterattacks follow. Wife-taking is described as a direct aggravation to an individual and ward, with song-counterattack as the immediate response. This is a very strong fit for grievance, retaliation and revenge-through-song, not merely generic martial music.
+
+**Date qualification:** the genre is attested from ca.1912 and thus existed within the core period. This does not date any particular song text or recording. Avorgbedor's retrospective fieldwork does not establish that a specific *haló* song was commercially recorded on a 78. Treat this as a high-priority repertoire trail, not an eligible recording yet. The tradition's own conventions included “burying” songs after a winner was determined; the texts could be highly individualized and sensitive. That may help explain why surviving texts are difficult to locate.
+
+Primary source: Daniel K. Avorgbedor, “Freedom to Sing, License to Insult: The Influence of *Haló* Performance on Social Violence Among the Anlo Ewe,” *Oral Tradition* 9/1 (1994): 83–112, https://journal.oraltradition.org/wp-content/uploads/files/articles/9i/4_avorgbedor.pdf (especially pp.84–88, 92–95).
+
+### Yakagbe and Kpegisu: a separate revenge narrative embedded in war-song history
+
+Justice Stephen Kofi Gbolonyo's University of Pittsburgh thesis, *Want the History? Listen to the Music! Historical Evidence in Anlo Ewe Musical Practices: A Case Study of Traditional Song Texts* (MA thesis, 2005), describes Gadzo, Atrikpui, Atsiagbeko and Kpegisu as Anlo-Ewe war dance/drumming genres, with origins attributed by cited scholarship to 1650–1886. Their songs could be performed before, during and after war, including mourning defeat and celebrating victory; texts use older Ewe and sometimes Fon or other linguistic layers, with metaphor and allusion.
+
+A striking account concerns **Yakagbe**, whose only son was killed in one of Anlo's wars. Gbolonyo says she vowed revenge; her lament criticized the inadequate preparation for the battle, and she defied gender convention by joining the men at the front to retaliate. Her victory and later military deeds are given as the origin story for Kpegisu, a war dance instituted in honour of brave women. This is an explicit injury → lament/accusation → vow of revenge → direct retaliation narrative within Anlo song-and-dance history.
+
+Caution: this is a 2005 scholarly account of oral history, not a contemporary 18th/19th-century document. The thesis does not identify Yakagbe's lament as a specific pre-1926 recording or reproduce its full text. It is a textual/repertoire lead, not evidence that the 1925 Zonophone “Ewe Battle Hymn” contains the Yakagbe story.
+
+Gbolonyo also transcribes *Koku: “Kom Da de Gbe Adewo Dzi”*, a song about a white man/European who inflicted pain, distorted the speaker's life and insulted ancestors, and *Adzohu Kadodo: “Atsom Do Gbexo Mi Yia”*, which describes strangers treating the people as inferior and an impending clash. These are grievance/resistance texts, but the thesis's oral-history attribution is not a pre-1926 date for any recorded version.
+
+Source: Justice Stephen Kofi Gbolonyo, *Want the History? Listen to the Music! Historical Evidence in Anlo Ewe Musical Practices* (University of Pittsburgh MA thesis, 2005), https://d-scholarship.pitt.edu/7097/1/JSKGbolonyo_etdPitt2005%5B1%5D.pdf (especially pp.61, 68–73, 94–98).
+
+### Reassessment of Roland C. Nathaniels, Zonophone 3972
+
+Afrodisc's detailed West African Zonophone discography gives:
+- Roland C. Nathaniels, **Zonophone 3972**, 10-inch 78rpm.
+- Side 1: “ANLO PATRIOTIC SONG,” Ewe, song with piano and whistling chorus, side X-4-42856, matrix **Yy7340-1**, session **20 November 1925**.
+- Side 2: “EWE BATTLE HYMN,” Ewe, described as **“Native melody,”** side X-4-42857, matrix **Yy7339-2**, same session date.
+- Other sides from the same session include West African dance tunes and Ewe sacred songs / “Tangled Melodies of Ewe.”
+
+Source: https://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-3926-3990/ . Owusu-Poku's “The Early History of Music Recording in Ghana” documents Nathaniels as an Anlo-Ewe composer, pianist and organist from Keta, and his 24-work Zonophone recording programme between 23 October and 20 November 1925: https://www.researchgate.net/publication/374810075_The_Early_History_of_Music_Recording_in_Ghana .
+
+The English title “Ewe Battle Hymn” is a catalogue title/description, not proof of the original Ewe title, text, genre or narrative. “Native melody” does not identify it as Kpegisu, Atrikpui, Atsiagbeko, Gadzo or *haló*. The paired “Anlo Patriotic Song” is a separate side; Owusu-Poku reports its sheet music was published 1 January 1926, after the recording date. Do not assume that sheet music is the “Ewe Battle Hymn” or supplies its text.
+
+**Revised status:** “Ewe Battle Hymn” remains C — LEAD, but its priority rises because the exact side/matrix/session is known and the local war-song repertoire is now better understood. It cannot be promoted to B until the audio is heard or a contemporaneous lyric/source text is tied to matrix Yy7339-2. It cannot be called a *haló* song without evidence. “Anlo Patriotic Song” remains a distinct lead requiring its own text assessment.
+
+### A second Anlo-Ewe grievance genre: *haló* is not the same as war-song
+
+*Haló* is a competitive song-poetry confrontation, not a military war-dance genre. Avorgbedor says compositions draw on negative private histories, personal biographies and sometimes fabricated constructions; groups compose fresh songs in response to previous attacks. A separate 2002 student study by Corinna Campbell reports the tradition's local sensitivity and cites colonial-government documents banning *haló* performances by 1918, while some informants traced it further back. Treat that earlier dating as a lead; Avorgbedor (1994) is the stronger source for ca.1912–1960. Campbell's introductory fieldwork paper: https://digitalcollections.sit.edu/african_diaspora_isp/44 .
+
+### Priority verification tasks
+
+1. Obtain audio of Zonophone 3972, especially matrix Yy7339-2. UCSB's African 78rpm collection holds 1,200+ records including Ghanaian material and accepts requests for digital copies through a Special Collections Research Account: https://www.library.ucsb.edu/special-collections/collections/african-78rpm-recording-collection . Ask whether it holds 3972 or can point to another copy.
+2. Search British Library Sound and Vision, Gramophone Company Discography and collector holdings by **matrix Yy7339-2**, not title alone.
+3. Ask Anlo-Ewe music scholars/performers to identify the original Ewe title and whether the melody/text belongs to Kpegisu, Atrikpui, Atsiagbeko, Gadzo or another form. Preserve disagreement and uncertainty.
+4. Search colonial Gold Coast district reports, court/police records and oral-history collections for earliest *haló* performances, 1918 prohibitions and surviving song texts. National Archives migrated Gold Coast records are catalogued in FCO 141/4912–5176; inspect file-level descriptions rather than assuming they contain *haló* references.
+5. Search pre-1926 recordings and printed songbooks for *haló* or related Anlo-Ewe insult/counterattack texts. Given the sensitive personal content, do not publish identifiable abusive texts without ethical/contextual review.
+6. Locate the original Kpegisu song text associated with Yakagbe and identify the conflict in which her son was killed. Establish whether it is a stable traditional text or later narrative reconstruction and whether a pre-1926 printed/recorded witness exists.
+
+**Editorial decision:** *haló* is a high-priority thematic discovery with a pre-1926 genre chronology and explicit vindication/revenge through song, but no eligible sound recording has yet been linked. Nathaniels' 1925 “Ewe Battle Hymn” remains an independent, promising but untranscribed recording lead. The Yakagbe/Kpegisu narrative is a distinct historical-text lead, not evidence about either recording.
