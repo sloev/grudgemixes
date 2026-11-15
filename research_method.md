@@ -242,3 +242,13 @@ Seek an original Vocalion X-9560 pressing or high-resolution photographs of both
 - 78MUSIC independently lists 1645 as Naramaru's *Akō Gishi Uchiiri* with eagle-front notation. Physical existence and title/performer/imprint are A — VERIFIED at inventory level. No release date, matrix, label photo, audio, transcript or rights determination; chronology remains unresolved/C. Do not infer pre-1926 from catalogue number.
 - Keep distinct from 1914 Yamato On-ei, Royal 1853, Royal 1651, Kumoemon Lyrophone 70937–70940 and July 1923 Nipponophone 15139-A/B.
 - Next: request item-level current custody/accession and label/runout photos from Kushiro; locate a matching Nichibunken image; establish chronology before candidate promotion.
+
+
+
+## 2026-11-15 continuation — mix flexibility and US accusation-ballad candidate
+
+- Re-read README, METHODOLOGY, mix 01, candidate directory, map and cooperation log before proceeding.
+- Recommended loosening mix composition rather than factual standards: core / narrative / context roles, flexible mix-size targets, and a separately marked 1926–1930 afterlife lane outside the pre-1926 core. Later ethnographic/field recordings may be tradition witnesses, not core commercial issues. Proposal is pending editorial approval.
+- Created GM-US-001, Bentley Ball “Jesse James,” Columbia A3085. Smithsonian NMAH object identifies 78rpm Columbia shellac, Bentley Ball and 1920 recording date. FAU item 19490 identifies A3085 and both tracks; matrix 90038 belongs to “The Dying Cowboy,” not the Jesse James side. Commons Ogg metadata says 15 May 1919. Both sources place it before 1926 but conflict on exact date. Lomax's 1910 text repeatedly condemns Robert Ford as coward and betrayer; taxonomy is public accusation/counter-insult and betrayal grievance, not literal revenge. B — PROBABLE CANDIDATE. Side-2 matrix, audition/variant comparison, transfer provenance and rights remain unresolved.
+- Added a proposal file and candidate dossier; updated README, METHODOLOGY trial note, map and cooperation log. No rights clearance claimed.
+- Next: compare accessible Ogg and FAU audio, verify side-2 matrix/date from physical label/runout, and draft a short *The Public Answer* mix outline using only accurately labelled roles.
