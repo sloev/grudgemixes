@@ -466,3 +466,9 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Sources: Smith https://www.columbia.edu/~hds2/pdf/2006_Ako_Gishi_media_and_politics.pdf ; academic article / Kurata citation https://www.jstage.jst.go.jp/article/jasi/23/0/23_0_108/_pdf ; Otaru local history https://otarujin-no-bungakushi.com/?p=442 ; National Theatre https://www2.ntj.jac.go.jp/dglib/contents/learn/edc21/hirogari/wagei/wa2.html ; JapanKnowledge https://japanknowledge.com/introduction/keyword.html?i=972 .
 - Decision: high-priority lead, not candidate or cleared. Need Kurata 2007 pp.65–70 and an original 1910 label/catalogue/matrix/audio to establish exact disc and contents.
 - East Asia note commit: 18e6b3bec6d292dbb75c293c5be70f76957f455e.
+
+
+## 2026-11-15 — ChatGPT (global map: Japanese Gishi record chronology)
+- Expanded the Japan section of `research/global-early-recording-map.md` with the provisional 1910 *Akō Gishiden* / Yoshida Naramaru II lead, the separate 1912 Kumoemon *Gishiden* record, and the distinction from Naramaru's 1914 Yamato and 1923 Nipponophone issues.
+- Added the Nichibunken archive access restriction and linked the scholarly and institutional sources.
+- Global map commit: f1ed99209fde72b3e8d0844474af8bc3ab0b78e8.
