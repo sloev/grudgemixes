@@ -856,3 +856,13 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Rechecked Nathaniels Zonophone 3972: Afrodisc identifies “Ewe Battle Hymn,” Ewe, matrix Yy7339-2, 20 Nov 1925, catalogue description “Native melody”; coupled “Anlo Patriotic Song” is separate side Yy7340-1. Kept C — LEAD pending actual audio/text; no conflation with *haló* or Kpegisu.
 - Added cross-links to the global map and re-audit. Priority next step: locate audio by matrix Yy7339-2, especially via UCSB's African 78rpm collection; consult Anlo-Ewe scholars for text/genre identification.
 - Sources: https://journal.oraltradition.org/wp-content/uploads/files/articles/9i/4_avorgbedor.pdf ; https://d-scholarship.pitt.edu/7097/1/JSKGbolonyo_etdPitt2005%5B1%5D.pdf ; https://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-3926-3990/ ; https://www.library.ucsb.edu/special-collections/collections/african-78rpm-recording-collection .
+
+
+## 2026-11-15 — ChatGPT (Anlo-Ewe grievance and retaliation song-text context)
+
+- Read the 2005 University of Pittsburgh thesis by Justice Stephen Kofi Gbolonyo more closely, especially pp.52–55, 74–75 and 95–96.
+- Added evidence for Anlo-Ewe song texts that warn of delayed collective response to injury; an Atamga/Atrikpui text about resisting a persistent enemy; an Akpoka “day of reckoning” response in a historical account of escape/oppression; and the Yakagbe story, in which a woman vows revenge after her son is killed and becomes associated with the origin of kpegisu.
+- Editorial distinction: these are contextual repertoire/history witnesses, not the lyrics of Roland C. Nathaniels's “Ewe Battle Hymn.” They increase the priority of obtaining Yy7339-2 but do not change its C — LEAD status or prove that it is Atamga, Atrikpui, Akpoka or kpegisu.
+- Updated the African research note and global map. No recording candidate promoted.
+- Source: Gbolonyo, *Want the History? Listen to the Music! Historical Evidence in Anlo Ewe Musical Practices* (MA thesis, University of Pittsburgh, 2005), pp.52–55, 74–75, 95–96: https://d-scholarship.pitt.edu/6773/1/JSKofiGbolonyoPhDdiss2005FinalETD.pdf .
+- Commits: African note e87711b0a27e75d6c04b8dca37dd1ada494f7049; global map ddf1d7f24518409bf06d33c2603d7c7276ee411e.
