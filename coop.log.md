@@ -662,3 +662,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Updated candidate note. Status remains **LEAD / NOT VERIFIED / NOT CLEARED**.
 - Sources: Frankfurt https://sammlungen.ub.uni-frankfurt.de/judaicaffm/download/pdf/2032143 ; LOC violin catalogue https://tile.loc.gov/storage-services/public/music/musihas-200182263-002/musihas-200182263-002.pdf ; LOC piano catalogue https://tile.loc.gov/storage-services/public/music/musihas-200182298/musihas-200182298.pdf ; Heskes finding aid https://findingaids.loc.gov/repositories/15/resources/7111 ; Lukas https://doi.org/10.17875/gup2024-2614 ; Popsike https://www.popsike.com/Yiddish-78-rpm-Beka-Grand-Josef-Fuchs-Der-Bucher-Leon-Rosenstein-Zu-der-Chipe/165477633103.html .
 - Candidate note commit: b00dd4f4dd97ac20d8404abd27284498f75444a0.
+
+
+## 2026-11-15 — ChatGPT (Homophon/Homokord date-code rule and LOC audio access)
+- Corrected and sharpened the dating method using the Gesellschaft für Historische Tonträger handbook: acoustic Homophon/Homokord records carry an alphanumeric recording-date code in the mirror/runout (month letter + day numeral + year letter); example E 8 C = 8 May 1923, with W introduced for 1926. The handbook dates the Homocord label spelling to 1924 and electrical recording from 1 March 1926. Thus an original Homocord 1118 copy with a 1924/25 code could satisfy the master-date gate, but no such copy/code has been found; do not date from the catalogue number or a separate stamper date.
+- This specialist handbook supersedes the candidate note's earlier uncertainty over the label-spelling changeover, while retaining the requirement for primary disc inspection.
+- LOC's current Recorded Sound FAQ confirms no comprehensive public catalogue, title-based searching, and that AVCMS is an internal database. A targeted Recorded Sound Reference Center inquiry is the sensible next route for the Heskes collection's blank AVCMS reference; this does not establish that the archive holds the Papus recording.
+- Candidate remains **LEAD / NOT VERIFIED / NOT CLEARED**. No master, matrix, label, audio transfer or commercial rights verified.
+- Sources: GfHT handbook https://www.phonomuseum.at/wp-content/uploads/2017/05/diskographie_handbuch.pdf ; LOC Recorded Sound FAQ https://ask.loc.gov/recorded-sound/faq/304422 ; LOC Heskes finding aid https://findingaids.loc.gov/repositories/15/resources/7111 .
+- Candidate note commit: 8a442ed4a738a7a5340e139074dd58ef0656e1fd.\n
