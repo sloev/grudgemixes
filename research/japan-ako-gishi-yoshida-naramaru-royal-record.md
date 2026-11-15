@@ -232,3 +232,39 @@ ToMuCo's terms say website content is generally available under Public Data Lice
 - **Rights:** no audio/master/performer/transfer permission established. ToMuCo metadata terms do not affect those rights.
 
 **Decision:** keep Royal/Nipponophone 1651 as **C — LEAD overall**, with a probable pre-1916 issue chronology conditional on the catalogue's label classification. Do not promote it to B or A until the physical label/matrix and the actual recording or a record-specific text are linked. Keep the separate ToMuCo museum set at C.
+
+ 
+## Royal 1651 — physical inventory and text evidence consolidated (2026-11-15)
+
+### Physical carrier: Kushiro Municipal Museum inventory
+
+Hirotsugu Satō's “本館所蔵の音盤資料について（II）—坂井徳治氏収集資料を中心に—,” *釧路市立郷土博物館紀要* 8 (March 1981), inventories 1,347 discs transferred from Kushiro Municipal Library to the museum in April 1979. In its Naniwabushi list, item 169 is **1651 (片)**, title **赤穂義士伝、殿中刃傷**. The performer cell is a ditto mark inherited from the explicit Yoshida Naramaru entry at item 155. This is direct institutional inventory evidence for a physical one-sided disc catalogued as 1651, this title and Yoshida Naramaru by table context.
+
+**Important label-column correction:** the scanned page's company column at item 169 is a ditto mark inherited from item 168, which reads **ニッポノホン (Nipponophone)**. It does **not** explicitly say Royal. The inventory's company classification must not be paraphrased as a Royal face-label attribution. The separate 78MUSIC catalogue places 1651 under its Royal red-label eagle section; the NDL's official guide explains that older one-sided Royal catalogues are filed under the Nipponophone/Eagle company heading. These sources are compatible, but only a photograph or inspection of the actual label can settle the imprint and design.
+
+Primary inventory: Satō, 1981, pp. 18–19 (printed pagination; PDF page index 17 shows items 128–185), https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf . The museum's 1980 first installment explains that the 1,347-disc tranche was transferred from Kushiro Municipal Library in April 1979, was previously held by the library after an earlier transfer from the Kushiro civic hall, and likely included a large portion of collector Tokuji Sakai's records; the authors caution that the exact original provenance is not complete. https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/315/7_41-48.pdf . The museum's current publication page confirms the 1981 bulletin issue and author: https://www.city.kushiro.lg.jp/museum/oshirase/1002246/1010810/bulletin-8.html .
+
+### Dated 1912 text witness: exact publication date and thematic content
+
+The NDL-contributed scan of *Naniwabushi Meikyoku Sen* (浪花節名曲選), compiled/published by 浪花節新聞社, has an explicit colophon: printed 3 February and published **7 February 1912** (明治45年2月7日). Its Yoshida Naramaru section includes *Denchū Ninjō* (殿中刃傷). The text narrates the 1701 incident, Asano's grievance and the insulting language used by Kira/Ueno, Asano's restraint because of the consequences for his house, the breaking of his patience, the sword attack, his regret that he failed to complete his revenge, and the 47 retainers' later revenge at Sengakuji. This is strong primary printed evidence that the named Naramaru performance text/repertory existed by February 1912 and meets the project's accusation/grievance/retaliatory-intent threshold. It is not a record-specific lyric sheet and does not prove that Royal 1651 contains this exact wording or performance.
+
+Primary scan: *Naniwabushi Meikyoku Sen*, NDL digital scan NDL891714, especially the *Denchū Ninjō* passage and colophon, https://upload.wikimedia.org/wikipedia/commons/c/c9/NDL891714_%E5%90%89%E7%94%B0%E5%A5%88%E8%89%AF%E4%B8%B8%E3%83%BB%E6%9D%B1%E5%AE%B6%E6%A5%BD%E9%81%8A%E6%B5%AA%E8%8A%B1%E7%AF%80.pdf . The separate NDL *Naniwabushi Hitofushi Zenshū* (May 1912) also lists 「殿中の刃傷（義士傳之内） 吉田奈良丸」, corroborating the repertory title/performer but not the exact record text: https://doi.org/10.11501/891638 .
+
+### Later-generation and post-cutoff control
+
+78MUSIC lists a distinct **1935** Taihei *Denchū Ninjō (zenpen)* by **third-generation Yoshida Naramaru**, nos. 6036-A/B and 6037-A/B. This is a later performance/issue, explicitly post-cutoff, and must not be conflated with the Royal/Nipponophone-era no. 1651. CiNii separately describes a four-disc Taihei *Denchū Ninjō* by Yoshida Naramaru III, nos. 10254–10257, dated only broadly as [19--]; it too is a distinct later-generation object. Sources: https://78music.jp/taihei.html ; https://ci.nii.ac.jp/ncid/BB17753999 .
+
+### NDL 1914 *Chikuonki Monkusū* check — access gap retained
+
+The NDL catalogue confirms *Chikuonki Monkusū*, fifth edition, 正文舘, January 1914, call no. KH13-L245, 304 + 22 pages. Its online bibliographic record exposes only the beginning of a 362-entry table of contents; no full page scan or item-level evidence for 1651 was exposed in this check. The NDL Research Navi says the volume covers Nipponophone-company records issued through January 1914. Do not claim that 1651 appears or derive a date from it until the contents/pages are actually inspected. Sources: https://ndlsearch.ndl.go.jp/books/R100000002-I028655577 ; https://ndlsearch.ndl.go.jp/rnavi/avmaterials/post_1198 .
+
+### Current evidence disposition — dimensions kept separate
+
+- **Recording existence: A — VERIFIED at institutional-inventory level.** A 1981 municipal museum inventory records a physical one-sided no. 1651 disc with the exact episode title and performer by table context. This does not mean the present carrier has been re-inspected or played.
+- **Thematic fit: B — PROBABLE.** A dated February 1912 primary text for Yoshida Naramaru's *Denchū Ninjō* explicitly includes accusation, grievance, attempted retaliation and collective revenge. The text is not linked to the exact 1651 master.
+- **Chronology: B — PROBABLE pre-cutoff.** 78MUSIC places 1651 under Royal red-label eagle; the 1981 inventory independently records a one-sided 1651 under Nipponophone company classification; NDL documents Royal as a pre-1915 one-sided label family catalogued under Nipponophone/Eagle. No exact issue date or physical Royal label/runout confirmation.
+- **Audio/access/authenticity: C — UNRESOLVED.** No 1651 audio, transfer provenance, label photograph, runout or matrix transcription inspected.
+- **Legal rights: C — UNRESOLVED.** No sound-recording/master/transfer clearance.
+- **Overall candidate: C — LEAD pending exact carrier-to-performance linkage.** Do not promote the recording as a verified thematic track merely because the title and separate 1912 text align. A future promotion requires the actual label/matrix and an audio or record-specific text comparison.
+
+This consolidates evidence already present in the larger East Asian screening dossier; it is not a newly discovered museum holding. The main improvement in this run is integration into this canonical item note and correction of the Kushiro company-column interpretation. Keep the separate Nichibunken *Toiri* Royal object, ToMuCo Royal *Akō Gishiden* set, Taihei Naramaru III recordings, and Royal 1645/1649/1723–1724 issues distinct.
