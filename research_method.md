@@ -91,3 +91,14 @@ Inspect the companion repository `sloev/grudgebook` as README requires. Then rec
 Phase 5 — reconcile Grudgemixes README snapshot with canonical dossiers and A/B/C crosswalk.
 ## Exact next action
 Update the ten-row README snapshot: add canonical dossier links, clarify that the table includes formal candidates and research leads, and map legacy statuses to current A/B/C or thematic-outside wording using `research/re-audit-existing-leads-2026-11-15.md`. Do not change detailed dossier statuses or imply rights clearance.
+
+## Milestone 5 — README and canonical link reconciliation (2026-11-15)
+- Updated README current snapshot (commit `f690759742a81183db73f7e2b14f9d9b1bb70bef`) to distinguish formal candidate records from research leads, link ten priority entries to canonical dossiers and use current A/B/C evidence labels.
+- The snapshot now explicitly says it is not exhaustive; current crosswalk is A=0, B=8 provisional, C=18, plus one Greek outside-core false positive. Evidence levels do not imply audio readiness or rights clearance.
+- Caruso is represented as C — THEMATICALLY OUTSIDE / negative control. Saint-Saëns and Verdi B; Naramaru and Takamine B; Kumoemon, Papus and Kolkata C. Handel and Wagner are provisionally B in README while their dossiers still say LEAD; this unresolved mismatch is disclosed, not concealed.
+- No detailed candidate dossier status was rewritten. The updated README links are relative to the repository and point to existing paths in the audited tree.
+- Cooperation log appended; latest log commit recorded in GitHub tool result.
+## Active phase
+Phase 6 — cross-module quality assurance and evidence reconciliation.
+## Exact next action
+Check README's new relative links and the new audit-report links against the live repository tree; inspect whether the re-audit and README counts/statuses remain internally coherent. Then move from architecture audit to the highest-value substantive research task: listen/inspect accessible audio if tools permit, otherwise research exact primary catalogue/label evidence for a B candidate. Do not claim listening or archive contact unless performed.
