@@ -122,3 +122,8 @@ Sources: https://ri-ng.uaq.mx/bitstream/123456789/12411/2/LUAQ-000028.pdf ; http
 ### Japan — Nichibunken Rōkyoku SP Record Digital Archive: confirmed institutional collection lead
 
 Nichibunken’s 2016 prospectus identifies an SP disc, Yoshida Naramaru, 「赤穂義士伝討入」 (Akō Gishi-den Toiri), Royal Record, held by Nichibunken (PDF p.17). This is a useful item-level archival route for the Chūshingura / Akō retainers’ raid repertory, but the prospectus supplies no catalogue number, matrix or date. Keep it distinct from other Naramaru and Takamine Chikufu issues until label and matrix evidence links them. The online rōkyoku archive has label images for its collection; audio is public only where copyright has expired, with other audio restricted to on-site access. https://www.nichibun.ac.jp/en/uploads/pdf/niyo_2016.pdf ; https://www.nichibun.ac.jp/ja/db/category/rokyoku/ ; https://kutsukake.nichibun.ac.jp/rsp/about/
+
+
+### Japan — additional item-level Naramaru disc: Royal 1723
+
+Nichibunken OPAC record BB17634016 identifies Yoshida Naramaru’s *Hazama Jūjirō: Akō Gishiden: Naniwabushi*, Royal Record 1723, a 25 cm mono SP with Japanese lyrics. Two holdings are listed, one in the Morikawa Tsukasa former collection. The OPAC links to the rōkyoku digital archive record reg=525664. This is an extant, specifically catalogued object, but its recording date, audio accessibility and exact episode text remain unverified. It is not the separate Royal *Akō Gishi-den Toiri* raid disc and must not be merged with Royal 1645/1649 or Nipponophone 15139. OPAC: https://toshonin.nichibun.ac.jp/webopac/ctlsrh.do?ncid=BB17634016&search_mode=detail&tab_num=0&locale=en ; CiNii: https://ci.nii.ac.jp/ncid/BB17634016.
