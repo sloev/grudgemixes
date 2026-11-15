@@ -60,6 +60,8 @@
 ### Europe, diasporas and cross-border markets
 - **Phonobase / Gallica:** early commercial discs and cylinders, including French and European labels and Italian Fonotipia recordings.
 - **Yale Berliner Gramophone Disc Collection:** over 700 digitized early Berliner discs, 1887–1912.
+- **Lemberg / Gimpel's Yiddish Theatre (1904–1913):** the 78rpm record industry preserved hundreds of Yiddish theatre songs from Gimpel's permanent Lemberg troupe; sources identify about 800 titles recorded by Favorite, Beka and Gramophone, with roughly 354 of 560 so far identified recorded in Lemberg. Use Michael Aylward's research and the *Wandering Stars* disc/label reissue documentation as discovery aids, then verify each original label/matrix and exact lyric. https://forgottengalicia.com/shund-on-shellac-or-gimpels-theatre-lemberg/ ; https://doi.org/10.3828/liverpool/9781906764739.003.0008 ; https://www.iemj.org/en/wandering-stars-songs-from-gimpels-lemberg-yiddish-theater-1906-1910/
+- **YIVO Max and Frieda Weinstein Sound Archive:** 15,000+ recordings, including 78rpm discs, cylinders, spoken word and record catalogues; earliest item a wax cylinder dated 1900. YIVO online material terms are often personal/research/education only; do not assume commercial clearance. https://www.yivo.org/Sound
 - **UCSB Häupl / Ackerman holdings:** Eastern European, Balkan, Greek, Albanian, Armenian, Yiddish/cantorial, Ukrainian/Lemko and related repertories.
 - **Ottoman American / Armenian diaspora 78s:** commercial discs can preserve early repertoires and counternarratives that are missed by national sound histories. Do not treat diaspora material as a simple proxy for recordings made in the place of origin.
 
