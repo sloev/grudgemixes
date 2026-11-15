@@ -42,6 +42,8 @@ The following filenames were inherited from earlier mapping work. They are not c
 
 | GM-US-013 | Accusation / murder-ballad justice lead | Al Craver [Vernon Dalhart], “Naomi Wise” | Columbia 15053-D side 1; matrix W141313; 1925 (secondary listing gives 24 Nov); paired “Thomas E. Watson” | DAHR exact matrix: https://adp.library.ucsb.edu/index.php/matrix/detail/2000031077/W141313-Naomi_Wise ; scholarly study identifies exact 1925 recording and variant: https://dspace.cuni.cz/bitstream/handle/20.500.11956/187210/Delia%20Dattilo_24-40.pdf?isAllowed=y&sequence=1 ; Smithsonian carrier object 1996.0320.14141: https://americanhistory.si.edu/collections/object/nmah_1291952 | `GM-US-013_Al_Craver_Naomi_Wise_Columbia_15053-D_1925` | Smithsonian confirms 1925 Columbia carrier; scholarly study cites matrix W141313 and personnel, secondary listing gives session date. | READY FOR GROK — exact DAHR matrix record identified | DAHR direct page inaccessible in research environment; test permitted access. 1925 Robison version differs from older Naomi Wise texts; transcribe exact master before assigning justice/punishment theme. [Dossier](leads/GM-US-013-al-craver-naomi-wise-1925.md) |
 
+| GM-US-014 | Penal-labour / possible grievance lead | Tobe Little [Vernon Dalhart], “Chain Gang Song” | Okeh 40328 side 2; matrix 73222-A; 1925 (secondary source gives 1 Mar); paired “The Prisoner’s Song” | Smithsonian NMAH object 1996.0320.19744: https://americanhistory.si.edu/collections/object/nmah_1327855 ; *Talking Machine World*, 15 Apr 1925: https://www.worldradiohistory.com/Archive-Talking-Machine/20s/Talking-Machine-1925-04.pdf ; Kent State 1925 sheet-music catalogue: https://www.library.kent.edu/special-collections-and-archives/crime-related-sheet-music | `GM-US-014_Tobe_Little_Chain_Gang_Song_Okeh_40328_1925` | Smithsonian confirms 1925 Okeh 40328 carrier; contemporary trade list confirms title/performer/accompaniment; matrix/date suffix from secondary discography. | RESEARCH TARGET — exact audio and lyrics needed | Song’s penal-labour subject is plausible but not enough to infer protest/grievance. Smithsonian Asch collection copy explicitly forbids duplication; do not use it as a download route. [Dossier](leads/GM-US-014-tobe-little-chain-gang-song-1925.md) |
+
 ## Retrieval status definitions
 
 - **RESEARCH TARGET** — researched, but not yet ready for retrieval.
@@ -53,4 +55,4 @@ The following filenames were inherited from earlier mapping work. They are not c
 
 See [GROK_HANDOFF.md](GROK_HANDOFF.md) for required reporting fields and operating cycle.
 
-Last updated: 2026-11-15 (continued) (continued)
+Last updated: 2026-11-15 (continued) (continued) (continued)
