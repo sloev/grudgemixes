@@ -583,3 +583,7 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Sources: Afrodisc https://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-3926-3990/ ; Smithsonian Black Europe https://www.si.edu/object/siris_sil_1036702 ; ODNB https://doi.org/10.1093/ref:odnb/59528 ; UCL https://www.ucl.ac.uk/about/search-faces-ucl/making-movement-ladipo-solanke-founder-west-african-students-union-wasu ; Crowther 1852 Yoruba vocabulary https://upload.wikimedia.org/wikipedia/commons/6/64/A_vocabulary_of_the_Yoruba_language.pdf ; “Lùlù fún wọn: Oríkì in Contemporary Culture” https://www.researchgate.net/publication/322564726_Lulu_fun_won_Oriki_in_Contemporary_Culture .
 - Africa note update commit: d6ecb175b683171591330cddb8cef4753dfaf5ec.
 - Global map update commit: df16624bd9f157efbb1b0cb078db6ff752ee8022.
+
+## 2026-11-15 — ChatGPT (Edwin Gilbert authority-date discrepancy)
+- Follow-up check found a birth-year discrepancy for the author of “A Band of Hard-Pressed Men”: Hymnary's 1908 text page cites “Edwin Gilbert, 1859-”; its linked authority record gives 1848–1926; a separate Hymnary search result gives 1859–c.1935. All versions place death before 1956, but identity/date details should not be silently harmonized. Updated the Plaatje note to preserve the discrepancy pending authoritative biographical resolution.
+- Africa note correction commit: 0c3fd8b559c141221eafd2cb943fd7d0d82065d9.
