@@ -49,3 +49,20 @@ The first search pass did **not** establish five to eight tracks satisfying all 
 ## Methodology re-audit — 2026-11-15
 
 The original rejection above was made under the superseded rule requiring every credited composer/lyricist to have died before 1956. Under the revised [methodology](../METHODOLOGY.md), that death-date test is no longer a discovery gate. “Franky & Johnny” is now cross-listed as **B — PROBABLE CANDIDATE** in [the existing-lead re-audit](re-audit-existing-leads-2026-11-15.md), because the reported 1912 recording / c.1913 issue and the ballad's immediate-retaliation narrative warrant version-specific investigation. This does not resolve the exact recorded text, matrix/take, composition chronology, audio provenance or rights; the original caveats remain active. The old rejection is retained here as part of the audit trail, not as the current decision.
+
+
+## Follow-up under revised methodology — performed-text witness (2026-11-15)
+
+A 2025 University of Oregon Folklore and Public Culture thesis by Natalie Rose Ivy supplies a transcription specifically headed **Gene Greene, “Frankie and Johnny”**, citing the *Before the Big Bang* track note for the 1912 recording. The thesis reproduces the recorded version's narrative: Frankie learns that Johnny is with Alice Bly, finds them together, draws a revolver and shoots him; the closing verses include the wounded man's response and a courtroom/judicial consequence. This supports the earlier classification as **immediate lethal retaliation following betrayal**, not calculated/delayed revenge. The transcription also shows that the recorded version is not simply interchangeable with the separate Leighton Brothers sheet-music text reproduced in the same thesis appendix.
+
+Important evidence boundary: this is a modern transcription associated with a commercial reissue/track note, not a direct transcription made from a documented original Pathé 5370 carrier in this research pass. It materially strengthens thematic linkage but does not settle matrix/take, exact issue/master provenance, or archival transfer status. The 1912 London recording and c.1913 Pathé 5370 issue remain supported by specialist discographical sources; the exact original carrier/audio and rights still need direct verification. Retain **B — PROBABLE**, not A.
+
+The thesis also gives useful contextual caution: it discusses the ballad's circulation and the racialized/gendered framing of Frankie Baker, and distinguishes the song's evolving popular versions from the 1899 St. Louis event. Do not describe the commercial ballad as a transparent documentary account of the historical killing.
+
+Sources:
+- Natalie Rose Ivy, *“This is a Traditional Song; We Can’t Let You Stay Happy Long”: Gender, Social Politics, and Identity in 19th Century American Murder Ballads* (University of Oregon, 2025), especially pp. 102–104 and Appendix D, pp. 147–148; open-access CC BY 4.0: https://scholarsbank.uoregon.edu/server/api/core/bitstreams/68c04418-763c-484a-b275-38cf8d2037bb/content
+- Archeophone Records, 1912 recording discography: https://www.archeophone.com/discography/by-year/recorded-1912/
+- *Before the Big Bang*, Gene Greene track note: https://beforethebigbang.com/tracklist/track-77/
+- Pathé 5370 label listing: https://secondhandsongs.com/label/3972/all
+
+**Next action:** seek the surviving Pathé 5370 copies (reported by a specialist source as one in the Library of Congress and one in a private collection), request an item-level LOC check, and compare a carrier-derived transfer against the reissue transcription. Confirm whether the master itself is unedited and establish rights independently.
