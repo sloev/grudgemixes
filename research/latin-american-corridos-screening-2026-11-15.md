@@ -183,3 +183,10 @@ Sources:
 - Jesús Iván Mora Muro, “El corrido en México: historiografía e instituciones,” 2025, pp.123–127: https://ri-ng.uaq.mx/bitstream/123456789/12411/2/LUAQ-000028.pdf
 - Álvaro Ochoa Serrano, “Maximiano Rosales y Rafael Herrera Robinson. Un par impar en la música popular,” *Interpretextos* 2(4), 2025–26, pp.51–67: https://doi.org/10.53897/RevInterp.2025.04.03
 - 2025 *In Search of Revolutionary Voices* compilation listing Macario Romero, Rafael Herrera Robinson & Leopoldo Picazo (research/reissue lead only, not qualifying raw audio): https://lightintheattic.net/products/in-search-of-revolutionary-voices-mexican-wax-cylinder-recordings-1900-1910
+
+
+### Later Mexico-market catalogue cross-check (November 1907)
+
+The November 1907 *Edison Phonograph Monthly* Mexico catalogue list independently retains **18638 *Macario Romero*** (Robinson y Picazo) and **18750 *El Desprecio*** (Robinson). This confirms both selections remained in the Mexico-facing Edison catalogue by November 1907, but does not itself establish their original first-sale date, exact session date or whether the same master was retained throughout. The same list identifies many other titles and is a useful cross-check against Carter's 1965/1974 compilation.
+
+Source: *Edison Phonograph Monthly*, Vol. V, No. 1 (November 1907), Mexico catalogue list, pp.17–19: https://www.worldradiohistory.com/Archive-All-Audio/Edison-Phonograph/Edison-Phonograph-Monthly-1907-Vol-5.pdf
