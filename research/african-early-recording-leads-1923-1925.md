@@ -260,3 +260,35 @@ This research upgrades the **contextual plausibility** that an Anlo-Ewe martial 
 ### Source
 
 - Justice Stephen Kofi Gbolonyo, *Want the History? Listen to the Music! Historical Evidence in Anlo Ewe Musical Practices: A Case Study of Traditional Song Texts* (MA thesis, University of Pittsburgh, 2005), especially pp.52–55 and 74–75, 95–96: https://d-scholarship.pitt.edu/6773/1/JSKofiGbolonyoPhDdiss2005FinalETD.pdf . The thesis is an ethnomusicological/oral-history source for Anlo repertoire and interpretation, not a discographic or sound-recording source.
+
+
+## 2026-11-15 — Archive-path cross-check: UCSB and CREM-CNRS; later Nathaniels controls
+
+A targeted archive search did not locate an item-level 1925 transfer for Zonophone 3972 / matrix Yy7339-2. It did identify two concrete repositories worth querying and two later Nathaniels recordings that must be kept outside the core.
+
+### UCSB African 78rpm Recording Collection
+
+UCSB Special Collections describes an African 78rpm collection of more than 1,200 commercial discs, including Ghanaian and Nigerian issues and early West African performers. The library says the current item list is searchable through UC Library Search and that digital copies may be requested through a Special Collections Research Account. The collection is a plausible home for a surviving West African Zonophone, but the collection-level description does not list Nathaniels or Zonophone 3972 specifically. Do not claim UCSB holds the target disc until an item-level catalogue result or staff confirmation is obtained.
+
+A second UCSB resource, the Benno Häupl Collection (PA Mss 122), includes approximately 9,000 78rpm discs, among them about 850 African discs, plus 130 international record trade catalogues. The 78s are still being catalogued and added to UC Library Search; digital copies can be requested. This may be an even broader route to a duplicate or related Nathaniels issue. Again, no item-level match for 3972 is established.
+
+### CREM-CNRS: later Nathaniels recordings as controls
+
+CREM-CNRS catalogue records two 1928 Zonophone sides involving Roland C. Nathaniels and S. Abochee, collection CNRSMH_E_1952_009_004, label reference EZ 287, 78rpm, recorded in Togo. The two titles are “Aho de la demi” and “Nude Mano Mia.” The archive labels the issued recording rights restricted and provides metadata rather than public audio. These are post-cutoff recordings, not the 1925 “Ewe Battle Hymn”; their value is biographical/discographical, showing Nathaniels remained active in commercial recording after the 1925 London sessions. They must not be substituted for the target master or used to date it.
+
+### Next precise archive requests
+
+1. UCSB Special Collections: search UC Library Search and ask staff to check the African 78rpm collection and Benno Häupl Collection for “Zonophone 3972,” “Roland C. Nathaniels,” matrix “Yy7339-2,” and side “X-4-42857.” Request label photographs, runout/matrix confirmation, transfer provenance and listening/digital-copy conditions. Contact: special@library.ucsb.edu.
+2. CREM-CNRS: ask whether its cataloguing or donor files for Nathaniels/Abochee include any 1925 London material or correspondence that identifies the earlier discography. The published record currently supports only the 1928 Togo sides.
+3. If neither archive has the 1925 disc, pursue an original-copy search through specialist West African 78rpm collectors and the Gramophone Company/EMI archive, using the exact matrix rather than title alone.
+
+### Sources
+
+- UCSB African 78rpm Recording Collection: https://www.library.ucsb.edu/special-collections/collections/african-78rpm-recording-collection . Collection-level scope and access procedure; not item-level proof of target disc.
+- UCSB Benno Häupl Collection (PA Mss 122): https://www.library.ucsb.edu/special-collections/performing-arts/benno-haupl-collection-pa-mss-122 . Collection-level scope and cataloguing/access procedure; not item-level proof of target disc.
+- CREM-CNRS collection CNRSMH_E_1952_009_004: https://archives.crem-cnrs.fr/archives/collections/CNRSMH_E_1952_009_004/ . Catalogue metadata for two later 1928 sides, restricted access.
+- Afrodisc, West Africa Zonophone 3926–3990: https://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-3926-3990/ . Specialist secondary discography for 1925 matrix/date identity.
+
+### Screening decision
+
+No candidate promotion. “Ewe Battle Hymn” remains C — LEAD: discographic identity and 1925 matrix/session date are well documented by a specialist discography, but no audio/text or item-level raw transfer has been located. UCSB and CREM are archive inquiry routes, not evidence that the target audio is held there.
