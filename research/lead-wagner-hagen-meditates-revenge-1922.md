@@ -55,3 +55,16 @@ The entry is **HMV D704**, side **3-0857**, matrix **Cc1586-1**, recorded at Hay
 ## Decision
 
 Retain as a high-priority **LEAD**. It has stronger primary discographical metadata than most leads so far, but it is not yet a production-ready candidate because the exact archival audio and rights gates remain open.
+
+
+## Critical title/text clarification (2026-11-15): “Hagen's Watch,” not the revenge scene
+
+A further check against Alan Kelly's Gramophone Company matrix catalogue and the full libretto materially narrows the thematic claim. Kelly identifies matrix Cc1586-1 as **“Die Götterdämmerung: Hagen's Watch, A1”**, not as the later descriptive title “Hagen meditates revenge.” The excerpt is Act I, Scene 2, Hagen's watch song beginning *Hier sitz' ich zur Wacht*. In the libretto, Hagen sits guarding the hall while Siegfried and Gunther sail away; he says that Siegfried will bring Brünnhilde to the Rhine, “but to me he brings the Ring.” The passage points to Hagen's calculated acquisition of the Ring and his resentment/ambition, but it is not the later scene in which he explicitly offers to avenge Brünnhilde or kills Siegfried. That explicit revenge declaration belongs to Act I, Scene 3 (“Vertraue mir, betrog'ne Frau!” / “I will avenge thy wrong on him”) or the later killing scene in Act III.
+
+Therefore, “Hagen meditates revenge” should be treated as a later discographical gloss, not a reliable transcript/title for the exact issued excerpt. The recording remains a strong, well-dated object (matrix Cc1586-1; 29 June 1922; HMV 3-0857 / D704), but its thematic fit for this project is **conditional and probably weak under the current grievance/revenge criteria**. Do not place it in a revenge mix unless direct listening proves that the issued performance contains a different passage or an additional relevant text. For now, retain as a discographical research lead, not a mix candidate.
+
+Sources:
+- Alan Kelly, Gramophone Company matrix catalogue, Cc1586: “Hagen's Watch, A1,” recorded 29 June 1922, issued 3-0857 D704 W572: https://www.gramophonecompanydiscography.com/PDF/File%20D%20-%20BB.pdf
+- Full German-English libretto, Act I, Scene 2, *Hier sitz' ich zur Wacht*: https://www.librettoarchive.com/G%C3%B6tterd%C3%A4mmerung_libretto_German_English
+- Teatro alla Scala 2025–26 libretto, German text of Hagen's Watch: https://www.teatroallascala.org/static/upload/lib/libretto-03_gotterdammerung_2025-2026.pdf
+- Separate explicit revenge dialogue, Act I, Scene 3: https://www.docz.net/doc/5882682/go%3Ftterda%3Fmmerung_libretto_quer-layout-1 (scene comparison only; the disc matrix is not identified with this scene).
