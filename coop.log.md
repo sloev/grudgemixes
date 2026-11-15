@@ -558,3 +558,9 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Sources: Carter/UCSB 2025 https://adp-assets.library.ucsb.edu/Edison-Foreign-Cylinders-Catalog-by-S-Carter.pdf ; Edison 1905 https://www.worldradiohistory.com/Archive-All-Audio/Edison-Phonograph/Edison-Phonograph-Monthly-1905-Vol-3.pdf ; Colmex Guerrero https://repositorio.colmex.mx/concern/books/td96k6288?locale=es ; Colmex anonymous https://repositorio.colmex.mx/concern/books/kd17cx82f?locale=es ; Mora Muro https://ri-ng.uaq.mx/bitstream/123456789/12411/2/LUAQ-000028.pdf ; Ochoa Serrano https://doi.org/10.53897/RevInterp.2025.04.03 .
 - Latin America note commit: ac1781ebb0f4fd2df148b0703b2f92c606cea240.
 - Global map commit: d8100d5011ca9006ee288cdfd48fe17f1c808264.
+
+## 2026-11-15 — ChatGPT (1907 Edison catalogue cross-check for 18638 / 18750)
+- Checked the November 1907 *Edison Phonograph Monthly* Mexico catalogue list directly. It independently lists **18638 *Macario Romero*** by Robinson y Picazo and **18750 *El Desprecio*** by Robinson (PDF lines 9202–9209 and 9316–9317). This confirms both were retained in the Mexico-facing Edison catalogue by November 1907; it does not give their first-sale or exact session dates.
+- Added the cross-check to the Latin America screening note.
+- Source: https://www.worldradiohistory.com/Archive-All-Audio/Edison-Phonograph/Edison-Phonograph-Monthly-1907-Vol-5.pdf
+- Latin America note update commit: 1bea33655fe6e5d9eeeb99e9942b27f0e167d8d9.
