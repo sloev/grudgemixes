@@ -21,11 +21,12 @@ This is precisely the sort of track a more flexible mix architecture can use: it
 
 ## Text and thematic evidence
 
-John A. Lomax's *Cowboy Songs and Other Frontier Ballads* (New York: Sturgis & Walton, 1910), pp. 27–28, prints the ballad before the recording. It repeatedly calls Ford a “dirty little coward” and says he had eaten Jesse's bread and slept in his bed before killing him. The text's moral argument is accusation through betrayal: the wrong is not merely the killing but the violation of intimate trust. The ballad also romanticizes James as a friend to the poor despite recounting his robberies; preserve that contradiction rather than repeating it as fact.
+John A. Lomax's *Cowboy Songs and Other Frontier Ballads* (New York: Sturgis & Walton, 1910), pp. 27–28, prints the ballad before the recording. It repeatedly calls Ford a “dirty little coward” and says he had eaten Jesse's bread and slept in his bed before killing him. Bentley Ball's own *The Song-a-logue of America* (digitized by the University of Rochester's Sibley Music Library) prints “Jesse James” on p. 31 and likewise reads “that dirty little coward.” This primary printed witness contradicts a secondary web account claiming Ball changed “dirty” to “mean”; it does **not** prove the exact words on the Columbia master. The text's moral argument is accusation through betrayal: the wrong is not merely the killing but the violation of intimate trust. The ballad also romanticizes James as a friend to the poor despite recounting his robberies; preserve that contradiction rather than repeating it as fact.
 
 - Library of Congress catalogue for the 1910 book: https://www.loc.gov/item/10030589/
 - Digitized 1910 text: https://www.gutenberg.org/cache/epub/21300/pg21300-images.html
 - Library of Congress page image/transcription for the song: https://www.loc.gov/resource/gdcmassbookdig.cowboysongsother00loma/?sp=1&st=grid
+- Bentley Ball, *The Song-a-logue of America*, “Jesse James,” p. 31, University of Rochester Sibley Music Library digitized score: https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=18390 (PDF: https://urresearch.rochester.edu/fileDownloadForInstitutionalItem.action?itemFileId=63227&itemId=18726)
 
 ## Taxonomy and editorial role
 
