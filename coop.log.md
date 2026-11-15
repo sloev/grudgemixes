@@ -886,3 +886,15 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - No evidence connects *haló* to Roland C. Nathaniels’s 1925 Zonophone 3972 sides. “Ewe Battle Hymn” remains C — LEAD; the title is insufficient to establish grievance content.
 - Next: retrieve Campbell’s full paper and identify the colonial notice/file reference; search PRAAD (especially Secretary for Native Affairs / ADM 11) and contemporaneous Keta/Anlo district records; seek pre-1926 song texts and exact commercial recording matches.
 - Sources: https://journal.oraltradition.org/wp-content/uploads/files/articles/9i/4_avorgbedor.pdf ; https://digitalcollections.sit.edu/african_diaspora_isp/44 ; https://praad.gov.gh/index.php/popular-collection-chieftaincy/ .
+
+
+## 2026-11-15 — ChatGPT (repository architecture and formal candidate audit)
+
+- Created root `research_method.md` as persistent execution state and module-by-module audit protocol (commit 1aaf1a75ce85a50f0a5a3183edcb30cf977c213a; later state updates follow).
+- Read `README.md` and `METHODOLOGY.md`; confirmed this repository is an archival recorded-sound research compendium rather than a software application. README requires additive work, full cooperation-log review, exact recording/text/source metadata, global coverage and separate rights analysis. Current methodology adopts pre-1926 core, A/B/C evidence levels, conditional lament/betrayal rule and independent audio/rights workstreams.
+- Enumerated formal candidate module: 4 files in `candidates/`. Enumerated research module: 24 files in `research/` (not 21; correction recorded in persistent state). Root also contains README, METHODOLOGY, coop.log and research_method.
+- Audited all four formal candidate files. Findings: Armenian Victor 69102 is provisionally B pending exact performed-text collation; Saint-Saëns Victor 87501 is provisionally B pending listening/text/transfer; Verdi Vocalion 60019 is provisionally B but date remains tentative and matrix/text unverified; Caruso “Vesti la giubba” is a thematic mismatch under current methodology because the selected aria is lament and the retaliation occurs later elsewhere in the opera. Proposed non-core/reject classification unless the aria itself yields a qualifying grievance-response mechanism.
+- Added full file-by-file audit and next actions at `research/formal-candidate-record-audit-2026-11-15.md`.
+- No candidate record was rewritten or status unilaterally changed. No audio was listened to and no rights determination made.
+- Next: audit all 24 research files for schema/status/date consistency, orphan records and cross-links; then reconcile README snapshot and global map. Preserve the current evidence and editorial authority.
+- Commit: audit report 87d417a5732b201e58592b980decf65c4ea9656f.
