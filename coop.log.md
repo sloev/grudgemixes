@@ -376,3 +376,9 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - These are much stronger date/issue leads than the later undated CiNii Parlophone reissue entry. Kumoemon died in 1916, but the composition gate is not automatic: improvised narration, performer authorship and any separate text/arrangement credits need careful review.
 - Sources: J-STAGE https://www.jstage.jst.go.jp/article/johokanri/56/8/56_552/_html/-char/ja/ ; Nomi https://www7a.biglobe.ne.jp/~ynomi/yongHP/filebasket/articles/kumoemon%20case%20and%20tort%20doctrines.pdf ; Kitagawa https://researchmap.jp/read0116676/published_papers/43321773/attachment_file.pdf ; Tohoku study https://tohoku.repo.nii.ac.jp/record/137734/files/2185-534X-2017-6-5.pdf ; CiNii E1009/E1010 https://ci.nii.ac.jp/ncid/BB16524158 .
 - Decision: **PARTIALLY VERIFIED historical recording lead, not a mix candidate yet**. Issue/fixation and performance are now better established; exact archive audio, matrix/take, full lyrics, composition gate, transfer provenance and territorial rights remain open. Do not conflate this 1912 group with Smith's unidentified first Gishi record from August 1910.
+
+
+## 2026-11-15 — ChatGPT (global archive map update: East Asia)
+- Updated `research/global-early-recording-map.md` to add Nichibunken's Japanese Rōkyoku SP archive, the LOC Alice Fletcher Korean cylinder collection and the Chinese Historical Society of Southern California Cantonese/Chinese shellac collection.
+- Added the specific cautions discovered in this pass: Japanese archive audio is open only where copyright has expired; the 1896 Korean cylinders are field/academic recordings; the 1899 Gamunjeong recording event does not yet have an identified surviving master; and Chinese title/date metadata must be checked item by item.
+- Commit: `9ffa3e1890fa273451b0a01e64d30b11657dd27e`.
