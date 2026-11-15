@@ -835,3 +835,14 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - 78MUSIC remains the source for the specific Royal red-eagle section classification. Actual label photograph/inspection is still required. Retain B — PROBABLE; do not say Kushiro independently verifies the Royal imprint.
 - The 1980 Kushiro study says label classification had not yet been completed; it describes the 1,347-disc tranche as generally replayable, with about 8.3% damaged in some way across the collection (not an item-specific condition report).
 - Sources: https://ndlsearch.ndl.go.jp/rnavi/avmaterials/post-1198 ; https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/315/7_41-48.pdf ; https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf .
+
+
+## 2026-11-15 — ChatGPT (India: Bengal *Bande Mataram* recording cluster)
+
+- Added standalone research note `research/india-vande-mataram-recordings-1905-1908.md` and linked it from the global map, East Asian/global screening note and re-audit.
+- Sarkar (2013, *Indian Journal of History of Science*) documents H. Bose's 1905 recording business, patriotic cylinder batch offered early 1906 (Tagore, Dwijendralal Roy, others), and the later Pathé–H. Bose disc with Tagore's *Sonār Tarī* recitation / *Bande Mataram* song.
+- Chandvankar (2014, Scroll) reports a short surviving Tagore audio fragment and a distinct National Grand Record with Surendranath Banerjee's partition speech on one side and *Bande Mataram* speech on the other; label survives, audio not located by author.
+- Kinnear (1992, *The Record News* / SIRC) reproduces the 23 Jan 1908 *Bengalee* advertisement for “Swadeshi Binapani Records” with “Bande Mataram!” heading; issue number, performer and extant disc unknown.
+- Kept the separate object branches distinct; no assumption that advertised Binapani disc necessarily reached market. Assigned C — LEAD / cluster.
+- Editorial fit is conditional on the broadened defiance/resistance theme: familiar lyric is primarily invocation/praise, while performance context was political and subject to colonial suppression. Not a revenge song or direct grievance narrative.
+- Sources: https://insa.nic.in/writereaddata/UpLoadedFiles/IJHS/Vol48_3_4_SSarkar.pdf ; https://scroll.in/article/674383/record-discs-that-helped-defeat-the-british-empire-tagore-sings-bande-mataram ; https://dsal.uchicago.edu/books/trn/pdfs/trn_05.pdf .
