@@ -44,6 +44,8 @@ The following filenames were inherited from earlier mapping work. They are not c
 
 | GM-US-014 | Penal-labour / possible grievance lead | Tobe Little [Vernon Dalhart], “Chain Gang Song” | Okeh 40328 side 2; matrix 73222-A; 1925 (secondary source gives 1 Mar); paired “The Prisoner’s Song” | Smithsonian NMAH object 1996.0320.19744: https://americanhistory.si.edu/collections/object/nmah_1327855 ; *Talking Machine World*, 15 Apr 1925: https://www.worldradiohistory.com/Archive-Talking-Machine/20s/Talking-Machine-1925-04.pdf ; Kent State 1925 sheet-music catalogue: https://www.library.kent.edu/special-collections-and-archives/crime-related-sheet-music | `GM-US-014_Tobe_Little_Chain_Gang_Song_Okeh_40328_1925` | Smithsonian confirms 1925 Okeh 40328 carrier; contemporary trade list confirms title/performer/accompaniment; matrix/date suffix from secondary discography. | RESEARCH TARGET — exact audio and lyrics needed | Song’s penal-labour subject is plausible but not enough to infer protest/grievance. Smithsonian Asch collection copy explicitly forbids duplication; do not use it as a download route. [Dossier](leads/GM-US-014-tobe-little-chain-gang-song-1925.md) |
 
+| GM-US-015 | Penal sentence / possible grievance lead | Al Craver [Vernon Dalhart], “Sentenced to Life Behind These Grey Walls” | Columbia 15060-D side 2; matrix W141311; 24 Nov 1925 (secondary session listing); side 1 “The Engineer’s Dying Child” is dated 1926 | Smithsonian NMAH object 1996.0320.14128 explicitly separates side dates: https://americanhistory.si.edu/collections/object/nmah_1291936 ; matrix/date listing: https://www.dm4ep.com/music/yr1925.htm ; Dalhart discography: https://www.rocky-52.net/chanteursd/dalhart_vernon.htm | `GM-US-015_Al_Craver_Sentenced_to_Life_Behind_These_Grey_Walls_Columbia_15060-D_1925` | Smithsonian confirms side 2 recorded 1925 and side 1 recorded 1926; secondary source gives W141311 / 24 Nov. | READY FOR GROK — exact Columbia side/matrix identified | Seek exact W141311; do not conflate with Tobe Little Okeh 40532 / matrix 73826-A or other “Behind These Grey Walls” issues. Punishment is clear in title; grievance/innocence not yet established by lyrics. [Dossier](leads/GM-US-015-al-craver-sentenced-to-life-behind-grey-walls-1925.md) |
+
 ## Retrieval status definitions
 
 - **RESEARCH TARGET** — researched, but not yet ready for retrieval.
@@ -55,4 +57,4 @@ The following filenames were inherited from earlier mapping work. They are not c
 
 See [GROK_HANDOFF.md](GROK_HANDOFF.md) for required reporting fields and operating cycle.
 
-Last updated: 2026-11-15 (continued) (continued) (continued)
+Last updated: 2026-11-15 (continued) (continued) (continued) (continued)
