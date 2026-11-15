@@ -61,3 +61,8 @@ Proposed filename: `GM-AM-003_Tashjian_Brothers_Himi_El_Lrenk_Columbia_E668-4953
 ## Decision
 
 Prioritize as a B candidate and a high-value retrieval target. Exact performer, Columbia issue, label image and 1910 session are documented by the Armenian Museum; the song-family text has unusually strong and explicit grievance/resistance content. Do not claim the full text is the exact 1910 lyric until the master is transcribed. No audio has been auditioned or downloaded by this research agent.
+
+
+## Identity clarification — a separate 1909 solo recording
+
+The Armenian Museum's expanded discography also identifies a 1909 solo Mardiros Der Sarkis Tashjian “Himi El Lrenk,” Columbia E529-4100, paired/listed with “Marseillaise.” This is distinct from the 1910 Tashjian Brothers “Himi El Lrenk,” Columbia E668/4953, documented in this dossier. The shared title does not make them the same performance or issue. The 1909 solo performance now has separate project ID GM-AM-004 and dossier `leads/GM-AM-004-mardiros-tashjian-himi-el-lrenk-1909.md`. Source: https://armenian-museum.squarespace.com/sound-archive/tashjian-story .
