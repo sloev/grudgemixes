@@ -987,3 +987,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Corrected the thematic interpretation: the matrix catalogue names the selection “Hagen's Watch, A1” (*Hier sitz' ich zur Wacht*), while “Hagen meditates revenge” is a later discographical title. The sung scene is Hagen guarding the hall and thinking about obtaining the Ring; the explicit revenge promise to Brünnhilde is in a different scene.
 - Updated the Wagner research note and global map. The recording remains strongly dated (29 June 1922; HMV 3-0857 / D704), but is no longer treated as a likely revenge-mix track absent direct audio confirmation.
 - Research implication: separate discographic title from original selection/scene identity; verify exact libretto passage before classifying dramatic excerpts by revenge taxonomy.
+
+
+## 2026-11-15 — ChatGPT (Mix 01 audio-access leads and catalogue correction)
+
+- Found FAU Recorded Sound Archives digitized item pages with embedded players for both Saint-Saëns/Victor 87501 (“Vengeance at Last,” item 57310) and Verdi/Vocalion 60019 (“Sì, vendetta,” item 54400). FAU states that copyright-restricted recordings may be limited to 45-second research previews. No listening is claimed; item pages do not provide matrix/date or transfer-chain details, and access is not a reuse licence.
+- Found AWA's 2000 *Arias* listing for Malcolm McEachern, “Alexanders Feast: Behold, A Ghastly Band . . . Revenge Timotheus Cries,” duration 4:51. This is a later-reissue listening lead only; its source carrier and relation to Vocalion X-9560 remain unverified.
+- Corrected the catalogue bibliographic description: the cited Vocalion catalogue is a 1926 edition, whose foreword says it covers records issued through November 1925. It should not be described as a catalogue published in 1925.
+- Mix 01 remains development-stage; exact audio inspection, transcript, transfer provenance and rights are still open.
