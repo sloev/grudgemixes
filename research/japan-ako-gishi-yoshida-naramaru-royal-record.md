@@ -54,3 +54,16 @@ The institutional source identifies the performance title, but not the actual ex
 5. Track rights and transfer status separately. Publicly viewable label imagery or on-site listening is not commercial audio clearance.
 
 **Decision:** retain as a separate C-level archival lead. Do not promote to B until chronology and exact performance identity are better established.
+
+
+## Discographical cross-check — multiple plausible issues, number conflict (2026-11-15)
+
+A specialist Japanese SP discography page (78MUSIC, “Nipponophone / Royal / American”) separately lists **赤穂義士討入**, performer “大阪 吉田奈良丸,” catalogue number **1645**, under the shared label section. This is a plausible match to the Nichibunken Royal Record title, but the page’s merged label heading does not, by itself, prove that 1645 is the exact disc shown in the Nichibunken prospectus. The same discography lists other related Naramaru titles and series numbers, including *Akō Gishi-den Hazama Jūjirō* 1723–1724 and *Gishi no Toiri* / *Gishi no Hikiage* 15139-A/B (the latter assigned July 1923 in the catalogue table). These are distinct entries and must not be treated as the same recording.
+
+A Kushiro City Museum / local collection survey independently lists **1649 (one-sided), *Akō Gishi-den*, Yoshida Naramaru, Royal**. This conflicts with 1645 as the plausible Royal catalogue number for *Akō Gishi Uchiiri*, and may refer to another title/issue or reflect a different catalogue transcription. It does not resolve the Nichibunken disc’s number. Treat **1645 and 1649 as competing catalogue leads**, not confirmed identity. Physical label images and matrix/runout comparison are needed.
+
+Sources:
+- 78MUSIC, “Nipponophone / Royal / American”: https://78music.jp/other5.html (also https://www.78music.jp/other5.html).
+- Kushiro City Museum collection survey, “本館所蔵の音盤資料について (II) 一坂井徳治氏収集資料を中心に”: https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf.
+
+This new evidence makes the physical disc more traceable, but the date of the Royal 1645/1649 entries remains unestablished in these sources. Do not infer pre-1926 solely from the 1923 Nipponophone 15139 issue; it is a separate catalogue item. The candidate remains C pending exact label/matrix linkage and date evidence.
