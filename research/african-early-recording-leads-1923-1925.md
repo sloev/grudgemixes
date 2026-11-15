@@ -292,3 +292,23 @@ CREM-CNRS catalogue records two 1928 Zonophone sides involving Roland C. Nathani
 ### Screening decision
 
 No candidate promotion. “Ewe Battle Hymn” remains C — LEAD: discographic identity and 1925 matrix/session date are well documented by a specialist discography, but no audio/text or item-level raw transfer has been located. UCSB and CREM are archive inquiry routes, not evidence that the target audio is held there.
+
+
+## Haló: historically documented grievance-performance tradition (context, not yet a recording match)
+
+A stronger thematic research path has emerged around Anlo-Ewe *haló* (also written “halo” in some catalogues and student work). Daniel K. Avorgbedor describes it as a multi-media sociomusical drama involving insult songs, dance, drumming, mime, poetry, spoken forms, costume and visual devices. He dates its popularity from approximately 1912 until its official proscription in 1960. Performances generally involved rival wards or villages and combined provocation, accusation, sung/spoken insults and competitive musical display; the exchanges could escalate into physical violence and persist beyond the performance. Avorgbedor explicitly describes song as a means of seeking “vindication and revenge” where an aggrieved person or ward lacked an effective official remedy, and describes counterattack through song as a common response to wife-taking and other affronts. This is unusually close to the compendium’s broadened grievance/retaliation scope. Source: Daniel K. Avorgbedor, “Freedom to Sing, License to Insult: The Influence of *Haló* Performance on Social Violence Among the Anlo Ewe,” *Oral Tradition* 9.1 (1994), 83–112, especially pp. 84–89, https://journal.oraltradition.org/wp-content/uploads/files/articles/9i/4_avorgbedor.pdf .
+
+### Dating and evidentiary cautions
+
+- Avorgbedor’s circa-1912 start date is a retrospective ethnomusicological statement, not itself a located 1912 primary document. His footnote ties the 1960 prohibition to Criminal Code Act 29, section 295; it does not identify a 1912 ban or first performance record.
+- Corinna Campbell’s 2002 SIT fieldwork paper says colonial-government documents concerning bans on the *halóga* (announcement of a haló performance) indicate the songs were established by 1918. The accessible repository record confirms the paper and its abstract, but the underlying archival document and its full citation have not yet been independently inspected. Treat “by 1918” as a promising secondary lead, not verified archival fact. Repository record: https://digitalcollections.sit.edu/african_diaspora_isp/44 .
+- Avorgbedor’s examples include a “pre-haló” song and a 1957 haló; the latter is explicitly post-cutoff. The contemporary songs printed in the article are not evidence of pre-1926 texts and must not be backdated.
+- *Haló* is a social performance system, not simply a synonym for any Ewe insult song or “battle hymn.” No evidence currently links Roland C. Nathaniels’s Zonophone 3972 “Ewe Battle Hymn” or “Anlo Patriotic Song” to haló. Their catalogue titles and session date alone do not establish thematic eligibility.
+
+### Research action / next evidence threshold
+
+Search for the colonial notice or correspondence mentioned by Campbell, record its exact date, issuing authority, archival repository, file reference and wording; then seek any pre-1926 *haló* song text or named composer/performer that can be matched to a commercial recording. The Ghana Public Records and Archives Administration Department lists Secretary for Native Affairs holdings (ADM 11) among its collections, but no item-level *haló* file has been identified. PRAAD collection guide: https://praad.gov.gh/index.php/popular-collection-chieftaincy/ . Until a recording/text link is established, this is contextual evidence and a search strategy, not a candidate recording.
+
+### Screening decision
+
+Add *haló* as a high-priority Anlo-Ewe grievance-song tradition for targeted recording discovery. Do not promote any Nathaniels side or add a recording candidate on the strength of this context alone.
