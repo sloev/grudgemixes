@@ -11,7 +11,7 @@ This is a particularly strong example of music represented as an instrument of r
 - **Performer:** Malcolm McEachern, bass; Aeolian Orchestra.
 - **Label/catalogue:** Vocalion X-9560, 10-inch 78rpm, issued in the United Kingdom.
 - **Session/matrix:** specialist Vocalion sessionography lists London, **October 1924?**, matrix/session numbers **03724** and **03725**, with “Revenge Timotheus cries” parts 1 and 3 and “Behold a ghastly band” part 2; issue X-9560 is linked to 03724 and 03725X. Exact takes and the structure of the issued sides need physical-copy confirmation.
-- **Publication:** the 1925 UK Vocalion catalogue lists X-9560 as “Revenge! Timotheus Cries,” *Alexander's Feast* (Handel), parts I and II, with Aeolian Orchestra, bass Malcolm McEachern; it says replay part I to complete the aria. This is contemporary issue evidence before the cutoff.
+- **Publication:** the UK Vocalion catalogue's **1926 edition** lists X-9560 as “Revenge! Timotheus Cries,” *Alexander's Feast* (Handel), parts I and II, with Aeolian Orchestra, bass Malcolm McEachern; its foreword says the edition contains all records issued up to and including November 1925, and the entry says replay part I to complete the aria. This is retrospective catalogue evidence that the issue was in circulation by the November 1925 catalogue cut-off, not a catalogue physically published in 1925.
 - **Cross-check:** a later McEachern discography independently lists X-9560 and matrices/issues 03724/03725. A 2010 specialist review says McEachern recorded the aria on Vocalion in the early 1920s and comments on the 1924 studio circumstances; useful corroboration, not primary session evidence.
 - No exact item-level public archive audio or preservation-transfer record has yet been located. Do not claim that the audio has been heard or that the two parts are complete without inspecting the physical issue.
 
@@ -61,10 +61,17 @@ A singer's revenge can become a crowd's revenge. In *Alexander's Feast*, Timothe
 ## Sources
 
 - British Library Archives and Manuscripts, R.M.20.d.4, Handel autograph *Alexander's Feast* (1736): https://searcharchives.bl.uk/catalog/040-001948650
-- 1925 UK Vocalion catalogue, entry X-9560: https://78rpm.club/wp-content/uploads/2015/10/Vocalion-Records-Catalogue-1925-UK.pdf
+- UK Vocalion catalogue, 1926 edition (records issued through November 1925), entry X-9560: https://78rpm.club/wp-content/uploads/2015/10/Vocalion-Records-Catalogue-1925-UK.pdf
 - 78opera, Malcolm McEachern discography, Vocalion London 1924-10? session 03724/03725: https://www.78opera.com/files/ARTIST_M.pdf
 - University of Michigan UMS Rewind, John Barclay performance of the aria, 15 Dec 1924 (contextual evidence of contemporary repertoire, not the McEachern disc): https://umsrewind.org/works/?id=10766
 - Yale Institute of Sacred Music, *Alexander's Feast*: https://ism.yale.edu/events/2018-10-12-yale-schola-cantorum-handel-alexanders-feast
 - Naxos programme note on the work's historical/literary setting: https://www.naxos.com/Handler/GetBackcover.ashx/?file=https%3A%2F%2Fcdn.naxos.com%2FSharedFiles%2Fpdf%2Frear%2F8.572224r.pdf
 - Full text: https://www.dycom-il.com/h/handel-AF-libretto.html
 - Miranda Stanyon, “The Changes, or Plus ça change? Newburgh Hamilton's Early Writings and the Politics of Handel's Librettos,” *Journal of the Royal Musical Association* 142/2 (2017): https://doi.org/10.1080/02690403.2017.1361171
+
+
+## New audio-access lead and catalogue-date correction (2026-11-15)
+
+A streaming catalogue page on AWA lists Malcolm McEachern's “Alexanders Feast: Behold, A Ghastly Band . . . Revenge Timotheus Cries” on the 2000 album *Arias*, duration 4:51. This is a useful lead to a later reissue/listening copy of the performance, and may contain the complete multi-section aria, but the page does not identify the source carrier, transfer, label, matrix or whether it is specifically the Vocalion X-9560 transfer. It is **not** proof of a raw archival transfer and does not resolve the issued side sequence. Treat it as a derivative listening surrogate pending audio comparison with an original X-9560 pressing. AWA page: https://prd-s.awa.fm/track/dec89263bb8a36faef02.
+
+The catalogue cited above is a **1926 edition** whose foreword says it includes all Vocalion records issued through November 1925. Earlier notes calling it a “1925 catalogue” were imprecise. The issue's pre-cutoff status remains probable/strongly supported by this retrospective list plus the tentative October 1924 sessionography, but the catalogue is not a contemporaneous 1925 publication.
