@@ -282,8 +282,8 @@ Seek an original Vocalion X-9560 pressing or high-resolution photographs of both
 
 ## Next run handoff
 
-- Current READY FOR GROK queue: GM-US-002 Land Norris, Okeh 40374, DAHR matrix 2000200840. Wait for Grok's exact retrieval report; do not claim download or audition.
-- Perrow's 1915 “Oh, Mourner!” (1909 Mississippi manuscript) has now been inspected as a primary text witness; its comic wife/police verse is song-family context only, not the exact Land Norris transcript. Compare Scarborough 1925, White 1928 and Harbin *Parodology* #10 pp. 10–11; preserve racist/minstrel context.
-- Keep GM-US-002 at C until the actual 1924 performance or an exact contemporaneous text is checked. Reconcile date/matrix discrepancies (DAHR 31 Aug 1924 / 8701; specialist 26 Aug / 8701-A).
-- Continue the Bentley Ball A3085 recording-version comparison and global/regional discovery. Use GROK_HANDOFF.md; ChatGPT researches and prepares precise targets, Grok retrieves, and the project owner/editor decides.
-- Append dated cooperation log, update dossiers/global map/track map as warranted, commit and verify actual changes.
+- ChatGPT's role is research and discovery: identify exact recordings, locate and assess source/audio routes, document provenance/discrepancies and write targets into TRACK_MAPPING.md. Grok handles retrieval only where an independently downloadable source exists. Do not download audio in ChatGPT or claim a recording has been obtained/auditioned without evidence.
+- Mix 01 has three exact targets in TRACK_MAPPING.md: Saint-Saëns “Vengeance at Last,” de Gogorza/Homer, Victor 87501 / B-6227-2 take 2 (87501 vs 89501 discrepancy); Verdi “Sì, vendetta,” Evelyn Scotney/Giacomo Rimini, Vocalion 60019 / 30146, session 7176 (matrix/date unresolved); Handel “Revenge! Timotheus Cries,” Malcolm McEachern, Vocalion X-9560, 03724/03725X (part/side discrepancy).
+- FAU RSA items 57310 and 54400 are public identity/streaming references only. FAU policy says audio cannot be downloaded from its site or Research Station. Grok must not bypass this; seek independently downloadable archival transfers or report no accessible file.
+- Land Norris GM-US-002 remains C and queued separately. Do not promote on title/song-family clues alone.
+- Resolve Mix 01 discographic conflicts and locate exact audio sources; then continue Bentley Ball and global discovery. Update dossiers, map, track map and coop.log; preserve evidence distinctions and commit actual changes.
