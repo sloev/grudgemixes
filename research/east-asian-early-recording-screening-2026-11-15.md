@@ -216,3 +216,24 @@ Sources:
 - Secondary-market listing for Victor 52486 (discovery only): https://auctions.yahoo.co.jp/search/search/78%E5%9B%9E%E8%BB%A2sp%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/0/
 
 Decision: this strengthens the Japanese Gishi/Naniwabushi research strand as a pre-1926 commercial recording ecosystem, not yet a cleared master. The 1910 first-issue identity remains unknown; the 1914 Yamato Naramaru disc remains a high-priority lead; the 1923 Nipponophone 15139-A/B is a separate documented issue; Victor 52486 remains unverified.
+
+
+### G. The likely 1910 first Gishi record: Naramaru II's *Akō Gishiden* (provisional identification)
+
+A further cross-check makes the 1910 first-record chronology more concrete, while leaving the exact disc identity open:
+- Henry D. Smith dates the first commercial record of a Gishi tale to **August 1910**, without naming its performer/title/catalogue number in the passage.
+- A Japanese academic article on the development of the content industry states that a Naniwabushi recording titled **赤穂義士伝 (*Akō Gishiden*)** appeared in **1910 (Meiji 43)** and had sold more than 200,000 copies by 1915. It cites Kurata Hiroyuki (2007), pp.65–70, as its source for the sales figure.
+- A local-history article on Otaru's performance venues attributes the 1910 *Akō Gishiden* recording to **Yoshida Naramaru II** and repeats the 200,000-copy figure. This is a useful performer attribution, but should be corroborated against Kurata's book or a contemporary catalogue/advertisement before it is treated as definitive.
+- The National Theatre's Cultural Digital Library independently documents the printed Naramaru performance text **『大和桜義士の面影』第一編**, dated **Meiji 43 (1910)**, and identifies it as a Naniwabushi performance by Yoshida Naramaru. The page explains that Naniwabushi drew much of its repertoire from kōdan, and that Gishi-den works frequently focus on individual tales and side stories rather than simply retelling the main event. This printed title is not necessarily identical to the 1910 disc's title or contents.
+- A Japanese reference entry on Naniwabushi separately says that Tōchūken Kumoemon's **義士伝** record was released in **Taishō 1 (1912)**, reportedly pressing 72,000 copies at 3 yen 80 sen. This appears to be a distinct later Gishiden issue, not the 1910 first record. Keep it separate from the Nichibunken 1912 Lyrophone *Akagaki Genzo: Tokkuri no Wakare* (a specific farewell episode) and from Naramaru's 1914 Yamato and 1923 Nipponophone *Gishi no Uchiiri* issues.
+
+Working conclusion: the **August 1910 first Gishi record may well be Yoshida Naramaru II's *Akō Gishiden***, but the identification is not yet secure enough for a candidate record. Obtain Kurata Hiroyuki, *Nihon rekōdo bunka-shi* (2007), pp.65–70, and locate the original 1910 Naramaru issue/catalogue/label before upgrading. The 1910 printed *Yamato Sakura Gishi no Omokage* is a separate textual witness and may help identify the exact recorded segment if matched.
+
+Sources:
+- Henry D. Smith, “The Media and Politics of Japanese Popular History: The Case of the Akō Gishi,” pp.85–86: https://www.columbia.edu/~hds2/pdf/2006_Ako_Gishi_media_and_politics.pdf
+- Japanese academic article quoting Kurata 2007, pp.65–70, on the 1910 *Akō Gishiden* recording and sales: https://www.jstage.jst.go.jp/article/jasi/23/0/23_0_108/_pdf
+- Otaru local-history article, Naramaru II and the 1910 *Akō Gishiden* record: https://otarujin-no-bungakushi.com/?p=442
+- National Theatre, Cultural Digital Library, “Storytelling arts: Naniwabushi,” showing Naramaru's 1910 *Yamato Sakura Gishi no Omokage* and explaining the Gishi-den repertoire: https://www2.ntj.jac.go.jp/dglib/contents/learn/edc21/hirogari/wagei/wa2.html
+- JapanKnowledge reference entry on Naniwabushi, stating Kumoemon's *Gishiden* record was released in 1912: https://japanknowledge.com/introduction/keyword.html?i=972
+
+Status: **HIGH-PRIORITY LEAD / NOT YET CANDIDATE / NOT CLEARED**. This gives a likely performer and title for the 1910 milestone, but exact disc, catalogue/matrix, source audio, precise text and rights remain unverified.
