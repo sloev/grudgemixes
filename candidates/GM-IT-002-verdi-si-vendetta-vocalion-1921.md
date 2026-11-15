@@ -82,3 +82,8 @@ Retain as a promising **PARTIALLY VERIFIED** candidate for research. The archive
 ## Digitized archive access located (2026-11-15)
 
 FAU Recorded Sound Archives item 54400 has an embedded audio player for the exact Vocalion 60019 disc and lists both sides: “Don Giovanni—La ci darem” and “Rigoletto—Si vendetta (Yes, My Vengeance).” It identifies Evelyn Scotney, Giacomo Rimini, Rosa Raisa and Aeolian Orchestra, but FAU itself lists matrix/date as N/A. The 1921 session estimate and session 7176 remain from specialist discography, not this archive record. FAU notes that copyright-restricted recordings may be limited to a 45-second research preview. This provides an exact institutional listening target, but not transfer provenance or a reuse licence. https://rsa.fau.edu/album/54400
+
+
+## FAU full-audio access route (2026-11-15)
+
+FAU's Recorded Sound Archives Research Station describes a password-protected virtual music library with metadata, images and digitized streaming audio, containing over 99,000 full tracks. External access is limited to educators, students and serious researchers, who may apply by providing status and a detailed academic/educational purpose and relevant expertise. This is a concrete route to request full listening access to item 54400 rather than relying on the public item page's legacy player/possible preview restrictions. Approval is not guaranteed and does not grant reuse rights. Research Station overview: https://rsa.fau.edu/rs ; external application: https://rsa.fau.edu/rs/register.
