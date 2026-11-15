@@ -23,36 +23,13 @@ Do not moralize, prescribe forgiveness, ridicule grudge-holders or force puns. P
 
 These are editorial tools, not universal translations. A song title alone does not establish motive. Distinguish documented events, folklore, literary representation, stage convention and later popular myth.
 
-## Non-negotiable candidate gates
+## Research eligibility and evidence
 
-A recording must pass all three gates before it can be called a verified candidate:
+The detailed, current rules are maintained in [METHODOLOGY.md](METHODOLOGY.md). The core recording window remains pre-1926, but thematic discovery, composition chronology, audio provenance and rights are assessed as separate questions.
 
-1. **Date and composition**
-   - The master was published or fixed before **1926-01-01**. Record publication and fixation dates separately.
-   - The composition is traditional with documented provenance, or its author/composer/lyricist died before **1956-01-01**.
-   - Identify translators, arrangers and later adaptations separately. Do not assume an old melody makes a later lyric or arrangement eligible.
+A **candidate** is worth investigating, not release-ready. Use evidence levels **A — VERIFIED RESEARCH CANDIDATE**, **B — PROBABLE CANDIDATE**, and **C — LEAD**. A promising title or narrative can be a C lead before an exact recording is found. Unknown authorship, inaccessible audio or unresolved rights do not automatically erase a lead; they remain explicit open fields. Raw archival transfers are preferred for production, while rights and commercial clearance remain independent and require human review.
 
-2. **Archival audio**
-   - Identify the exact archival item and direct audio file.
-   - Establish whether the file is an unedited transfer of the original 78rpm shellac disc or wax cylinder.
-   - Document restoration, equalization, speed correction, filtering, edits and derivative formats. An archive page or MP3 access copy is not proof of a raw transfer.
-
-3. **Rights**
-   - Assess composition, master/phonogram, performer, transfer/digitization and repository terms separately.
-   - Assess the United States, EU/EEA, UK and every intended commercial territory independently.
-   - Never infer worldwide public-domain status from age, a catalogue date or an archive label. Use **NOT CLEARED** until reviewed.
-
-## Candidate status vocabulary
-
-| Status | Meaning |
-|---|---|
-| **VERIFIED** | Evidence supports the date/composition and exact archival-audio gates. Rights assessment is documented; this status alone does not mean cleared. |
-| **PARTIALLY VERIFIED** | Strong primary evidence exists, but one or more required fields or gates remain unresolved. |
-| **LEAD** | A promising title, performer or discographical reference; not yet tied to the exact eligible master and archival audio. |
-| **REJECTED** | Fails a hard gate or has a documented reason not to proceed. Preserve the reason so the lead is not repeatedly re-investigated. |
-
-Commercial clearance is a separate decision and requires human legal/editorial review.
-
+The thematic scope includes revenge, retaliation, punishment, defiance/resistance, accusation, protest and grievance, curses, feuds, spite, and collective or inherited grievance. Lament, betrayal and resentment are conditional: they need an additional accusation, demand, vow, refusal, answer or retaliatory/resistant intention. Generic sadness, anger, violence or an evocative title alone is not enough.
 ## Preferred archives and discovery sources
 
 Prioritize:
