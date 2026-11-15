@@ -127,3 +127,8 @@ Sources:
 - 78opera's explicit “arr Sinanian” credit reinforces the interpretation that Sinanian is the arranger on this Victor master, not necessarily the original composer of the celebrated setting. Compare against LOC's “arranger” field and Utidjian's Bianchini attribution.
 
 Source: 78opera, Torcom Bézazian discography: https://www.78opera.com/files/ARTIST_Ba-Bi.pdf
+
+
+## Separate earlier recording branch discovered — Mademoiselle Rosalie, Favorite (1911)
+
+A distinct Favorite Record issue of “Pamp Vorodan” by Mademoiselle Rosalie (Rozali Benliyan), recorded in Constantinople and catalogued by the MGK Collection as a 1911 release, has now been identified. Its photographed label appears to show catalogue 1-56211 and a runout inscription provisionally read as 4456-1; the label itself identifies Armenian, soprano with orchestra, Rosalie, Constantinople and “Pamp vorodan.” The collection record provides an Armenian transcription containing explicit revenge language, also transcribed for a separate 1917 Armenag Shah-Mouradian Columbia item. This strengthens the song-text history but does not verify the exact text on Bézazian's 1916 Victor take. Keep the Rosalie disc as a separate recording candidate and do not conflate performers, labels, matrices or arrangements. Full dossier: https://github.com/sloev/grudgemixes/blob/main/research/armenian-pamp-vorodan-favorite-1911-rosalie.md . Sources: https://hub.catalogit.app/mgk-collection/folder/entry/mademoiselle-rosalie-pamp-vorodan-oh-inch-anush ; https://hub.catalogit.app/mgk-collection/folder/entry/armenag-shah-muradian-pamp-orodan-hayastan .
