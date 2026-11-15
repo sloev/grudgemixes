@@ -264,3 +264,26 @@ Sources:
 - Kyoto City University of Arts, Nitchiku / Nipponophone label chronology: https://rijtm.kcua.ac.jp/archive-db/archives/gallery/1008ohnishi/index.html
 
 Decision: these numbers make a concrete Naramaru Gishi disc series searchable in physical collections and institutional catalogues. No new issue is upgraded: catalogue numbers and performer are established by specialist discography, but issue date, matrix, exact text, raw transfer and rights still need primary verification. Immediate library requests: *Engei Record Sales Catalogue* (KD1-E21), *Chikuonki monku-shū* (KH13-L245), and the 1912–13 *Shin-onpu* sales lists (YM2-L144; YM2-M2340–2344).
+
+
+### I. Contemporary 1911 Nipponophone advertisement: ten Naramaru Gishi recordings
+
+A contemporary newspaper advertisement, transcribed by a Japanese record-history researcher from **Asahi Shimbun, 4 September 1911 (Meiji 44)**, materially strengthens the chronology:
+- The advertisement says Nipponophone had produced ten new records recorded by the leading Naniwabushi performer **Yoshida Naramaru**, to be released from **1 September 1911**.
+- It lists (i) **赤穂義士 傳間重次郎** (*Akō Gishi-den: Hazama Jūjirō*), parts 上・下; (ii) **同 神崎興五郎** (*Kanzaki Yogorō*), parts 一〜四; (iii) **同 赤垣源藏** (*Akagaki Genzo*), parts 一・二; and (iv) **同 大石内藏助** (*Ōishi Kuranosuke*), parts 上・下. This is a ten-side Gishi cycle: 2 + 4 + 2 + 2.
+- This is direct contemporary evidence for the commercial release of a substantial Naramaru Gishi repertoire by September 1911, distinct from the later 1914 Yamato On-ei *Gishi no Uchiiri* item. It does **not** identify the 1911 sides as the actual raid episode; the listed titles concern Hazama Jūjirō, Kanzaki Yogorō, Akagaki Genzo and Ōishi Kuranosuke.
+- The same researcher transcribes an **Asahi Shimbun, 5 April 1913** Nipponophone advertisement listing Naramaru's *Asano Takumi no Kami saigo* (浅野内匠頭最後), parts 1–4, as new releases. This is the precipitating grievance in the Chūshingura cycle, not the revenge action itself.
+- CiNii / International Research Center for Japanese Studies catalogue records independently describe a physical Naramaru SP **Hazama Jūjirō: Akō Gishi-den**, Nipponophone/Royal Record 1723, and a broader Nipponophone SP series catalogued as *Akō Gishi-den* with Naramaru performer credit and individual episodes including *Ōishi Kuranosuke*, *Kanzaki Yogorō*, *Hazama Jūjirō*, *Nanbuzaka yuki no wakare*, *Tono-naka jinshō*, *Akagaki Genzo* and *Ōtaka Gen'go*. These catalogue records do not supply publication dates; the 1911 ad makes a plausible connection for the Hazama title, but the number 1723 should be matched to the original disc before asserting it is one of the advertised 1911 issues.
+- NDL's current guide to prewar sales catalogues confirms that it holds the December 1912 Nipponophone *Shin-onpu tsuika mokuroku* (YM2-L144) and 1913 additions (YM2-M2340–2344). It describes monthly sales catalogues as listings of new releases and warns that annual/catalogue issue dates may postdate the actual record release. The NDL catalogue inventory does not itself reveal the listed song titles; the paper items must be inspected.
+- A 1914 second edition of *Nihon Chikuonki Monku Zenshū* (日本蓄音器文句全集), edited by Itō Naoki and published February 1914, is catalogued at Tokyo Gakugei University. It is a substantial 690-page text collection and a possible primary route to exact recorded wording. Do not assume it is the same item as the separately cited 1914 *Chikuonki monku-shū* without bibliographic collation.
+
+Sources:
+- Asahi Shimbun 1911-09-04 and 1913-04-05 advertisements, transcribed with surrounding historical context: https://ameblo.jp/chitoseame28/entry-12551102020.html ; https://ameblo.jp/chitoseame28/entry-12551102203.html
+- CiNii / Nichibunken catalogue record, *Hazama Jūjirō: Akō Gishi-den*, Nipponophone, Royal Record 1723: https://ci.nii.ac.jp/ncid/BB17634016
+- CiNii / Nichibunken catalogue record, Naramaru *Akō Gishi-den* SP series and episode list: https://ci.nii.ac.jp/ncid/BB17632622
+- NDL prewar sales catalogue holdings, including 1912–13 Nipponophone catalogues: https://ndlsearch.ndl.go.jp/rnavi/avmaterials/post
+- NDL catalogue inventory PDF, Nipponophone entries and call numbers YM2-L144, YM2-M2340–2344: https://ndlsearch.ndl.go.jp/file/rnavi/avmaterials/post/01_prewar_general_catalog_202606.pdf
+- CiNii bibliographic record, Itō Naoki ed., *Nihon Chikuonki Monku Zenshū*, 1914-02, 690 pages: https://ci.nii.ac.jp/ncid/BA83515293
+- 1914-06-19 report on the separate Yamato On-ei *Gishi no Uchiiri* sale: https://www.arc.ritsumei.ac.jp/download/ar/ar23-2/02/ar23-2-02ho.pdf
+
+Decision: the Naramaru Gishi repertoire is now documented as a commercial product by 1911, but the 1911 titles found so far are not the raid itself. Keep the 1914 Yamato *Gishi no Uchiiri* as the direct raid lead. The 1911 series is valuable contextual evidence for the wider revenge narrative and for identifying physical Nipponophone masters, but exact catalogue-number matching, recorded texts, raw archival transfers and commercial rights remain open.
