@@ -198,3 +198,23 @@ The LOC Irene Heskes finding aid says sound recordings from the collection were 
 Sources: Albis International, *Zusammenstellung der Schallplatten mit Themen aus dem Orient*: https://www.albis-international.de/dokumente/orient_im_plattenschrank.pdf ; LOC Heskes finding aid: https://findingaids.loc.gov/repositories/15/resources/7111 ; Frankfurt 1897 score: https://sammlungen.ub.uni-frankfurt.de/judaicaffm/download/pdf/2032143 .
 
 **Decision unchanged:** LEAD — NOT VERIFIED / NOT CLEARED. Locate Homocord 1118, photograph label and runout, decode its recording-date code, and obtain a demonstrably raw transfer plus rights evidence.
+
+
+## Further catalogue-number audit — Homocord 1118 collision (2026-11-15)
+
+A new check materially weakens the exact discographic identification, while leaving the thematic song itself well established:
+
+- Bernd Meyer-Rähnitz's Albis discography appendix, updated 27 May 2021, explicitly lists **“Papus Rache” — Carl Gutentag mit Orchester — Homocord 1118** under *Bar Kochba (Goldfaden)*. This is a secondary listing, not an inspected label or company catalogue. Source: https://www.albis-international.de/dokumente/orient_im_plattenschrank.pdf (PDF lines 5861–5876).
+- Robert Johannesson's 78opera artist discography independently lists **Homokord 1118** as “Die beiden Grenadiere” (Schumann), in a Homokord, Berlin entry dated **1907-07-26**. Source: https://78opera.com/files/ARTIST_L.pdf (lines 7375–7381). This is a direct catalogue-number collision if both references mean the same Homokord catalogue series. It does not establish that Albis is wrong: a later reuse, omitted prefix/series, transcription error, or conflation remain possible. But “Homocord 1118” cannot presently identify the Papus disc uniquely.
+- The specialist guide by Franz Lechleitner / Gesellschaft für Historische Tonträger explains that Homophon became Homokord in 1907, the company reverted to Homophon in 1912 while the label remained Homokord, and the label spelling changed to **Homocord in 1924**. It states that matrix number, catalogue number and an alphanumeric recording-date code are found on the label/runout; the date code is month-letter + day + year-letter, with W used for 1926. Example: E 8 C = 8 May 1923. Source: https://www.phonomuseum.at/wp-content/uploads/2017/05/diskographie_handbuch.pdf (pp./lines 2634–2656).
+- Lotz-Verlag's Homocord Liliput discography separately corroborates the 1907 trademark dispute and postwar revival under Homocord, but is not evidence for this 1118 item: https://www.lotz-verlag.de/Online-Disco-Homocord-Liliput.html.
+
+**Revised decision:** retain “Papus Rache” as **C — LEAD / identity unresolved**, not as an early recording or verified carrier. The Homocord 1118 entry may be an erroneous or incomplete catalogue reference. Do not assign the 1907 date from the colliding Homokord 1118 record to Papus; equally, do not infer a post-1923 date merely from Albis's modernized spelling. Required next evidence: original Papus disc label and runout photographs; exact catalogue prefix/number; matrix; date code; and an audio item demonstrably corresponding to that matrix. If the physical record cannot be found, ask Albis compiler Bernd Meyer-Rähnitz for the source of the 1118 entry and whether the number was copied from an original disc, a catalogue, or an earlier discography.
+
+The **song-level evidence remains strong**: the 1897 Frankfurt score names “Papus' Revenge Song” as No. 5; the LOC Heskes finding aid lists a circa-1900s Russotta arrangement under the combined catalogue heading “Dinah's welcome to Jerusalem: Papus revenge song”; and the separate Beka 10872 “Der Bucher” recording remains unproven as that aria. None of these establishes that Homocord 1118 is the correct record number.
+
+Sources newly consulted:
+- Albis PDF: https://www.albis-international.de/dokumente/orient_im_plattenschrank.pdf
+- 78opera, artist discography: https://78opera.com/files/ARTIST_L.pdf
+- Franz Lechleitner, *Schellacks sind nicht nur zum Hören da*: https://www.phonomuseum.at/wp-content/uploads/2017/05/diskographie_handbuch.pdf
+- Lotz-Verlag Homocord chronology: https://www.lotz-verlag.de/Online-Disco-Homocord-Liliput.html
