@@ -126,3 +126,24 @@ New sources:
 - Library of Congress, Irene Heskes Collection finding aid: https://findingaids.loc.gov/repositories/15/resources/7111
 
 Decision remains **LEAD — NOT VERIFIED / NOT CLEARED**. Required next evidence remains original Homocord 1118 label/runout, primary catalogue/issue date, exact audio and transfer provenance, plus lyric/arrangement comparison.
+
+
+## Further verification — Homokord primary-catalog route and date-code cautions (2026-11-15)
+
+A useful archival route has now been identified, but the catalogues have not yet been inspected item by item:
+
+- Smithsonian Libraries catalogues **“New Homokord Records for September 1913 — 10-inch, double-sided”** (1913; call no. 31817), **“Catalogue of 10 inch and 12 inch Homokord Records Season 1913–14”** (1913; call no. 31818), **“Homophone records for January 1914”** (1914; call no. 31819), and **“Homophone double-sided records”** (1914; call no. 31820). These are primary trade-catalogue objects and the most promising next check for whether catalogue no. 1118 was listed and under which title/performer. Smithsonian also describes a separate four-piece Homokord trade-catalogue collection containing 1913 and 1914 record lists. The online catalogue records do not themselves expose the page contents or confirm that no. 1118 appears.
+- The New York Public Library's Record Company Catalogs and Ephemera finding aid separately lists a **Homokord general catalogue for 1921** (box 356, folder 10), as well as a German main catalogue. This is another potential primary source, but the existence of the finding-aid entry is not proof of the title's inclusion.
+- Dating-code guidance requires care. The Gesellschaft für Historische Tonträger handbook describes a date code stamped in the disc's mirror/runout, with month/day/year components, and says an example “E 8 C” means 8 May 1923. Another specialist reference gives the earlier Homokord sequence as January=A through December=M, with the final letter encoding year (V=1905 down to A=1925; W=1926). These systems concern different periods/recording eras and must not be collapsed into one formula. The actual label and matrix/runout are required before decoding any copy.
+- There is a chronology discrepancy in secondary label histories: one specialist discography says the name change to Homokord followed a November 1907 court decree; the University of Surrey account describes legal action in mid-1908 and adoption of the German spelling in 1908; another encyclopaedia summary says the change took effect in August 1911. Treat exact changeover dates as disputed in the current note. This reinforces why the printed form “Homocord 1118” in a later discography should not be used alone to date the issue.
+- The University of Surrey's page notes that Homophon discs can carry two embossed dates between label and groove, and that the company also manufactured records for other labels. A surviving disc must therefore be examined for label, matrix and both embossed dates; a stamper/pressing date is not automatically the recording date.
+
+New sources:
+- Smithsonian catalogues 31817–31820 and Homokord collection: https://collections.si.edu/search/results.htm?q=%22Homokord+Records%22
+- NYPL, *Record company catalogs and ephemera collection* finding aid: https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/rha185446.pdf
+- Gesellschaft für Historische Tonträger, *Diskographie-Handbuch*, Homophon dating section: https://www.phonomuseum.at/wp-content/uploads/2017/05/diskographie_handbuch.pdf
+- Rainer Lotz, Homophon/Homokord date and catalogue notes: https://www.lotz-verlag.de/Online-Disco-Homocord-Liliput.html
+- University of Surrey, early British label histories, Homophon/Homochord: https://www.surrey.ac.uk/early-british-disc-record-labels-1898-1926/a-z/h
+- Frank Andrews, “Homophon (Homophone) (Label),” RILM *Encyclopedia of Recorded Sound*: https://rme.rilm.org/articles/ers01688/1.0/ers01688
+
+**Decision unchanged:** **LEAD — NOT VERIFIED / NOT CLEARED**. Priority handoff: request scans/checks of Smithsonian call nos. 31817–31820 and NYPL box 356/folder 10 for “Papus Rache,” “Papus,” “Bar Kochba,” Carl Gutentag and catalogue 1118. If a copy surfaces, photograph the full label and runout/mirror on both sides, transcribe matrix and date stamps, and distinguish recording date from pressing date.
