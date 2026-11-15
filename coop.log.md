@@ -1002,3 +1002,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Checked FAU Recorded Sound Archives Research Station information. It describes a password-protected virtual music library with metadata, images and digitized streaming audio, and states that over 99,000 full audio tracks are available.
 - FAU students/staff can listen unrestricted using institutional credentials. External access is limited to educators, students and serious researchers, who may apply by supplying status and a detailed academic/educational purpose and relevant expertise.
 - This provides a concrete potential route to full listening for the exact FAU catalogue items 57310 (Saint-Saëns/Victor 87501) and 54400 (Verdi/Vocalion 60019). Approval is not guaranteed and access is not a reuse licence. Links: https://rsa.fau.edu/rs ; https://rsa.fau.edu/rs/register.
+
+
+## 2026-11-15 — Homocord 1118 catalogue-number audit
+- Re-audited the Papus Rache / *Bar Kochba* lead against the current Albis PDF, 78opera's Homokord session/artist discography, and the Gesellschaft für Historische Tonträger discography handbook.
+- Found a material catalogue-number collision: Albis lists Carl Gutentag's “Papus Rache” as Homocord 1118, while 78opera lists Homokord 1118 as Schumann's “Die beiden Grenadiere” in a Berlin session entry dated 1907-07-26. This is not proof either source is wrong, but makes the number non-unique/unreliable without a physical label/runout.
+- Confirmed the Homokord/Homocord label chronology and the runout date-code method; a matrix/date code is necessary to establish fixation date. No early eligibility inferred.
+- Updated the Papus dossier: song identity and 1897 score evidence remain strong, but exact record identity is downgraded in confidence; status remains C — LEAD, not verified or cleared. The 1907 Beka 10872 “Der Bucher” remains a separate title, not Papus' aria.
+- Next action: seek original label/runout evidence or ask Albis compiler Bernd Meyer-Rähnitz for the source behind the Homocord 1118 entry.
+- Sources: https://www.albis-international.de/dokumente/orient_im_plattenschrank.pdf ; https://78opera.com/files/ARTIST_L.pdf ; https://www.phonomuseum.at/wp-content/uploads/2017/05/diskographie_handbuch.pdf ; https://www.lotz-verlag.de/Online-Disco-Homocord-Liliput.html
