@@ -846,3 +846,13 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Kept the separate object branches distinct; no assumption that advertised Binapani disc necessarily reached market. Assigned C — LEAD / cluster.
 - Editorial fit is conditional on the broadened defiance/resistance theme: familiar lyric is primarily invocation/praise, while performance context was political and subject to colonial suppression. Not a revenge song or direct grievance narrative.
 - Sources: https://insa.nic.in/writereaddata/UpLoadedFiles/IJHS/Vol48_3_4_SSarkar.pdf ; https://scroll.in/article/674383/record-discs-that-helped-defeat-the-british-empire-tagore-sings-bande-mataram ; https://dsal.uchicago.edu/books/trn/pdfs/trn_05.pdf .
+
+
+## 2026-11-15 — ChatGPT (Anlo-Ewe *haló* and war-song re-audit)
+
+- Added an expanded section to `research/african-early-recording-leads-1923-1925.md` based on Daniel K. Avorgbedor, “Freedom to Sing, License to Insult: The Influence of *Haló* Performance on Social Violence Among the Anlo Ewe,” *Oral Tradition* 9/1 (1994), pp.83–112.
+- Avorgbedor dates *haló* from ca.1912 to official proscription in 1960; the form involves rival wards/villages exchanging insults, accusations, provocations and counterattacks in song and related performance. Most relevant: an injured party may seek vindication and revenge through song where no formal redress exists. Strong thematic fit, but no specific pre-1926 commercial recording linked.
+- Added Gbolonyo (2005) oral-history account of Yakagbe: after her son was killed in war she vowed revenge, joined the battle and fought; her story is associated with the origin of Kpegisu. Kept as distinct repertoire/history lead, not proof of the Nathaniels disc content.
+- Rechecked Nathaniels Zonophone 3972: Afrodisc identifies “Ewe Battle Hymn,” Ewe, matrix Yy7339-2, 20 Nov 1925, catalogue description “Native melody”; coupled “Anlo Patriotic Song” is separate side Yy7340-1. Kept C — LEAD pending actual audio/text; no conflation with *haló* or Kpegisu.
+- Added cross-links to the global map and re-audit. Priority next step: locate audio by matrix Yy7339-2, especially via UCSB's African 78rpm collection; consult Anlo-Ewe scholars for text/genre identification.
+- Sources: https://journal.oraltradition.org/wp-content/uploads/files/articles/9i/4_avorgbedor.pdf ; https://d-scholarship.pitt.edu/7097/1/JSKGbolonyo_etdPitt2005%5B1%5D.pdf ; https://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-3926-3990/ ; https://www.library.ucsb.edu/special-collections/collections/african-78rpm-recording-collection .
