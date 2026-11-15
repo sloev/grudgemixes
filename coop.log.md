@@ -800,3 +800,10 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Clarified generation/chronology: separate from Taihei 10254–10257 (Naramaru III, date [19--]) and Taihei 6036–6037 (Naramaru III, 1935, outside cutoff). The latter does not date the former or 1651.
 - Updated detailed Japanese note, re-audit, global map.
 - Sources: https://commons.wikimedia.org/wiki/File:NDL891638_%E6%B5%AA%E8%8A%B1%E7%AF%80%E4%B8%80%E3%83%88%E7%AF%80%E5%85%A8%E9%9B%86.pdf ; https://www.78music.jp/other5.html ; https://ci.nii.ac.jp/ncid/BB17753999 ; https://www.78music.jp/taihei.html.
+
+
+## 2026-11-15 — ChatGPT (Royal 1651 label-family chronology)
+- Re-read 78MUSIC section headings rather than relying on the table row alone. No. 1651 is listed specifically under “ROYAL RECORD — red-label eagle mark / NIPPONOPHONE.” 78MUSIC's label history says Royal was an early label discontinued in Taishō 4 (1915); the later Nipponophone 15000 series began April 1923. Thus 1651 has a likely pre-1916 issue horizon if the classification matches the physical disc.
+- Revised 1651 from C undated lead to B — PROBABLE chronology, conditional on physical label confirmation. No exact year, matrix or contemporary ad located. 1912 anthology remains repertoire/text evidence, not recording date. Keep A/verified reserved for physical label plus audio/text inspection.
+- Updated detailed Japanese note, re-audit and global map.
+- Sources: https://www.78music.jp/other5.html ; https://78music.jp/hNipponophone.html.
