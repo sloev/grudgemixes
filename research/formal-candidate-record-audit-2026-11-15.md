@@ -69,3 +69,12 @@ The formal candidate directory contains four records only. The README's “Curre
 ## Audit limitations
 
 This pass inspected repository text and linked metadata as recorded by contributors. It did not listen to any embedded audio, inspect physical carriers, independently request archival files, or issue legal opinions. All four records remain NOT CLEARED for commercial use.
+
+
+## 2026-11-15 follow-up: strongest operatic pair for first mix
+
+The two strongest existing candidates for an initial tightly themed mix are Saint-Saëns, “Vengeance at Last” (Victor 87501, matrix B-6227-2, Camden, 25 May 1908) and Verdi, “Sì, vendetta” (Vocalion 60019 / 30146, session 7176, ca. March 1921). Both are now explicitly crosswalked as **B — PROBABLE**, not A. Their exact recording identities and strong revenge narratives are well supported, but the actual archive access copies have not been listened to or transcribed in this research run. A mix may be developed editorially, but not called release-ready or “rock solid” until audio/content, transfer provenance and rights are separately checked.
+
+The Saint-Saëns item has an especially strong date and matrix chain: Victor 87501, B-6227-2 take 2, Camden, 25 May 1908, plus a contemporary November 1908 trade advertisement specifying English. A conflicting secondary entry gives 89501; retain that discrepancy but prefer 87501, corroborated by contemporary advertising, UCSB and FAU. Its full libretto places the recorded selection in Act II, Scene II, where Dalila and the High Priest conspire to defeat Samson and explicitly call it vengeance. The English recording itself still needs collation.
+
+Verdi's FAU item 54400 confirms the exact catalogue item and performers; Mintzer's specialist Rimini discography links it to Vocalion session 7176 and catalogue 30146 / 60019, ca. March 1921. The session date is tentative and the matrix/take unresolved. Read the duet as Rigoletto's revenge plan and Gilda's participation/complication, not as a simple shared motive.
