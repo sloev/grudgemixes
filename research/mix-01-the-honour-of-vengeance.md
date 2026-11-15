@@ -70,9 +70,9 @@ Keep both tracks in active B status. This is the strongest provisional two-track
 
 ### 3. George Frideric Handel — “Revenge! Timotheus Cries”
 - **Performer:** Malcolm McEachern, bass; Aeolian Orchestra.
-- **Issue:** Vocalion X-9560, 10-inch 78rpm; contemporary 1925 UK catalogue describes two parts and says replay part I to complete the aria.
+- **Issue:** Vocalion X-9560, 10-inch 78rpm; 1926 UK catalogue edition (covering issues through November 1925) lists two parts and says replay part I to complete the aria.
 - **Session/matrices:** London, October 1924?; session/matrix references 03724 and 03725 in specialist Vocalion sessionography. Exact takes and side sequence unresolved.
-- **Evidence:** B — PROBABLE CANDIDATE; PROBABLE DATE (contemporary 1925 catalogue establishes issue before cutoff; sessionography points to Oct 1924 but is tentative).
+- **Evidence:** B — PROBABLE CANDIDATE; PROBABLE DATE (1926 catalogue establishes issue by its November 1925 coverage cutoff; sessionography points to Oct 1924 but is tentative).
 - **Archive audio:** not yet located at item level. No listening or transfer inspection has occurred.
 - **Narrative:** Handel's *Alexander's Feast* (1736), using Dryden's 1697 ode adapted by Newburgh Hamilton. Timotheus summons the Furies and the ghosts of Greeks slain in earlier wars; the wider work moves toward Alexander's burning of Persepolis in revenge. Distinguish poetic narrative from historical fact, and do not imply the disc contains the subsequent recitative/Thais scene unless confirmed.
 - **Dossier:** candidates/GM-UK-001-handel-revenge-timotheus-1924.md.
