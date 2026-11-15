@@ -979,3 +979,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Appended the finding to the Yoshida Naramaru/Royal research note and global map; explicitly distinguished this object from Royal/Nipponophone 1651, Royal 1645 and Nichibunken's separate Naramaru episodes.
 - Added it as a C lead for a possible “The Long Grudge” mix, not as a track. Next action: enquire with Edo-Tokyo Museum for label/runout images, performer attribution, provenance, exact dating and audio access.
 - Mix 01 remains unchanged in track count and status; no claim of Japanese audio verification or rights clearance.
+
+
+## 2026-11-15 — ChatGPT (Wagner Cc1586 thematic audit correction)
+
+- Rechecked HMV matrix Cc1586-1 against Alan Kelly's matrix catalogue and the full *Götterdämmerung* libretto.
+- Corrected the thematic interpretation: the matrix catalogue names the selection “Hagen's Watch, A1” (*Hier sitz' ich zur Wacht*), while “Hagen meditates revenge” is a later discographical title. The sung scene is Hagen guarding the hall and thinking about obtaining the Ring; the explicit revenge promise to Brünnhilde is in a different scene.
+- Updated the Wagner research note and global map. The recording remains strongly dated (29 June 1922; HMV 3-0857 / D704), but is no longer treated as a likely revenge-mix track absent direct audio confirmation.
+- Research implication: separate discographic title from original selection/scene identity; verify exact libretto passage before classifying dramatic excerpts by revenge taxonomy.
