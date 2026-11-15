@@ -89,3 +89,12 @@ A potentially valuable Japanese branch now has two distinct kinds of evidence, w
 The narrative cycle is promising for a mix about delayed, collective revenge, but “Akō Gishiden” is a repertory umbrella, not a transcript. Each episode must be checked for what is actually narrated: the insult and sentence, the retainers' vow, the raid, and the aftermath are different dramatic moments. A farewell or biographical episode should not be included merely because it belongs to the same cycle. No Japanese recording is yet promoted to mix-track status: exact audio, performed text, date, transfer provenance and rights remain open.
 
 Sources: 78MUSIC Royal/Nipponophone list https://www.78music.jp/other5.html ; Tokyo Museum Collection https://museumcollection.tokyo/en/works/7051806/ ; CiNii parent record for Naramaru's *Akō Gishiden* SP series https://ci.nii.ac.jp/ncid/BB17632622.
+
+
+## Exact archive listening targets found; no listening claimed (2026-11-15)
+
+Two of the three mix tracks now have exact institutional digitized access points: FAU RSA item 57310 for Victor 87501 (“Vengeance at Last”) and item 54400 for Vocalion 60019 (“Sì, vendetta”). Both pages expose embedded players; FAU warns that copyright-restricted recordings may be limited to 45-second research previews. Neither item page supplies transfer-chain documentation, and neither page itself grants reuse rights. The third track, Handel/McEachern, now has a later reissue/listening lead: AWA lists a 4:51 track “Alexanders Feast: Behold, A Ghastly Band . . . Revenge Timotheus Cries” on the 2000 album *Arias*. Its relationship to the original Vocalion X-9560 carrier is unproven, so it is a listening surrogate, not an authenticated archival transfer.
+
+**Catalogue correction:** the Vocalion catalogue file is a 1926 edition, with a foreword stating that it covers all records issued up to and including November 1925. Refer to it as the 1926 catalogue (coverage through Nov. 1925), not a catalogue published in 1925. This still supports X-9560 being issued by the stated coverage date, alongside the tentative October 1924 sessionography.
+
+Next work is now more concrete: compare the AWA McEachern reissue to any surviving X-9560 copy; listen to both FAU excerpts and transcribe their actual performed text; request FAU item-level transfer details and terms for intended reuse. Do not upgrade any track until that work is done.
