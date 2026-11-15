@@ -122,3 +122,15 @@ Never invent lyrics, translations, matrices, dates, rights conclusions or audio 
 ## 9. Editorial and clearance boundary
 
 A-level evidence means ready for editorial consideration, not selected, sequenced or cleared. Production selection, sequencing, liner notes and commercial clearance remain separate decisions. The editorial owner has final authority. Preserve local terminology, uncertainty and disagreement; do not force every grievance into “revenge.”
+
+## 10. Mix-building flexibility (trial proposal; editorial approval pending)
+
+Thematic and evidence standards above remain unchanged. For mix sequencing, classify tracks by editorial role rather than demanding that every recording independently contain a complete revenge plot:
+
+- **Core:** the recording directly expresses a grievance response (revenge, retaliation, punishment, protest, accusation, counter-insult, refusal, etc.).
+- **Narrative:** the recording tells a grievance story or one stage of a documented revenge/feud/betrayal cycle.
+- **Context:** the recording illuminates the memory, aftermath, mourning, commemoration or social meaning of a grievance but is not itself a direct act of revenge. Label it as context.
+
+A mix may combine these roles; the liner note must distinguish what is audible from what belongs to the larger story. A provisional 10–12 track recipe is 4–6 core, 3–4 narrative and 1–3 context tracks, with no quota: a shorter mix is preferable to padding weak material. Candidate evidence levels remain independent of editorial usefulness.
+
+The pre-1926 historical core remains intact. A separately labelled 1926–1930 afterlife/extension track may be proposed for a mix, but must be marked OUTSIDE CORE and never counted as an eligible early recording. Later field/ethnographic recordings may serve as tradition witnesses in a distinct role, subject to cultural protocols and access/reuse conditions. See `research/mix-building-flexibility-proposal-2026-11-15.md`; this trial framework is pending editorial approval.
