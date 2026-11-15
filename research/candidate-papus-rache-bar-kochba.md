@@ -218,3 +218,18 @@ Sources newly consulted:
 - 78opera, artist discography: https://78opera.com/files/ARTIST_L.pdf
 - Franz Lechleitner, *Schellacks sind nicht nur zum Hören da*: https://www.phonomuseum.at/wp-content/uploads/2017/05/diskographie_handbuch.pdf
 - Lotz-Verlag Homocord chronology: https://www.lotz-verlag.de/Online-Disco-Homocord-Liliput.html
+
+
+## Further check — Carl Gutentag's adjacent Homocord entry (2026-11-15)
+
+A second Yiddish-music discography adds a potentially important but still unresolved clue:
+
+- The online Abraham Goldfaden discography at YiddishMusic/Jewniverse lists **“Bucher” (Abraham Goldfaden), Carl Gutentag, Homocord M 11185, 1909**. Source: https://yiddishmusic.jewniverse.info/goldfadenavrom/ (entry at lines 14–18).
+- Albis lists the separate “Bucher” entry as Homocord 11184 and “Papus Rache” as Homocord 1118, both by Carl Gutentag with orchestra. The YiddishMusic entry therefore differs by one digit from Albis's “Bucher” number, and independently supplies a 1909 date only for **Bucher**, not for Papus Rache.
+- The 78opera catalogue/session listing has Homokord 1118 already assigned to “Die beiden Grenadiere” in 1907. Taken together, these sources make it increasingly likely that the Albis transcription is incomplete, normalized, or contains a catalogue-number error. It is possible that the intended Papus number has a missing prefix or digit, but there is no evidence yet to fill it in.
+- The YiddishMusic site provides a downloadable archive for the Gutentag entry, but the link is a RAR archive and the public record as currently indexed does not provide a listenable stream or enough metadata to establish the Papus side. Do not claim to have heard it or equate the archive with “Papus Rache.”
+
+**Interpretation:** 1909 is a promising date for a Carl Gutentag Goldfaden recording called “Bucher,” but it cannot be transferred to the Papus aria. The adjacency of “Bucher” and “Papus Rache” in Albis is not proof that they were paired on one disc or made in one session. Maintain the C lead and the explicit catalogue-identity warning. A useful next enquiry is to ask the Albis compiler for the original source/label behind both Gutentag entries and ask YiddishMusic/Jewniverse for the basis of the M 11185 / 1909 attribution and whether their Gutentag audio archive contains both sides.
+
+New source:
+- YiddishMusic/Jewniverse, Abraham Goldfaden 78rpm discography: https://yiddishmusic.jewniverse.info/goldfadenavrom/
