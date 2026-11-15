@@ -769,3 +769,10 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - 78MUSIC separately lists Nipponophone 15139-A/B, *Gishi no Toiri* / *Gishi no Hikiage*, July 1923. This date belongs to that separate issue and must not be attached to Royal 1645/1649.
 - Updated the Japan lead note and re-audit. Status remains C. Next: label images, matrix/runout, and Nichibunken item-level record.
 - Sources: https://78music.jp/other5.html ; https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf ; Nichibunken 2016 prospectus: https://www.nichibun.ac.jp/en/uploads/pdf/niyo_2016.pdf.
+
+
+## 2026-11-15 — ChatGPT (Nichibunken OPAC: Royal 1723 Naramaru disc)
+- Followed the CiNii record to Nichibunken’s own OPAC. Identified Yoshida Naramaru, *Hazama Jūjirō: Akō Gishiden: Naniwabushi*, Royal Record 1723, 25 cm mono SP, Japanese lyrics, NCID BB17634016. OPAC lists two holdings, one in the Morikawa Tsukasa former collection, and links the bibliographic record to Nichibunken’s rōkyoku archive (reg=525664).
+- This is a separate episode recording, not the Royal *Akō Gishi-den Toiri* raid disc from the 2016 prospectus. Kept separate from Royal 1645/1649 and Nipponophone 15139-A/B. No recording date, matrix, audio content or rights status established. Archive page retrieval returned 403 in this pass; the OPAC record itself was accessible.
+- Updated the detailed Japanese note, re-audit and global map. Status C — LEAD pending date and audio/text inspection.
+- Sources: https://toshonin.nichibun.ac.jp/webopac/ctlsrh.do?ncid=BB17634016&search_mode=detail&tab_num=0&locale=en ; https://ci.nii.ac.jp/ncid/BB17634016 ; archive record link https://kutsukake.nichibun.ac.jp/rsp/?reg=525664.
