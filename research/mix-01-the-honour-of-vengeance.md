@@ -98,3 +98,8 @@ Two of the three mix tracks now have exact institutional digitized access points
 **Catalogue correction:** the Vocalion catalogue file is a 1926 edition, with a foreword stating that it covers all records issued up to and including November 1925. Refer to it as the 1926 catalogue (coverage through Nov. 1925), not a catalogue published in 1925. This still supports X-9560 being issued by the stated coverage date, alongside the tentative October 1924 sessionography.
 
 Next work is now more concrete: compare the AWA McEachern reissue to any surviving X-9560 copy; listen to both FAU excerpts and transcribe their actual performed text; request FAU item-level transfer details and terms for intended reuse. Do not upgrade any track until that work is done.
+
+
+## FAU full-listening access route (2026-11-15)
+
+A more practical listening route has now been identified. FAU's Recorded Sound Archives Research Station is a password-protected virtual music library with metadata, images and digitized streaming audio; FAU says it contains over 99,000 full audio tracks. FAU students/staff have unrestricted listening with institutional credentials. External access is limited to educators, students and serious researchers, who can apply with their status and a detailed statement of academic/educational purpose and relevant expertise. The application is not a guarantee of approval and access does not confer commercial reuse rights. This may let a qualified project researcher listen to the full FAU items 57310 (Saint-Saëns) and 54400 (Verdi), rather than depend on public-page playback/preview limits. Links: Research Station overview https://rsa.fau.edu/rs ; application https://rsa.fau.edu/rs/register.
