@@ -46,6 +46,8 @@ The following filenames were inherited from earlier mapping work. They are not c
 
 | GM-US-015 | Penal sentence / possible grievance lead | Al Craver [Vernon Dalhart], “Sentenced to Life Behind These Grey Walls” | Columbia 15060-D side 2; matrix W141311; 24 Nov 1925 (secondary session listing); side 1 “The Engineer’s Dying Child” is dated 1926 | Smithsonian NMAH object 1996.0320.14128 explicitly separates side dates: https://americanhistory.si.edu/collections/object/nmah_1291936 ; matrix/date listing: https://www.dm4ep.com/music/yr1925.htm ; Dalhart discography: https://www.rocky-52.net/chanteursd/dalhart_vernon.htm | `GM-US-015_Al_Craver_Sentenced_to_Life_Behind_These_Grey_Walls_Columbia_15060-D_1925` | Smithsonian confirms side 2 recorded 1925 and side 1 recorded 1926; secondary source gives W141311 / 24 Nov. | READY FOR GROK — exact Columbia side/matrix identified | Seek exact W141311; do not conflate with Tobe Little Okeh 40532 / matrix 73826-A or other “Behind These Grey Walls” issues. Punishment is clear in title; grievance/innocence not yet established by lyrics. [Dossier](leads/GM-US-015-al-craver-sentenced-to-life-behind-grey-walls-1925.md) |
 
+| GM-US-016 | Political song / stance undetermined | George Reneau, “Woman’s Suffrage” | Vocalion 14999; New York, 24 Feb 1925; matrices 416W, 417W, 418W; released Jul 1925 | Mainspring Press sessionography: https://mainspringpress.org/wp-content/uploads/2026/01/VOCALION-14000_ed2-v3.pdf ; LOC Pete Welding Collection tape SR439, 00:28:14: https://findingaids.loc.gov/exist_collections/ead3pdf/afc/2021/af021010.pdf ; Smithsonian *Rural Rhythm* record: https://www.si.edu/object/rural-rhythm-story-old-time-country-music-78-records-tony-russell%3Asiris_sil_1160746 | `GM-US-016_George_Reneau_Womans_Suffrage_Vocalion_14999_1925` | Mainspring sessionography identifies session, matrix sequence, accompaniment and release month; LOC finding aid lists a compilation dub, not original carrier. | RESEARCH TARGET — stance and exact audio unresolved | Do not infer pro- or anti-suffrage position from title. LOC SR439 is a research-listening lead; no downloadable file or reuse permission established. [Dossier](leads/GM-US-016-george-reneau-womans-suffrage-1925.md) |
+
 ## Retrieval status definitions
 
 - **RESEARCH TARGET** — researched, but not yet ready for retrieval.
@@ -57,4 +59,4 @@ The following filenames were inherited from earlier mapping work. They are not c
 
 See [GROK_HANDOFF.md](GROK_HANDOFF.md) for required reporting fields and operating cycle.
 
-Last updated: 2026-11-15 (continued) (continued) (continued) (continued)
+Last updated: 2026-11-15 (continued) (continued) (continued) (continued) (continued)
