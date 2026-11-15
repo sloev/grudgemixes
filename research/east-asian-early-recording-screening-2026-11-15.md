@@ -323,3 +323,25 @@ Sources:
 - International Research Center for Japanese Studies (Nichibunken), *Prospectus 2016*, pp.16–17, project “Interdisciplinary Research in the Formation and Transformation of Naniwabushi (Rōkyoku),” captioned SP record by Yoshida Naramaru, “Akō Gishiden Toiri,” Royal Record, held by Nichibunken: https://www.nichibun.ac.jp/en/uploads/pdf/niyo_2016.pdf
 - Japan Arts Council / National Theatre Cultural Digital Library, “The spread of Naniwabushi” and *Akō Gishi-den*: https://www2.ntj.jac.go.jp/dglib/contents/learn/edc21/hirogari/wagei/wa2.html
 - National Diet Library scan of Yoshida Naramaru's *Naniwabushi Jūhachiban: Gishi no Hitofushi* / *Yamato Sakura Gishi no Omokage* contents: https://upload.wikimedia.org/wikipedia/commons/8/83/NDL891540_%E7%BE%A9%E5%A3%AB%E3%81%AE%E4%B8%80%E7%AF%80_-_%E6%B5%AA%E8%8A%B1%E7%AF%80%E5%8D%81%E5%85%AB%E7%95%AA_%E9%9B%AA%E3%81%AE%E5%B7%BB_part2.pdf
+
+
+### K. Nichibunken identifies and digitizes Kumoemon's 1912 *Akagaki Genzo: Tokkuri no Wakare*
+
+A direct item-level record is now located in Nichibunken's Rōkyoku SP Record Digital Archive:
+- **Title:** (武士道鼓吹) 赤垣源藏 (徳利の別れ), romanized by the archive as *Bushidou kosui Akagaki genzou tokuri no wakare*.
+- **Performer:** 桃中軒雲右衛門入道 (*Tōchūken Kumoemon Nyūdō*).
+- **Label / issue:** Lyrophone Record 70937–70940, a two-disc set (four sides).
+- **Publication month:** May 1912, attributed by Nichibunken to the National Theatre's 1990 *Engei Record Sales Catalogue*.
+- **Archive identifier:** Nichibunken register 519319; NCID BB16522811; Morikawa Tsukasa Collection.
+- **Audio:** Nichibunken states that the item was digitized using a laser turntable, phono equalizer and analogue-to-digital converter, and labels the sound recording internet-accessible. This is an access/preservation digitization, not a demonstrated untouched/raw transfer. The page is discoverable in search but blocked to automated page retrieval in this research session; playback must be checked directly in a browser.
+- **Language:** the associated CiNii library record for the same two-disc issue states that the lyrics are in Japanese and gives issue identifiers E1009 (70937–70938) and E1010 (70939–70940).
+
+The new evidence resolves performer, exact title, label, four-side issue, a strong pre-cutoff publication date and a specific digitized archive object. It does **not** resolve thematic eligibility: “Tokkuri no Wakare” is the farewell episode involving Akagaki Genzo, not the raid itself. The *Chūshingura* revenge-cycle setting cannot substitute for the words and dramatic action on these four sides. Keep at **C — LEAD** until the complete performance is listened to/transcribed and its grievance-response content is demonstrated. If the text is primarily loyalty, sacrifice or farewell, it may remain contextual rather than enter the thematic shortlist.
+
+Sources:
+- Nichibunken item record: https://kutsukake.nichibun.ac.jp/rsp/?reg=519319
+- Nichibunken archive overview and access/transfer method: https://kutsukake.nichibun.ac.jp/rsp/about/
+- Nichibunken archive scope and public-audio policy: https://www.nichibun.ac.jp/en/db/category/rokyoku/
+- CiNii bibliographic record, *Akagaki Genzo Tokuri no Wakare: Naniwabushi*: https://ci.nii.ac.jp/ncid/BB16524158
+
+**Next action:** listen to all four sides through Nichibunken's public item page; obtain the 1912/1914 printed lyric text if extant; transcribe the recorded version and compare it with the text witness before assigning a thematic family. Rights to the master, transfer and reuse remain unassessed.
