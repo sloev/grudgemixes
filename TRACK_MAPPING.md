@@ -1,6 +1,6 @@
 # Track Mapping — grudgemixes
 
-Google Drive folder: https://drive.google.com/drive/folders/1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY
+Google Drive folder: https://drive.google.com/drive/folders/1cOwvMN1k_bLznh-1K8bCHzRQPAJjnGRO
 
 | Drive filename | Project ID | Work | Performer | Recording date | Notes |
 |----------------|------------|------|-----------|----------------|-------|
@@ -14,3 +14,23 @@ Google Drive folder: https://drive.google.com/drive/folders/1W5kjNo0ygmb-rA6NJF2
 | GM-2026-006_Tuskegee_Ive_Been_Buked_Victor_1916.mp3 | GM-2026-006 | I’ve Been Buked and I’ve Been Scorned | Tuskegee Institute Singers | 1916-02-14 | Collective grievance / lament boundary case. |
 
 Last updated: 2026-11-15
+
+
+## READY FOR GROK — researched retrieval queue
+
+No new target is added to this section until an exact source route and expected file identity have been researched. Queue rows must include stable ID, exact work/performer/version, label/catalogue/matrix or archive ID, source page and direct audio URL, proposed filename, date confidence, and caveats. Grok reports outcomes in the status column; ChatGPT reconciles the result against the source evidence.
+
+| Queue ID | Work / exact recording | Source page / direct audio URL | Proposed filename | Date / identity confidence | Status | Caveat |
+|----------|-------------------------|--------------------------------|-------------------|---------------------------|--------|---------|
+| — | No new targets in this update | — | — | — | — | Existing rows above are historical mapping entries; their presence in the former Drive folder has not been independently verified. |
+
+## Retrieval status definitions
+
+- **RESEARCH TARGET** — researched, but not yet ready for retrieval.
+- **READY FOR GROK** — exact source route and expected filename supplied.
+- **GROK REPORTED DOWNLOADED** — Grok reports a file in the shared folder; not independently inspected.
+- **FILE VERIFIED** — file/metadata checked and matched to the intended recording.
+- **RETRIEVAL FAILED / BLOCKED** — Grok reports failure and the obstacle.
+- **IDENTITY MISMATCH** — retrieved item differs from the researched target.
+
+See [GROK_HANDOFF.md](GROK_HANDOFF.md) for required reporting fields and operating cycle.
