@@ -444,3 +444,14 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Added the Yamato On-ei Naramaru raid lead (sale documented by contemporaneous 1914-06-19 newspaper report), Takamine Chikufu's 1924 four-side biwa version, the exact Nichibunken Kumoemon 1912 archive item, and the Kolkata 1902 theatre lead.
 - Updated immediate priorities to reflect original Yamato disc identification, archive audio inspection, Papus/Homokord verification, and continued global regional searches.
 - README commit: e28b0c44737c2cc8dfba09ddd7092a1119074797.
+
+
+## 2026-11-15 — ChatGPT (Gishi/Naniwabushi recording chronology and discography)
+- Added a new section to `research/east-asian-early-recording-screening-2026-11-15.md` documenting the broader commercial recording chronology of the Akō Gishi revenge cycle.
+- Henry D. Smith (2006), “The Media and Politics of Japanese Popular History,” states that the first Gishi-tale record was issued in August 1910, with further issues in subsequent years. The article notes that 3-minute sides often captured only a segment of a longer Naniwabushi narrative. It does not identify the first record's title/performer/label/catalogue/matrix; do not attribute it to Naramaru or Kumoemon without primary evidence.
+- Alison Tokita's genre study classifies Gishi-den as a kōdan-derived revenge (*ada-uchi*) series and describes Naniwabushi's reliance on kōdan, literary adaptations and scripts. This strengthens genre-level classification but does not, by itself, establish a specific recording's traditional composition provenance.
+- 78MUSIC documents a separate Yoshida Naramaru Nipponophone 15139-A/B issue dated July 1923: *Gishi no Uchiiri* / *Gishi no Hikiage*. Keep distinct from the 1914 Yamato On-ei item pending master comparison.
+- A secondary-market listing surfaced Victor 52486, third Yoshida Naramaru, *Gishi no Uchiiri* (two parts); recorded only as a discovery lead, not accepted date/catalogue evidence.
+- Sources: Smith https://www.columbia.edu/~hds2/pdf/2006_Ako_Gishi_media_and_politics.pdf ; Tokita https://rijtm.kcua.ac.jp/pub/document2018-/publications/bulletin/15/kiyou15_tokita.pdf ; 78MUSIC https://www.78music.jp/other5.html ; secondary-market listing https://auctions.yahoo.co.jp/search/search/78%E5%9B%9E%E8%BB%A2sp%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/0/ .
+- Decision: Japanese Gishi/Naniwabushi is now better documented as a pre-1926 commercial recording ecosystem. No new item upgraded to candidate; exact 1910 first issue, 1914 Yamato disc identity/master, original audio transfer and commercial rights remain open.
+- East Asia note commit: cfb2998c84fd781ac9b86be7eb17a57ec3004e0d.
