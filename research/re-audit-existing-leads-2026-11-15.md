@@ -5,8 +5,8 @@
 ## Summary
 
 - **A — VERIFIED RESEARCH CANDIDATE:** none assigned in this first crosswalk. This is deliberate: the current notes do not yet give a sufficiently complete combination of exact master identity, performed-version content and chronology to warrant A without further item-level checking.
-- **B — PROBABLE CANDIDATE:** 7 provisional items with strong recording and thematic linkage but unresolved master/audio/text details.
-- **C — LEAD:** 15 recording-linked or textual leads requiring stronger linkage, content or chronology evidence.
+- **B — PROBABLE CANDIDATE:** 8 provisional items with strong recording and thematic linkage but unresolved master/audio/text details.
+- **C — LEAD:** 18 recording-linked or textual leads requiring stronger linkage, content or chronology evidence.
 - **Outside core / rejected:** 1 Greek false positive. One early South Asian pass and one Arabic pass produced no item-level leads.
 
 The apparent increase in candidates is not seven release-ready tracks. B means active, promising research candidates. Audio and rights statuses remain independent.
