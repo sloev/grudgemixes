@@ -95,3 +95,62 @@ Zonophone 3972's other side, “Anlo Patriotic Song,” has matrix Yy7340-1 and 
 - **Plaatje, “A Band of Hard-Pressed Men Are We”:** PARTIALLY VERIFIED / strong textual lead. Authorship, pre-cutoff hymn publication, commercial issue identity and historical recording session are documented; Xhosa translation credit, item-level raw transfer and rights remain open. The text concerns hardship and bitterness but advocates charity and love, not revenge.
 - **Nathaniels, “Ewe Battle Hymn”:** HIGH-PRIORITY LEAD. Exact 1925 recording date, catalogue number, matrix/take and Ewe language are documented; traditional provenance, lyric meaning, audio source and rights remain open.
 - **Nathaniels, “Anlo Patriotic Song”:** SEPARATE LEAD. 1925 master fixed before cutoff; later sheet music published 1 January 1926; authorship and lyrics need review.
+
+
+## 3. Ladipo Solanke — Yoruba-language Zonophone 78s (November–December 1925)
+
+**Status: RESEARCH CLUSTER / INDIVIDUAL TITLES UNRESOLVED**
+
+Afrodisc's discography gives a detailed session-level sequence for Ladipo Solanke (Omo Lisabi), whose Yoruba-language recordings were made in London in 1925. Solanke was a Nigerian student activist and co-founder of the West African Students' Union; reliable biographical sources give his death as **2 September 1958**, after the composition-author cutoff. His own authorship therefore cannot satisfy the 1956 rule if he composed any particular item; a traditional provenance would need to be established separately.
+
+### The strongest thematic title: “Orin Ofo” (Zonophone 3963)
+
+- Title as catalogued: **ORIN OFO** (Yoruba; preserve unmarked source spelling).
+- Disc: Zonophone 3963, side X-4-42843.
+- Matrix/take: Yy7461-1.
+- Recording date: 7 December 1925.
+- Performer: Ladipo Solanke (Omo Lisabi).
+- Afrodisc classifies the side as **“Lament.”**
+- A historical Yoruba dictionary glosses *ofo* as “loss, calamity, damage”; a modern dictionary also records senses related to emptiness/loneliness. Tone marks and regional usage matter: the unmarked catalogue spelling cannot by itself settle the precise lexical reading. Afrodisc's “Lament” is the current genre description, not a full translation of the lyrics.
+
+This is a promising **grief / loss / collective-lament lead**, but not yet a grievance, retaliation or revenge item. Need a Yoruba-language transcript, competent translation, context for the lament, and proof whether the text is traditional or authored by Solanke/another named writer. Solanke's 1958 death makes that authorship distinction consequential for eligibility.
+
+### “Yoruba Philosophy” (Zonophone 3961): do not misread “Oriki Lara” as envy
+
+- Zonophone 3961, side X-41185, matrix Yy7457-1, recorded 7 December 1925: **YORUBA PHILOSOPHY Part 1 (ORIKI LARA)**, catalogued as spoken.
+- Coupled side: Part 2 (ORIKI ERIN), X-41186 / Yy7458-1, same session.
+- Smithsonian's *Black Europe* catalogue renders the first subtitle as “Oriki ilara,” but Afrodisc gives “Oriki Lara.” Yoruba *oríkì* is a praise poem / praise-name discourse, not simply a generic “song”; the spelling may refer to a proper name or other phrase. Do **not** translate this as “praise of envy” or classify it as jealousy without a source text and Yoruba language review.
+- Status: spoken-word discovery lead only; exact content, textual provenance and translation unknown.
+
+### Other relevant sides from the same 7 December 1925 session
+
+- **“Orin Imokanle”** — Zonophone 3963, X-4-42844, matrix Yy7462-1; catalogue says “Song.” Title and text not yet interpreted.
+- **“Yoruba Diplomacy in a Comic Air”** — Zonophone 3962, X-4-42841, matrix Yy7459-2; catalogue says “Song.” Possible satire/social conflict lead, but no content verified.
+- **“Yoruba Lesson of Obedience to Parents”** — Zonophone 3962, X-4-42842, matrix Yy7460-1; catalogue says “Ballad.” A moral/narrative lead, no grievance content verified.
+- **“Yoruba Moral Code in Aphorisms”**, parts 1–2 — Zonophone 3964, X-41187 / X-41188, matrices Yy7463-1 / Yy7464-1; spoken.
+- **“Customs and Laws in Proverbs”**, parts 1–2 — Zonophone 3965, X-41189 / X-41190, matrices Yy7469-1 / Yy7470-2; spoken.
+
+The earlier 4 November 1925 sessions include “Orin Ijoba Egba” (Zonophone 3953, X-4-42828 / Yy7178-2), “Oriki Ege” (3954, X-4-42829 / Yy7180-1), and “Orin Oloti” (3954, X-4-42830 / Yy7181-1). These are discovery leads only; do not infer meaning from unmarked transliteration.
+
+### Wider context and access
+
+- Solanke recorded Yoruba songs, praise poetry, proverbs, ballads and spoken material as part of a deliberate effort to preserve and promote Yoruba language/culture in Britain. He was also a political organiser; that biography is not proof that every recorded item is political protest.
+- The Smithsonian's *Black Europe* discography confirms the Solanke cluster appears in the historical compilation; the commercial compilation is a secondary reissue, not a qualifying raw transfer.
+- Afrodisc supplies matrix/take and date information but is a specialist secondary discography. The Gramophone Company/EMI archive or an original Zonophone copy is needed to verify label details, issue history and raw transfer.
+- No raw archival transfer, exact lyrics, composition credits or commercial rights have been established.
+
+### Sources
+
+- Flemming Harrev, Afrodisc, West Africa Zonophone 3926–3990 (catalogue numbers, side numbers, matrix/take, dates and catalogue descriptions): https://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-3926-3990/
+- Smithsonian Institution, *Black Europe: The Sounds and Images of Black People in Europe Pre-1927*, disc 40/41 contents: https://www.si.edu/object/siris_sil_1036702
+- Hakim Adi, Oxford Dictionary of National Biography, “Solanke, Oladipo Felix [known as Ladipo Solanke] (1893–1958)”: https://doi.org/10.1093/ref:odnb/59528
+- UCL, “The making of a movement: Ladipo Solanke, founder of the West African Students' Union”: https://www.ucl.ac.uk/about/search-faces-ucl/making-movement-ladipo-solanke-founder-west-african-students-union-wasu
+- Crowther, *A Vocabulary of the Yoruba Language* (1852), entry “Ofo”: https://upload.wikimedia.org/wikipedia/commons/6/64/A_vocabulary_of_the_Yoruba_language.pdf
+- A Dictionary of the Yoruba Language, entry for Fọ / related forms: https://edeyoruba.com/uploads/3/0/0/1/3001787/yoruba_dictionary.pdf
+- “Lùlù fún wọn: Oríkì in Contemporary Culture,” discussion of oríkì as Yoruba praise poetry and identity discourse: https://www.researchgate.net/publication/322564726_Lulu_fun_won_Oriki_in_Contemporary_Culture
+
+### Screening decision
+
+- **“Orin Ofo”:** HIGH-PRIORITY LAMENT / LOSS LEAD; not yet a candidate. Need exact text, meaning, traditional/authorship provenance, archive transfer and rights.
+- **“Yoruba Philosophy / Oriki Lara”:** spoken lead only; do not conflate “Lara” with “ilara” (envy) absent textual/linguistic verification.
+- Other Solanke titles listed above remain discovery leads only.
