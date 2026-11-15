@@ -287,3 +287,23 @@ Sources:
 - 1914-06-19 report on the separate Yamato On-ei *Gishi no Uchiiri* sale: https://www.arc.ritsumei.ac.jp/download/ar/ar23-2/02/ar23-2-02ho.pdf
 
 Decision: the Naramaru Gishi repertoire is now documented as a commercial product by 1911, but the 1911 titles found so far are not the raid itself. Keep the 1914 Yamato *Gishi no Uchiiri* as the direct raid lead. The 1911 series is valuable contextual evidence for the wider revenge narrative and for identifying physical Nipponophone masters, but exact catalogue-number matching, recorded texts, raw archival transfers and commercial rights remain open.
+
+
+### J. A physical Naramaru *Akō Gishi Uchiiri* disc is recorded in the Kushiro Municipal Museum inventory
+
+The 1981 Kushiro Municipal Museum catalogue of the Tokuji Sakai collection adds an important physical-object witness to the undated 78MUSIC listing:
+- Hirotsugu Satō's inventory lists a one-sided **record no. 1645**, title **赤穂義士討入** (*Akō Gishi Uchiiri*), performer carried forward as **Yoshida Naramaru**, and issuing label carried forward as **Royal**. It is entry 166 in the museum's sound-disc inventory (paper pp.18–19; PDF lines 1526–1531). The preceding entry explicitly names Yoshida Naramaru, and the following entries continue the same performer/label fields. This is not just a web discography: it documents an identified physical disc in a municipal museum collection assembled from 1,347 records transferred in 1979.
+- The museum's 1980 collection study says the 1,347-disc group includes many late-Meiji / Taishō records and notes that some are still playable despite surface noise; it does not give a condition report or audio-transfer record for no. 1645 specifically. The 1981 inventory does not date the disc, give a matrix, or transcribe its performance.
+- This is distinct from the 1914 **Yamato On-ei / 馬印** Naramaru *Gishi no Uchiiri* record documented by the contemporaneous 1914 newspaper report and pictured label. The Kushiro no. 1645 is catalogued as a **Royal** one-sided disc. Until label photographs, matrix/runout and audio are compared, treat these as separate physical-record leads; do not assume the same master or issue.
+- NDL's 2026 reference guide to Japanese domestic record publication explicitly identifies the most relevant source types: (i) *Nihon Chikuonki Monku Zenshū* / later *Nipponophone* lyric compilations, which transcribe the words recorded and provide title/performer/issue number; (ii) company sales catalogues, which may give issue dates; and (iii) the Tokyo National Research Institute of Cultural Properties' *Onban Mokuroku* (1978–1999), which records title, performer, label design, printed lyric incipit, issue number and matrix number. The NDL says the 1914 fifth-edition *Chikuonki Monku-shū* (KH13-L245) contains Nitchiku record contents released through January 1914. It is a high-value check, but it is a paper copy, and the publicly indexed table of contents alone does not expose the full lyric text.
+- The NDL also warns that a sales catalogue's publication date may be later than the actual issue date, so catalogue date, issue date and fixation date must remain distinct.
+
+Sources:
+- Kushiro Municipal Museum, Satō Hirotsugu, *Notes on the Collection of Records in Kushiro Municipal Museum II* (1981), inventory entries 155–192, especially 166–171: https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf
+- Kushiro Municipal Museum, Satō Hirotsugu, *Notes on the Collection of Records in Kushiro Municipal Museum I* (1980), collection provenance and condition overview: https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/315/7_41-48.pdf
+- NDL, prewar Japanese record issue research guide (2026-11-12): https://ndlsearch.ndl.go.jp/rnavi/avmaterials/2_11
+- NDL, *Chikuonki Monku-shū*, fifth edition (1914-01), call no. KH13-L245: https://ndlsearch.ndl.go.jp/books/R100000002-I028655577
+- NDL, company sales catalogue holdings and access: https://ndlsearch.ndl.go.jp/rnavi/avmaterials/post
+- 78MUSIC discography entry no. 1645: https://www.78music.jp/other5.html
+
+Decision: **PHYSICAL DISC LEAD / NOT YET CANDIDATE / NOT CLEARED**. We now have a museum inventory confirming a physical Naramaru *Akō Gishi Uchiiri* side, catalogue no.1645, on a Royal label. Publication date, master/matrix, precise lyrics, raw archival transfer and commercial rights remain open. Request disc/label images and playback/transfer from Kushiro; inspect the 1914 lyric corpus and prewar company catalogues; compare against the 1914 Yamato On-ei master separately.
