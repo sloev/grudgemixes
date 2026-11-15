@@ -136,3 +136,10 @@ Both public pages show legacy player controls and a browser/Flash update warning
 4. Ask RSA separately whether the specific transfers can be licensed for the project's intended use, and who controls the underlying master/phonogram. Research Station access is for study, not commercial clearance.
 
 **Current outcome:** this run verifies the two item-page metadata records and the formal access procedure. It does not complete listening, transcription, transfer-provenance review or rights clearance.
+
+
+## Vocalion 30146 contemporary issue evidence (2026-11-15)
+
+A newly located contemporary trade source strengthens the Verdi track's issue chronology. *The Talking Machine World*, January 15, 1922, p. 155, lists Aeolian Co. / Operatic Selections Vocalion 30146, “Rigoletto — Si vendetta (Yes, my vengeance),” as a 10-inch record, described as soprano and baritone in Italian with Vocalion Orchestra accompaniment. This independently corroborates the 30146 catalogue number and the English gloss, and establishes that the record was being commercially listed by 15 January 1922. It does **not** prove the original recording session date, matrix, take, or that every export/US issue number is the same physical pressing. The UCSB *American Celebrity Recordings* cross-reference continues to pair 30146 with 60019 for Scotney/Rimini. The sessionography's tentative March 1921 date remains a secondary session estimate, not a date proven by the advertisement.
+
+Source: *The Talking Machine World*, 15 January 1922, p. 155: https://www.worldradiohistory.com/Archive-Talking-Machine/20s/Talking-Machine-1922-01.pdf ; UCSB *American Celebrity Recordings*: https://adp-assets.library.ucsb.edu/AmericanCelebrityRecordings.pdf .
