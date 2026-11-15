@@ -280,11 +280,10 @@ Seek an original Vocalion X-9560 pressing or high-resolution photographs of both
 - Next: inspect Perrow (1915), Scarborough (1925), White (1928), Harbin *Parodology* #10 pp. 10–11; verify exact title family and the actual Okeh performance. Do not promote based on a title or secondary crosswalk.
 
 
-## Next run handoff — research / Grok retrieval split (2026-11-15)
+## Next run handoff
 
-- Follow `GROK_HANDOFF.md`: ChatGPT researches, verifies and evaluates; Grok retrieves only exact targets in the READY FOR GROK queue to the designated Drive folder; the project owner/editor retains final authority.
-- The daily run is research-only: inspect repo state and logs, pursue the highest-value unresolved source question, update dossiers/map/method/coop log, and prepare precise retrieval rows. Do not try to download audio into Drive.
-- Shared destination for new audio: https://drive.google.com/drive/folders/1cOwvMN1k_bLznh-1K8bCHzRQPAJjnGRO . Do not assume older files in the former folder have moved.
-- Treat Grok's report as GROK REPORTED DOWNLOADED until the actual file or reliable metadata is checked. Keep file retrieval status separate from A/B/C evidence grade and thematic eligibility.
-- Resume with the exact Land Norris Okeh 40374 audio/text question and Bentley Ball A3085 recorded-version comparison, while continuing global searches. Add a READY FOR GROK row only when an actionable exact source route is available.
-- Append a dated cooperation-log entry, preserve all existing findings, commit and verify all material updates.
+- Current READY FOR GROK queue: GM-US-002 Land Norris, Okeh 40374, DAHR matrix 2000200840. Wait for Grok's exact retrieval report; do not claim download or audition.
+- Perrow's 1915 “Oh, Mourner!” (1909 Mississippi manuscript) has now been inspected as a primary text witness; its comic wife/police verse is song-family context only, not the exact Land Norris transcript. Compare Scarborough 1925, White 1928 and Harbin *Parodology* #10 pp. 10–11; preserve racist/minstrel context.
+- Keep GM-US-002 at C until the actual 1924 performance or an exact contemporaneous text is checked. Reconcile date/matrix discrepancies (DAHR 31 Aug 1924 / 8701; specialist 26 Aug / 8701-A).
+- Continue the Bentley Ball A3085 recording-version comparison and global/regional discovery. Use GROK_HANDOFF.md; ChatGPT researches and prepares precise targets, Grok retrieves, and the project owner/editor decides.
+- Append dated cooperation log, update dossiers/global map/track map as warranted, commit and verify actual changes.
