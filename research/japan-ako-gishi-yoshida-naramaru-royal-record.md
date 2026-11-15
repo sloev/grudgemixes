@@ -175,3 +175,19 @@ A close reading of the section headings on 78MUSIC's Nipponophone/Royal catalogu
 **Revised status:** 1651 moves from undated C lead to **B — PROBABLE chronology**, conditional on the catalogue's Royal label classification being accurate. The thematic side is independently strong from the 1912 Naramaru texts. It is not A/verified until a surviving label image or physical disc confirms the Royal red-eagle label and the audio/text is inspected. Do not claim an exact year. The 1912 anthology establishes repertoire, not recording date.
 
 Sources: 78MUSIC Royal/Nipponophone list https://www.78music.jp/other5.html (1651 under “ROYAL RECORD — red-label eagle mark / NIPPONOPHONE”); 78MUSIC company/label history https://78music.jp/hNipponophone.html (Royal label history, discontinuation in 1915; Nipponophone 15000 series from April 1923).
+
+
+## Independent museum object: Royal *Akō Gishiden* SP set (new check, 2026-11-15)
+
+The Tokyo Museum Collection / Edo-Tokyo Museum catalogues a physical SP set titled *Naniwa-Bushi: Akō Gishiden (Story of the Forty-seven Loyal Retainers)*, collection ID 98651727–98651728. The maker/label field reads “ROYAL RECORD/製”; the object is categorized as an audio disc and dated only broadly to the 20th century. This is important independent evidence that a Royal-labelled *Akō Gishiden* set survives in a public museum collection. It does **not** identify Yoshida Naramaru as performer, give a catalogue number or matrix, establish a pre-1926 date, or supply an audio transfer in the catalogue record. Do not equate it with Royal/Nipponophone 1651, Royal 1645, or the separate Nichibunken Royal/Nipponophone entries without matching physical identifiers.
+
+This provides a concrete museum enquiry target: request photographs of both labels and runouts, catalogue/matrix transcription, performer attribution, acquisition/provenance record, and any playback/digitization file or listening conditions. If the object proves to be an early Naramaru *Akō Gishiden* recording, it could anchor a Japanese contribution to a future “Long Grudge” mix; at present it remains a **C — LEAD** for date/audio and only a corroborating physical-object lead for the broader repertoire.
+
+Source: Tokyo Museum Collection, “Naniwa-Bushi (Narrative Singing with Shamisen Accompaniment): Akō Gishiden,” collection ID 98651727–98651728, Edo-Tokyo Museum: https://museumcollection.tokyo/en/works/7051806/ (also https://www.edohakuarchives.jp/detail-262756.html).
+
+## Distinguish the catalogued objects
+
+- **Royal/Nipponophone 1651**: *Akō Gishiden: Denchū Ninjō*, Osaka Yoshida Naramaru; 78MUSIC places it in the Royal red-label eagle section. B — PROBABLE chronology, conditional on label classification.
+- **Tokyo Museum Collection 98651727–98651728**: Royal-labelled *Akō Gishiden* SP set; performer/catalogue/matrix/date unresolved. C — LEAD.
+- **Nichibunken Royal 1723–1724**: *Hazama Jūjirō*, separate Naramaru narrative episode; its archive record and access conditions are distinct.
+- **Royal 1645 / 1649 and other numbered discs**: separate episode-specific issues; do not merge merely because all belong to the Akō cycle.
