@@ -137,3 +137,10 @@ Thematic fit is **conditional**: the lyric is primarily invocation/praise of the
 The 1925 Nathaniels “Ewe Battle Hymn” (Zonophone 3972, matrix Yy7339-2) remains **C — LEAD**. Afrodisc gives exact side/matrix/session (20 Nov 1925), and the description “Native melody” is suggestive but not proof of a traditional war-song genre or any revenge text. Do not infer that it is *haló* or Kpegisu.
 
 Separately, Daniel K. Avorgbedor's peer-reviewed 1994 article dates *haló* from ca.1912 and documents a competitive Anlo-Ewe song-poetry practice in which injured parties seek vindication and revenge through song, with retaliatory counterattacks. This is a high-priority thematic/repertoire lead, not a recording candidate: no pre-1926 commercial sound recording has yet been linked to a specific *haló* song. Gbolonyo's 2005 thesis recounts Yakagbe's vow of revenge after her son was killed and her subsequent retaliation, associated with Kpegisu's origin; this is oral-history context, not evidence about the 1925 disc. Full assessment and tasks in `research/african-early-recording-leads-1923-1925.md`.
+
+
+## Ghana archival lead expansion and discography correction
+
+- Added C / LEAD for R.S. Rattray's Techiman Apoɔ male-chorus wax-cylinder recording (16 Apr 1922), with a separate Mampong *Kwadwom* session (Wudu Atiahonea and Yaw Ansere, 6 Jan 1922; BL C176/241). The former has thematic relevance to grievance/public accountability, but exact item/audio/text remains unverified. Digitized copies of Rattray's 1921–22 cylinders were reportedly transferred to the J.H. Kwabena Nketia Archive in 2018.
+- Corrected Zonophone 3983: a secondary discography lists 1925, but Afrodisc's matrix-level dates place both sides in March/April 1927; exclude from core. Keep distinct from 3972 (20 Nov 1925), which remains C / LEAD pending actual text/audio.
+- Detailed additions and source trail: `research/african-early-recording-leads-1923-1925.md`.
