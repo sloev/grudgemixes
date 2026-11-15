@@ -625,3 +625,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Sources: Nichibunken 2016 prospectus pp.16–17 https://www.nichibun.ac.jp/en/uploads/pdf/niyo_2016.pdf ; Japan Arts Council / National Theatre https://www2.ntj.jac.go.jp/dglib/contents/learn/edc21/hirogari/wagei/wa2.html ; NDL scan https://upload.wikimedia.org/wikipedia/commons/8/83/NDL891540_%E7%BE%A9%E5%A3%AB%E3%81%AE%E4%B8%80%E7%AF%80_-_%E6%B5%AA%E8%8A%B1%E7%AF%80%E5%8D%81%E5%85%AB%E7%95%AA_%E9%9B%AA%E3%81%AE%E5%B7%BB_part2.pdf .
 - East Asia note commit: 2c9aa9a088a804930d5e12854533468ac981f9ad.
 - Global map commit: 5d2f6f4ae7a0a35e35a271e6da544c413b6be061.
+
+
+## 2026-11-15 — ChatGPT (Lemberg Bar Kochba disc identity check)
+- Re-read the annotated track entry for Jacob Fuchs's “Der Bucher aus the Operette Bar Kochba,” Beka-Grand 10872, Lemberg, 1907–1908. The record label attributes the song to Bar Kochba, but the specialist annotator cannot locate it in printed editions or surviving sheet music and leaves open whether it was a temporary addition or a label error.
+- The annotator compares its mood, laughter refrain and references to blind/crippled people with the separate “Di nekome fun Papus” (“Papus's Revenge”) aria, but does not identify Beka 10872 as that aria. The 26-track compilation lists “Der Bucher” as track 20 and does not list the Papus aria. Its fragmentary transcript depicts a comic/menacing character seeking a philanthropist; it does not establish the revenge plot or mechanism.
+- Updated research/candidate-papus-rache-bar-kochba.md to distinguish Beka 10872 from the still-unlocated Homocord/Homokord 1118 “Papus Rache” lead. Status remains **LEAD / NOT VERIFIED / NOT CLEARED**. The online audio is not proven to be a raw archival transfer or commercially reusable.
+- Source: Forgotten Galicia, “Songs from Gimpel’s Lemberg Yiddish Theatre 1906–1910”: https://forgottengalicia.com/songs-from-gimpels-lemberg-yiddish-theatre-1906-1910/ ; Aylward, “Gimpel’s Theatre, Lwów”: https://doi.org/10.3828/liverpool/9781906764739.003.0008 .
+- Candidate note commit: 1b4407728ff8baa5b40489b75a09de9633b41fb4.
