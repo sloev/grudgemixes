@@ -64,3 +64,12 @@ The reported ballad appears to imagine retaliatory humiliation or punishment of 
 - Harvard Loeb Music Library, Arabic 78 Collection and dating/rights methodology: https://archive.blogs.harvard.edu/loebmusic/2022/01/19/early-arabic-sound-recordings-and-the-public-domain/
 
 **Decision:** retain as a significant Egyptian oral-history / thematic lead, but **not a candidate track** until an exact eligible recording is found. The project should not confuse the widespread early gramophone industry with evidence that this particular mawwāl was recorded.
+
+
+## Control example: topical Egyptian mawwāl recorded in 1908 (2026-11-15)
+
+AMAR Foundation documents several 1908 commercial recordings commemorating Mustafa Kamil, including mawwāl recordings with catalogue and matrix details. One example is a mawwāl recorded by Gramophone in 1908 as catalogue 012250, matrix 37P, with takht accompaniment. This is **not** the Dinshaway mawwāl attributed to Sheikh Mustafa ʿAjāj and must not be treated as its identification. Its value is narrower: it demonstrates that topical, locally performed Egyptian mawwāl entered commercial recording circulation within two years of the 1906 incident. That makes a catalogue search historically plausible, not proven.
+
+Source: AMAR Foundation, “007 – Muṣṭafa Kāmil Bāshā – Min Al Tarikh”: https://www.amar-foundation.org/007-mustafa-kamel/ .
+
+**Decision unchanged:** the Dinshaway mawwāl remains an oral/textual lead only. No exact recording, master, label, matrix, raw transfer or rights evidence has been identified.
