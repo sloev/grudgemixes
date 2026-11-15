@@ -65,3 +65,18 @@ Read the four candidate records in full; compare their field completeness, evide
 Phase 3 — research dossier module audit (24 files), beginning with global map, re-audit, first-pass screening and regional dossiers. Check status consistency, evidence provenance, exact recording matches, duplication and orphan links. Update state after each regional batch.
 ## Exact next action
 Fetch and inspect the complete `research/global-early-recording-map.md`, `research/re-audit-existing-leads-2026-11-15.md`, and `research/first-pass-screening.md`; build a lead-to-canonical-file crosswalk before auditing regional dossiers.
+
+## Milestone 3 — research dossier module audit (2026-11-15)
+- Inspected all 24 research files that existed at the start of the module audit, including regional screens, individual leads, global map, first-pass screening and the existing-lead re-audit.
+- Created `research/research-dossier-architecture-audit-2026-11-15.md` (commit `267aa35828e774e973f2a12491ad9cbbc2b88a0d`). It describes the document architecture, regional modules, cross-links, status drift, duplicate research branches and recommended maintenance structure.
+- The current re-audit crosswalk states A=0, B=8, C=18, plus one Greek false positive outside core. No candidate is commercially cleared. It is explicitly a crosswalk, not full re-verification.
+- Identified B/C mismatch: Handel and Wagner dossiers call their items LEAD/C while the crosswalk calls them B. Must reconcile by inspecting exact discography and evidence linkage; don't silently change either.
+- Caruso's formal file retains legacy PARTIALLY VERIFIED, but re-audit correctly describes it as C — thematically outside. The aria is lament; revenge happens later in the opera, not in the selected excerpt, absent contrary text evidence.
+- Identified duplicate branches: Naramaru/Chūshingura spans East Asian dossier, Japan dossier, global map and re-audit; Dalvorig spans 1909 and 1910 Tashjian branches. Preserve recording distinctions.
+- Repaired malformed Markdown table in `research/re-audit-existing-leads-2026-11-15.md`; catalogue caution is now below the table. Commit `c424a49c109661b61abe955f3ed328606efec86f`.
+- Original research directory contained 24 files; two audit reports have since been added, so it now contains **26** research files. Do not repeat the old 24 count as the current directory total.
+- No audio was played, physical carriers inspected, archive staff contacted or rights opinions made.
+## Active phase
+Phase 4 — cross-module reconciliation and companion editorial framework.
+## Exact next action
+Inspect the companion repository `sloev/grudgebook` as README requires. Then reconcile the README's current research snapshot against canonical files and the re-audit status crosswalk; add links and A/B/C evidence labels only after confirming each row's canonical dossier. Avoid changing historical research conclusions.
