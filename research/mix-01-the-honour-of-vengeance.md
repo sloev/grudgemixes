@@ -64,3 +64,19 @@ Vengeance is rarely a single voice. In Camille Saint-Saëns's *Samson et Dalila*
 ## Current decision
 
 Keep both tracks in active B status. This is the strongest provisional two-track mix package identified so far, but it is not yet one of the project's “rock-solid” finished mixes. Its remaining work is concrete and bounded: audio/text inspection, item-level transfer documentation, discographic resolution and rights review.
+
+
+## Third track added — Handel / McEachern, Vocalion X-9560
+
+### 3. George Frideric Handel — “Revenge! Timotheus Cries”
+- **Performer:** Malcolm McEachern, bass; Aeolian Orchestra.
+- **Issue:** Vocalion X-9560, 10-inch 78rpm; contemporary 1925 UK catalogue describes two parts and says replay part I to complete the aria.
+- **Session/matrices:** London, October 1924?; session/matrix references 03724 and 03725 in specialist Vocalion sessionography. Exact takes and side sequence unresolved.
+- **Evidence:** B — PROBABLE CANDIDATE; PROBABLE DATE (contemporary 1925 catalogue establishes issue before cutoff; sessionography points to Oct 1924 but is tentative).
+- **Archive audio:** not yet located at item level. No listening or transfer inspection has occurred.
+- **Narrative:** Handel's *Alexander's Feast* (1736), using Dryden's 1697 ode adapted by Newburgh Hamilton. Timotheus summons the Furies and the ghosts of Greeks slain in earlier wars; the wider work moves toward Alexander's burning of Persepolis in revenge. Distinguish poetic narrative from historical fact, and do not imply the disc contains the subsequent recitative/Thais scene unless confirmed.
+- **Dossier:** candidates/GM-UK-001-handel-revenge-timotheus-1924.md.
+
+### Updated mix logic
+
+The three tracks now create a more coherent historical arc: Handel dramatizes revenge as a musician's incitement of a ruler and collective memory; Saint-Saëns stages a political-religious conspiracy against a resistant leader; Verdi stages familial retaliation after abuse and betrayal. They share an explicit revenge vocabulary but should not be collapsed into one moral category. Handel is the oldest underlying text (1697/1736) but the newest recording (ca. 1924); Saint-Saëns is the earliest securely dated recording (1908); Verdi closes the sequence (ca. 1921). Proposed order: Handel → Saint-Saëns → Verdi, moving from collective historical memory to conspiracy to intimate family revenge. All three remain B and the mix remains a development draft until listening, transcription, transfer documentation and rights review are complete.
