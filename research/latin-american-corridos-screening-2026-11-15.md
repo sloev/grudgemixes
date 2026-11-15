@@ -95,3 +95,14 @@ Additional sources:
 - Amon Carter Museum, José Guadalupe Posada, *Ya la autoridad echó garra al malvado Ignacio Parra*, 1912, zinc etching; its inscription reproduces the four-line “society avenged” refrain: https://www.cartermuseum.org/collection/ya-la-autoridad-echo-garra-al-malvado-ignacio-parra-1978181
 - Higinio Vázquez Santa Ana, *Historia de la canción mexicana*, vol.1 (1925), contents list *Corrido de Ignacio Parra*, p.210: https://books.google.com/books?id=JMEOAQAAMAAJ
 - The 1904 Edison catalogue and Frontera context are cited above.
+
+
+### Date refinement from the original Edison trade journal
+
+The 1904–05 volume of *Edison Phonograph Monthly* provides more precise chronology than the catalogue title alone:
+- The volume identifies itself as **Vol. II, 1904–05**, with publication beginning in March 1904 and running through February 1905.
+- In the January 1905 issue, the article “Seventy-one Mexican Records” says the 71 records were made in Mexico City under National Phonograph Company recording experts and that large numbers had already been sold in Mexico. It lists *Ignacio Parra* 18512–18513 and *Heraclio Bernal* 18515 under Rafael Herrera Robinson.
+- The same issue reproduces Thomas A. Edison's letter to President Porfirio Díaz dated **2 September 1904**. Edison says he is sending an assortment of Gold Moulded records “recently made by prominent artists in Mexico City” and that Díaz should receive the first copies for his birthday on **15 September 1904**. Díaz's reply is dated 19 September 1904 and acknowledges receipt of the phonograph and records.
+- This establishes that the Mexican recording campaign had produced its first copies by 15 September 1904, and that the catalogue list was commercially available by January 1905. It does not identify the exact recording day of *Ignacio Parra* 18512–18513, so retain the item-level recording date as **Mexico City, by 15 September 1904 (session date not identified)**, with catalogue publication January 1905.
+
+Source: *Edison Phonograph Monthly*, Vol. II, No. 11 (January 1905), pp.4–5, “Seventy-one Mexican Records” and “President Diaz's Birthday Gift”: https://www.worldradiohistory.com/Archive-All-Audio/Edison-Phonograph/Edison-Phonograph-Monthly-1904-Vol-2.pdf
