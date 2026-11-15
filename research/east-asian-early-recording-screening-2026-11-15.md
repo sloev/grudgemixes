@@ -307,3 +307,19 @@ Sources:
 - 78MUSIC discography entry no. 1645: https://www.78music.jp/other5.html
 
 Decision: **PHYSICAL DISC LEAD / NOT YET CANDIDATE / NOT CLEARED**. We now have a museum inventory confirming a physical Naramaru *Akō Gishi Uchiiri* side, catalogue no.1645, on a Royal label. Publication date, master/matrix, precise lyrics, raw archival transfer and commercial rights remain open. Request disc/label images and playback/transfer from Kushiro; inspect the 1914 lyric corpus and prewar company catalogues; compare against the 1914 Yamato On-ei master separately.
+
+
+## Additional institutional confirmation of a Naramaru Royal *Gishi-den* disc
+
+Two further institutional sources now corroborate the existence and repertoire context of Yoshida Naramaru's early *Gishi* recordings, without yet fixing the release date or proving that the physical Royal disc is catalogue no.1645.
+
+1. The International Research Center for Japanese Studies (Nichibunken), in its 2016 prospectus section on the interdisciplinary study of Naniwabushi, reproduces a photograph/caption for an SP record: **Yoshida Naramaru, “Akō Gishiden Toiri” (赤穂義士伝討入), Royal Record**, held by Nichibunken. This is an institutional collection reference to a physical disc, independent of the 78MUSIC discography and the Kushiro inventory. The prospectus does not give a catalogue number, matrix, date or audio-transfer details, so it cannot yet be equated with Kushiro's Royal 1645.
+2. The Japan Arts Council's Cultural Digital Library identifies a **Naramaru performance handbill for “Gishi Uchiiri” (義士討入)** in the National Theatre collection and documents *Yamato Sakura Gishi no Omokage*, first part, as a 1910 Naramaru performance text held by the National Diet Library. It describes Naniwabushi as a performance art in which a narrator conveys stories through melodic vocal passages and dialogue with shamisen accompaniment. It also notes that the *Akō Gishi-den* repertoire includes many *meimei-den* (individual biographies) and *gaiden* (supplementary tales), often emphasizing the emotional conflict between **giri** (duty/obligation) and **ninjō** (human feeling) rather than simply the plot's action.
+3. This institutional framing strengthens the case that Naramaru's *Gishi* repertoire was commercially and textually established before the 1914 Yamato On-ei report, but it also cautions against flattening the whole repertoire into a single “revenge song.” The *Uchiiri* title explicitly identifies the raid episode; individual Naniwabushi pieces may foreground loyalty, obligation, separation, sacrifice or emotional conflict. The exact 1645 / Nichibunken / 1914 Yamato texts and masters still need comparison.
+
+**Status update:** physical-disc and repertoire evidence is now stronger; exact issue chronology, master identity, text, transfer and rights remain unresolved. Keep the Naramaru Royal disc as a **HIGH-PRIORITY PHYSICAL LEAD / NOT YET CANDIDATE / NOT CLEARED**.
+
+Sources:
+- International Research Center for Japanese Studies (Nichibunken), *Prospectus 2016*, pp.16–17, project “Interdisciplinary Research in the Formation and Transformation of Naniwabushi (Rōkyoku),” captioned SP record by Yoshida Naramaru, “Akō Gishiden Toiri,” Royal Record, held by Nichibunken: https://www.nichibun.ac.jp/en/uploads/pdf/niyo_2016.pdf
+- Japan Arts Council / National Theatre Cultural Digital Library, “The spread of Naniwabushi” and *Akō Gishi-den*: https://www2.ntj.jac.go.jp/dglib/contents/learn/edc21/hirogari/wagei/wa2.html
+- National Diet Library scan of Yoshida Naramaru's *Naniwabushi Jūhachiban: Gishi no Hitofushi* / *Yamato Sakura Gishi no Omokage* contents: https://upload.wikimedia.org/wikipedia/commons/8/83/NDL891540_%E7%BE%A9%E5%A3%AB%E3%81%AE%E4%B8%80%E7%AF%80_-_%E6%B5%AA%E8%8A%B1%E7%AF%80%E5%8D%81%E5%85%AB%E7%95%AA_%E9%9B%AA%E3%81%AE%E5%B7%BB_part2.pdf
