@@ -587,3 +587,7 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 ## 2026-11-15 — ChatGPT (Edwin Gilbert authority-date discrepancy)
 - Follow-up check found a birth-year discrepancy for the author of “A Band of Hard-Pressed Men”: Hymnary's 1908 text page cites “Edwin Gilbert, 1859-”; its linked authority record gives 1848–1926; a separate Hymnary search result gives 1859–c.1935. All versions place death before 1956, but identity/date details should not be silently harmonized. Updated the Plaatje note to preserve the discrepancy pending authoritative biographical resolution.
 - Africa note correction commit: 0c3fd8b559c141221eafd2cb943fd7d0d82065d9.
+
+## 2026-11-15 — ChatGPT (Plaatje archive date versus issued take)
+- Clarified that Wits ZA HPRA A1742-1 is catalogued with date 16 October 1923, while Flat International's matrix-based reconstruction identifies “A Band of Hard-Pressed Men Are We” (Bb3641-3, Zonophone 4169) as a retake recorded on 23 October 1923. The Wits item may group tracks from both sessions, but the digital file's source/take has not been matched. Do not treat the collection/item date as the exact date for this specific issued take.
+- Africa note correction commit: 315526a18dfc63f8b3e8c87eff0bdfeaca619b50.
