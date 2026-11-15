@@ -792,3 +792,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Separated Nipponophone/Royal-era Naramaru no. 1651 (78MUSIC; likely in Nichibunken parent BB17632622; date/label/matrix/audio not proven) from Taihei nos. 10254–10257, a four-disc Naramaru III set, CiNii BB17753999, Nichibunken calls 05193/05195, date [19--]. Do not merge; neither is core-eligible until its own recording chronology is established.
 - Updated detailed note, re-audit and global map.
 - Sources: https://ci.nii.ac.jp/ncid/BB17753999 ; https://ci.nii.ac.jp/ncid/BB17632622 ; https://www.78music.jp/other5.html ; https://upload.wikimedia.org/wikipedia/commons/c/c9/NDL891714_%E5%90%89%E7%94%B0%E5%A5%88%E8%89%AF%E4%B8%B8%E3%83%BB%E6%9D%B1%E5%AE%B6%E6%A5%BD%E9%81%8A%E6%B5%AA%E8%8A%B1%E7%AF%80.pdf ; https://upload.wikimedia.org/wikipedia/commons/8/83/NDL891540_%E7%BE%A9%E5%A3%AB%E3%81%AE%E4%B8%80%E7%AF%80_-_%E6%B5%AA%E8%8A%B1%E7%AF%80%E5%8D%81%E5%85%AB%E7%95%AA_%E9%9B%AA%E3%81%AE%E5%B7%BB_part2.pdf.
+
+
+## 2026-11-15 — ChatGPT (NDL 1912 anthology and Nipponophone/Royal 1651)
+- Identified a second 1912 pre-cutoff printed Naramaru anthology: Takuma Sadao ed., *Naniwabushi Hitofushi Zenshū*, Tokyo, May 1912, 83 pp., NDLBibID 000000515685, call 特63-443. Contents list Naramaru *Denchū no Jinshō*, *Ōtaka Gengō*, *Akagaki Genzō*, *Ōishi Yamashina-gaeri*, *Kanzaki Yūgorō*, *Hazama Jūjirō*, *Nanbuzaka Yuki no Wakare*, *Toiri*, *Amanoya Rihei*. It is a strong repertoire witness, not a recording date or record-specific transcript.
+- 78MUSIC confirms exact Nipponophone/Royal catalogue no. 1651: *Akō Gishi-den: Denchū Ninjō*, Osaka Yoshida Naramaru, single-sided, front-facing eagle label. No issue date listed. Neighbouring numbers 1645–1654 include other Akō titles. Do not infer date from number sequence.
+- Clarified generation/chronology: separate from Taihei 10254–10257 (Naramaru III, date [19--]) and Taihei 6036–6037 (Naramaru III, 1935, outside cutoff). The latter does not date the former or 1651.
+- Updated detailed Japanese note, re-audit, global map.
+- Sources: https://commons.wikimedia.org/wiki/File:NDL891638_%E6%B5%AA%E8%8A%B1%E7%AF%80%E4%B8%80%E3%83%88%E7%AF%80%E5%85%A8%E9%9B%86.pdf ; https://www.78music.jp/other5.html ; https://ci.nii.ac.jp/ncid/BB17753999 ; https://www.78music.jp/taihei.html.
