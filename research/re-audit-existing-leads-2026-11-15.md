@@ -5,7 +5,7 @@
 ## Summary
 
 - **A — VERIFIED RESEARCH CANDIDATE:** none assigned in this first crosswalk. This is deliberate: the current notes do not yet give a sufficiently complete combination of exact master identity, performed-version content and chronology to warrant A without further item-level checking.
-- **B — PROBABLE CANDIDATE:** 8 provisional items with strong recording and thematic linkage but unresolved master/audio/text details.
+- **B — PROBABLE CANDIDATE:** 9 provisional items with strong recording and thematic linkage but unresolved master/audio/text details.
 - **C — LEAD:** 18 recording-linked or textual leads requiring stronger linkage, content or chronology evidence.
 - **Outside core / rejected:** 1 Greek false positive. One early South Asian pass and one Arabic pass produced no item-level leads.
 
@@ -17,6 +17,7 @@ The apparent increase in candidates is not seven release-ready tracks. B means a
 |---|---|---|---|---|
 | Gene Greene & Charley Straight, “Franky & Johnny,” Pathé 5370 (reported London Dec. 1912; issue c.1913) | **B — PROBABLE** | Probable pre-1926 | A 2025 thesis transcribes the Greene performance from the Archeophone reissue: Frankie shoots Johnny after discovering infidelity; immediate lethal retaliation, not delayed revenge | Transcript is derivative, not a carrier-based verification; locate/inspect surviving Pathé 5370 copies, confirm matrix/take and session evidence, compare original transfer, establish composition/version credits and rights |
 | Armenian “Bam Porotan” / “Pamp Vorodan,” Victor 69102 (1916) | **B — PROBABLE** | Probable pre-1926 | Grievance / revenge reading retained from the earlier screening; keep original Armenian text and translation in view | Verify the exact lyric performed, source-carrier transfer and rights; LOC access/permission is not commercial clearance |
+| Mademoiselle Rosalie, “Pamp Vorodan,” Favorite 1-56211 (Constantinople, 1911) | **B — PROBABLE** | Probable pre-1926 (1911 release date in item-level collection record; label/runout date reading provisional) | Armenian transcription explicitly includes collective revenge / vengeance language from Alishan's poem | Confirm Favorite catalogue entry, runout/date inscription, exact audio and text-to-master linkage; rights unknown |
 | Handel, “Revenge! Timotheus Cries,” HMV D589 (1921) / Vocalion X-9560 (1924) | **B — PROBABLE** | Probable pre-1926 for both reported issues | Explicit vengeance rhetoric / represented collective revenge | Resolve performer and matrix/take conflicts; locate exact archival audio; version and rights review |
 | Wagner, “Hagen meditates revenge,” HMV D704 (1922) | **B — PROBABLE** | Probable pre-1926 | Calculated revenge in dramatic representation | Exact archival audio, matrix/issue corroboration, text/version and rights |
 | Saint-Saëns, “Vengeance at Last,” Victor 87501 (1908) | **B — PROBABLE** | Probable pre-1926 | Explicit dramatic revenge / retribution | FAU item is a useful exact archive lead, but access is non-downloadable; verify source transfer, exact matrix/take and rights |
@@ -54,6 +55,12 @@ The apparent increase in candidates is not seven release-ready tracks. B means a
 - **Arabic-language records:** AMAR and Harvard Loeb are substantial discovery routes. The first title pass found controls but no item with sufficiently supported grievance content. The Dinshaway oral mawwāl leads are separate from any commercial recording.
 - **Korean Fletcher cylinders (1896):** securely documented field recordings, but the surfaced track descriptions do not currently establish grievance-response content; they are not commercial releases.
 - **Greek screening:** the located *Fonias tha gino* masters are post-cutoff and thematically a possessive threat rather than revenge.
+
+### New Armenian recording branch — Mademoiselle Rosalie / Favorite 1-56211 (1911)
+
+The MGK Collection provides a label photograph, item metadata (Favorite, 1-56211, Armenian, soprano with orchestra, Rosalie, Constantinople, release date 1911) and an Armenian transcription of “Pamp Vorodan” containing explicit vengeance language. The runout appears to read 4456-1 and a handwritten date-like mark “6/2.11,” both provisional. The same text is separately transcribed for Armenag Shah-Muradian's 1917 Columbia version; that does not prove the Rosalie audio contains every transcribed line. Classify as **B — PROBABLE** because the exact disc and strong text witness are linked in the collection record, but exact audio/text, matrix and chronology require verification. Keep it distinct from the 1916 Bézazian Victor and 1917 Shah-Mouradian Columbia recordings. Full dossier: `research/armenian-pamp-vorodan-favorite-1911-rosalie.md`.
+
+Sources: https://hub.catalogit.app/mgk-collection/folder/entry/mademoiselle-rosalie-pamp-vorodan-oh-inch-anush ; https://hub.catalogit.app/mgk-collection/folder/entry/armenag-shah-muradian-pamp-orodan-hayastan ; https://www.recordingpioneers.com/CATALOGS-RP-2025.html .
 
 ## Immediate priorities after the crosswalk
 
