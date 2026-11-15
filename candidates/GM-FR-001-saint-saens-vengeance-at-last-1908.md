@@ -81,3 +81,8 @@ Retain as a high-priority **PARTIALLY VERIFIED** candidate. It has a strong disc
 ## Digitized archive access located (2026-11-15)
 
 FAU Recorded Sound Archives item 57310 has an embedded audio player for this exact catalogue item, “Samson and Delilah—Vengeance at Last,” catalogue 87501, Louise Homer and Emilio de Gogorza, 78 rpm 10-inch single-sided. The page still lists matrix/date as N/A; those details come from the independent Victor Red Seal Discography/Historic Record Society evidence, not FAU's item metadata. FAU explains that copyright-restricted recordings may be limited to a 45-second research preview; the page does not establish the transfer chain or commercial reuse rights. This is now an exact institutional listening target, not yet a transfer-verified source. https://rsa.fau.edu/album/57310
+
+
+## FAU full-audio access route (2026-11-15)
+
+FAU's Recorded Sound Archives Research Station describes itself as a password-protected virtual music library with metadata, images and digitized streaming audio, with over 99,000 full audio tracks. FAU students/staff can access unrestricted listening with institutional credentials; external access is limited to educators, students and serious researchers, who may apply. The request form asks for title/status and a detailed academic/educational purpose and relevant expertise. This is a concrete route to request full listening access to item 57310 rather than relying on the public item page's legacy player/possible preview restrictions. Access approval is not guaranteed and does not grant reuse rights. Research Station overview: https://rsa.fau.edu/rs ; external application: https://rsa.fau.edu/rs/register.
