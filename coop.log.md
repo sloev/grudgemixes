@@ -540,3 +540,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 ## 2026-11-15 — ChatGPT (Posada broadside date discrepancy)
 - Added a qualification to the Latin America screening note: the same Ya la autoridad echó garra al malvado Ignacio Parra title/image/refrain is catalogued as 1914 by El Colegio de México and as 1912 by the Amon Carter Museum (Posada zinc etching). Until the physical copies/imprints are compared, use 1912–1914 as a discrepant institutional date, not a single fixed date. The separate anonymous 1905 Corrido de Ignacio Parra broadside remains distinct.
 - Latin America note correction commit: 8f9e087cc5a58c5c6068f423dde768a50ff9bc69.
+
+## 2026-11-15 — ChatGPT (critical correction: 1904 Ignacio Parra rebel cylinder vs officialist print variants)
+- Rechecked the Frontera Collection essay and the 2025 corrido historiography chapter. Frontera explicitly describes the 1904 Herrera Robinson *Ignacio Parra* and *Heraclio Bernal* cylinders as corridos about anti-Díaz rebels; it says Herrera did not reprise these songs on later Victor/Columbia visits and reports James Nicolopulos's view that political pressure and a seditious undercurrent explain the omission.
+- The 1905 Vanegas Arroyo broadside described by Aurelio González is an officialist printed witness praising Octaviano Meraz and portraying Parra as a criminal. The separate 1912/1914 “Ya la autoridad echó garra” print gives an explicit society-avenged framing. Neither has been shown to match the words on the 1904 cylinder.
+- Corrected the Latin America note: the 1904 item is now a **HIGH-PRIORITY LEAD / NOT A CANDIDATE / NOT CLEARED**, with thematic fit unresolved. Removed the previous “near candidate” implication. The 1905 and 1912/1914 prints are explicitly treated as distinct textual/political witnesses, not lyrics of the cylinder.
+- Corrected the global map accordingly.
+- Sources: Frontera https://frontera.library.ucla.edu/blog/2017/12/mexican-corrido-ballads-adversity-and-rebellion-part-4-corridos-mexican-revolution ; Mora Muro 2025 https://ri-ng.uaq.mx/bitstream/123456789/12411/2/LUAQ-000028.pdf ; González https://revistas-filologicas.unam.mx/anuario-letras/index.php/al/article/download/998/996/0 .
+- Latin America note commit: 1547d9b177a3f9d0ff3feaf5705c0ebbd5df8a85.
+- Global map commit: 5562cfa7d79961ef186f8cfe893cc5452cf339c1.
