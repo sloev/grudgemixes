@@ -762,3 +762,10 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Important caveat: the 2016 prospectus establishes a Nichibunken holding, not issue date, matrix, exact performance text, nor inclusion in the online audio subset. Nichibunken says label images are public but sound is public only after copyright expiry; other sound is on-site only. Do not merge with the separate Yamato On-ei 1914 Naramaru lead or Takamine Chikufu Nipponophone 15226–15227 (1924).
 - Sources: https://www.nichibun.ac.jp/en/uploads/pdf/niyo_2016.pdf (PDF p.17); https://www.nichibun.ac.jp/ja/db/category/rokyoku/; https://kutsukake.nichibun.ac.jp/rsp/about/.
 - Handoff: request Nichibunken’s item-level OPAC record, label image, catalogue number, matrix/runout, performer generation, date evidence, and audio access status.
+
+
+## 2026-11-15 — ChatGPT (Japanese Naramaru discography cross-check)
+- Cross-checked the Nichibunken Royal Record lead against 78MUSIC and a Kushiro City Museum collection survey. 78MUSIC lists a Yoshida Naramaru *Akō Gishi Uchiiri* as no.1645 under a combined Nipponophone/Royal/American heading. Kushiro independently lists no.1649, *Akō Gishi-den*, Yoshida Naramaru, Royal. These are competing leads; neither is proven to be the exact Nichibunken disc.
+- 78MUSIC separately lists Nipponophone 15139-A/B, *Gishi no Toiri* / *Gishi no Hikiage*, July 1923. This date belongs to that separate issue and must not be attached to Royal 1645/1649.
+- Updated the Japan lead note and re-audit. Status remains C. Next: label images, matrix/runout, and Nichibunken item-level record.
+- Sources: https://78music.jp/other5.html ; https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf ; Nichibunken 2016 prospectus: https://www.nichibun.ac.jp/en/uploads/pdf/niyo_2016.pdf.
