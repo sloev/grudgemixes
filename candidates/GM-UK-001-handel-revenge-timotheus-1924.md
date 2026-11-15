@@ -11,7 +11,7 @@ This is a particularly strong example of music represented as an instrument of r
 - **Performer:** Malcolm McEachern, bass; Aeolian Orchestra.
 - **Label/catalogue:** Vocalion X-9560, 10-inch 78rpm, issued in the United Kingdom.
 - **Session/matrix:** specialist Vocalion sessionography lists London, **October 1924?**, matrix/session numbers **03724** and **03725**, with “Revenge Timotheus cries” parts 1 and 3 and “Behold a ghastly band” part 2; issue X-9560 is linked to 03724 and 03725X. Exact takes and the structure of the issued sides need physical-copy confirmation.
-- **Publication:** the UK Vocalion catalogue's **1926 edition** lists X-9560 as “Revenge! Timotheus Cries,” *Alexander's Feast* (Handel), parts I and II, with Aeolian Orchestra, bass Malcolm McEachern; its foreword says the edition contains all records issued up to and including November 1925, and the entry says replay part I to complete the aria. This is retrospective catalogue evidence that the issue was in circulation by the November 1925 catalogue cut-off, not a catalogue physically published in 1925.
+- **Publication:** the UK Vocalion catalogue's **1926 edition** (covering issues through November 1925) lists X-9560 as “Revenge! Timotheus Cries,” *Alexander's Feast* (Handel), parts I and II, with Aeolian Orchestra, bass Malcolm McEachern; its foreword says the edition contains all records issued up to and including November 1925, and the entry says replay part I to complete the aria. This is retrospective catalogue evidence that the issue was in circulation by the November 1925 catalogue cut-off, not a catalogue physically published in 1925.
 - **Cross-check:** a later McEachern discography independently lists X-9560 and matrices/issues 03724/03725. A 2010 specialist review says McEachern recorded the aria on Vocalion in the early 1920s and comments on the 1924 studio circumstances; useful corroboration, not primary session evidence.
 - No exact item-level public archive audio or preservation-transfer record has yet been located. Do not claim that the audio has been heard or that the two parts are complete without inspecting the physical issue.
 
@@ -40,7 +40,7 @@ The historical referent is the ancient banquet celebrating Alexander's victory o
 | Matrix/session identifiers | 03724 / 03725; exact take/sided sequence unresolved |
 | Label/catalogue | Vocalion X-9560 |
 | Format | 10-inch 78rpm, two parts/sides according to 1925 catalogue |
-| Contemporary issue evidence | UK Vocalion catalogue, 1925 |
+| Contemporary issue evidence | UK Vocalion 1926 catalogue, covering issues through November 1925 |
 | Archive audio | Not located at item level |
 | Transfer authenticity | Unknown; no transfer inspected |
 | Rights | Not cleared; composition/text chronology is old, but master, performer, transfer and territory-specific rights require separate review |
@@ -75,3 +75,8 @@ A singer's revenge can become a crowd's revenge. In *Alexander's Feast*, Timothe
 A streaming catalogue page on AWA lists Malcolm McEachern's “Alexanders Feast: Behold, A Ghastly Band . . . Revenge Timotheus Cries” on the 2000 album *Arias*, duration 4:51. This is a useful lead to a later reissue/listening copy of the performance, and may contain the complete multi-section aria, but the page does not identify the source carrier, transfer, label, matrix or whether it is specifically the Vocalion X-9560 transfer. It is **not** proof of a raw archival transfer and does not resolve the issued side sequence. Treat it as a derivative listening surrogate pending audio comparison with an original X-9560 pressing. AWA page: https://prd-s.awa.fm/track/dec89263bb8a36faef02.
 
 The catalogue cited above is a **1926 edition** whose foreword says it includes all Vocalion records issued through November 1925. Earlier notes calling it a “1925 catalogue” were imprecise. The issue's pre-cutoff status remains probable/strongly supported by this retrospective list plus the tentative October 1924 sessionography, but the catalogue is not a contemporaneous 1925 publication.
+
+
+## 1926 catalogue wording clarification
+
+The Vocalion source is the **1926 edition** of the catalogue, not a catalogue published in 1925. Its foreword explicitly says it lists records issued up to and including November 1925. Its X-9560 entry lists parts I and II, Aeolian Orchestra and bass Malcolm McEachern, with part I replayed to complete the aria. The 1924-10? session date and 03724/03725 matrix/session references remain specialist-discography evidence and provisional. See the item entry in the catalogue (pp. 90 and 137): https://78rpm.club/wp-content/uploads/2015/10/Vocalion-Records-Catalogue-1925-UK.pdf and the sessionography https://www.78opera.com/files/ARTIST_M.pdf .
