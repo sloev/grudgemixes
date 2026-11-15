@@ -11,9 +11,19 @@ Sources:
 - Madan Theatres Research Group, Images & Other Media / discography: https://madantheatres.com/historical-documents-photos/
 - CHARM catalogue search link surfaced by the Madan Theatres page: https://charm.rhul.ac.uk/discography/search/search_advanced?operatorSel_0=and&parameterKeyTxt_0=CORINTHIAN+THEATRE+CHORUSCalcutta%2C+India&parameterKey_0=artist_007054&parameterSel_0=performer (not successfully opened in this pass).
 
-## Why it merits follow-up
+## Dramatic context discovered
 
-“Khune Nahak” appears to be a Persianate/Urdu expression associated with unjust killing or wrongful bloodshed. This makes it a potentially relevant dramatic title, but **does not establish that the recorded song describes revenge**. The listed work title and song incipit (“Gana Gana Gana”) do not supply the lyrics or dramatic context. Do not classify it as revenge, retaliation or grievance without the text and play synopsis.
+A significant contextual match has now been found: **Khun-e-Nahaq** (also rendered *Khun-e-nahaq*, *Khoon-e-Nahaq*, *Khune Nahak*) is identified in scholarship as an Urdu adaptation of *Hamlet* by Munshi Mehdi Hasan Ahsan, staged by the Parsi Alfred Company in 1898. Kathryn Hansen's *Stages of Life* appendix identifies Ahsan/Mehdi Hasan as the author of *Khun-e Nahaq* (based on *Hamlet*); research on Shakespeare reception in India likewise identifies the 1898 Urdu Hamlet adaptation and notes that it was transformed into a musical. This makes revenge a plausible **dramatic frame** for the play, not yet a demonstrated lyric mechanism in the recorded selection.
+
+Sources:
+- Kathryn Hansen, *Stages of Life*, Appendix 1, Cambridge University Press: https://www.cambridge.org/core/books/abs/stages-of-life/historical-personages-and-institutions/1CAB9A0E04E9FB5015CD4C5BECE61B9D
+- Research on Shakespeare reception in India, discussion of *Khun-e-nahaq* as Urdu Hamlet adaptation and musical: https://studyres.com/doc/15669853/shakespeare-reception-in-india-and-the---
+- *Shakespeare and Indian Theatre: The Politics of Performance*, discussion of *Khun-e-nahaq* as Urdu Hamlet adaptation and musical: https://dokumen.pub/shakespeare-and-indian-theatre-the-politics-of-performance-9789389812640-9789389351125-9789389351132.html
+- Indira Gandhi National Centre for the Arts, survey of stage versions of Shakespearean tragedies, listing *Khūnē-nāhaq* (Unjust Murder), Munshi Mehdi Hasan, Parsi Alfred Company, Bombay, 1898: https://ignca.gov.in/Asi_data/8924.pdf
+
+## Why it merits follow-up — and the limit
+
+The title is translated in theatre scholarship as **“Unjust Murder” / “Unjustified Murder.”** The Hamlet plot contains a revenge structure, but the recording title and song incipit (“Gana Gana Gana”) do not prove that this particular side is Hamlet's revenge soliloquy, a revenge aria, or even a lyric about revenge. Parsi theatre songs could accompany love scenes, deaths, wars, ceremonies and other moments; a song from a revenge tragedy need not itself enact revenge. Do not upgrade taxonomy until the exact song text and scene are identified.
 
 The same Corinthian recording list includes:
 - “Dil Farosh: Arre Koi Aan Mile Ya Sajni” (14562)
@@ -35,9 +45,9 @@ These are not candidates from title evidence alone.
 
 1. Open CHARM work 14561 and extract its complete metadata: performer credit, language, label, catalogue number, matrix, recording date/location, issue date and surviving audio link.
 2. Find the original Gramophone Company catalogue and label/runout image; distinguish recording date (reported November 1902) from issue/publication date.
-3. Identify the play *Khune Nahak*: author, original language, plot, printed script/playbill and any later summaries. Verify whether the song “Gana Gana Gana” is actually from that play and what it says.
-4. Search the 1920 theatre songbook and related Bengali/Urdu theatre songbooks for an exact lyric or textual match. A play title alone is not enough.
-5. Establish lyricist/composer or documented traditional provenance and death dates.
+3. Determine which scene and character perform “Gana Gana Gana”; locate the lyric text in the Urdu script, printed play or songbook and compare it to the exact recording.
+4. Identify the relevant edition/translation of *Khun-e-Nahaq*, and establish the playwright's full identity and death date. Do not conflate playwright Mehdi Hasan Ahsan with other people named Mehdi Hasan.
+5. Search the 1920 theatre songbook and related Bengali/Urdu theatre songbooks for an exact lyric or textual match.
 6. Locate an original-shellac archival transfer and determine whether it is an unedited transfer. Assess composition, master, transfer and repository rights separately, including EU/UK territories.
 
 No candidate admitted. If the lyrics prove to concern a prior injury followed by payback, a new candidate record should be created only after exact disc identity and composition gate are established.
