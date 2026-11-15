@@ -157,3 +157,29 @@ Sources:
 | 1925 Vázquez Santa Ana anthology | Pre-cutoff printed witness to a *Corrido de Ignacio Parra* entry | That every printed version is textually identical or the 1904 cylinder's source |
 
 The next verification step is to obtain the original cylinder or an authenticated archival transfer and compare the full two-part performance against the distinct print witnesses. The UCSB item page linked by Frontera returned a 403 in this session; that is an access barrier, not proof the recording is absent.
+
+
+## Additional Edison Mexican corrido lead — *Macario Romero* (18638, listed 1905)
+
+The newly available UCSB / American Discography Project 2025 reprint of Sydney H. Carter's *Catalog of Edison Foreign Series Cylinder Records* provides a useful checklist beyond the first 1904 group. Its Mexican series lists:
+- **18638, *Macario Romero* — corrido**, performed by **Rafael Herrera Robinson and Leopoldo Picazo** (Carter, p.121 of the 2025 PDF; the same number and duo appear in the May 1905 *Edison Phonograph Monthly* Mexican catalogue).
+- **18750, *El Desprecio* — corrido de tierra caliente**, performed by **R. Robinson with guitar** (Carter, p.127; also in the 1905 catalogue listing).
+
+The *Macario Romero* narrative has a printed textual tradition, but the witnesses must be kept separate:
+- El Colegio de México catalogues Eduardo Guerrero's one-sheet *Corrido de Macario Romero* (Corridos-0128), with opening “Hay hombres que son valientes, pero ninguno fue igual à don Macario Romero, que tuvo triste final.” Its publication date is not identified.
+- A second one-sheet witness, anonymous and held in the Concha Michel collection (Corridos-0338), opens “Dice Macario Romero al capitán Villa Plata: concédame una licencia para ir a ver a mi chata.” Its publication date is also not identified.
+- Jesús Iván Mora Muro's 2025 chapter quotes a variant in which Macario is lured to a dance, disarmed and shot “a traición” (by treachery); the final line has Jesusita Llamas say “ahora sí quedamos bien, ya mataron a Macario, ahora mátenme a mí también.” This may suggest a score-settling or revenge dimension, but the speaker's motive and the meaning of “quedamos bien” require the full text and historical context. Do not reduce the narrative to revenge from this fragment alone.
+- Álvaro Ochoa Serrano's 2025 biographical study confirms the Edison cylinder number and duo and describes the Rosales/Robinson repertoire; it does not establish the exact words sung on the cylinder. Another modern source attributes a *Macario Romero* corrido to Jesús Ábrego and Picazo around 1908, a different attribution/chronology that should not be merged with the 18638 Edison performance without a text and master comparison.
+
+**Status: LEAD ONLY / NOT A CANDIDATE / NOT CLEARED.** The catalogue record and early commercial issue are now well supported, and there is a pre-1926 corrido tradition around Macario Romero. The thematic evidence is betrayal/ambush/murder with a possible but ambiguous score-settling line; it is not yet enough to classify the Edison performance as revenge, retaliation or spite. Composition authorship, exact text, fixation date, original-cylinder transfer provenance and territorial rights remain open.
+
+*El Desprecio* is a separate **TITLE-ONLY LEAD**. Its corrido designation and performer are documented, but title alone does not establish a grievance narrative.
+
+Sources:
+- UCSB / American Discography Project, Sydney H. Carter, *Catalog of Edison Foreign Series Cylinder Records* (2025), Mexican series pp.117–127; preface notes this is a 2025 reprint of Carter's 1965/1974 catalog, published “as is” without correcting or adding omissions: https://adp-assets.library.ucsb.edu/Edison-Foreign-Cylinders-Catalog-by-S-Carter.pdf
+- *Edison Phonograph Monthly*, Vol. III (1905), Mexican popular songs listing 18638 *Macario Romero* for Herrera Robinson and Picazo: https://www.worldradiohistory.com/Archive-All-Audio/Edison-Phonograph/Edison-Phonograph-Monthly-1905-Vol-3.pdf
+- El Colegio de México, Eduardo Guerrero, *Corrido de Macario Romero*, Corridos-0128 (undated): https://repositorio.colmex.mx/concern/books/td96k6288?locale=es
+- El Colegio de México, anonymous *Corrido de Macario Romero*, Concha Michel collection, Corridos-0338 (undated): https://repositorio.colmex.mx/concern/books/kd17cx82f?locale=es
+- Jesús Iván Mora Muro, “El corrido en México: historiografía e instituciones,” 2025, pp.123–127: https://ri-ng.uaq.mx/bitstream/123456789/12411/2/LUAQ-000028.pdf
+- Álvaro Ochoa Serrano, “Maximiano Rosales y Rafael Herrera Robinson. Un par impar en la música popular,” *Interpretextos* 2(4), 2025–26, pp.51–67: https://doi.org/10.53897/RevInterp.2025.04.03
+- 2025 *In Search of Revolutionary Voices* compilation listing Macario Romero, Rafael Herrera Robinson & Leopoldo Picazo (research/reissue lead only, not qualifying raw audio): https://lightintheattic.net/products/in-search-of-revolutionary-voices-mexican-wax-cylinder-recordings-1900-1910
