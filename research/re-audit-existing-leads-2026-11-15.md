@@ -82,3 +82,8 @@ Detailed note: research/japan-ako-gishi-yoshida-naramaru-royal-record.md. Source
 
 
 **Discographical cross-check (2026-11-15):** 78MUSIC lists a Naramaru *Akō Gishi Uchiiri* as no.1645 under a combined Nipponophone/Royal/American label section; a Kushiro City Museum collection survey separately lists no.1649, *Akō Gishi-den*, Yoshida Naramaru, Royal. These are competing catalogue leads and neither is securely linked to the Nichibunken prospectus image. 78MUSIC also lists a separate Nipponophone 15139-A/B *Gishi no Toiri / Gishi no Hikiage* (July 1923); do not transfer that date to Royal 1645/1649. Retain the prospectus disc at C until label/matrix/date linkage is established. Details and sources in research/japan-ako-gishi-yoshida-naramaru-royal-record.md.
+
+
+## New Japanese item-level record — Yoshida Naramaru, Royal 1723, *Hazama Jūjirō: Akō Gishiden*
+
+**C — LEAD; separate from the Royal Toiri/raid item.** Nichibunken’s own OPAC record BB17634016 identifies Yoshida Naramaru performing *Hazama Jūjirō: Akō Gishiden: Naniwabushi*, a 25 cm mono SP with Japanese lyrics, Royal Record 1723. OPAC lists two holdings, one in the Morikawa Tsukasa former collection, and links the item to the rōkyoku digital archive (reg=525664). This establishes a concrete physical SP and exact institutional record, but not a date, audio access or the performance’s precise grievance/revenge content. Keep distinct from Royal 1645/1649 and the separate Royal *Akō Gishi-den Toiri* raid item. Full details and source links: research/japan-ako-gishi-yoshida-naramaru-royal-record.md.
