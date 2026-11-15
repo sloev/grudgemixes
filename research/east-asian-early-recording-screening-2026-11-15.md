@@ -48,3 +48,31 @@ Source:
 - The 1899 Korean *Chunhyang-ga* recording event is disputed at the level of surviving master identification; do not cite it as an extant audio object until an item is located.
 - The Chinese Historical Society collection offers a productive archive path, but the 1902 Victor item needs listening and discographical identification; **梨娘恨** needs dating and lyric/context verification.
 - Next: inspect the California Revealed digitization of Victor 1769; request the Golden Star discs' labels, matrixes and dates; search the 1903 G&T Hong Kong catalogue and 1904 Chinese catalogue by Chinese title and operatic plot; identify any *Chunhyang-ga* master actually surviving from the 1899 event; and check Fletcher-cylinder rights/terms before considering any use.
+
+
+## Japan: Gishi / Chūshingura rōkyoku recordings — high-value new lead
+
+The International Research Center for Japanese Studies (Nichibunken) maintains a dedicated **Rōkyoku (Naniwabushi) SP Record Digital Archive**. Its stated corpus is 9,998 SP records donated by collector Morikawa Tsukasa, published from the Meiji 30s through the Showa 30s; the interface includes record-surface images, audio and related materials. The archive says all disc images are open online, while audio is openly playable only where the copyright term has expired; other audio is available only on-site. It digitises playback using a laser turntable, phono equalizer and analogue-to-digital converter. This is an unusually strong research path because the archive exposes label/catalogue images and a direct searchable database, though the web search interface itself returned 403 in this session.
+
+Henry D. Smith's study of the Akō Gishi states that the first Gishi tale record was issued in **August 1910**, with many more following in the next years. He explains that three-minute sides generally captured selected song/story segments, not a complete extended tale; a record title may therefore represent one episode within a larger revenge story. The Akō vendetta itself is a historical event (1701–03), while many later *Gishiden* episodes include fictional characters and accretions. Do not treat every episode as a transparent record of the historical event.
+
+The same archive's search-indexed entries surfaced several later *Gishi* items, useful as proof that this corpus is searchable by episode title but **not yet pre-1926 candidates**:
+- **(義士傳) 安兵衞變裝** (*Gishiden: Yasubee hensō*), Tōchūken Jōun, Regal / Columbia 65232–65233, issued January 1933; archive record 519216.
+- **(義士外傳) 大竹重兵衛** (*Gishi gaiden: Ōtake Jūbei*), Kiyomi Tsuda, Augon A5178, issue date not supplied; archive record 517460.
+- **義士引揚 / 義士最後** (*Gishi hikiage / Gishi saigo*), Yoshida Naramaru, Nipponophone 1891–1892; CiNii record BB17665563 gives no issue year, so it cannot be assumed eligible.
+- **赤穂義士 神嵜與五郎 (一)/(二)**, Yoshida Naramaru, Parrot 412/413; a specialist Japanese label list gives no new-issue date. Lead only.
+- A 78music label list also shows **義士討入** (*Gishi uchiiri*, “Gishi attack/raid”), Yoshida Naramaru, Special Record, and **殿中刃傷** (“wounding in the palace”), but without catalogue/date evidence.
+
+A separate Japanese legal-history source identifies a particularly important 1912 commercial group by **Tōchūken Kumoemon (1873–1916)**: “Akagaki Genzo Tokkuri no Wakare,” “Nambuzaka Goshitsu Yuki no Wakare,” “Oishi Oitachi,” “Murakami Kiken,” and “Masamune Koshiden,” sold on 19 May 1912 after a high-profile exclusive recording contract. These titles belong to the Akō Gishi story-cycle, but none should be labelled a revenge song until the exact side's words/episode are established. In particular, *Oishi Oitachi* is biographical prehistory and *Murakami Kiken* concerns a fictional character in later Gishiden storytelling. Kumoemon's death in 1916 is within the project's author/performer date threshold, but the improvised/performative status of Naniwabushi and any distinct text/arrangement credits need separate examination.
+
+Sources:
+- Nichibunken Rōkyoku SP Record Digital Archive overview: https://www.nichibun.ac.jp/ja/db/category/rokyoku/
+- Archive description, holdings, access and digitisation workflow: https://kutsukake.nichibun.ac.jp/rsp/about/
+- Archive search page (currently 403 through this web session): https://kutsukake.nichibun.ac.jp/rsp/
+- Henry D. Smith, “The Media and Politics of Japanese Popular History: The Case of the Akō Gishi” (2006), especially the August 1910 first-record statement and discussion of the Akō revenge story-complex: https://www.academia.edu/26728031/_The_Media_and_Politics_of_Japanese_Popular_History_The_Case_of_the_Ak%C5%8D_Gishi_2006_
+- Waseda legal-history thesis abstract/full text on the Kumoemon recording contract and the five 1912 titles: https://waseda.repo.nii.ac.jp/record/9544/files/Honbun-5985.pdf
+- CiNii, Yoshida Naramaru, *Gishi Hikiage / Gishi Saigo*, Nipponophone 1891–1892: https://ci.nii.ac.jp/ncid/BB17665563
+- Japanese historical-label discography listing Yoshida Naramaru's **Gishi uchiiri** and **Akō Gishi Kanzaki Yogorō**: https://www.78music.jp/other6.html
+- Nichibunken archive record, 1933 *Gishiden: Yasubee hensō* (post-cutoff example): https://kutsukake.nichibun.ac.jp/rsp/?reg=519216
+
+Decision: **HIGH-PRIORITY LEAD PATH / NO NEW CANDIDATE YET**. The next research step is to search the Nichibunken archive by 義士, 赤穂, 討入, 引揚, 大石, and episode/performer names, then isolate records whose issue/fixation is demonstrably pre-1926. Compare exact episode text against dated kōdan/naniwabushi booklets and the historical Akō source record. Confirm composer/performer/reciter roles, matrix/label/date, audio availability, transfer chain and Japanese/EU/UK rights. Do not assume a 1910–12 issue merely from a later catalogue number or undated CiNii record.
