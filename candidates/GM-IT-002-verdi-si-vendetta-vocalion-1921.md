@@ -68,3 +68,12 @@ Avoid collapsing Gilda's and Rigoletto's motives into one. The dramatic text and
 ## Decision
 
 Retain as a promising **PARTIALLY VERIFIED** candidate for research. The archive item and catalogue match are meaningful, but exact session metadata, direct audio provenance and commercial rights remain unresolved.
+
+
+## Current-methodology reassessment and mix-development note (2026-11-15)
+
+**Evidence level: B — PROBABLE CANDIDATE. Date: PROBABLE DATE (sessionography places the session around March 1921; the exact date, matrix and take remain unknown).** This maps the legacy “PARTIALLY VERIFIED” label to the adopted A/B/C scale. FAU RSA item 54400 identifies catalogue 60019, 78rpm 10-inch, track 2 “Rigoletto - Si vendetta,” and the performers Evelyn Scotney and Giacomo Rimini. Charles Mintzer's specialist Rimini discography identifies Vocalion session 7176, issue 30146 / 60019, around March 1921; its own introductory note warns that Vocalion matrix information is difficult because company ledgers did not survive and some numbers are hidden beneath labels. The date must remain approximate.
+
+**Thematic refinement:** the passage is Rigoletto's and Gilda's shared declaration of vengeance in Act III, but their positions are not identical. Rigoletto is the architect of the retaliatory plot against the Duke; Gilda is emotionally implicated and ultimately makes a different choice when she sacrifices herself. The recording's exact cut should be collated against the score/libretto before attributing every line or motive to the singers. This is theatrical revenge, not historical testimony.
+
+**Mix potential:** pairs well with Saint-Saëns / Victor 87501 in a provisional “The Honour of Vengeance” or “Vengeance on Stage” mix: two early commercial recordings of operatic revenge, one a political-religious conspiracy and the other a personal/familial retaliation plot. Both currently B, not A. FAU's digitized catalogue page is an access point, not a verified preservation master or commercial-use licence. Need listening, excerpt/transcription, transfer notes and rights review before a rock-solid release package.
