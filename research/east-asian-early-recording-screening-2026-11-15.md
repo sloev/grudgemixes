@@ -197,3 +197,22 @@ Sources:
 - 1912 Takuma Sadao, *Naniwabushi Hitofushi Zenshū*, full NDL scan and contents: https://commons.wikimedia.org/wiki/File:NDL891638_%E6%B5%AA%E8%8A%B1%E7%AF%80%E4%B8%80%E3%83%88%E7%AF%80%E5%85%A8%E9%9B%86.pdf
 - NDL scan metadata / publication date May 1912 / contents: https://www.ndl.go.jp/
 - 1914 Yamato On-ei newspaper reproduction: https://www.arc.ritsumei.ac.jp/download/ar/ar23-2/02/ar23-2-02ho.pdf
+
+
+### F. Wider discography and genre chronology: the Gishi cycle on records
+
+A useful scholarly control now establishes that the Akō Gishi revenge narrative entered the commercial phonograph medium earlier than the specific Naramaru Yamato item documented above:
+- Henry D. Smith, “The Media and Politics of Japanese Popular History: The Case of the Akō Gishi” (2006), states that **the first record of a Gishi tale was issued in August 1910**, with many others following over the next several years. He notes the physical constraint of roughly three minutes per side, which meant that recorded Naniwabushi often captured only a segment of a much longer narrative, presuming listeners already knew the story.
+- This is a scholarly chronology, not yet an identification of the August 1910 record's title, performer, label, catalogue number or matrix. Do not attribute it to Naramaru or Kumoemon without the cited primary discographical evidence.
+- The same study describes the Gishi boom as drawing on the flourishing kōdan–Naniwabushi storytelling lineage and stresses the political ambiguity of the story's modern uses. That is important editorial context: the performance tradition was not a neutral transcript of the 1701–03 event, and the later “loyalty” reading should not erase its revenge plot or its different political interpretations.
+- Alison Tokita's study of Naniwabushi genre classification describes Gishi-den as a kōdan-derived series whose content type is revenge (*ada-uchi*), with loyalty and pathos among its themes. She notes that Naniwabushi drew heavily on kōdan narrative material, literary adaptations and scripts, and that Kumoemon (1873–1916) helped transform the genre into a stage format with moral and patriotic messaging. This supports the genre-level classification, but does not prove that every specific disc is a traditional composition under the project's author/provenance gate.
+- A 78MUSIC listing documents a distinct **Yoshida Naramaru, Nipponophone 15139-A/B**, dated July 1923: **義士の討入** (A) and **義士の引揚** (B). It is a firm pre-1926 issue lead, but it is not the same as the 1914 Yamato On-ei disc unless master comparison proves otherwise.
+- A current second-hand listing describes a prewar Victor 52486 two-part **義士の討入 上下** by third Yoshida Naramaru. This is only a discovery lead: seller metadata is not reliable date or matrix evidence, and the issue may be later than the cutoff. Do not admit it as a candidate until an authoritative catalogue or physical label is checked.
+
+Sources:
+- Henry D. Smith, “The Media and Politics of Japanese Popular History: The Case of the Akō Gishi,” pp. 85–86: https://www.columbia.edu/~hds2/pdf/2006_Ako_Gishi_media_and_politics.pdf
+- Alison Tokita, “The narrative worlds of contemporary *naniwa-bushi* (*rōkyoku*),” especially pp. 19–20: https://rijtm.kcua.ac.jp/pub/document2018-/publications/bulletin/15/kiyou15_tokita.pdf
+- 78MUSIC Nipponophone issue listing, 15139-A/B, July 1923: https://www.78music.jp/other5.html
+- Secondary-market listing for Victor 52486 (discovery only): https://auctions.yahoo.co.jp/search/search/78%E5%9B%9E%E8%BB%A2sp%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/0/
+
+Decision: this strengthens the Japanese Gishi/Naniwabushi research strand as a pre-1926 commercial recording ecosystem, not yet a cleared master. The 1910 first-issue identity remains unknown; the 1914 Yamato Naramaru disc remains a high-priority lead; the 1923 Nipponophone 15139-A/B is a separate documented issue; Victor 52486 remains unverified.
