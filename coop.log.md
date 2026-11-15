@@ -591,3 +591,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 ## 2026-11-15 — ChatGPT (Plaatje archive date versus issued take)
 - Clarified that Wits ZA HPRA A1742-1 is catalogued with date 16 October 1923, while Flat International's matrix-based reconstruction identifies “A Band of Hard-Pressed Men Are We” (Bb3641-3, Zonophone 4169) as a retake recorded on 23 October 1923. The Wits item may group tracks from both sessions, but the digital file's source/take has not been matched. Do not treat the collection/item date as the exact date for this specific issued take.
 - Africa note correction commit: 315526a18dfc63f8b3e8c87eff0bdfeaca619b50.
+
+## 2026-11-15 — ChatGPT (Yoruba “Orin Ofo” tonal/genre qualification)
+- Re-examined the unmarked title **ORIN OFO** (Zonophone 3963, matrix Yy7461-1, 7 Dec 1925). The earlier note's translation as likely “song of loss” was too confident.
+- Crowther's 1852 dictionary gives unmarked *Ofo* senses including emptiness and loss/calamity/damage. Modern Yoruba references distinguish **òfò** (loss) from **ọ̀fọ̀** (incantation). Scholarship documents *ọ̀fọ̀* as a specific verbal/ritual genre. Afrodisc calls the recording “Lament,” but gives no text or tone marks. The discography's label and a possible loss-reading are not proof of the recorded words.
+- Updated Africa note: **HIGH-PRIORITY TEXTUAL LEAD / NOT YET TRANSLATED / NOT A CANDIDATE**; preserve the unmarked catalogue title and do not add tones or translate until the record is heard and reviewed by a Yoruba speaker/scholar.
+- Updated global map to state the lexical ambiguity.
+- Sources: Crowther 1852 https://upload.wikimedia.org/wikipedia/commons/6/64/A_vocabulary_of_the_yoruba_language.pdf ; Fatunmbi glossary https://pressbooks.pub/africanamericanreligionsifa/back-matter/appendix/ ; Idayat & Táíwò 2018 https://www.academia.edu/94018305/Movement_in_O_fo_Yoru_ba_incantation ; Adeleke 2013 https://www.nigerianjournalsonline.com/index.php/ajrma/article/download/1898/1855 ; Olaleye & Adeyeye 2020 https://fpiwitedjournal.federalpolyilaro.edu.ng/administrator/docs/9466792.pdf ; Afrodisc https://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-3926-3990/ .
+- Africa note commit: aa55eca2f664411b5d8d4fc2401aff7b26488c79.
+- Global map commit: b497cf3437db62db3d7a86828cd67f66a1629e7e.
