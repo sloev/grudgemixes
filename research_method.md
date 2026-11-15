@@ -233,3 +233,12 @@ Seek an original Vocalion X-9560 pressing or high-resolution photographs of both
 - Nichibunken's general archive guide states all label images are open while sound access depends on rights term; use label-image metadata to pursue exact identifiers, but do not claim inspection when page retrieval is blocked.
 - Keep 1914 Yamato *Gishi no Uchiiri* B high-priority lead; 1923 Nipponophone 15139-A/B is a separate issue; Royal 1853 is undated contextual; Kumoemon 519319 remains distinct. No candidate promotion, audio playback, physical inspection, contact or rights clearance.
 - Next: inspect Royal 1853 label image and search Nichibunken's archive for the exact Naramaru *Gishi no Uchiiri* and Royal 1645 records; obtain a legible Yamato label/catalogue/matrix and the 1914-06-19 *Osaka Mainichi* issue.
+
+
+## 2026-11-15 continuation — Royal 1645 institutional inventory confirmation
+
+- Re-read the cooperation log, global map, East Asian screening dossier and canonical Naramaru dossier before continuing.
+- Kushiro Municipal Museum's 1981 inventory row 166 lists 1645 (one-sided), 「赤穂義士討入」, with performer by ditto from row 155 Yoshida Naramaru and company by ditto from row 165 Royal. Row 167 repeats the title/performer/company but has no catalogue number; treat it as a second inventory entry/copy of unknown identifier. The introduction explains ditto conventions and states the 1,347-disc group was transferred from Kushiro Municipal Library in April 1979.
+- 78MUSIC independently lists 1645 as Naramaru's *Akō Gishi Uchiiri* with eagle-front notation. Physical existence and title/performer/imprint are A — VERIFIED at inventory level. No release date, matrix, label photo, audio, transcript or rights determination; chronology remains unresolved/C. Do not infer pre-1926 from catalogue number.
+- Keep distinct from 1914 Yamato On-ei, Royal 1853, Royal 1651, Kumoemon Lyrophone 70937–70940 and July 1923 Nipponophone 15139-A/B.
+- Next: request item-level current custody/accession and label/runout photos from Kushiro; locate a matching Nichibunken image; establish chronology before candidate promotion.
