@@ -641,3 +641,13 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Refined the candidate note's taxonomy to personal/calculated revenge after rejection, with betrayal as the enabling act and collective harm as consequence. The exact Homocord recording's lyrics/performance remain unheard.
 - Sources: Albis International https://www.albis-international.de/dokumente/orient_im_plattenschrank.pdf ; dissertation https://univerlag.uni-goettingen.de/bitstream/handle/3/isbn-978-3-86395-630-1/lukas_diss_theater.pdf?isAllowed=y&sequence=1 ; Frankfurt 1897 score https://sammlungen.ub.uni-frankfurt.de/judaicaffm/download/pdf/2032154 ; LOC Heskes finding aid https://findingaids.loc.gov/repositories/15/resources/7111 .
 - Candidate note commit: 16879aea1fdf0edd033ac52143997836d07ece82.
+
+
+## 2026-11-15 — ChatGPT (Homokord catalogue holdings and dating systems)
+- Identified four primary Smithsonian trade-catalogue objects for Homokord/Homophone: September 1913 new-record list (call 31817), 1913–14 10"/12" catalogue (31818), January 1914 Homophone list (31819), and 1914 double-sided catalogue (31820). Smithsonian also describes a four-piece Homokord collection with 1913/14 record lists. Contents have not yet been inspected, so no.1118's presence remains unconfirmed.
+- NYPL's Record Company Catalogs and Ephemera finding aid lists a Homokord general catalogue for 1921 (box 356/folder 10), another primary-source route.
+- Added caution that Homokord recording-date codes are read from the disc mirror/runout, not inferred from catalogue number. Specialist sources describe different code conventions for different eras; do not decode without the actual label and matrix, and distinguish recording date from stamper/pressing date.
+- Noted conflicting secondary chronology for the Homophon-to-Homokord naming transition (1907, 1908, or 1911 in different accounts). Avoid assigning the issue date from the spelling “Homocord” in a later secondary discography.
+- Updated research/candidate-papus-rache-bar-kochba.md; status remains **LEAD / NOT VERIFIED / NOT CLEARED**.
+- Sources: Smithsonian https://collections.si.edu/search/results.htm?q=%22Homokord+Records%22 ; NYPL https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/rha185446.pdf ; GfHT https://www.phonomuseum.at/wp-content/uploads/2017/05/diskographie_handbuch.pdf ; Lotz https://www.lotz-verlag.de/Online-Disco-Homocord-Liliput.html ; Surrey https://www.surrey.ac.uk/early-british-disc-record-labels-1898-1926/a-z/h ; RILM https://rme.rilm.org/articles/ers01688/1.0/ers01688 .
+- Candidate note commit: 56b3b9453a0e672163c81ed61fd359ebdb9fbe77.
