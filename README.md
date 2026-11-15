@@ -179,3 +179,11 @@ The revised evidence framework and first crosswalk of earlier leads are recorded
 ### Mix-building flexibility (proposal)
 
 The project is testing a more flexible mix architecture: core grievance-response tracks, narrative tracks that capture one stage of a larger story, and context tracks that illuminate the grievance's memory or aftermath. This changes sequencing, not historical or evidence standards. The pre-1926 core remains distinct from any separately labelled later afterlife track. See [the mix-building proposal](research/mix-building-flexibility-proposal-2026-11-15.md); it remains subject to editorial approval.
+
+## Global research balance
+
+The project is international in scope and must not default to North American or Western European recording histories, archives, catalogues, languages or musical categories. Discovery should actively cover South Asia; the Arab East and North Africa; Anatolia, the Ottoman world and diasporas; East and Southeast Asia; Latin America and the Caribbean; Sub-Saharan Africa and the Indian Ocean; Eastern Europe and the Balkans; and Indigenous and diasporic collections. These are research directions, not quotas: do not add weak entries for superficial balance.
+
+Search local-language sources and regional archives, preserve original scripts and local genre terms, and explain transliteration and translation uncertainty. Colonial recording companies and Western collecting institutions are useful sources but are not the default arbiters of local musical meaning. Distinguish a work's first appearance from the date of a specific recording, and distinguish a local performance tradition from a commercially issued master.
+
+Recent additions illustrate this correction: Egyptian economic-grievance repertoire (GM-EG-001) and Bengali anticolonial recording history (GM-IN-001). Further active routes include the AMAR Foundation's Egyptian/Levantine 78 collection, the National Phonothèque of Tunisia, Indian sound archives and regional scholarship, and research on Ottoman Armenian diaspora records.
