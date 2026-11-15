@@ -170,3 +170,20 @@ New sources:
 - Popsike auction record for Beka-Grand 10872: https://www.popsike.com/Yiddish-78-rpm-Beka-Grand-Josef-Fuchs-Der-Bucher-Leon-Rosenstein-Zu-der-Chipe/165477633103.html
 
 Decision remains **LEAD — NOT VERIFIED / NOT CLEARED**. Composition-side evidence is now strong. Recording-side eligibility still requires primary proof of Homocord 1118's exact identity and pre-1926 issue/fixation, original label/runout and exact archival audio transfer with rights provenance.
+
+
+## Further verification — Homophon/Homokord matrix-date rule and LOC access route (2026-11-15)
+
+A more authoritative technical reference now resolves part of the earlier dating-code uncertainty:
+
+- The Gesellschaft für Historische Tonträger's *Diskographie-Handbuch* states that **all acoustic Homophon/Homokord records carry an alphanumeric recording-date code in the mirror/runout**. It gives the pattern as month letter + day numeral + year letter; its example “E 8 C” means 8 May 1923. The guide explains that the year sequence runs in reverse from V and that W was introduced for 1926. This is recording-date evidence, not merely a catalogue or pressing date. A physical Homokord/Homocord 1118 copy should therefore be inspected for this code before trying to date it from the catalogue number.
+- The same handbook gives this corporate/label sequence: Homophon founded in 1905; renamed Homokord in 1907; company name returned to Homophon in 1912 while the principal label retained Homokord; label spelling changed to **Homocord in 1924**; electrical recording began 1 March 1926. This makes “Homocord 1118” potentially compatible with a 1924–25 acoustic recording, but does not prove it: the secondary Albis transcription may normalize the label spelling, and the matrix/date stamp remains absent. The earlier note's conflicting secondary changeover dates should be superseded by this more detailed specialist handbook while retaining the caveat that a primary disc check is decisive.
+- Practical consequence: if an original Homocord-labelled 1118 disc is found and its runout code decodes to 1924 or 1925, that would strongly resolve the recording-date gate; if the code is W or later, it fails the project's pre-1926 master-fixation requirement. Do not mistake any separate stamper/pressing date for the recording date.
+- The Library of Congress explains that its recorded-sound holdings are not comprehensively catalogued online, that title is the primary access point, and that its AVCMS collections database is internal to the Recorded Sound Research Center. The Heskes finding aid's blank AVCMS number therefore cannot be resolved by ordinary public catalogue searching alone. A targeted request to LOC Recorded Sound Reference Center should ask staff to check the Heskes collection inventory/AVCMS for “Papus,” “Bar Kochba,” “Papus Rache,” and any audio associated with the score/recording; this is a real archive lead, not evidence that such a recording is held.
+
+New sources:
+- Gesellschaft für Historische Tonträger, *Diskographie-Handbuch*, section 4 “Datierungssystem der Firma HOMOPHON,” especially pp. 70–71 / PDF lines 2634–2658: https://www.phonomuseum.at/wp-content/uploads/2017/05/diskographie_handbuch.pdf
+- Library of Congress, “How can I find sound recordings held by the Library of Congress?” (updated 2026): https://ask.loc.gov/recorded-sound/faq/304422
+- LOC Irene Heskes Collection finding aid: https://findingaids.loc.gov/repositories/15/resources/7111
+
+**Decision unchanged:** **LEAD — NOT VERIFIED / NOT CLEARED**. The highest-value next action is now a physical-copy search for Homocord 1118 and a targeted LOC AVCMS inventory inquiry. No exact matrix, date code, raw audio transfer or commercial rights evidence has yet surfaced.
