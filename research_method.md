@@ -209,3 +209,15 @@ Seek an original Vocalion X-9560 pressing or high-resolution photographs of both
 - Added separate later-generation/post-cutoff control: Taihei 6036–6037, 1935, third-generation Yoshida Naramaru; do not conflate with Royal 1651. CiNii's four-disc Taihei 10254–10257 record is separate and date-unspecified.
 - Canonical Japan dossier and global map now state the corrected company-column reading and evidence dimensions: physical recording existence A at inventory level; thematic fit B; chronology B probable; audio/authenticity and rights unresolved; overall C until exact recording content is linked.
 - Next actions: ask Kushiro Municipal Museum for item-level present custody/accession, label/runout photos, condition and audio/access details; pursue a lawful copy/reading route for NDL KH13-L245; continue separate Nichibunken item enquiries. If no access route materializes, move to a different high-value regional thread.
+
+
+
+
+## 2026-11-15 continuation — Kumoemon thematic/transfer audit
+
+- Read the current cooperation log, execution state, global map and East Asian screening file before selecting the next thread.
+- Exact Nichibunken item 519319 is documented as Kumoemonnyūdō, Lyrophone 70937–70940, two discs/four sides, May 1912, with laser-turntable digitization and internet-open audio. Do not claim direct playback: the item page was not retrievable in this session.
+- Kitagawa's 2017 peer-reviewed study analyzes the opening of Kumoemon's Lyrophone E1009 (1912); the Japan Arts Council's later performance synopsis places the farewell on the eve of the raid. These sources establish opening text and plot context, not a complete transcript of all four sides.
+- Columbia's official 2006 Kumoemon reissue and CiNii's statement that its booklet contains the complete listening text create a practical text-access route. Inspect that booklet before making a final thematic judgement.
+- Keep Kumoemon at **C — LEAD / contextual**: collective-revenge setting is not enough; no complete recorded text yet demonstrates the grievance-response mechanism. No audio playback, physical inspection, rights review or status promotion.
+- Next research action: obtain/inspect the reissue's full listening text and compare it to all four Nichibunken sides. If it remains farewell/loyalty, stop repeating searches on this item and shift the thematic shortlist to Naramaru's direct *Gishi no Uchiiri* recordings (1914 Yamato On-ei; 1923 Nipponophone 15139-A/B).
