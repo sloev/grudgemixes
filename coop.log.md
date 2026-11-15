@@ -807,3 +807,13 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Revised 1651 from C undated lead to B — PROBABLE chronology, conditional on physical label confirmation. No exact year, matrix or contemporary ad located. 1912 anthology remains repertoire/text evidence, not recording date. Keep A/verified reserved for physical label plus audio/text inspection.
 - Updated detailed Japanese note, re-audit and global map.
 - Sources: https://www.78music.jp/other5.html ; https://78music.jp/hNipponophone.html.
+
+
+## 2026-11-15 — ChatGPT (Royal 1651 label chronology cross-check)
+
+- Rechecked the 78MUSIC section heading, not merely the record-number range: 1651 is explicitly in “Royal Record — red-label eagle mark,” with the catalogue note “one-sided / front-facing eagle.”
+- Added independent National Diet Library label chronology: Royal belongs to the one-sided label group through 1915; from 1915 the company shifted to double-sided Nipponophone. 78MUSIC's label history separately says Royal was discontinued in Taishō 4 (1915). This makes pre-1916 probable if the surviving disc matches the catalogue's Royal red-eagle classification.
+- Corroborated the Naramaru sequence 1645–1654. Sequence supports identification, not dating.
+- Kept 1651 at B — PROBABLE; no exact year, matrix, physical label inspection or audio/text collation. Explicitly distinguished the 1912 printed text witness from recorded wording.
+- Added later Taihei 1935 and undated Taihei III items as separate negative controls, not conflated with Royal 1651.
+- Sources: https://www.78music.jp/other5.html ; https://crd.ndl.go.jp/reference/entry/index.php?id=2000030112&page=man_view ; https://www.78music.jp/hNipponophone.html ; https://78music.jp/lisitTop.html .
