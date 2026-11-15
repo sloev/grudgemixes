@@ -10,6 +10,18 @@
 - **Contemporary issue evidence:** *The Talking Machine World*, 15 June 1925, p. 167, lists Okeh 40374 with both titles under “Old-Time Tune Records,” described as singing with banjo accompaniment by Land Norris. This establishes commercial listing by June 1925.
 - **Audio:** DAHR's Joe Bussard Collection page explicitly lists this track among recordings digitized by the Dust-to-Digital Foundation and made available online through DAHR. Following the collection-page link resolves to the correct DAHR matrix record **2000200840** (not 2000200717; the latter URL in the earlier dossier was incorrect). The DAHR record itself returned HTTP 403 in this research pass, so playback, download, transfer details and rights terms could not be inspected. No audio audition or transfer comparison was completed. Smithsonian's physical-object record is not itself a listening copy.
 
+
+## Newly identified song-family context (not yet linked to the exact master)
+
+A useful lead emerged from comparing the title with early song-family references:
+
+- A specialist folk-song blog groups the Land Norris 1924 Okeh 40374 recording under the wider **“Poor Mourner” / “Mourner, You Shall Be Free” / “You Shall Be Free”** family, alongside the 1896 Standard Quartette, 1898 Cousins and DeMoss, 1902 Dinwiddie Colored Quartet, 1911 Fisk Jubilee Quartet and later Uncle Dave Macon recordings. It also reproduces E. C. Perrow's 1915 “Oh, Mourner!” text, whose 1909 Mississippi field-note source includes comic verses about stealing food, calling “police,” and avoiding work. This is a secondary song-family crosswalk, not a verified transcript or proof that every listed recording shares the same text.
+- The same source places Land Norris immediately after the Fisk Jubilee Quartet entry, and before Uncle Dave Macon's 1926 “Shout Mourner You Shall Be Free.” A Mudcat discussion independently reports that Meade's *Country Music Sources* indexes Land Norris's title under “Mourner, You Shall Be Free,” but this is a forum report of a secondary reference, not direct evidence from Meade itself.
+- The Ballad Index's “Talking Blues” entry describes a humorous, floating-verse song tradition and cross-references “Mourner, You Shall Be Free (Moanish Lady).” It separately cites Harbin's “Oughta Been Arrested” (part “Two Little Niggers Black as Tar,” part “Talking Blues,” part other material). This may explain the title/verse family but does **not** yet identify the exact Land Norris performance as that text.
+- These sources make a humorous floating-verse / minstrel-derived song-family connection more plausible than a straightforward serious call for legal punishment. They do not establish the recorded lyric, and they raise a further contextual obligation: any future liner note must address the Black-origin spiritual/folk material, its later commercial/minstrel transformations, and racist caricature without treating those layers as interchangeable.
+
+**Current interpretation:** still C — TITLE-LEVEL LEAD. The likely family context is now more informative, but there is no exact lyric-to-master link. Do not classify as punishment, accusation or grievance until the audio or an exact contemporaneous text is checked.
+
 ## Thematic question
 
 Possible editorial roles if supported by the lyric:
@@ -38,7 +50,8 @@ The title alone cannot distinguish these. Until the recording or a contemporary 
 2. Listen to the full recording and transcribe the words before assigning a grievance category.
 3. Inspect a physical Okeh 40374 label/runout or a high-resolution image to settle matrix suffix and date discrepancy.
 4. Locate any contemporary printed lyric or source song, and compare it to the recording.
-5. Promote to a B candidate only if the lyric clearly expresses a grievance response, punishment demand, accusation or other relevant mechanism.
+5. Check E. C. Perrow (1915), Dorothy Scarborough (1925), Newman I. White (1928), and Harbin's *Parodology* #10, pp. 10–11; establish whether the Land Norris title maps to “Oughta Been Arrested,” “Talking Blues,” or the broader “Mourner” cluster.
+6. Promote to a B candidate only if the exact recorded lyric clearly expresses a grievance response, punishment demand, accusation or other relevant mechanism.
 
 ## Sources
 
@@ -47,3 +60,6 @@ The title alone cannot distinguish these. Until the recording or a contemporary 
 - DAHR matrix detail: https://adp.library.ucsb.edu/index.php/matrix/detail/2000200840
 - *The Talking Machine World*, 15 June 1925, p. 167: https://www.worldradiohistory.com/Archive-Talking-Machine/20s/Talking-Machine-1925-06.pdf
 - Praguefrank's Country Music Discography, Land Norris sessionography (secondary): https://countrydiscography.blogspot.com/2012/06/land-norris.html
+- Joop's Musical Flowers, “Poor Mourner / Moanish Lady / You Shall Be Free” song-family crosswalk (secondary): https://jopiepopie.blogspot.com/2017/02/poor-mourner-1896-moanish-lady-1927-you.html
+- Ballad Index, “Talking Blues” (cross-references “Mourner, You Shall Be Free” and Harbin's “Oughta Been Arrested”): https://balladindex.org/Ballads/LoF224.html
+- Mudcat, “Oh, Mona” discussion reporting Land Norris under Meade's “Mourner, You Shall Be Free” entry (forum/secondary report): https://mudcat.org/thread.cfm?threadid=38691
