@@ -107,3 +107,22 @@ A closer reading of the annotated Gimpel's Theatre discography, reproduced by Fo
 **Decision:** retain Homocord/Homokord 1118 “Papus Rache” as a separate **LEAD**. Retain Beka-Grand 10872 as a distinct Bar Kochba-labelled recording, not an alternate title for the Papus aria. No eligibility promotion. Next checks: listen to Beka audio against the fragment; locate label/runout and contemporary catalogue; search “Di nekome fun Papus” under Yiddish, German and transliterated variants; establish Homocord 1118 matrix, issue/fixation date and exact audio object.
 
 Source: Forgotten Galicia, “Songs from Gimpel’s Lemberg Yiddish Theatre 1906–1910,” tracks 20 and 21: https://forgottengalicia.com/songs-from-gimpels-lemberg-yiddish-theatre-1906-1910/.
+
+
+## Further verification — catalogue cross-check and Papus's motive (2026-11-15)
+
+Two new sources add useful precision while leaving the exact record unresolved:
+
+- The Albis discography's *Bar Kochba* section separately lists **“Bucher,” Carl Gutentag with orchestra, Homocord 11184** and **“Papus Rache,” Carl Gutentag with orchestra, Homocord 1118**. It also lists Jakob Fuchs's *Bar Kochba* under Beka 10872 and Scala 10872. This strengthens the case that the compiler intended Homocord 1118 as a distinct Papus-titled item, not the Beka 10872 / Jacob Fuchs “Der Bucher” recording. However, it remains one secondary discographical list; the apparent related numbering (11184 vs 1118) must be checked against original labels and catalogues, not interpreted as proof of a common session or date.
+- A German-language dissertation on Yiddish theatre and Zionism provides a more specific plot interpretation: Papus first betrays the Jewish community to the Romans out of love, hoping to secure Dina for himself; when she continues to reject him, he acts out of revenge. This makes the play's Papus a personal, rejected-suitor avenger whose betrayal also harms the collective. It is a fictional theatrical mechanism, not evidence of an ancient historical event. It also cautions against describing his entire betrayal as revenge from the outset: the source distinguishes the initial motive (desire) from the later motive (revenge).
+- The 1897 Frankfurt piano score independently lists “Papus' Revenge Song” as No. 5 in Volume 3. The Library of Congress Heskes finding aid separately lists “Dinah's welcome to Jerusalem: Papus revenge song,” circa 1900s, by A. Goldfaden, arranged by H.A. Russotta. These establish the number's circulation in printed music, not the identity or date of Homocord 1118.
+
+**Taxonomic refinement:** calculated/personal revenge within fictional drama, following romantic rejection; betrayal is the enabling act and collective harm is a consequence. The exact words/music of the Homocord performance have not been heard, so do not claim its lyric text or performance tone matches the plot summary.
+
+New sources:
+- Albis International, “Zusammenstellung der Schallplatten mit Themen aus dem Orient,” *Bar Kochba* listing: https://www.albis-international.de/dokumente/orient_im_plattenschrank.pdf
+- German-language dissertation, discussion of Papus's motives: https://univerlag.uni-goettingen.de/bitstream/handle/3/isbn-978-3-86395-630-1/lukas_diss_theater.pdf?isAllowed=y&sequence=1
+- University Library Frankfurt, 1897 score contents: https://sammlungen.ub.uni-frankfurt.de/judaicaffm/download/pdf/2032154
+- Library of Congress, Irene Heskes Collection finding aid: https://findingaids.loc.gov/repositories/15/resources/7111
+
+Decision remains **LEAD — NOT VERIFIED / NOT CLEARED**. Required next evidence remains original Homocord 1118 label/runout, primary catalogue/issue date, exact audio and transfer provenance, plus lyric/arrangement comparison.
