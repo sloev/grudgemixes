@@ -12,7 +12,7 @@
 - Label/catalogue: Columbia 15033-D, B side paired with “Old Joe Clark”
 - Matrix: 140016
 - Recording date: 11 September 1924, New York City, according to Columbia numerical discography.
-- DAHR matrix record: https://adp.library.ucsb.edu/index.php/matrix/detail/ (matrix 140016; direct record identifier not yet located).
+- DAHR matrix record: direct record identifier not yet located; search the DAHR Columbia matrix index for 140016.
 - Columbia numerical discography: https://www.78discography.com/COL15000D.htm
 - Contemporary/collector issue listing: https://www.45cat.com/78rpm/78_list.php?li=10096
 - Ballad Index recording cross-reference: https://balladindex.org/Ballads/LE01.html
