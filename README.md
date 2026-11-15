@@ -30,6 +30,10 @@ The detailed, current rules are maintained in [METHODOLOGY.md](METHODOLOGY.md). 
 A **candidate** is worth investigating, not release-ready. Use evidence levels **A — VERIFIED RESEARCH CANDIDATE**, **B — PROBABLE CANDIDATE**, and **C — LEAD**. A promising title or narrative can be a C lead before an exact recording is found. Unknown authorship, inaccessible audio or unresolved rights do not automatically erase a lead; they remain explicit open fields. Raw archival transfers are preferred for production, while rights and commercial clearance remain independent and require human review.
 
 The thematic scope includes revenge, retaliation, punishment, defiance/resistance, accusation, protest and grievance, curses, feuds, spite, and collective or inherited grievance. Lament, betrayal and resentment are conditional: they need an additional accusation, demand, vow, refusal, answer or retaliatory/resistant intention. Generic sadness, anger, violence or an evocative title alone is not enough.
+## Research and audio retrieval workflow
+
+Research, source evaluation and track selection are handled in this repository; Grok handles retrieval of explicitly researched audio targets. The shared download destination and handoff rules are in [GROK_HANDOFF.md](GROK_HANDOFF.md), while [TRACK_MAPPING.md](TRACK_MAPPING.md) records the queue and file-retrieval status. A reported download is not an independently verified file or an automatic candidate promotion.
+
 ## Preferred archives and discovery sources
 
 Prioritize:
