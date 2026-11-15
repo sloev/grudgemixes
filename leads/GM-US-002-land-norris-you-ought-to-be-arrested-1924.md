@@ -6,9 +6,9 @@
 
 - **Performer / title / issue:** Land Norris, “You Ought to Be Arrested and Put in Jail,” paired with “Fox Chase in Georgia,” Okeh 40374.
 - **Carrier:** Smithsonian National Museum of American History describes a 10-inch shellac sound recording by Land Norris, manufacturer Okeh, recording date 1924, maker/catalogue number 40374; object ID 1996.0320.22094.
-- **Session / matrix:** UCSB's Discography of American Historical Recordings (DAHR) Joe Bussard Collection list gives the title, Okeh 40374, matrix 8701, session 31 August 1924. A specialist sessionography gives 26 August 1924 and matrix 8701-A. Preserve the five-day discrepancy; do not silently select one date. DAHR matrix page: https://adp.library.ucsb.edu/index.php/matrix/detail/2000200717 .
+- **Session / matrix:** UCSB's Discography of American Historical Recordings (DAHR) Joe Bussard Collection list gives the title, Okeh 40374, matrix 8701, session 31 August 1924. A specialist sessionography gives 26 August 1924 and matrix 8701-A. Preserve the five-day discrepancy; do not silently select one date. DAHR matrix page: https://adp.library.ucsb.edu/index.php/matrix/detail/2000200840 .
 - **Contemporary issue evidence:** *The Talking Machine World*, 15 June 1925, p. 167, lists Okeh 40374 with both titles under “Old-Time Tune Records,” described as singing with banjo accompaniment by Land Norris. This establishes commercial listing by June 1925.
-- **Audio:** DAHR's Joe Bussard Collection page lists the track among recordings digitized by the Dust-to-Digital Foundation and made available through DAHR. The DAHR matrix page was not successfully opened in this research pass, and no audio audition or transfer comparison was completed. Smithsonian's physical-object record is not itself a listening copy.
+- **Audio:** DAHR's Joe Bussard Collection page explicitly lists this track among recordings digitized by the Dust-to-Digital Foundation and made available online through DAHR. Following the collection-page link resolves to the correct DAHR matrix record **2000200840** (not 2000200717; the latter URL in the earlier dossier was incorrect). The DAHR record itself returned HTTP 403 in this research pass, so playback, download, transfer details and rights terms could not be inspected. No audio audition or transfer comparison was completed. Smithsonian's physical-object record is not itself a listening copy.
 
 ## Thematic question
 
@@ -34,7 +34,7 @@ The title alone cannot distinguish these. Until the recording or a contemporary 
 
 ## Next actions
 
-1. Open the DAHR matrix page through a normal browser and establish whether its audio is playable/downloadable; record the stated transfer provenance and any rights terms.
+1. Open DAHR matrix record 2000200840 in a normal browser or through an authorized UCSB access route; establish whether its audio is playable/downloadable and record the stated transfer provenance and any rights terms.
 2. Listen to the full recording and transcribe the words before assigning a grievance category.
 3. Inspect a physical Okeh 40374 label/runout or a high-resolution image to settle matrix suffix and date discrepancy.
 4. Locate any contemporary printed lyric or source song, and compare it to the recording.
@@ -44,6 +44,6 @@ The title alone cannot distinguish these. Until the recording or a contemporary 
 
 - Smithsonian National Museum of American History, object 1996.0320.22094, “Fox Chase in Georgia; You Ought to Be Arrested and Put in Jail”: https://collections.si.edu/search/results.htm?q=%22Norris%2C+Land%22
 - UCSB Library, *Discography of American Historical Recordings*, Joe Bussard Collection list: https://www.library.ucsb.edu/joe-bussard-collection-dahr
-- DAHR matrix detail: https://adp.library.ucsb.edu/index.php/matrix/detail/2000200717
+- DAHR matrix detail: https://adp.library.ucsb.edu/index.php/matrix/detail/2000200840
 - *The Talking Machine World*, 15 June 1925, p. 167: https://www.worldradiohistory.com/Archive-Talking-Machine/20s/Talking-Machine-1925-06.pdf
 - Praguefrank's Country Music Discography, Land Norris sessionography (secondary): https://countrydiscography.blogspot.com/2012/06/land-norris.html
