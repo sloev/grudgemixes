@@ -221,3 +221,15 @@ Seek an original Vocalion X-9560 pressing or high-resolution photographs of both
 - Columbia's official 2006 Kumoemon reissue and CiNii's statement that its booklet contains the complete listening text create a practical text-access route. Inspect that booklet before making a final thematic judgement.
 - Keep Kumoemon at **C — LEAD / contextual**: collective-revenge setting is not enough; no complete recorded text yet demonstrates the grievance-response mechanism. No audio playback, physical inspection, rights review or status promotion.
 - Next research action: obtain/inspect the reissue's full listening text and compare it to all four Nichibunken sides. If it remains farewell/loyalty, stop repeating searches on this item and shift the thematic shortlist to Naramaru's direct *Gishi no Uchiiri* recordings (1914 Yamato On-ei; 1923 Nipponophone 15139-A/B).
+
+
+
+
+## 2026-11-15 continuation — Naramaru 1914 and archive object cross-check
+
+- Re-read the cooperation log, East Asian screening file, global map and canonical Japan dossier first.
+- Onishi 2023 reproduces a contemporary 1914-06-19 *Osaka Mainichi* Kyoto-Shiga supplement report that Naramaru's *Gishi no Uchiiri*, *Genzo Tokkuri no Wakare* and *Nanbuzaka* were recorded by Tokyo Yamato On-ei and sold under the horse-mark. Fig. 5 reproduces a genuine Yamato/Naramaru label. The image does not reveal the exact title, catalogue number or matrix; treat title-to-disc linkage as probable, not proven.
+- Nichibunken item 525671 is a separate Yoshida Naramaru Royal Record 1853, *Akagaki Genzo Tokkuri no Wakare*, one-sided, undated, 3:42 A-side, poor playback condition. Its existence and imprint are documented, but it is not the 1912 Kumoemon Lyrophone set and not direct evidence of a grievance/retaliation passage. Keep C contextual.
+- Nichibunken's general archive guide states all label images are open while sound access depends on rights term; use label-image metadata to pursue exact identifiers, but do not claim inspection when page retrieval is blocked.
+- Keep 1914 Yamato *Gishi no Uchiiri* B high-priority lead; 1923 Nipponophone 15139-A/B is a separate issue; Royal 1853 is undated contextual; Kumoemon 519319 remains distinct. No candidate promotion, audio playback, physical inspection, contact or rights clearance.
+- Next: inspect Royal 1853 label image and search Nichibunken's archive for the exact Naramaru *Gishi no Uchiiri* and Royal 1645 records; obtain a legible Yamato label/catalogue/matrix and the 1914-06-19 *Osaka Mainichi* issue.
