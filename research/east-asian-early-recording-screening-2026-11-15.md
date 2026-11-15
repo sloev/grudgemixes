@@ -358,3 +358,20 @@ The sequence is now corroborated more tightly: 1645 *Akō Gishi Uchiiri*; 1646�
 **Reassessment:** B — PROBABLE chronology remains justified, now with stronger independent support for the pre-1915 Royal label chronology. It is still conditional on the surviving disc actually bearing the red-label eagle Royal mark described by the catalogue. Do not state a precise year. A physical label photograph or archival inspection is still needed to verify the catalogue's classification against the disc in hand; matrix/runout and audio/text remain uninspected. The 1912 Naramaru printed text establishes the repertoire and thematic fit, not the recording date or exact recorded wording.
 
 A useful negative control: 78MUSIC lists the later three-disc Taihei *Denchū Ninjō* as 1935, and CiNii/Nichibunken catalogues the separate four-disc Taihei set (Naramaru III) only as [19--]. Neither is the 1651 Royal item. https://www.78music.jp/taihei.html ; https://ci.nii.ac.jp/ncid/BB17753999 .
+
+
+### J. Physical-collection inventory corroborates Royal 1651 (Kushiro Municipal Museum, 1981)
+
+A much stronger independent check has surfaced. Hirotsugu Satō's “Notes on the Collection of Records in Kushiro Municipal Museum II” (Kushiro Municipal Museum Bulletin no. 8, 1981), inventory section, states that 1,347 records were transferred from Kushiro Municipal Library to the museum in April 1979 and then catalogued. In the Yoshida Naramaru entry sequence, the inventory lists:
+- no. 1645, *Akō Gishi Uchiiri*;
+- no. 1653, *Akō Gishiden*;
+- no. **1651, *Akō Gishiden, Denchū Ninjō*, one-sided, Royal**;
+- no. 1723–24, *Akō Gishiden, Hazama Jūjirō*;
+- no. 1650, *Akagaki Genzō*;
+- no. 1646 and 1648, *Akō Gishiden / Ōtaka Gengō*;
+- a second table separately records 1649 and 1653–54 as Royal.
+The table's performer cell uses ditto marks following the explicit “Yoshida Naramaru” row, so attribution is inherited from that row. The 1651 item is thus not merely a modern discographical reconstruction: a physical example was recorded in a municipal museum collection inventory by 1981.
+
+Primary source: Sato, “本館所蔵の音盤資料について（II）—坂井徳治氏収集資料を中心に—,” *釧路市立郷土博物館紀要* 8 (1981), pp. 18–19 (PDF pagination; web text lines 1526–1536; collection provenance lines 21–25): https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf .
+
+This corroborates the physical existence, issue number, title, one-sided format, performer-by-table-context and Royal attribution. It does **not** establish that the Kushiro specimen is the exact same label variant described by 78MUSIC as red-label/front-facing eagle, nor does the inventory give a release date, matrix, condition for this specific disc, or access/audio information. Combined with NDL's independently documented pre-1915 Royal one-sided label chronology, the case for pre-1926 issue is now strong and B — PROBABLE is secure; A still requires direct label/runout inspection and audio/text collation. Do not state an exact year.
