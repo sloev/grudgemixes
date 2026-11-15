@@ -40,6 +40,9 @@
 
 ### East and Southeast Asia
 - **Berliner Phonogramm-Archiv / Beka expedition:** the 1905–06 Beka expedition travelled from Constantinople to Yokohama and made over 1,600 recordings for markets including Turkey, Egypt, India, Burma, Singapore, Dutch East Indies, China and Japan. Surviving samples in the Hornbostel collection have been digitized and catalogued.
+- **Japan — Nichibunken Rōkyoku SP Record Digital Archive:** nearly 10,000 Naniwabushi/rōkyoku SP records, with disc images and selected playable audio; the corpus spans the Meiji 30s to Showa 30s. It is a high-value search route for Akō Gishi / Chūshingura and other revenge-story recordings. Audio is public only where copyright has expired; otherwise on-site access applies. https://www.nichibun.ac.jp/ja/db/category/rokyoku/ ; archive/about: https://kutsukake.nichibun.ac.jp/rsp/about/
+- **Korea — Alice Fletcher cylinders (1896):** six wax cylinders recorded in Washington, D.C., with Korean students are preserved by the Library of Congress. These are field/academic recordings, not commercial issues; do not confuse them with the unverified surviving-master claim for the 1899 Gamunjeong event. https://blogs.loc.gov/folklife/2023/04/the-alice-fletcher-korean-cylinder-recordings-a-small-part-of-d-c-history/
+- **China / Cantonese:** the Chinese Historical Society of Southern California has a 250-disc collection, mostly Cantonese opera 10-inch shellac discs, with a dated 1902 Victor item and later Golden Star titles. Early G&T/Edison commercial Cantonese recording campaigns began in 1903. https://chssc.libraryhost.com/repositories/2/resources/21 ; Yung Sai-shing, 2001: https://www.cuhk.edu.hk/ics/journal/articles/v41p511.pdf
 - **UCSB Häupl Collection:** includes Chinese, Afghan/Pashtun and other Asian commercial discs.
 - Search Japanese, Chinese, Korean, Burmese, Thai/Siamese, Malay, Javanese and other local-language labels and titles; verify script/transliteration variants.
 
