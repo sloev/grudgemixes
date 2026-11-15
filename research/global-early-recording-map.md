@@ -143,3 +143,10 @@ A digitized 1912 booklet (*Yoshida Naramaru Kōen Naniwabushi Ohakoshū*, reg=55
 A digitized M45/1912 booklet *Naniwabushi Meikyoku-sen* preserves Yoshida Naramaru's *Denchū Ninjō* passage: Asano is insulted, restrains himself to protect his retainers, finally attacks Ueno/Kira but fails, and the text explicitly frames the later 47 retainers' raid as avenging their lord. Strong thematic evidence for grievance → retaliation → revenge, but this is a printed witness, not a verified record transcript. Scan: https://upload.wikimedia.org/wikipedia/commons/c/c9/NDL891714_%E5%90%89%E7%94%B0%E5%A5%88%E8%89%AF%E4%B8%B8%E3%83%BB%E6%9D%B1%E5%AE%B6%E6%A5%BD%E9%81%8A%E6%B5%AA%E8%8A%B1%E7%AF%80.pdf.
 
 Two disc branches remain distinct: Nipponophone/Royal-era Yoshida Naramaru no. 1651 (78MUSIC; likely associated with Nichibunken parent BB17632622, but date/matrix/audio unverified); and a separate Taihei four-disc set by Yoshida Naramaru III, nos. 10254–10257, CiNii BB17753999, Nichibunken call nos. 05193/05195, date only [19--]. Neither recording can yet be placed in the pre-1926 core. Detailed research: research/japan-ako-gishi-yoshida-naramaru-royal-record.md.
+
+
+### Japan — Naramaru Akō cycle: 1912 anthology and exact 1651 discography entry
+
+NDL's May 1912 (Meiji 45.5) anthology *Naniwabushi Hitofushi Zenshū* (83 pp.; NDLBibID 000000515685) lists Naramaru performances of *Denchū no Jinshō*, *Ōtaka Gengō*, *Akagaki Genzō*, *Ōishi Yamashina-gaeri*, *Kanzaki Yūgorō*, *Hazama Jūjirō*, *Nanbuzaka Yuki no Wakare*, *Toiri* and *Amanoya Rihei*. Strong pre-1926 printed repertoire witness; not a recording date. Scan: https://commons.wikimedia.org/wiki/File:NDL891638_%E6%B5%AA%E8%8A%B1%E7%AF%80%E4%B8%80%E3%83%88%E7%AF%80%E5%85%A8%E9%9B%86.pdf.
+
+78MUSIC lists exact Nipponophone/Royal no. 1651 *Akō Gishi-den: Denchū Ninjō*, Osaka Yoshida Naramaru, one-sided eagle label, but gives no release date. Keep separate from Taihei 10254–10257 (Naramaru III, date [19--]) and Taihei 6036–6037 (Naramaru III, 1935, outside core). Physical label/matrix and dated release evidence still needed. Detailed research: research/japan-ako-gishi-yoshida-naramaru-royal-record.md.
