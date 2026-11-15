@@ -170,3 +170,8 @@ See [`research/global-early-recording-map.md`](research/global-early-recording-m
 ## Methodology transition and lead audit
 
 The revised evidence framework and first crosswalk of earlier leads are recorded in [METHODOLOGY.md](METHODOLOGY.md) and [research/re-audit-existing-leads-2026-11-15.md](research/re-audit-existing-leads-2026-11-15.md). The crosswalk preserves prior candidate notes and distinguishes B-level active research candidates from C-level leads; none is commercially cleared.
+
+
+### Mix-building flexibility (proposal)
+
+The project is testing a more flexible mix architecture: core grievance-response tracks, narrative tracks that capture one stage of a larger story, and context tracks that illuminate the grievance's memory or aftermath. This changes sequencing, not historical or evidence standards. The pre-1926 core remains distinct from any separately labelled later afterlife track. See [the mix-building proposal](research/mix-building-flexibility-proposal-2026-11-15.md); it remains subject to editorial approval.
