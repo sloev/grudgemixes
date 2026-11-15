@@ -120,3 +120,11 @@ A second primary trade source adds useful market context. The November 1907 *Edi
 This corroborates that the Ignacio Parra and Heraclio Bernal records were part of a Mexico-facing commercial catalogue at least in November 1907. It also warns against assuming that absence from later U.S./European export catalogues means the records were withdrawn everywhere. It does not establish the exact original release date or prove a surviving copy.
 
 Source: *Edison Phonograph Monthly*, November 1907, “Mexican Records Cut Out”: https://npgallery.nps.gov/GetAsset/8edec098-f1cd-435d-94b3-e817e83ef167/original
+
+
+### Dating discrepancy for the Posada / “Ya la autoridad” broadside
+
+The same *Ya la autoridad echó garra al malvado Ignacio Parra* image and four-line refrain are dated differently by two institutional records:
+- El Colegio de México catalogues its two-page Vanegas Arroyo broadside as **1914**.
+- The Amon Carter Museum catalogues José Guadalupe Posada's zinc-etching print with the same title and inscription as **1912**.
+Until the physical copies, imprint details and collection histories are compared, record this print witness as **1912–1914 (institutional dating discrepancy)**, not as a securely dated 1914 issue. This does not affect the separate 1905 anonymous *Corrido de Ignacio Parra* witness.
