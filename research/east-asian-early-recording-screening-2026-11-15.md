@@ -96,3 +96,53 @@ Sources:
 - CiNii, Kumoemon *Akagaki Genzo Tokkuri no Wakare*, Parlophone E1009/E1010: https://ci.nii.ac.jp/ncid/BB16524158
 
 Decision refinement: the **1912 Kumoemon/Lyrophone group is now a PARTIALLY VERIFIED historical recording lead**, not yet a mix candidate. Recording and commercial issue chronology are substantially stronger; exact archival shellac transfer, item-level matrix/take, complete lyric, composition/authorship gate, and territorial rights remain unresolved. The 1910 first Gishi record mentioned by Smith remains unidentified and should not be conflated with the better-documented 1912 Kumoemon set.
+
+
+## Japan: two distinct Chūshingura recording paths — exact 1912 Kumoemon disc and 1923 Naramaru raid side
+
+### A. Kumoemon, *Akagaki Genzo: Tokkuri no Wakare* — exact archive object
+
+Nichibunken's Rōkyoku SP archive has a specific record entry:
+- Title: **(武士道鼓吹) 赤垣源藏 (徳利の別れ)** (*Bushidō kosui: Akagaki Genzo — Tokkuri no Wakare*).
+- Performer: 桃中軒雲右衛門入道, Kumoemonnyūdō Tōchūken.
+- Label: Lyrophone Record.
+- Record numbers: **70937–70940**, a two-disc set / four sides.
+- Release month: **May 1912**.
+- Archive object ID: **519319**.
+- The entry says the original record was digitised with a laser turntable, phono equalizer and analogue-to-digital converter; its access status is internet-open because the archive publishes recordings whose copyright term has expired.
+- A companion Kumoemon *Akagaki Genzo (Kinshu no kudari)* is archive ID **519351**, Lyrophone 70920–70921, November 1912.
+
+The metadata search result is accessible, but direct opening of the record page returned HTTP 403 in this research session. Thus we have verified the archive's description of the digital transfer and public-access status, but have **not personally listened to the file or inspected the disc images**. Do not describe this as an audio-content verification.
+
+The J-STAGE article gives a somewhat different first-session list: Kumoemon recorded four narratives at Sanko-do in December 1911, each across both sides of a disc; the list includes *Akagaki Genzo (Tokkuri no Wakare)*, *Oishi Oitachi (Goyaku Kenjō)*, *Murakami Kiken* and *Masamune Kōshiden*. It says Kumoemon registered the performance copyright and transferred it to Richard Werdermann on 28 February 1912. The later Nichibunken archive entry provides the exact label number/release date for *Akagaki Genzo*. The court case is especially important for the project's composition gate: the Supreme Court ultimately held that the recorded Naniwabushi was an improvised performance and not a copyrightable literary work under the law then in force; the 2013 J-STAGE author nevertheless argues that by modern criteria the performer could be considered an author because Naniwabushi performers shaped lyrics, dialogue and melody within a known plot. Keep historical legal doctrine distinct from present-day editorial assessment of authorship.
+
+Sources:
+- Nichibunken archive item 519319: https://kutsukake.nichibun.ac.jp/rsp/?reg=519319
+- Companion item 519351: https://kutsukake.nichibun.ac.jp/rsp/?reg=519351
+- J-STAGE article, especially paragraphs on session, registration and Supreme Court ruling: https://www.jstage.jst.go.jp/article/johokanri/56/8/56_552/_html/-char/ja/
+
+### B. Yoshida Naramaru, *Gishi no Uchiiri / Gishi no Hikiage* — stronger thematic lead, 1923
+
+A specialist Japanese Victor/Nipponophone catalogue list identifies a two-sided 78rpm issue:
+- **義士の討入** (*Gishi no Uchiiri*, “The Gishi raid”) — Yoshida Naramaru, Nipponophone **15139-A**.
+- **義士の引揚** (*Gishi no Hikiage*, “The Gishi withdrawal/return”) — Yoshida Naramaru, Nipponophone **15139-B**.
+- New-issue month: **July 1923**.
+- Genre: Naniwabushi.
+This is the most directly revenge-centred Japanese title surfaced so far: the A-side explicitly narrates the raid on Kira's residence, the retaliatory act at the centre of the Akō vendetta. The B-side follows the withdrawal/return. A separate historical-label catalogue also lists the pair under Yoshida Naramaru.
+
+A pre-existing textual witness strengthens the repertoire context: the National Diet Library's 1912 *Gishi no Hitofushi: Naniwabushi Jūhachiban* (吉田奈良丸講演; 2nd Yoshida Naramaru, 1883–1967) contains a contents entry **義士吉良邸討入** (“Gishi raid on Kira's mansion”) and **義士の本懐を遂する條** (“the episode in which the Gishi fulfil their purpose”). The scanned text is from the 1912 *Hana no maki / Yuki no maki* volumes. This is a dated printed witness to the same traditional narrative episode, but it does not prove word-for-word identity with the 1923 recording. Yoshida Naramaru (2nd) died in 1967, so performer death alone does not satisfy the author's-death cutoff. The eligibility argument must rest on the **traditional narrative/performance repertoire with provenance**, not on an unsupported claim that the performer died before 1956.
+
+The underlying Akō incident (1701–03) is historical, but the familiar forty-seven-rōnin story was extensively shaped by theatre, kōdan and Naniwabushi. Treat the recording as a **traditional narrative representation of collective revenge**, not an unmediated historical transcript. The 1912 printed contents establish the raid episode's place in Naramaru's repertoire; exact recorded lyrics and the degree of traditional versus performer-specific authorship remain open.
+
+Sources:
+- 78MUSIC Nipponophone/Royal/American catalogue, issue 15139-A/B (July 1923): https://www.78music.jp/other5.html
+- 78MUSIC alternative catalogue / cross-check: https://www.78music.jp/other6.html
+- NDL 1912 *Gishi no Hitofushi* scan, contents include the Kira-residence raid and fulfilment of the Gishi purpose: https://upload.wikimedia.org/wikipedia/commons/8/83/NDL891540_%E7%BE%A9%E5%A3%AB%E3%81%AE%E4%B8%80%E7%AF%80_-_%E6%B5%AA%E8%8A%B1%E7%AF%80%E5%8D%81%E5%85%AB%E7%95%AA_%E9%9B%AA%E3%81%AE%E5%B7%BB_part2.pdf
+- NDL scan metadata / publication date / author: https://commons.wikimedia.org/wiki/File:NDL891540_%E7%BE%A9%E5%A3%AB%E3%81%AE%E4%B8%80%E7%AF%80_-_%E6%B5%AA%E8%8A%B1%E7%AF%80%E5%8D%81%E5%85%AB%E7%95%AA_%E9%9B%AA%E3%81%AE%E5%B7%BB_part2.pdf
+- CiNii *Naniwabushi Jūhachiban-shū*, May 1912: https://ci.nii.ac.jp/ncid/BB24153492
+- Yoshida Naramaru biographical chronology: https://kotobank.jp/word/%E5%90%89%E7%94%B0%E5%A5%88%E8%89%AF%E4%B8%B8-654186
+- Henry D. Smith, Akō Gishi popular history context: https://www.academia.edu/26728031/_The_Media_and_Politics_of_Japanese_Popular_History_The_Case_of_the_Ak%C5%8D_Gishi_2006_
+
+Decision:
+- Kumoemon *Akagaki Genzo* is now **PARTIALLY VERIFIED as an exact 1912 archival disc object**, but its episode is a farewell within the larger revenge narrative, not the raid itself. Archive audio is described as publicly accessible, but not listened to in this session.
+- Naramaru *Gishi no Uchiiri* is a **HIGH-PRIORITY LEAD / NOT YET CANDIDATE**: strong title/issue-date/performer evidence (1923), directly relevant revenge episode and a pre-1926 printed narrative witness; but no item-level archival audio/matrix confirmation and no fully resolved traditional-composition/authorship basis. Search the Nichibunken archive for 義士の討入, 義士の引揚, 赤穂義士討入 and record 15139; request or inspect the original label and audio; compare against the 1912 text.
