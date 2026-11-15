@@ -430,3 +430,10 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Lotz/Weggen 2006 Discographie der Judaica-Aufnahmen explicitly excludes Yiddish/cantorial recordings from Lemberg, Czernowitz and Budapest in its first volume; absence from that discography is not evidence against this record.
 - Sources: LOC Heskes https://findingaids.loc.gov/repositories/15/resources/7111 ; YIVO manuscript https://polishjews.yivo.org/archive/?id=23948&p=collections%2Fcontrolcard ; Forgotten Galicia https://forgottengalicia.com/songs-from-gimpels-lemberg-yiddish-theatre-1906-1910/ ; Aylward 2020 https://doi.org/10.3828/liverpool/9781906764739.003.0008 ; Lotz/Weggen preview https://www.academia.edu/126588420/Discographie_der_Judaica_Aufnahmen ; label chronology https://www.lotz-verlag.de/Online-Disco-Homocord-Liliput.html .
 - Status remains **LEAD**. The exact Homokord 1118 master, issue date, matrix, original label/audio and transfer provenance are still unverified.
+
+
+## 2026-11-15 — ChatGPT (global archive map: Lemberg Yiddish theatre / YIVO)
+- Updated research/global-early-recording-map.md with the 1904–1913 Gimpel Lemberg Yiddish theatre recording ecosystem and YIVO's 15,000+ sound archive.
+- Added the distinction between the 78rpm commercial theatre repertoire and YIVO's broader mixed holdings; highlighted YIVO's research/education restrictions and the need to check exact original labels/matrices.
+- Sources: Aylward https://doi.org/10.3828/liverpool/9781906764739.003.0008 ; Forgotten Galicia https://forgottengalicia.com/shund-on-shellac-or-gimpels-theatre-lemberg/ ; IEMJ https://www.iemj.org/en/wandering-stars-songs-from-gimpels-lemberg-yiddish-theater-1906-1910/ ; YIVO https://www.yivo.org/Sound .
+- Map commit: fc6e7d7381722b4c1056bb33dc16436b7abe714d.
