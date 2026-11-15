@@ -106,3 +106,17 @@ The 1904–05 volume of *Edison Phonograph Monthly* provides more precise chrono
 - This establishes that the Mexican recording campaign had produced its first copies by 15 September 1904, and that the catalogue list was commercially available by January 1905. It does not identify the exact recording day of *Ignacio Parra* 18512–18513, so retain the item-level recording date as **Mexico City, by 15 September 1904 (session date not identified)**, with catalogue publication January 1905.
 
 Source: *Edison Phonograph Monthly*, Vol. II, No. 11 (January 1905), pp.4–5, “Seventy-one Mexican Records” and “President Diaz's Birthday Gift”: https://www.worldradiohistory.com/Archive-All-Audio/Edison-Phonograph/Edison-Phonograph-Monthly-1904-Vol-2.pdf
+
+
+### Distribution evidence: Edison kept the Mexican corridos in its Mexico catalogue after withdrawing them from the U.S. foreign catalogue
+
+A second primary trade source adds useful market context. The November 1907 *Edison Phonograph Monthly* article “Mexican Records Cut Out” says that, because demand among U.S. dealers was limited, the company would omit selected Mexican records from the next U.S. Foreign Record Catalogue while **continuing to list them in catalogues printed for use in Mexico**. Its table retains:
+- 18510–18511, *El Descarrilamiento*;
+- 18512–18513, *Ignacio Parra*;
+- 18514, *A Elena*;
+- 18515, *Heraclio Bernal*;
+- and numerous other Robinson titles.
+
+This corroborates that the Ignacio Parra and Heraclio Bernal records were part of a Mexico-facing commercial catalogue at least in November 1907. It also warns against assuming that absence from later U.S./European export catalogues means the records were withdrawn everywhere. It does not establish the exact original release date or prove a surviving copy.
+
+Source: *Edison Phonograph Monthly*, November 1907, “Mexican Records Cut Out”: https://npgallery.nps.gov/GetAsset/8edec098-f1cd-435d-94b3-e817e83ef167/original
