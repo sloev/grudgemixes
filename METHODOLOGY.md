@@ -156,3 +156,10 @@ The project owner/editor sets priorities, scope, mix concepts and final inclusio
 - Rights clearance may be deferred during private research as a separate workstream, but archive access restrictions and download terms remain factual constraints and must not be misrepresented.
 
 See [`GROK_HANDOFF.md`](GROK_HANDOFF.md) for the operational queue and reporting template.
+
+
+## 10. International and de-centred research coverage
+
+The project is global in scope. Discovery must not default to the United States, Britain, Western Europe, English-language sources, or the cataloguing practices of multinational labels. Actively investigate regional archives, local-language scholarship, independent labels, diasporic collections, oral traditions, and the social settings in which recordings circulated. Current research directions include South Asia; the Arab East and North Africa; Anatolia and Ottoman diasporas; East and Southeast Asia; Latin America and the Caribbean; Sub-Saharan Africa and the Indian Ocean; Eastern Europe and the Balkans; and Indigenous and diasporic archives.
+
+This is not a quota system. Do not add weak or token entries for regional balance. Apply the same standards of exact performance identity, date, text, provenance and rights everywhere. Preserve original scripts, local genre names, transliteration variants and translation uncertainty. Do not let a Western archive's metadata become the only authority for local musical meaning. Distinguish a composition's date, a stage premiere, an original performance, a recording session, a disc issue, a later cover and an archival transfer.
