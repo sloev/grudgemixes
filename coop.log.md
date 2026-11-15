@@ -607,3 +607,13 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Updated the Kolkata research note. Status remains **LEAD ONLY / NOT A CANDIDATE / NOT CLEARED**.
 - Sources: Thakur https://dokumen.pub/shakespeare-and-indian-theatre-the-politics-of-performance-9789389812640-9789389351125-9789389351132.html ; Hansen, *Stages of Life* https://www.cambridge.org/core/books/abs/stages-of-life/historical-personages-and-institutions/1CAB9A0E04E9FB5015CD4C5BECE61B9D ; Madan Theatres catalogue https://madantheatres.com/sound/ .
 - Kolkata note commit: 0d9783381382fe91fd00d267ff02171e29fc1127.
+
+## 2026-11-15 — ChatGPT (Greek-language early-recording screening)
+- Created `research/greek-early-recording-screening-2026-11-15.md` after a targeted pass through the Virtual Kounadis Archive and Greek-language search terms for killing, revenge and feud.
+- Found several versions of **“Φονιάς θα γίνω”** (*Fonias tha gino*, “I will become a murderer”), but all located recordings are post-cutoff: Giorgos Vidalis (Odeon GA-1187/A, matrix Go 386, 1927); Marika Papagika (Columbia USA 56158-F, matrix W 206265, July 1929); Antonis Dalgas (HMV AO-312, matrix BG-99, 1929); Gad Pol / Giorgos Savaris (Columbia England 18092, matrix 20652, 1929).
+- The Papagika text is a possessive/coercive threat in a romantic dispute (“I will become a murderer, but I will not leave you”), not a documented prior injury followed by payback. Rejected for this series on both chronology and taxonomy. The 1927 Odeon item carries a “folk” label while the archive attributes words/music to Panagiotis Vaindirlis; preserve that discrepancy rather than assuming traditional provenance.
+- Added a chronology warning based on Ole L. Smith (1991): pre-war rebetiko dates are often unreliable unless grounded in matrices, catalogues or contemporary sources. Also noted that early “rebetiko” label use is not equivalent to later genre definitions.
+- Updated the global map with this negative result.
+- Sources: Kounadis Papagika https://vmrebetiko.aegean.gr/en/item-en/?id=4106 ; Vidalis https://vmrebetiko.aegean.gr/item/?id=10418 ; Dalgas https://vmrebetiko.aegean.gr/item/?id=10160 ; Gad Pol/Savaris https://vmrebetiko.aegean.gr/item/?id=9652 ; Smith 1991 https://www.cambridge.org/core/journals/byzantine-and-modern-greek-studies/article/abs/chronology-of-rebetiko-a-reconsideration-of-the-evidence/D5BFC4A14B02375A1ED58D5135839935 ; Kounadis rebetiko overview https://vmrebetiko.aegean.gr/en/collection-en/?id=rebetiko .
+- Greek note commit: 623f28da59a3c1e4f7e647c42697bf4840712f4b.
+- Global map commit: c81713588b07e9d291b985e501a73d72ed3d2ddf.
