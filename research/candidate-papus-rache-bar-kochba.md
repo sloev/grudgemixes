@@ -92,3 +92,18 @@ New sources:
 - IEMJ's *Wandering Stars* collection of original 78s from Gimpel's Lemberg theatre (1906–1910): https://www.iemj.org/en/wandering-stars-songs-from-gimpels-lemberg-yiddish-theater-1906-1910/
 
 Decision unchanged: **LEAD — not verified and not cleared**. The composition/title evidence is stronger; exact Homokord/Homocord 1118 identity, issue/fixation date, matrix, label image, original audio, recording location, language, and transfer provenance remain open. The 1907–08 Beka 10872 “Der Bucher” must not be conflated with the Papus revenge aria.
+
+
+## Further check — Lemberg Beka 10872 and the actual Papus aria (2026-11-15)
+
+A closer reading of the annotated Gimpel's Theatre discography, reproduced by Forgotten Galicia, sharpens the distinction between the recorded Bar Kochba excerpt and the unlocated Papus aria:
+
+- Track 20 identifies Jacob Fuchs, “Der Bucher aus der Operette ‘Bar Kochba’ mit Chor mit Violine,” Beka-Grand-Record 10872, Lemberg, 1907–1908. Its annotation says the title is on the record label, but the song cannot be found in printed editions or surviving Bar Kochba sheet music. The author leaves open whether the label is wrong or the song was temporarily added to the performance corpus.
+- The same annotation says the song's mood might suit Papus, the villain associated with money and revenge; it compares the laughter refrain and references to blind and crippled people with the separately named “Di nekome fun Papus” (“Papus's Revenge”). This is an interpretive comparison, not an identification of track 20 as that aria.
+- The annotation transcribes a fragment in which the singer sarcastically seeks a philanthropist who feeds the poor and shares money, then threatens to “give him what for.” That text suggests a comic/menacing character portrait; it does not establish the plot, target, prior injury, or calculated payback of Papus's actual revenge aria.
+- The page's 26-track contents list “Der Bucher” as item 20 and does not list “Di nekome fun Papus.” The revenge aria therefore remains unlocated in this source.
+- The page invites Yiddish-speaking readers to help decipher texts, cautioning against overconfidence in transcription. Its audio is a listening lead, but is not established as a raw, unedited archival transfer with commercial reuse rights.
+
+**Decision:** retain Homocord/Homokord 1118 “Papus Rache” as a separate **LEAD**. Retain Beka-Grand 10872 as a distinct Bar Kochba-labelled recording, not an alternate title for the Papus aria. No eligibility promotion. Next checks: listen to Beka audio against the fragment; locate label/runout and contemporary catalogue; search “Di nekome fun Papus” under Yiddish, German and transliterated variants; establish Homocord 1118 matrix, issue/fixation date and exact audio object.
+
+Source: Forgotten Galicia, “Songs from Gimpel’s Lemberg Yiddish Theatre 1906–1910,” tracks 20 and 21: https://forgottengalicia.com/songs-from-gimpels-lemberg-yiddish-theatre-1906-1910/.
