@@ -295,12 +295,18 @@ Nichibunken Rōkyoku SP Digital Archive item **525671** identifies a physical on
 - Condition note: playback poor
 - Digitization: laser turntable / phono equalizer / ADC; item marked internet-open
 
-This is a separate Naramaru Royal disc, not Kumoemon's 1912 Lyrophone E1009/70937–70940 (Nichibunken register 519319), and not the Royal 1651 *Denchū Ninjō* or Royal 1645 *Akō Gishi Uchiiri* object family. It corroborates Naramaru's recorded *Akagaki Genzo* repertoire but gives no pre-1926 issue date and does not by itself show a direct grievance/retaliation passage. Keep **C — CONTEXTUAL PHYSICAL LEAD**. Nichibunken's archive overview states that label images are public, while audio is public only where copyright term has expired; the direct item page returned 403 in this session, so the label image was not actually inspected and the audio was not played.
+This is a separate Naramaru Royal disc, not Kumoemon's 1912 Lyrophone E1009/70937–70940 (Nichibunken register 519319), and not the Royal 1651 *Denchū Ninjō*. The Royal 1645 *Akō Gishi Uchiiri* is now independently corroborated in the Kushiro inventory below. It corroborates Naramaru's recorded *Akagaki Genzo* repertoire but gives no pre-1926 issue date and does not by itself show a direct grievance/retaliation passage. Keep **C — CONTEXTUAL PHYSICAL LEAD**. Nichibunken's archive overview states that label images are public, while audio is public only where copyright term has expired; the direct item page returned 403 in this session, so the label image was not actually inspected and the audio was not played.
+
+### Royal 1645 *Akō Gishi Uchiiri* — Kushiro inventory confirmation (new cross-check, 2026-11-15)
+
+The 1981 Kushiro Municipal Museum inventory, in its section V-1 (rōkyoku), records no. 166 as catalogue no. **1645 (one-sided)**, title **「赤穂義士討入」** (*Akō Gishi Uchiiri*), performer by ditto from row 155 **Yoshida Naramaru**, and company by ditto from row 165 **Royal**. The immediately following row 167 repeats the same title, performer and company but leaves the catalogue number blank; this appears to be a second inventory entry/copy whose identifier is not supplied. The preceding row 165 is *Akagaki Genzo Tokkuri no Wakare* no. 1853, also Royal, which is the source of the ditto company mark. This is direct institutional inventory evidence for a physical Royal 1645 Naramaru raid-side record, not merely a discographical listing. It does **not** supply a release date, matrix, label photograph or recorded text/audio. The museum introduction says the inventory covers 1,347 discs transferred from Kushiro Municipal Library in April 1979 and explains that performer/company ditto marks inherit from preceding rows. 78MUSIC independently lists 1645 as Naramaru's *Akō Gishi Uchiiri* with eagle-front label notation. Do not infer a date from the adjacent catalogue numbers or equate this Royal item with the 1914 Yamato title or July 1923 Nipponophone 15139-A/B.
+
+**Revised evidence:** physical-carrier existence **A — VERIFIED at institutional-inventory level**; title/performer/company linkage **A — VERIFIED by the table's ditto convention**; pre-1926 chronology **C — UNRESOLVED**; actual performance text/audio and rights **C — UNRESOLVED**. The 1645 item is now a high-priority exact-carrier lead, but not yet a release-ready candidate.
 
 ### Next verification
 
 1. Inspect the archive's label images for register 525671; record the visible label text, any number and any matrix/runout evidence separately from catalogue metadata.
-2. Search Nichibunken for Yoshida Naramaru's *Gishi no Uchiiri*, Royal 1645 and the Yamato On-ei titles. Do not assume a search hit is the same object as Kushiro's Royal 1645 or the 1914 Yamato disc.
+2. Locate Nichibunken's own register/label image for Royal 1645 and compare its label face, matrix and side duration with Kushiro's item; the Kushiro record now independently establishes the 1645 physical object. Do not equate it with the 1914 Yamato disc.
 3. Obtain a legible Yamato/Naramaru label with title and catalogue/matrix, or inspect the 19 June 1914 *Osaka Mainichi* Kyoto-Shiga supplement issue. NDL confirms its holdings of *Osaka Mainichi* on microfilm; the exact 1914 issue and page still need access.
 4. Keep the July 1923 Nipponophone 15139-A/B issue separate; no master equivalence with the 1914 Yamato disc has been shown.
 
@@ -310,4 +316,5 @@ Sources:
 - Nichibunken archive overview: https://kutsukake.nichibun.ac.jp/rsp/about/
 - Nichibunken archive announcement: https://www.nichibun.ac.jp/en/topics/db/2020/06/24/s001/
 - NDL *Osaka Mainichi* holdings: https://ndlsearch.ndl.go.jp/books/R100000002-I000000098327
-- 78MUSIC Nipponophone 15139-A/B: https://www.78music.jp/other5.html
+- 78MUSIC Royal/Nipponophone listings, including 1645 and July 1923 15139-A/B: https://www.78music.jp/other5.html
+- Kushiro Municipal Museum 1981 inventory, pp. 18–19, rows 155–169 (especially 165–167): https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf
