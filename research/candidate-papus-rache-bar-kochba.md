@@ -187,3 +187,14 @@ New sources:
 - LOC Irene Heskes Collection finding aid: https://findingaids.loc.gov/repositories/15/resources/7111
 
 **Decision unchanged:** **LEAD — NOT VERIFIED / NOT CLEARED**. The highest-value next action is now a physical-copy search for Homocord 1118 and a targeted LOC AVCMS inventory inquiry. No exact matrix, date code, raw audio transfer or commercial rights evidence has yet surfaced.
+
+
+## New discographic corroboration (2026-11-15)
+
+Albis International explicitly lists the Bar Kochba recordings separately: “Bucher,” Carl Gutentag with orchestra, Homocord 11184; “Papus Rache,” Carl Gutentag with orchestra, Homocord 1118; and “Bar kochba,” Jakob Fuchs, Beka 10872 and Scala 10872. This strengthens identification of Homocord 1118 as the specific Papus revenge song and distinguishes it from both the Bucher recording and the Fuchs Beka/Scala item. It remains secondary evidence: no primary label/runout photograph, physical copy, matrix, date code or audio has been inspected. Do not silently normalize 1118 to 11184.
+
+The LOC Irene Heskes finding aid says sound recordings from the collection were transferred to NAVCC, but the public AVCMS number is blank. Its online sheet-music description “Dinah’s welcome to Jerusalem: Papus revenge song” remains ambiguous and is not proof that an audio item is held. The collection inventory/AVCMS record is the appropriate target for a staff inquiry.
+
+Sources: Albis International, *Zusammenstellung der Schallplatten mit Themen aus dem Orient*: https://www.albis-international.de/dokumente/orient_im_plattenschrank.pdf ; LOC Heskes finding aid: https://findingaids.loc.gov/repositories/15/resources/7111 ; Frankfurt 1897 score: https://sammlungen.ub.uni-frankfurt.de/judaicaffm/download/pdf/2032143 .
+
+**Decision unchanged:** LEAD — NOT VERIFIED / NOT CLEARED. Locate Homocord 1118, photograph label and runout, decode its recording-date code, and obtain a demonstrably raw transfer plus rights evidence.
