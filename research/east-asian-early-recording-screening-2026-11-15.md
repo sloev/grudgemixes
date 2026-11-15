@@ -241,7 +241,7 @@ Status: **HIGH-PRIORITY LEAD / NOT YET CANDIDATE / NOT CLEARED**. This gives a l
 
 ### H. Nipponophone / early Japanese discography: exact Naramaru issue numbers and a primary-source verification route
 
-A specialist Nipponophone discography now supplies a more concrete set of Naramaru Gishi-series catalogue numbers, while the National Diet Library (NDL) identifies the primary printed sources needed to date and transcribe them:
+A specialist combined Nitchiku-family discography (covering Nipponophone, Royal and American labels) now supplies a more concrete set of Naramaru Gishi-series catalogue numbers, while the National Diet Library (NDL) identifies the primary printed sources needed to date and transcribe them. The 1981 Kushiro museum inventory shows that no. 1645 was a **Royal** one-sided label, not the later Nipponophone eagle label. NDL's label chronology distinguishes the one-sided pre-1915 labels (including Royal) from the double-sided Nipponophone eagle label adopted from 1915:
 - 78MUSIC lists the pre-1915 single-sided Naramaru series under Nipponophone / earlier eagle-face label variants:
   - **1645** — *赤穂義士討入* (*Akō Gishi Uchiiri*), Yoshida Naramaru.
   - **1646–1648** — *大高源吾* (parts 1–3).
