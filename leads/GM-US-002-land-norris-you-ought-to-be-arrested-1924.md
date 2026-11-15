@@ -50,7 +50,7 @@ The title alone cannot distinguish these. Until the recording or a contemporary 
 2. Listen to the full recording and transcribe the words before assigning a grievance category.
 3. Inspect a physical Okeh 40374 label/runout or a high-resolution image to settle matrix suffix and date discrepancy.
 4. Locate any contemporary printed lyric or source song, and compare it to the recording.
-5. Check E. C. Perrow (1915), Dorothy Scarborough (1925), Newman I. White (1928), and Harbin's *Parodology* #10, pp. 10–11; establish whether the Land Norris title maps to “Oughta Been Arrested,” “Talking Blues,” or the broader “Mourner” cluster.
+5. Continue the Perrow/Scarborough/White/Harbin comparison, especially the exact Harbin “Oughta Been Arrested” text; establish whether Norris's title maps to that composite, the “Talking Blues” strand, or the broader “Mourner” cluster.
 6. Promote to a B candidate only if the exact recorded lyric clearly expresses a grievance response, punishment demand, accusation or other relevant mechanism.
 
 ## Sources
@@ -63,3 +63,16 @@ The title alone cannot distinguish these. Until the recording or a contemporary 
 - Joop's Musical Flowers, “Poor Mourner / Moanish Lady / You Shall Be Free” song-family crosswalk (secondary): https://jopiepopie.blogspot.com/2017/02/poor-mourner-1896-moanish-lady-1927-you.html
 - Ballad Index, “Talking Blues” (cross-references “Mourner, You Shall Be Free” and Harbin's “Oughta Been Arrested”): https://balladindex.org/Ballads/LoF224.html
 - Mudcat, “Oh, Mona” discussion reporting Land Norris under Meade's “Mourner, You Shall Be Free” entry (forum/secondary report): https://mudcat.org/thread.cfm?threadid=38691
+
+
+## Primary text comparison — Perrow's 1915 “Oh, Mourner!” (new research, 2026-11-15)
+
+The full digitized text of E. C. Perrow's “Oh, Mourner!” is visible in a transcription of *Journal of American Folklore*, vol. 28, no. 108 (1915), “Songs and Rhymes from the South,” part VII, “Songs of the Plantation.” Perrow labels the item “From Mississippi; negroes; MS. of F. R. Rubel; 1909.” A note beneath the text says the ballad was obtained from a person named Rasmus Moore on 24 February 1909. The text is explicitly composite: Perrow's note says distinct songs tend to drift together into one.
+
+The text includes the stanza: “I had a wife and I fed her on grease; / Every time I knocked her down she hollered ‘police!’” It also contains comic theft accusations, a spiritual refrain (“Oh, Moana, you shall be free”), and other floating verses. This is a primary historical text witness for a performance tradition that combines violence, police-calling, comic accusation and a spiritual refrain. It is **not** evidence that Land Norris sang this stanza, that the title “You Ought to Be Arrested and Put in Jail” derives from it, or that the 1924 Okeh performance has a serious punitive meaning.
+
+A specialist secondary crosswalk places Norris's Okeh 40374 recording in the “Poor Mourner / Mourner, You Shall Be Free” family. That crosswalk is plausible but unconfirmed at the master/lyric level. Ballad Index independently cites Harbin's “Oughta Been Arrested” as a composite of “Two Little Niggers Black as Tar,” “Talking Blues” and other material, but does not itself prove a connection to Norris. The shared arrest language and related song-family labels are a research lead, not an identity match.
+
+**Thematic assessment unchanged: C — TITLE-LEVEL LEAD.** The Perrow text demonstrates that the wider tradition can include a woman calling police after violence, but the stanza is voiced through a racist minstrel-derived comic frame and does not straightforwardly amount to a victim-centred protest song. Any use would require careful attribution, historical contextualisation and attention to the racist language and performance economy. Do not classify this as revenge or justice-demand content without the actual Okeh audio/text.
+
+Sources: Perrow text and its 1909 provenance note reproduced at https://jopiepopie.blogspot.com/2017/02/poor-mourner-1896-moanish-lady-1927-you.html (lines 21–73 in the page view); the page links to the 1915 *Journal of American Folklore* scan at https://www.jstor.org/stable/534506?seq=7#page_scan_tab_contents. Song-family crosswalk and Norris placement: same page, lines 180–192. Ballad Index cross-reference: https://balladindex.org/Ballads/LoF224.html. These are not a direct transcription of the 1924 recording.
