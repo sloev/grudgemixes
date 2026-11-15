@@ -182,3 +182,18 @@ Sources:
 - 2020 study, modern biwa SP records: https://www.jstage.jst.go.jp/article/toyoongakukenkyu/2020/85/2020_61/_pdf/-char/ja
 
 Decision: **PARTIALLY DOCUMENTED DISC / LEAD, NOT CANDIDATE**. The 1924 Nipponophone issue is a strong date/title/performer lead and a four-side raid narrative. The Menophone 1618–1621 holdings are an important physical-disc lead but remain undated. Composition authorship/traditional provenance, exact archival audio/transfer and commercial rights remain unresolved. Keep this separate from Naramaru's 1914 Yamato On-ei and 1923 Nipponophone versions.
+
+
+### E. Additional 1912 printed witnesses for Naramaru's raid repertoire
+
+Two separate 1912 printed sources now place the Kira-residence raid within Yoshida Naramaru's pre-recording repertoire:
+1. *Gishi no Hitofushi: Naniwabushi Jūhachiban* (吉田奈良丸講演; Naramaru 2nd, NDL authority 1883–1967; published March 1912) lists **義士吉良邸討入** and **義士の本懐を遂する條** among the episodes in its *Hana no maki* contents. This is the Naramaru-authored/recited repertory witness discussed above.
+2. Takuma Sadao's *Naniwabushi Hitofushi Zenshū* (浪花節一ト節全集), published May 1912, includes a section titled **討入** on p.39. Its contents also include Naramaru's *殿中の刃傷*, *大高源吾*, *赤垣源蔵*, *大石山科帰り*, *神崎与五郎* and *南部坂雪の別れ*. The anthology contains performances from several reciters (including Tōchūken Kumoemon and Azumaya Rakuyū), so the bare contents entry “討入” should not automatically be attributed to Naramaru until the actual page is checked. It nevertheless establishes that the raid story was circulating in the commercial Naniwabushi print/repertoire environment by May 1912.
+
+These sources make the **traditional-repertoire provenance** argument stronger: the Chūshingura / Akō Gishi story cycle was not invented for a 1923 issue, but was part of an established Naniwabushi repertory documented in print before the 1914 Yamato recording report. Still, the exact 1914 disc's text must be matched to the printed version, and the narrative's traditional status should not erase the performer-specific shaping of the performance.
+
+Sources:
+- 1912 Naramaru *Gishi no Hitofushi* scan and contents: https://commons.wikimedia.org/wiki/File:NDL891540_%E7%BE%A9%E5%A3%AB%E3%81%AE%E4%B8%80%E7%AF%80_-_%E6%B5%AA%E8%8A%B1%E7%AF%80%E5%8D%81%E5%85%AB%E7%95%AA_%E9%9B%AA%E3%81%AE%E5%B7%BB_part2.pdf
+- 1912 Takuma Sadao, *Naniwabushi Hitofushi Zenshū*, full NDL scan and contents: https://commons.wikimedia.org/wiki/File:NDL891638_%E6%B5%AA%E8%8A%B1%E7%AF%80%E4%B8%80%E3%83%88%E7%AF%80%E5%85%A8%E9%9B%86.pdf
+- NDL scan metadata / publication date May 1912 / contents: https://www.ndl.go.jp/
+- 1914 Yamato On-ei newspaper reproduction: https://www.arc.ritsumei.ac.jp/download/ar/ar23-2/02/ar23-2-02ho.pdf
