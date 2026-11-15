@@ -253,3 +253,12 @@ Seek an original Vocalion X-9560 pressing or high-resolution photographs of both
 - Added a proposal file and candidate dossier; updated README, METHODOLOGY trial note, map and cooperation log. No rights clearance claimed.
 - Next: compare accessible Ogg and FAU audio, verify side-2 matrix/date from physical label/runout, and draft a short *The Public Answer* mix outline using only accurately labelled roles.
 - Added `research/mix-concept-the-public-answer.md` as a three-track pilot outline (not a numbered or release-ready mix): Bézazian's collective vengeance song, Handel's retaliatory incitement, and Bentley Ball's public accusation against Robert Ford. It demonstrates how the new role model can make a short but coherent sequence without falsely calling every track a revenge song.
+
+
+## 2026-11-15 continuation — A3085 issue evidence and Land Norris lead
+
+- Followed the Bentley Ball handoff by rechecking contemporary trade press, the DAHR/FAU catalogue trail and the Ball songbook scan. The 15 August 1919 issue of The Talking Machine World explicitly lists Columbia A3085 with “Jesse James” and “The Dying Cowboy.” This verifies commercial listing/publication by that date, not the session date. Smithsonian's 1920 recording date and Commons' 15 May 1919 metadata therefore remain a distinct fixation-date conflict.
+- Inspected Bentley Ball's own Song-a-logue of America, printed p. 31. Its text reads “that dirty little coward,” contradicting the claim in one secondary blog that Ball changed the word to “mean.” This printed witness still cannot establish the exact Columbia performance; audio comparison remains open.
+- Followed DAHR's Joe Bussard Collection list to Land Norris's “You Ought to Be Arrested and Put in Jail” (Okeh 40374), matrix 8701, dated 31 August 1924 in the DAHR list. Smithsonian identifies the physical Okeh 40374 disc and 1924 date. The June 15, 1925 Talking Machine World listing independently names the title. A specialist sessionography instead gives 26 August and 8701-A. This is C-level only: no lyrics/audio examined, so the title's apparent punitive force is not yet evidence of a grievance song.
+- Added the Land Norris lead dossier and global map entry. Mix 01 remains the only numbered mix; The Public Answer remains an unnumbered pilot. No candidate promotion or rights clearance.
+- Handoff: get DAHR audio working and listen/transcribe Land Norris; inspect Okeh 40374 label/runout; compare Bentley Ball's Ogg to an authenticated carrier-linked transfer if available.
