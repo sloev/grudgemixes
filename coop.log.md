@@ -876,3 +876,13 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Added a detailed archive-path section to the African note and an access pointer to the global map. No status upgrade: “Ewe Battle Hymn” remains C — LEAD until its actual audio and Ewe text are obtained.
 - Sources: https://www.library.ucsb.edu/special-collections/collections/african-78rpm-recording-collection ; https://www.library.ucsb.edu/special-collections/performing-arts/benno-haupl-collection-pa-mss-122 ; https://archives.crem-cnrs.fr/archives/collections/CNRSMH_E_1952_009_004/ ; https://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-3926-3990/ .
 - Commits: African note 94d55ca0a6d8eb39f49a9ebcd0f57b006a05ad61; global map 3fe18d730d3fc61c2fc29606e8dd70f3af72960a.
+
+
+## 2026-11-15 — Anlo-Ewe haló research extension
+
+- Read Daniel K. Avorgbedor, “Freedom to Sing, License to Insult: The Influence of *Haló* Performance on Social Violence Among the Anlo Ewe,” *Oral Tradition* 9.1 (1994), 83–112. It dates the genre from c.1912 to its 1960 proscription and describes insult/provocation songs, rival ward/village performance, counterattack and song as vindication/revenge where official redress is unavailable (especially pp.84–89). This is strong contextual evidence for the broadened grievance/retaliation remit, not a recording identification.
+- Found Corinna Campbell’s 2002 SIT paper, whose abstract describes haló as verbal warfare/social control. Search indexing of the paper points to colonial-government documents concerning *halóga* announcements and suggests the tradition was established by 1918; the original notice and precise archival citation remain unverified. Treat as a targeted archival lead, not established primary evidence.
+- Avorgbedor’s 1957 example and the contemporary texts in the 1994 paper are outside the 1925 cutoff; his “pre-haló” excerpt is not independently dated. No backdating.
+- No evidence connects *haló* to Roland C. Nathaniels’s 1925 Zonophone 3972 sides. “Ewe Battle Hymn” remains C — LEAD; the title is insufficient to establish grievance content.
+- Next: retrieve Campbell’s full paper and identify the colonial notice/file reference; search PRAAD (especially Secretary for Native Affairs / ADM 11) and contemporaneous Keta/Anlo district records; seek pre-1926 song texts and exact commercial recording matches.
+- Sources: https://journal.oraltradition.org/wp-content/uploads/files/articles/9i/4_avorgbedor.pdf ; https://digitalcollections.sit.edu/african_diaspora_isp/44 ; https://praad.gov.gh/index.php/popular-collection-chieftaincy/ .
