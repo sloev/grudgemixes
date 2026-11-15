@@ -754,3 +754,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Evidence limit: this is a modern reissue-derived transcript, not a carrier-based transcription from an original Pathé 5370. It strengthens thematic evidence but does not establish matrix/take, exact master, raw transfer or rights. Retain **B — PROBABLE**.
 - Sources: https://scholarsbank.uoregon.edu/server/api/core/bitstreams/68c04418-763c-484a-b275-38cf8d2037bb/content ; https://www.archeophone.com/discography/by-year/recorded-1912/ ; https://beforethebigbang.com/tracklist/track-77/ ; https://secondhandsongs.com/label/3972/all .
 - Handoff: pursue the reported surviving Pathé 5370 copies at LOC and in the private collection; compare carrier-derived audio to the reissue transcription and document transfer/rights.
+
+
+## 2026-11-15 — ChatGPT (Nichibunken Royal Record Akō Gishi lead)
+- Located an institutional identification in Nichibunken / NIHU Prospectus 2016, pp.16–17: an SP record by Yoshida Naramaru titled 「赤穂義士伝討入」 (Akō Gishi-den Toiri), on Royal Record, held by Nichibunken. The same page separately identifies Tōchūken Um右衛門’s Ōishi Azamakudari on Lyrophone; kept the two discs distinct.
+- Created research/japan-ako-gishi-yoshida-naramaru-royal-record.md and added the item as a separate C-level lead in the re-audit and global map.
+- Important caveat: the 2016 prospectus establishes a Nichibunken holding, not issue date, matrix, exact performance text, nor inclusion in the online audio subset. Nichibunken says label images are public but sound is public only after copyright expiry; other sound is on-site only. Do not merge with the separate Yamato On-ei 1914 Naramaru lead or Takamine Chikufu Nipponophone 15226–15227 (1924).
+- Sources: https://www.nichibun.ac.jp/en/uploads/pdf/niyo_2016.pdf (PDF p.17); https://www.nichibun.ac.jp/ja/db/category/rokyoku/; https://kutsukake.nichibun.ac.jp/rsp/about/.
+- Handoff: request Nichibunken’s item-level OPAC record, label image, catalogue number, matrix/runout, performer generation, date evidence, and audio access status.
