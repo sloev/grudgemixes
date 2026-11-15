@@ -113,3 +113,14 @@ Check README's new relative links and the new audit-report links against the liv
 Phase 7 — targeted evidence work on the strongest unresolved B candidates, after optional compact index design.
 ## Exact next action
 Choose the strongest candidate whose exact audio/text can be verified through public source material without pretending to play audio. First assess LOC access and metadata for Torcom Bézazian / Victor 69102 and FAU's Saint-Saëns / Victor 87501. If the current environment cannot actually play audio, state that limitation and pursue label/session/primary catalogue corroboration instead. Keep rights separate.
+
+## Milestone 7 — new Armenian 1911 Favorite recording lead (2026-11-15)
+- Discovered MGK Collection item record and photographed label for Mademoiselle Rosalie (Rozali Benliyan), “Pamp Vorodan,” Favorite Record, catalogue number apparently 1-56211, Constantinople. Item metadata gives 1911 release date and a transcription of the Armenian text. The label image appears to show runout 4456-1 and a handwritten date-like inscription “6/2.11”; both readings remain provisional.
+- The text includes explicit vengeance language and is associated with the same Alishan/Bianchini song as distinct 1916 Bézazian Victor and 1917 Armenag Shah-Mouradian Columbia recordings. A separate 1917 Columbia item carries the same transcription, but this does not prove the Rosalie audio contains all the same verses.
+- Created `research/armenian-pamp-vorodan-favorite-1911-rosalie.md` at B — PROBABLE. Carrier-material wording was corrected: the collection says 78 rpm and “vinyl record,” so do not assume shellac without confirmation.
+- Updated global map, re-audit (B 8→9; C=18; A=0), Bézazian 1916 dossier cross-reference and README snapshot. No formal candidate created; no audio played; rights unknown/not cleared.
+- Sources are cited in the new dossier. All changes logged in coop.log.
+## Active phase
+Phase 8 — resolve the Rosalie 1911 Favorite record's primary catalogue, runout and audio access; then reconcile the Armenian multi-recording family.
+## Exact next action
+Inspect the Favorite 1911 Turkish/Armenian catalogue indexed by Recording Pioneers for order no. 1-56211; identify exact catalogue title, date, matrix and possible session. Ask the MGK collection contact for full-resolution label/runout and audio/transfer provenance. Search archives/discographies for Favorite 1-56211 / Rosalie / 4456-1. Keep the transcription provisional until the exact recording is heard.
