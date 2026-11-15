@@ -80,3 +80,14 @@ Fetch and inspect the complete `research/global-early-recording-map.md`, `resear
 Phase 4 — cross-module reconciliation and companion editorial framework.
 ## Exact next action
 Inspect the companion repository `sloev/grudgebook` as README requires. Then reconcile the README's current research snapshot against canonical files and the re-audit status crosswalk; add links and A/B/C evidence labels only after confirming each row's canonical dossier. Avoid changing historical research conclusions.
+
+## Milestone 4 — companion editorial framework checked (2026-11-15)
+- Inspected `sloev/grudgebook` because the Grudgemixes README explicitly requires it. Read its README, foreword, research-method appendix, conceptual-terms appendix, Atlas guide, Chapter 25 on grievance archives and authoritative master contents/assembly guide.
+- Governance confirmed: Claude Fable is editor-in-chief/final editorial authority; ChatGPT/Grok contribute research/drafts. Companion chapters are canonical and contributors should propose changes rather than silently overwrite them.
+- Conceptual definitions align with Grudgemixes: spite, retaliation, punishment, revenge, grudge, resentment, feud and enmity are not interchangeable; local terms, source chronology/provenance, literary vs historical claims and explicit uncertainty must be preserved.
+- Companion framework is broader social/scientific history, not the recording eligibility standard. Grudgemixes `METHODOLOGY.md` governs early-recording inclusion.
+- Appended companion review to `coop.log.md`. No changes made to companion repository.
+## Active phase
+Phase 5 — reconcile Grudgemixes README snapshot with canonical dossiers and A/B/C crosswalk.
+## Exact next action
+Update the ten-row README snapshot: add canonical dossier links, clarify that the table includes formal candidates and research leads, and map legacy statuses to current A/B/C or thematic-outside wording using `research/re-audit-existing-leads-2026-11-15.md`. Do not change detailed dossier statuses or imply rights clearance.
