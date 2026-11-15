@@ -12,7 +12,7 @@
 - **Recording location:** Constantinople, according to the item-level collection record.
 - **Date:** CatalogIt collection record gives **release date 1911**. A handwritten date-like inscription on the label appears to read “6/2.11”; do not interpret it as a precise recording date without a better image or catalogue key.
 - **Matrix/runout:** the runout inscription below the label appears to read **4456-1**; provisional visual reading only. Confirm from a high-resolution image and specialist matrix catalogue.
-- **Format:** 78 rpm shellac.
+- **Format:** 78 rpm disc. The collection record says 78 rpm but labels the category “vinyl record”; carrier material has not been independently confirmed and should not be silently normalized to shellac.
 - **Physical label evidence:** the CatalogIt item page supplies a high-resolution photograph showing Favorite Record branding, catalogue number, “Armenian,” soprano with orchestra, Rosalie, Constantinople and the title. This is a photographed artifact, not merely a title in a later song index.
 - **Collection record:** MGK Collection, “Mademoiselle Rosalie, Pamp Vorodan/Oh Inch Anush,” created 2025-05-03, updated 2025-12-14: https://hub.catalogit.app/mgk-collection/folder/entry/mademoiselle-rosalie-pamp-vorodan-oh-inch-anush
 - **Label image:** https://d8e7jbdw4fu0e.cloudfront.net/15232/75bed020-2866-11f0-b3aa-2d6b6a1423dc-vd7lgCY.lg-nt%402x.jpg
