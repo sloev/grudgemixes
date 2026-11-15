@@ -995,3 +995,10 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Found AWA's 2000 *Arias* listing for Malcolm McEachern, “Alexanders Feast: Behold, A Ghastly Band . . . Revenge Timotheus Cries,” duration 4:51. This is a later-reissue listening lead only; its source carrier and relation to Vocalion X-9560 remain unverified.
 - Corrected the catalogue bibliographic description: the cited Vocalion catalogue is a 1926 edition, whose foreword says it covers records issued through November 1925. It should not be described as a catalogue published in 1925.
 - Mix 01 remains development-stage; exact audio inspection, transcript, transfer provenance and rights are still open.
+
+
+## 2026-11-15 — ChatGPT (FAU full-listening access route)
+
+- Checked FAU Recorded Sound Archives Research Station information. It describes a password-protected virtual music library with metadata, images and digitized streaming audio, and states that over 99,000 full audio tracks are available.
+- FAU students/staff can listen unrestricted using institutional credentials. External access is limited to educators, students and serious researchers, who may apply by supplying status and a detailed academic/educational purpose and relevant expertise.
+- This provides a concrete potential route to full listening for the exact FAU catalogue items 57310 (Saint-Saëns/Victor 87501) and 54400 (Verdi/Vocalion 60019). Approval is not guaranteed and access is not a reuse licence. Links: https://rsa.fau.edu/rs ; https://rsa.fau.edu/rs/register.
