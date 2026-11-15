@@ -165,3 +165,20 @@ Sources:
 - 1923 Nipponophone 15139-A/B listing: https://www.78music.jp/other5.html
 
 Decision refinement: **Gishi no Uchiiri** is now a stronger high-priority lead with contemporaneous evidence of commercial sale by June 1914, a pictured Yamato On-ei label, and a 1912 printed Naramaru repertoire witness. It remains **LEAD / NOT YET CANDIDATE** until the original Yamato disc is identified (label/catalogue/matrix), the 1914 performer identity is confirmed, and the recorded text is compared with the 1912 printed narrative. The 1923 Nipponophone 15139-A may be a later separate recording; do not collapse the two issues.
+
+
+### D. Takamine Chikufu, *Gishi no Uchiiri* — 1924 Nipponophone and undated Menophone holdings
+
+A second early recorded treatment of the raid appears in the specialist Nipponophone catalogue:
+- **義士討入（一）（二）**, then **義士討入（三）（四）**, Takamine Chikufu (高峰筑風), label Nipponophone, catalogue numbers **15226–15227**, new-issue date **January 1924**, genre **Takamine biwa** (高峰琵琶). This is a four-side performance, not the same recording as Yoshida Naramaru's Naniwabushi side 15139-A.
+- Takamine Chikufu (Suzuki Tetsurō, 1879–1936) founded the Takamine biwa school in 1912 and was a recognized biwa performer/composer. His death is before 1956, but the catalogue does not credit him as lyricist/composer for this particular *Gishi no Uchiiri*. Do not assume his performer credit automatically satisfies the author/composer rule.
+- A 1981 Kushiro Municipal Museum catalogue of the Tokuji Sakai collection independently lists a physical four-side **義士の討入（一）〜（四）** by Takamine Chikufu on **Menophone 1618–1621**. This may be a different earlier issue or another label/version, but the museum catalogue gives no publication date and no matrix or transfer information. It is a real collection-level object, not proof of pre-1926 publication. The same collection lists other Akō-repertoire discs, including **続義士の本懐** (Toyoda Kyokusuì, Nipponophone 379–380) and **義士の本懐** (Toyoda Kyokusuì, Nipponophone 1799–1800), also without dates in this inventory.
+- A separate 2020 study of modern biwa SP releases provides a broad catalogue framework and describes the growth of modern biwa schools and repertoire. It notes that the record market drew on historically popular narrative subjects, but the surfaced passages do not assign authorship of the 1924 *Gishi no Uchiiri* to Takamine.
+
+Sources:
+- 78MUSIC Nipponophone catalogue, January 1924, 15226–15227: https://www.78music.jp/other5.html
+- Takamine Chikufu biography (1879–1936; founder of Takamine biwa): https://kotobank.jp/word/%E9%AB%98%E5%B3%B0%E7%AD%91%E9%A2%A8-1087925
+- Kushiro Municipal Museum, 1981 catalogue of physical records; Takamine *Gishi no Uchiiri*, Menophone 1618–1621, and other Gishi repertoire: https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf
+- 2020 study, modern biwa SP records: https://www.jstage.jst.go.jp/article/toyoongakukenkyu/2020/85/2020_61/_pdf/-char/ja
+
+Decision: **PARTIALLY DOCUMENTED DISC / LEAD, NOT CANDIDATE**. The 1924 Nipponophone issue is a strong date/title/performer lead and a four-side raid narrative. The Menophone 1618–1621 holdings are an important physical-disc lead but remain undated. Composition authorship/traditional provenance, exact archival audio/transfer and commercial rights remain unresolved. Keep this separate from Naramaru's 1914 Yamato On-ei and 1923 Nipponophone versions.
