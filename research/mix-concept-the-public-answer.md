@@ -20,7 +20,7 @@ A grievance becomes public when it is sung. This miniature sequence moves from a
 
 ### 3. Bentley Ball — “Jesse James” (Columbia A3085, 1919/1920)
 - **Role:** NARRATIVE / CONTEXT — public accusation, counter-insult and betrayal grievance; **not direct revenge**.
-- **Evidence:** New candidate GM-US-001. Smithsonian object record gives 1920; Commons Ogg metadata gives 15 May 1919; both are pre-1926 but exact date conflicts. FAU item confirms A3085 and both tracks; matrix 90038 is the other side, so Jesse James side matrix remains open. Lomax 1910 text repeatedly accuses Robert Ford of cowardice and betraying Jesse's hospitality.
+- **Evidence:** New candidate GM-US-001. *The Talking Machine World* (15 Aug 1919) contemporaneously lists A3085 and “Jesse James,” verifying publication by that date. Recording/fixation remains uncertain: Smithsonian gives 1920, while Commons Ogg metadata says 15 May 1919. FAU item confirms A3085 and both tracks; matrix 90038 is the other side, so Jesse James side matrix remains open. The Commons Ogg has no documented source-carrier/transfer chain. Lomax 1910 text repeatedly accuses Robert Ford of cowardice and betraying Jesse's hospitality.
 - **Context:** The ballad's moral answer is public condemnation of Ford. It also romanticizes Jesse James; preserve the contradiction and avoid repeating the song's claims as historical fact.
 
 ## Why this works under the flexible model
