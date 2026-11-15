@@ -421,3 +421,48 @@ Sources:
 - Nippon Columbia official reissue page: https://columbia.jp/prod-info/COCJ-33688-9/
 - CiNii SP record E1009/E1010: https://ci.nii.ac.jp/ncid/BB16524158
 - CiNii CD with complete listening text: https://ci.nii.ac.jp/ncid/BB09477604
+
+
+
+
+## 2026-11-15 — Naramaru's 1914 Yamato On-ei disc and Nichibunken Royal 1853: new institutional cross-check
+
+### 1. The 1914 Yamato On-ei evidence is stronger, but not yet an exact catalogue identification
+
+Hidenori Onishi's 2023 Ritsumeikan University article reproduces a contemporaneous *Osaka Mainichi*, Kyoto-Shiga supplement report dated **19 June 1914**. The report says Tokyo's Yamato On-ei commissioned Yoshida Naramaru to record three signature Naniwabushi pieces — **義士の討入** (*Gishi no Uchiiri*), **源蔵徳利の別れ** (*Genzo Tokkuri no Wakare*) and **南部坂** (*Nanbuzaka*) — and sold them under the **馬印** (horse-mark) name. The same article reproduces a photograph (Fig. 5) of a genuine Yamato On-ei / YAMATO RECORD label credited to Yoshida Naramaru, with the imprint “RECORDED BY YAMATO ON-EI KABUSHIKI KAISHA.”
+
+This is a valuable convergence of contemporaneous commercial reporting and a photographed original label from the same company/performer. It materially strengthens the case that Naramaru's direct raid narrative was commercially recorded and sold by June 1914. But the photograph's visible label does not expose a readable title, issue number or matrix; it cannot yet be asserted to be the *Gishi no Uchiiri* side rather than one of the other named titles. The article's newspaper quotation reports the three titles as part of the same group, while its figure caption identifies the pictured object generically as a Yoshida Naramaru Yamato record. Keep the title-to-specific-disc linkage at **B — probable**, not exact carrier verification.
+
+The article also quotes a separate 16 July 1914 *Hinode* report about a related Naniwabushi record-copying dispute involving Nippon Chikuonki and Orient. These are contemporaneous allegations and a report of withdrawal/settlement, not evidence that a particular surviving disc is a pirate copy or that any present-day rights are cleared. Avoid projecting modern rights conclusions from the historical dispute.
+
+### 2. Nichibunken has a distinct physical Yoshida Naramaru Royal *Tokkuri no Wakare* disc
+
+A new item-level search result in Nichibunken's Rōkyoku SP Digital Archive identifies **register 525671**:
+- Title: **赤垣源藏徳利の別れ** (*Akagaki Genzo Tokkuri no Wakare*).
+- Performer: Yoshida Naramaru.
+- Label: **Royal Record**, catalogue no. **1853**.
+- Format: one-sided disc, one disc; side A duration 3:42.
+- Release month: **not supplied**.
+- Collection: Morikawa Tsukasa Collection; archive notes poor playback condition.
+- Digitization: laser turntable, phono equalizer and ADC; audio is marked internet-open.
+
+This is an exact archive object and label image route for a Naramaru Royal disc, and it corroborates the circulation of the *Akagaki Genzo / Tokkuri no Wakare* episode in Naramaru's recorded repertoire. It is **not** Kumoemon's 1912 Lyrophone E1009 / 70937–70940 recording (register 519319), and the undated Royal 1853 object cannot be dated pre-1926 solely from the title or label. Nor does the farewell episode by itself meet the grievance/retaliation theme gate. Keep it **C — contextual physical disc lead** until the label image is inspected for any further date/series clue and a text/audio comparison is made.
+
+Nichibunken's archive overview states that it is built around 9,998 donated SP records, that all record-face images are publicly available, and that sound files are publicly accessible only where copyright term has expired; its general transfer method is laser turntable, phono equalizer and ADC, with WAV masters converted to MP3 without noise reduction. The register page itself was not retrievable directly in this session (403), so I relied on the indexed item metadata; I did not inspect the actual label image or play the audio.
+
+### 3. Current evidence grades and next action
+
+- **1914 Yamato *Gishi no Uchiiri*:** contemporaneous report of sale by 19 June 1914 and a photographed authentic Yamato/Naramaru label are strong independent support for the recording branch; exact title-to-visible-disc number/matrix remains unresolved. **B — high-priority lead, not yet exact object.**
+- **Nichibunken Royal 1853 *Akagaki Genzo Tokkuri no Wakare*:** exact physical archive record, label, performer, side duration and poor condition; release date unknown and thematic content is farewell/context. **C — contextual physical lead.**
+- **1923 Nipponophone 15139-A/B:** retain as a separate dated catalogue issue (July 1923), not assumed to be the 1914 Yamato master.
+- **Kumoemon 1912 Lyrophone 70937–70940:** separate performer and issue; remains contextual pending complete text/audio comparison.
+
+Next: inspect the indexed label images for Nichibunken 525671 and search the archive's catalogue for the direct Naramaru *Gishi no Uchiiri* / Royal 1645 / Yamato titles. Obtain the 2006 Columbia booklet for Kumoemon only if that text comparison remains useful. For the 1914 Yamato record, pursue the original June 19 1914 *Osaka Mainichi* Kyoto-Shiga supplement and any surviving Yamato catalogue/label with a legible title, issue number and matrix. No audio was played, no carrier inspected, no archive contacted, and no rights cleared.
+
+Sources:
+- Onishi, “On The Oriental Phonograph Company (Orient Records) in Kyoto,” *ART RESEARCH* 23-2 (2023), esp. pp. 84–85; reproduces the 1914-06-19 newspaper report and Fig. 5 Yamato/Naramaru label: https://www.arc.ritsumei.ac.jp/download/ar/ar23/artresearch_23.pdf
+- Nichibunken item 525671: https://kutsukake.nichibun.ac.jp/rsp/?reg=525671
+- Nichibunken archive overview / catalogue and transfer conventions: https://kutsukake.nichibun.ac.jp/rsp/about/
+- Nichibunken archive public-access announcement: https://www.nichibun.ac.jp/en/topics/db/2020/06/24/s001/
+- 78MUSIC July 1923 Nipponophone 15139-A/B: https://www.78music.jp/other5.html
+- NDL's holdings for *Osaka Mainichi*: https://ndlsearch.ndl.go.jp/books/R100000002-I000000098327
