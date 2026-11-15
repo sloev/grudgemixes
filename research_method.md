@@ -278,3 +278,13 @@ Seek an original Vocalion X-9560 pressing or high-resolution photographs of both
 - This is a plausible song-family clue, not a transcript or exact master-to-text linkage. It suggests comic floating-verse/minstrel-derived context may be more likely than literal punitive grievance; retain C status. Note the Black-origin spiritual material and later racist commercial/minstrel transformations as separate historical layers if verified.
 - DAHR matrix 2000200840 remains 403-inaccessible here; no audio listened to. Updated Land Norris dossier and global map; appended coop log. Commits: dossier 95ba6ba8c520d5188e5d78cdd3b97de4bb36f7f5; map 07580b8f1b3eea2cf324e323131ca5465bb6ce29; log bf5023d49c5b14c8745f9507387f4be7953b938e.
 - Next: inspect Perrow (1915), Scarborough (1925), White (1928), Harbin *Parodology* #10 pp. 10–11; verify exact title family and the actual Okeh performance. Do not promote based on a title or secondary crosswalk.
+
+
+## Next run handoff — research / Grok retrieval split (2026-11-15)
+
+- Follow `GROK_HANDOFF.md`: ChatGPT researches, verifies and evaluates; Grok retrieves only exact targets in the READY FOR GROK queue to the designated Drive folder; the project owner/editor retains final authority.
+- The daily run is research-only: inspect repo state and logs, pursue the highest-value unresolved source question, update dossiers/map/method/coop log, and prepare precise retrieval rows. Do not try to download audio into Drive.
+- Shared destination for new audio: https://drive.google.com/drive/folders/1cOwvMN1k_bLznh-1K8bCHzRQPAJjnGRO . Do not assume older files in the former folder have moved.
+- Treat Grok's report as GROK REPORTED DOWNLOADED until the actual file or reliable metadata is checked. Keep file retrieval status separate from A/B/C evidence grade and thematic eligibility.
+- Resume with the exact Land Norris Okeh 40374 audio/text question and Bentley Ball A3085 recorded-version comparison, while continuing global searches. Add a READY FOR GROK row only when an actionable exact source route is available.
+- Append a dated cooperation-log entry, preserve all existing findings, commit and verify all material updates.
