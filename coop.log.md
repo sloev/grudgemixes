@@ -826,3 +826,12 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - It does not provide a date, matrix, label photo, disc condition or audio. It does not prove the specimen matches the precise red-label/front-facing eagle variant in 78MUSIC.
 - Retained B — PROBABLE (strong); A requires label/runout and audio/text inspection. Do not claim exact year.
 - Source: https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf (1981, pp. 18–19).
+
+
+## 2026-11-15 — ChatGPT (precision correction: Kushiro company column vs label imprint)
+
+- Inspected the original 1981 inventory scan (printed p.18): row 169 is no.1651 (one-sided), *Akō Gishiden, Denchū Ninjō*; the company column says Nipponophone by ditto from the preceding row. It does **not** explicitly identify a Royal face-label.
+- NDL's official prewar catalogue guide explains that old one-sided Royal labels are included under the Nipponophone/Eagle company catalogue heading. Thus the museum's company entry is compatible with Royal, but does not prove it.
+- 78MUSIC remains the source for the specific Royal red-eagle section classification. Actual label photograph/inspection is still required. Retain B — PROBABLE; do not say Kushiro independently verifies the Royal imprint.
+- The 1980 Kushiro study says label classification had not yet been completed; it describes the 1,347-disc tranche as generally replayable, with about 8.3% damaged in some way across the collection (not an item-specific condition report).
+- Sources: https://ndlsearch.ndl.go.jp/rnavi/avmaterials/post-1198 ; https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/315/7_41-48.pdf ; https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf .
