@@ -191,3 +191,44 @@ Source: Tokyo Museum Collection, “Naniwa-Bushi (Narrative Singing with Shamise
 - **Tokyo Museum Collection 98651727–98651728**: Royal-labelled *Akō Gishiden* SP set; performer/catalogue/matrix/date unresolved. C — LEAD.
 - **Nichibunken Royal 1723–1724**: *Hazama Jūjirō*, separate Naramaru narrative episode; its archive record and access conditions are distinct.
 - **Royal 1645 / 1649 and other numbered discs**: separate episode-specific issues; do not merge merely because all belong to the Akō cycle.
+
+
+## New primary NDL witness and performer-generation control (2026-11-15)
+
+### Exact 1912 printed title and performer
+
+The National Diet Library (NDL) scan of Takuma Sadao, ed., *Naniwabushi Hitofushi Zenshū* (浪花節一ト節全集), published May 1912 (Meiji 45.5), gives a direct printed-text witness for this episode. Its contents record 「殿中の刃傷・吉田奈良丸」 at p. 1; the scan image itself prints 「殿中の刃傷（義士傳之内） 吉田奈良丸」. This closely matches, but is not identical to, the 78MUSIC catalogue title for no. 1651, 「赤穂義士伝 殿中刃傷」, and the same performer name. It materially strengthens the evidence that this was a named Naramaru repertory item by 1912. It is **not** a recording or a record-specific lyric sheet: it does not prove that no. 1651 contains this exact text or performance.
+
+Primary print/scan: NDL DOI https://doi.org/10.11501/891638 ; Commons-hosted NDL scan and item-level contents metadata https://commons.wikimedia.org/wiki/File:NDL891638_%E6%B5%AA%E8%8A%B1%E7%AF%80%E4%B8%80%E3%83%88%E7%AF%80%E5%85%A8%E9%9B%86.pdf (PDF page 4 is the opening of 「殿中の刃傷」). NDLBibID 000000515685; 83 pp.; call no. 特63-443.
+
+### Performer-generation caution
+
+Nara Prefecture's local-history entry for the Yoshida Naramaru memorial says that the first-generation Naramaru handed the name to his pupil Ko-Nara in 1902 and thereafter used the name Takeno-ya Yōtokusai; it gives the first Naramaru's death as 1915. Kotobank's biographical entries identify Ko-Nara/Hirohashi Hiroyoshi as the second-generation Naramaru and also date the succession to 1902. Sources: Nara Prefecture, https://www.pref.nara.lg.jp/ikasu-nara/bunkashigen/main01601.html ; Kotobank, https://kotobank.jp/word/%E5%90%89%E7%94%B0%E5%A5%88%E8%89%AF%E4%B8%B8-654186 .
+
+Accordingly, the unqualified Yoshida Naramaru credited in the 1912 text and the 78MUSIC Osaka catalogue entries is **more likely the second generation than the first**, but neither source explicitly gives a generation for the particular 1651 master. Do not attach the first Naramaru's 1915 death date or biography to the 1651 performer. This is an identity-control issue, not a composition-age gate.
+
+### Official label chronology and a new primary-catalogue route
+
+The NDL's official prewar-record guide (updated 2025-05-02) states that the Nipponophone company's one-sided-label period through 1915 included Royal; from 1915 the company shifted to double-sided Nipponophone (eagle) issues. It also explains that catalogues for the older one-sided labels, including Royal, are filed in the NDL's “Nipponophone, Eagle” catalogue group. https://ndlsearch.ndl.go.jp/rnavi/avmaterials/post_1198
+
+78MUSIC places no. 1651 under its distinct “Royal Record — red-label eagle mark” heading and describes it as 「正面鷲片面」 (front-facing eagle, one-sided), with title 「赤穂義士伝 殿中刃傷」 and performer 「大阪 吉田奈良丸」. Its row gives no new-release month/year and no matrix. https://78music.jp/other5.html (see the Royal red-label eagle section and no. 1651).
+
+**Chronology assessment:** if 78MUSIC's label-family classification applies to the actual surviving 1651 disc, the issue belongs to the Royal one-sided period ending in 1915 and is therefore probably pre-1926. This remains conditional secondary discographical evidence, not a verified item date: no 1651 label image, runout or dated contemporary advertisement has been inspected.
+
+A promising primary-source check remains open. The NDL Research Navi identifies the fifth edition of *Chikuonki Monkusū* (蓄音器文句集), published January 1914, and says it records the contents of Nipponophone-company records issued through January 1914; NDL call no. KH13-L245. https://ndlsearch.ndl.go.jp/books/R100000002-I028655577 and https://ndlsearch.ndl.go.jp/rnavi/avmaterials/post_1198 . I did **not** establish that no. 1651 or this title appears in that volume. Inspecting its relevant contents pages is a concrete next step, not current date proof.
+
+### Recheck of the separate Edo-Tokyo Museum object and metadata rights
+
+The live ToMuCo record for collection ID 98651727–98651728 currently exposes 「ROYAL RECORD/製」 in its creator/maker metadata field, a broad 20th-century date and the title *Naniwa-Bushi: Akō Gishiden*. It still gives no performer, catalogue number, matrix or exact date; the image endpoint returned a placeholder rather than a label photograph. https://museumcollection.tokyo/en/works/7051806/ and its structured metadata https://museumcollection.tokyo/en/works/7051806/?output=json . This is a separate museum object, not evidence that the item is 1651 or a Naramaru performance.
+
+ToMuCo's terms say website content is generally available under Public Data License 1.0, including commercial use with attribution, but third-party rights may subsist in collection images and must be checked. https://museumcollection.tokyo/en/terms/ This is metadata/image-use information only; it grants no rights in the sound recording, master, transfer or audio.
+
+### Evidence disposition — no status promotion
+
+- **Recording existence:** 78MUSIC supplies a specific 1651 catalogue entry; the museum separately confirms a two-object Royal-made SP set. Neither establishes that the museum object is 1651.
+- **Thematic fit:** the 1912 NDL print proves the matching Naramaru episode/title existed in the repertory; the separate 1912 *Denchū Ninjō* text already cited above supplies the explicit insult/accusation, failed immediate retaliation and later collective-revenge sequence. Neither print proves the exact words on 1651.
+- **Chronology:** **PROBABLE DATE only**, conditional on the Royal red-label eagle classification; no exact issue or fixation date.
+- **Audio/authenticity:** no audio or transfer for 1651 located or inspected; no matrix/runout match.
+- **Rights:** no audio/master/performer/transfer permission established. ToMuCo metadata terms do not affect those rights.
+
+**Decision:** keep Royal/Nipponophone 1651 as **C — LEAD overall**, with a probable pre-1916 issue chronology conditional on the catalogue's label classification. Do not promote it to B or A until the physical label/matrix and the actual recording or a record-specific text are linked. Keep the separate ToMuCo museum set at C.
