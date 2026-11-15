@@ -71,3 +71,27 @@ Sources:
 ## Decision
 
 No candidate admitted. The Mexican 1904 Edison catalogue is a significant global discovery route and produces two valuable outlaw-ballad leads, but exact original lyrics and audio are missing and the thematic mechanism is not yet sufficiently clear. Next steps: search the UCSB and Edison National Historical Park catalogues for 18512/18515; request original cylinder labels, matrix/recording ledger data and transfer notes; listen and transcribe before deciding whether either ballad belongs in the series.
+
+
+## Focused follow-up: *Ignacio Parra* has a pre-1926 printed text and explicit “society avenged” variant
+
+The initial screening note understated the strength of the *Ignacio Parra* lead. A follow-up search found a coherent cluster of printed and scholarly witnesses:
+
+1. **1905 anonymous broadside.** Aurelio González cites *Corrido de Ignacio Parra*, a single-sheet broadside from Imprenta de Antonio Vanegas Arroyo, Mexico City, 1905. He identifies it as a text of circumstance praising Octaviano Meraz, “jefe bueno de Acordada,” and expressing the gratitude of the people of Durango; it casts Parra as a criminal. González quotes the final stanza of this 1905 text, in which the community is said to have gained from Parra's death and is invited to see how wrongdoers die. The article explicitly distinguishes this officialist version from corridos that side with the marginal outlaw.
+2. **1914 anonymous broadside.** El Colegio de México preserves a two-page 1914 Vanegas Arroyo broadside, *Ya la autoridad echó garra al malvado Ignacio Parra*. Its headline refrain says Parra paid with his life, justice triumphed, and society is avenged. The full digital scan/transcription narrates Parra's crimes, the death of his lieutenant Refugio Alvarado, and Octaviano Meraz's pursuit and killing of Parra. This is an especially explicit contemporary statement of collective vengeance/punishment, but it is a later variant and not proof of the exact 1904 cylinder text.
+3. **1925 anthology witness.** Higinio Vázquez Santa Ana's *Historia de la canción mexicana*, vol. 1 (Talleres Gráficos de la Nación, 1925), includes *Corrido de Ignacio Parra* at p.210. Aurelio González's article cites the 1924/25 Vázquez Santana collection, pp.210–213, as the source for the 1905 broadside text. This gives a pre-cutoff printed textual witness, though the original 1905 broadside and 1914 broadside are distinct versions.
+4. **1904 commercial cylinder.** The Edison Phonograph Monthly catalogue lists *Ignacio Parra*, parts 1–2, Edison 18512–18513, as corridos by Rafael Herrera Robinson. This is the exact early recording lead. The 1904 catalogue and later corrido historiography establish the recording title, performer and record numbers, but the original cylinder's words have not yet been compared with either printed version.
+
+### Classification and decision
+
+This is now a **HIGH-PRIORITY LEAD / NEAR CANDIDATE**, not yet a candidate. The recorded title, performer, two-part structure and commercial Edison catalogue numbers are documented in 1904; an anonymous 1905 broadside supplies early traditional-repertoire provenance; a separate 1914 version makes the collective vengeance frame explicit. The likely mechanism is **collective punishment / state justice represented as society's vengeance**, rather than an individual's calculated revenge, personal spite or the outlaw's own retaliation. It is a politically situated officialist account, not a neutral record of the events or a transparent popular consensus. González's analysis cautions that the 1905 version praises Meraz and presents Parra as a criminal, while other corridos of the same outlaw tradition could take the opposite side.
+
+Do not quote the 1914 “society avenged” line as if it were heard on the 1904 cylinder. Before candidate admission, obtain and hear Edison 18512–18513, transcribe both sides, and compare the recorded text with the 1905 broadside and 1925 anthology; separately compare the 1914 variant. Locate an original/archival cylinder transfer and item-level transfer notes; determine territorial rights. The 1905/1914 printed witnesses support the composition/traditional provenance gate if the recording is shown to preserve that text or a related traditional variant.
+
+Additional sources:
+- Aurelio González, “El corrido del siglo XIX: caracterización novelesca del héroe,” *Anuario de Letras* 50 (2012), especially pp.507–513. He identifies the 1905 Parra corrido as officialist and quotes its moralising close; notes that the 1914 broadside is a separate variant: https://revistas-filologicas.unam.mx/anuario-letras/index.php/al/article/download/998/996/0
+- El Colegio de México, digital full text and scan of the 1914 broadside: https://repositorio.colmex.mx/downloads/70795c46z?locale=es
+- El Colegio de México catalogue record for the 1914 broadside (anonymous, Vanegas Arroyo, Mexico City): https://repositorio.colmex.mx/concern/books/9s161b045?locale=es
+- Amon Carter Museum, José Guadalupe Posada, *Ya la autoridad echó garra al malvado Ignacio Parra*, 1912, zinc etching; its inscription reproduces the four-line “society avenged” refrain: https://www.cartermuseum.org/collection/ya-la-autoridad-echo-garra-al-malvado-ignacio-parra-1978181
+- Higinio Vázquez Santa Ana, *Historia de la canción mexicana*, vol.1 (1925), contents list *Corrido de Ignacio Parra*, p.210: https://books.google.com/books?id=JMEOAQAAMAAJ
+- The 1904 Edison catalogue and Frontera context are cited above.
