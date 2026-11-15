@@ -154,3 +154,23 @@ The earlier 4 November 1925 sessions include “Orin Ijoba Egba” (Zonophone 39
 - **“Orin Ofo”:** HIGH-PRIORITY LAMENT / LOSS LEAD; not yet a candidate. Need exact text, meaning, traditional/authorship provenance, archive transfer and rights.
 - **“Yoruba Philosophy / Oriki Lara”:** spoken lead only; do not conflate “Lara” with “ilara” (envy) absent textual/linguistic verification.
 - Other Solanke titles listed above remain discovery leads only.
+
+
+## Linguistic qualification — “Orin Ofo” is not yet securely translated as “song of loss”
+
+The earlier screening note treated *Ofo* as a likely Yoruba word for loss/calamity and used Afrodisc's “Lament” genre label to classify the side as a grief/loss lead. That remains plausible, but the unmarked catalogue title is **lexically ambiguous** and should not be presented as a settled translation.
+
+- Samuel Crowther's 1852 *A Vocabulary of the Yoruba Language* lists **Ofo** with senses including “emptiness” and “loss, calamity, damage”; its historical orthography does not supply the modern tone-marked distinction needed here.
+- Modern Yoruba sources distinguish **òfò** (“loss,” including loss by death in some glossaries) from **ọ̀fọ̀** (“incantation,” a verbal/ritual genre). Scholarship treats ọ̀fọ̀ as a specific Yoruba incantatory form, which can be used for different purposes. This is not synonymous with a lament.
+- Afrodisc's specialist discography labels the Zonophone side **“Lament”**. That is evidence for the cataloguer's genre identification, but it does not provide the original text or explain the classification.
+- A 2013 study of Yoruba folk musical idioms distinguishes *Orin Ìdárò* (dirge) from other song categories; a 2020 classification lists *ofo* among incantatory forms. These sources underline why the missing tones and text matter.
+
+**Corrected status: HIGH-PRIORITY TEXTUAL LEAD / NOT YET TRANSLATED / NOT A CANDIDATE.** Record the catalogue form exactly as **ORIN OFO**; do not silently add tone marks or translate it as “song of loss.” Retain “Lament” as the Afrodisc catalogue description, not an independently verified translation. Possible readings include a lament associated with loss or a song involving *ọ̀fọ̀* incantation; no claim about content or ritual function can be made until the recording is heard and the Yoruba words are transcribed and reviewed by a competent speaker/scholar.
+
+Sources:
+- Samuel Crowther, *A Vocabulary of the Yoruba Language* (1852), entry “Ofo,” p.207: https://upload.wikimedia.org/wikipedia/commons/6/64/A_vocabulary_of_the_yoruba_language.pdf
+- Awo Fa’lokun Fatunmbi, “The Language of Ifa,” glossary distinguishing *òfò* (loss) and *ọ̀fọ̀* (incantation): https://pressbooks.pub/africanamericanreligionsifa/back-matter/appendix/
+- Saka Idayat and Oyè Táíwò, “Movement in Ọ̀fọ̀ (Yorùbá incantation),” *Perspectives on African Languages and Literature* 2 (2018): https://www.academia.edu/94018305/Movement_in_O_fo_Yoru_ba_incantation
+- Abel Adeleke, “Aesthetic Philosophies of Yoruba Folk Musical Idioms,” *Awka Journal of Research in Music and the Arts* 9 (2013), pp.174–177: https://www.nigerianjournalsonline.com/index.php/ajrma/article/download/1898/1855
+- Olaleye and Adeyeye, “Classification of Indigenous Yoruba Vocal Music” (2020): https://fpiwitedjournal.federalpolyilaro.edu.ng/administrator/docs/9466792.pdf
+- Afrodisc, West Africa Zonophone 3926–3990: https://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-3926-3990/
