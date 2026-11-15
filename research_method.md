@@ -151,3 +151,15 @@ Phase 3 — convert strongest B candidates into evidence-complete mix packages; 
 
 - Added formal candidate GM-UK-001: Handel / Malcolm McEachern, “Revenge! Timotheus Cries,” Vocalion X-9560. Contemporary 1925 catalogue gives a two-part issue; specialist sessionography suggests London October 1924? with session/matrix references 03724/03725. Text chronology and grievance/revenge mechanism are strong; audio item not yet found. B — PROBABLE.
 - Expanded provisional Mix 01 “The Honour of Vengeance” to three tracks: Handel/McEachern, Saint-Saëns/Homer–de Gogorza, Verdi/Scotney–Rimini. No audio was listened to and no rights or transfer clearance claimed.
+
+
+## Continuation — Japan Royal 1651 text and generation cross-check (2026-11-15)
+
+- Added a new primary NDL print witness to the Japan dossier: *Naniwabushi Hitofushi Zenshū* (May 1912) prints 「殿中の刃傷（義士傳之内） 吉田奈良丸」, closely matching 78MUSIC's Royal 1651 title/performer entry. This supports the repertory/title link but does not establish the exact 1651 audio or performed text.
+- Added Nara Prefecture's 1902 Naramaru name-transfer evidence and Kotobank's second-generation identification. The 1912 and 1651 performer is likely second-generation; the exact discographic entry remains generation-unspecified.
+- Added NDL's official Royal label chronology: Royal among one-sided labels through 1915; older Royal catalogues filed under Nipponophone/Eagle. 78MUSIC places 1651 in the Royal red-label eagle section, so pre-1916 is probable only conditionally. No exact date, matrix, physical label image or audio was found.
+- Identified a new primary catalogue route: NDL's January 1914 *Chikuonki Monkusū* reportedly records Nipponophone-company record contents through that month. The actual contents were not inspected for 1651; no date upgrade.
+- Rechecked ToMuCo 98651727–98651728: creator/maker metadata says 「ROYAL RECORD/製」, date is broad 20th century, and no item image/performer/catalogue/matrix is exposed. Kept it distinct from 1651. ToMuCo metadata reuse terms are not audio/master rights.
+- Updated the Japan dossier, global map and append-only cooperation log. No status promotion, audio playback, physical inspection, archive contact or rights clearance.
+- Current active phase: exact issue and master identification for Naramaru Royal 1651, alongside the independent Mix 01 FAU audio-access workstream.
+- Exact next actions: (1) inspect the NDL 1914 *Chikuonki Monkusū* contents for 1651 or the title; (2) seek a physical 1651 label/runout image and matrix; (3) request Nichibunken item-level identity/audio details; (4) request Edo-Tokyo Museum label/runout/provenance details for 98651727–98651728 without conflating it with 1651; (5) continue Mix 01 listening, transfer-provenance and rights checks only through legitimate access.
