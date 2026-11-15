@@ -40,10 +40,21 @@ Do not describe Bernal uncritically as a Robin Hood figure or assume the popular
 
 ## Retrieval and research handoff
 
-**Grok status: RESEARCH TARGET — exact 1921 identity and a lawful streaming source are located; obtain a permitted copy or report access restrictions.**
+**Grok status: READY FOR GROK — exact later CD access copy located; investigate authorized retrieval.**
 
 - Start with the Frontera Collection entry and the Arhoolie CD 7041 transfer; check the archive's current access/reuse terms before any retrieval.
 - Seek an original Columbia C4054 / matrix 87650 carrier or a documented preservation transfer from a library/collector.
 - Record whether the obtained file is the Frontera/Arhoolie derivative or a direct transfer from the 78; do not call the CD transfer an original archival master.
 - Transcribe the full Spanish lyrics from the exact Trío Nava performance; compare the reward/betrayal narrative and any explicit anti-government language with the 1931 broadside.
 - Do not substitute Rafael Herrera Robinson's 1904 Edison cylinder or the 1953 Dueto Adán y Eva version.
+
+
+## 2026-11-15 access-route refinement
+
+The current Frontera page explicitly presents a **Full Track** player for this exact Trío Nava entry and identifies the underlying original release as Columbia C4054 (87650), later represented on Arhoolie CD 7041, disc 1, track 7. This is a useful exact-performance listening route, but it is a CD reissue transfer, not a preservation transfer directly from the 1921 78. Frontera's subject tags include death, murder, betrayal, military and shootout; these are cataloguing aids, not a substitute for lyric analysis.
+
+An academic study of Mexican popular song and violence describes the Bernal corrido cycle as involving an unjust accusation, flight from repressive authorities, popular support, and the betrayal by his compadre Crispín García. It also cautions that the corridos frame violence through competing popular and official norms. This strengthens the cycle-level context but does not establish that every element occurs in the Trío Nava master. The El Colegio de México 1931 broadside is a later text witness, not the 1921 lyric sheet.
+
+**Handoff:** Grok should test the authorized Frontera/Arhoolie route and lawful CD access (purchase or borrowing where needed). Do not scrape the player or bypass controls. If acquired from the CD, preserve the provenance as an Arhoolie CD-derived access copy. A separate original Columbia carrier or documented preservation transfer remains preferable. The exact 1921 Spanish lyric sequence still requires transcription.
+
+Additional source: https://www.scielo.org.mx/scielo.php?pid=S0188-25032004000400002&script=sci_arttext
