@@ -127,3 +127,12 @@ Nichibunken’s 2016 prospectus identifies an SP disc, Yoshida Naramaru, 「赤�
 ### Japan — additional item-level Naramaru disc: Royal 1723
 
 Nichibunken OPAC record BB17634016 identifies Yoshida Naramaru’s *Hazama Jūjirō: Akō Gishiden: Naniwabushi*, Royal Record 1723, a 25 cm mono SP with Japanese lyrics. Two holdings are listed, one in the Morikawa Tsukasa former collection. The OPAC links to the rōkyoku digital archive record reg=525664. This is an extant, specifically catalogued object, but its recording date, audio accessibility and exact episode text remain unverified. It is not the separate Royal *Akō Gishi-den Toiri* raid disc and must not be merged with Royal 1645/1649 or Nipponophone 15139. OPAC: https://toshonin.nichibun.ac.jp/webopac/ctlsrh.do?ncid=BB17634016&search_mode=detail&tab_num=0&locale=en ; CiNii: https://ci.nii.ac.jp/ncid/BB17634016.
+
+
+### Japan — Yoshida Naramaru / Akō Gishiden series: expanded archive leads
+
+Nichibunken/CiNii parent record BB17632622 identifies seven Naramaru SP entries in the Akō Gishiden series, including *Hazama Jūjirō*, *Kanzaki Yūgorō*, *Nanbuzaka Yuki no Wakare*, *Tonochū Jinshō*, *Akagaki Genzō*, *Ōtaka Gengō* and *Ōishi Kuranosuke Yamashina-gaeri*. A 78MUSIC specialist discography maps 1723–1724 to *Hazama Jūjirō*, 1725–1728 to *Kanzaki Yūgorō*, 1729/1732 to *Ōishi Kuranosuke Yamashina-gaeri*, and 1733–1734 to *Amanoya Rihei*. No dates established by these catalogues.
+
+Nichibunken archive audio records include *Akagaki Genzō Tokuri no Wakare*, Naramaru, Royal 1853, one-sided, 3:42, call no. 05084, reg=525671 (poor playback condition; revenge content not demonstrated), and *Kanzaki Azumakudari*, Naramaru, Nipponophone 15572–15574, three discs, call no. 05123, reg=525710 (audio interface publicly available; date and content still need verification). Keep *Kanzaki Azumakudari* separate from 1725–1728 *Kanzaki Yūgorō*.
+
+A digitized 1912 booklet (*Yoshida Naramaru Kōen Naniwabushi Ohakoshū*, reg=553460) lists *Nanbuzaka Yuki no Wakare* and an excerpt from *Kanzaki Yūgorō Azumakudari* in Naramaru's repertoire by 8 May 1912; it does not date particular record sessions. Request Nichibunken call numbers 05077, 05084 and 05123; apply at least one week ahead via a university/public library and ask for digital sound files. Detailed note: research/japan-ako-gishi-yoshida-naramaru-royal-record.md.
