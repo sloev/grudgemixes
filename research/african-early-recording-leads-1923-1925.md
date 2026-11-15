@@ -312,3 +312,36 @@ Search for the colonial notice or correspondence mentioned by Campbell, record i
 ### Screening decision
 
 Add *haló* as a high-priority Anlo-Ewe grievance-song tradition for targeted recording discovery. Do not promote any Nathaniels side or add a recording candidate on the strength of this context alone.
+
+
+## New Ghana archival branch: Rattray's 1921–22 wax cylinders and Apoɔ grievance songs
+
+### Candidate lead: Techiman Apoɔ song recordings, 16 April 1922 — C / LEAD
+
+Ernest Owusu-Poku's “The Early History of Music Recording in Ghana,” *Transactions of the Historical Society of Ghana*, New Series 21 (2022), pp.47–71, identifies Captain Robert Sutherland Rattray's field recordings as 35 brown-wax samples made between 18 August 1921 and 15 July 1922. Among them were **Apoɔ songs performed by a male chorus at Techiman on 16 April 1922**. The author reports that original cylinders are at the British Library, file group 025A-C0176X, shelf-mark C176/235–2152, and that digitized copies were transferred to the J.H. Kwabena Nketia Archive, University of Ghana, in 2018. The article says these were scholarly/ethnographic recordings, not commercial issues. The precise item/cylinder number for the Apoɔ songs remains unlocated.
+
+Thematic reason to investigate: Apoɔ is a public festival practice in which songs expose wrongs, criticize authorities and shame wrongdoers. A 2022 peer-reviewed study describes Apoɔ songs as targeting wrongdoers, especially traditional authorities, bringing them to account through public shaming and restoring moral balance. A University of Michigan cultural-centre description explains the name through Bono *po* (“to reject”) and describes collective rejection of social ills and public critique of chiefs and politicians. This fits the broadened grievance/accusation/defiance scope, though the 1922 recording's own text has not been transcribed or heard.
+
+**Do not overstate:** this is not yet a verified song about a named personal grudge, retaliation or revenge. The modern studies establish the performance tradition and thematic function, not the content of the 1922 cylinder. Status C / LEAD until the exact cylinder and audio are linked and the performed text is translated. Treat as an archival field-recording candidate, separate from commercial 78rpm releases.
+
+**Access route:** ask the British Library Sound Archive for the Rattray group 025A-C0176X / C176/235–2152, specifically the Techiman Apoɔ chorus recorded 16 April 1922; ask the J.H. Kwabena Nketia Archive whether the 2018 digitized deposit has an item-level inventory or audio file for this session. The Nketia Archive's official description confirms that it holds audio-visual traditions and commercial shellac records, and serves external researchers.
+
+### Separate item: Wudu Atiahonea and Yaw Ansere, *Kwadwom* songs, Mampong, 6 January 1922 — C / LEAD
+
+Owusu-Poku identifies an antiphonal performance by two male vocalists at the Asante Awukudae festival, catalogued as *Kwadwom* songs, British Library C176/241, wax, 1921. *Kwadwom* is described in the article as Akan appellation songs. Appellations can praise, criticize or recall deeds, but no text or grievance content for this particular cylinder has been established. This is an archival lead, not a candidate until its words are identified.
+
+### Corrected chronology: Nathaniels Zonophone 3983 is post-cutoff
+
+Owusu-Poku's bibliography lists “Speech on the tribes of Anlo & Speech on woman's rights,” Zonophone 3983, as 1925. Afrodisc's side-level discography supplies matrices and exact sessions: “Speech on the Tribes of Anlo,” Yy10318-3, 1 April 1927; “Speech on Woman's Rights,” Yy10319-1, 18 March 1927. It also describes the latter as spoken word ending with a ballad. On the stronger matrix/session evidence, both sides are **outside the 1926-01-01 core cutoff**. This is an instructive instance where a broad discographical year in a secondary bibliography is superseded by exact session data. Keep the title as a post-cutoff appendix lead only; do not use it to imply the 1925 3972 session is a *haló* recording.
+
+### Nathaniels Zonophone 3972 — unchanged C / LEAD
+
+Afrodisc identifies “Ewe Battle Hymn,” matrix Yy7339-2, and “Anlo Patriotic Song,” Yy7340-1, both recorded 20 November 1925. The scholarly overview independently lists the paired 78rpm issue. No lyrics or audio inspection have yet established whether the battle hymn is military, political, religious, metaphorical or connected to *haló*. It must not be conflated with the Techiman Apoɔ or Asante *Kwadwom* material.
+
+### Sources
+- Ernest Owusu-Poku, “The Early History of Music Recording in Ghana,” *Transactions of the Historical Society of Ghana*, New Series 21 (2022), pp.47–71: https://www.researchgate.net/publication/374810075_The_Early_History_of_Music_Recording_in_Ghana
+- Afrodisc, West Africa Zonophone 3926–3990: https://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-3926-3990/
+- J.H. Kwabena Nketia Archives, University of Ghana: https://ias.ug.edu.gh/content/jh-kwabena-nketia-archives
+- Society for Ethnomusicology, report on 2018 transfer of Rattray wax-cylinder digitizations: https://www.ethnomusicology.org/news/424886/J.H.-Kwabena-Nketia-Attends-IASA-Conference-in-Ghana.htm
+- Nyarko-Takyi, Arthur & ResCue, “Counter-hegemonic practices: a study of the song text of the Apoɔ festival of the Bono people of Techiman in Ghana,” *South African Journal of African Languages* 42/1 (2022): https://www.ajol.info/index.php/sajal/article/view/225933
+- University of Michigan, Nkwantananso Cultural Center, Apoɔ festival: https://sites.lsa.umich.edu/techiman/experience-techiman/festivals/apo%C9%94-festival/
