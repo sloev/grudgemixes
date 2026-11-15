@@ -80,3 +80,24 @@ Source: AMAR Foundation, “007 – Muṣṭafa Kāmil Bāshā – Min Al Tarikh
 The Arabic AMAR page identifies the single-sided 012250 / matrix 37P item as **“Yā Mufrad al-Ghīd”**, sung by ʿAbd al-Ḥayy Ḥilmī, and says it appears to have been recorded around Mustafa Kamil’s death, with a prayer for mercy for him. Keep this distinct from Ibrahim al-Qabbani’s separately documented two-sided “Mustafa Kamil” mawwāl (Gramophone G.C.11-12282 / G.C.11-12283; matrices 11948b / 11949b). The 012250 item is therefore a topical contemporary mawwāl reference, but the title itself is not “Mustafa Kamil.”
 
 Arabic source: https://www.amar-foundation.org/ar/007-mustafa-kamel/ .
+
+
+## Variant lead: “Mawwal Zahran” / “Mawwal Shanq Zahran” (2026-11-15)
+
+A further search surfaced a second named Dinshaway ballad tradition, commonly referred to as **Mawwal Zahran** or **Mawwal Shanq Zahran** (“Zahran’s hanging”). This should be tracked alongside, not automatically equated with, the Sheikh Mustafa ʿAjāj mawwāl discussed above.
+
+Evidence and cautions:
+- A 2015 *Al-Ahram* cultural-history article says Umm Kulthum sang “Mawwal Shanq Zahran” as a young girl. This is a retrospective newspaper claim, not an identified recording, contemporary programme, dated performance notice or source audio. It does not establish that she recorded it commercially.
+- A 2021 article in *Journal of Sciences and Arts of Music* (Helwan University, vol. 46, special issue, August 2021), in a discussion of Sheikh Imam’s national-song repertoire, reproduces a short passage attributed to “Mawwal Shanq Zahran”: “من بعد حكم المحاكم والشاويش والانجليز اتفرعنوا / بعد ما كانوا أوباش نزلوا على دنشواي ما خلو نفر ولا أخوه” (roughly: after the courts’ ruling, the constables and Englishmen grew tyrannical; once they were ruffians, they descended on Dinshaway and spared no one). The article's note points to a 1998 publication by Muhammad al-Shafi, Egyptian General Authority for Cultural Palaces, but the bibliography entry is incomplete. This is useful text evidence, but it does not identify the age or author of the ballad or a recording.
+- A 2015 *Al-Ahram* account independently says Umm Kulthum sang the Zahran mawwāl in childhood, but does not supply a date, lyrics, venue or recording medium. A Sama3y forum post repeats a claim that no recording exists and that she sang it in village performances; treat this as collector discussion, not archival proof.
+- A separate 2016 *Watani* article attributes to Umm Kulthum a late-1960s recollection to writer Saad al-Din Wahba about the ballad. This is mediated recollection, not a transcript or sound document. It may point to an unpublished film research file or interview notes.
+
+The taxonomy appears to involve **communal grievance and commemorative protest**, with the execution of Zahran as its central image. The surviving quoted lines focus on state/court and colonial violence; they do not by themselves prove a revenge narrative. Do not label it revenge without the complete text and context. Keep the Sheikh Mustafa ʿAjāj ballad’s gendered honour/revenge framing separate until a textual comparison establishes whether these are variants, separate songs, or overlapping oral repertories.
+
+Sources:
+- *Al-Ahram*, “أول من تغنى بحلم الجماهير الثائرة” (3 Feb 2015): https://gate.ahram.org.eg/daily/NewsQ/357864.aspx
+- Ibrahim Yasri Ibrahim, “الأغاني الوطنية عند الشيخ إمام,” *Journal of Sciences and Arts of Music*, vol. 46 (Aug. 2021), PDF pp. 190–191: https://jfma.journals.ekb.eg/article_160233_ee60ed733e4d99fc7491654043737b75.pdf
+- *Watani*, “الهرم الرابع” (2016): https://www.wataninet.com/2016/02/%D8%A7%D9%84%D9%87%D8%B1%D9%85-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9/
+- Sama3y forum collector discussion (2012): https://www.sama3y.net/forum/showthread.php?p=768372&s=f0d36cf7f446ed95ecf46e553babbcde
+
+**Decision:** additional oral-textual lead only; not a candidate recording. No early master, disc label, matrix, source transfer or rights evidence located. Next tasks: obtain al-Shafi (1998) and Kamal (1994) directly; collate the full Arabic texts; search Umm Kulthum's early village repertoire documentation and any Saad al-Din Wahba interview/film research papers; then search Egyptian 78 and cylinder catalogues by the title forms “Zahran,” “Shanq Zahran,” “Yawm Shanq Zahran,” and “Dinshaway.”
