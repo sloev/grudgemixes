@@ -190,3 +190,25 @@ Sources:
 The November 1907 *Edison Phonograph Monthly* Mexico catalogue list independently retains **18638 *Macario Romero*** (Robinson y Picazo) and **18750 *El Desprecio*** (Robinson). This confirms both selections remained in the Mexico-facing Edison catalogue by November 1907, but does not itself establish their original first-sale date, exact session date or whether the same master was retained throughout. The same list identifies many other titles and is a useful cross-check against Carter's 1965/1974 compilation.
 
 Source: *Edison Phonograph Monthly*, Vol. V, No. 1 (November 1907), Mexico catalogue list, pp.17–19: https://www.worldradiohistory.com/Archive-All-Audio/Edison-Phonograph/Edison-Phonograph-Monthly-1907-Vol-5.pdf
+
+
+### Ignacio Parra — narrative taxonomy and archive check (15 November 2026)
+
+A further source check sharpens, but does not resolve, the thematic question:
+
+- Jesús Iván Mora Muro, “El corrido en México: historiografía e instituciones,” in *Visiones históricas* (Universidad Autónoma de Querétaro, 2025), pp.123–125, says revenge (*venganza*) recurs as a leitmotif in nineteenth-century heroic corridos. He distinguishes the blood-feud bandit from the “social bandit” opposing exploitative elites, and places Ignacio Parra among the latter. This is genre-level and typological context, **not evidence that the 1904 cylinder itself narrates revenge**. The chapter's quoted narrative example is Macario Romero, not Parra.
+- The same chapter's pp.235–236 independently lists the two Edison Parra parts as 18512–18513, both performed by Herrera Robinson, and says they were among the early corridos commercially issued from cylinders. The November 1907 *Edison Phonograph Monthly* Mexico-market catalogue separately lists “Ignacio Parra, 1a Parte” and “2a Parte” under Robinson. The 1907 list is a later catalogue witness, not a recording-session date; Frontera's account supplies the 1904 recording date.
+- Agustín Gurza's Frontera essay characterizes *Ignacio Parra* and *Heraclio Bernal* as ballads about anti-Díaz rebels, and reports that Herrera did not reprise either in his later Victor/Columbia recordings. Gurza relays James Nicolopulos's interpretation that political pressure and a “seditious undercurrent” explain the omission. This supports a political-dissent reading of the repertory, but does not identify a specific retaliatory act in Parra's song.
+- UCSB's Cylinder Audio Archive describes a public digital collection of more than 15,000 cylinders from a collection of over 22,000; its Todd Collection separately includes nearly 6,000 primarily commercial Edison/Columbia cylinders. The present search did **not** locate an item-level public record or audio for Edison 18512/18513. Absence from this search is not proof that UCSB lacks a copy. UCSB says catalogued recordings can be found through UC Library Search and digital copies may be requested through Special Research Collections.
+
+**Taxonomy remains unresolved for the recorded performance.** Printed 1905/1914 versions that portray Parra's death as justice or society's vengeance must remain distinct from the 1904 cylinder until the cylinder is heard. Do not treat a corrido about an outlaw as automatically a revenge song, nor conflate officialist state punishment with the outlaw's retaliation or personal revenge. The recording is a **HIGH-PRIORITY LEAD / NEAR CANDIDATE**, not yet a candidate track and not cleared.
+
+**Next archive actions:** ask UCSB Special Research Collections to search title variants “Ignacio Parra,” “Parra,” Edison 18512 and 18513 across the Todd Collection, card indexes and cylinder catalogue; ask whether any surviving cylinder has been digitized or can be made available for research. Then compare both sides with the separately catalogued print witnesses and the 1925 anthology, retaining variant readings.
+
+Additional sources:
+- Mora Muro, “El corrido en México: historiografía e instituciones,” 2025, pp.123–125, 235–236: https://ri-ng.uaq.mx/bitstream/123456789/12411/2/LUAQ-000028.pdf
+- *Edison Phonograph Monthly*, November 1907, Mexico-market catalogue, pp.17–19: https://www.worldradiohistory.com/Archive-All-Audio/Edison-Phonograph/Edison-Phonograph-Monthly-1907-Vol-5.pdf
+- Agustín Gurza, “The Mexican Corrido: Ballads of Adversity and Rebellion, Part 4”: https://frontera.library.ucla.edu/blog/2017/12/mexican-corrido-ballads-adversity-and-rebellion-part-4-corridos-mexican-revolution
+- UCSB Cylinder Audio Archive: https://www.library.ucsb.edu/special-collections/performing-arts/cylinders
+- UCSB Todd Collection: https://www.library.ucsb.edu/special-collections/performing-arts/pamss01
+- UCSB access to sound recordings: https://www.library.ucsb.edu/special-collections/performing-arts/paaccess
