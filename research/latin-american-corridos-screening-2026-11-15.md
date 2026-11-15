@@ -128,3 +128,32 @@ The same *Ya la autoridad echó garra al malvado Ignacio Parra* image and four-l
 - El Colegio de México catalogues its two-page Vanegas Arroyo broadside as **1914**.
 - The Amon Carter Museum catalogues José Guadalupe Posada's zinc-etching print with the same title and inscription as **1912**.
 Until the physical copies, imprint details and collection histories are compared, record this print witness as **1912–1914 (institutional dating discrepancy)**, not as a securely dated 1914 issue. This does not affect the separate 1905 anonymous *Corrido de Ignacio Parra* witness.
+
+
+## Critical textual and political-context correction — the 1904 cylinder is not established as the 1905 officialist broadside
+
+A further check of the Frontera Collection's historical essay and the 2025 corrido historiography chapter requires a qualification to the earlier follow-up above.
+
+- Frontera explicitly identifies the 1904 *Ignacio Parra* cylinder as one of two ballads about rebels active in the late 1880s during the Porfirio Díaz dictatorship. It says Rafael Herrera Robinson did not reprise either *Ignacio Parra* or *Heraclio Bernal* in later Victor/Columbia sessions, and reports James Nicolopulos's interpretation that political pressure and a “seditious undercurrent” explain the omission. This is a substantially different political framing from the officialist 1905 broadside.
+- The 2025 chapter “El corrido en México: historiografía e instituciones” places Ignacio Parra among the nineteenth-century bandit/social-bandit protagonists represented in corridos. It separately establishes the 1904 Edison sequence and the two catalogue numbers 18512–18513, performed by Herrera Robinson.
+- Aurelio González's analysis of the 1905 Vanegas Arroyo broadside describes that **printed witness** as praising Octaviano Meraz and presenting Parra as a criminal. The later 1912/1914 “Ya la autoridad echó garra” print is another witness with its own institutional dating discrepancy. None of those print sources has yet been demonstrated to reproduce the 1904 cylinder's text.
+
+**Corrected interpretation:** the 1904 recording should provisionally be described as a commercially issued corrido about the rebel/outlaw Ignacio Parra, in a politically charged anti-Díaz context. The officialist 1905 broadside and later “society avenged” refrain demonstrate competing or variant public narratives about Parra's death, not the verified lyrics of the 1904 cylinder. Do not classify the recording itself as collective vengeance, nor quote the officialist refrain as its lyric. Its relevance to the *grudgemixes* taxonomy remains **UNRESOLVED**: it may concern social grievance, state repression, rebellion or revenge, but the precise recorded narrative and mechanism require the cylinder text.
+
+The 1904 item remains **HIGH-PRIORITY LEAD / NOT A CANDIDATE / NOT CLEARED**. This replaces the earlier “HIGH-PRIORITY LEAD / NEAR CANDIDATE” wording in the preceding subsection. The broadside witnesses remain useful as evidence of competing textual memory, but must be kept separate from the Edison master unless a lyric comparison proves a relationship.
+
+Sources:
+- Agustín Gurza, Frontera Collection, “The Mexican Corrido: Ballads of Adversity and Rebellion, Part 4: Corridos of the Mexican Revolution” (2017): https://frontera.library.ucla.edu/blog/2017/12/mexican-corrido-ballads-adversity-and-rebellion-part-4-corridos-mexican-revolution
+- Jesús Iván Mora Muro, “El corrido en México: historiografía e instituciones,” in *Visiones históricas: investigaciones y propuestas multidisciplinarias* (Universidad Autónoma de Querétaro, 2025), especially pp.123–127 and 235–236: https://ri-ng.uaq.mx/bitstream/123456789/12411/2/LUAQ-000028.pdf
+- Aurelio González, “El corrido del siglo XIX: caracterización novelesca del héroe,” *Anuario de Letras* 50 (2012): https://revistas-filologicas.unam.mx/anuario-letras/index.php/al/article/download/998/996/0
+
+### New distinction to preserve in future work
+
+| Witness | What it establishes | What it does not establish |
+|---|---|---|
+| Edison 18512–18513 (1904), Herrera Robinson | Two-part commercial corrido about Ignacio Parra; Frontera places it in anti-Díaz rebel repertoire | Exact lyrics, whether it contains revenge, or a direct match to any broadside |
+| Vanegas Arroyo broadside (1905), anonymous | A printed corrido praising Meraz and condemning Parra | That the cylinder has this wording or viewpoint |
+| “Ya la autoridad…” print, dated 1912 by Amon Carter / 1914 by Colmex | A later explicit “society avenged” framing of Parra's death | The words or politics of the 1904 cylinder |
+| 1925 Vázquez Santa Ana anthology | Pre-cutoff printed witness to a *Corrido de Ignacio Parra* entry | That every printed version is textually identical or the 1904 cylinder's source |
+
+The next verification step is to obtain the original cylinder or an authenticated archival transfer and compare the full two-part performance against the distinct print witnesses. The UCSB item page linked by Frontera returned a 403 in this session; that is an access barrier, not proof the recording is absent.
