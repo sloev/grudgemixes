@@ -7,9 +7,10 @@
 1. Search all regions from the first pass, in parallel. Search by language and script as well as translated concepts.
 2. Include local labels, local performers, overseas recording expeditions and export catalogues. Do not assume “world music” means only ethnographic field recordings.
 3. Separate commercial releases from field recordings. A field recording may be historically valuable but does not automatically meet the project's intended commercial-recording brief.
-4. Search for multiple grievance mechanisms, not just the English words “revenge” and “grudge”: insult, betrayal, feud, debt, dispossession, punishment, protest, lament, vengeance, curse, shame and remembered injustice. Use local terms and ask regional specialists to validate semantic equivalence.
-5. Keep exact dates, matrix/take, issue and audio provenance separate. A digitized recording is not necessarily an unedited transfer or commercially reusable.
-6. Do not force regional quotas or infer a community's identity from an archive's broad geographic tag.
+4. Search local grievance narratives and musical forms, not only English equivalents: revenge, retaliation, punishment, defiance, accusation, protest, curses, feud, debt, dispossession, shame and remembered injustice. Lament, betrayal and resentment are conditional leads when joined to an accusation, demand, vow, refusal, answer or intention to retaliate/resist. Use original scripts and local terms; ask regional specialists to validate meanings.
+5. Keep recording/fixation date, publication/issue date, matrix/take, performed version and audio provenance separate. Raw archival transfer is preferred for production, not a prerequisite for discovery.
+6. Track evidence level (A verified research candidate / B probable candidate / C lead), audio access and rights separately. Public streaming does not establish commercial reuse rights.
+7. Do not force regional quotas or infer a community's identity from an archive's broad geographic tag.
 
 ## High-value global gateways and what they contain
 
