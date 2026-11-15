@@ -960,3 +960,11 @@ A geographically and linguistically varied sequence, not a country-by-country ch
 - Targeted web searches for Favorite 1-56211, Rosalie, 4456-1 and “Ermeni milli havassi” did not surface an independent catalogue transcription or another item-level discography. The catalogue PDF is linked in the index but has not been inspected page-by-page.
 - Therefore keep the 1911 date as item-level MGK collection metadata, not a verified contemporary catalogue date. Keep 4456-1 and “6/2.11” as visual readings pending high-resolution confirmation.
 - No audio found/listened to; no rights conclusion. Next task remains obtain the catalogue entry and contact the collection custodian for carrier/audio details.
+
+
+## 2026-11-15 — First mix-quality push
+
+- User requested that research move from accumulating leads toward at least a handful of mixes with exceptionally robust historical background. Response: prioritize depth and finished evidence packages over candidate count; do not inflate C leads into tracks.
+- Identified the strongest existing pair for a first provisional mix: Saint-Saëns “Vengeance at Last” (Victor 87501, matrix B-6227-2 take 2, Camden, 25 May 1908) and Verdi “Sì, vendetta” (Vocalion 60019 / 30146, session 7176, ca. March 1921). Both remain B — PROBABLE, not A. Saint-Saëns has strong matrix/date/contemporary-advertisement triangulation and a complete libretto context; Verdi has an exact FAU catalogue item and specialist sessionography but tentative date and no matrix/take.
+- Added explicit mix-development notes to both candidate files, including narrative distinction, source conflicts and outstanding audio/transfer/rights gates. Added pair to global map and formal candidate audit.
+- No listening was performed; no preservation master or commercial licence was obtained. Do not describe the pair as release-ready. Next: arrange listening to both FAU items, transcribe exact English/Italian excerpts, obtain FAU item-level transfer metadata, and request rights terms for intended uses/territories.
