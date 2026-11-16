@@ -306,3 +306,19 @@ Seek an original Vocalion X-9560 pressing or high-resolution photographs of both
 - Updated Royal 1645 dossier with exact next-reference queue. No change to candidate status, date or identity.
 - Sources: https://ndlsearch.ndl.go.jp/rnavi/avmaterials/2_11 ; https://ndlsearch.ndl.go.jp/rnavi/avmaterials/post ; https://ndlsearch.ndl.go.jp/file/rnavi/avmaterials/post/01_prewar_general_catalog_202512.pdf ; https://ndlsearch.ndl.go.jp/books/R100000002-I000002059548 ; https://crd.ndl.go.jp/reference/entry/index.php?id=2000029446&page=man_view .
 - No disc/label/matrix inspected, no audio played, no archive contacted and no rights cleared.
+
+
+## 2026-11-16 — Nichibunken rōkyoku SP database cross-check / Royal 1645
+
+- Located Nichibunken's searchable Rōkyoku SP Record Digital Archive; the search interface includes performer, title, label, catalogue/matrix number, access status, related material, item ID and format fields, and includes Royal (ローヤル) as a label option.
+- Found a distinct Yoshida Naramaru item: Akagaki Genzo Tokuri no Wakare (赤垣源藏徳利の別れ), Royal Record 1853, one-sided SP, A-side 3:42, no release month supplied, Morikawa Tsukasa Collection item 525671 / NCID BB17636022 / shelfmark //05084. Nichibunken reports poor playback condition and laser-turntable digitisation; audio is marked internet-public. This confirms a related Royal/Naramaru item in the archive, not the target 1645/1649 disc.
+- Search-engine queries for 1645 and 赤穂義士討入 on the indexed Nichibunken domain did not return the target. This is only a bounded null result; the archive's own search form was not submitted, and the online subset may not represent every physical holding.
+- Preserved separate identities for 1645 (78MUSIC), 1649 (Kushiro survey) and 1853 (Nichibunken item). No crosswalk, issue date or matrix established. The 1990 演芸レコード発売目録 remains the next key discographical reference, paired with label/runout evidence.
+- Added a detailed comparison and exact search strategy to the Royal dossier. No candidate status or chronology upgraded.
+- Sources: https://kutsukake.nichibun.ac.jp/rsp/ ; https://kutsukake.nichibun.ac.jp/rsp/?reg=525671 ; https://ndlsearch.ndl.go.jp/rnavi/humanities/engei .
+- Label-image fetch failed; no physical disc inspected, no audio played/downloaded, no archive contacted and no rights cleared.
+
+### NEXT
+- Submit exact title, performer, label and catalogue-number searches in Nichibunken's own form; ask whether the prospectus disc is catalogued under a variant title or outside the searchable subset.
+- Consult 演芸レコード発売目録 (KD1-E21) for Naramaru / 赤穂義士討入 / 赤穂義士伝討入 / 1645 / 1649; capture issue month, label and exact title.
+- Request label photos and matrix/runout for 1645 and 1649 from Nichibunken/Kushiro; keep 1853 separate unless a documented cross-reference appears.
