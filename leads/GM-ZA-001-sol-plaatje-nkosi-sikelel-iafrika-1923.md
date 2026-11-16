@@ -40,11 +40,16 @@ This is a strong example of protest through collective prayer, national solidari
 
 ## Retrieval and research handoff
 
-**Grok status: RESEARCH TARGET — exact Wits digital audio item identified; inspect authorized access and request an approved copy if available.**
+**Grok status: READY FOR GROK — exact DISA/SAMAP full-track link identified; test current access and request authorized transfer if available.**
 
-- Start with Wits item ZA HPRA A1742-1 and the South African Audio Archive / DISA links.
+- Start with the exact DISA/SAMAP link titled “Nkosi Sikelel iAfrika” (linked from the Flat International entry); the URL is https://www.disa.ukzn.ac.za/samap/content/nkosi-sikelel-i-afrika-0, but the page timed out in this research environment. Also retain Wits item ZA HPRA A1742-1 as the physical/archive provenance route.
 - Confirm whether the available digital file is a full side or separated track; preserve the “Pesheya Ko Tukela” lead-in and exact sequence.
 - Record transfer source, file properties, carrier information if known, playback speed, equalisation and restoration.
 - Check current archive access/reuse terms. Do not bypass restrictions.
 - Verify that only the original stanza is sung; do not attach the seven 1927 Mqhayi verses to the 1923 recording.
 - Do not substitute a later choir performance or modern national-anthem recording.
+
+
+## 2026-11-16 retrieval-route refinement
+
+The South African Audio Archive liner notes give an unusually specific history of the digital transfer. The 1923 disc is Zonophone 4168, matrix Bb3640-2, with “Pesheya Ko Tukela” followed by the unlabelled “Nkosi Sikelel iAfrika” on the same side. EMI test pressings were copied for research in the 1980s; the cassette copies entered the UKZN Music Library and were digitised in 2007 through SAMAP/DISA. The first online item had been catalogued under the first song only and its samples faded after 30 seconds, obscuring the anthem. After the researcher contacted the archive, the full “Pesheya Ko Tukela” version was found and the “Nkosi Sikelel iAfrika” hidden track added as a separate linked item. The DISA URL is now explicitly identified as https://www.disa.ukzn.ac.za/samap/content/nkosi-sikelel-i-afrika-0, but it timed out during this research pass. Handoff is upgraded to READY FOR GROK to test the exact link and seek an authorized full transfer. Preserve full-side sequence and archive provenance; do not assume a short sample is the whole recording. Source: https://flatinternational.org/template_volume.php?volume_id=267
