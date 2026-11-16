@@ -38,3 +38,16 @@ Review READY FOR GROK queue and grudgemixes Drive subfolder. Prioritize only if 
 
 ### Handoff
 Continue source hunts for exact matching Vocalion and other archival transfers. Do not invent downloads or change statuses without evidence. Sovietfilm film-mix cue collection advanced in parallel.
+
+## 2026-11-17 — Grok — status: no new free archival downloads; Drive confirmed; sovietfilm parallel
+
+### Task
+Review READY FOR GROK queue and grudgemixes Drive subfolder. Prioritize only if free archival transfers for remaining items available; otherwise document barriers. Parallel sovietfilm asset deposit completed.
+
+### Findings
+- No new free, lawful, complete archival transfers located for remaining READY items (e.g. Vocalion 60019, X-9560). FAU RSA remains streaming-only per policy; no substitutes or commercial reissues used.
+- Drive grudgemixes folder listing confirms prior reported files. No new files added this session.
+- No downloads performed; no status changes without verified files.
+
+### Handoff
+Continue source hunts for exact matching Vocalion and other archival transfers. Do not invent downloads or change statuses without evidence. Sovietfilm film-mix cue collection advanced in parallel.
