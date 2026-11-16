@@ -34,3 +34,8 @@ Retry Wikimedia download later or seek alternative archive transfer. Do not mark
 - Capture exact page/category and advertised month. Treat it as discographic chronology only; pair any result with Kushiro inventory and label/runout evidence.
 - Keep 1645/1649 separate from Royal 1853, Royal 1723, 1914 Yamato and July 1923 Nipponophone issues unless an exact cross-reference is found.
 - No copy consulted, no carrier/label/matrix inspected, no audio played/downloaded, no archive contacted and no rights cleared.
+
+
+### Supplement — 2026-11-16 file cross-reference
+- Added the KD1-E21 library-access route and its advertisement-based evidence limitation to research/global-early-recording-map.md. The route is a next research action only; no candidate grade or date changed.
+- Cross-reference: research/japan-ako-gishi-yoshida-naramaru-royal-record.md. No library copy was consulted and no archive contact was made.
