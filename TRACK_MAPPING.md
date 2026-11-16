@@ -14,7 +14,7 @@ The following filenames were inherited from earlier mapping work. They are not c
 | `GM-IT-Otello_Si_pel_ciel_Caruso_Ruffo.mp3` | — | Si pel ciel (Otello) | Enrico Caruso & Titta Ruffo | 1914 | Oath / vengeance vow. | LEGACY ENTRY — location unverified |
 | `GM-IT-Cortigiani_vil_razza_Ruffo.mp3` | — | Cortigiani, vil razza (Rigoletto) | Titta Ruffo | 1908 | Accusation / public shaming of the court. | LEGACY ENTRY — location unverified |
 | `GM-IT-Ah_Mimi_tu_piu_Caruso_Scotti.mp3` | — | Ah Mimi, tu più (La Bohème) | Enrico Caruso & Antonio Scotti | ca. 1908 | Betrayal / accusation; additional version. | LEGACY ENTRY — location unverified |
-| `GM-UK-001_Hagen_meditates_revenge_Radford_HMV_D704_1922.mp3` | GM-UK-001 | Hagen meditates revenge (Götterdämmerung) | Robert Radford | 1922-06-29 | Calculated revenge / conspiracy. | LEGACY ENTRY — location unverified |
+| `GM-UK-001_Hagen_meditates_revenge_Radford_HMV_D704_1922.mp3` | GM-UK-001 | Hagen's Watch / HMV label title “Hagen meditates revenge” (Götterdämmerung) | Robert Radford | 1922-06-29; issued 1924-02-06 | Exact matrix Cc1586-1 / HMV D704. Agent-reported CHARM FLAC mirror on Internet Archive; **thematic fit is doubtful** because the matrix is Hagen's Watch, not the explicit revenge scene. | READY FOR GROK — verify IA item/terms and exact file; do not promote to mix pending listening/transcription |
 | `GM-2026-006_Tuskegee_Ive_Been_Buked_Victor_1916.mp3` | GM-2026-006 | I've Been Buked and I've Been Scorned | Tuskegee Institute Singers | 1916-02-14 | Collective grievance / lament boundary case. | LEGACY ENTRY — location unverified |
 
 ## READY FOR GROK — researched retrieval / source-finding queue
