@@ -9,7 +9,7 @@
 - Label: National Grand Record, associated with Beka's Indian repertoire; specialist discography says this was a special “NATIONAL” GRAND RECORD, not a standard Beka Grand Record label.
 - Catalogue / side numbers: 20290 and 20291. Kinnear's discography gives 20290 / 20291 and identifies “Bande Mataram/Swadeshism” and “Partition of Bengal”; the Berlin object catalogue titles the surviving side “Speech on ‘Bande Mataram and Swadeshi’”.
 - Matrix: not independently confirmed. Kinnear notes Beka catalogue and matrix numbers often coincide, but the physical runout needs inspection; do not assert a confirmed matrix from the catalogue number alone.
-- Recording date/location: unresolved. Kinnear places the 20,000 series within the Beka Grand Record repertoire associated with the 1907 Indian recording tour. Beka's 1907 tour included Calcutta. This is context, not proof that this specific item was recorded in Calcutta in 1907. Scroll's 2014 account says Beka recording experts recorded the political disc in Calcutta in November 1907, but this needs primary corroboration.
+- Recording date/location: unresolved. Kinnear's chronology distinguishes several tours: Bumb and Hadert's first India tour began in November 1905 and included Calcutta; a further tour under Ernst Loewe began in December 1906; another tour ran June 1910–early 1911. Kinnear associates the 20,000 Beka Grand Record sequence with a later 1907 tour, but this does not prove the date of this special National Grand Record. Scroll's 2014 account specifically says Banerjee's political disc was recorded in Calcutta in November 1907; this remains a secondary claim requiring primary corroboration. Do not conflate the 1905/1906 Beka tours with the asserted 1907 session.
 - Issue date: exact date not established. The recording belongs to Beka/National Grand Record's early Indian repertoire and is discussed in connection with the pre-1910 Swadeshi record history. Do not assign a precise release date without a dated catalogue or trade notice.
 - Physical holding: Ethnologisches Museum, Staatliche Museen zu Berlin, inventory VII 78/1107.
 - Digital access: Berlin museum / Deutsche Digitale Bibliothek item record and object images; no audio playback or downloadable sound file identified.
@@ -51,3 +51,27 @@ The surviving museum item is a rare tangible trace of anticolonial political spe
 ## Retrieval instructions
 
 Ask the Ethnologisches Museum / Staatliche Museen zu Berlin for the object record, label/runout photographs, audio holdings, conservation state and lawful research listening/transfer options for inventory VII 78/1107. Ask whether the reverse-side object or coupled item is held separately. Request confirmation of the exact 20290/20291 side mapping and matrix suffixes. Search Beka / National Grand Record catalogues, EMI or Berlin archival business records, and the 1907 Calcutta session documentation for a dated entry. Do not treat the DDB metadata's CC BY-SA licence as a licence for the sound recording; confirm audio rights separately. If no audio survives, retain as a documented archival object, not a playable mix candidate.
+
+
+## 2026-11-16 research addendum — chronology and smolweb source audit
+
+A closer reading of Michael Kinnear's Beka history shows that the recording-tour chronology is more complicated than the earlier summary implied. The page describes:
+- Bumb and Hadert's India tour beginning 17 November 1905, travelling from Bombay to Calcutta and onward through Rangoon, Bangkok, Singapore, Hong Kong and Tokyo;
+- a further Indian tour under Ernst Loewe beginning in December 1906;
+- another Indian tour in June 1910 through early 1911;
+- a Beka Grand Record 20,000 series associated in the article with a 1907 recording tour.
+
+The special National Grand Record 20290/20291 is listed separately from the ordinary Beka Grand Record series. The 20,000-series association therefore cannot by itself date this particular disc. Scroll's claim of a Calcutta recording in November 1907 remains a useful lead, not a verified session date. The exact label/runout and a dated company or contemporary trade record are still needed.
+
+Useful old-web/collector corroboration:
+- Michael Kinnear's specialist site gives the exact two-side listing: https://bajakhana.com.au/beka-record-reading-indian-record-labels-part-3/
+- A Society of Indian Record Collectors journal scan reproduces Kinnear's article and the 20290/20291 entry: https://hindi-movies-songs.com/sirc/Vol-3-Pdf-File-July-91.pdf
+- A 2006 Google Groups discussion includes a collector-circulated Vande Mataram discography listing National Grand Record 20290, Banerjee: https://groups.google.com/g/rec.music.indian.misc/c/0wuPjw-unSs
+
+The Google Groups list is secondary and its 20290 entry does not independently prove audio survival. It is nevertheless a useful historical collector trail. The Berlin object remains the strongest physical-object evidence; no audio copy or playback has been located.
+
+Additional regional archive lead: AMAR's 2025 Biennale catalogue explicitly identifies a research programme on lesser-known social and political songs preserved on early commercial 78 rpm records from Aden, especially monologues and theatrical pieces: https://www.amar-foundation.org/biennale-2025/?biennale_read=yemen-note . This is a promising Yemeni/Arab archive route, but the accessible page is an introduction rather than an item-level discography. No candidate added until a specific pre-1926 master, performer, catalogue/matrix and text are identified.
+
+Harvard's Loeb Music Library confirms nearly 600 catalogued Arabic and Arab-American recordings, c.1903–1950s, with a smaller Aviary subset; some items are downloadable immediately and others require a free account and listening-access request. The collection's own research note cautions that ethnic-series dates and release dates are often incomplete. Contact: muslib@fas.harvard.edu. Collection note: https://archive.blogs.harvard.edu/loebmusic/2022/01/19/early-arabic-sound-recordings-and-the-public-domain/ .
+
+No audio downloaded or auditioned by ChatGPT. No archive restrictions bypassed.
