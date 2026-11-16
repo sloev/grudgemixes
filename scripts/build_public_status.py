@@ -18,7 +18,7 @@ def status(text):
     t = text.casefold()
     if any(s in t for s in ["in drive — verified","in drive - verified","downloaded — verified","downloaded - verified"]):
         return "Done"
-    if any(s in t for s in ["ready for drive","ready to download","status: researched","research complete"]):
+    if any(s in t for s in ["ready for drive","ready to download","status: researched"]):
         return "Researched"
     return "Investigating"
 
@@ -47,5 +47,5 @@ def main():
               "Investigating":"Research, identity, or access route still being checked."},
             "records":sorted(unique.values(),key=lambda x:(x["project"],x["status"],x["name"].casefold()))}
     OUT.mkdir(exist_ok=True)
-    (OUT/"data.json").write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+    (OUT/"data.json").write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
 if __name__ == "__main__": main()
