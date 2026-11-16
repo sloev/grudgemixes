@@ -68,3 +68,17 @@ Sources:
 - Full German-English libretto, Act I, Scene 2, *Hier sitz' ich zur Wacht*: https://www.librettoarchive.com/G%C3%B6tterd%C3%A4mmerung_libretto_German_English
 - Teatro alla Scala 2025–26 libretto, German text of Hagen's Watch: https://www.teatroallascala.org/static/upload/lib/libretto-03_gotterdammerung_2025-2026.pdf
 - Separate explicit revenge dialogue, Act I, Scene 3: https://www.docz.net/doc/5882682/go%3Ftterda%3Fmmerung_libretto_quer-layout-1 (scene comparison only; the disc matrix is not identified with this scene).
+
+
+## 2026-11-16 — Agent-reported audio locator and label evidence (not yet independently verified here)
+
+A separate agent working on branch `ccr-40555f1a-i3ljtd` reported locating an Internet Archive mirror of the CHARM transfer set:
+
+- Item: https://archive.org/details/78_the-twilight-of-the-gods-hagen-meditates-revenge_radford-robert-symphony-orchestra
+- Reported files: `D_704_Cc_1586-1.flac` (247.69 s), `D_704_Cc_1586-1.mp3` (4:07), and a label photograph; reported CHARM identifier `urn:charm:METS_D_704`.
+- The agent reports that the label itself prints “Hagen meditates revenge,” “IN ENGLISH,” Robert Radford, Percy Pitt, HMV D704 / side 3-0857. This is a useful correction to the earlier assumption that the wording was only a later discographical gloss.
+- The exact master identity remains supported independently by Bolig/UCSB and Kelly: matrix Cc1586-1, recorded Hayes 29 June 1922, issued 6 February 1924. Sources: https://adp-assets.library.ucsb.edu/BoligGreenBluePurple.pdf and https://www.gramophonecompanydiscography.com/PDF/File%20D%20-%20BB.pdf.
+
+**Crucial thematic limit remains unchanged:** the matrix is identified by Kelly as “Hagen's Watch, A1,” Act I, Scene 2. The label's revenge title does not make the sung passage an explicit revenge vow. Until the exact audio is listened to and transcribed, retain this as a discographical/audio-access lead, not a Mix 01 candidate. The branch agent's proposed B-grade candidate was not imported because it conflicts with the stronger scene-level reading already documented here.
+
+The Internet Archive item and its terms were not independently accessible in ChatGPT's web environment on this pass; no audio was downloaded or auditioned by ChatGPT. Grok may test the exact item and file only under the site's current access terms, then report file metadata and transfer provenance. Do not describe the CHARM file as a raw preservation master without transfer notes.
