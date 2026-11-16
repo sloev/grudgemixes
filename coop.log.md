@@ -1741,3 +1741,20 @@ Handoff: Grok should prioritize permitted access and metadata requests from CMAM
 - Rechecked both repositories on main; read README, METHODOLOGY.md, research_method.md, GROK_HANDOFF.md, TRACK_MAPPING.md, logs and the active Royal 1645 dossier.
 - Follow-up question: use Nichibunken's searchable rōkyoku SP archive to test the Royal 1645/1649 identity and determine whether the exact *Akō Gishi Toiri* title is represented; distinguish a related Royal/Naramaru disc from the target.
 - In parallel, add UPCE's documented Sagada community archive and ReCollection evidence to the Philippines research route without assuming the recordings meet the Insane Music admission threshold. No audio listening, physical carrier inspection, archive contact or rights clearance is assumed.
+
+
+---
+
+## 2026-11-16 — ChatGPT — Nichibunken rōkyoku SP database cross-check / Royal 1645
+
+### DONE
+- Located the searchable Nichibunken Rōkyoku SP Record Digital Archive and its performer/title/label/catalogue-number search fields; Royal is a selectable label.
+- Found a related but distinct Naramaru recording: 赤垣源藏徳利の別れ, Royal Record 1853, one-sided SP, A-side 3:42, item 525671 in the Morikawa Tsukasa Collection. The page reports poor playback condition, laser-turntable digitisation and internet-public audio; it supplies no release month. Its label-image fetch failed in this pass.
+- Indexed web searches for 1645 and 赤穂義士討入 did not surface the target in Nichibunken's database. This is a bounded null result only; the archive's own search form was not submitted and its online subset may not include all physical holdings.
+- Kept Royal 1645 (78MUSIC), 1649 (Kushiro) and 1853 (Nichibunken) separate. Added the comparison item, search boundaries, and exact follow-up strategy to the Royal dossier and persistent research state. No chronology, identity or candidate grade upgraded.
+- Sources: https://kutsukake.nichibun.ac.jp/rsp/ ; https://kutsukake.nichibun.ac.jp/rsp/?reg=525671 ; https://ndlsearch.ndl.go.jp/rnavi/humanities/engei .
+- No disc/label/matrix inspected, no audio played or downloaded, no archive contacted, no rights cleared and no Drive files changed.
+
+### NEXT
+- Search directly in Nichibunken's own database for title variants, Yoshida Naramaru, Royal and numbers 1645/1649; ask the library about catalogue coverage and the 2016 prospectus item.
+- Consult 演芸レコード発売目録 (KD1-E21) for exact title, issue month, label and number; obtain label photos and matrix/runout from Nichibunken/Kushiro.
