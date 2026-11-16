@@ -296,3 +296,13 @@ Seek an original Vocalion X-9560 pressing or high-resolution photographs of both
 - Updated the Royal 1645 dossier only. No change to evidence grade, exact chronology, audio status or mix status. Do not date catalogue no. 1645 from its sequence or equate it with the 1910 debut.
 - Sources: https://rijtm.kcua.ac.jp/archive-db/archives/gallery/1008ohnishi/index.html ; https://geidai.repo.nii.ac.jp/record/991/files/ronpakuon12_full.pdf ; https://www.city.kishiwada.lg.jp/site/toshokan/mini-16.html .
 - No physical carrier or label image of Royal 1645 inspected, no audio played, no archive contacted and no rights cleared.
+
+## 2026-11-16 — Royal 1645/1649: National Diet Library discography route
+
+- NDL Research Navi (updated 2026-11-12) identifies Kurata Yoshihiro / National Theatre, 演芸レコード発売目録 (1990, KD1-E21), covering domestic entertainment SP releases 1909–1945, including rōkyoku, with issue date, title, performer, author, company and record number. This is the highest-priority next printed reference for 1645/1649. A secondary library report says the book's data were compiled mainly from press advertisements and company catalogues, not checked against physical discs; treat it as a discographical index, not physical proof.
+- NDL prewar company-sales-catalogue list identifies two 1912 Nitchiku catalogues: YM2-M2337 (5 March 1912 supplement; red-eagle mark) and YM2-M2339 (May 1912; includes black Royal with lion mark and red Royal with red-eagle mark). Both are marked copy-only in NDL holdings, not digitally available. This gives a label-design comparison route for Royal 1645/1649, not proof either catalogue contains those numbers.
+- NDL's 1915 chronology describes withdrawal of the one-sided Royal/Symphony/American/Universal/Globe labels and standardisation on Nipponophone. Supports broad pre-1915 context for original one-sided Royal discs only; does not date 1645/1649 or connect to Naramaru's 1910 debut.
+- Further tools: 2003 SP Record 60,000 Songs General Catalogue (title/number/performer index, no issue dates); 1996–97 Taishō SP text catalogues (Dec 1913–Aug 1922; may be too late for a 1912 issue).
+- Updated Royal 1645 dossier with exact next-reference queue. No change to candidate status, date or identity.
+- Sources: https://ndlsearch.ndl.go.jp/rnavi/avmaterials/2_11 ; https://ndlsearch.ndl.go.jp/rnavi/avmaterials/post ; https://ndlsearch.ndl.go.jp/file/rnavi/avmaterials/post/01_prewar_general_catalog_202512.pdf ; https://ndlsearch.ndl.go.jp/books/R100000002-I000002059548 ; https://crd.ndl.go.jp/reference/entry/index.php?id=2000029446&page=man_view .
+- No disc/label/matrix inspected, no audio played, no archive contacted and no rights cleared.
