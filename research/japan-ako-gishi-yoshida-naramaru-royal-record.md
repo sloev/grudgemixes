@@ -318,3 +318,14 @@ Sources:
 - NDL *Osaka Mainichi* holdings: https://ndlsearch.ndl.go.jp/books/R100000002-I000000098327
 - 78MUSIC Royal/Nipponophone listings, including 1645 and July 1923 15139-A/B: https://www.78music.jp/other5.html
 - Kushiro Municipal Museum 1981 inventory, pp. 18–19, rows 155–169 (especially 165–167): https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf
+
+
+### 1910 recording chronology — Kishiwada City Library (2026-11-16)
+
+Kishiwada City Library's official biographical profile of the **second Yoshida Naramaru** states that he made his first phonograph recording in **Meiji 43 (1910)**. This is useful institutional corroboration for a 1910 start to Naramaru II's recording career. It does **not** identify the title, label, catalogue number, matrix or exact session of that first recording, and it does not connect the date to the Royal 1645 disc documented in the Kushiro inventory / Nichibunken prospectus. Keep the Royal 1645 chronology **C — UNRESOLVED**; do not attach the 1910 date or the reported sales figures to that carrier.
+
+The National Theatre of Japan's Cultural Digital Library independently displays a handbill for Naramaru's *Gishi no Uchiiri* performance and a separate 1910 NDL-held printed volume, *Yamato Sakura Gishi no Omokage*, performed by Yoshida Naramaru. These establish a contemporary performance/print context, not the identity or contents of the first 1910 phonograph record. The printed title must not be treated as a transcript of the Royal 1645 disc.
+
+Sources:
+- Kishiwada City Library, “浪曲の父、二代目 吉田奈良丸” (updated 2015-08-04): https://www.city.kishiwada.lg.jp/site/toshokan/mini-16.html
+- National Theatre of Japan, Cultural Digital Library, “話芸へのひろがり：浪曲”: https://www2.ntj.jac.go.jp/dglib/contents/learn/edc21/hirogari/wagei/wa2.html
