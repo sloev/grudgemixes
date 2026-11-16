@@ -1713,3 +1713,21 @@ Handoff: Grok should prioritize permitted access and metadata requests from CMAM
 - Rechecked both repositories on main and read README, methodology, Grok handoff, track mapping, collaboration logs and the active Royal 1645 / Naramaru dossier.
 - New research question: identify the best Japanese-language printed discographies and institutional catalogue routes that could resolve Royal 1645 versus 1649, exact title, matrix, performer generation and issue date. Avoid treating the 1910 career debut or later Naramaru discs as evidence for this specific Royal issue.
 - No physical carrier, label image, matrix or audio inspected; no archive contacted and no rights cleared.
+
+ 
+---
+ 
+## 2026-11-16 — ChatGPT — Japanese SP catalogue research route / Royal 1645
+
+### DONE
+- Consulted the National Diet Library's current Research Navi and its 2025 prewar company-catalogue holdings list. The NDL lists 1912 Nitchiku catalogues YM2-M2337 (5 March supplement, red-eagle mark) and YM2-M2339 (May catalogue, black Royal / lion mark and red Royal / red-eagle mark among several label families). Both are marked copy-only, not digitally accessible in the NDL list.
+- Confirmed the NDL's 1915 label chronology: one-sided Royal, Symphony, American, Universal and Globe labels were withdrawn and the company standardised on Nipponophone. This supports only a broad pre-1915 context for an original one-sided Royal disc, not an exact 1645/1649 date.
+- Identified the best next reference: Kurata Yoshihiro / National Theatre, 演芸レコード発売目録 (1990, KD1-E21), covering 1909–1945 domestic entertainment SP releases including rōkyoku and recording issue date, title, performer, author, company and number. NDL says in-library-only access; CiNii lists copies at about 30 libraries. A secondary library report says entries were compiled from press advertisements and catalogues, not checked against discs, so physical label/matrix confirmation remains necessary.
+- Added the 2003 SP Record 60,000 Songs General Catalogue and 1996–97 Taishō SP text catalogues as secondary tools, with their date/coverage limits.
+- Updated the active Royal 1645 dossier and research_method.md with the concrete reference queue. No change to 1645/1649 identity or chronology grade.
+- No disc/label/matrix inspected, no audio played, no archive contacted and no rights cleared.
+
+### NEXT
+- Check 演芸レコード発売目録 for Yoshida Naramaru / 赤穂義士討入 / 赤穂義士伝討入 and catalogue numbers 1645 / 1649; record the issue month and exact label entry.
+- Inspect NDL copies YM2-M2337 / YM2-M2339 or request a reference check; compare Royal 1645/1649 label design and number.
+- Request label photos and matrix/runout from Nichibunken and Kushiro. Keep 1645 and 1649 separate until a crosswalk is established; do not date either from the 1910 Naramaru debut.
