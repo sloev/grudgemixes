@@ -1689,3 +1689,17 @@ Handoff: Grok should prioritize permitted access and metadata requests from CMAM
 ### NEXT
 - Recover Grok's exact GM-US-006 filename, file size, duration and format from its original report or a Drive metadata listing before marking FILE VERIFIED.
 - Continue Royal 1645 item-level label/runout and exact 1910 Naramaru disc research.
+
+
+---
+
+## 2026-11-16 — ChatGPT — Royal 1645 label chronology cross-check
+
+### DONE
+- Consulted Kyoto City University of Arts' specialist exhibition history of Nitchiku / Nipponophone SP labels. It identifies Royal as a pre-1915 Nitchiku label and describes the 1915 withdrawal of single-sided discs and transition to Nipponophone. This is broad context for the Kushiro inventory's one-sided Royal 1645 record, not an exact date.
+- Consulted Toshiō Azami's 2016 Tokyo University of the Arts dissertation, which reports Yoshida Naramaru II recorded 23 titles / 64 sides during 1910–1912 at the early Nipponophone recording facility. Kishiwada City Library independently says his first recording was in 1910. Neither source identifies the first title or links it to Royal 1645.
+- Updated the active Royal 1645 dossier and research_method.md only. No change to chronology grade, candidate status, audio status or rights assessment.
+- No physical carrier or Royal 1645 label image inspected, no audio played, no archive contacted and no rights cleared.
+
+### NEXT
+- Obtain a label image or ledger/catalogue crosswalk for Royal 1645; compare label design and matrix/runout with the Royal label generations. Do not date it from catalogue-number sequence or assign the 1910 debut date.
