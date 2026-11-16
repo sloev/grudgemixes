@@ -329,3 +329,19 @@ The National Theatre of Japan's Cultural Digital Library independently displays 
 Sources:
 - Kishiwada City Library, “浪曲の父、二代目 吉田奈良丸” (updated 2015-08-04): https://www.city.kishiwada.lg.jp/site/toshokan/mini-16.html
 - National Theatre of Japan, Cultural Digital Library, “話芸へのひろがり：浪曲”: https://www2.ntj.jac.go.jp/dglib/contents/learn/edc21/hirogari/wagei/wa2.html
+
+
+### Royal-label chronology context — Nitchiku label history (2026-11-16)
+
+Kyoto City University of Arts' Traditional Music Research Center reproduces a specialist exhibition by Hideki Onishi on Nitchiku / Nipponophone SP label history. It states that the **Royal** label was one of the Nitchiku predecessor company's labels and gives the label-system transition: in 1915 (Taishō 4) the company recalled/discarded its own single-sided discs and moved to double-sided products, while discontinuing the older Symphony, Royal, Globe, American and Universal labels and standardising new/reissued records on Nipponophone. The page also describes Royal label designs from the earlier Nitchiku period and shows that some older Royal labels continued to appear on one side of early double-sided issues.
+
+This provides broad label-history context for the Kushiro inventory's description of Royal 1645 as a one-sided disc. If the physical item is indeed an original single-sided Royal issue, it is consistent with the pre-1915 Royal production period; it does **not** identify a specific year, matrix, session or link the item to Naramaru II's first 1910 recording. Do not date catalogue number 1645 from sequence or infer that it is the 1910 debut. The Nichibunken page for Royal 1853 is a different disc and cannot substitute for an image of 1645.
+
+A 2016 Tokyo University of the Arts dissertation on the Japanese record industry reports that Yoshida Naramaru II recorded 23 titles / 64 sides during 1910–1912 and that the early Nipponophone recordings were made at its Tokyo/Kyōbashi Yumi-chō test/recording facility. This is career-level recording history, not a title-by-title crosswalk. Kishiwada City Library separately says his first phonograph recording was in 1910. None of these sources identifies which title was his first record or connects that first session to Royal 1645.
+
+**Next:** obtain a label photograph or catalogue/ledger crosswalk for Royal 1645; compare the physical label design and matrix/runout with the documented Royal label generations. Keep 1910–1912 as Naramaru II career context only.
+
+Sources:
+- Kyoto City University of Arts, Traditional Music Research Center, Hideki Onishi, “SPレコードレーベルに見る 日蓄－日本コロムビアの歴史”: https://rijtm.kcua.ac.jp/archive-db/archives/gallery/1008ohnishi/index.html
+- Toshiō Azami, *20世紀日本レコード産業史：米英メジャー企業の日本市場への戦略的進攻を中心に* (doctoral dissertation, Tokyo University of the Arts, final version May 2016): https://geidai.repo.nii.ac.jp/record/991/files/ronpakuon12_full.pdf
+- Kishiwada City Library, “浪曲の父、二代目 吉田奈良丸”: https://www.city.kishiwada.lg.jp/site/toshokan/mini-16.html
