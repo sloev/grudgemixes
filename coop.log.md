@@ -90,3 +90,28 @@ Still missing from READY FOR GROK priority:
 
 ### Handoff
 Next concrete retrieval targets: locate downloadable archival transfers for Vocalion 60019 (Scotney/Rimini) and Vocalion X-9560 (McEachern). FAU remains streaming-only. No listening or thematic promotion performed by Grok.
+
+## 2026-11-16 — Grok — Mix 01 remaining tracks source hunt and Drive inventory refresh
+
+### Task
+Refresh grudgemixes Drive folder inventory and search for downloadable archival transfers for remaining Mix 01 priority items GM-M01-02 and GM-M01-03.
+
+### Drive inventory confirmation (2026-11-16 evening)
+grudgemixes subfolder (1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY) contains:
+- GM-M01-01 variants (UCSB DAHR and short name)
+- GM-US-001 Bentley Ball Jesse James Ogg
+- GM-US-004, 006, 010, 011
+- Legacy Caruso, Ruffo, Tuskegee, UK Hagen entries
+- Additional: GM-US-Dalhart_Jesse_James_Edison_51621.mp3, GM-US-Waring_Stack_O_Lee_Blues_1924.mp3
+
+No files matching GM-M01-02 or GM-M01-03 proposed filenames.
+
+### Source hunt results
+- GM-M01-02 (Scotney/Rimini Vocalion 60019): FAU remains streaming-only. Internet Archive searches returned other Si vendetta performances (Galvany/Ruffo, Battistini/Hayes) but not the exact Scotney/Rimini Vocalion. No independent downloadable archival transfer located.
+- GM-M01-03 (McEachern Vocalion X-9560): No archive.org or free downloadable transfer found. Collector CDR listing remains a clue only. FAU-equivalent barriers apply.
+
+### Status
+No new files retrieved this session. Existing reported downloads remain GROK REPORTED DOWNLOADED pending independent verification. Mix 01 tracks 2 and 3 remain blocked on source availability.
+
+### Handoff
+Continue hunting for exact Vocalion 60019 and X-9560 archival transfers (UCSB DAHR, other national archives, or permitted collector sources). Do not substitute non-matching performances. Update TRACK_MAPPING.md statuses after verification.
