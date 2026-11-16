@@ -1,5 +1,3 @@
-Append this to the end of the file:
-
 ## 2026-11-16 — Grok — GM-US-001 retrieval attempt
 
 ### Task
@@ -13,9 +11,6 @@ Attempt retrieval of READY FOR GROK item GM-US-001 (Bentley Ball, “Jesse James
 
 ### Handoff
 Retry Wikimedia download later or seek alternative archive transfer. Do not mark as downloaded.
-
----
-
 
 ---
 
@@ -34,7 +29,6 @@ Retry Wikimedia download later or seek alternative archive transfer. Do not mark
 - Capture exact page/category and advertised month. Treat it as discographic chronology only; pair any result with Kushiro inventory and label/runout evidence.
 - Keep 1645/1649 separate from Royal 1853, Royal 1723, 1914 Yamato and July 1923 Nipponophone issues unless an exact cross-reference is found.
 - No copy consulted, no carrier/label/matrix inspected, no audio played/downloaded, no archive contacted and no rights cleared.
-
 
 ### Supplement — 2026-11-16 file cross-reference
 - Added the KD1-E21 library-access route and its advertisement-based evidence limitation to research/global-early-recording-map.md. The route is a next research action only; no candidate grade or date changed.
@@ -58,3 +52,41 @@ Retry and complete retrieval of READY FOR GROK item GM-US-001 (Bentley Ball, “
 
 ### Handoff
 Mark GM-US-001 as GROK REPORTED DOWNLOADED in TRACK_MAPPING.md. Independent inspection recommended before FILE VERIFIED. Thematic fit remains to be confirmed by listening/transcription. Other READY items (Mix 01 FAU-blocked, DAHR) not advanced this session.
+
+---
+
+## 2026-11-16 — Grok — GM-M01-01 UCSB DAHR confirmation + Drive inventory
+
+### Task
+Continue READY FOR GROK work on Mix 01 priority (GM-M01-01 Saint-Saëns “Vengeance at Last”, Victor 87501 / B-6227, de Gogorza & Homer, 25 May 1908). Confirm archival source and inventory current Drive contents against mapping.
+
+### Result — GM-M01-01
+- Exact archival transfer located at UCSB DAHR: https://adp-assets.library.ucsb.edu/cusb_victor_87501_01_b6227_00/cusb_victor_87501_01_b6227_00d.mp3
+- Downloaded and inspected:
+  - Format: MP3, 320 kbps, 48 kHz stereo
+  - Size: 5,927,085 bytes
+  - Duration: 148.152 s (~2:28)
+  - MD5: 4f6fded3b1059001de40e8bec5231b1f
+- Uploaded to Drive as `GM-M01-01_Saint-Saens_Vengeance_at_Last_deGogorza_Homer_Victor_1908_UCSB_DAHR.mp3`
+  - Drive file ID: 1saEeRhaCivlSsvI_7QSi_wevIozCAO7C
+  - Link: https://drive.google.com/file/d/1saEeRhaCivlSsvI_7QSi_wevIozCAO7C/view?usp=drivesdk
+- Note: An earlier file of identical size already existed in the folder under the short name `GM-M01-01_Saint-Saens_Vengeance_at_Last_deGogorza_Homer_Victor_1908.mp3`. The UCSB-sourced copy is now explicitly labelled for provenance.
+
+### Drive inventory (grudgemixes subfolder, 2026-11-16)
+Already present and matching mapping filenames or clear variants:
+- GM-M01-01 (both short name and UCSB_DAHR variant)
+- GM-US-001 (Bentley Ball Jesse James)
+- GM-US-004, GM-US-006, GM-US-010, GM-US-011
+- Multiple legacy IT / UK / Tuskegee entries
+
+Still missing from READY FOR GROK priority:
+- GM-M01-02 (Scotney / Rimini “Sì, vendetta”, Vocalion 60019) — no matching file
+- GM-M01-03 (McEachern “Revenge! Timotheus Cries”, Vocalion X-9560) — no matching file
+
+### Status recommendations for TRACK_MAPPING.md
+- GM-M01-01 → GROK REPORTED DOWNLOADED (UCSB DAHR transfer confirmed; independent listen/verify still needed for FILE VERIFIED and thematic fit)
+- GM-US-001, GM-US-006, GM-US-004, GM-US-010, GM-US-011 → GROK REPORTED DOWNLOADED (files present; provenance notes already recorded in prior entries)
+- GM-M01-02 and GM-M01-03 remain READY FOR GROK / RESEARCH TARGET — source hunt continues
+
+### Handoff
+Next concrete retrieval targets: locate downloadable archival transfers for Vocalion 60019 (Scotney/Rimini) and Vocalion X-9560 (McEachern). FAU remains streaming-only. No listening or thematic promotion performed by Grok.
