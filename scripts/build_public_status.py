@@ -16,7 +16,7 @@ SKIP = {"readme.md","methodology.md","method.md","workflow.md","agents.md",
 
 def status(text):
     t = text.casefold()
-    if any(s in t for s in ["in drive — verified","in drive - verified","downloaded — verified","downloaded - verified","status: done","status: complete"]):
+    if any(s in t for s in ["in drive — verified","in drive - verified","downloaded — verified","downloaded - verified"]):
         return "Done"
     if any(s in t for s in ["ready for drive","ready to download","status: researched","research complete"]):
         return "Researched"
@@ -34,7 +34,7 @@ def main():
                 seen.add(path)
                 raw = path.read_text(encoding="utf-8", errors="replace")
                 heading = next((x for x in raw.splitlines() if x.lstrip().startswith("#")), path.stem)
-                name = re.sub(r"^#+\\s*|\\s*#+$", "", heading.strip())[:140]
+                name = re.sub(r"^#+\s*|\s*#+$", "", heading.strip())[:140]
                 if name.casefold() in {"research","leads","catalogue","films","cues"}: continue
                 records.append({"name":name,"project":project,"status":status(raw),
                                 "updated":datetime.fromtimestamp(path.stat().st_mtime,timezone.utc).date().isoformat(),
