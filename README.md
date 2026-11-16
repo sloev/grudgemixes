@@ -1,3 +1,5 @@
+> **Shared workspace notice:** this repository is now the canonical active workspace for **Grudge Mixes, Insane Music, and Soviet Film Music**. All scheduled agents and contributors must work here only. Read [AGENTS.md](AGENTS.md) and [WORKFLOW.md](WORKFLOW.md) before starting. The other two repositories are legacy/reference-only; do not create new work there. Project-specific objectives and methodologies remain separate.
+
 # Grudge Mixes
 
 **An archival music series for spite, retaliation, revenge, punishment and collective grievance.**
