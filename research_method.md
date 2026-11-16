@@ -287,3 +287,12 @@ Seek an original Vocalion X-9560 pressing or high-resolution photographs of both
 - FAU RSA items 57310 and 54400 are public identity/streaming references only. FAU policy says audio cannot be downloaded from its site or Research Station. Grok must not bypass this; seek independently downloadable archival transfers or report no accessible file.
 - Land Norris GM-US-002 remains C and queued separately. Do not promote on title/song-family clues alone.
 - Resolve Mix 01 discographic conflicts and locate exact audio sources; then continue Bentley Ball and global discovery. Update dossiers, map, track map and coop.log; preserve evidence distinctions and commit actual changes.
+
+
+## 2026-11-16 — Royal 1645 label chronology cross-check
+
+- Consulted Kyoto City University of Arts' specialist history of Nitchiku / Nipponophone SP labels. The Royal label belongs to the pre-1915 label family; in 1915 Nitchiku recalled/discarded its own single-sided discs and standardised new/reissued records on Nipponophone. The source provides broad context for the Kushiro inventory's one-sided Royal 1645 entry, not an exact issue date.
+- A 2016 Tokyo University of the Arts dissertation reports Yoshida Naramaru II recorded 23 titles / 64 sides during 1910–1912 at the early Nipponophone recording facility. Kishiwada City Library independently states his first phonograph recording was in 1910. These are career-level facts and do not identify the first title or connect the debut to Royal 1645.
+- Updated the Royal 1645 dossier only. No change to evidence grade, exact chronology, audio status or mix status. Do not date catalogue no. 1645 from its sequence or equate it with the 1910 debut.
+- Sources: https://rijtm.kcua.ac.jp/archive-db/archives/gallery/1008ohnishi/index.html ; https://geidai.repo.nii.ac.jp/record/991/files/ronpakuon12_full.pdf ; https://www.city.kishiwada.lg.jp/site/toshokan/mini-16.html .
+- No physical carrier or label image of Royal 1645 inspected, no audio played, no archive contacted and no rights cleared.
