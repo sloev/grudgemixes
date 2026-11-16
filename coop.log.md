@@ -39,3 +39,22 @@ Retry Wikimedia download later or seek alternative archive transfer. Do not mark
 ### Supplement — 2026-11-16 file cross-reference
 - Added the KD1-E21 library-access route and its advertisement-based evidence limitation to research/global-early-recording-map.md. The route is a next research action only; no candidate grade or date changed.
 - Cross-reference: research/japan-ako-gishi-yoshida-naramaru-royal-record.md. No library copy was consulted and no archive contact was made.
+
+## 2026-11-16 — Grok — GM-US-001 successful retrieval
+
+### Task
+Retry and complete retrieval of READY FOR GROK item GM-US-001 (Bentley Ball, “Jesse James”, Columbia A3085) from Wikimedia Commons.
+
+### Result
+- Source URL: https://upload.wikimedia.org/wikipedia/commons/4/42/Jesse_James_%28Bentley_Ball%29.ogg
+- Status: SUCCESS
+- Filename: GM-US-001_Bentley_Ball_Jesse_James_Columbia_A3085_1919-1920.ogg
+- Format: audio/ogg (Ogg Vorbis)
+- Size: 2,334,043 bytes (~2.3 MB)
+- Duration: ~180 seconds (from Wikimedia X-Content-Duration header)
+- Drive URL: https://drive.google.com/file/d/1m9BAm1M6BRMwHlQSGoHT6hAvV9LeVZ6G/view?usp=drivesdk
+- Provenance: Wikimedia Commons access copy of Columbia A3085 side 2; not an authenticated archival transfer. No source carrier, transfer operator or processing chain documented.
+- Uploaded to grudgemixes subfolder.
+
+### Handoff
+Mark GM-US-001 as GROK REPORTED DOWNLOADED in TRACK_MAPPING.md. Independent inspection recommended before FILE VERIFIED. Thematic fit remains to be confirmed by listening/transcription. Other READY items (Mix 01 FAU-blocked, DAHR) not advanced this session.
