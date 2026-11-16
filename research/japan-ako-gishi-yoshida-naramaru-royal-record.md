@@ -386,3 +386,49 @@ Sources:
 - CiNii holdings record for 演芸レコード発売目録: https://ci.nii.ac.jp/ncid/BN04971277
 - 78MUSIC Royal entry: https://78music.jp/other5.html
 - Kushiro City Museum survey: https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf
+
+
+## Follow-up: Nichibunken searchable rōkyoku SP database — related Royal disc located (2026-11-16)
+
+### A distinct Royal / Yoshida Naramaru comparison item
+
+The International Research Center for Japanese Studies (Nichibunken) hosts a searchable Rōkyoku SP Record Digital Archive. Its search interface includes performer, title, label, catalogue/matrix number, access restriction, related material, item ID and format fields; the label selector explicitly includes Royal (ローヤル / ROYAL).
+
+A targeted web search located a separate Naramaru item in that database:
+
+- Title: 赤垣源藏徳利の別れ (Akagaki Genzo Tokuri no Wakare)
+- Performer: Yoshida Naramaru (the page does not specify generation)
+- Label / number: Royal Record 1853
+- Format: one-sided SP; A-side runtime 3:42
+- Release month: not supplied
+- Archive identifier: Morikawa Tsukasa Collection, Nichibunken item ID 525671; NCID BB17636022; shelfmark //05084
+- Condition/access: page reports poor playback condition; laser-turntable / phono-equaliser / ADC digitisation; internet-public audio access. The page exposes label-image links, but the image fetch failed in this research session, so the label itself was not inspected.
+- Record page: https://kutsukake.nichibun.ac.jp/rsp/?reg=525671
+
+This is useful comparative evidence: the database contains at least one one-sided Royal Record disc credited to Yoshida Naramaru, with item-level catalogue and transfer metadata. It does not establish that Royal 1645 or 1649 is in the online subset, nor that the 1853 disc shares the target's recording date, label design generation or matrix family. The public page gives no release month for 1853.
+
+### Search boundary and negative result
+
+Searches made in this pass for the exact strings 1645, 吉田奈良丸 赤穂義士討入, and Royal 吉田奈良丸 1645 within the indexed Nichibunken domain did not surface a target record. This is a bounded search-engine null result, not proof of absence: the archive's own search form should be used directly with title and performer variants, and its searchable subset may not include every physical disc in the collection. The web search did not submit the form or inspect the target carrier.
+
+The Nichibunken archive overview describes a collection of 9,998 SP records donated by collector Morikawa Tsukasa in 2014. Its February 2023 statistics report 2,237 audio titles and 5,534 label-image titles. Public sound availability depends on copyright status; some items are restricted to on-site listening. These totals describe the database/collection at the stated date, not the number of Royal items or the completeness of the Naramaru holdings.
+
+### Consequences for Royal 1645 / 1649
+
+- Keep the three numbers distinct: 1645 (78MUSIC's entry for 赤穂義士討入, Osaka Yoshida Naramaru, 正面鷲); 1649 (Kushiro survey's separate one-sided Royal / Akō Gishi-den entry); and 1853 (Nichibunken's distinct one-sided Royal / Naramaru Akagaki Genzo item).
+- The 1853 record confirms that a Royal/Naramaru one-sided disc is represented in Nichibunken's Morikawa collection, but does not cross-reference either 1645 or 1649.
+- Use the Nichibunken search form with title variants 赤穂義士討入 / 赤穂義士伝討入 / 義士討入, performer 吉田奈良丸, label ローヤル, and catalogue-number fields 1645 and 1649. If no hit, ask the library whether the prospectus item is catalogued under a different title or outside the online database.
+- The exact printed discography 演芸レコード発売目録 (1990, KD1-E21) remains essential: its release-month data can narrow chronology, but its entries are compiled from advertisements/catalogues rather than physical-disc inspection. Pair any hit with label/runout evidence.
+
+### Sources
+
+- Nichibunken, Rōkyoku SP Record Digital Archive, search interface: https://kutsukake.nichibun.ac.jp/rsp/
+- Nichibunken item 525671, Akagaki Genzo Tokuri no Wakare, Royal Record 1853: https://kutsukake.nichibun.ac.jp/rsp/?reg=525671
+- NDL Research Navi, 演芸レコード発売目録 scope and fields: https://ndlsearch.ndl.go.jp/rnavi/humanities/engei
+- NDL, 演芸レコード発売目録 bibliographic record: https://ndlsearch.ndl.go.jp/books/R100000002-I000002059548
+- 78MUSIC Royal listing: https://78music.jp/other5.html
+- Kushiro City Museum survey: https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf
+
+### Verification limits
+
+No exact 1645/1649 item record was located. The 1853 label image fetch failed; no physical carrier or matrix inspected. No audio played or downloaded, no archive contacted and no rights cleared. The 1853 audio page's public-access status is not a reuse licence.
