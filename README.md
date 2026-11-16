@@ -187,3 +187,8 @@ The project is international in scope and must not default to North American or 
 Search local-language sources and regional archives, preserve original scripts and local genre terms, and explain transliteration and translation uncertainty. Colonial recording companies and Western collecting institutions are useful sources but are not the default arbiters of local musical meaning. Distinguish a work's first appearance from the date of a specific recording, and distinguish a local performance tradition from a commercially issued master.
 
 Recent additions illustrate this correction: Egyptian economic-grievance repertoire (GM-EG-001) and Bengali anticolonial recording history (GM-IN-001). Further active routes include the AMAR Foundation's Egyptian/Levantine 78 collection, the National Phonothèque of Tunisia, Indian sound archives and regional scholarship, and research on Ottoman Armenian diaspora records.
+
+
+## Shared operating workflow
+
+See [WORKFLOW.md](WORKFLOW.md) for the common dual-track process: discover new leads, then advance existing leads into verified records, editorial outputs and evidence-backed asset requests. Project-specific methodology and admission rules remain authoritative.
