@@ -345,3 +345,44 @@ Sources:
 - Kyoto City University of Arts, Traditional Music Research Center, Hideki Onishi, “SPレコードレーベルに見る 日蓄－日本コロムビアの歴史”: https://rijtm.kcua.ac.jp/archive-db/archives/gallery/1008ohnishi/index.html
 - Toshiō Azami, *20世紀日本レコード産業史：米英メジャー企業の日本市場への戦略的進攻を中心に* (doctoral dissertation, Tokyo University of the Arts, final version May 2016): https://geidai.repo.nii.ac.jp/record/991/files/ronpakuon12_full.pdf
 - Kishiwada City Library, “浪曲の父、二代目 吉田奈良丸”: https://www.city.kishiwada.lg.jp/site/toshokan/mini-16.html
+
+## National Diet Library catalogue routes for resolving Royal 1645 / 1649 (2026-11-16)
+
+The National Diet Library's Research Navi page, updated 12 November 2026, identifies several concrete reference tools for dating and identifying Japanese SP records. This is a more actionable route than broad label-history inference.
+
+### 1. Company sales catalogues — early Royal label variants
+
+The NDL's prewar record-company sales-catalogue holdings list includes the Japanese Gramophone Company / Nipponophone group and explicitly names its associated labels **Universal, American, Royal, Symphony and Momotarō**. It identifies two 1912 company catalogues:
+
+- **YM2-M2337** — 新音譜追加目録 明治45年3月5日売出 (New sound-score supplement, offered for sale 5 March 1912), noted as containing the red-eagle label (赤鷲印).
+- **YM2-M2339** — 新音譜 明治45年5月 (New sound-score catalogue, May 1912), noted as containing Universal (blue paper / hemisphere mark), American (black paper / eagle mark), **Royal black (black paper / lion mark)**, **Royal red (red paper / red-eagle mark)**, and Symphony (red paper / angel mark).
+
+The NDL list marks these two catalogue copies with (*) meaning the NDL holds a copy version rather than the original; the list does not mark them as digitally accessible. The existence of distinct black and red Royal label types is significant: a label photograph of 1645 or 1649 could be compared against these label families. The specialist 78MUSIC table describes Royal 1645 as “正面鷲” (front-facing eagle), while the Kushiro survey's 1649 entry is described as a one-sided Royal disc. This is a promising comparison clue, not a secure match: the icon descriptions may not use the same taxonomy, and neither item has been matched to a surviving label image in this research pass.
+
+The NDL's same company chronology states that the Royal, Symphony, American, Universal and Globe one-sided labels were withdrawn in the 1915 transition, when the company recalled its single-sided records and standardised on Nipponophone (eagle mark) double-sided discs. This supports a broad pre-1915 context for an original one-sided Royal disc, but it does not date catalogue number 1645 or 1649 to 1912, nor prove that either appears in the May 1912 catalogue.
+
+### 2. Best performance-discography reference — Engei Record Hatsuibai Mokuroku
+
+The NDL's Research Navi recommends Kurata Yoshihiro / National Theatre Research Office, 演芸レコード発売目録 (Engei Record Hatsuibai Mokuroku, 1990; Entertainment Materials Series 4; NDL call no. KD1-E21). It covers Japanese domestic entertainment SP releases from **1909 to 1945**, including rōkyoku, and is arranged by release order. The NDL says it records release date, title/subject, performer, author and record company/number. This is the strongest single next reference to check for the exact 1645/1649 titles and issue month.
+
+Important limitation: a secondary library report on the book says its entries were compiled principally from advertisements in 16 newspapers and 14 magazines, with company monthly catalogues and flyers used where available, and that the book's data were not checked against physical discs. Treat it as a strong published discographical index, not a substitute for label/matrix inspection.
+
+The book is listed as NDL in-library-only access; CiNii lists copies at about 30 libraries. The National Diet Library's current Research Navi page also identifies the 2003 SP Record 60,000 Songs General Catalogue (昭和館監修『SPレコード60,000曲総目録』) as a company-organised title/number/performer index, although it does not provide issue dates. For content/lyric clues, it points to the 1996–97 Taishō-period SP records: performance, lyrics and language facsimile set, which covers records released from December 1913 to August 1922 and therefore may be too late for a 1912 issue.
+
+### Priority retrieval / reading request
+
+1. Consult Engei Record Hatsuibai Mokuroku (KD1-E21) under Yoshida Naramaru / 赤穂義士討入 / 赤穂義士伝討入 and numbers 1645 / 1649. Capture the exact title form, issue month, label and whether the catalogue associates the entry with either number.
+2. Inspect NDL copies YM2-M2337 and YM2-M2339 or request a reference check for whether Royal 1645 or 1649 appears. Compare the catalogue number and the Royal label design to the physical disc descriptions.
+3. If neither appears, use the 1909–1945 performance index and contemporary ads to narrow the release date; do not treat absence from the 1912 catalogue alone as proof of a later date.
+4. Ask Nichibunken and Kushiro for label photographs and matrix/runout details, then compare the label's eagle/lion/red/black design with the 1912 catalogue variants.
+5. Keep 1645 and 1649 separate until this crosswalk is established. Do not infer that either is Naramaru II's first 1910 recording.
+
+Sources:
+- NDL Research Navi, “録音資料の出版情報（国内）を調べる” (updated 2026-11-12): https://ndlsearch.ndl.go.jp/rnavi/avmaterials/2_11
+- NDL, “レコード会社販売目録” (updated 2026-03-12): https://ndlsearch.ndl.go.jp/rnavi/avmaterials/post
+- NDL prewar company-catalogue holdings list (2025-12): https://ndlsearch.ndl.go.jp/file/rnavi/avmaterials/post/01_prewar_general_catalog_202512.pdf
+- NDL bibliographic record for 演芸レコード発売目録 (1990): https://ndlsearch.ndl.go.jp/books/R100000002-I000002059548
+- NDL Research Cooperative Database reference guide on popular entertainment records: https://crd.ndl.go.jp/reference/entry/index.php?id=2000029446&page=man_view
+- CiNii holdings record for 演芸レコード発売目録: https://ci.nii.ac.jp/ncid/BN04971277
+- 78MUSIC Royal entry: https://78music.jp/other5.html
+- Kushiro City Museum survey: https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf
