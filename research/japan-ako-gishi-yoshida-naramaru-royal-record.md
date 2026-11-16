@@ -432,3 +432,24 @@ The Nichibunken archive overview describes a collection of 9,998 SP records dona
 ### Verification limits
 
 No exact 1645/1649 item record was located. The 1853 label image fetch failed; no physical carrier or matrix inspected. No audio played or downloaded, no archive contacted and no rights cleared. The 1853 audio page's public-access status is not a reuse licence.
+
+
+## 2026-11-16 follow-up — access route to the 1990 entertainment-record catalogue
+
+A fresh access check adds a practical route for the next chronology pass on Royal 1645/1649:
+
+- The National Diet Library's Research Navi describes Kurata Yoshihiro / National Theatre, 演芸レコード発売目録 (1990, KD1-E21) as a catalogue of domestic entertainment records issued 1909–1945, arranged by ten performance categories and publication order. It records release month, title, performer, author, company and catalogue number. This is directly relevant to testing whether the Naramaru Royal numbers appear and narrowing publication chronology.
+- The NDL bibliographic record says the digital copy is available only inside NDL premises. However, CiNii's book record lists the title in approximately 30 libraries, including Cambridge University Library and multiple Japanese university collections. This creates an alternative physical consultation/interlibrary enquiry route rather than treating NDL on-site access as the only option.
+- A Kamigata Performing Arts Centre report explains the compilation's evidence base: the catalogue was assembled principally from advertisements in 16 newspapers and 14 magazines, supplemented by monthly bulletins and flyers where available, and the entries were not checked against the physical discs. Therefore a hit can support a contemporary advertised issue/title/performer/number and likely month, but it cannot by itself prove the surviving carrier's label, matrix, recorded content or exact master identity. Pair it with the Kushiro inventory and label/runout evidence.
+
+### Next step
+Request consultation or a targeted lookup from a library holding KD1-E21 (Cambridge is one catalogued lead; confirm current access/availability before travel or relying on it). Search 吉田奈良丸, 赤穂義士討入, 赤穂義士伝討入, Royal / ローヤル, and numbers 1645/1649. Record exact page and the catalogue's own category/date; do not promote chronology beyond what the printed advertisement-based evidence supports.
+
+### Additional sources
+- NDL Research Navi, “大衆演芸について調べる”: https://ndlsearch.ndl.go.jp/rnavi/humanities/engei
+- NDL bibliographic record, 演芸レコード発売目録: https://ndlsearch.ndl.go.jp/books/R100000002-I000002059548
+- CiNii Books record and holdings list: https://ci.nii.ac.jp/ncid/BN04971277
+- Kamigata Performing Arts Centre, annual report excerpt describing the compilation's source base: https://wahha-kamigata.jp/wordpress/wp-content/uploads/2019/11/55984e475f4733ca7fe6741e5df6f1fc.pdf
+
+### Limits
+No copy of KD1-E21 was consulted and no Royal 1645/1649 entry was found in it. This is an access-route discovery, not a new discographic identification. No carrier, label, matrix or audio inspected; no audio played/downloaded, no archive contacted and no rights cleared.
