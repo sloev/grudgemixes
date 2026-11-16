@@ -1731,3 +1731,13 @@ Handoff: Grok should prioritize permitted access and metadata requests from CMAM
 - Check 演芸レコード発売目録 for Yoshida Naramaru / 赤穂義士討入 / 赤穂義士伝討入 and catalogue numbers 1645 / 1649; record the issue month and exact label entry.
 - Inspect NDL copies YM2-M2337 / YM2-M2339 or request a reference check; compare Royal 1645/1649 label design and number.
 - Request label photos and matrix/runout from Nichibunken and Kushiro. Keep 1645 and 1649 separate until a crosswalk is established; do not date either from the 1910 Naramaru debut.
+
+
+---
+
+## 2026-11-16 — ChatGPT — Nichibunken rōkyoku database cross-check / Royal 1645
+
+### START
+- Rechecked both repositories on main; read README, METHODOLOGY.md, research_method.md, GROK_HANDOFF.md, TRACK_MAPPING.md, logs and the active Royal 1645 dossier.
+- Follow-up question: use Nichibunken's searchable rōkyoku SP archive to test the Royal 1645/1649 identity and determine whether the exact *Akō Gishi Toiri* title is represented; distinguish a related Royal/Naramaru disc from the target.
+- In parallel, add UPCE's documented Sagada community archive and ReCollection evidence to the Philippines research route without assuming the recordings meet the Insane Music admission threshold. No audio listening, physical carrier inspection, archive contact or rights clearance is assumed.
