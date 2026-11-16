@@ -1673,3 +1673,19 @@ Handoff: Grok should prioritize permitted access and metadata requests from CMAM
 - Then reconcile the GM-US-006 reported Drive retrieval against TRACK_MAPPING.md and continue the highest-value Japanese Royal 1645 item-level catalogue/label research.
 - Read METHODOLOGY.md, README.md, GROK_HANDOFF.md, TRACK_MAPPING.md, research_method.md and the active dossier before edits.
 - Main only. No audio download, listening, archive contact, rights clearance or Drive verification unless actually available.
+
+
+---
+
+## 2026-11-16 — ChatGPT — log recovery and Grok status reconciliation
+
+### DONE
+- Restored the full append-only cooperation log from the last intact version at commit c674adb9541ec1157ddf0a49cfc1a855c7c948b5. The next commit, b59950cab9083d03d4b920fa28d9f7e44bc07d4a, left the log as PLACEHOLDER; the later Naramaru entry was preserved and reconstructed from the current branch's surviving text.
+- Preserved the report that Grok confirmed GM-US-006 (Riley Puckett, “Railroad Bill”) in Drive, but the detailed retrieval metadata is absent from the surviving report. Updated TRACK_MAPPING.md from READY FOR GROK to GROK REPORTED DOWNLOADED, explicitly not FILE VERIFIED, and documented the missing filename/size/duration.
+- Preserved the 2026 Naramaru II chronology cross-check: Kishiwada City Library says the second Yoshida Naramaru first recorded in 1910, but this does not date the Royal 1645 disc. Royal 1645 chronology remains unresolved.
+- No Drive listing, audio file, audio audition, physical carrier, archive contact or rights clearance was available in this pass.
+- Main-only constraint followed. The recovered log and mapping are on main; no branch or PR created.
+
+### NEXT
+- Recover Grok's exact GM-US-006 filename, file size, duration and format from its original report or a Drive metadata listing before marking FILE VERIFIED.
+- Continue Royal 1645 item-level label/runout and exact 1910 Naramaru disc research.
