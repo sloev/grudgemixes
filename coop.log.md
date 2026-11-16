@@ -1703,3 +1703,13 @@ Handoff: Grok should prioritize permitted access and metadata requests from CMAM
 
 ### NEXT
 - Obtain a label image or ledger/catalogue crosswalk for Royal 1645; compare label design and matrix/runout with the Royal label generations. Do not date it from catalogue-number sequence or assign the 1910 debut date.
+
+
+---
+
+## 2026-11-16 — ChatGPT — Japanese SP catalogue research route / Royal 1645
+
+### START
+- Rechecked both repositories on main and read README, methodology, Grok handoff, track mapping, collaboration logs and the active Royal 1645 / Naramaru dossier.
+- New research question: identify the best Japanese-language printed discographies and institutional catalogue routes that could resolve Royal 1645 versus 1649, exact title, matrix, performer generation and issue date. Avoid treating the 1910 career debut or later Naramaru discs as evidence for this specific Royal issue.
+- No physical carrier, label image, matrix or audio inspected; no archive contacted and no rights cleared.
