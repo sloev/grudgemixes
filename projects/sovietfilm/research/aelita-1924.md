@@ -72,3 +72,8 @@ Do not infer theremin, synthesizers, “space-age” sonorities, or a futuristic
 4. Which exact Ruscico 2004 edition was used, and what replacement music appears in that edition?
 5. Are there other later editions with distinct accompaniment, and can their version histories be documented without conflating them with the original 1924 score?
 6. Is there primary documentation for the frequently repeated Shostakovich-pianist claim? Until then it remains unverified.
+
+
+## Research status audit (2026-11-17)
+
+The case study has been checked against the cited 2024 scholarly account and its contemporary/archival references. The original Kruchinin score's loss, surviving related piano piece, 1924 Moscow orchestral screening evidence and 2004 Ruscico replacement-music distinction are documented with explicit evidence grades and unresolved archival questions above. The exact RGALI item and newspaper references have not been inspected directly, and no film/audio listening comparison has been performed. The baseline case is therefore RESEARCHED-OPEN: identity, chronology, score-survival question, screening context, later-version distinction, access and next archival actions are explicit; the RGALI manuscript and primary press remain external dependencies.
