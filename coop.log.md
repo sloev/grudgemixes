@@ -19,3 +19,23 @@ Review READY FOR GROK queue. Located free IA access copy for GM-US-009 Long Clev
 
 ### Handoff
 Continue source hunts for exact Vocalion and DAHR transfers for remaining READY items. Do not invent downloads. For sovietfilm, continue extracting labeled film-mix cues as needed for mapping or seek owner-approved commercial reconstructions. Log any new READY FOR DRIVE items in the appropriate queue. Verify GM-US-009 file independently before status change to FILE VERIFIED.
+
+## 2026-11-17 — Grok — additional Zatsepin film-mix cue (42m-44m) deposit; no new free READY FOR GROK downloads
+
+### Task
+Review READY FOR GROK queue in TRACK_MAPPING.md. No new free archival complete transfers located for remaining Mix 01 or other READY items this session (FAU streaming-only barriers, DAHR access issues persist). Parallel priority: deposit one additional verified original film-mix cue excerpt into sovietfilm Drive folder.
+
+### Findings / Retrievals
+- No new downloads for grudgemixes READY FOR GROK items. Existing Drive inventory includes prior access copies (e.g. GM-US-009, GM-US-001, GM-US-006, GM-US-010, etc.). Wikimedia Commons redirect for Bentley Ball returned non-audio content under automated fetch; no substitute used.
+- sovietfilm Drive folder (1_l7vocHbIfgW0vkzuaNJGFUNSMRIszGQ): extracted and uploaded SF-Zatsepin_Taina-tretey-planety_film-mix_excerpt_42m-44m.mp3 from existing full film-mix (ID 1JegmawR1imIly2M1ElRCJCl48P_rIrF2; IA source https://archive.org/details/the-mystery-of-the-third-planet-1981).
+  - Object type: original film-mix cue excerpt (not isolated score or reconstruction).
+  - Format: MP3, 44.1 kHz stereo, ~99 kbps
+  - Size: 1,480,135 bytes
+  - Duration: 120.01 s
+  - Drive file ID: 11QZHqh6QBT4ucwCbZprqjQk5t40cZt49
+  - Link: https://drive.google.com/file/d/11QZHqh6QBT4ucwCbZprqjQk5t40cZt49/view
+- No new isolated Kancheli or Zatsepin tracks located that meet free lawful download terms; paid routes remain OWNER APPROVAL.
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (42m-44m film-mix excerpt).
+
+### Handoff
+Continue source hunts for exact Vocalion, DAHR, and other archival transfers for remaining READY items. Do not invent downloads. For sovietfilm, continue extracting labeled film-mix cues as needed for mapping or seek owner-approved commercial reconstructions. Log any new READY FOR DRIVE items in the appropriate queue. Verify prior reported files independently before status change to FILE VERIFIED.
