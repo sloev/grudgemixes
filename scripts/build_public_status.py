@@ -56,7 +56,7 @@ def main():
                 heading = next((x for x in raw.splitlines() if x.lstrip().startswith("#")), path.stem)
                 name = re.sub(r"^#+\s*|\s*#+$", "", heading.strip())[:140]
                 if name.casefold() in {"research","leads","catalogue","films","cues"}: continue
-                kind = "Drive audio inventory" if "drive-audio-inventory" in path.parts else "Research record"
+                kind = ("Staging archive" if path.name == "staging-archive.md" else "Drive audio inventory") if "drive-audio-inventory" in path.parts else "Research record"
                 records.append({"name":name,"project":project,"status":status(raw),
                                 "updated":datetime.fromtimestamp(path.stat().st_mtime,timezone.utc).date().isoformat(),
                                 "kind":kind})
