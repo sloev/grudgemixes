@@ -35,7 +35,7 @@ A Russian-language secondary film listing gives production year 1959 and a premi
 
 ## Next work
 
-1. Search Armenian-language and Russian-language catalogues for the original film record: «Պայթյուն անդունդի վրայով»? Do not adopt a guessed Armenian title; obtain the title from an original film credit or studio catalogue.
+1. Search Armenian-language and Russian-language catalogues for the original film record; obtain the Armenian title from an original film credit or studio catalogue rather than translating back from the English rendering.
 2. Request the Armenian Radio Archive's underlying catalogue IDs, carrier/format, recording date, broadcast date, transfer history and session personnel for all three entries.
 3. Check Armenfilm production records, film credits and 1959–1962 Armenian press for the film's exact title and release history.
 4. Compare the three archive audio entries only if the archive's terms permit listening; document durations, arrangement, lyrics and performance differences.
