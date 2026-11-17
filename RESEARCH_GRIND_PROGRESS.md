@@ -159,3 +159,6 @@ Only distinct, evidence-backed recording/cue objects admitted under the relevant
 2. **Insane Music:** advance IM-036, IM-038 and IM-039; find physical DKK cassette evidence for IM-042/047 and resolve Ata Kak's source-tape lineage.
 3. **Soviet Film Music:** advance *Kosmicheskiy reys* and *Stalker*; request item-level provenance for Georgian and Armenian archive objects and compare *I Met a Girl* language versions.
 4. Add qualified new leads in each project while maintaining the dedup register. Do not pad counts with contextual items or collection-level routes.
+
+
+- GM-US-019, Waring's Pennsylvanians, “Stack O'Lee Blues — A Fox Trot” (Victor 19189-A, matrix 28665-5, 16 Oct 1923): exact early instrumental version witness; Grok-reported MP3 not independently inspected. Excluded from qualified new-lead count because it is instrumental and no grievance-response mechanism is audible/verified; retain as Stagger Lee context only.
