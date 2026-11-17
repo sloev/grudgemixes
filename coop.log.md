@@ -107,3 +107,11 @@ Continue source hunts for exact Vocalion and DAHR transfers for READY items. Do 
 Continue core-window discovery for earlier Iberian variants; obtain a lawful listening route for GM-US-014 and transcribe the actual performance before assigning a grievance stance.
 
 Sources: https://www.loc.gov/item/2017700908/ ; https://collections.si.edu/search/results.htm?fq=name%3A%22Distler%2C+Marian%22&q=%22Prisons%22
+
+
+## 2026-11-17 — Grudge Mixes — Boston Burglar version audit
+
+Advanced baseline lead GM-US-011. Smithsonian NMAH identifies a 1925 Okeh 40419 shellac recording of “The Boston Burglar” by Fiddlin' John Carson, while the existing lead is Riley Puckett's Columbia 15050-D, matrix W141081, recorded 2 October 1925. These are separate performances/masters in the same ballad family. The Carson version is not merged into the Puckett record, and the thematic caution remains: a penal warning is not automatically a grievance/retaliation song.
+
+Updated leads/GM-US-011-riley-puckett-boston-burglar-1925.md with the alternate-version cross-check.
+Source: https://collections.si.edu/search/results.htm?fq=date%3A%221920s%22&fq=name%3A%22Okeh%22&q=%22Musical+instruments%22
