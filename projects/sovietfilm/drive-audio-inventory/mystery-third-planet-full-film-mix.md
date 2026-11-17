@@ -1,5 +1,5 @@
-# The Mystery of the Third Planet — full film-mix
+# Legacy provisional note — Mystery of the Third Planet full mix
 
-Status: IN DRIVE — LISTING VERIFIED (2026-11-16)
+Status: Investigating
 
-Object: Full MP3 film-mix containing dialogue/effects and music. Not an isolated score album or cue collection; playback verification not documented.
+Superseded by the user-supplied filename-level inventory record. This earlier note is not an additional Drive file.

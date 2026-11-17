@@ -1,5 +1,5 @@
-# Lonesome Jailhouse Blues — reported Drive file
+# Legacy provisional note — Lonesome Jailhouse Blues
 
-Status: REPORTED IN DRIVE — NOT INDEPENDENTLY VERIFIED
+Status: Investigating
 
-Filename reported in the legacy mapping. Provenance unresolved; do not authenticate as a Parchman 1937 field recording without matching the audio to a primary catalogue record.
+Superseded by the user-supplied filename-level inventory. This earlier note is not a filename match for any of the five listed Insane Music audio files.

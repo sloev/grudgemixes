@@ -1,5 +1,5 @@
-# Faust — Scene de la Prison (Affre / Landouzy)
+# Legacy provisional note — Faust prison scene
 
-Status: REPORTED IN DRIVE — NOT INDEPENDENTLY VERIFIED
+Status: Investigating
 
-Legacy mapping reports a downloaded audio file; exact recording/source details still require confirmation.
+Superseded by the user-supplied filename-level inventory. The supplied filename list does not contain the earlier proposed Faust filename.

@@ -49,7 +49,7 @@ def main():
             folder = ROOT / root
             if not folder.exists(): continue
             for path in folder.rglob("*.md"):
-                if path in seen or path.name.casefold() in SKIP: continue
+                if path in seen or path.name.casefold() in SKIP or path.name.casefold() == "readme.md": continue
                 if any(x in path.name.casefold() for x in ["log","queue","request","method"]): continue
                 seen.add(path)
                 raw = path.read_text(encoding="utf-8", errors="replace")

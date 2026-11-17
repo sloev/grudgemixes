@@ -1,5 +1,5 @@
-# Kin-dza-dza! — film-mix excerpt 0–180 seconds
+# Legacy provisional note — Kin-dza-dza! excerpt 0–180s
 
-Status: IN DRIVE — LISTING VERIFIED (2026-11-16)
+Status: Investigating
 
-Object: MP3 film-mix excerpt containing dialogue/effects and music. Not an isolated score track; playback verification not documented.
+Superseded by the user-supplied filename-level inventory record. This earlier note is not an additional Drive file.

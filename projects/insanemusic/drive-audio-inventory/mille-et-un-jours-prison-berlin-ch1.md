@@ -1,5 +1,5 @@
-# Mille et un jours en prison à Berlin — Chapter I
+# Legacy provisional note — Mille et un jours en prison à Berlin
 
-Status: REPORTED IN DRIVE — NOT INDEPENDENTLY VERIFIED
+Status: Investigating
 
-Legacy mapping reports a spoken-word file, not a music track; verify file presence and metadata before counting it as music.
+Superseded by the user-supplied filename-level inventory. The supplied filename list does not contain the earlier proposed Berlin prison memoir filename.
