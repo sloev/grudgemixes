@@ -51,3 +51,21 @@ Review for READY FOR GROK queue items in insanemusic. Advance non-Anglo/small-we
 
 ### Handoff
 Continue local-language and small-web discovery for overlooked marginal recordings. Prepare any new extant-recording leads with exact sources for future retrieval queues. Sovietfilm film-mix cue advanced in parallel.
+
+
+## 2026-11-17 — ChatGPT — IM-042 audit and IM-047 DKK cassette discovery
+
+### Findings
+- Rechecked Yoneno-Reyes' dissertation and the 2023 *Lakbayan* exhibition inventory for DKK's cassette series.
+- Advanced IM-042 *Salidummay* to RESEARCHED-OPEN. The 1987/1989 first-cassette date conflict remains unresolved; platform metadata is not treated as proof of the original cassette master.
+- Added IM-047, *Dong Dong Ay. Salidummay* (c. 1992), as a distinct one-cassette object. The dissertation's audiovisual bibliography lists the physical cassette as consulted, and the exhibition catalogue independently lists the exact title/date/producer. It is not merged with IM-042.
+- No audio was auditioned, no cassette inspected, and no rights/contact action claimed.
+
+### Files
+- Updated research/philippines-cordillera-salidummay-2026-11-16.md.
+- Added research/dkk-dong-dong-ay-salidummay-im-047-1992.md.
+- Added IM-047 to catalogue.md.
+
+### Handoff
+Find the original cassette/J-card and tracklist, reconcile circa 1992 vs catalogue date, and seek an authorised item-level transfer through DKK / CPA / Dang A Dang Radio.
+Sources: https://www.academia.edu/105350613/Yoneno_Reyes_Dissertation_Salidummay ; https://www.savvy-contemporary.com/site/assets/files/9572/lakbayan_handout-2.pdf
