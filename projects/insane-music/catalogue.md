@@ -177,3 +177,10 @@ The date conflict is material: do not collapse the 1987 catalogue/platform date 
 | ID | Recording / corpus | Environment & place | Date(s) | Medium | Pathway | Status | Visibility | Detail |
 |---|---|---|---|---|---|---|---|---|
 | IM-045 | Bruce Jackson, “Field Recordings: Prison Songs,” Smithsonian Asch item FW-ASCH-7RR-1966 | Indiana, USA; catalogue place field also lists Bloomington; exact facility unresolved | Unknown; “1966” is only the archive local-number suffix, not an established recording date | One 7-inch analogue sound-tape reel | G — prison recording environment | PARTIALLY VERIFIED | PROMISING | Distinct Smithsonian item with GUID https://n2t.net/ark:/65665/bk5d396d565-cc98-4438-8a00-db906c0380f2. Recorder Bruce Jackson; tracklist, performers, facility, date and relationship to the 1962/1963 Indiana reels remain unresolved. Confirm item-specific restrictions; do not infer the date from the local number. See research/indiana-prison-songs-im-045-2026-11-17.md. |
+
+
+## L. New DIY/home-recorded Ghanaian corpus (2026-11-17)
+
+| ID | Recording / corpus | Environment & place | Date(s) | Medium | Pathway | Status | Visibility | Detail |
+|---|---|---|---|---|---|---|---|---|
+| IM-046 | Ata Kak, Obaa Sima | Home studio, Toronto, Canada; cassette manufactured/issued in Ghana | Recorded c. 1991–1992; approximately 50 copies released 1994 | Seven-track home recording; original cassette; later authorised reissue based on a surviving cassette copy | C — self-taught practice; D — DIY/home-recorded and self-released; E — idiosyncratic musical practice | WELL-SUPPORTED | PROMISING | Artist-authorised release notes describe a home studio assembled from second-hand equipment, Twi-language rap/highlife/electronic blend, a small 1994 cassette run and loss of the master DAT. The 2015 reissue used the cassette copy found in Cape Coast in 2002; speed discrepancy remains unresolved. Not an institutional or psychiatric case. See research/ata-kak-obaa-sima-im-046-2026-11-17.md. |
