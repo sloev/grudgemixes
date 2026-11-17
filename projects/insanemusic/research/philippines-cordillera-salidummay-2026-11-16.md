@@ -77,3 +77,16 @@ A 2021 *Cordillera Review* article on Kalinga ethnopop discusses the wider hybri
 - Cordillera Peoples Alliance, “About”: https://cpaphils.org/about.html
 - Scott Magkachi Saboy, “Voicing Ethnicity: Traditional Referentiality, the Ullalim, and Kalinga Ethnopop,” *The Cordillera Review* 4(2), pp. 37–64: https://thecordillerareview.upb.edu.ph/wp-content/uploads/2021/05/TCR-IV-2_Saboy_Voicing-Ethnicity-Traditional-Referentiality-the-Ullalim-and-Kalinga-Ethnopop-doi.pdf
 - ICTM 1999 World Conference abstracts, discussion of salidummay and the problem of treating it as a uniform regional identity: https://www.ictmusic.org/sites/default/files/documents/world%20conferences/books%20of%20abstracts/abstracts%201999%20ictm%20world%20conference.pdf
+
+
+## Research status advance (2026-11-17)
+
+Rechecked the full dissertation record and the 2023 *Lakbayan* exhibition catalogue. The dissertation's audiovisual works consulted identifies *Dong Dong Ay. Salidummay* as a separate one-cassette object, undated but assigned circa 1992, produced by DKK / DKK Salidummay group. It also states that DKK's 1990s cassettes circulated in Baguio and the northern Luzon highlands, and describes the recordings as fixed songs with titles, lyrics, tunes and vocal/instrumental arrangements. The exhibition catalogue independently lists the cassette as a 1992 DKK title and describes the DKK albums as blending 1970s folk and Cordillera Indigenous traditions.
+
+This cross-check strengthens the evidence for a real DKK cassette corpus but does not resolve the separate *Salidummay* first-cassette 1987/1989 discrepancy. It also supplies the basis for treating *Dong Dong Ay. Salidummay* as a distinct release object under a new ID (IM-047), not as a duplicate or alternate master of the 1987/1989 *Salidummay* cassette. Tracklist, exact issue date, cassette label/J-card, performers and rights remain open.
+
+**Status:** RESEARCHED-OPEN for IM-042. The identity, community/producer context, ten-song programme, circulation, historical-political context, date conflict, platform-version caveat and rights limits have been checked as far as accessible evidence allows. No cassette was physically inspected, no audio auditioned, and no contact or permission is claimed.
+
+Sources:
+- Michiyo Yoneno-Reyes, *Unsettling “Salidummay”*, especially pp. 237–239 and audiovisual works consulted: https://www.academia.edu/105350613/Yoneno_Reyes_Dissertation_Salidummay
+- Savvy Contemporary / MaerzMusik, *Lakbayan: Voices of Resistance from the Philippines* (2023), cassette inventory: https://www.savvy-contemporary.com/site/assets/files/9572/lakbayan_handout-2.pdf
