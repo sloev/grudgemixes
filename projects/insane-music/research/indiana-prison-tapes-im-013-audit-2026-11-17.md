@@ -34,3 +34,12 @@ The Smithsonian Asch records include restrictions against duplication and resear
 3. Compare the 1962, 1963 and undated reels against the Folk-Legacy *Death Chants* release, identifying exact overlaps and home re-recordings.
 4. Keep unissued/omitted-track claims tied to the editor's note and tape logs, not inferred from catalogue titles.
 5. No listening, archive contact, duplication, publication permission or rights clearance is claimed in this audit.
+
+
+## Additional item-level cross-check (2026-11-17)
+
+A Library of Congress finding aid for the Bruce Jackson and Diane Christian collection provides item-level descriptions for a run of Indiana State Prison reels, AFC 2011/009: SR0760–SR0769. The entries describe 7-inch analogue sound-tape reels, including numbered reels #31–#40, with contents such as Blue Grass, sociological recordings, prison-condition discussions, blues and jazz. Several tape-box labels are explicitly described as coming from the Archives of Folk and Primitive Music, Indiana University. This is additional archival evidence for surviving reel objects associated with the 1962 Indiana prison project, but it does not by itself establish that every LOC item is an original IU accession or map each SR item to accession numbers 62-4-28 / 62-6-18 / 62-8-9.
+
+This strengthens the existence and item-level content evidence for IM-013 while leaving the IU accession-to-LOC item concordance open. The 1962 IU series, LOC Bruce Jackson/Christian reels, Smithsonian 1963 reels and Smithsonian FW-ASCH-7RR-1966 remain separate archival records pending provenance reconciliation.
+
+Source: https://findingaids.loc.gov/exist_collections/ead3pdf/afc/2018/af018002.pdf
