@@ -135,7 +135,7 @@ The current Drive inventory has been reported as one 180-second film-mix excerpt
 
 ### Active queue
 1. Request Armenian Radio Archive item IDs, carrier/session dates, date-field definition, transfer history and evidence that the seven cue pages correspond to the 1956 film; no contact has been made.
-2. Continue Georgian National Archives item-level provenance for SF-GE-001/002 and compare the Tajik/Russian *I Met a Girl* versions, keeping each recording object separate.
+2. Continue Georgian National Archives item-level provenance for SF-GE-001/002. For *I Met a Girl*, keep the singer attribution DISPUTED: a plausible but unproven split is Rauf Atakishiyev for the original Tajik-language vocal and Rashid Behbudov for the Russian-language re-recording. The 1958 Gosteleradiofond Behbudov studio performance is a separate television object, not the film mix. Obtain the two film versions or production/session evidence before resolving the vocal crosswalk.
 3. Continue *Kosmicheskiy reys* and *Stalker* cue mapping from existing film-mix assets; do not count film-mix excerpts as isolated soundtrack tracks.
 
 **Collection metrics:** new candidate IDs this pass: 0; new READY FOR DRIVE: 0; new files uploaded/verified in Drive: 0. No audio was played, downloaded or uploaded; no permission was obtained.
