@@ -44,3 +44,18 @@ Proposed filename: `GM-US-014_Tobe_Little_Chain_Gang_Song_Okeh_40328_1925`
 ## Decision
 
 Retain as a C lead and research target. The exact commercial recording is identified, but the song's words and stance are not. Do not classify it as protest or grievance until the performance is transcribed. No audio has been auditioned or downloaded by this research agent.
+
+
+## Smithsonian Asch Collection cross-check (2026-11-17)
+
+The Smithsonian Institution's Ralph Rinzler Folklife Archives search record identifies a later archival carrier for this title:
+- Title: “Chain Gang Song/The Prisoner's Song”
+- Artist: Tobe Little
+- Okeh catalogue: 40328
+- Local archival number: **FW-ASCH-78-2569**
+- Carrier described by Smithsonian: one 7-inch, 45 rpm phonograph record
+- Collection: Moses and Frances Asch Collection, item CFCH.ASCH
+- GUID: https://n2t.net/ark:/65665/bk5c18470d5-0463-4c10-8444-9025cde4d94f
+- Search record: https://collections.si.edu/search/results.htm?fq=name%3A%22Distler%2C+Marian%22&q=%22Prisons%22
+
+The Smithsonian record confirms a later archival carrier and title/artist/catalogue association, but it does **not** add a 1925 matrix/date or prove that the archival 45 rpm carrier is the original 78 rpm pressing. The record states that duplication is not allowed and that permission is required for publication. It is a research/listening reference only; do not treat it as a permitted copying route.
