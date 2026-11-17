@@ -96,3 +96,25 @@ If owner-approved, send the UPCE metadata enquiry; otherwise continue item-level
 Sources: https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10329 ; https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10331 ; https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10332 ; https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10333 ; https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10340 ; https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10341 ; https://upethno.upd.edu.ph/collections-portal/
 
 No audio auditioned or downloaded, no carrier inspected, no archive/community partner contacted and no rights cleared.
+
+
+## 2026-11-17 — ChatGPT — Ōshima Seishōen resident ensemble follow-up
+
+### Task claimed
+Local-language follow-up on Takashi Tōjō's 2026 *こころ* release and the unresolved question of earlier resident ensemble recordings.
+
+### Findings
+- KSB's 4 Nov 2026 memorial report embeds a short April 2026 excerpt of Tōjō singing “こころ” with Tomoe Sawa. This adds a public listening page for a known album track, but it is a video/news-page excerpt, not a direct downloadable audio file or a separate recording object.
+- Fellow resident Matsumoto Tsuneji (松本常二) recalls that Tōjō was musically skilled and played with him in a harmonica group. Another resident, Mori Kazuo (森和男), recalls Tōjō's strong interest in music.
+- The testimony does not identify the group's name, date range, other members, repertoire, venue, a surviving tape or a particular group recording. It is not evidence that an ensemble master survives. No new IM-ID or Grok request justified.
+- Existing *こころ* physical-CD purchase request remains unchanged; the complete tracklist, booklet, session credits and rights for the 2026 master remain open.
+
+### Files
+- Updated environment-leads.md, catalogue.md, TRACK_MAPPING.md (KSB page addendum only), research_method.md and this log.
+
+### Handoff
+Look for a dated Ōshima Seishōen programme, newsletter, photograph or archive reference naming the harmonica group and any surviving resident-made recording. Keep this separate from the personal-CD lineage and from Sawa's historical sanatorium-song research.
+
+Source: https://news.ksb.co.jp/article/17021393
+
+No audio auditioned, downloaded or uploaded; no physical CD inspected; no archive/artist contact or rights clearance.
