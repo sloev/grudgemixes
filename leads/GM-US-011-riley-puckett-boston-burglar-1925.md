@@ -44,3 +44,11 @@ Proposed filename: `GM-US-011_Riley_Puckett_Boston_Burglar_Columbia_15050-D_1925
 ## Decision
 
 Keep as a C lead and a retrieval target for lyric inspection. The recording identity is well supported; thematic fit is limited to punishment/caution unless the master proves more. No audio has been auditioned or downloaded by this research agent.
+
+
+## Okeh alternate-version cross-check (2026-11-17)
+
+The Smithsonian National Museum of American History catalogue also identifies Fiddlin' John Carson, “The Boston Burglar; Sally Ann,” Okeh 40419, a 10-inch shellac record with a 1925 recording date (object 1996.0320.13067). This is a distinct commercial performance from Riley Puckett's Columbia 15050-D, matrix W141081, recorded 2 October 1925. The two should not be merged as one master or treated as interchangeable audio. The Carson side is an additional version of the same ballad family; the Puckett dossier remains focused on its exact Columbia performance.
+
+Smithsonian object search: https://collections.si.edu/search/results.htm?fq=date%3A%221920s%22&fq=name%3A%22Okeh%22&q=%22Musical+instruments%22
+The search record reports the Carson object as Okeh 40419 and 1925; the exact recording session date and matrix were not supplied in the result used here. The thematic question remains unchanged: the ballad's common form is a cautionary penal narrative, not automatically a grievance or retaliation song.
