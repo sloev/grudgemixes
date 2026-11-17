@@ -154,3 +154,18 @@ Bounded audio asset deposit for priority film Тайна третьей план
 
 ### Handoff
 Drive sovietfilm folder now includes the additional 5m-7m Zatsepin film-mix excerpt. Research agents can use timestamps for mapping. Drive-capable agents should prioritize owner-approved commercial isolated tracks and log any new lawful free complete tracks as READY FOR DRIVE. Existing film-mix collection supports listening notes and cue identification. No READY FOR GROK items in music repos this session.
+
+
+## 2026-11-17 — ChatGPT — Armenian film-music archive discovery
+
+### Findings
+- Added a regional discovery dossier for the Armenian Radio Archive's soundtrack collection: 186 recordings, 1952–1986, 27 performers and 18 composers, associated with Soviet Armenian feature films and Armenfilm/Hayfilm.
+- Tested a Tigran Mansurian item, “Melody” from *Ashnan Arev* / *Autumn Sun*, duration 2:25. The archive item page dates its recording entry to 1986, while independent film sources identify *Ashnan Arev* as a 1977 film with music by Mansurian. This discrepancy is retained as an unresolved recording-date/object question.
+- Distinguished the archive item from a separate 2024 re-recording by Sergey Smbatyan and the Armenian State Symphony Orchestra. No listening analysis, audio retrieval, rights assessment or permission request was performed. No queue promotion to READY FOR DRIVE.
+
+### Files
+- Added `research/armenian-film-music-archive-lead-2026-11-17.md`.
+
+### Handoff
+Resolve archive date conventions and request catalogue/carrier/session metadata; then compare the archive object with the film print and 2024 re-recording. Select further Armenian SSR cues only after independent film-credit checks.
+Sources: https://armradioarchive.am/en/genres/soundtrack ; https://armradioarchive.am/en/song/meghedi-ashnan-arev-k-f ; https://films.klassiki.online/autumn-sun ; https://music.apple.com/us/album/tigran-mansurian-film-theatre-music/1785241663
