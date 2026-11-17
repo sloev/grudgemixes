@@ -55,3 +55,12 @@ Proposed filename: `GM-AM-001_Helen_Paul_Tzain_ma_Hunchetz_Columbia_1918`
 ## Decision
 
 Retain as a C research target. The exact 1918 recording session, performer, label and revolutionary subject are supported by the Armenian Museum's specialist research, but the catalogue/matrix, exact lyric variant and audio access remain unresolved. No audio has been auditioned or downloaded by this research agent.
+
+
+## Research update — Helen Paul / “Tzain ma Hunchetz” (2026-11-17)
+
+Rechecked the Armenian Museum of America's own Sound Archive article and archive overview. The museum directly identifies Helen Paul's April 1918 Columbia session in the Woolworth Building, the two recorded titles (“Mer Hairenik” and “Tzain ma Hunchetz”), the violin-accompanied soprano format, the ode's dedication to the Erzerum revolutionary groups and the late-19th-century composition attribution. It also confirms that the museum's roughly 3,000-disc collection is selectively digitised and shared. The 1924 Songs of Armenia score is a later text witness, not proof of the exact 1918 take.
+
+This lead is now RESEARCHED-OPEN for programme tracking, while its candidate grade remains C. Open questions are specific: exact Columbia catalogue/matrix, original Armenian label spelling, exact recorded text and authorised item-level audio access. The museum article itself is the strongest accessible source; no independent listening or label examination was performed.
+
+Sources: https://www.armenianmuseum.org/sound-archive/helen-paul ; https://www.armenianmuseum.org/sound-archive
