@@ -192,3 +192,25 @@ Continue source hunt for READY FOR GROK items and related early grievance/outsid
 
 ### Handoff
 Continue targeted hunts for Vocalion exact matches and other READY items (e.g. Roba Stanley Little Frankie, Julius Sutton Single Girl if LOC transfer available). Do not substitute non-matching performances. Verify new file independently before status change.
+
+
+## 2026-11-17 — ChatGPT — Royal 1645/1649 catalogue-table disambiguation
+
+### Task claimed
+Continue the active Royal 1645/1649 discographical crosswalk without repeating completed NDL/Nichibunken searches.
+
+### Findings
+- Re-read the 78MUSIC page at section level. Its Royal red-label/eagle table explicitly lists 1645, 赤穂義士討入, Osaka Yoshida Naramaru, 浪花節, 正面鷲. A later, separate Nipponophone 1–9000 table also lists 1645 and lists 1649 as 赤垣源蔵（上）.
+- Cross-checked the Kushiro Museum PDF: p.17 row 166 identifies Royal 1645 / 赤穂義士討入 / Yoshida Naramaru; p.18 row 186 separately identifies Royal 1649 / 赤穂義士伝 / Yoshida Naramaru. The same catalogue number 1649 in the Nipponophone table is not the Kushiro Royal 1649.
+- Preserved four distinct objects: Royal 1645, Royal 1649, Nipponophone-series 1649, and Nichibunken Royal 1853. Royal 1645 identity is better supported, but date, matrix, label image and actual performance text remain unresolved.
+- No candidate promotion and no READY FOR GROK item; no authorised download route found.
+
+### Files
+- Updated research/japan-ako-gishi-yoshida-naramaru-royal-record.md.
+- Updated research_method.md.
+- Updated this log.
+
+### Handoff
+Consult KD1-E21 through a holding library/reference lookup for exact issue month and title/number crosswalk; request separate label/matrix evidence for Kushiro Royal 1645 and Royal 1649. Do not attach Naramaru II's 1910 debut date to either disc.
+
+Sources: https://78music.jp/other5.html ; https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf ; https://ndlsearch.ndl.go.jp/rnavi/humanities/engei
