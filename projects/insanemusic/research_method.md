@@ -1359,3 +1359,19 @@ No audio auditioned, no Drive files accessed, no contact made, and no rights cle
 - Make a catalogue-level reference enquiry to UPCE for the 1987 Kabayan recordings, 1950s Sagada corpus and any itemised Kankana-ey/Ibaloi field recordings; ask about community review and access.
 - Keep the 2025 SMSSI archive under community control; no request for unrestricted copies or assumption that UPCE can authorise access to originals.
 - Continue identifying specific release media for Kinnoboyan / Rio Cariño / Cesar Pasiw without conflating local-language country music with outsider music.
+
+
+
+
+## 2026-11-17 — UPCE catalogue-level follow-up
+
+- Public UPCE Collections Portal item pages expose six 1983 Bontok/Sadanga cassette-side records: UPCE-A-10329 (Senga continuation, 19:42; note says dub from Helen Tejero's Senga), 10331 (Ila-illalay, 0:52), 10332 (Salidommay, 0:52), 10333 (Gangsa, 2:30), 10340 (Salidommay, 16:04; Mantosa) and 10341 (Kwella/tinaroyod, 5:24; Mantosa).
+- These are not the target 1987 Kabayan Bendian recordings or the 1950s Sagada corpus. Search results for 1987 Kalinga in the same portal were photographs, not Kabayan audio.
+- The portal's WAV/MP3 e-format field is not a download route. Its Terms of Service prohibit copying/ripping/downloading/uploading except with express Center permission.
+- No new Insane Music entry: the 1983 items are community/ethnographic field recordings without a documented outsider, DIY, institutional or alternative-community pathway. Do not classify Indigenous/local tradition as outsider because it is unfamiliar.
+- Added a contextual note to the catalogue and environment leads, updated the Cordillera dossier, and added a metadata-only reference enquiry to archive-requests.md. No contact made; no files requested or accessed beyond public item pages.
+
+### NEXT
+1. If the owner approves sending archive enquiries, ask UPCE for the exact item-level inventory and provenance of the 1987 Kabayan Bendian corpus and 1950s Sagada recordings, plus the 1983 Bontok source-tape/dubbing crosswalk. Respect the 2025 SMSSI community archive's control and room-use-only UPCE copy.
+2. Continue identifying extant Abatan Records cassette editions and local-country releases by item-level title/performer/carrier; do not treat local-language music as outsider by default.
+3. Return to the non-prison global queue (IM-036/038/039 and Ata Kak source-tape lineage) without repeating completed DKK searches until physical J-card or tracklist evidence appears.
