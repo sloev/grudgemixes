@@ -137,3 +137,22 @@ A distinct Favorite Record issue of “Pamp Vorodan” by Mademoiselle Rosalie (
 ## 2026-11-16 — label voice-type discrepancy
 
 An agent's 2026-11-15 audio-locator pass reports inspecting a high-resolution label image for Victor 69102 and reading “Baritone with orchestra / In Armenian,” while the Library of Congress item catalogue identifies Bézazian as “Tenor Vocal” (https://www.loc.gov/item/jukebox-19711/) and 78opera's sessionography also describes him as a baritone (https://www.78opera.com/files/ARTIST_Ba-Bi.pdf). Preserve this as an explicit source discrepancy; do not silently overwrite the LOC catalogue field. The same agent reports the label's Armenian-script title as ԲԱՄԲ ՈՐՈՏԱՆ and performer as ԹՈՐԳՈՄ ՊԷԶԱԶԵԱՆ, with the label credit “Arr. H. Sinanian.” These are agent-reported label readings pending direct reinspection. The existing LOC audio item remains the primary online access route; its rights notice says users are responsible for determining permissions.
+
+
+## 2026-11-17 — Columbia version-family cross-check
+
+The Armenian Museum of America’s full discography adds two earlier, distinct Tashjian performances of the same Alishan/Bianchini song family:
+
+1. **Mardiros Der Sarkis Tashjian, Columbia E530-4099 (1909)** — listed in the museum’s 1909 solo discography as “Pomp Orodan [Vorodan]”, paired with “Thunderer March”. The museum dates the session family to 1909 but does not supply a matrix or exact take for this side.
+2. **Tashjian Brothers, Columbia E667 (recorded autumn 1910; issued 1911)** — “Pamp Vorodan”, one of the 28 songs recorded by Mardiros with Nishan and Levon. The museum gives the catalogue number but no matrix or side-specific label/runout image in the text.
+
+These are distinct performances and Columbia issue objects, not the 1916 Victor 69102 master. The museum’s account identifies the brothers’ 1910 performances as three-part vocal harmonies and records that the 1910 discs were issued in 1911. Preserve all three objects as a version family; **do not add the 1909 and 1910 performances as separate new-lead counts** because they are versions of the same composition/ballad already represented by this baseline candidate.
+
+The 1916 Victor object remains the best-defined individual recording: Victor 69102, matrix B-18462, take 3, recorded 11 October 1916 in New York with King's Orchestra under Edward T. King. The poem’s 1850 publication and explicit vengeance frame remain supported by the Armenian Institute research already cited above. Exact correspondence between the 1916 performance and the full poem is still not established.
+
+**Status:** RESEARCHED-OPEN for the baseline candidate. Identity, composition chronology, thematic basis, three known performance/issue objects and date distinctions have been checked. Remaining: exact matrix/take data for the Columbia sides; inspect label images/physical carriers; compare lyrics and arrangement; verify LOC audio-transfer lineage and permissions. No listening or rights clearance is claimed.
+
+Sources:
+- Armenian Museum of America, “The Incomplete Story of Mardiros Der Sarkis Tashjian & His Brothers”, especially Columbia 1909 discography and 1910 brothers’ discography: https://www.armenianmuseum.org/sound-archive/tashjian-story
+- Armenian Museum of America, “Torcom Bezazian: The Prolific Baritone”: https://www.armenianmuseum.org/sound-archive/torcom-bezazian
+- LOC National Jukebox, Victor 69102 / matrix B-18462 / take 3: https://www.loc.gov/item/jukebox-19711/
