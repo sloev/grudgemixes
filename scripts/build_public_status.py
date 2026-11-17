@@ -67,7 +67,11 @@ def main():
               "Done":"Downloaded audio independently verified.",
               "In Drive (listed)":"A Drive inventory lists the file; this does not establish playback or isolated-track status.",
               "Reported in Drive":"Legacy project notes report a file in Drive; current Drive listing has not been independently checked.",
-              "Ready for Drive":"Exact downloadable object and permitted route identified; awaiting Drive retrieval.",\n              "Researched":"Research complete enough for further review; not necessarily downloadable.",\n              "Stream only":"A listening route exists; no downloadable file route verified.",\n              "Owner approval needed":"A paid route exists but requires owner approval.",\n              "Blocked / unresolved":"Access, link, or recording identity remains unresolved.",
+              "Ready for Drive":"Exact downloadable object and permitted route identified; awaiting Drive retrieval.",
+              "Researched":"Research complete enough for further review; not necessarily downloadable.",
+              "Stream only":"A listening route exists; no downloadable file route verified.",
+              "Owner approval needed":"A paid route exists but requires owner approval.",
+              "Blocked / unresolved":"Access, link, or recording identity remains unresolved.",
               "Investigating":"Research, identity, provenance, or access route still being checked."},
             "records":sorted(unique.values(),key=lambda x:(x["project"],x["status"],x["name"].casefold()))}
     OUT.mkdir(exist_ok=True)
