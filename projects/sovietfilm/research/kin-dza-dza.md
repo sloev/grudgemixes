@@ -65,3 +65,15 @@ The composer credit is well-supported. A commercial compilation release with nam
 **Soundtrack release history:** WELL-SUPPORTED for Olympia OCD 608 (1995) and 2001 Japan reissue; film-print equivalence still open.  
 **Listening analysis:** NOT YET DONE.  
 **Rights / access:** UNKNOWN.
+
+
+## Cross-release catalogue check (2026-11-17)
+
+A further catalogue comparison adds a useful version-control question:
+
+- A Russian-language retailer listing for Olympia's *Music of Soviet Film* (catalogue CDVP 006092, EAN 4607167791497, release date shown as 7 August 2007) lists the four-part *Kin-Dza-Dza* suite as I 4:26, II 4:59, III 1:16, IV 2:04 (12:45 total). It credits the State Symphony Orchestra of Georgia and the USSR Cinematography Symphony Orchestra, and lists Jansug Kakhidze and Sergei Skripka as conductors: https://www.cdvpodarok.ru/products/kancheli-giyamuzyka-sovetskogo-kinovypusk-6
+- The existing 1995 Olympia OCD 608 record in this file gives 12:38 for the same four-part section. The seven-second discrepancy is small but real; do not silently merge the two track-duration sets. It may reflect timing/transfer differences, edits or metadata rounding. Inspect physical discs and booklet/label scans before deciding.
+- The Living Composers Project independently describes the Olympia OCD 608 contents as suites from *Don't Grieve*, *Kin-dza-dza!* and *The Passport*, performed by Sergei Skripka / State Symphony Cinema Orchestra and Jansug Kakhidze / Georgian State Symphony Orchestra: https://composers21.com/compdocs/kanchelg.htm
+- MusicBrainz lists discrete recordings under the *Кин-Дза-Дза!* release group, including “Мама, мама, что я буду делать” (1:27), “Что мы будем делать?” (0:20) and “Ыыыы” (0:35). These are potential cue/song identifiers, but the release-group relationship and original-film version must be verified before mapping them to the 1986 film: https://musicbrainz.org/artist/33d286c3-7f43-42de-8883-267d35b4588b/recordings
+
+**Revised status:** commercial soundtrack-suite existence remains WELL-SUPPORTED; exact relationship among the 1995 CD, 2007 Olympia issue, film-print mix and any cue-level release group remains unresolved. No listening comparison or rights clearance was performed in this pass.
