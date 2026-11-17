@@ -67,3 +67,20 @@ Continue local-language and small-web discovery for overlooked marginal recordin
 ### Handoff
 Seek author-mediated access to the surviving cassette/CD, establish source-generation and compilation provenance, and verify each underlying track independently. Do not treat the concealed apartment's use as proven beyond the article's cautious inference.
 Source: https://doi.org/10.20504/opus2024.30.16
+
+
+## 2026-11-17 — ChatGPT — Bruce Jackson Indiana prison reel audit; IM-044
+
+### Findings
+- Re-audited the Smithsonian Ralph Rinzler Folklife Archives and Collections and found two exact Bruce Jackson Indiana Prison Songs reel records: FW-ASCH-7RR-4919 (reel 1) and FW-ASCH-7RR-4918 (reel 2).
+- Reel 1 has a 1963 Indiana recording note and lists Eugene Rhodes and Hank Ferguson among performers. Reel 2 lists Hank Ferguson, Billy Turpin, Charlie Bell and Eugene Rhodes with track-level contents.
+- These have distinct archive identifiers from IM-013's 1962 Indiana State Prison accessions. Added as IM-044 rather than merging them. Exact facility and overlap remain unresolved.
+- Smithsonian terms prohibit duplication and restrict access to research listening/viewing; no audio was accessed or auditioned.
+
+### Files
+- Added `research/indiana-prison-songs-bruce-jackson-im-044-2026-11-17.md`.
+- Added IM-044 to the catalogue.
+
+### Handoff
+Request archive metadata and permitted listening access; establish exact prison, session dates, CDR transfer provenance and which tracks were issued by Folk Legacy. Keep rights and access restrictions explicit.
+Sources: https://collections.si.edu/search/results.htm?q=%22Jackson%2C+Bruce+1936-%22 ; https://collections.si.edu/search/results.htm?fq=name%3A%22Folkways+Records%22&q=%22Prisons%22
