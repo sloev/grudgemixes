@@ -160,3 +160,21 @@ Baseline remains 91 (Grudge 44, Insane 42, Soviet 5). Baseline leads researched:
 
 ### Handoff
 Continue baseline research across remaining Grudge Armenian/US records, Insane non-prison cases IM-036/038/039/042, and Soviet film targets The Mystery of the Third Planet, Kosmicheskiy reys and Stalker. Keep all archive and recording-version dependencies explicit.
+
+
+## 2026-11-17 — Further discovery batch across all three projects
+
+### Grudge Mixes
+Advanced baseline GM-AM-002 (Mardiros Tashjian, “Hairenikt Mortsir”, Columbia E531/4084, 1909) to RESEARCHED-OPEN after checking the Armenian Museum's full item-level article and text. Also advanced the baseline candidate “Pamp Vorodan” / “Bam Porotan” (Torcom Bézazian, Victor 69102, 1916) to RESEARCHED-OPEN. The museum's 1909 and 1910 Tashjian discographies reveal distinct earlier performances of the same Alishan/Bianchini song family (Mardiros solo E530-4099; Tashjian Brothers E667). These are recorded as version-family evidence, not new-lead counts.
+
+### Insane Music
+Advanced baseline IM-042 (DKK / Salidummay) to RESEARCHED-OPEN after cross-checking the dissertation's audiovisual bibliography and the 2023 *Lakbayan* cassette inventory. Added IM-047, the distinct *Dong Dong Ay. Salidummay* c. 1992 one-cassette object, independently listed in both sources. It remains distinct from IM-042's 1987/1989 *Salidummay* cassette. No physical carrier inspection or audio audition was performed.
+
+### Soviet Film Music
+Added SF-ARM-003 for the 1958 Armenian film-song family «Առաջին սիրո երգը» / *Song of the First Love*. Armenian Radio Archive identifies two distinct 1958 “Love Song” objects with different performers and durations, both composed by Arno Babajanian; one credits Hovhannes Ghukasyan for lyrics. Advanced baseline *The Mystery of the Third Planet* to RESEARCHED-OPEN after adding the 27-track secondary soundtrack listing and clarifying the 1995 dub and 2022 reconstruction distinctions.
+
+### Programme totals
+Baseline remains 91 (Grudge 44, Insane 42, Soviet 5). Baseline leads researched: 11/91. Cumulative distinct qualified new leads: 13/91 (Grudge 2, Insane 5, Soviet 6). Stopping condition NOT MET.
+
+### Handoff
+Continue the remaining Armenian/US/international Grudge Mixes leads; advance Insane Music IM-036, IM-038 and IM-039 while resolving the DKK cassette objects; advance *Kosmicheskiy reys* and *Stalker* and request item-level Armenian/Georgian archive metadata. Keep version-family objects separate and do not count duplicates.
