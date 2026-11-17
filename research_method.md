@@ -344,3 +344,10 @@ Grok's reported Waring's Pennsylvanians “Stack O'Lee Blues” download is now 
 ### NEXT
 1. Continue the active Royal 1645/1649 KD1-E21 lookup and physical label/matrix crosswalk.
 2. When a Drive-capable agent provides a verifiable file/metadata inspection for GM-US-019, reconcile the 3:32 vs 3:21 discrepancy and confirm that the Drive copy matches Victor 19189-A / matrix 28665-5; do not ask for a new retrieval.
+
+
+## 2026-11-17 — Royal 1645/1649 KD1-E21 access update
+
+The 1990 *演芸レコード発売目録* (KD1-E21) is NDL-premises-only for digital viewing and excluded from library/personal digital transmission, but its NDL record explicitly marks paid remote photocopy as available. NDL's help says this requires user registration and is subject to item eligibility/copy limits. Physical holdings are also listed at Saitama, Chiba, Tokyo, Aichi, Nagoya, Kyoto and Osaka libraries. This is an actionable consultation route, not a catalogue hit.
+
+**Next:** identify the book's rōkyoku section/page range, then use a registered NDL remote-copy request or consult a holding library for limited relevant pages. Search 吉田奈良丸, 赤穂義士討入, 赤穂義士伝, Royal / ローヤル and 1645/1649. No Royal issue month or entry has yet been verified. Preserve Royal 1645, Royal 1649, Nipponophone-series 1649 and Royal 1853 as separate objects. No candidate promotion or Grok request.
