@@ -7,8 +7,8 @@
 ## Completion condition
 
 - Baseline leads: **91** (Grudge Mixes 44; Insane Music 42; Soviet Film Music 5).
-- Cumulative distinct qualified new leads added: **5** (Grudge Mixes 1; Insane Music 3; Soviet Film Music 1).
-- Baseline leads with researched status: **4 / 91**.
+- Cumulative distinct qualified new leads added: **11** (Grudge Mixes 2; Insane Music 4; Soviet Film Music 5).
+- Baseline leads with researched status: **7 / 91**.
 - Stopping condition: **NOT MET**. Continue until all 91 baseline leads are RESEARCHED-OPEN or RESEARCHED-CLOSED and at least 91 qualified new leads have been added.
 
 A lead is “researched” when identity, chronology/version, provenance/context, access/rights and next actions have been checked as far as available evidence allows. RESEARCHED-OPEN is valid when unresolved questions or external dependencies remain explicit. It does not mean all issues are resolved.
@@ -17,7 +17,7 @@ A lead is “researched” when identity, chronology/version, provenance/context
 
 Counting unit: one distinct lead/candidate file. Where a legacy ID is reused for a different recording, the path is the stable tracking key. Three post-1925 recordings remain in the baseline because they existed as leads at programme start; they must be researched and explicitly kept outside the core.
 
-- leads/GM-AM-001-helen-paul-tzain-ma-hunchetz-1918.md: NOT STARTED
+- leads/GM-AM-001-helen-paul-tzain-ma-hunchetz-1918.md: RESEARCHED-OPEN
 - leads/GM-AM-002-mardiros-tashjian-hairenikt-mortsir-1909.md: NOT STARTED
 - leads/GM-AM-003-tashjian-brothers-himi-el-lrenk-1910.md: NOT STARTED
 - leads/GM-AM-004-mardiros-tashjian-himi-el-lrenk-1909.md: NOT STARTED
@@ -76,7 +76,7 @@ Counting unit: each consolidated catalogue ID IM-001 through IM-042. Duplicate s
 - IM-008: NOT STARTED
 - IM-009: NOT STARTED
 - IM-010: NOT STARTED
-- IM-011: NOT STARTED
+- IM-011: RESEARCHED-OPEN
 - IM-012: NOT STARTED
 - IM-013: RESEARCHED-OPEN
 - IM-014: NOT STARTED
@@ -113,7 +113,7 @@ Counting unit: each consolidated catalogue ID IM-001 through IM-042. Duplicate s
 
 Counting unit: the five film-level targets named in the initial research plan. Cue/release/reconstruction files under a film are sub-objects, not extra film-level baseline leads.
 
-- Aelita (1924) — projects/sovietfilm/research/aelita-1924.md: NOT STARTED
+- Aelita (1924) — projects/sovietfilm/research/aelita-1924.md: RESEARCHED-OPEN
 - Kosmicheskiy reys / Космический рейс (1935) — projects/sovietfilm/research/kosmicheskiy-reys-1935.md: NOT STARTED
 - Kin-dza-dza! / Кин-дза-дза! (1986) — projects/sovietfilm/research/kin-dza-dza.md: RESEARCHED-OPEN
 - The Mystery of the Third Planet / Тайна третьей планеты (1981) — projects/sovietfilm/research/mystery-of-the-third-planet.md: NOT STARTED
@@ -126,10 +126,16 @@ Only distinct, evidence-backed recording/cue objects admitted under the relevant
 | Project | ID | New lead | Qualification / dedup note | Status |
 |---|---|---|---|---|
 | Grudge Mixes | GM-US-017 | Roba Stanley & Bill Patterson, “Little Frankie,” Okeh 40436, matrix 8848 (1924/1925) | Distinct pre-cutoff commercial master; matrix date and retaliatory narrative supported by specialist discography, LOC finding aid and scholarship. | IN PROGRESS |
+| Grudge Mixes | GM-US-018 | Julius Sutton, “Single Girl,” Gordon cylinder A79 / Item NC117 (1925) | Exact wax-cylinder item and fixation date in LOC; transcript documents domestic grievance/defiance. Not a revenge narrative. | IN PROGRESS |
 | Insane Music | IM-043 | Copacabana clandestine cassette compilation (“A FITA”) | Distinct extant cassette corpus documented in peer-reviewed scholarship; compilation/copying context, not resident-made performances. | RESEARCHED-OPEN |
 | Insane Music | IM-044 | Bruce Jackson, Indiana Prison Songs reels 1–2 (1963) | Two distinct Smithsonian reel objects; not merged with the 1962 IM-013 accessions. | RESEARCHED-OPEN |
 | Insane Music | IM-045 | Bruce Jackson, “Field Recordings: Prison Songs,” FW-ASCH-7RR-1966 | Separate extant Smithsonian reel object; exact session/facility/date unresolved. | IN PROGRESS |
+| Insane Music | IM-046 | Ata Kak, *Obaa Sima* (1991–1994) | Seven-track home recording; self-taught/DIY production, approximately 50 self-released cassettes in Ghana in 1994; speed/master provenance remains open. | IN PROGRESS |
 | Soviet Film Music | SF-ARM-001 | “Ara's Song” / «Արայի երգը», from «Прыжок через пропасть» | Three distinct Armenian Radio Archive objects under one cue family; keep separate until version comparison. | IN PROGRESS |
+| Soviet Film Music | SF-ARM-002 | *For the Sake of Honor* (1952), Edgar Hovhannisyan cue family | At least two separate Armenian Radio Archive entries with durations and conductor; film-print relationship unresolved. | IN PROGRESS |
+| Soviet Film Music | SF-GE-001 | «უკანასკნელი მასკარადი» / *The Last Masquerade* (1934) | National Archives of Georgia identifies preserved film-music recording and composer Grigol Kiladze; item provenance pending. | IN PROGRESS |
+| Soviet Film Music | SF-GE-002 | «არსენა» / *Arsena* (1937) | National Archives of Georgia identifies preserved film-music recording and composer Grigol Kiladze; item provenance pending. | IN PROGRESS |
+| Soviet Film Music | SF-TJ-001 | «Я встретил девушку» / *I Met a Girl* (1957) | Contemporary film publicity and specialist scholarship document a Tajikfilm musical and separate Tajik/Russian song versions; item-level audio provenance pending. | IN PROGRESS |
 
 ### Excluded from the new-lead count
 
@@ -141,13 +147,13 @@ Only distinct, evidence-backed recording/cue objects admitted under the relevant
 
 | Project | Baseline leads advanced | New qualified leads added | Main blocker / next exact task |
 |---|---:|---:|---|
-| Grudge Mixes | 2 (GM-US-011, GM-US-014) | 1 | Obtain permitted listening/transcription for “Little Frankie” and “Chain Gang Song”; continue exact-matrix source hunts. |
-| Insane Music | 1 (IM-013) | 3 | Reconcile 1962 IU accessions with Smithsonian 1963 and 7RR-1966 objects; obtain item-level metadata and access terms. |
-| Soviet Film Music | 1 (Kin-dza-dza!) | 1 | Resolve MKM197 duration/version discrepancies; research the five baseline film targets in turn. |
+| Grudge Mixes | 3 (GM-US-011, GM-US-014, GM-AM-001) | 2 | Compare the LOC cylinder transcript with other “Single Girl” witnesses; resolve Helen Paul's exact Columbia issue/matrix and recorded text. |
+| Insane Music | 2 (IM-013, IM-011) | 4 | Resolve ARSCH cassette/digital mix differences; map the source tapes for Ata Kak and verify speed/master lineage; continue the Indiana reel audit. |
+| Soviet Film Music | 2 (Kin-dza-dza!, Aelita) | 5 | Obtain item-level Georgia archive identifiers; resolve Armenian cue provenance; compare Tajik/Russian versions of *I Met a Girl*. |
 
 ## Next exact work queue
 
-1. **Grudge Mixes:** research GM-AM-001 Pamp/Vorodan and Helen Paul as separate works; then complete the remaining Armenian Columbia leads with matrix/label evidence. Keep pre-1926 eligibility distinct from issue date and thematic fit.
-2. **Insane Music:** move to the non-prison balance shortlist (IM-011, IM-036, IM-038, IM-039, IM-042); prioritize local-language/Global South sources and extant recording proof.
-3. **Soviet Film Music:** advance The Mystery of the Third Planet's 2022 reconstruction versus 1981 film-mix distinction; then Aelita, Kosmicheskiy reys and Stalker. Continue regional film-music discovery alongside case-study work.
+1. **Grudge Mixes:** research GM-AM-001 Pamp/Vorodan further and complete the remaining Armenian Columbia leads with matrix/label evidence; compare Sutton's A79 and A93 cylinder witnesses. Keep pre-1926 eligibility distinct from issue date and thematic fit.
+2. **Insane Music:** advance IM-036, IM-038, IM-039 and IM-042; compare ARSCH release versions and resolve Ata Kak's source-tape lineage.
+3. **Soviet Film Music:** advance *The Mystery of the Third Planet*, *Kosmicheskiy reys* and *Stalker*; request item-level provenance for Georgian and Armenian archive objects and compare *I Met a Girl* language versions.
 4. Add qualified new leads in each project while maintaining the dedup register. Do not pad counts with contextual items or collection-level routes.
