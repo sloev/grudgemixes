@@ -116,3 +116,49 @@ For IM-013, continue item-level reconciliation of the original 1962 accession nu
 ### Handoff
 Request the item-level description and permitted access for FW-ASCH-7RR-1966. Establish its exact facility, recording date, performers, tracklist and relationship to the 1962 Indiana University accessions and 1963 Asch reels. Confirm restrictions attached to this exact item.
 Sources: https://collections.si.edu/search/results.htm?fq=name%3A%22Folkways+Records%22&q=%22Prisons%22 ; https://collections.si.edu/search/results.htm?q=%22Jackson%2C+Bruce%2C+1936-%22
+
+
+## 2026-11-17 — Baseline lead IM-011 (ARSCH) research advance
+
+- Checked the artist's Bandcamp release page and Empty Space's official catalogue page, plus an independent specialist retailer listing.
+- Confirmed the 2020 self-titled release has 18 tracks, a limited cassette edition and a digital edition; the cassette uses a different track arrangement/mix from the digital version.
+- Empty Space identifies catalogue ES-001, edition of 100, and describes the compilation as selected surviving recordings from the commune's barn archive after the 2019 fire. The account is first-party label testimony; original reel dates and track-to-reel mapping are absent.
+- The item qualifies through documented self-organised communal DIY production, not through psychiatric or institutional pathways. No diagnosis is asserted.
+- Status: RESEARCHED-OPEN. Remaining tasks: compare authorised cassette/digital versions, request track-level reel provenance and establish what source recordings survived.
+- Added research/arsch-im-011-audit-2026-11-17.md.
+Sources: https://arsch.bandcamp.com/album/arsch ; https://www.empty-space.ch/work/arsch-arsch ; https://tobirarecords.com/products/arsch-arsch-tape
+
+## 2026-11-17 — ChatGPT — Ata Kak, Obaa Sima added as IM-046
+
+### Findings
+- Added IM-046 for Yaw Atta-Owusu / Ata Kak's seven-track Obaa Sima.
+- Artist-authorised notes state that he built a home studio from second-hand equipment in Toronto, recorded in 1991–1992, and released approximately 50 cassettes in Ghana in 1994. His Twi-language rap and highlife/electronic synthesis is described as an early hiplife/Twi-rap example.
+- The original master DAT degraded; the 2015 reissue was sourced from a surviving cassette copy found in Cape Coast in 2002. The artist's notes describe a speed discrepancy, so the 2015 transfer is not treated as an unquestioned master.
+- Classified under self-taught / DIY / idiosyncratic practice; no psychiatric claim.
+
+### Files
+- Added research/ata-kak-obaa-sima-im-046-2026-11-17.md.
+- Added IM-046 to catalogue.md.
+
+### Handoff
+Confirm the 1994 cassette's original order and imprint, and compare any authorised original cassette copy with the 2015 reissue's two speed presentations. Keep the master DAT loss and speed dispute explicit.
+Sources: https://atakak.bandcamp.com/album/obaa-sima ; https://ra.co/news/27656 ; https://www.okayafrica.com/awesome-tapes-from-africa-releases-ata-kaks-obaa-sima-lp/281881
+
+
+## Research update — IM-043 source-text audit (2026-11-17)
+
+The full Portuguese Opus article was checked directly, not only its abstract. It describes the 1984 discovery of fifty identical unbranded cassettes in a false compartment in a Copacabana apartment, the author's family listening to them, and the author later taking one cassette to the United States and digitising it to CD. It says the creators never returned and the cassettes were never distributed; their connection to a clandestine opposition safehouse is presented as a contextual interpretation, not an identified organisation or proven operational history. The article's account supports an extant cassette/copy and a 17-track programme, but not the identity of the compilers, exact creation date or source media for each track.
+
+Retain IM-043 as RESEARCHED-OPEN. The evidence establishes a specific surviving compilation artefact and its reported history; the identities, exact assembly date, track-source provenance and physical-object access remain unresolved. The lead is about clandestine compilation/circulation, not original performances by the people who concealed the tapes.
+
+Primary scholarly source: https://www.scielo.br/j/opus/a/43QQ9pGYpVQCWF3f5DFg3sj/?lang=pt
+
+
+
+## Additional item-level cross-check (2026-11-17)
+
+A Library of Congress finding aid for the Bruce Jackson and Diane Christian collection provides item-level descriptions for a run of Indiana State Prison reels, AFC 2011/009: SR0760–SR0769. The entries describe 7-inch analogue sound-tape reels, including numbered reels #31–#40, with contents such as Blue Grass, sociological recordings, prison-condition discussions, blues and jazz. Several tape-box labels are explicitly described as coming from the Archives of Folk and Primitive Music, Indiana University. This is additional archival evidence for surviving reel objects associated with the 1962 Indiana prison project, but it does not by itself establish that every LOC item is an original IU accession or map each SR item to accession numbers 62-4-28 / 62-6-18 / 62-8-9.
+
+This strengthens the existence and item-level content evidence for IM-013 while leaving the IU accession-to-LOC item concordance open. The 1962 IU series, LOC Bruce Jackson/Christian reels, Smithsonian 1963 reels and Smithsonian FW-ASCH-7RR-1966 remain separate archival records pending provenance reconciliation.
+
+Source: https://findingaids.loc.gov/exist_collections/ead3pdf/afc/2018/af018002.pdf
