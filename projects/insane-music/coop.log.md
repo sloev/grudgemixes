@@ -162,3 +162,23 @@ A Library of Congress finding aid for the Bruce Jackson and Diane Christian coll
 This strengthens the existence and item-level content evidence for IM-013 while leaving the IU accession-to-LOC item concordance open. The 1962 IU series, LOC Bruce Jackson/Christian reels, Smithsonian 1963 reels and Smithsonian FW-ASCH-7RR-1966 remain separate archival records pending provenance reconciliation.
 
 Source: https://findingaids.loc.gov/exist_collections/ead3pdf/afc/2018/af018002.pdf
+
+
+## 2026-11-17 — ChatGPT — Ata Kak 2025 remaster source-copy audit (IM-046)
+
+### Task and findings
+- Followed the existing non-prison, non-Anglo DIY/home-recording thread rather than adding another prison or psychiatric-institution lead.
+- The official 2025 *Obaa Sima (Anniversary Remaster)* page says the new transfer used a cleaner cassette offered to Awesome Tapes From Africa founder Brian Shimkovitz by a Berlin acquaintance in early 2024. The 2015 reissue used a separate cassette bought in Cape Coast in 2002. The new cassette's acquisition history, generation and relationship to the approximately 50-copy 1994 Ghana run remain unknown.
+- The official page dates the anniversary remaster to 7 Nov 2025 and marks it all rights reserved. Small differences between 2015 and 2025 track-duration metadata are recorded as comparison clues, not evidence of edits or speed change.
+- Bounded Ghanaian press search (GhanaWeb, MyJoyOnline and Graphic Online domain queries with Ata Kak / Obaa Sima / cassette) found no relevant local item-level source; no Twi-language source was located in this pass.
+
+### Files
+- Updated research/ata-kak-obaa-sima-im-046-2026-11-17.md, catalogue.md, environment-leads.md and research_method.md in projects/insane-music/.
+
+### Evidence and status
+- IM-046 remains WELL-SUPPORTED; no new ID. The Berlin cassette is a separate source-copy witness, not a proven original 1994 cassette or master.
+- Sources: https://atakak.bandcamp.com/album/obaa-sima-anniversary-remaster ; https://atakak.bandcamp.com/album/obaa-sima ; https://medium.com/@martynpepperell/ata-kak-interview-originally-published-via-the-405-a2f23c98b1f4 ; https://ra.co/news/27656 ; https://finersounds.com/products/ata-kak-obaa-sima-anniversary-remaster-cassette-tape .
+- No audio auditioned, physical media inspected, artist/label contacted, Drive action performed or rights cleared.
+
+### Handoff
+Establish the Berlin cassette's acquisition/duplication history, then compare the authorised 2015 and 2025 transfer versions. Keep the 1994 issue, 2015 Cape Coast copy, 2025 Berlin copy and degraded DAT separate.
