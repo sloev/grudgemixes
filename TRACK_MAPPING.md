@@ -8,14 +8,14 @@ The following filenames were inherited from earlier mapping work. They are not c
 
 | Drive filename | Project ID | Work | Performer | Recording date | Research / thematic note | Retrieval status |
 |---|---|---|---|---|---|---|
-| `GM-IT-001_Caruso_Vesti_la_giubba_Victor_B-1000_1904.flac` | GM-IT-001 | Vesti la giubba (Pagliacci) | Enrico Caruso | 1904-02-01 | Betrayal / lament; candidate under review. | LEGACY ENTRY — location unverified |
-| `GM-IT-002_Si_vendetta_Galvany_Ruffo.mp3` | GM-IT-002 | Sì, vendetta (Rigoletto) | Maria Galvany & Titta Ruffo | ca. 1910s | Calculated revenge; candidate under review. | LEGACY ENTRY — location unverified |
-| `GM-IT-Si_vendetta_Battistini_Hayes.mp3` | — | Sì, vendetta (Rigoletto) | Mattia Battistini & Lulu Hayes | uncertain | Additional version; exact date and source mapping to be checked. | LEGACY ENTRY — location unverified |
-| `GM-IT-Otello_Si_pel_ciel_Caruso_Ruffo.mp3` | — | Si pel ciel (Otello) | Enrico Caruso & Titta Ruffo | 1914 | Oath / vengeance vow. | LEGACY ENTRY — location unverified |
-| `GM-IT-Cortigiani_vil_razza_Ruffo.mp3` | — | Cortigiani, vil razza (Rigoletto) | Titta Ruffo | 1908 | Accusation / public shaming of the court. | LEGACY ENTRY — location unverified |
-| `GM-IT-Ah_Mimi_tu_piu_Caruso_Scotti.mp3` | — | Ah Mimi, tu più (La Bohème) | Enrico Caruso & Antonio Scotti | ca. 1908 | Betrayal / accusation; additional version. | LEGACY ENTRY — location unverified |
+| `GM-IT-001_Caruso_Vesti_la_giubba_Victor_B-1000_1904.flac` | GM-IT-001 | Vesti la giubba (Pagliacci) | Enrico Caruso | 1904-02-01 | Betrayal / lament; candidate under review. | IN DRIVE — filename appears in user-supplied recursive listing (2026-11-17); audio not independently verified |
+| `GM-IT-002_Si_vendetta_Galvany_Ruffo.mp3` | GM-IT-002 | Sì, vendetta (Rigoletto) | Maria Galvany & Titta Ruffo | ca. 1910s | Calculated revenge; candidate under review. | IN DRIVE — filename appears in user-supplied recursive listing (2026-11-17); audio not independently verified |
+| `GM-IT-Si_vendetta_Battistini_Hayes.mp3` | — | Sì, vendetta (Rigoletto) | Mattia Battistini & Lulu Hayes | uncertain | Additional version; exact date and source mapping to be checked. | IN DRIVE — filename appears in user-supplied recursive listing (2026-11-17); audio not independently verified |
+| `GM-IT-Otello_Si_pel_ciel_Caruso_Ruffo.mp3` | — | Si pel ciel (Otello) | Enrico Caruso & Titta Ruffo | 1914 | Oath / vengeance vow. | IN DRIVE — filename appears in user-supplied recursive listing (2026-11-17); audio not independently verified |
+| `GM-IT-Cortigiani_vil_razza_Ruffo.mp3` | — | Cortigiani, vil razza (Rigoletto) | Titta Ruffo | 1908 | Accusation / public shaming of the court. | IN DRIVE — filename appears in user-supplied recursive listing (2026-11-17); audio not independently verified |
+| `GM-IT-Ah_Mimi_tu_piu_Caruso_Scotti.mp3` | — | Ah Mimi, tu più (La Bohème) | Enrico Caruso & Antonio Scotti | ca. 1908 | Betrayal / accusation; additional version. | IN DRIVE — filename appears in user-supplied recursive listing (2026-11-17); audio not independently verified |
 | `GM-UK-001_Hagen_meditates_revenge_Radford_HMV_D704_1922.mp3` | GM-UK-001 | Hagen's Watch / HMV label title “Hagen meditates revenge” (Götterdämmerung) | Robert Radford | 1922-06-29; issued 1924-02-06 | Exact matrix Cc1586-1 / HMV D704. Agent-reported CHARM FLAC mirror on Internet Archive; **thematic fit is doubtful** because the matrix is Hagen's Watch, not the explicit revenge scene. | READY FOR GROK — verify IA item/terms and exact file; do not promote to mix pending listening/transcription |
-| `GM-2026-006_Tuskegee_Ive_Been_Buked_Victor_1916.mp3` | GM-2026-006 | I've Been Buked and I've Been Scorned | Tuskegee Institute Singers | 1916-02-14 | Collective grievance / lament boundary case. | LEGACY ENTRY — location unverified |
+| `GM-2026-006_Tuskegee_Ive_Been_Buked_Victor_1916.mp3` | GM-2026-006 | I've Been Buked and I've Been Scorned | Tuskegee Institute Singers | 1916-02-14 | Collective grievance / lament boundary case. | IN DRIVE — filename appears in user-supplied recursive listing (2026-11-17); audio not independently verified |
 
 ## READY FOR GROK — researched retrieval / source-finding queue
 
