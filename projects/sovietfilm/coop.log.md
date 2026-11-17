@@ -183,3 +183,20 @@ Sources:
 
 ### Interpretation
 MKM197 is a commercial film-music compilation with 30 listed tracks, including music from Не горюй, День гнева, Кин-Дза-Дза and Паспорт. It must remain classified as a later compilation/release object, not assumed to be a complete or unaltered 1986 film-print soundtrack. No listening comparison against a verified film print was performed; no purchase or rights clearance is claimed.
+
+
+## 2026-11-17 — ChatGPT — Armenian SSR cue family SF-ARM-001
+
+### Findings
+- Added SF-ARM-001, “Ara's Song” / «Արայի երգը» associated with Konstantin Orbelyan's «Прыжок через пропасть».
+- Armenian Radio Archive has three separate item pages with differing performers/conductors and durations (3:26, 3:32 and 3:18), all labelled 1960. They are retained as three catalogue objects under one cue family, not assumed to be duplicates or the original film-print mix.
+- The Armenian Composers Union's Russian-language biography independently lists Orbelyan's film music for «Прыжок через пропасть» in 1959. The filmography year and archive entry year are kept distinct; exact production/premiere chronology and audio-object provenance remain open.
+- No listening, contact, copying, purchase or rights clearance is claimed.
+
+### Files
+- Added research/armenian-jump-across-abyss-ara-song-sf-arm-001-2026-11-17.md.
+- Added SF-ARM-001 to RESEARCH_GRIND_PROGRESS.md new-lead register.
+
+### Handoff
+Request item-level archive metadata for the three radio objects, verify the film's title/year from Armenfilm primary records and compare the objects only under permitted access.
+Sources: https://armradioarchive.am/en/song/arayi-ergy-trichk-andundi-vrayov-k-f-89 ; https://armradioarchive.am/en/song/arayi-ergy-trichk-andundi-vrayov-k-f-87 ; https://armradioarchive.am/en/song/arayi-ergy-trichk-andundi-vrayov-k-f-1914 ; https://acu.am/?page_id=9486&lang=ru
