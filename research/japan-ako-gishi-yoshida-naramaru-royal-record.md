@@ -453,3 +453,21 @@ Request consultation or a targeted lookup from a library holding KD1-E21 (Cambri
 
 ### Limits
 No copy of KD1-E21 was consulted and no Royal 1645/1649 entry was found in it. This is an access-route discovery, not a new discographic identification. No carrier, label, matrix or audio inspected; no audio played/downloaded, no archive contacted and no rights cleared.
+
+## 2026-11-17 — 78MUSIC table-structure cross-check: Royal 1645 versus Nipponophone 1649
+
+A closer read of the 78MUSIC page resolves an important catalogue-table ambiguity. The page is not one flat Royal/Nipponophone list:
+
+- Under the explicit heading **ローヤル (ROYAL RECORD) — 赤レーベル鷲印 / NIPPONOPHONE**, its red-label/eagle section lists **1645, 赤穂義士討入**, performer **大阪 吉田奈良丸**, genre 浪花節, note **正面鷲** (“front-facing eagle”). This is the same number/title/performer combination independently recorded in the Kushiro Municipal Museum inventory as Royal 1645 (rows 166–167, p.17), so the Royal 1645 identity is now supported by two separate discographic/institutional sources.
+- Much later on the same page, a separate heading **ニッポノホン1~9000** begins a Nipponophone catalogue table. That table also lists number **1645** for 赤穂義士討入 and number **1649** for 赤垣源蔵（上） / Akagaki Genzo (upper), both by Osaka Yoshida Naramaru. These are entries in the separate Nipponophone table, not evidence that the Kushiro Royal 1649 is the same label issue or master.
+- Kushiro independently lists a **Royal 1649 (片面)** entry titled generically 赤穂義士伝, Yoshida Naramaru, on p.18 row 186. It is distinct in that inventory from the more specifically titled Royal 1645 赤穂義士討入 on p.17 row 166. Do not silently crosswalk the Nipponophone-table 1649 / 赤垣源蔵（上） to the Kushiro Royal 1649 / 赤穂義士伝.
+
+The result is a cleaner three-way distinction: **Royal 1645 / 赤穂義士討入** (the prospectus target and Kushiro item); **Royal 1649 / 赤穂義士伝** (separate Kushiro item, exact episode unresolved); and **Nipponophone-series 1649 / 赤垣源蔵（上）** (78MUSIC's separate Nipponophone table). The shared catalogue number is not sufficient to merge them. The related Royal 1853 / 赤垣源蔵徳利の別れ remains a fourth, distinct object.
+
+This strengthens exact identity for Royal 1645 but does not supply an issue date, matrix, label photograph, audio or the actual performance text. The Royal label-history context suggests a likely early date but is not a date for this carrier. Candidate remains **C — LEAD** pending chronology and text/audio verification; no Grok request is justified because no authorised downloadable source is identified.
+
+Sources:
+- 78MUSIC, separate Royal red-eagle table and Nipponophone 1–9000 table: https://78music.jp/other5.html
+- Kushiro Municipal Museum inventory, pp.17–18, rows 165–186: https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf
+
+Verification limits: no physical carrier, label image, matrix/runout or audio inspected; no archive contacted; no rights cleared.
