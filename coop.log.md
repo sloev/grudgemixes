@@ -302,3 +302,16 @@ No book pages consulted, no carrier/label/matrix inspected, no audio played/down
 - No archive, artist, library or rights holder was contacted.
 - No rights or reuse permissions were obtained.
 - No public status generator or mirror was manually edited; all research remains in the canonical project workspaces.
+
+
+## 2026-11-17 — ChatGPT — bounded daily research claim (Insane Music / Grudge Mixes)
+
+### Insane Music
+- Task: continue non-prison, non-Anglo discovery and evidence work, while checking the current non-prison balance and the two parallel migrated project-directory copies. The legacy repository `sloev/insanemusic` is read-only per its redirect; canonical work stays here.
+- Guardrails: no new IM-ID without an extant recording and a specific qualifying pathway; do not infer outsider status from local-language or Indigenous identity; no audio, physical-media, contact, Drive or rights claims unless actually verified.
+
+### Grudge Mixes
+- Task: compare the Library of Congress Gordon Collection's second North Carolina “Single Girl” witness (Gordon cylinder A93 / Item NC137) with Julius Sutton's A79 / NC117, keeping performance, text, carrier and fixation evidence distinct.
+- Guardrails: do not merge witnesses or promote the candidate based on song-family similarity; no unverified lyrics, matrices, dates, audio or rights claims.
+
+This is a bounded work claim; findings and handoff will follow in an appended DONE/PARTIAL entry.
