@@ -51,3 +51,19 @@ Review for READY FOR GROK queue items in insanemusic. Advance non-Anglo/small-we
 
 ### Handoff
 Continue local-language and small-web discovery for overlooked marginal recordings. Prepare any new extant-recording leads with exact sources for future retrieval queues. Sovietfilm film-mix cue advanced in parallel.
+
+
+## 2026-11-17 — ChatGPT — Copacabana clandestine cassette lead IM-043
+
+### Findings
+- Added IM-043 from Regina H. Castro McGowan's peer-reviewed 2024 *Opus* article. It documents 50 identical, unbranded cassettes found in a concealed Copacabana apartment compartment in 1984; the author reports one surviving cassette was digitised to CD. The study catalogues 17 tracks, a pan-Latin American protest programme, and argues the copies were probably assembled around 1975 for clandestine distribution.
+- The makers remain unknown; the date is inferred from the newest track, not a manufacturing record. The cassettes were reportedly never distributed.
+- Admission is carefully qualified: this is a DIY/underground compilation and duplication artefact, not music composed or performed by safehouse residents. The source recordings originated elsewhere. No public audio was accessed, no listening was performed, and no author contact or rights request was made.
+
+### Files
+- Added `research/copacabana-clandestine-cassette-im-043-2026-11-17.md`.
+- Added IM-043 to the catalogue as PARTIALLY VERIFIED.
+
+### Handoff
+Seek author-mediated access to the surviving cassette/CD, establish source-generation and compilation provenance, and verify each underlying track independently. Do not treat the concealed apartment's use as proven beyond the article's cautious inference.
+Source: https://doi.org/10.20504/opus2024.30.16
