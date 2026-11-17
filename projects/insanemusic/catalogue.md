@@ -156,3 +156,10 @@ The date conflict is material: do not collapse the 1987 catalogue/platform date 
 | ID | Recording | Environment & place | Date(s) | Medium | Pathway | Status | Visibility | Detail |
 |---|---|---|---|---|---|---|---|---|
 | IM-047 | DKK / DKK Salidumay group, *Dong Dong Ay. Salidummay* | Community-organised cultural production; Baguio City / northern Luzon highlands, Philippines | c. 1992 | One cassette; exact label, tracklist and recording session unknown | F — community-organised cultural production and local cassette circulation | PARTIALLY VERIFIED | PROMISING | Distinct one-cassette object listed in Yoneno-Reyes' dissertation audiovisual bibliography and independently in the 2023 *Lakbayan* cassette inventory. Separate from IM-042 *Salidummay*; no audio audition, physical carrier inspection or rights clearance. See research/dkk-dong-dong-ay-salidummay-im-047-1992.md. |
+
+
+
+
+## J. UPCE item-level catalogue audit — contextual only (2026-11-17)
+
+The UPCE Collections Portal identifies six 1983 Bontok/Sadanga cassette-side items: UPCE-A-10329 (“Senga – Continuation of sowe-ey,” 19:42; Maceda; annotated as a dub from Helen Tejero's Senga), UPCE-A-10331 (“Ila-illalay,” 0:52), UPCE-A-10332 (“Salidommay,” 0:52), UPCE-A-10333 (“Gangsa,” 2:30), UPCE-A-10340 (“Salidommay,” 16:04; Mantosa; source/dubbing note truncated) and UPCE-A-10341 (“Kwella / tinaroyod,” 5:24). All are listed as 1983 Bontok / Sadanga records; the portal shows 1/8-inch compact-cassette original format and WAV/MP3 e-format fields. These are field-recorded local musical traditions, with no evidence of a qualifying outsider/DIY, institutional or alternative-community pathway. They are **context only**; no IM-ID assigned. The 1987 Kabayan Bendian corpus and 1950s Sagada archive remain separate, and the portal's terms prohibit copying/ripping/downloading unless expressly permitted. Detailed evidence: research/philippines-cordillera-country-cassette-ecology-2026-11-16.md. No audio auditioned, carrier inspected, contact made or rights cleared.
