@@ -250,3 +250,28 @@ Claimed task: one bounded non-prison, non-Anglo follow-up on the Japan / Ōshima
 Claimed task: one bounded Tajik-language / Russian-language source pass on SF-TJ-001, *Я встретил девушку* (1957), to seek contemporary local credits and original-version title/singer evidence. Keep the Tajik and Russian recordings distinct; no audio access, download or rights assumption.
 
 This is a research claim only; findings and exact next actions will be appended to each project's own records after the bounded source checks.
+
+
+## 2026-11-17 — ChatGPT — Royal 1645/1649 KD1-E21 access-route check
+
+### Task claimed
+Targeted the unresolved Japanese printed discography access route for Yoshida Naramaru's Royal 1645/1649 crosswalk; did not repeat the completed label-table or Nichibunken search.
+
+### Findings
+- Re-opened the NDL bibliographic record for *演芸レコード発売目録* (1990), shelfmark KD1-E21, 514 pages. The digital copy is NDL-premises-only and excluded from library/personal digital transmission.
+- The same NDL record explicitly says paid remote photocopy is available (遠隔複写可否（NDL） = 可). NDL help states that this requires user registration and is subject to item eligibility/copy limits.
+- The record lists physical holdings at Saitama Prefectural Kuki Library, Chiba Prefectural West Library, Tokyo Metropolitan Central Library, Aichi Prefectural Library, Nagoya City Library, Kyoto Prefectural Kyoto Gak/Hiresaikan and Osaka Prefectural Nakanoshima Library. The local libraries must confirm current access/copy/interlibrary arrangements.
+- The public contents preview exposes only the first three of 13 section headings; the rōkyoku page range remains unknown. No pages were consulted and no Royal 1645/1649 entry or issue month was found. This is a useful access-route discovery, not a new discographic identification.
+- Preserved separate Royal 1645, Royal 1649, Nipponophone-series 1649 and Royal 1853 objects. No candidate promotion and no READY FOR GROK item.
+
+### Files
+- Updated research/japan-ako-gishi-yoshida-naramaru-royal-record.md.
+- Updated research_method.md.
+- Updated this log. TRACK_MAPPING.md unchanged.
+
+### Handoff
+Identify the rōkyoku section/page range, then seek a limited paid NDL remote copy or consult one of the listed holding libraries for the relevant pages. Record the exact advertised issue month and title/number only after the pages are actually consulted. Pair catalogue evidence with physical label/runout evidence; do not infer matrix or recorded text from an advertisement index.
+
+Sources: https://ndlsearch.ndl.go.jp/books/R100000002-I000002059548 ; https://ndlsearch.ndl.go.jp/help/about
+
+No book pages consulted, no carrier/label/matrix inspected, no audio played/downloaded, no archive contacted and no rights cleared.
