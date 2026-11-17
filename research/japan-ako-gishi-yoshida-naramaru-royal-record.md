@@ -471,3 +471,21 @@ Sources:
 - Kushiro Municipal Museum inventory, pp.17–18, rows 165–186: https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf
 
 Verification limits: no physical carrier, label image, matrix/runout or audio inspected; no archive contacted; no rights cleared.
+
+
+## 2026-11-17 — KD1-E21 access-route clarification (NDL remote copy)
+
+A direct re-check of the National Diet Library's bibliographic record adds a practical route that was not captured in the earlier access note:
+
+- NDL record **KD1-E21 / bibliographic ID 000002059548 / persistent ID info:ndljp/pid/13409108** identifies Kurata Yoshihiro et al., *演芸レコード発売目録* (National Theatre, March 1990), a 514-page printed/digitised book.
+- Its digital copy is explicitly **NDL-premises-only** and is **not** eligible for library or personal digital transmission. However, the same record's field **遠隔複写可否（NDL） = 可** says remote photocopy is available. NDL's help explains that remote copying is paid and requires NDL user registration; only eligible items can be copied and ordinary copyright/quantity limits still apply. This is not open online access or a downloadable PDF.
+- The NDL record also lists physical holdings at Saitama Prefectural Kuki Library, Chiba Prefectural West Library, Tokyo Metropolitan Central Library, Aichi Prefectural Library, Nagoya City Library, Kyoto Prefectural Kyoto Gak/Hiresaikan and Osaka Prefectural Nakanoshima Library. NDL advises readers to consult the holding library about local use, copying and interlibrary delivery. CiNii exposes further holdings.
+- The visible NDL contents preview shows a 13-section contents list but only its first entries (general guide, rakugo, manzai) are exposed without expanding the remaining headings. No rōkyoku section page range or Royal 1645/1649 entry has been identified in this pass.
+
+**Interpretation:** KD1-E21 is no longer strictly an on-site-only research target. A registered NDL user may be able to order a paid, limited remote copy of relevant pages, or a local library may provide consultation/copying. First identify the rōkyoku section and page span; do not assume the entire 514-page book can be copied. This remains an access-route discovery, not a discographic result. No issue month, title/number crosswalk, matrix or physical carrier evidence was added.
+
+Sources:
+- NDL bibliographic record, KD1-E21: https://ndlsearch.ndl.go.jp/books/R100000002-I000002059548
+- NDL service explanation (remote copies are paid and require registration): https://ndlsearch.ndl.go.jp/help/about
+
+No book pages were consulted, no Naramaru entry was found, no carrier/label/matrix inspected, no audio played or downloaded, no archive contacted and no rights cleared.
