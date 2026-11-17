@@ -310,3 +310,30 @@ A bounded follow-up on «Ман бо духтаре вохӯрдам» / «Я в
 
 ### Expected output
 Either a source-backed, narrow dossier update with an explicit confidence statement, or a negative-search hand-off naming the exact catalogue/source route still needed.
+
+
+## 2026-11-17 — ChatGPT — SF-TJ-001 version-specific singer-attribution audit (DONE / PARTIAL)
+
+### Findings
+- A contemporary first-person article by director Rafail Perelshtein in *Смена*, issue 723 (July 1957), confirms Babaev's songs and dance music for the film but does not name vocalists. It is not a full credit sheet.
+- Neqqadamov (2019, pp.154–155) says Rashid Behbudov sang “Дидам ҷамоле” on stage and in a feature film. Arabova (2020) is more specific: it says the Russian-language re-sung version used El-Registan's text and Behbudov's voice.
+- An archived 2011 song-history page says Rauf Atakishiyev sang the film's off-screen vocal and that Behbudov popularized the song. A 2017 reposted voice-comparison note and a 2022 secondary discussion also favour Atakishiyev, but neither is a primary production record.
+- The verified Gosteleradiofond channel metadata identifies a separate 1958 Behbudov performance as a Central Television studio/pavilion recording. This must not be conflated with the 1957 film soundtrack.
+- Best current reconciliation is a **hypothesis**: Atakishiyev may be the original Tajik-language film vocalist and Behbudov the Russian-language re-recording. The broader wording in Neqqadamov and the secondary nature of the Atakishiyev claims leave the exact version-to-voice crosswalk unresolved. Singer attribution remains DISPUTED.
+- The Smena article, 2011 archived page, Red Book performer list and official 1958 television metadata were newly checked. Searches did not surface a primary film vocal credit, item-level session record or authoritative catalogue entry resolving the singers.
+
+### Files changed
+- Updated projects/sovietfilm/research/i-met-a-girl-1957-sf-tj-001-2026-11-17.md with version-specific attribution evidence and explicit limits.
+- Updated projects/sovietfilm/research_method.md current checkpoint with the unresolved singer crosswalk.
+- Appended this DONE hand-off to projects/sovietfilm/coop.log.md; the START entry above is preserved.
+
+### Collection metrics
+- New candidate IDs: 0.
+- New READY FOR DRIVE: 0.
+- Files uploaded and verified in Drive: 0.
+- No audio auditioned or compared; no film print or credit sheet inspected; no archive contacted; no download, Drive operation or rights clearance.
+
+### Handoff
+Seek the original Tajik and Russian film versions or studio/session records that name the vocalists. Preserve Rauf Atakishiyev, Rashid Behbudov, the 1958 Gosteleradiofond television performance and the later Gulshan repertoire version as separate possible recording objects until the crosswalk is established.
+
+Sources: https://smena-online.ru/stories/ya-vstretil-devushku ; https://pitfi.tj/sites/default/files/Tillo.pdf ; https://eefb.org/retrospectives/soviet-politics-and-the-musicals-of-tajikistan/ ; https://web.archive.org/web/20110309001257/http://www.100pesen.ru/index/ah_eta_devushka/0-186 ; https://ok.ru/group/51882624155853/topic/67376203361229 ; https://ok.ru/group/55860692189327/topic/154953101010319 ; https://kkre-2.narod.ru/babaev.htm ; https://www.youtube.com/watch?v=Sle5KJywf6Y ; https://pressa.tj/darguzashti-saodat-raeva-ofarandai-na-shi-zebo/ ; https://sputnik.tj/20180920/Darguzashti-Saodat-Juraeva-ofarandai-naqshi-Zebo-1026850406.html
