@@ -126,7 +126,7 @@ Only distinct, evidence-backed recording/cue objects admitted under the relevant
 | Project | ID | New lead | Qualification / dedup note | Status |
 |---|---|---|---|---|
 | Grudge Mixes | GM-US-017 | Roba Stanley & Bill Patterson, “Little Frankie,” Okeh 40436, matrix 8848 (1924/1925) | Distinct pre-cutoff commercial master; matrix date and retaliatory narrative supported by specialist discography, LOC finding aid and scholarship. | IN PROGRESS |
-| Grudge Mixes | GM-US-018 | Julius Sutton, “Single Girl,” Gordon cylinder A79 / Item NC117 (1925) | Exact wax-cylinder item and fixation date in LOC; transcript documents domestic grievance/defiance. Not a revenge narrative. | IN PROGRESS |
+| Grudge Mixes | GM-US-018 | Julius Sutton, “Single Girl,” Gordon cylinder A79 / Item NC117 (1925) | Exact wax-cylinder item and fixation date in LOC; transcript documents domestic grievance/defiance. A93 / NC137 is a separate indexed collection witness; item-level comparison remains externally dependent. | RESEARCHED-OPEN |
 | Insane Music | IM-043 | Copacabana clandestine cassette compilation (“A FITA”) | Distinct extant cassette corpus documented in peer-reviewed scholarship; compilation/copying context, not resident-made performances. | RESEARCHED-OPEN |
 | Insane Music | IM-044 | Bruce Jackson, Indiana Prison Songs reels 1–2 (1963) | Two distinct Smithsonian reel objects; not merged with the 1962 IM-013 accessions. | RESEARCHED-OPEN |
 | Insane Music | IM-045 | Bruce Jackson, “Field Recordings: Prison Songs,” FW-ASCH-7RR-1966 | Separate extant Smithsonian reel object; exact session/facility/date unresolved. | IN PROGRESS |
@@ -155,10 +155,17 @@ Only distinct, evidence-backed recording/cue objects admitted under the relevant
 
 ## Next exact work queue
 
-1. **Grudge Mixes:** continue the remaining Armenian Columbia leads and the international candidate list; compare Sutton's A79 and A93 cylinder witnesses and resolve exact matrix/label evidence. Keep pre-1926 eligibility distinct from issue date and thematic fit.
+1. **Grudge Mixes:** continue the remaining Armenian Columbia leads and international candidate list. For Sutton's GM-US-018, obtain the LOC item card and text 137 for A93 / NC137 before attempting a textual comparison; do not infer its exact date or lyrics from the A79 record.
 2. **Insane Music:** advance IM-036, IM-038 and IM-039; find physical DKK cassette evidence for IM-042/047 and resolve Ata Kak's source-tape lineage.
 3. **Soviet Film Music:** advance *Kosmicheskiy reys* and *Stalker*; request item-level provenance for Georgian and Armenian archive objects and compare *I Met a Girl* language versions.
 4. Add qualified new leads in each project while maintaining the dedup register. Do not pad counts with contextual items or collection-level routes.
 
 
 - GM-US-019, Waring's Pennsylvanians, “Stack O'Lee Blues — A Fox Trot” (Victor 19189-A, matrix 28665-5, 16 Oct 1923): exact early instrumental version witness; Grok-reported MP3 not independently inspected. Excluded from qualified new-lead count because it is instrumental and no grievance-response mechanism is audible/verified; retain as Stagger Lee context only.
+
+
+## Progress checkpoint — 2026-11-17 — GM-US-018 A93 / NC137
+
+The public comparison pass is complete as far as accessible catalogue evidence allows. LOC's 1991 Gordon finding aid confirms the North Carolina collection's 1925 field-trip scope, maps texts 1–298 to cylinders A1–A202, and says the recordings and corresponding typescripts are in the Archive. LOC's 1978 liner notes identify A93 / NC137 as another North Carolina “Single Girl” cylinder, but do not name the singer, give an item-specific date/place or print its text. Exact public searches returned no separate item-level record or transcript. The Sutton A79 / NC117 dossier remains B — probable; no A93 lyric or audio comparison was possible.
+
+**Next exact task:** obtain the AFC/AFS item card and text 137 for A93 / NC137, including singer, date/place, cylinder description and transfer/access conditions. Compare only after item-level evidence is supplied. The lead is RESEARCHED-OPEN, not closed.
