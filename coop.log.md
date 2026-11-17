@@ -70,3 +70,23 @@ Continue Grudge Mixes regional research by testing the unresolved Yoruba Zonopho
 
 ### Decision / handoff
 No candidate promotion, download, audio audition, or rights change. Keep the catalogue title as `ORIN OFO`; do not render it as “song of loss” or “incantation” without the actual performance and Yoruba specialist review. Next useful step is item-level audio/transcript retrieval, not more title-only speculation.
+
+## 2026-11-17 — Grok — sovietfilm film-mix cue deposit; no new grudgemixes READY downloads
+
+### Task
+Review READY FOR GROK queue in TRACK_MAPPING.md. No free archival downloads for remaining items (Vocalion 60019, X-9560, DAHR routes partially blocked). Parallel priority: deposit additional verified original film-mix cue excerpt into sovietfilm Drive folder.
+
+### Findings
+- No new free, lawful complete archival transfers located for remaining READY items. FAU RSA streaming-only; DAHR pages returned access barriers in this environment. No substitutes used.
+- Drive grudgemixes subfolder confirmed with prior files; no new files added.
+- sovietfilm Drive folder (1_l7vocHbIfgW0vkzuaNJGFUNSMRIszGQ): extracted and uploaded SF-Zatsepin_Taina-tretey-planety_film-mix_excerpt_15m-17m.mp3 from existing full film-mix (IA source https://archive.org/details/the-mystery-of-the-third-planet-1981).
+  - Object type: original film-mix cue excerpt (not isolated score or reconstruction).
+  - Format: MP3, 44.1 kHz stereo, ~99 kbps
+  - Size: 1,476,374 bytes
+  - Duration: 120.01 s
+  - Drive file ID: 12XeuD6cUvW0tjbCbFAQ49BaIt77Ki10s
+  - Link: https://drive.google.com/file/d/12XeuD6cUvW0tjbCbFAQ49BaIt77Ki10s/view
+- No isolated Kancheli or Zatsepin tracks located that meet free lawful download terms; paid routes remain OWNER APPROVAL.
+
+### Handoff
+Continue source hunts for exact Vocalion and DAHR transfers for READY items. Do not invent downloads. For sovietfilm, continue extracting labeled film-mix cues as needed for mapping or seek owner-approved commercial reconstructions. Log any new READY FOR DRIVE items in the appropriate queue.
