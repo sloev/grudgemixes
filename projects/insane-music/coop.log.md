@@ -96,3 +96,23 @@ Sources: https://collections.si.edu/search/results.htm?q=%22Jackson%2C+Bruce+193
 
 ### Handoff
 For IM-013, continue item-level reconciliation of the original 1962 accession numbers against the Indiana University and Library of Congress catalogues. For IM-044, request the 1963 reel records and CDR transfer metadata. No audio was auditioned.
+
+
+## 2026-11-17 — ChatGPT — Indiana prison reel reconciliation; IM-013 advanced and IM-045 added
+
+### Existing-lead advancement
+- Revisited IM-013's 1962 Indiana State Prison tape scope and compared its Indiana University accession series (62-4-28, 62-6-18, 62-8-9; original tape numbers 465–498, 503, 539–543) against the separate Smithsonian Asch 1963 reel records IM-044.
+- Identified a third distinct Bruce Jackson archive object, FW-ASCH-7RR-1966, catalogued as “Bruce Jackson Field Recordings: Prison Songs,” one 7-inch analogue reel, place Indiana/Bloomington. Its actual session date and facility are not supplied in the search record; “1966” is only a local-number suffix and is not used as a date.
+- The three accession groups are kept separate pending item-level reconciliation. No listening or archive access is claimed.
+
+### New lead
+- Added IM-045, a discrete extant reel with an exact Smithsonian local number and GUID. The record is partially verified; tracklist, performers, facility, date and relationship to IM-013/IM-044 remain open.
+
+### Files
+- Added research/indiana-prison-songs-im-045-2026-11-17.md.
+- Added IM-045 to catalogue.md.
+- Added IM-013 reconciliation note: research/indiana-prison-tapes-im-013-audit-2026-11-17.md.
+
+### Handoff
+Request the item-level description and permitted access for FW-ASCH-7RR-1966. Establish its exact facility, recording date, performers, tracklist and relationship to the 1962 Indiana University accessions and 1963 Asch reels. Confirm restrictions attached to this exact item.
+Sources: https://collections.si.edu/search/results.htm?fq=name%3A%22Folkways+Records%22&q=%22Prisons%22 ; https://collections.si.edu/search/results.htm?q=%22Jackson%2C+Bruce%2C+1936-%22
