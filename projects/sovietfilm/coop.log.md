@@ -169,3 +169,17 @@ Drive sovietfilm folder now includes the additional 5m-7m Zatsepin film-mix exce
 ### Handoff
 Resolve archive date conventions and request catalogue/carrier/session metadata; then compare the archive object with the film print and 2024 re-recording. Select further Armenian SSR cues only after independent film-credit checks.
 Sources: https://armradioarchive.am/en/genres/soundtrack ; https://armradioarchive.am/en/song/meghedi-ashnan-arev-k-f ; https://films.klassiki.online/autumn-sun ; https://music.apple.com/us/album/tigran-mansurian-film-theatre-music/1785241663
+
+
+## 2026-11-17 — Release-duration and object-identity reconciliation
+
+A fresh check of the Presto Music catalogue for Olympia MKM197, *Giya Kancheli: Music of Soviet Film* (listed release date 1 January 2006) confirms a four-track Кин-Дза-Дза sequence performed by the State Cinematography Symphony Orchestra of the USSR under Sergei Skripka. Presto lists durations **4:28, 5:01, 1:17 and 2:02**, which sum to **12:48**. This corrects the earlier dossier's unqualified 12:38 total: that figure is not supported by the current Presto listing and should not be carried forward as a settled total.
+
+A separate 2007 CDVPodarok CDV006092 listing gives **4:26, 4:59, 1:16 and 2:04**, summing to **12:45**. This three-second difference is a version/metadata discrepancy, not proof of a different arrangement or master. Keep both sets tied to their exact release listings. The 1995 Olympia OCD 608 listing still needs a direct label-scan/physical-copy check before assigning it a definitive duration.
+
+Sources:
+- Presto Music, Olympia MKM197: https://www.prestomusic.com/classical/products/7985259--giya-kancheli-music-of-soviet-film (release date, catalogue number, performers, track titles and durations).
+- CDVPodarok, CDV006092: https://www.cdvpodarok.ru/products/kancheli-giyamuzyka-sovetskogo-kinovypusk-6 (2007 listing and alternate durations).
+
+### Interpretation
+MKM197 is a commercial film-music compilation with 30 listed tracks, including music from Не горюй, День гнева, Кин-Дза-Дза and Паспорт. It must remain classified as a later compilation/release object, not assumed to be a complete or unaltered 1986 film-print soundtrack. No listening comparison against a verified film print was performed; no purchase or rights clearance is claimed.
