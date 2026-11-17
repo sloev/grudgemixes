@@ -132,3 +132,31 @@ Source: https://collections.si.edu/search/results.htm?fq=date%3A%221920s%22&fq=n
 ### Handoff
 Locate a label scan and DAHR/session corroboration for Okeh 40436/matrix 8848; request permitted LOC research access to the Pete Welding tape dub and transcribe the exact performance before final thematic promotion.
 Sources: https://www.78discography.com/OK40000.html ; https://findingaids.loc.gov/exist_collections/ead3pdf/afc/2021/af021010.pdf ; https://core.ac.uk/download/pdf/232565129.pdf
+
+
+## 2026-11-17 — Grudge Mixes discovery — Julius Sutton, “Single Girl” (GM-US-018)
+
+- The Library of Congress Gordon Collection identifies “Single Girl,” cylinder A79 / Item NC117, sung by Julius Sutton in Dillsboro, North Carolina, on 28 October 1925.
+- The LOC transcript records the speaker's domestic labour/deprivation, a husband's drinking and death wish, and children lacking food. The opening warning to young women and repeated wish to be single support grievance testimony/domestic defiance. This is not a revenge narrative.
+- The online MP3 is a later presentation of the cylinder recording as included on the 1978 Archive of Folk Culture LP. No independent listening was done; thematic assessment is based on the published transcript.
+- Added GM-US-018, B — probable core candidate; exact fixation date is before 1 January 1926.
+- Next: compare the other Gordon cylinder witness A93 / NC137 and printed Southern variants; establish the cylinder's technical record and rights.
+Sources: https://wwws.loc.gov/folklife/Gordon/sideAband8.html ; https://wwws.loc.gov/folklife/Gordon/GordonFolkSongLinerNotes.pdf
+
+
+## 2026-11-17 — Further discovery batch across all three projects
+
+### Grudge Mixes
+Added GM-US-018, Julius Sutton's “Single Girl,” Gordon cylinder A79 / LOC Item NC117, fixed 28 October 1925. The LOC transcript documents domestic grievance and defiance; this is not a revenge narrative. Advanced baseline GM-AM-001 Helen Paul to RESEARCHED-OPEN after rechecking the Armenian Museum's official Sound Archive article. The exact Columbia matrix, Armenian label spelling, recorded lyric and item-level audio access remain open.
+
+### Insane Music
+Advanced baseline IM-011 (ARSCH) to RESEARCHED-OPEN after checking the artist's Bandcamp page, Empty Space's catalogue page and a specialist retailer listing. The 2020 cassette and digital editions differ in arrangement/mix; source-reel mapping and the effect of the 2019 barn fire remain open. Added IM-046, Ata Kak's Obaa Sima, a 1991–1992 home recording released as a small cassette run in Ghana in 1994. Artist-authorised notes document the home studio, Twi-language production and later master/cassette speed issue. Also deepened IM-043 with the full Portuguese Opus article and added a further LOC item-level cross-check to IM-013.
+
+### Soviet Film Music
+Advanced baseline Aelita to RESEARCHED-OPEN. Added SF-ARM-002 (For the Sake of Honor, 1952), SF-GE-001 (The Last Masquerade, 1934), SF-GE-002 (Arsena, 1937), and SF-TJ-001 (I Met a Girl, 1957). These expand regional coverage into Armenian, Georgian and Tajik cinema. Item-level audio provenance, language-version distinctions and archive identifiers remain open.
+
+### Programme totals
+Baseline remains 91 (Grudge 44, Insane 42, Soviet 5). Baseline leads researched: 7/91. Cumulative distinct qualified new leads: 11/91 (Grudge 2, Insane 4, Soviet 5). Stopping condition NOT MET.
+
+### Handoff
+Continue baseline research across remaining Grudge Armenian/US records, Insane non-prison cases IM-036/038/039/042, and Soviet film targets The Mystery of the Third Planet, Kosmicheskiy reys and Stalker. Keep all archive and recording-version dependencies explicit.
