@@ -40,3 +40,26 @@ The official Bandcamp page streams and sells the authorised 2015 reissue and ide
 ## Decision
 
 Add as IM-046. It is a distinct, extant DIY/home-recorded corpus with a small 1994 self-release, supported by the artist-authorised reissue notes and independent contemporary reporting. Retain the speed/master provenance question as open.
+
+
+## 2025 source-copy discovery (addendum, 2026-11-17)
+
+The artist-authorised Bandcamp page for *Obaa Sima (Anniversary Remaster)* identifies a 7 November 2025 release and describes the source as a “new, cleaner source cassette” / “nearly pristine.” In the first-person account on that page, Awesome Tapes From Africa founder Brian Shimkovitz says that in early 2024 a new acquaintance in his Berlin neighbourhood offered him a clean copy of *Obaa Sima*. The account does not identify how that cassette was acquired, when it was duplicated, or whether it was one of the approximately 50 Ghana-issued copies from 1994.
+
+This adds a **separate source-copy witness** to the version history:
+- **2015 reissue:** sourced from the cassette Shimkovitz bought at a roadside stall in Cape Coast in 2002; the artist's own cassette and other copies were described as too damaged, and the master DAT had degraded.
+- **2025 anniversary remaster:** sourced from the clean cassette offered in Berlin in early 2024; its generation and relationship to the 1994 run are not stated.
+
+Do not treat the Berlin copy as the original master or as a confirmed first-generation 1994 cassette. Bandcamp lists the 2025 seven-track durations as 5:38, 5:33, 4:54, 2:45, 6:08, 4:32 and 5:28. The 2015 page lists 5:38, 5:32, 4:54, 2:49, 6:07, 4:30 and 5:26. These small catalogue-duration differences are comparison clues only; without an audio comparison they do not prove edits, speed changes or different performances.
+
+The 2025 Bandcamp release is marked “all rights reserved”; a stream, purchase or download does not establish permission to redistribute or reuse the 1994 recording, either transfer, or the new remaster.
+
+**Sources:** artist/label release page and Shimkovitz account, https://atakak.bandcamp.com/album/obaa-sima-anniversary-remaster ; official 2015 release page, https://atakak.bandcamp.com/album/obaa-sima ; independent interview with Ata Kak (originally *The 405*), https://medium.com/@martynpepperell/ata-kak-interview-originally-published-via-the-405-a2f23c98b1f4 ; 2025 cassette listing, https://finersounds.com/products/ata-kak-obaa-sima-anniversary-remaster-cassette-tape .
+
+No audio was auditioned, no cassette or reissue was physically inspected, no artist/label contact was made, and no rights were cleared. Status remains WELL-SUPPORTED; no new IM-ID is justified.
+
+### Revised next actions
+1. Establish the Berlin source cassette's acquisition and duplication history, and whether it is an original 1994 copy or a later dub.
+2. Compare the 2015 and 2025 authorised transfers, including the two 2015 speed presentations, track boundaries and durations; identify the exact version heard before writing listening notes.
+3. If an original 1994 cassette/J-card becomes available, document its shell, imprint, track order and credits without assuming a catalogue number.
+4. Keep recording/fixation (c. 1991–1993), Ghana cassette issue (1994), 2015 transfer and 2025 transfer as separate events.
