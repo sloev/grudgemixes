@@ -1359,3 +1359,17 @@ No audio auditioned, no Drive files accessed, no contact made, and no rights cle
 - Make a catalogue-level reference enquiry to UPCE for the 1987 Kabayan recordings, 1950s Sagada corpus and any itemised Kankana-ey/Ibaloi field recordings; ask about community review and access.
 - Keep the 2025 SMSSI archive under community control; no request for unrestricted copies or assumption that UPCE can authorise access to originals.
 - Continue identifying specific release media for Kinnoboyan / Rio Cariño / Cesar Pasiw without conflating local-language country music with outsider music.
+
+
+## 2026-11-17 — IM-046 Ata Kak source-copy lineage update
+
+The official 2025 *Obaa Sima (Anniversary Remaster)* page adds a second cassette-source witness. Awesome Tapes From Africa founder Brian Shimkovitz says that a Berlin acquaintance offered him a clean copy in early 2024; the label describes the 2025 remaster as sourced from a new, cleaner / nearly pristine cassette. This is distinct from the Cape Coast cassette bought in 2002 and used for the 2015 reissue. The new copy's generation and connection to the approximately 50 cassettes issued in Ghana in 1994 are not stated. The master DAT remains reported as degraded; do not equate either cassette transfer with the original master.
+
+Updated the IM-046 dossier and catalogue, and added the source lineage to environment-leads.md. The 2015/2025 track-duration metadata differs slightly; no conclusion about speed, edits or performance identity is possible without audio comparison. No new IM-ID; status remains WELL-SUPPORTED. No audio auditioned, carrier inspected, contact made or rights cleared. A bounded search of Ghanaian news domains returned no relevant local item-level source; no Twi-language source was located in this pass.
+
+Sources: https://atakak.bandcamp.com/album/obaa-sima-anniversary-remaster ; https://atakak.bandcamp.com/album/obaa-sima ; https://medium.com/@martynpepperell/ata-kak-interview-originally-published-via-the-405-a2f23c98b1f4 ; https://ra.co/news/27656 .
+
+### NEXT
+- Establish the Berlin cassette's acquisition/duplication history and whether it is one of the original 1994 copies.
+- Compare 2015 and 2025 transfers, including the 2015 speed alternatives and track boundaries.
+- Keep recording, 1994 issue, 2015 transfer and 2025 transfer as separate events.
