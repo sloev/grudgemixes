@@ -2175,3 +2175,34 @@ Sources: https://upethno.upd.edu.ph/collection-and-recollection-recording-the-tr
 ### Cordillera local-country / Abatan Records cassette network — 2026-11-16 follow-up
 
 The 12 March 2013 Philippine Daily Inquirer report “In Cordillera, resilience vs piracy” identifies Elsie Gawidan Maliones as founder of Abatan Records in the 1970s and documents original cassette sales of Kankanaey and Ibaloy singers in Baguio during the 1990s. This adds a named local label/producer and an original-cassette distribution route to the earlier Fong/Telles map of Baguio-Benguet local-language country/pop. It does not provide an itemised catalogue or prove the survival of any specific tape. Keep as a discovery/access lead, not an Insane Music entry: local-language country music is not automatically outsider music. Next seek catalogue, sleeves, tracklists and item-level carrier/audio provenance; distinguish original cassettes from later bootleg CDs and VCDs. Source: https://newsinfo.inquirer.net/372451/in-cordillera-resilience-vs-piracy . Detailed dossier: research/philippines-cordillera-country-cassette-ecology-2026-11-16.md. No audio auditioned, carrier inspected, contact made or rights cleared.
+
+
+---
+
+## Ghana / Ata Kak — *Obaa Sima* (IM-046): home studio and cassette-source lineage (2026-11-17)
+
+**Pathways:** self-taught practice; DIY/home recording and self-release; idiosyncratic musical practice. This is not an institutional recording and no psychiatric history is claimed.
+
+Yaw Atta-Owusu, recording as Ata Kak, made the seven-track *Obaa Sima* in a home studio in Toronto using second-hand equipment and Twi-language rap/highlife/electronic elements. The artist-authorised account describes a small cassette run of approximately 50 copies manufactured/released in Ghana in 1994. The work's relevance is the specific home-studio production, independent cassette manufacture and unusual local/transnational synthesis, not an assumption that Ghanaian vernacular music is inherently “outsider.”
+
+### Source-copy history
+
+- The original master DAT is reported to have degraded.
+- The 2015 authorised reissue used a cassette bought by Awesome Tapes From Africa founder Brian Shimkovitz at a Cape Coast roadside stall in 2002; the artist's own cassette and other located copies were reported as too damaged to use.
+- The 2025 *Anniversary Remaster* is a separate transfer. Its official Bandcamp page says that in early 2024 Shimkovitz received a clean cassette copy from a new acquaintance in his Berlin neighbourhood. The copy's acquisition history, duplication generation and relationship to the 1994 Ghana run are not stated. Do not assume it is the original master or a first-generation 1994 cassette.
+- The official 2025 page lists a seven-track release dated 7 November 2025, with digital files offered at 24-bit/96 kHz and a cassette edition. It describes the source as a new, cleaner / nearly pristine cassette. The page marks the release all rights reserved.
+
+### Bounded source search and open questions
+
+The searches site:ghanaweb.com Ata Kak "Obaa Sima" cassette, site:myjoyonline.com Ata Kak "Obaa Sima" Ghana and site:graphic.com.gh Ata Kak "Obaa Sima" cassette did not locate a relevant Ghanaian local-news or local-archive record; the returned “Obaa Sima” results were unrelated. This is a narrow null result, not evidence that no Ghanaian documentation exists. The sources currently used are the artist/label's official English-language release notes, a first-person interview with Ata Kak, and independent reissue reporting; no Twi-language source was located in this pass.
+
+The 2015 and 2025 Bandcamp pages list slightly different track durations. These are metadata clues only; no edits, speed change or performance difference should be inferred without comparing the audio.
+
+**Sources**
+- Artist/label, 2015 edition and recording account: https://atakak.bandcamp.com/album/obaa-sima
+- Artist/label, 2025 anniversary remaster and Shimkovitz's Berlin-copy account: https://atakak.bandcamp.com/album/obaa-sima-anniversary-remaster
+- Ata Kak interview, originally published by *The 405*: https://medium.com/@martynpepperell/ata-kak-interview-originally-published-via-the-405-a2f23c98b1f4
+- Reissue announcement: https://ra.co/news/27656
+- 2025 cassette product record: https://finersounds.com/products/ata-kak-obaa-sima-anniversary-remaster-cassette-tape
+
+No audio auditioned, no physical carrier inspected, no contact made and no rights cleared. **Next:** establish the Berlin cassette's provenance, then compare the authorised 2015 and 2025 transfer versions; keep both source copies distinct from the degraded master DAT.
