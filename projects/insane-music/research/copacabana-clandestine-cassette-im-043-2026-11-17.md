@@ -64,3 +64,12 @@ This is a rare, material example of anonymous, small-run, politically clandestin
 ## Decision
 
 Retain as IM-043, PARTIALLY VERIFIED. The cassette corpus and its 17-track programme are documented in a substantial peer-reviewed study; the exact object is reported to survive in digitised form. Its relevance is the clandestine compilation and copying network, not original performance by the people who hid it. No audio was accessed or auditioned and no contact or rights request was made in this pass.
+
+
+## Research update — IM-043 source-text audit (2026-11-17)
+
+The full Portuguese Opus article was checked directly, not only its abstract. It describes the 1984 discovery of fifty identical unbranded cassettes in a false compartment in a Copacabana apartment, the author's family listening to them, and the author later taking one cassette to the United States and digitising it to CD. It says the creators never returned and the cassettes were never distributed; their connection to a clandestine opposition safehouse is presented as a contextual interpretation, not an identified organisation or proven operational history. The article's account supports an extant cassette/copy and a 17-track programme, but not the identity of the compilers, exact creation date or source media for each track.
+
+Retain IM-043 as RESEARCHED-OPEN. The evidence establishes a specific surviving compilation artefact and its reported history; the identities, exact assembly date, track-source provenance and physical-object access remain unresolved. The lead is about clandestine compilation/circulation, not original performances by the people who concealed the tapes.
+
+Primary scholarly source: https://www.scielo.br/j/opus/a/43QQ9pGYpVQCWF3f5DFg3sj/?lang=pt
