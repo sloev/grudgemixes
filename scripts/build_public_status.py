@@ -7,9 +7,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "public"
 PROJECTS = [
-    ("Grudge Mixes", ["candidates", "research", "leads", "projects/grudgemixes"]),
-    ("Insane Music", ["projects/insanemusic"]),
-    ("Soviet Film Music", ["projects/sovietfilm"]),
+    ("Grudge Mixes", ["candidates", "research", "leads", "projects/grudge-mixes", "projects/grudgemixes"]),
+    ("Insane Music", ["projects/insane-music", "projects/insanemusic"]),
+    ("Soviet Film Music", ["projects/soviet-film-music", "projects/sovietfilm"]),
 ]
 SKIP = {"readme.md","methodology.md","method.md","workflow.md","agents.md",
         "coop.log.md","research_method.md","track_mapping.md","archive-requests.md",
