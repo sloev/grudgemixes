@@ -351,3 +351,15 @@ Grok's reported Waring's Pennsylvanians “Stack O'Lee Blues” download is now 
 The 1990 *演芸レコード発売目録* (KD1-E21) is NDL-premises-only for digital viewing and excluded from library/personal digital transmission, but its NDL record explicitly marks paid remote photocopy as available. NDL's help says this requires user registration and is subject to item eligibility/copy limits. Physical holdings are also listed at Saitama, Chiba, Tokyo, Aichi, Nagoya, Kyoto and Osaka libraries. This is an actionable consultation route, not a catalogue hit.
 
 **Next:** identify the book's rōkyoku section/page range, then use a registered NDL remote-copy request or consult a holding library for limited relevant pages. Search 吉田奈良丸, 赤穂義士討入, 赤穂義士伝, Royal / ローヤル and 1645/1649. No Royal issue month or entry has yet been verified. Preserve Royal 1645, Royal 1649, Nipponophone-series 1649 and Royal 1853 as separate objects. No candidate promotion or Grok request.
+
+
+## 2026-11-17 — Gordon cylinder A93 / NC137 comparison checkpoint
+
+The LOC 1991 Gordon Collections finding aid describes the North Carolina corpus as 374 songs collected October–December 1925; texts 1–298 correspond to cylinders A1–A202, and the recordings plus typescripts are in the Archive. Together with the 1978 liner notes, this supports A93 / NC137 as a distinct cylinder/text witness of “Single Girl” in a surviving indexed collection. It does not supply the A93 singer, item-specific date/place, text, physical cylinder details or transfer history.
+
+Exact public searches for A93 / NC137 found no separate item-level record or transcript beyond the 1978 liner notes. The A79 / NC117 transcript and 28 October 1925 fixation date remain specific to Julius Sutton. No comparison of the two texts or audio is possible; do not merge the performances or attribute Sutton's verses to A93.
+
+Source: https://wwws.loc.gov/folklife/guides/Gordon.html ; https://wwws.loc.gov/folklife/Gordon/GordonFolkSongLinerNotes.pdf ; https://wwws.loc.gov/folklife/Gordon/sideAband8.html .
+
+### NEXT
+Request the item-level AFC/AFS record, singer, exact date/place, text 137, cylinder physical description, preservation/transfer details and access terms for A93 / NC137. Keep GM-US-018 B — probable; no new candidate or rights conclusion.
