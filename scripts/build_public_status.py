@@ -16,14 +16,29 @@ SKIP = {"readme.md","methodology.md","method.md","workflow.md","agents.md",
         "workspace_redirect.md"}
 
 def status(raw):
-    t = raw.casefold()
-    if "reported in drive" in t:
+    # Only explicit record-level status fields count. Do not infer readiness from
+    # prose such as "no READY FOR DRIVE items" or agent instructions.
+    match = re.search(r"(?im)^\\s*(?:\\|\\s*)?(?:\\*\\*)?status(?:\\*\\*)?\\s*[:|]\\s*([^|\\n]+)", raw)
+    if not match:
+        return "Investigating"
+    value = re.sub(r"\\*+", "", match.group(1)).strip().casefold()
+    if "reported in drive" in value:
         return "Reported in Drive"
-    if any(s in t for s in ["in drive — listing verified","in drive - listing verified"]):
+    if "in drive" in value and "listing verified" in value:
         return "In Drive (listed)"
-    if any(s in t for s in ["in drive — verified","in drive - verified","downloaded — verified","downloaded - verified"]):
+    if "in drive" in value and "verified" in value:
         return "Done"
-    if any(s in t for s in ["ready for drive","ready to download","ready for download","status: researched"]):
+    if "downloaded" in value and "verified" in value:
+        return "Done"
+    if "ready for drive" in value or "ready for download" in value:
+        return "Ready for Drive"
+    if "paid download route" in value or "owner approval" in value:
+        return "Owner approval needed"
+    if "stream only" in value:
+        return "Stream only"
+    if "permission needed" in value or "broken link" in value or "identity unresolved" in value:
+        return "Blocked / unresolved"
+    if value == "researched":
         return "Researched"
     return "Investigating"
 
@@ -52,7 +67,7 @@ def main():
               "Done":"Downloaded audio independently verified.",
               "In Drive (listed)":"A Drive inventory lists the file; this does not establish playback or isolated-track status.",
               "Reported in Drive":"Legacy project notes report a file in Drive; current Drive listing has not been independently checked.",
-              "Researched":"Research or a lawful retrieval route is ready for a download-capable agent.",
+              "Ready for Drive":"Exact downloadable object and permitted route identified; awaiting Drive retrieval.",\n              "Researched":"Research complete enough for further review; not necessarily downloadable.",\n              "Stream only":"A listening route exists; no downloadable file route verified.",\n              "Owner approval needed":"A paid route exists but requires owner approval.",\n              "Blocked / unresolved":"Access, link, or recording identity remains unresolved.",
               "Investigating":"Research, identity, provenance, or access route still being checked."},
             "records":sorted(unique.values(),key=lambda x:(x["project"],x["status"],x["name"].casefold()))}
     OUT.mkdir(exist_ok=True)
