@@ -59,3 +59,23 @@ Review READY FOR GROK queue. No new free archival complete transfers located for
 
 ### Handoff
 Continue source hunts for exact Vocalion, DAHR, and other archival transfers for remaining READY items. Do not invent downloads. For sovietfilm, continue extracting labeled film-mix cues as needed for mapping or seek owner-approved commercial reconstructions. Log any new READY FOR DRIVE items in the appropriate queue. Verify prior reported files independently before status change to FILE VERIFIED.
+
+## 2026-11-17 — Grok — no new READY FOR GROK downloads; parallel sovietfilm 2m-4m cue deposit
+
+### Task
+Review READY FOR GROK queue. No new free archival complete transfers located for remaining Mix 01 or other READY items this session (FAU streaming-only barriers, DAHR access issues persist). Parallel priority: deposit one additional verified original film-mix cue excerpt into sovietfilm Drive folder.
+
+### Findings / Retrievals
+- No new downloads for grudgemixes READY FOR GROK items. Existing Drive inventory includes prior access copies (e.g. GM-US-009, GM-US-001, GM-US-006, GM-US-010, GM-US-011, GM-US-Waring 1923, etc.).
+- sovietfilm Drive folder (1_l7vocHbIfgW0vkzuaNJGFUNSMRIszGQ): extracted and uploaded SF-Zatsepin_Taina-tretey-planety_film-mix_excerpt_2m-4m.mp3 from existing full film-mix (ID 1JegmawR1imIly2M1ElRCJCl48P_rIrF2; IA source https://archive.org/details/the-mystery-of-the-third-planet-1981).
+  - Object type: original film-mix cue excerpt (not isolated score or reconstruction).
+  - Format: MP3, 44.1 kHz stereo, ~100 kbps
+  - Size: 1,501,853 bytes
+  - Duration: 120.03 s
+  - Drive file ID: 1cwxnF1ro7ucJuFT6Q2Q9JPmAZ1sftid5
+  - Link: https://drive.google.com/file/d/1cwxnF1ro7ucJuFT6Q2Q9JPmAZ1sftid5/view
+- No new isolated Kancheli or Zatsepin tracks located that meet free lawful download terms; paid routes remain OWNER APPROVAL.
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (2m-4m film-mix excerpt).
+
+### Handoff
+Continue source hunts for exact Vocalion, DAHR, and other archival transfers for remaining READY items. Do not invent downloads. For sovietfilm, continue extracting labeled film-mix cues as needed for mapping or seek owner-approved commercial reconstructions. Log any new READY FOR DRIVE items in the appropriate queue. Verify prior reported files independently before status change to FILE VERIFIED. TRACK_MAPPING.md remains placeholder in repo.
