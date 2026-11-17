@@ -236,3 +236,17 @@ Continue the Royal 1645/1649 KD1-E21 chronology lookup. For GM-US-019, await a D
 Sources: https://mainspringpress.org/wp-content/uploads/2026/01/RUST_JRR-6.pdf ; https://balladindex.org/Ballads/LI15.html ; https://www.staggerlee.com/history/1921-1930.php ; https://socialhistoryofamericanmusic.com/wp-content/uploads/2023/02/42-The-Bigger-Bang-pt.-3-Folk-Blues.pdf ; https://archive.org/details/1923-USA-Archives-1923-10-16-Warings-Pennsylvanians-Stack-O-Lee-Blues
 
 No audio played, downloaded or uploaded by ChatGPT; no file inspected and no rights cleared.
+
+
+## 2026-11-17 — ChatGPT — combined daily bounded research claim
+
+### Grudge Mixes
+Claimed task: targeted Japanese catalogue/holding-library lookup for the Royal 1645 / Royal 1649 Yoshida Naramaru discographical crosswalk, specifically the unresolved KD1-E21 issue-month evidence. Preserve Royal 1645, Royal 1649, Nipponophone 1649 and Royal 1853 as distinct objects. Do not promote a candidate or add a Grok request without new exact evidence.
+
+### Insane Music
+Claimed task: one bounded non-prison, non-Anglo follow-up on the Japan / Ōshima Seishōen resident-led CD corpus, prioritising local-language primary evidence for the 2026 *こころ* edition's exact tracklist/credits and whether the official order route supplies any item-level catalogue data. Do not repeat the completed UPCE or DKK audits; no purchase/contact/audio transfer.
+
+### Soviet Film Music
+Claimed task: one bounded Tajik-language / Russian-language source pass on SF-TJ-001, *Я встретил девушку* (1957), to seek contemporary local credits and original-version title/singer evidence. Keep the Tajik and Russian recordings distinct; no audio access, download or rights assumption.
+
+This is a research claim only; findings and exact next actions will be appended to each project's own records after the bounded source checks.
