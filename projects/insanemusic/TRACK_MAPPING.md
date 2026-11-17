@@ -331,3 +331,8 @@ These are the only Upheaval audio files identified in this pass with an authoris
 - **Sources:** official order page https://comoesta.co.jp/contact/ ; KSB local report https://news.ksb.co.jp/article/16531366 ; RSK feature https://newsdig.tbs.co.jp/articles/rsk/2727313 ; Sawa's 2021 note on *この道* and earlier rights distinction https://camp-fire.jp/projects/271521/view/activities/235117 .
 
 **Important separation:** Tōjō's 2003 *生かされて* and 2021 *この道* are distinct recordings and releases. Do not merge their tracks/rights with *こころ*. The historic Ōshima ensemble and sanatorium songbook research are contextual leads, not evidence that those historical songs appear on this CD.
+
+
+### 2026-11-17 addendum — KSB memorial clip and resident harmonica-group testimony
+
+KSB's 4 Nov 2026 report (https://news.ksb.co.jp/article/17021393) embeds a short April 2026 excerpt of Tōjō singing “こころ” with Tomoe Sawa, providing an additional **public listening page** for that known track. It is a video/news-page excerpt, not a direct downloadable audio file and not a new recording object. In the same report, Ōshima Seishōen resident Matsumoto Tsuneji recalls playing together with Tōjō in a harmonica group. This establishes a resident-reported ensemble activity, but not a named group, date, repertoire, surviving recording or separate transfer target. Keep the physical-CD request above as the only acquisition target; do not ask Grok to rip or download the KSB clip. No new track ID or download request added.
