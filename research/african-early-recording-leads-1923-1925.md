@@ -345,3 +345,14 @@ Afrodisc identifies “Ewe Battle Hymn,” matrix Yy7339-2, and “Anlo Patrioti
 - Society for Ethnomusicology, report on 2018 transfer of Rattray wax-cylinder digitizations: https://www.ethnomusicology.org/news/424886/J.H.-Kwabena-Nketia-Attends-IASA-Conference-in-Ghana.htm
 - Nyarko-Takyi, Arthur & ResCue, “Counter-hegemonic practices: a study of the song text of the Apoɔ festival of the Bono people of Techiman in Ghana,” *South African Journal of African Languages* 42/1 (2022): https://www.ajol.info/index.php/sajal/article/view/225933
 - University of Michigan, Nkwantananso Cultural Center, Apoɔ festival: https://sites.lsa.umich.edu/techiman/experience-techiman/festivals/apo%C9%94-festival/
+
+
+## 2026-11-17 — additional scholarly check on the “Orin Ofo” ambiguity
+
+A further targeted source pass found a peer-reviewed Yoruba-linguistics study that strengthens the need to preserve the title's ambiguity without resolving the recording by guesswork.
+
+- Issa Sanusi and Abdulrahman Aminu, “Negation as a Peculiar Grammatical Feature of Yoruba Incantations,” *Ihafa: A Journal of African Studies* 13/1 (June 2022), pp.25–45, explicitly identifies Yoruba incantation as **ọ̀fọ̀** and discusses its use in traditional medicine. This independently confirms that an incantatory form exists under a closely similar unmarked spelling; it does **not** show that Solanke's 1925 title refers to that genre. Source: https://ihafa.unilag.edu.ng/article/download/1498/1147
+- A Yoruba glossary in *The Language of Ifa* distinguishes **ofò** (“incantation/invocation”) from **òfò** (“loss by death”), illustrating why tone and vowel diacritics are essential. This is a specialist glossary, not evidence for the specific recording's pronunciation. Source: https://pressbooks.pub/africanamericanreligionsifa/back-matter/appendix/
+- Afrodisc continues to be the only located item-level genre descriptor for Zonophone 3963, side X-4-42843 / matrix Yy7461-1 (7 December 1925): **“Lament.”** The label supports a lament classification in that discography, but no lyrics or item-level audio have been located in this pass.
+
+**Decision unchanged:** retain the catalogue spelling **ORIN OFO** and Afrodisc's “Lament” as a secondary genre description. Do not silently add tone marks, translate the title as “song of loss,” or reinterpret it as an incantation. The track remains a C-level textual lead, not a candidate. Next decisive evidence is the actual performance, a reliable Yoruba transcription, and review by a competent Yoruba-language specialist. No audio was downloaded or auditioned; no status or rights claim changed.
