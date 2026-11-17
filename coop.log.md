@@ -338,3 +338,10 @@ This is a bounded work claim; findings and handoff will follow in an appended DO
 - No audio downloaded, uploaded or auditioned; no physical item inspected; no archive/artist/library contact made; no rights or reuse permission obtained.
 - Drive was not accessed.
 - Next: establish the Berlin cassette's provenance and compare the 2015/2025 Ata Kak transfers; request A93/NC137's item card and text 137; reconcile the two Insane Music project directories without losing IM-043–047 or the separate logs.
+
+
+## 2026-11-17 — ChatGPT — IM-046 source-note correction
+
+A closer read of the official 2025 *Obaa Sima (Anniversary Remaster)* page adds a material circulation correction: the artist's 2015 account estimated about three sales from approximately 50 copies, while ATFA founder Brian Shimkovitz's 2025 account says he later learned the artist's brother had sold “quite a few” and that Kejetia market residents remembered the songs at funerals and local dance parties. Exact sales and distribution are unresolved. The 2025 page also states that the original recording was made at a slower speed and includes a slow-version download; it credits all songs to Yaw Atta-Owusu, states the reissue is under exclusive licence from him, and marks the release all rights reserved. The Berlin cassette remains a separate generation-unknown source copy. Updated IM-046 dossier, catalogue, environment-leads, research_method and project log. No audio auditioned; no Twi-language query was run, so local-language documentation remains open.
+
+Source: https://atakak.bandcamp.com/album/obaa-sima-anniversary-remaster ; 2015 account: https://atakak.bandcamp.com/album/obaa-sima .
