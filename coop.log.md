@@ -214,3 +214,25 @@ Continue the active Royal 1645/1649 discographical crosswalk without repeating c
 Consult KD1-E21 through a holding library/reference lookup for exact issue month and title/number crosswalk; request separate label/matrix evidence for Kushiro Royal 1645 and Royal 1649. Do not attach Naramaru II's 1910 debut date to either disc.
 
 Sources: https://78music.jp/other5.html ; https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/018/314/8_1-30.pdf ; https://ndlsearch.ndl.go.jp/rnavi/humanities/engei
+
+
+
+
+## 2026-11-17 — ChatGPT — Waring 1923 Stagger Lee retrieval reconciliation
+
+### Findings
+- Reconciled the prior Grok report for Waring's Pennsylvanians, “Stack O'Lee Blues.” The exact discographic source identifies Victor 19189-A, matrix 28665-5, Camden, 16 October 1923; the Internet Archive item URL also carries 1923-10-16. Corrected the Grok log's earlier “18 April 1923” date.
+- The 2026 *Jazz and Ragtime Records* discography gives the matrix/session; the Ballad Index places Victor 19189 in the Stagolee / Stackerlee ballad family; specialist chronology describes the 1923 Waring and Westphal versions as instrumental fox trots.
+- Grok reports an MP3 in Drive (~4.8 MB / 3:32). The specialist discographic duration is ~3:21, so file/transfer identity remains unverified. ChatGPT did not access the Drive file or listen to audio.
+- Added GM-US-019 as a distinct version witness in TRACK_MAPPING and the global map, but excluded it from the qualified new-lead count because the instrumental has no verified sung grievance-response mechanism. Keep as context only; no mix promotion.
+
+### Files
+- Added research/waring-pennsylvanians-stack-o-lee-blues-victor-19189-1923.md.
+- Updated TRACK_MAPPING.md, research/global-early-recording-map.md, RESEARCH_GRIND_PROGRESS.md, research_method.md and this log.
+
+### Handoff
+Continue the Royal 1645/1649 KD1-E21 chronology lookup. For GM-US-019, await a Drive-capable agent's file/metadata verification; reconcile 3:32 vs 3:21 without treating a successful download as proof of thematic fit.
+
+Sources: https://mainspringpress.org/wp-content/uploads/2026/01/RUST_JRR-6.pdf ; https://balladindex.org/Ballads/LI15.html ; https://www.staggerlee.com/history/1921-1930.php ; https://socialhistoryofamericanmusic.com/wp-content/uploads/2023/02/42-The-Bigger-Bang-pt.-3-Folk-Blues.pdf ; https://archive.org/details/1923-USA-Archives-1923-10-16-Warings-Pennsylvanians-Stack-O-Lee-Blues
+
+No audio played, downloaded or uploaded by ChatGPT; no file inspected and no rights cleared.
