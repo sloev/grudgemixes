@@ -275,3 +275,30 @@ Identify the rōkyoku section/page range, then seek a limited paid NDL remote co
 Sources: https://ndlsearch.ndl.go.jp/books/R100000002-I000002059548 ; https://ndlsearch.ndl.go.jp/help/about
 
 No book pages consulted, no carrier/label/matrix inspected, no audio played/downloaded, no archive contacted and no rights cleared.
+
+
+## 2026-11-17 — Combined daily research completion (Insane Music / Grudge Mixes / Soviet Film Music)
+
+### Grudge Mixes — PARTIAL
+- Rechecked NDL's 1990 *演芸レコード発売目録* (KD1-E21). New actionable access finding: its digital copy is NDL-premises-only and not eligible for library/personal transmission, but the catalogue record explicitly marks paid remote photocopy available. NDL registration and copying limits apply; several prefectural/city libraries also list physical holdings.
+- No KD1-E21 pages or Royal 1645/1649 entries were consulted/found. No issue date, matrix or object crosswalk changed; Royal 1645, Royal 1649, Nipponophone-series 1649 and Royal 1853 remain separate. No new candidate or READY FOR GROK item.
+- Files: research/japan-ako-gishi-yoshida-naramaru-royal-record.md (commit 1ad64a18118767515729028c93b638fdab52ad0d); research_method.md (c1729629d377b27f2474bacad2606e0ef4fbce18); this project's log (2a3cb5121a3d6960af5dc76c5c6252d38b7b84f6).
+- Next: identify the rōkyoku section/page range, then use paid NDL remote copy or a listed holding library for targeted pages. Sources: https://ndlsearch.ndl.go.jp/books/R100000002-I000002059548 ; https://ndlsearch.ndl.go.jp/help/about .
+
+### Insane Music — PARTIAL
+- KSB's 4 Nov 2026 memorial report adds a short April 2026 public video excerpt of Takashi Tōjō singing “こころ” with Tomoe Sawa and a resident's recollection that Tōjō played in a harmonica group with Matsumoto Tsuneji. This is a useful new ensemble-provenance lead, but no group name, date, repertoire, surviving recording or separate transfer is identified.
+- No new IM-ID assigned; the physical *こころ* CD request is unchanged. The KSB clip is a public listening page, not a direct downloadable file. No Grok request or transfer added.
+- Files: environment-leads.md (0ba4c7cca91fb42b3f988c9c65526745660f1e3d); catalogue.md (a1ac3e8b1d9fc8a4bd70e6f1d5ddd719d8cc1ed2); TRACK_MAPPING.md (8fde7f2f668349eded0ae5f73f9c6b5d8df03e3a); research_method.md (e06a0cb35bf942e4a2c6226cb8c919dc0022e210); coop.log.md (570f9725728f1b7ae65920aad327ac5ed61111bc).
+- Next: seek a dated Ōshima Seishōen programme, newsletter, photograph or archive reference for the harmonica group and any surviving resident-made recording. Source: https://news.ksb.co.jp/article/17021393 .
+
+### Soviet Film Music — PARTIAL
+- Local-language source reconciliation distinguishes the Tajik film title «Ман бо духтаре вохӯрдам» from the song «Дидам ҷамоле» / Russian «Я встретил девушку». Tillo Neqqadamov's 2019 Ministry of Culture research-institute book supports Babaev/Tursunzade credits, prints both lyric versions, and attributes the film/stage performance to Rashid Behbudov; Rauf Atakishiyev remains a conflicting secondary attribution. Sputnik Tajikistan's Shahidi composer credit is an outlier against the other local sources and remains unresolved.
+- Tajik Writers Union's 2024 article documents Burhon Muhammadqulov performing “Дидам ҷамоле” with the Gulshan Estrada Orchestra, but no date, recording object or audio route. Added SF-AUD-007 as a later-performance lead, IDENTITY UNRESOLVED. No READY FOR DRIVE item.
+- Files: SF-TJ-001 dossier (d07dcebb76311d7bdb169327b5b542fa384ce4a1); audio-collection-queue.md (eb3f8ee09ac641574a28239d3d506a9cc06d0034); research_method.md (dcc7b25e5e4c5bd111456210558b18d6ffae8d9c); coop.log.md (007dcf705bc8c11864f5e4faeb36a9af53051667).
+- Next: seek original film vocal/credit evidence and Tajik Radio/Gulshan programme logs for the later Muhammadqulov performance. Sources: https://pitfi.tj/sites/default/files/Tillo.pdf ; https://farah-info.com/sahifai-asosy/farhang/filmi-man-bo-duhtare-vohurdam-chy-guna-sohta-shud/ ; https://navisandagan.tj/tj/нақши-созгор/ ; https://sputnik.tj/20220129/chorshanbe-surud-uslub-jadid-1045322028.html .
+
+### Combined limits
+- No audio was downloaded, uploaded or auditioned in any project.
+- No archive, artist, library or rights holder was contacted.
+- No rights or reuse permissions were obtained.
+- No public status generator or mirror was manually edited; all research remains in the canonical project workspaces.
