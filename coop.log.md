@@ -315,3 +315,26 @@ No book pages consulted, no carrier/label/matrix inspected, no audio played/down
 - Guardrails: do not merge witnesses or promote the candidate based on song-family similarity; no unverified lyrics, matrices, dates, audio or rights claims.
 
 This is a bounded work claim; findings and handoff will follow in an appended DONE/PARTIAL entry.
+
+
+## 2026-11-17 — ChatGPT — daily research completion (Insane Music / Grudge Mixes)
+
+### Insane Music — IM-046 source lineage enriched; no new ID
+- Followed the non-prison, non-Anglo DIY/home-recording thread for Ata Kak's *Obaa Sima* rather than adding another prison or psychiatric-institution lead.
+- The official 2025 *Anniversary Remaster* page reports a second, cleaner cassette source: a Berlin acquaintance offered a clean copy to Awesome Tapes From Africa founder Brian Shimkovitz in early 2024. This is distinct from the Cape Coast copy used for the 2015 reissue. Its acquisition history, duplication generation and relation to the approximately 50-copy 1994 Ghana run remain unknown.
+- Updated IM-046 dossier, catalogue, environment-leads and research_method in projects/insane-music/. Status remains WELL-SUPPORTED. No audio audition, physical-media inspection, contact, Drive operation or rights clearance.
+- A bounded search of Ghanaian press domains found no relevant local item-level record; no Twi-language source was located in this pass. Sources: https://atakak.bandcamp.com/album/obaa-sima-anniversary-remaster ; https://atakak.bandcamp.com/album/obaa-sima ; https://medium.com/@martynpepperell/ata-kak-interview-originally-published-via-the-405-a2f23c98b1f4 .
+
+### Grudge Mixes — GM-US-018 comparison checkpoint; RESEARCHED-OPEN
+- LOC's 1991 Gordon finding aid confirms the North Carolina corpus includes indexed texts 1–298 corresponding to cylinders A1–A202 and says the recordings/typescripts are held in the Archive. The 1978 liner notes identify A93 / NC137 as another North Carolina “Single Girl” cylinder, but public sources do not name the singer, give its exact date/place or print its text.
+- Exact public searches found no separate A93 item card or transcript. Sutton's A79 / NC117 text/date remain specific to his performance; no A79/A93 textual or audio comparison is possible. Candidate stays B — probable; no new ID or rights conclusion.
+- Updated leads/GM-US-018-julius-sutton-single-girl-1925.md, research_method.md and RESEARCH_GRIND_PROGRESS.md. Sources: https://wwws.loc.gov/folklife/guides/Gordon.html ; https://wwws.loc.gov/folklife/Gordon/GordonFolkSongLinerNotes.pdf ; https://wwws.loc.gov/folklife/Gordon/sideAband8.html .
+
+### Workspace / migration note
+- projects/insane-music/ and projects/insanemusic/ are divergent migrated copies with separate catalogues and append-only logs; both carry the same legacy redirect README. This run updated the hyphenated path containing IM-046 and did not overwrite the other path, which contains IM-047 and newer Ōshima/UPCE updates. Reconcile the non-overlapping records and designate one canonical project path before further catalogue edits.
+- The legacy sloev/insanemusic repository remains read-only per its redirect. The canonical workspace is sloev/grudgemixes on main; no other branch was used.
+
+### Combined limits and next handoff
+- No audio downloaded, uploaded or auditioned; no physical item inspected; no archive/artist/library contact made; no rights or reuse permission obtained.
+- Drive was not accessed.
+- Next: establish the Berlin cassette's provenance and compare the 2015/2025 Ata Kak transfers; request A93/NC137's item card and text 137; reconcile the two Insane Music project directories without losing IM-043–047 or the separate logs.
