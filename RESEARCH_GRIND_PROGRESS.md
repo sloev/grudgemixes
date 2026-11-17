@@ -7,8 +7,8 @@
 ## Completion condition
 
 - Baseline leads: **91** (Grudge Mixes 44; Insane Music 42; Soviet Film Music 5).
-- Cumulative distinct qualified new leads added: **11** (Grudge Mixes 2; Insane Music 4; Soviet Film Music 5).
-- Baseline leads with researched status: **7 / 91**.
+- Cumulative distinct qualified new leads added: **13** (Grudge Mixes 2; Insane Music 5; Soviet Film Music 6).
+- Baseline leads with researched status: **11 / 91**.
 - Stopping condition: **NOT MET**. Continue until all 91 baseline leads are RESEARCHED-OPEN or RESEARCHED-CLOSED and at least 91 qualified new leads have been added.
 
 A lead is “researched” when identity, chronology/version, provenance/context, access/rights and next actions have been checked as far as available evidence allows. RESEARCHED-OPEN is valid when unresolved questions or external dependencies remain explicit. It does not mean all issues are resolved.
@@ -18,7 +18,7 @@ A lead is “researched” when identity, chronology/version, provenance/context
 Counting unit: one distinct lead/candidate file. Where a legacy ID is reused for a different recording, the path is the stable tracking key. Three post-1925 recordings remain in the baseline because they existed as leads at programme start; they must be researched and explicitly kept outside the core.
 
 - leads/GM-AM-001-helen-paul-tzain-ma-hunchetz-1918.md: RESEARCHED-OPEN
-- leads/GM-AM-002-mardiros-tashjian-hairenikt-mortsir-1909.md: NOT STARTED
+- leads/GM-AM-002-mardiros-tashjian-hairenikt-mortsir-1909.md: RESEARCHED-OPEN
 - leads/GM-AM-003-tashjian-brothers-himi-el-lrenk-1910.md: NOT STARTED
 - leads/GM-AM-004-mardiros-tashjian-himi-el-lrenk-1909.md: NOT STARTED
 - leads/GM-AM-005-tashjian-brothers-menk-bedk-e-grvenk-1910.md: NOT STARTED
@@ -55,7 +55,7 @@ Counting unit: one distinct lead/candidate file. Where a legacy ID is reused for
 - leads/GM-US-015-al-craver-sentenced-to-life-behind-grey-walls-1925.md: NOT STARTED
 - leads/GM-US-016-george-reneau-womans-suffrage-1925.md: NOT STARTED
 - leads/GM-ZA-001-sol-plaatje-nkosi-sikelel-iafrika-1923.md: NOT STARTED
-- candidates/GM-AM-001-pamp-vorodan-1916.md: NOT STARTED
+- candidates/GM-AM-001-pamp-vorodan-1916.md: RESEARCHED-OPEN
 - candidates/GM-FR-001-saint-saens-vengeance-at-last-1908.md: NOT STARTED
 - candidates/GM-IT-001-caruso-vesti-la-giubba-1904.md: NOT STARTED
 - candidates/GM-IT-002-verdi-si-vendetta-vocalion-1921.md: NOT STARTED
@@ -107,7 +107,7 @@ Counting unit: each consolidated catalogue ID IM-001 through IM-042. Duplicate s
 - IM-039: NOT STARTED
 - IM-040: NOT STARTED
 - IM-041: NOT STARTED
-- IM-042: NOT STARTED
+- IM-042: RESEARCHED-OPEN
 
 ## Baseline C — Soviet Film Music (5)
 
@@ -116,7 +116,7 @@ Counting unit: the five film-level targets named in the initial research plan. C
 - Aelita (1924) — projects/sovietfilm/research/aelita-1924.md: RESEARCHED-OPEN
 - Kosmicheskiy reys / Космический рейс (1935) — projects/sovietfilm/research/kosmicheskiy-reys-1935.md: NOT STARTED
 - Kin-dza-dza! / Кин-дза-дза! (1986) — projects/sovietfilm/research/kin-dza-dza.md: RESEARCHED-OPEN
-- The Mystery of the Third Planet / Тайна третьей планеты (1981) — projects/sovietfilm/research/mystery-of-the-third-planet.md: NOT STARTED
+- The Mystery of the Third Planet / Тайна третьей планеты (1981) — projects/sovietfilm/research/mystery-of-the-third-planet.md: RESEARCHED-OPEN
 - Stalker (1979) — projects/sovietfilm/research/stalker-1979-artemyev.md: NOT STARTED
 
 ## New-lead deduplication register
@@ -131,8 +131,10 @@ Only distinct, evidence-backed recording/cue objects admitted under the relevant
 | Insane Music | IM-044 | Bruce Jackson, Indiana Prison Songs reels 1–2 (1963) | Two distinct Smithsonian reel objects; not merged with the 1962 IM-013 accessions. | RESEARCHED-OPEN |
 | Insane Music | IM-045 | Bruce Jackson, “Field Recordings: Prison Songs,” FW-ASCH-7RR-1966 | Separate extant Smithsonian reel object; exact session/facility/date unresolved. | IN PROGRESS |
 | Insane Music | IM-046 | Ata Kak, *Obaa Sima* (1991–1994) | Seven-track home recording; self-taught/DIY production, approximately 50 self-released cassettes in Ghana in 1994; speed/master provenance remains open. | IN PROGRESS |
+| Insane Music | IM-047 | DKK / DKK Salidumay group, *Dong Dong Ay. Salidummay* (c. 1992) | Distinct one-cassette object listed in dissertation audiovisual bibliography and 2023 exhibition inventory; separate from IM-042 *Salidummay*. | IN PROGRESS |
 | Soviet Film Music | SF-ARM-001 | “Ara's Song” / «Արայի երգը», from «Прыжок через пропасть» | Three distinct Armenian Radio Archive objects under one cue family; keep separate until version comparison. | IN PROGRESS |
 | Soviet Film Music | SF-ARM-002 | *For the Sake of Honor* (1952), Edgar Hovhannisyan cue family | At least two separate Armenian Radio Archive entries with durations and conductor; film-print relationship unresolved. | IN PROGRESS |
+| Soviet Film Music | SF-ARM-003 | «Առաջին սիրո երգը» / *Song of the First Love* (1958) | Two separately catalogued 1958 “Love Song” objects with different performers/durations and Babajanian credit; original film-mix relationship unresolved. | IN PROGRESS |
 | Soviet Film Music | SF-GE-001 | «უკანასკნელი მასკარადი» / *The Last Masquerade* (1934) | National Archives of Georgia identifies preserved film-music recording and composer Grigol Kiladze; item provenance pending. | IN PROGRESS |
 | Soviet Film Music | SF-GE-002 | «არსენა» / *Arsena* (1937) | National Archives of Georgia identifies preserved film-music recording and composer Grigol Kiladze; item provenance pending. | IN PROGRESS |
 | Soviet Film Music | SF-TJ-001 | «Я встретил девушку» / *I Met a Girl* (1957) | Contemporary film publicity and specialist scholarship document a Tajikfilm musical and separate Tajik/Russian song versions; item-level audio provenance pending. | IN PROGRESS |
@@ -147,13 +149,13 @@ Only distinct, evidence-backed recording/cue objects admitted under the relevant
 
 | Project | Baseline leads advanced | New qualified leads added | Main blocker / next exact task |
 |---|---:|---:|---|
-| Grudge Mixes | 3 (GM-US-011, GM-US-014, GM-AM-001) | 2 | Compare the LOC cylinder transcript with other “Single Girl” witnesses; resolve Helen Paul's exact Columbia issue/matrix and recorded text. |
-| Insane Music | 2 (IM-013, IM-011) | 4 | Resolve ARSCH cassette/digital mix differences; map the source tapes for Ata Kak and verify speed/master lineage; continue the Indiana reel audit. |
-| Soviet Film Music | 2 (Kin-dza-dza!, Aelita) | 5 | Obtain item-level Georgia archive identifiers; resolve Armenian cue provenance; compare Tajik/Russian versions of *I Met a Girl*. |
+| Grudge Mixes | 5 (GM-US-011, GM-US-014, GM-AM-001 Helen Paul, GM-AM-001 Pamp/Vorodan, GM-AM-002) | 2 | Continue Armenian Columbia matrix/label research; compare the Tashjian version family and verify the exact text of each recording. |
+| Insane Music | 3 (IM-013, IM-011, IM-042) | 5 | Locate physical DKK cassettes/J-cards and compare IM-042 with IM-047; advance IM-036/038/039 and verify Ata Kak source-tape lineage. |
+| Soviet Film Music | 3 (Kin-dza-dza!, Aelita, The Mystery of the Third Planet) | 6 | Advance *Kosmicheskiy reys* and *Stalker*; request Armenian/Georgian item metadata and compare archive objects with original film versions. |
 
 ## Next exact work queue
 
-1. **Grudge Mixes:** research GM-AM-001 Pamp/Vorodan further and complete the remaining Armenian Columbia leads with matrix/label evidence; compare Sutton's A79 and A93 cylinder witnesses. Keep pre-1926 eligibility distinct from issue date and thematic fit.
-2. **Insane Music:** advance IM-036, IM-038, IM-039 and IM-042; compare ARSCH release versions and resolve Ata Kak's source-tape lineage.
-3. **Soviet Film Music:** advance *The Mystery of the Third Planet*, *Kosmicheskiy reys* and *Stalker*; request item-level provenance for Georgian and Armenian archive objects and compare *I Met a Girl* language versions.
+1. **Grudge Mixes:** continue the remaining Armenian Columbia leads and the international candidate list; compare Sutton's A79 and A93 cylinder witnesses and resolve exact matrix/label evidence. Keep pre-1926 eligibility distinct from issue date and thematic fit.
+2. **Insane Music:** advance IM-036, IM-038 and IM-039; find physical DKK cassette evidence for IM-042/047 and resolve Ata Kak's source-tape lineage.
+3. **Soviet Film Music:** advance *Kosmicheskiy reys* and *Stalker*; request item-level provenance for Georgian and Armenian archive objects and compare *I Met a Girl* language versions.
 4. Add qualified new leads in each project while maintaining the dedup register. Do not pad counts with contextual items or collection-level routes.
