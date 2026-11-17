@@ -159,3 +159,12 @@ The date conflict is material: do not collapse the 1987 catalogue/platform date 
 |---|---|---|---|---|---|---|---|---|
 | IM-043 | Copacabana clandestine cassette compilation (“A FITA”), 17-track Latin American protest programme | Concealed compartment in an apartment possibly used as a clandestine opposition safehouse; Copacabana, Rio de Janeiro, Brazil | Probably c.1975 (inferred from newest identified track); found 1984 | 50 identical unbranded cassettes reported; one cassette later digitised to CD | D, F — DIY/underground duplication and circulation | PARTIALLY VERIFIED | HIGH PRIORITY pending access/provenance | Peer-reviewed 2024 study documents the 50-copy cassette corpus, its 17-track programme and reported digitisation of one surviving copy. Makers unknown; intended distribution inferred; copies reportedly never circulated. Music was originally recorded elsewhere, so this is a compilation/duplication artefact, not resident-made safehouse music. No audio audition, author contact or rights clearance. See `research/copacabana-clandestine-cassette-im-043-2026-11-17.md`. |
 
+
+
+## J. Additional Indiana prison reel records (2026-11-17)
+
+| ID | Recording / corpus | Environment & place | Date(s) | Medium | Pathway | Status | Visibility | Detail |
+|---|---|---|---|---|---|---|---|---|
+
+| IM-044 | Bruce Jackson, Indiana Prison Songs (reels 1–2) | Indiana, USA; prison site not yet specified at item level | Reel 1 event note: 1963; reel 2 date not independently stated | Two 7-inch analogue open-reel tapes; CDR copies noted | G — prison recording environment | PARTIALLY VERIFIED | PROMISING | Smithsonian Asch Collection items FW-ASCH-7RR-4919 and FW-ASCH-7RR-4918 list track contents and performers Eugene Rhodes, Hank Ferguson, Billy Turpin and Charlie Bell. Reel 1 carries a 1963 Indiana recording note. Distinct from IM-013's 1962 Indiana prison accessions; exact facility and overlap unresolved. Archive prohibits duplication; listening/research only, publication permission required. No audio audition or rights clearance. See research/indiana-prison-songs-bruce-jackson-im-044-2026-11-17.md. |
+
