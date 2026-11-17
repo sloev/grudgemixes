@@ -12,7 +12,7 @@ Yaw Atta-Owusu, recording as Ata Kak, began recording his own songs around Decem
 The seven tracks combine rap, techno/electronic dance elements, highlife-style refrains and Twi-language lyrics. The page describes the rapping as among the earliest examples of Twi rap in the emerging Ghanaian hiplife period. The artist's official account says around 50 cassette copies were made and released in 1994, with about three believed sold; the rest were scattered among family and friends in Ghana and Canada.
 
 **Artist-authorised source / reissue notes:** https://atakak.bandcamp.com/album/obaa-sima  
-**Label history and release page:** https://www.empty-space.ch/work/arsch-arsch (not an Ata Kak source; do not use for this record)  
+**Contemporaneous reissue reporting:** https://ra.co/news/27656 ; https://www.okayafrica.com/awesome-tapes-from-africa-releases-ata-kaks-obaa-sima-lp/281881  
 **Contemporaneous reissue reporting:** https://ra.co/news/27656 ; https://www.okayafrica.com/awesome-tapes-from-africa-releases-ata-kaks-obaa-sima-lp/281881
 
 ## Version and provenance issues
