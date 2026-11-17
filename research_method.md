@@ -322,3 +322,16 @@ Seek an original Vocalion X-9560 pressing or high-resolution photographs of both
 - Submit exact title, performer, label and catalogue-number searches in Nichibunken's own form; ask whether the prospectus disc is catalogued under a variant title or outside the searchable subset.
 - Consult 演芸レコード発売目録 (KD1-E21) for Naramaru / 赤穂義士討入 / 赤穂義士伝討入 / 1645 / 1649; capture issue month, label and exact title.
 - Request label photos and matrix/runout for 1645 and 1649 from Nichibunken/Kushiro; keep 1853 separate unless a documented cross-reference appears.
+
+
+## 2026-11-17 — Royal 1645 / 1649 table-structure clarification
+
+A close read of 78MUSIC's “Nipponophone / Royal / American” page confirms that its Royal red-label/eagle section and its later Nipponophone 1–9000 catalogue are separate tables. Royal 1645 is listed as 吉田奈良丸, 赤穂義士討入, 浪花節, with 正面鷲; the separate Nipponophone table also has 1645 and lists 1649 as 赤垣源蔵（上）. Kushiro's inventory separately records Royal 1645 / 赤穂義士討入 (p.17 row 166) and Royal 1649 / 赤穂義士伝 (p.18 row 186). Do not merge the Nipponophone-table 1649 with the Kushiro Royal 1649. Keep Royal 1645, Royal 1649, Nipponophone 1649, and Royal 1853 as separate disc objects unless label/matrix evidence proves a crosswalk.
+
+Royal 1645 title/performer/company identity is now independently supported by 78MUSIC and the Kushiro inventory, but its issue/recording date, matrix, label image and recorded text remain unresolved. No candidate promotion and no READY FOR GROK item.
+
+### NEXT
+1. Consult KD1-E21 (演芸レコード発売目録, 1990) through a holding library or targeted reference lookup for Yoshida Naramaru, 赤穂義士討入, 赤穂義士伝, 1645 and 1649; record the exact advertised issue month, label and number, while remembering the catalogue was compiled from advertisements/company catalogues rather than checked against physical discs.
+2. Request label photographs and matrix/runout details for the separate Kushiro Royal 1645 and Royal 1649 objects; seek the Nichibunken prospectus item's own accession/OPAC crosswalk.
+3. Preserve the 1910 Naramaru II recording-career date as biography context only; do not assign it to either Royal disc.
+4. Keep Royal 1853 / 赤垣源蔵徳利の別れ and the 1914 Yamato On-ei Gishi no Uchiiri title/label evidence distinct from the Royal discs.
