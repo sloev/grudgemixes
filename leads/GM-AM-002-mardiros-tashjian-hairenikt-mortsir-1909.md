@@ -63,3 +63,14 @@ Proposed filename: `GM-AM-002_Mardiros_Tashjian_Hairenikt_Mortsir_Columbia_E531-
 ## Decision
 
 Retain as a B candidate for diasporic grievance and defiant remembrance. The catalogue identity, performer, 1909 session and substantial lyric text are supported by specialist museum research. The first verse is damaged and the proposed humanitarian fundraising use is speculative. No audio has been auditioned or downloaded by this research agent.
+
+
+## Research status audit (2026-11-17)
+
+The museum's full research article was rechecked against its item-specific discography and published text. It establishes Columbia E531/4084 as Mardiros Der Sarkis Tashjian's 1909 recording, paired with “Last Rose of Summer” E531/1199. The museum transcribes the surviving portion of the performance and explicitly notes that the physical disc condition prevented a reliable transcription of the opening verse. The song's refusal to abandon Armenia and Cilicia is supported by the published Armenian text and museum translation, while the museum's proposed relief-fundraising purpose remains speculation.
+
+The related 1910 Tashjian Brothers “Hairenikd Mortzir” on E659 is a separate three-voice performance, not this 1909 solo recording. It is retained as a version comparison only, not a separate new lead.
+
+**Status:** RESEARCHED-OPEN. Exact issue identity, recording year, paired side, partial recorded text, historical context and rights/access caveats have been reviewed. Remaining: exact matrix/take and label/runout, specialist review of the translation, and comparison of the damaged opening verse with printed songbook variants. No audio was auditioned and no reuse permission is claimed.
+
+Source: https://www.armenianmuseum.org/sound-archive/tashjian-story
