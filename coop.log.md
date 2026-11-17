@@ -90,3 +90,20 @@ Review READY FOR GROK queue in TRACK_MAPPING.md. No free archival downloads for 
 
 ### Handoff
 Continue source hunts for exact Vocalion and DAHR transfers for READY items. Do not invent downloads. For sovietfilm, continue extracting labeled film-mix cues as needed for mapping or seek owner-approved commercial reconstructions. Log any new READY FOR DRIVE items in the appropriate queue.
+
+
+## 2026-11-17 — ChatGPT — Iberian revenge-ballad lead and Tobe Little catalogue audit
+
+### Findings
+- Added GM-ES-001, María García's Asturian “La noche de Reyes,” from the Library of Congress WPA California Folk Music Project. The LOC identifies the 78 rpm field recording, two bands, Spanish language, Monterey recording date 19 January 1939, and explicitly tags the item “Revenge—Songs and music.” Its narrative is a father's retaliatory killing after alleged infidelity. This is **outside the pre-1926 core** and is retained only as a contextual lead and route to earlier ballad witnesses.
+- Re-audited GM-US-014 against the Smithsonian Ralph Rinzler Folklife Archives. The Asch Collection has a catalogue record for Tobe Little, “Chain Gang Song/The Prisoner's Song,” Okeh 40328, local number FW-ASCH-78-2569. The object is catalogued as a 7-inch 45 rpm archival carrier and access terms prohibit duplication; this is a restricted listening/reference lead, not a lawful copying route. Existing 1925 Okeh commercial identity remains separate from the later Asch carrier.
+- Updated the GM-US-014 dossier with the exact Smithsonian identifier and access restriction. No lyric transcription, audio audition, date promotion or rights change.
+
+### Files
+- Added `leads/GM-ES-001-maria-garcia-la-noche-de-reyes-1939.md`.
+- Updated `leads/GM-US-014-tobe-little-chain-gang-song-1925.md`.
+
+### Handoff
+Continue core-window discovery for earlier Iberian variants; obtain a lawful listening route for GM-US-014 and transcribe the actual performance before assigning a grievance stance.
+
+Sources: https://www.loc.gov/item/2017700908/ ; https://collections.si.edu/search/results.htm?fq=name%3A%22Distler%2C+Marian%22&q=%22Prisons%22
