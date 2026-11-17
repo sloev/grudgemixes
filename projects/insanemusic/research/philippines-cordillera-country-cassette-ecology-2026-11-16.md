@@ -146,3 +146,45 @@ Seek an itemised Abatan Records catalogue, original cassette sleeves/labels and 
 
 ### Limits
 The Inquirer report is secondary journalism and does not provide a tape catalogue. The Fong paper provides a scene/title map, not carrier authentication. No audio was accessed or auditioned, no cassette or VCD inspected, no artist/producer/label/archive contacted, and no rights or permissions cleared.
+
+## 2026-11-17 — UPCE Collections Portal item-level catalogue audit
+
+The UP Center for Ethnomusicology's public Collections Portal surfaced a concrete **1983 Bontok / Sadanga** cassette group, but not the target 1987 Kabayan Bendian audio corpus.
+
+### Exact audio catalogue records
+
+- **UPCE-A-10329** — old catalogue no. Bnt 49 1983 Side B; original format 1/8-inch compact cassette; E-format field says WAV/MP3; researcher Jose Maceda; Group/Country Bontok / Philippines; Year 1983. Track 1, “Senga – Continuation of sowe-ey,” Bontok, Sadanga, Mountain Province; Maceda (Sadanga 4, May 1983), annotated “dubbing from Helen Tejero’s Senga”; duration 19:42.
+- **UPCE-A-10331** — same Bnt 49 1983 Side B; track 3 “Ila-illalay” (v.), Bontok, Sadanga; same Maceda / May 1983 context; 0:52.
+- **UPCE-A-10332** — same Bnt 49 1983 Side B; track 4 “Salidommay” (v.); same context; 0:52.
+- **UPCE-A-10333** — same Bnt 49 1983 Side B; track 5 “Gangsa” (i.); same context; 2:30.
+- **UPCE-A-10340** — old catalogue no. Bnt 53 1983 Side A; original format 1/8-inch compact cassette; E-format WAV/MP3; researcher Mantosa; Group/Country Bontok / Philippines; Year 1983. Track 1 “Salidommay” (v.), Sadanga; duration 16:04. The description says it is a “dubbing from the tapes of…” but the public field is truncated.
+- **UPCE-A-10341** — same Bnt 53 1983 Side A; track 2 “Kwella (tinaroyod)” (v.), Bontok, Sadanga; 5:24; same truncated dubbing note.
+
+The catalogue pages show a digitised-format field, but no direct file URL or authorised download route. The separate UPCE Terms of Service expressly allow browsing the catalogue and viewing sample digital content while prohibiting copying, ripping, downloading, uploading and redistribution unless the Center expressly permits it. Do not treat WAV/MP3 in the metadata as a download entitlement.
+
+### What this does — and does not — establish
+
+These are item-level field-recording objects from Bontok/Sadanga in 1983. They are **not** the 1987 Ramon P. Santos Bendian Festival recordings from Kabayan, Benguet, nor the 1950s Sagada corpus. The catalogue's 1987 Kalinga results surfaced in this search were photographs (for example UPCE-P-8646, a slide of men playing gangsa), not the Kabayan audio objects. Do not merge Kalinga photo records, the 1983 Bontok cassettes, the 1987 Kabayan recordings or the 2025 SMSSI community archive.
+
+No specific outsider, DIY, psychiatric, institutional, closed-community or alternative-art pathway is established for the 1983 Bontok field recordings. They document a local musical tradition; unfamiliarity or Indigenous identity is not an outsider qualification. They remain a **contextual archive finding**, not a main-discography entry, and no IM-ID is assigned.
+
+### Revised catalogue/reference enquiry
+
+A narrowly scoped enquiry to UPCE can now quote UPCE-A-10329, 10331–10333 and 10340–10341 and ask:
+1. whether the 1983 Bnt 49 / Bnt 53 entries are original recordings, dubs or edited excerpts, and what “dubbing from Helen Tejero’s Senga” refers to;
+2. whether the 1987 Kabayan Bendian corpus and the 1950s Sagada corpus have item-level audio catalogue IDs, track titles, recordists, carrier data and community-approved description;
+3. what community review, access and reuse restrictions apply, including who controls each original and transfer.
+
+This is a reference/metadata request only. No request has been sent, no files requested, and no access beyond public catalogue pages claimed.
+
+### Sources
+- UPCE Collections Portal item UPCE-A-10329: https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10329
+- UPCE Collections Portal item UPCE-A-10331: https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10331
+- UPCE Collections Portal item UPCE-A-10332: https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10332
+- UPCE Collections Portal item UPCE-A-10333: https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10333
+- UPCE Collections Portal item UPCE-A-10340: https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10340
+- UPCE Collections Portal item UPCE-A-10341: https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10341
+- UPCE Collections Portal Terms of Service (last revised 22 October 2012): https://upethno.upd.edu.ph/collections-portal/
+- UPCE 2025 Sagada community archive account: https://upethno.upd.edu.ph/collection-and-recollection-recording-the-traditional-vocal-and-instrumental-repertoire-in-sagada/
+
+No audio played or downloaded, no physical carrier inspected, no archive/community partner contacted and no rights or permissions cleared.
