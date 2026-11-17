@@ -115,3 +115,20 @@ Advanced baseline lead GM-US-011. Smithsonian NMAH identifies a 1925 Okeh 40419 
 
 Updated leads/GM-US-011-riley-puckett-boston-burglar-1925.md with the alternate-version cross-check.
 Source: https://collections.si.edu/search/results.htm?fq=date%3A%221920s%22&fq=name%3A%22Okeh%22&q=%22Musical+instruments%22
+
+
+## 2026-11-17 — ChatGPT — Roba Stanley “Little Frankie” new candidate
+
+### Findings
+- Added GM-US-017, Roba Stanley and Bill Patterson's “Little Frankie,” Okeh 40436, matrix 8848.
+- Specialist Okeh matrix discography dates the matrix to December 1924 and places issue 40436 in the 1925 sequence.
+- The Library of Congress Pete Welding Collection finding aid lists the exact Okeh 40436 recording under Roba Stanley and Bill Patterson and supplies a short narrative excerpt. Charles Wolfe's scholarly account identifies it as a female-voiced “Frankie and Johnnie” variant in which Frankie kills Alvin after he wrongs her and is tried/acquitted.
+- Kept the date grade PROBABLE CORE DATE: matrix/session date is pre-cutoff, but exact issue date and source-to-master relationship need final verification. No listening, transcription, contact or rights clearance.
+
+### Files
+- Added leads/GM-US-017-roba-stanley-little-frankie-1925.md.
+- Updated RESEARCH_GRIND_PROGRESS.md (baseline 44 Grudge leads; new qualified lead GM-US-017).
+
+### Handoff
+Locate a label scan and DAHR/session corroboration for Okeh 40436/matrix 8848; request permitted LOC research access to the Pete Welding tape dub and transcribe the exact performance before final thematic promotion.
+Sources: https://www.78discography.com/OK40000.html ; https://findingaids.loc.gov/exist_collections/ead3pdf/afc/2021/af021010.pdf ; https://core.ac.uk/download/pdf/232565129.pdf
