@@ -1375,3 +1375,10 @@ No audio auditioned, no Drive files accessed, no contact made, and no rights cle
 1. If the owner approves sending archive enquiries, ask UPCE for the exact item-level inventory and provenance of the 1987 Kabayan Bendian corpus and 1950s Sagada recordings, plus the 1983 Bontok source-tape/dubbing crosswalk. Respect the 2025 SMSSI community archive's control and room-use-only UPCE copy.
 2. Continue identifying extant Abatan Records cassette editions and local-country releases by item-level title/performer/carrier; do not treat local-language music as outsider by default.
 3. Return to the non-prison global queue (IM-036/038/039 and Ata Kak source-tape lineage) without repeating completed DKK searches until physical J-card or tracklist evidence appears.
+
+
+## 2026-11-17 — Ōshima Seishōen harmonica-group testimony
+
+KSB's 4 Nov 2026 memorial report adds a resident recollection that Takashi Tōjō played in a harmonica group with fellow resident Matsumoto Tsuneji. The same page embeds a short April 2026 “こころ” excerpt; it is a public video/news page, not a direct audio download. This does not identify a group name, date, repertoire, surviving recording or new IM item. Keep it distinct from Tōjō's three personal CDs and the historical sanatorium-song corpus.
+
+**Next:** seek dated institutional programmes, newsletters, photographs or archive references for the harmonica group and determine whether any original resident-made recording survives. Continue the physical *こころ* booklet/tracklist and rights checks separately. No contact or file transfer made.
