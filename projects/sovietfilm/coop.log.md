@@ -200,3 +200,26 @@ MKM197 is a commercial film-music compilation with 30 listed tracks, including m
 ### Handoff
 Request item-level archive metadata for the three radio objects, verify the film's title/year from Armenfilm primary records and compare the objects only under permitted access.
 Sources: https://armradioarchive.am/en/song/arayi-ergy-trichk-andundi-vrayov-k-f-89 ; https://armradioarchive.am/en/song/arayi-ergy-trichk-andundi-vrayov-k-f-87 ; https://armradioarchive.am/en/song/arayi-ergy-trichk-andundi-vrayov-k-f-1914 ; https://acu.am/?page_id=9486&lang=ru
+
+
+## 2026-11-17 — Regional discovery batch: Armenian, Georgian and Tajik film music
+
+### New cue / film leads
+- SF-ARM-002 — For the Sake of Honor (1952): Armenian Radio Archive item pages identify “Death of Margarit” (2:07) and “Suspicion” (1:21), both attributed to Edgar Hovhannisyan and conductor Yevgeny Svetlanov. “Elizbarov's Crime” and “Song Without Words” also appear in the 1950s index. Film-print relationship and archive year semantics remain open.
+- SF-GE-001 — «უკანასკნელი მასკარადი» / The Last Masquerade (1934): National Archives of Georgia identifies preserved film-music recordings and credits Grigol Kiladze; item-level shelfmark, carrier and source relationship remain unavailable in the announcement.
+- SF-GE-002 — «არსენა» / Arsena (1937): the same Georgian archive announcement identifies this as a separate preserved film-music object by Kiladze. Kept distinct from SF-GE-001.
+- SF-TJ-001 — «Я встретил девушку» / I Met a Girl (1957): contemporary Смена publicity confirms the musical film and Andrei Babaev's songs; specialist scholarship documents Tajik/Russian lyric and vocal-version differences and the cross-republic production system. Exact Tajik title spelling, singer credits and surviving audio objects remain to be confirmed.
+
+### Existing lead advanced
+- Reviewed the Aelita case study against the cited 2024 scholarship and its contemporary/archival references. The original Kruchinin score's loss, surviving related piano piece, premiere accompaniment reports, later Ruscico substitution and open RGALI/press checks are explicit. Marked Aelita RESEARCHED-OPEN; the original RGALI document and direct press inspection remain dependencies.
+
+### Files
+- Added research/for-the-sake-of-honor-1952-sf-arm-002-2026-11-17.md.
+- Added research/last-masquerade-1934-sf-ge-001-2026-11-17.md.
+- Added research/arsena-1937-sf-ge-002-2026-11-17.md.
+- Added research/i-met-a-girl-1957-sf-tj-001-2026-11-17.md.
+- Added all four IDs to the progress register.
+
+### Handoff
+Obtain item-level Armenian Radio Archive IDs and exact original film credits; search the Georgian National Archives catalogue for the two Kiladze films and request phonorepository shelfmarks; compare the Tajik/Russian film versions and identify the original song performers. Do not assume any archive recording is the original film-print mix.
+Sources: https://armradioarchive.am/en/song/margariti-mahy-patvi-hamar-k-f ; https://armradioarchive.am/en/song/kaskatsank-patvi-hamar-k-f ; https://armradioarchive.am/en/genres/soundtrack/1950s ; https://www.archive.gov.ge/ge/news/erovnul-arqivshi-daculi-kinomusika-cifrul-matarebelzec-sheinaxeba ; https://smena-online.ru/stories/ya-vstretil-devushku ; https://eefb.org/retrospectives/soviet-politics-and-the-musicals-of-tajikistan/
