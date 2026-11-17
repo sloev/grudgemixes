@@ -139,3 +139,12 @@ The current Drive inventory has been reported as one 180-second film-mix excerpt
 3. Continue *Kosmicheskiy reys* and *Stalker* cue mapping from existing film-mix assets; do not count film-mix excerpts as isolated soundtrack tracks.
 
 **Collection metrics:** new candidate IDs this pass: 0; new READY FOR DRIVE: 0; new files uploaded/verified in Drive: 0. No audio was played, downloaded or uploaded; no permission was obtained.
+
+
+## 2026-11-17 — SF-TJ-001 Tajik-language source reconciliation
+
+Local-language sources now distinguish the Tajik film title «Ман бо духтаре вохӯрдам» from the song title «Дидам ҷамоле» and Russian song title «Я встретил девушку». Tillo Neqqadamov's 2019 Ministry of Culture research-institute book (pp.154–156) supports Andrei Babaev / Mirzo Tursunzade credits, gives both lyric versions, and says Rashid Behbudov first sang the song on stage and in the film. A 1957 letter reproduced in the book requests the film songs in Russian. Farah (31 May 2025) broadly corroborates Babaev/Tursunzade but discusses the tune's debated cultural origin; Sputnik Tajikistan (29 Jan 2022) attributes it to Ziyodullo Shahidi, an outlier not supported by the stronger local sources checked. Keep the credit discrepancy visible pending a score or primary production record. The film's vocal credit is still not settled because some secondary filmographies say Rauf Atakishiyev.
+
+The Tajik Writers Union's 18 Dec 2024 article documents Burhon Muhammadqulov performing “Дидам ҷамоле” with the Gulshan Estrada Orchestra. It does not identify a date or recording object. Added SF-AUD-007 as a separate later-performance lead, IDENTITY UNRESOLVED; no download route.
+
+**Next:** seek the film's original vocal/credit sheet and compare Tajik/Russian prints under lawful access; trace Gulshan / Tajik Radio performance logs or catalogue records for Muhammadqulov's later version. Keep it separate from the 1957 film mix and all later commercial performances. No audio access or file transfer.
