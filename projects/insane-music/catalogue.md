@@ -149,3 +149,13 @@ Detailed evidence, tracklists, adjacent leads and rights caveats: research/brazi
 | IM-042 | Salidummay / Salidumay, *Salidummay* (DKK) | Cordillera community cultural/activist music; Baguio City and northern Luzon highlands, Philippines | 1987 (2023 exhibition catalogue and platform metadata) / 1989 (ethnomusicology dissertation); unresolved | Cassette; current ten-track digital listing | F — marginal/under-documented community cultural scene | PARTIALLY VERIFIED | PROMISING / medium visibility | Ten-song cassette and album documented by dissertation and 2023 exhibition catalogue; current Spotify listing has ten tracks. First-cassette date conflicts (1987 vs 1989); platform master-to-cassette relationship unverified. The music is situated in Cordillera cultural activism and land/self-determination struggles. No audio audition, physical carrier inspection or rights clearance. See research/philippines-cordillera-salidummay-2026-11-16.md and environment-leads.md. |
 
 The date conflict is material: do not collapse the 1987 catalogue/platform date and the dissertation's 1989 first-cassette date. Do not describe salidummay as a uniform ancient pan-Cordillera genre; see the detailed dossier for local identity and cultural-context cautions. The 1992 *Dong Dong Ay. Salidummay* and 1995 *Salidumay. Elalay* remain leads, not separate IM IDs, pending item-level audio and edition verification.
+
+
+---
+
+## I. New recording-level lead (2026-11-17)
+
+| ID | Recording / corpus | Environment & place | Date(s) | Medium | Pathway | Status | Visibility | Detail |
+|---|---|---|---|---|---|---|---|---|
+| IM-043 | Copacabana clandestine cassette compilation (“A FITA”), 17-track Latin American protest programme | Concealed compartment in an apartment possibly used as a clandestine opposition safehouse; Copacabana, Rio de Janeiro, Brazil | Probably c.1975 (inferred from newest identified track); found 1984 | 50 identical unbranded cassettes reported; one cassette later digitised to CD | D, F — DIY/underground duplication and circulation | PARTIALLY VERIFIED | HIGH PRIORITY pending access/provenance | Peer-reviewed 2024 study documents the 50-copy cassette corpus, its 17-track programme and reported digitisation of one surviving copy. Makers unknown; intended distribution inferred; copies reportedly never circulated. Music was originally recorded elsewhere, so this is a compilation/duplication artefact, not resident-made safehouse music. No audio audition, author contact or rights clearance. See `research/copacabana-clandestine-cassette-im-043-2026-11-17.md`. |
+
