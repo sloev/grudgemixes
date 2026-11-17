@@ -335,3 +335,12 @@ Royal 1645 title/performer/company identity is now independently supported by 78
 2. Request label photographs and matrix/runout details for the separate Kushiro Royal 1645 and Royal 1649 objects; seek the Nichibunken prospectus item's own accession/OPAC crosswalk.
 3. Preserve the 1910 Naramaru II recording-career date as biography context only; do not assign it to either Royal disc.
 4. Keep Royal 1853 / 赤垣源蔵徳利の別れ and the 1914 Yamato On-ei Gishi no Uchiiri title/label evidence distinct from the Royal discs.
+
+
+## 2026-11-17 — Grok Waring retrieval reconciliation
+
+Grok's reported Waring's Pennsylvanians “Stack O'Lee Blues” download is now mapped as GM-US-019, a separate 1923 instrumental version witness. The exact discographic entry is Victor 19189-A, matrix 28665-5, Camden, 16 October 1923. Correct the earlier Grok log's “18 April 1923” date; the Internet Archive item URL and the 2026 *Jazz and Ragtime Records* source both point to 16 October. Grok reports an MP3 of about 4.8 MB / 3:32, while the specialist discography gives about 3:21; the transfer remains unverified. The first 1923 Waring/Westphal versions are instrumental fox trots, not vocal grievance narratives. Keep this as a context/version witness, not a new qualified lead, and do not mark FILE VERIFIED or infer reuse rights.
+
+### NEXT
+1. Continue the active Royal 1645/1649 KD1-E21 lookup and physical label/matrix crosswalk.
+2. When a Drive-capable agent provides a verifiable file/metadata inspection for GM-US-019, reconcile the 3:32 vs 3:21 discrepancy and confirm that the Drive copy matches Victor 19189-A / matrix 28665-5; do not ask for a new retrieval.
