@@ -267,3 +267,32 @@ Advance the Armenian archive cue family by capturing exact item pages and checki
 Ask the Armenian Radio Archive to define the displayed year field and supply item IDs, carrier/session dates and transfer history; establish whether the seven cues were used in the 1956 film and identify exact cue positions. No contact made.
 
 Sources: https://armradioarchive.am/en/genres/soundtrack/1950s ; https://armradioarchive.am/en/terms ; https://www.gatmuseum.am/hy/collection/cinema/kinofonder/276-kf3 ; https://www.irates.am/hy/1469508596 ; https://www.times.am/241249/
+
+
+## 2026-11-17 — ChatGPT — SF-TJ-001 Tajik-language song and version audit
+
+### Task claimed
+A bounded Tajik-language/Russian-language source pass on *Я встретил девушку* (1957), focused on exact title forms, credits, singer attribution and a distinct later local performance version.
+
+### Findings
+- Corrected the distinction between the film's Tajik title, «Ман бо духтаре вохӯрдам», and the signature song, «Дидам ҷамоле»; the Russian song title is «Я встретил девушку». The 2019 Tajik film-history book says production began in 1956 and the film appeared in 1957.
+- Tillo Neqqadamov's 2019 book from the Ministry of Culture's Research Institute of Culture and Information (pp.154–156) gives Andrei Babaev / Mirzo Tursunzade credits, prints the Tajik and Russian lyric forms, reproduces a 1957 letter requesting the film's songs in Russian, and says Rashid Behbudov first performed the song on stage and in the film.
+- Farah (31 May 2025) corroborates Babaev/Tursunzade while describing a debate about the melody's cultural origin and Babaev's contact with Ziyodullo Shahidi. Sputnik Tajikistan (29 Jan 2022) instead credits Shahidi with the melody. Preserve this outlier conflict; do not promote Shahidi to composer/co-composer without primary score or credit evidence.
+- Rauf Atakishiyev remains an alternative film-vocal attribution in secondary online filmographies; no original print or credit sheet was inspected. Rashid Behbudov is better supported by the local 2019 book and regional reporting, but the film vocal remains provisional.
+- Tajik Writers Union's 18 Dec 2024 article documents Burhon Muhammadqulov performing “Дидам ҷамоле” with the Gulshan Estrada Orchestra. It gives no performance date, carrier, session, or audio route. Added SF-AUD-007 as a later-performance lead, status IDENTITY UNRESOLVED, distinct from the film vocal.
+
+### Files
+- Updated SF-TJ-001 dossier.
+- Added SF-AUD-007 to audio-collection-queue.md.
+- Updated research_method.md and this log.
+
+### Collection metrics
+- New candidate/lead IDs: 1 (SF-AUD-007; later repertoire witness, not a verified recording).
+- New READY FOR DRIVE: 0.
+- Files uploaded and verified in Drive: 0.
+- Blocker: no item-level recording or direct audio route for the Gulshan performance; film vocal credits remain unresolved.
+
+### Handoff
+Seek a primary film credit sheet / print and a Tajik Radio or Gulshan programme/log for Burhon Muhammadqulov's “Дидам ҷамоле.” Preserve Tajik and Russian song versions, later Gulshan performance, and the 1957 film mix as separate objects. No listening, download, upload, contact or rights clearance.
+
+Sources: https://pitfi.tj/sites/default/files/Tillo.pdf ; https://farah-info.com/sahifai-asosy/farhang/filmi-man-bo-duhtare-vohurdam-chy-guna-sohta-shud/ ; https://navisandagan.tj/tj/нақши-созгор/ ; https://sputnik.tj/20220129/chorshanbe-surud-uslub-jadid-1045322028.html
