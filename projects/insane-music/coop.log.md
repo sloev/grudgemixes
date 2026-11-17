@@ -84,3 +84,15 @@ Source: https://doi.org/10.20504/opus2024.30.16
 ### Handoff
 Request archive metadata and permitted listening access; establish exact prison, session dates, CDR transfer provenance and which tracks were issued by Folk Legacy. Keep rights and access restrictions explicit.
 Sources: https://collections.si.edu/search/results.htm?q=%22Jackson%2C+Bruce+1936-%22 ; https://collections.si.edu/search/results.htm?fq=name%3A%22Folkways+Records%22&q=%22Prisons%22
+
+
+## 2026-11-17 — ChatGPT — IM-013 / IM-044 Indiana corpus boundary audit
+
+### Findings
+- Compared existing IM-013 (Bruce Jackson's 1962 Indiana State Prison tape accessions) with the newly identified Smithsonian Asch items FW-ASCH-7RR-4919 and FW-ASCH-7RR-4918.
+- The Smithsonian items have separate local numbers and list Indiana recordings from 1963 (explicitly dated on reel 1), with performers Eugene Rhodes and Hank Ferguson and track-level contents. They are not evidence that the 1962 accession dates or item identities in IM-013 are wrong.
+- Kept IM-013 and IM-044 separate. The exact facility and relationship between the 1962 and 1963 recording visits remain unverified; do not merge the repertoires or imply a single session.
+- Smithsonian access restrictions apply to the 1963 reel records: no duplication; research listening/viewing only; publication permission required.
+
+### Handoff
+For IM-013, continue item-level reconciliation of the original 1962 accession numbers against the Indiana University and Library of Congress catalogues. For IM-044, request the 1963 reel records and CDR transfer metadata. No audio was auditioned.
