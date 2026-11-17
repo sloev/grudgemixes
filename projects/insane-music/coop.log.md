@@ -182,3 +182,14 @@ Source: https://findingaids.loc.gov/exist_collections/ead3pdf/afc/2018/af018002.
 
 ### Handoff
 Establish the Berlin cassette's acquisition/duplication history, then compare the authorised 2015 and 2025 transfer versions. Keep the 1994 issue, 2015 Cape Coast copy, 2025 Berlin copy and degraded DAT separate.
+
+
+## 2026-11-17 — ChatGPT — IM-046 2025 release-note addendum
+
+A closer read of the official 2025 Bandcamp page adds two corrections to the source note. The label founder reports that during a later Kumasi visit he learned Ata Kak's brother had sold “quite a few” copies, and that people in Kejetia market remembered the songs at funerals and local dance parties. This conflicts with the artist's 2015 estimate of about three sales from an approximately 50-copy run; exact sales/distribution are now marked unresolved. The 2025 page also states that the original recording was made at a slower speed and that a slow-version download is included. It credits all songs to Yaw Atta-Owusu, states the reissue is under exclusive licence from him, and marks the page all rights reserved.
+
+Updated the IM-046 dossier, catalogue, environment-leads and research_method. No new ID. No audio auditioned. The earlier Ghanaian press searches were English-language site queries; no Twi-language query was run, so local-language documentation remains open.
+
+Source: https://atakak.bandcamp.com/album/obaa-sima-anniversary-remaster ; 2015 comparison: https://atakak.bandcamp.com/album/obaa-sima .
+
+Next: reconcile the two circulation accounts, establish the Berlin cassette's generation, compare 2015/2025 faster and slower presentations, and run a Twi-language/local Ghana source search.
