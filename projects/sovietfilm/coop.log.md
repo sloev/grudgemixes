@@ -240,3 +240,30 @@ Sources: https://armradioarchive.am/en/song/margariti-mahy-patvi-hamar-k-f ; htt
 ### Handoff
 Request item-level metadata for the Armenian Radio Archive objects and compare against the original film. For *The Mystery of the Third Planet*, identify the exact source/edition behind the 27-track listing and keep it distinct from the 1981 film mix and 2022 reconstruction.
 Sources: https://armradioarchive.am/en/song/erg-siro-masin-arajin-siro-ergy-k-f-97 ; https://armradioarchive.am/en/song/erg-siro-masin-arajin-siro-ergy-k-f-4824 ; https://armradioarchive.am/en/genres/soundtrack/sergey-davidyan ; https://armradioarchive.am/en/genres/soundtrack/1950s ; https://www.kinoafisha.info/en/movies/2086732/music/ ; https://wendemuseum.org/event/virtual-film-pick-mystery-of-the-third-planet/
+
+
+
+
+## 2026-11-17 — ChatGPT — SF-ARM-002 item-level cue and chronology audit
+
+### Task claimed
+Advance the Armenian archive cue family by capturing exact item pages and checking the film's original production date.
+
+### Findings
+- Corrected the film year: Armenian sources and the GAT Museum's 1956 director's-script record date «Պատվի համար» / *For the Sake of Honor* to 1956, not 1952.
+- Captured seven separate Armenian Radio Archive cue pages: “Death of Margarit” (2:07), “Suspicion” (1:21), “Elizbarov's Crime” (2:59), “Song Without Words” (2:36), “Waltz” (6:17), “Prelude” (4:33), and “Lyric Scene” (1:26). Six archive year fields say 1952 and one says 1953; all credit Edgar Hovhannisyan and Yevgeny Svetlanov.
+- This creates a material chronology conflict: the page labels say “from film,” but the archive years predate the 1956 film. Earlier stage/radio material, an archive year-field meaning or a misassociation remain possible. No explanation chosen.
+- Distinguished the separate 1955 Hrachya Nersisyan spoken performance of the drama from the music cue family.
+- Reviewed the Armenian Radio Archive Terms of Use (updated July 2026): public access is for personal non-commercial listening; research use beyond personal listening requires prior written permission; copying/downloading for redistribution is prohibited. No direct file route or permission.
+- Added SF-AUD-006 as IDENTITY UNRESOLVED; no READY FOR DRIVE entry.
+
+### Files
+- Updated SF-ARM-002 dossier with corrected film year, seven cue pages and access terms.
+- Added SF-AUD-006 to audio-collection-queue.md.
+- Updated RESEARCH_GRIND_PROGRESS.md and this project's research_method.md checkpoint.
+- Updated this log.
+
+### Handoff
+Ask the Armenian Radio Archive to define the displayed year field and supply item IDs, carrier/session dates and transfer history; establish whether the seven cues were used in the 1956 film and identify exact cue positions. No contact made.
+
+Sources: https://armradioarchive.am/en/genres/soundtrack/1950s ; https://armradioarchive.am/en/terms ; https://www.gatmuseum.am/hy/collection/cinema/kinofonder/276-kf3 ; https://www.irates.am/hy/1469508596 ; https://www.times.am/241249/
