@@ -18,13 +18,13 @@ SKIP = {"readme.md","methodology.md","method.md","workflow.md","agents.md",
 def status(raw):
     # Only explicit record-level status fields count. Do not infer readiness from
     # prose such as "no READY FOR DRIVE items" or agent instructions.
-    match = re.search(r"(?im)^\\s*(?:\\|\\s*)?(?:\\*\\*)?status(?:\\*\\*)?\\s*[:|]\\s*([^|\\n]+)", raw)
+    match = re.search(r"(?im)^\s*(?:\|\s*)?(?:\*\*)?status(?:\*\*)?\s*[:|]\s*([^|\n]+)", raw)
     if not match:
         return "Investigating"
-    value = re.sub(r"\\*+", "", match.group(1)).strip().casefold()
+    value = re.sub(r"\*+", "", match.group(1)).strip().casefold()
     if "reported in drive" in value:
         return "Reported in Drive"
-    if "in drive" in value and "listing verified" in value:
+    if "in drive (listed)" in value or ("in drive" in value and "listing verified" in value):
         return "In Drive (listed)"
     if "in drive" in value and "verified" in value:
         return "Done"
