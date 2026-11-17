@@ -120,3 +120,22 @@ Research must converge on specific tracks, not only film/composer context. Every
 Only agents with confirmed Google Drive and download capability should download/upload. They must place files in the designated `sovietfilm` folder, verify each upload in Drive, and record filename, Drive URL, source URL, format, size, duration, and checksum if available. A stream or catalogue listing is not a collected track. Do not bypass DRM or archive restrictions. Do not upload files where terms prohibit downloading. Personal research collection does not grant publication or redistribution rights.
 
 The current Drive inventory has been reported as one 180-second film-mix excerpt; that excerpt is useful but does not count as a complete soundtrack track. The collection remains an urgent gap. Each agent hand-off must report candidate count, ready-for-Drive count and verified-in-Drive count.
+
+
+
+
+## 12. Current research checkpoint — 2026-11-17
+
+### SF-ARM-002: Armenian archive cue family / «Պատվի համար»
+- The film is documented as **1956**, not 1952. The GAT Museum holds a 1956 director's script; Armenian retrospective sources also date the film to 1956 and attribute its music to Edgar Hovhannisyan.
+- Armenian Radio Archive has seven exact cue pages: “Death of Margarit” (2:07), “Suspicion” (1:21), “Elizbarov's Crime” (2:59), “Song Without Words” (2:36), “Waltz” (6:17), “Prelude” (4:33), “Lyric Scene” (1:26). Six page year fields say 1952; “Lyric Scene” says 1953. All credit Hovhannisyan and Yevgeny Svetlanov.
+- The date mismatch is unresolved. Do not label these as confirmed 1956 film-print cues until the archive defines its year field and item/session provenance is established.
+- The archive's July 2026 Terms of Use allow personal non-commercial listening but require prior written permission for research use beyond personal listening and prohibit copying/downloading for redistribution. No permitted research download route; queue status IDENTITY UNRESOLVED.
+- Separate 1955 Hrachya Nersisyan spoken drama-performance entry is not a musical cue.
+
+### Active queue
+1. Request Armenian Radio Archive item IDs, carrier/session dates, date-field definition, transfer history and evidence that the seven cue pages correspond to the 1956 film; no contact has been made.
+2. Continue Georgian National Archives item-level provenance for SF-GE-001/002 and compare the Tajik/Russian *I Met a Girl* versions, keeping each recording object separate.
+3. Continue *Kosmicheskiy reys* and *Stalker* cue mapping from existing film-mix assets; do not count film-mix excerpts as isolated soundtrack tracks.
+
+**Collection metrics:** new candidate IDs this pass: 0; new READY FOR DRIVE: 0; new files uploaded/verified in Drive: 0. No audio was played, downloaded or uploaded; no permission was obtained.
