@@ -85,3 +85,16 @@ Sources:
 **Soundtrack release and version history:** WELL-SUPPORTED for 2016 digital and 2022 reconstruction; original master reported lost.  
 **Listening analysis:** NOT YET DONE on a verified 1981 film print.  
 **Rights / access:** UNKNOWN (personal research copy only).
+
+
+## Research status advance — soundtrack listing and version warning (2026-11-17)
+
+A current Kinoafisha soundtrack page lists 27 named tracks attributed to the State Cinematography Symphony Orchestra of the USSR and Aleksandr Zatsepin, with individual titles and durations. This is useful as a cue-index discovery source, but the page does not identify the underlying release edition, carrier, master or transfer provenance. It is therefore not evidence that a complete original 1981 soundtrack album survives.
+
+The Wende Museum's 2020 film note independently identifies Zatsepin as composer and describes his electronic experimentation. It explicitly warns that the dubbed and re-edited official 1995 US release omits the original soundtrack. The existing research on the 2022 reconstruction continues to distinguish that project (score plus film stem, recreated synthesizer timbres) from the original film mix.
+
+**Status:** RESEARCHED-OPEN for the baseline film case. Composer credit, film identity, electronic production context, the reported loss of the original soundtrack master, the 1995 dub/re-edit distinction, the 2022 reconstruction and a 27-track secondary cue listing have been checked. Still open: exact source behind the 27-track listing; original cue sheet/score; original-film cue mapping; film-print/stem provenance and permitted audio comparison. No listening, copying or rights clearance is claimed.
+
+Sources:
+- Kinoafisha, 27-track music listing: https://www.kinoafisha.info/en/movies/2086732/music/
+- Wende Museum, “Virtual Film Pick: Mystery of the Third Planet”: https://wendemuseum.org/event/virtual-film-pick-mystery-of-the-third-planet/
