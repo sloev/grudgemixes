@@ -223,3 +223,20 @@ Sources: https://armradioarchive.am/en/song/arayi-ergy-trichk-andundi-vrayov-k-f
 ### Handoff
 Obtain item-level Armenian Radio Archive IDs and exact original film credits; search the Georgian National Archives catalogue for the two Kiladze films and request phonorepository shelfmarks; compare the Tajik/Russian film versions and identify the original song performers. Do not assume any archive recording is the original film-print mix.
 Sources: https://armradioarchive.am/en/song/margariti-mahy-patvi-hamar-k-f ; https://armradioarchive.am/en/song/kaskatsank-patvi-hamar-k-f ; https://armradioarchive.am/en/genres/soundtrack/1950s ; https://www.archive.gov.ge/ge/news/erovnul-arqivshi-daculi-kinomusika-cifrul-matarebelzec-sheinaxeba ; https://smena-online.ru/stories/ya-vstretil-devushku ; https://eefb.org/retrospectives/soviet-politics-and-the-musicals-of-tajikistan/
+
+
+## 2026-11-17 — ChatGPT — SF-ARM-003 and The Mystery of the Third Planet audit
+
+### Findings
+- Added SF-ARM-003, the 1958 Armenian film-song family from «Առաջին սիրո երգը» / *Song of the First Love*. Armenian Radio Archive identifies two separate 1958 “Love Song” objects: Sergey Davidyan (2:58) and Eduard Sergey Baghdasaryan (3:13), both composed by Arno Babajanian; the latter credits Hovhannes Ghukasyan for lyrics.
+- Kept the 1958 objects separate and did not merge them with the 1960/1963 archive entries under the same film title. No listening or film-print comparison was performed.
+- Advanced the baseline *Mystery of the Third Planet* case to RESEARCHED-OPEN. Added a 27-track online soundtrack listing with cue titles/durations as a discovery and track-index reference only; it does not establish an original album master. The Wende Museum independently describes the Zatsepin score and explicitly distinguishes the 1995 US re-edit from the original soundtrack.
+
+### Files
+- Added research/song-of-the-first-love-1958-sf-arm-003-2026-11-17.md.
+- Updated research/mystery-of-the-third-planet.md.
+- Added SF-ARM-003 to RESEARCH_GRIND_PROGRESS.md.
+
+### Handoff
+Request item-level metadata for the Armenian Radio Archive objects and compare against the original film. For *The Mystery of the Third Planet*, identify the exact source/edition behind the 27-track listing and keep it distinct from the 1981 film mix and 2022 reconstruction.
+Sources: https://armradioarchive.am/en/song/erg-siro-masin-arajin-siro-ergy-k-f-97 ; https://armradioarchive.am/en/song/erg-siro-masin-arajin-siro-ergy-k-f-4824 ; https://armradioarchive.am/en/genres/soundtrack/sergey-davidyan ; https://armradioarchive.am/en/genres/soundtrack/1950s ; https://www.kinoafisha.info/en/movies/2086732/music/ ; https://wendemuseum.org/event/virtual-film-pick-mystery-of-the-third-planet/
