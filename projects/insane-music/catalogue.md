@@ -50,7 +50,7 @@ This is a curation-balance list, not a change to the evidence or visibility rati
 | IM-010 | Pros and Cons Program, *Private Town*, *Paint in the Forest*, *Postcards from the County* | Grand Valley; Joyceville; Pittsburgh Institution, Ontario | 2017–2020 | Digital | G | VERIFIED (programme page) | PROMISING | — | environment-leads §3 |
 | IM-011 | ARSCH, *ARSCH* | Commune and barn studio, Bitsch, Valais, Switzerland | Released Dec 2020 from earlier reels | Cassette / digital | D, G | VERIFIED release; history uncorroborated | HIGH PRIORITY | Bandcamp responds | environment-leads §1 |
 | IM-012 | Sundin, Skarpe and Ternhag prison-song recordings (SVA BA97–100, BA722–723, BA758; Hinseberg BA1891) | Swedish prisons including Hall, Norrköping and Hinseberg | 1965–73 (Hinseberg 1973 or 1975, unresolved) | Reel-to-reel | G (prison) | VERIFIED corpus | HIGH PRIORITY (unissued items) | — | environment-leads §10 and correction |
-| IM-013 | Bruce Jackson, Indiana State Prison tapes (IU accessions 62-4-28, 62-6-18, 62-8-9; LOC AFC 2011/009 SR0730–SR0771) | Indiana State Prison, Michigan City | Mar–Jul 1962 | Reel-to-reel | G | VERIFIED | HIGH PRIORITY | — | environment-leads §14 (Indiana) and LOC audit |
+| IM-013 | Bruce Jackson, Indiana State Prison tapes (IU accessions 62-4-28, 62-6-18, 62-8-9; LOC AFC 2011/009 SR0730–SR0771) | Indiana State Prison, Michigan City | Mar–Jul 1962 | Reel-to-reel | G | VERIFIED | HIGH PRIORITY | — | environment-leads §14 (Indiana) and LOC audit; separate 1963 Smithsonian reels (IM-044) and a distinct Smithsonian 7RR-1966 object (IM-045) are not merged into this 1962 session. See research/indiana-prison-tapes-im-013-audit-2026-11-17.md |
 | IM-014 | Bruce Jackson, Texas prison-farm work songs (AFC 2011/009 SR0782, SR1040–1041, SR0706–0710; AFC 1965/011; AFC 1967/009) | Ellis, Wayne, Ramsey and Retrieve farms; Huntsville | 1964–66 | Reel-to-reel | G | VERIFIED | HIGH PRIORITY (item level) | — | environment-leads §17 |
 | IM-015 | Women's a cappella songs, Parchman (LOC field discs) | Mississippi State Penitentiary | 1936, 1939 | Instantaneous disc | G | VERIFIED | PROMISING (unissued sides) | — | environment-leads §4 |
 | IM-016 | Lomax, Lambert Camp recordings | Parchman | 1947–48 | Tape and disc | G | VERIFIED | CONTEXT ONLY (canonical) | — | log “environment-first discovery strategy” |
@@ -170,3 +170,10 @@ The date conflict is material: do not collapse the 1987 catalogue/platform date 
 
 **IM-013 boundary note (2026-11-17):** Do not merge the 1962 Indiana State Prison accession set with IM-044's separate Smithsonian 1963 reels. Different archive identifiers and event years are documented; the exact facility and relationship remain open. See the IM-013 / IM-044 boundary audit in `coop.log.md`.
 
+
+
+## K. Additional Indiana Bruce Jackson archival reel (2026-11-17)
+
+| ID | Recording / corpus | Environment & place | Date(s) | Medium | Pathway | Status | Visibility | Detail |
+|---|---|---|---|---|---|---|---|---|
+| IM-045 | Bruce Jackson, “Field Recordings: Prison Songs,” Smithsonian Asch item FW-ASCH-7RR-1966 | Indiana, USA; catalogue place field also lists Bloomington; exact facility unresolved | Unknown; “1966” is only the archive local-number suffix, not an established recording date | One 7-inch analogue sound-tape reel | G — prison recording environment | PARTIALLY VERIFIED | PROMISING | Distinct Smithsonian item with GUID https://n2t.net/ark:/65665/bk5d396d565-cc98-4438-8a00-db906c0380f2. Recorder Bruce Jackson; tracklist, performers, facility, date and relationship to the 1962/1963 Indiana reels remain unresolved. Confirm item-specific restrictions; do not infer the date from the local number. See research/indiana-prison-songs-im-045-2026-11-17.md. |
