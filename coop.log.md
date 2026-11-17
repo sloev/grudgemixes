@@ -51,3 +51,22 @@ Review READY FOR GROK queue and grudgemixes Drive subfolder. Prioritize only if 
 
 ### Handoff
 Continue source hunts for exact matching Vocalion and other archival transfers. Do not invent downloads or change statuses without evidence. Sovietfilm film-mix cue collection advanced in parallel.
+
+
+## 2026-11-17 — ChatGPT — Yoruba title/genre source check; no candidate promotion
+
+### Task
+Continue Grudge Mixes regional research by testing the unresolved Yoruba Zonophone 3963 title “ORIN OFO” against modern linguistic and ethnomusicological sources. Preserve the distinction between catalogue description and verified performed text.
+
+### Findings
+- Rechecked the specialist Afrodisc listing: Ladipo Solanke, Zonophone 3963, side X-4-42843, matrix Yy7461-1, recorded 7 December 1925; catalogue genre is “Lament.”
+- Added a peer-reviewed Yoruba-linguistics source: Sanusi and Aminu, “Negation as a Peculiar Grammatical Feature of Yoruba Incantations,” *Ihafa* 13/1 (2022), pp.25–45, which identifies Yoruba incantation as ọ̀fọ̀. This supports the existence of a potentially confusable incantatory form but does not identify the meaning of the 1925 recording's unmarked title.
+- Added a specialist glossary distinguishing ofò (incantation/invocation) and òfò (loss by death). Tone-marking and vowel quality must not be inferred from the unmarked catalogue transcription.
+- No lyric, original label, or item-level audio was located in this pass. Afrodisc's “Lament” remains a secondary catalogue description, not a transcript or independently verified translation.
+
+### Files updated
+- `research/african-early-recording-leads-1923-1925.md` — appended a dated source-check addendum; retained the C-level status and explicit no-translation caution.
+- `coop.log.md` — this entry.
+
+### Decision / handoff
+No candidate promotion, download, audio audition, or rights change. Keep the catalogue title as `ORIN OFO`; do not render it as “song of loss” or “incantation” without the actual performance and Yoruba specialist review. Next useful step is item-level audio/transcript retrieval, not more title-only speculation.
