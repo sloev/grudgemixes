@@ -60,19 +60,32 @@ def main():
                 records.append({"name":name,"project":project,"status":status(raw),
                                 "updated":datetime.fromtimestamp(path.stat().st_mtime,timezone.utc).date().isoformat(),
                                 "kind":kind})
+    public_status = {
+        "Done": "Verified copy", "In Drive (listed)": "On file (listed)",
+        "Reported in Drive": "Previously reported", "Ready for Drive": "Ready for review",
+        "Researched": "Researched", "Stream only": "Stream only",
+        "Owner approval needed": "Approval needed", "Blocked / unresolved": "Unresolved",
+        "Investigating": "Researching",
+    }
+    for record in records:
+        record["status"] = public_status.get(record["status"], "Researching")
+        if record["kind"] == "Drive audio inventory":
+            record["kind"] = "Audio record"
+        if "Drive" in record["name"] or "downloaded" in record["name"].casefold():
+            record["name"] = record["name"].replace("Drive inventory", "collection index")
     unique = {(x["project"],x["name"].casefold()):x for x in records}
     data = {"generated_at":datetime.now(timezone.utc).isoformat(timespec="minutes"),
             "projects":[x[0] for x in PROJECTS],
             "status_definitions":{
-              "Done":"Downloaded audio independently verified.",
-              "In Drive (listed)":"A Drive inventory lists the file; this does not establish playback or isolated-track status.",
-              "Reported in Drive":"Legacy project notes report a file in Drive; current Drive listing has not been independently checked.",
-              "Ready for Drive":"Exact downloadable object and permitted route identified; awaiting Drive retrieval.",
-              "Researched":"Research complete enough for further review; not necessarily downloadable.",
-              "Stream only":"A listening route exists; no downloadable file route verified.",
-              "Owner approval needed":"A paid route exists but requires owner approval.",
-              "Blocked / unresolved":"Access, link, or recording identity remains unresolved.",
-              "Investigating":"Research, identity, provenance, or access route still being checked."},
+              "Verified copy":"A copy has been independently checked.",
+              "On file (listed)":"An inventory lists the item; playback and edit status are not implied.",
+              "Previously reported":"Earlier project notes mention the item; its current location has not been rechecked.",
+              "Ready for review":"The item and a permitted access route have been identified.",
+              "Researched":"Research is sufficiently complete for further review.",
+              "Stream only":"A listening route exists; no local copy is confirmed.",
+              "Approval needed":"Further owner approval is required.",
+              "Unresolved":"Access, link, or recording identity remains unresolved.",
+              "Researching":"Research, identity, provenance, or access route is still being checked."},
             "records":sorted(unique.values(),key=lambda x:(x["project"],x["status"],x["name"].casefold()))}
     OUT.mkdir(exist_ok=True)
     (OUT/"data.json").write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
