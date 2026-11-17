@@ -69,3 +69,30 @@ Continue local-language and small-web discovery for overlooked marginal recordin
 ### Handoff
 Find the original cassette/J-card and tracklist, reconcile circa 1992 vs catalogue date, and seek an authorised item-level transfer through DKK / CPA / Dang A Dang Radio.
 Sources: https://www.academia.edu/105350613/Yoneno_Reyes_Dissertation_Salidummay ; https://www.savvy-contemporary.com/site/assets/files/9572/lakbayan_handout-2.pdf
+
+
+
+
+## 2026-11-17 — ChatGPT — UPCE Collections Portal item-level audit
+
+### Task claimed
+Advance the active UPCE catalogue-level reference enquiry for the Cordillera recording corpora, without contacting the archive or requesting files.
+
+### Findings
+- Located six exact 1983 Bontok/Sadanga cassette-side records: UPCE-A-10329 (“Senga – Continuation of sowe-ey,” 19:42; annotated as a dub from Helen Tejero's Senga), 10331 (“Ila-illalay,” 0:52), 10332 (“Salidommay,” 0:52), 10333 (“Gangsa,” 2:30), 10340 (“Salidommay,” 16:04; Mantosa) and 10341 (“Kwella / tinaroyod,” 5:24; Mantosa).
+- These are not the 1987 Kabayan Bendian recordings or the 1950s Sagada corpus. Search-index results for 1987 Kalinga were photographs, not the Kabayan audio records.
+- UPCE's portal Terms of Service allow catalogue browsing and sample viewing but prohibit copying, ripping, downloading, uploading or redistribution without express permission. WAV/MP3 in the e-format field is not a downloadable route.
+- No Insane Music admission: the 1983 field recordings document local tradition but no qualifying outsider/DIY, institutional or alternative-community pathway. No IM-ID assigned.
+
+### Files
+- Updated Cordillera cassette ecology dossier.
+- Updated environment-leads.md and catalogue.md with a contextual-only audit.
+- Added metadata-only UPCE request #13 to archive-requests.md.
+- Updated research_method.md checkpoint.
+
+### Handoff
+If owner-approved, send the UPCE metadata enquiry; otherwise continue item-level Abatan Records/cassette research. Keep community control, access terms and project-admission criteria separate.
+
+Sources: https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10329 ; https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10331 ; https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10332 ; https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10333 ; https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10340 ; https://collectionsportal.upethno.upd.edu.ph/index.php/items/details/UPCE-A-10341 ; https://upethno.upd.edu.ph/collections-portal/
+
+No audio auditioned or downloaded, no carrier inspected, no archive/community partner contacted and no rights cleared.
