@@ -1373,3 +1373,20 @@ Sources: https://atakak.bandcamp.com/album/obaa-sima-anniversary-remaster ; http
 - Establish the Berlin cassette's acquisition/duplication history and whether it is one of the original 1994 copies.
 - Compare 2015 and 2025 transfers, including the 2015 speed alternatives and track boundaries.
 - Keep recording, 1994 issue, 2015 transfer and 2025 transfer as separate events.
+
+
+## 2026-11-17 — IM-046 2025 release-note clarification
+
+A closer read of the official 2025 Bandcamp page adds two important qualifications to the source-copy update. First, Shimkovitz reports that during a later visit to Kumasi he learned that Ata Kak's brother had sold “quite a few” cassettes, and that people in Kejetia market remembered the songs at funerals and local dance parties. This conflicts with the artist's 2015 estimate that only about three of approximately 50 copies sold. The exact sales and circulation are unresolved; do not repeat the three-copy estimate as settled fact.
+
+Second, the 2025 page states that the original recording was made at a slower speed and that a slow-version download is included. It credits all songs as written/composed by Yaw Atta-Owusu and says the reissue is under exclusive licence from him, while marking the page all rights reserved. The Berlin source cassette remains a separate, generation-unknown copy; no audio comparison was performed.
+
+The bounded Ghanaian press searches were English-language site queries; no Twi-language query was run. Local-language documentation remains an open search gap.
+
+Source: https://atakak.bandcamp.com/album/obaa-sima-anniversary-remaster ; 2015 comparison: https://atakak.bandcamp.com/album/obaa-sima .
+
+### NEXT
+- Reconcile the artist's 2015 sales estimate with the 2025 label-founder account, without assigning an exact sales number.
+- Establish the Berlin cassette's generation and source history.
+- Compare the 2015 and 2025 faster/slower transfers; no listening claim until actually auditioned.
+- Run a separate Twi-language/local Ghana source search.
