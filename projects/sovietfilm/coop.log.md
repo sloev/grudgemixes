@@ -296,3 +296,17 @@ A bounded Tajik-language/Russian-language source pass on *Я встретил д
 Seek a primary film credit sheet / print and a Tajik Radio or Gulshan programme/log for Burhon Muhammadqulov's “Дидам ҷамоле.” Preserve Tajik and Russian song versions, later Gulshan performance, and the 1957 film mix as separate objects. No listening, download, upload, contact or rights clearance.
 
 Sources: https://pitfi.tj/sites/default/files/Tillo.pdf ; https://farah-info.com/sahifai-asosy/farhang/filmi-man-bo-duhtare-vohurdam-chy-guna-sohta-shud/ ; https://navisandagan.tj/tj/нақши-созгор/ ; https://sputnik.tj/20220129/chorshanbe-surud-uslub-jadid-1045322028.html
+
+
+## 2026-11-17 — ChatGPT — SF-TJ-001 primary-credit and film-version follow-up (START)
+
+### Task claimed
+A bounded follow-up on «Ман бо духтаре вохӯрдам» / «Я встретил девушку» (1957): seek a primary or near-primary film catalogue/credit source that can clarify the original Tajik vocal and the Russian-language re-recording. Check film/archive catalogues and contemporaneous press; preserve the distinction between the 1957 film soundtracks, later repertoire performances and commercial releases.
+
+### Scope and guardrails
+- Work only in the canonical sloev/grudgemixes project area on main; sloev/sovietfilm is read-only under its workspace redirect.
+- Do not infer the film vocal from later concert performance or from a generic song attribution. No new audio ID unless an exact recording object is identified.
+- No film print, audio transfer, archive contact, download, Drive operation or rights clearance will be claimed unless actually completed.
+
+### Expected output
+Either a source-backed, narrow dossier update with an explicit confidence statement, or a negative-search hand-off naming the exact catalogue/source route still needed.
