@@ -177,3 +177,8 @@ No audio audition, download, purchase, archive contact, rights clearance, public
 **Files changed:** `leads/GM-AM-005-tashjian-brothers-menk-bedk-e-grvenk-1910.md`; `research/japan-ako-gishi-yoshida-naramaru-royal-record.md`; `research/global-early-recording-map.md`; `research_method.md`; `coop.log.md`.
 
 **Next:** inspect the 1918/1989 Armenian songbook pages and match the 1910 master text; obtain primary catalogue/label/text evidence for the 1924/25 Hōsho Shiai recordings; continue the existing Royal 1645/1649 KD1-E21 crosswalk.
+
+
+## 2026-11-18 — ChatGPT — README snapshot addendum
+
+Appended a dated research snapshot addendum to README.md covering the GM-AM-005 B-grade upgrade, the new 1924/1925 Araki Mataemon rōkyoku C leads, and the absence of a new READY FOR GROK item. The original 2026-11-15 snapshot remains intact. No changes to TRACK_MAPPING.md or GROK_HANDOFF.md.
