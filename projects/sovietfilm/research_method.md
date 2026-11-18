@@ -167,3 +167,16 @@ The Tajik Writers Union's 18 Dec 2024 article documents Burhon Muhammadqulov per
 1. Advance the baseline *Stalker* case with cue-level primary evidence and keep Artemyev album/re-recording objects separate from the film mix.
 2. Obtain the 1961 catalogue pages 67–68 and the two 1936 newspaper pages; inspect the exact film print/technical passport before resolving original sound format.
 3. Compare the *Maftuningman* cue in a lawful film print against the RizaNova excerpt; locate original production score/credits to resolve Leviev/Burhonov/Ikrom Akbarov attribution.
+
+
+## 2026-11-18 checkpoint — Kyz-Zhibek 1969 newspaper access audit
+
+The Saryn article's cited “Сегодня на «Казахфильме»,” *Вечерняя Алма-Ата*, 23 January 1969, remains unlocated as a scan. A 2021 local newspaper-history article confirms the title was adopted when the city paper relaunched in early 1968. A National Academic Library PDF surfaced by search was a writer's biobibliography with a periodicals index, not an issue-holdings catalogue; discard it as an access route. No exact 1969 issue holding or scan was verified. Updated the SF-KZ-001 dossier; no cue, timecode, credit or audio status change.
+
+### NEXT — exact queue
+1. Request the 23 January 1969 *Вечерняя Алма-Ата* issue (article “Сегодня на «Казахфильме»”) from the National Library of Kazakhstan / Almaty municipal archive, and separately ask the Kazakhfilm archive for the relevant production music cue sheet or Gakku recording log. No contact made.
+2. Advance baseline *Stalker* with cue-level primary evidence; keep Artemyev album/re-recording objects separate from the original film mix.
+3. Obtain the 1961 *Kosmicheskiy reys* catalogue pages 67–68 and the two 1936 newspaper pages; inspect the original film print/technical passport before resolving sound format.
+4. Compare the *Maftuningman* cue in a lawful film print and locate the original score/production credits to resolve Leviev/Burhonov/Ikrom Akbarov attribution.
+
+No new READY FOR DRIVE item, no audio audition/download/upload, no contact and no rights clearance.
