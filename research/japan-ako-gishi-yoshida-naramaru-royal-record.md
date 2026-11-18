@@ -489,3 +489,46 @@ Sources:
 - NDL service explanation (remote copies are paid and require registration): https://ndlsearch.ndl.go.jp/help/about
 
 No book pages were consulted, no Naramaru entry was found, no carrier/label/matrix inspected, no audio played or downloaded, no archive contacted and no rights cleared.
+
+
+## 2026-11-18 — Araki Mataemon / Hōsho Shiai: new 1924–25 rōkyoku objects
+
+A bounded Japanese-language catalogue pass located two distinct pre-1926 rōkyoku recording objects for the Araki Mataemon / 奉書試合 episode, plus a separate undated multi-part Kotomaru issue. Keep these apart from the Yoshida Naramaru / Akō Gishi objects above.
+
+### 1. Tenchūken Ungetsu — Nipponophone 15319-A/B (1924)
+
+- 78MUSIC's Nipponophone/Royal catalogue lists 「奉書仕合 荒木又右衛門（上）」 and 「奉書仕合 荒木又右衛門（下）」, performer 天中軒雲月 (Tenchūken Ungetsu), catalogue sides 15319-A/B, genre 浪花節, new-record year 1924 (month unspecified).
+- This is an exact two-part title/performer/number/date lead, but this pass found no institutional item page, matrix/runout, label image, or direct audio route.
+- Date confidence: **B — probable 1924 issue**, based on the specialist catalogue's explicit year; recording/fixation date remains unknown.
+- Thematic grade: **C — LEAD**. The story-cycle context is revenge, but the specific “Hōsho Shiai” episode's spoken/sung text has not been established. Do not infer that this is the Kagiya-no-Tsuji revenge scene.
+
+### 2. Miyagawa Shōan — Asahi / Tsurumark 284 (1925)
+
+- CiNii Books record BB17500519 identifies 「荒木又右衛門 : 奉書試合 : 浪花節」, performer 宮川松安 (Miyagawa Shōan), publisher アサヒ蓄音器商會, Tsurumark (ツル印), catalogue no. 284, SP record, Japanese lyrics. Nichibunken is the holding institution; its Rōkyoku SP archive item is reg=521435.
+- The specialist 78MUSIC Tsurumark table lists 「荒木又右衛門」 / 宮川松安 / 284- / 1925 / 浪花節 under the Asahi Chikuonki Shokai Tsurumark red/black section. This is a strong title/performer/catalogue/date crosswalk to the CiNii record's more specific subtitle.
+- CiNii lists two Nichibunken holdings (Morikawa collection call numbers //04706 and //07427; material IDs 005214358 and 005444971). The RSP item URL is https://kutsukake.nichibun.ac.jp/rsp/?reg=521435; automated retrieval returned 403 in this pass, so no audio, duration, transfer details or access-rights status was verified.
+- Date confidence: **B — probable 1925 issue** from the specialist catalogue's explicit new-record year; no session date established.
+- Thematic grade: **C — LEAD** pending episode text. The 1910 National Theatre Digital Library page identifies a film titled 『荒木又右衛門奉書試合』 and says the Iga-Ueno revenge duel is the climax of the Araki Mataemon story; it does not establish that the 1925 record narrates that climax.
+
+### 3. Naniwaya Kotomaru — Nipponophone 1747 / Royal Record 1748 (undated)
+
+- CiNii BB17344945 identifies 「荒木又右衛門 : 浪花節」, performer 浪花家小虎丸 (Naniwaya Kotomaru), publisher Nipponophone, one 26 cm SP disc, Japanese lyrics. Its notes specify upper side Nipponophone 1747 and middle side Royal Record 1748.
+- 78MUSIC separately lists a broader sequence: 「荒木又右衛門（上）」 1747, 「（中）」 1748, 「（下）」 1749, all by Naniwaya Kotomaru. Do not assume the one-disc CiNii object contains all three parts.
+- Issue date is [19--] / unverified; do not count it in the pre-1926 core. It is a separate performance/issue from both 15319-A/B and Tsurumark 284.
+
+### Story and thematic control
+
+The Tottori City History Museum's 2015 catalogue states that on 7 November 1634 Watanabe Kazuma and Araki Mataemon killed Kawai Matagorō in revenge for the killing of Kazuma's brother-in-law Genta. The Japan Arts Council's Cultural Digital Library likewise describes the Iga-Ueno Kagiya-no-Tsuji vendetta and says it is the climax of the Araki Mataemon story; it also dates a film titled 『荒木又右衛門奉書試合』 to 1910. These sources establish the larger revenge-cycle context and the episode title's early circulation, **not** the exact contents of the 1924/1925 sound recordings. Keep all three as C leads until a text, synopsis or audio transcript ties the specific recorded passage to a grievance/retaliation mechanism.
+
+A useful post-cutoff control: 78MUSIC lists a separate 1927 Taihei four-part set 「荒木又右衛門（上野仇討）」 by Ueda Gomanraku, nos. 4017–4020. Its subtitle explicitly names the Ueno revenge, but its 1927 issue is outside the pre-1926 core. Do not merge it with the 1924/1925 Hōsho Shiai records.
+
+Sources:
+- 78MUSIC, Tsurumark / Asahi table (no. 284, 1925): https://78music.jp/other4.html
+- 78MUSIC, Nipponophone / Royal table (15319-A/B, 1924; 1747–1749; 1927 Taihei control): https://78music.jp/other5.html
+- CiNii BB17500519, Miyagawa Shōan / Tsurumark 284: https://ci.nii.ac.jp/ncid/BB17500519
+- Nichibunken RSP item 521435: https://kutsukake.nichibun.ac.jp/rsp/?reg=521435
+- CiNii BB17344945, Naniwaya Kotomaru / Nipponophone 1747–Royal 1748: https://ci.nii.ac.jp/ncid/BB17344945
+- Tottori City History Museum, 2015 catalogue: https://www.tbz.or.jp/yamabikokan/publication/791/
+- Japan Arts Council, Cultural Digital Library, “Araki Mataemon and films”: https://www2.ntj.jac.go.jp/dglib/contents/learn/edc16/iga/etc/tv/movie.html
+
+No record was auditioned or downloaded, no direct audio/download URL was found, no archive was contacted and no rights were cleared. No Grok request.
