@@ -2193,3 +2193,38 @@ Source: KSB, “歌手・沢知恵さんがハンセン病療養所『大島青�
 **Evidence boundary:** this establishes a resident-reported harmonica-group activity, not the group's name, membership beyond the witness, date range, repertoire, rehearsal/recording venue, surviving tape or a particular recording. Do not infer a group recording exists. Keep the harmonica activity separate from Tōjō's 2003, 2021 and 2026 personal CDs and from Sawa's historical sanatorium-song research. No new IM-ID assigned.
 
 **Next:** look for a historical programme, photograph, newsletter, institutional archive or named resident testimony that dates the harmonica group and identifies any surviving recordings. Any request to Sawa/Como Esta or Ōshima Seishōen should remain a metadata-first, consent-sensitive enquiry; no contact made.
+
+
+---
+
+## IM-036 — Ōshima Seishōen / Takashi Tōjō — 2026-11-18 research update
+
+The three-CD lineage is now reconciled as three distinct releases by the same resident singer, not three separate leads:
+
+- **生かされて (2003):** the 2019 Japan Medical Women’s Association profile reports an 11-song hymn collection made with singer-songwriter Tomoe Sawa; it also notes a 2015 remastered edition. The profile documents Tōjō’s own voice and the album’s collaboration context.
+- **この道 (2021):** the 21 Jan 2021 project update describes a five-track CD, with Sawa on piano and chorus and Tōjō singing. It is a resident-led collaborative recording, not a solo unaccompanied document.
+- **こころ (2026):** KSB’s 29 Apr 2026 report documents the third CD, produced by Sawa, and names at least “こころ” and “君といつまでも.” It does not provide a complete tracklist. The current Como Esta order page lists all three physical CDs; this establishes a purchase route, not permission to reuse audio.
+
+KSB’s 4 Nov 2026 memorial report confirms Tōjō’s death at age 96 and records a fellow resident’s recollection that he performed with a harmonica group. This is evidence of a group-performance context, **not** evidence of a distinct surviving group recording. No group name, date, repertoire, carrier or transfer is identified. Keep the harmonica group separate from the three Tōjō/Sawa CDs and do not create a new lead for it without an exact extant recording.
+
+**Rights and access:** the 2021 crowdfunding page explicitly states that the master rights for *生かされて* belonged to Tōjō. It does not resolve the rights chain for *この道* or *こころ*. The current order page is not a licence. No CD was purchased, no audio was auditioned or downloaded, and no contact or permission request was made. The 2003, 2021 and 2026 releases are now sufficiently researched for **RESEARCHED-OPEN** status, with the full 2026 tracklist, harmonica-group object and posthumous rights chain still open.
+
+Sources checked 2026-11-18:
+- Japan Medical Women’s Association, “温故知新インタビュー番外編 大島青松園訪問” (11 Dec 2019; updated 5 Oct 2022): https://www.jmwa.or.jp/post/%E6%B8%A9%E6%95%85%E6%96%B0%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC05
+- KSB, “95歳の現役歌手がCDを制作…” (29 Apr 2026): https://news.ksb.co.jp/article/16531366
+- KSB, “歌手・沢知恵さんがハンセン病療養所『大島青松園』でコンサート…” (4 Nov 2026): https://news.ksb.co.jp/article/17021393
+- RSK, “ハンセン病療養所『大島青松園』の95歳…” (20 Jun 2026): https://newsdig.tbs.co.jp/articles/rsk/2727313
+- Como Esta, current CD order information: https://comoesta.co.jp/contact
+- Campfire, 21 Jan 2021 project update and master-rights note: https://camp-fire.jp/projects/271521/view/activities/235117
+
+## IM-048 — *Viajar – Ida e Volta no Caminho do Inconsciente Poético e Musical* (Santo André, Brazil, 2002)
+
+**Research status:** RESEARCHED-OPEN; qualified new lead; one CD-level object.
+
+The contemporary *Diário do Grande ABC* report of 13 Jan 2002 documents a nine-track CD made within Santo André’s psychosocial-care network with support from the municipal Health Secretariat. The lyrics were written by music-workshop students during 1999; regional artists volunteered new arrangements and selected songs to perform. The named performers include Vasco Faé (“Coração de Pedra”), Fegato (“Sopa de Sapato”), Renê de França (“Cadeiras e Cadeias”), Mônica Marsola (“Meu Sol”), Kléber Albuquerque (“Vem Menino”), Fábio Vieira (“Retirante”), Uafro (“Qual é a Sua Mau Elemento”), and Jefferson Sooma with the CAPS-DQ choir (“Viajar”); “Vento Esperando” is listed with K.Ram.K.
+
+This is a **mixed authorship/performance** object: workshop participants authored the lyrics, volunteer musicians performed most of the arrangements, and the CAPS-DQ choir is explicitly credited on the title track. It is not accurate to call all nine tracks resident-performed. The article says the CDs were distributed to Secretariat-registered entities and that other associations could contact the Secretariat to obtain a copy. No current physical CD, digital transfer, label, current custody record or rights chain was located. The nine tracks remain one CD lead, not nine separate additions.
+
+**Next exact action:** with owner approval, ask the current Santo André Health Secretariat/CAPS-DQ records route whether a CD/master survives, where it is held, and whether a tracklist/credit sheet, lyric-author list and rights documentation exist. No contact or permission request was made.
+
+Source checked 2026-11-18: Gislaine Gutierre, “Arte favorece inclusão social no ABC,” *Diário do Grande ABC*, 13 Jan 2002: https://www.dgabc.com.br/Noticia/108256/arte-favorece-inclusao-social-no-abc
