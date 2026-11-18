@@ -68,3 +68,27 @@ The evidence does **not** support the earlier simplification that track 9 versus
 ## Next task
 
 Seek physical-package scans or a label/rights-holder discography to resolve the ELCD 012 / Milan release crosswalk; continue to keep all album reworkings separate from the original film-mix soundtrack. Search for an authorised direct download only if the rights-holder or licensed retailer identifies the exact master and terms.
+
+
+## 2026-11-18 cue-level advance — Artemyev's first-person account
+
+A first-person account by Eduard Artemyev, published from Maya Turovskaya's 1991 book and transcribed by Nostalghia, supplies the strongest cue-level evidence found in this pass. Artemyev says Tarkovsky liked the final film theme that appears in **Stalker's dream and in the opening titles**. The final version used synthesizer timbres (he compares the spatial sound to a tampura-like resonance) with **tar and flute**. During dubbing, Tarkovsky selected only one episode from roughly ten musical episodes.
+
+The same account separates the rejected first attempt from the final film score: Artemyev first tried a 14th-century Catholic chant, **“Pulcherrima Rosa,”** in a four-hour session; Tarkovsky rejected that version. Do not treat this chant prototype as a cue in the final 1979 film print. It is a separate compositional experiment.
+
+### Object boundaries
+
+1. **1979 film-print audio:** the final theme in Stalker's dream and the opening titles. Exact timecode and start/end points remain unverified.
+2. **Rejected prototype:** “Pulcherrima Rosa,” a discarded first attempt, not established as present in the released film.
+3. **Later album/re-recording objects:** including the separately catalogued “Сталкер: Медитация” item (SF-AUD-005). The interview does not equate that later recording with the film-print cue.
+
+Mosfilm's official film page currently lists a 2025 4K restoration, 163 minutes, mono, and a viewing route. This is a useful authorised film-print route, but the page does not establish that the restoration's audio is byte-identical to the original 1979 release. No playback or audio audition was performed.
+
+**Baseline status: RESEARCHED-OPEN (2026-11-18).** The composer interview, official film record, cue placement, recording palette, rejected prototype, version boundaries, access route and rights limitations have been checked as far as reasonably available. Remaining unknowns: exact cue timecodes in an authorised print; whether the 2025 restoration preserves the original 1979 mono mix; original score/cue-sheet or dubbing records; exact mapping, if any, between the film cue and later album tracks; current rights and permitted research-copy terms.
+
+**Next action:** inspect the official Mosfilm viewing copy without copying it, log the dream/opening-title cue timecodes, and seek the original 1979 score, cue sheet or dubbing/session documentation. Keep SF-AUD-009 separate from SF-AUD-005.
+
+### Sources (accessed 2026-11-18)
+
+- Eduard Artemyev first-person account, from Maya Turovskaya's 1991 book: https://www.nostalghia.com/TheTopics/TheMusicofStalker.html
+- Official Mosfilm film page, 2025 restoration: https://www.mosfilm.ru/cinema/films/stalker/

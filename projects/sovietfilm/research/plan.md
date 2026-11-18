@@ -113,3 +113,20 @@ Add this as one cue-family research target, not as a soundtrack album. The 2014 
 The film is identified as a 1958 Uzbekfilm musical comedy by Shaxs.uz and in the TelecomTV Milliy catalogue. A RizaNova video title says the song is from the film, but the video page did not load; do not infer that it is the original film mix. The film-print cue, later video excerpt and any standalone soundtrack release must remain separate objects. See the SF-UZ-001 dossier and SF-AUD-008 queue row.
 
 **Next:** inspect a lawful film print; locate original production score/cue sheets and recording credits; establish whether a separate soundtrack release exists; compare the film mix to the later excerpt. No listening, download, purchase or rights clearance was performed in this pass.
+
+
+## 2026-11-18 regional cue addition — Kazakhstan
+
+### SF-KZ-001 — «Гәкку» in «Қыз Жібек» (1970)
+
+Qualified one new Kazakh SSR film-song cue: the vocal Gakku performance attributed to Munira Izhánova, reportedly recorded in 1969 for the 1970 Kazakhfilm print. The singer's 2014 interview, a 2026 El.kz article, official Kazakhfilm pages and a 2026 Saryn study support the cue identity. Keep it distinct from Tlendiev's instrumental «Аққу» (Akku), which Kazakhfilm identifies as the film's musical symbol. No standalone soundtrack release or authorised print access was identified; the exact timecode, later dubs and any re-recordings remain open. See research/kyz-zhibek-1970-gakku-sf-kz-001-2026-11-18.md and audio-collection-queue items SF-AUD-010.
+
+### Existing baseline advance — Stalker
+
+Artemyev's first-person account locates the final theme in Stalker's dream and the opening titles and distinguishes the rejected “Pulcherrima Rosa” prototype from the released film cue. The official Mosfilm page lists a 2025 4K mono restoration; exact cue timecodes and 1979/2025 mix identity remain unverified. See research/stalker-1979-artemyev.md and SF-AUD-009. The later “Сталкер: Медитация” item SF-AUD-005 remains a separate album/re-recording object.
+
+### Next exact tasks
+
+1. Inspect an authorised Mosfilm viewing copy to timecode the Stalker dream/opening-title theme; compare the 2025 mono restoration with the original 1979 mix and seek score/cue-sheet evidence.
+2. Locate the 23 January 1969 *Vechernyaya Alma-Ata* item cited by the Saryn study; obtain authorised access to the Kazakh-language Kyz-Zhibek print and timecode Gakku.
+3. Continue regional discovery beyond Kazakhstan and advance the remaining baseline targets with cue-level print evidence; keep soundtrack releases, reconstructions and later dubs separate.

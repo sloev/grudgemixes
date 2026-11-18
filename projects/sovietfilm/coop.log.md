@@ -383,3 +383,27 @@ Bounded scope for this pass:
 - **Soviet Film Music:** advance baseline *Stalker*; qualify one new Kazakh SSR film-song cue.
 
 No audio audition, download, purchase, archive contact, rights clearance, public-tracker edit or publication is authorised or claimed in this pass.
+
+
+## 2026-11-18 — balanced batch completed
+
+### Existing baseline advanced: Stalker (1979)
+
+- Added cue-level first-person evidence from Artemyev's 1991 account: final theme in Stalker's dream and opening titles; synthesizer, tar and flute; roughly ten music episodes reduced to one selected episode during dubbing.
+- Separated the rejected “Pulcherrima Rosa” prototype from the released film cue and kept the later “Сталкер: Медитация” album/re-recording object separate.
+- Official Mosfilm page lists a 2025 4K, 163-minute, mono restoration and a viewing route. No playback, audio audition or download; exact cue timecodes and 1979/2025 audio identity remain open.
+- Baseline status changed to RESEARCHED-OPEN. Remaining: authorized print inspection, cue timecodes, original score/cue sheet, exact later album mapping and rights.
+
+### New qualified regional lead: SF-KZ-001
+
+- Added the vocal song «Гәкку» in «Қыз Жібек» (1970), attributed to Munira Izhánova and reportedly recorded in 1969. The 2014 singer interview, 2026 El.kz article, official Kazakhfilm pages and 2026 Saryn article support the cue identity.
+- Explicitly separated Gakku from Tlendiev's instrumental «Аққу» (Akku). No standalone soundtrack release, authorized film stream or item-level print access was verified; no cue timecode or dub comparison. Status IN PROGRESS.
+- Added separate audio-queue objects SF-AUD-009 (Stalker film-print cue; STREAM ONLY) and SF-AUD-010 (Kyz-Zhibek film-print cue; IDENTITY UNRESOLVED). Neither is counted as an additional new lead.
+
+### Next exact tasks
+
+1. Timecode Stalker's final theme in an authorized Mosfilm viewing copy; compare the 2025 restoration with the original 1979 mono print and locate score/cue-sheet documentation.
+2. Locate the 23 January 1969 *Vechernyaya Alma-Ata* item cited by the Saryn study and obtain authorized access to the original Kazakh-language Kyz-Zhibek print.
+3. Continue regional discovery and advance the remaining baseline targets; preserve film-print audio, soundtrack releases, re-recordings, reconstructions and later dubs as separate objects.
+
+No audio assets were modified; no purchase, download, contact, permission or rights clearance was made. No public tracker was changed.
