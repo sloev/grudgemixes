@@ -7,8 +7,8 @@
 ## Completion condition
 
 - Baseline leads: **91** (Grudge Mixes 44; Insane Music 42; Soviet Film Music 5).
-- Cumulative distinct qualified new leads added: **13** (Grudge Mixes 2; Insane Music 5; Soviet Film Music 6).
-- Baseline leads with researched status: **11 / 91**.
+- Cumulative distinct qualified new leads added: **16** (Grudge Mixes 3; Insane Music 6; Soviet Film Music 7).
+- Baseline leads with researched status: **15 / 91**.
 - Stopping condition: **NOT MET**. Continue until all 91 baseline leads are RESEARCHED-OPEN or RESEARCHED-CLOSED and at least 91 qualified new leads have been added.
 
 A lead is “researched” when identity, chronology/version, provenance/context, access/rights and next actions have been checked as far as available evidence allows. RESEARCHED-OPEN is valid when unresolved questions or external dependencies remain explicit. It does not mean all issues are resolved.
@@ -19,8 +19,8 @@ Counting unit: one distinct lead/candidate file. Where a legacy ID is reused for
 
 - leads/GM-AM-001-helen-paul-tzain-ma-hunchetz-1918.md: RESEARCHED-OPEN
 - leads/GM-AM-002-mardiros-tashjian-hairenikt-mortsir-1909.md: RESEARCHED-OPEN
-- leads/GM-AM-003-tashjian-brothers-himi-el-lrenk-1910.md: NOT STARTED
-- leads/GM-AM-004-mardiros-tashjian-himi-el-lrenk-1909.md: NOT STARTED
+- leads/GM-AM-003-tashjian-brothers-himi-el-lrenk-1910.md: RESEARCHED-OPEN
+- leads/GM-AM-004-mardiros-tashjian-himi-el-lrenk-1909.md: RESEARCHED-OPEN
 - leads/GM-AM-005-tashjian-brothers-menk-bedk-e-grvenk-1910.md: NOT STARTED
 - leads/GM-AM-006-mardiros-tashjian-dalvorig-1909.md: NOT STARTED
 - leads/GM-AM-007-tashjian-brothers-tartzial-paylets-1910.md: NOT STARTED
@@ -101,7 +101,7 @@ Counting unit: each consolidated catalogue ID IM-001 through IM-042. Duplicate s
 - IM-033: NOT STARTED
 - IM-034: NOT STARTED
 - IM-035: NOT STARTED
-- IM-036: NOT STARTED
+- IM-036: RESEARCHED-OPEN
 - IM-037: NOT STARTED
 - IM-038: NOT STARTED
 - IM-039: NOT STARTED
@@ -114,7 +114,7 @@ Counting unit: each consolidated catalogue ID IM-001 through IM-042. Duplicate s
 Counting unit: the five film-level targets named in the initial research plan. Cue/release/reconstruction files under a film are sub-objects, not extra film-level baseline leads.
 
 - Aelita (1924) — projects/sovietfilm/research/aelita-1924.md: RESEARCHED-OPEN
-- Kosmicheskiy reys / Космический рейс (1935) — projects/sovietfilm/research/kosmicheskiy-reys-1935.md: NOT STARTED
+- Kosmicheskiy reys / Космический рейс (1935) — projects/sovietfilm/research/kosmicheskiy-reys-1935.md: RESEARCHED-OPEN
 - Kin-dza-dza! / Кин-дза-дза! (1986) — projects/sovietfilm/research/kin-dza-dza.md: RESEARCHED-OPEN
 - The Mystery of the Third Planet / Тайна третьей планеты (1981) — projects/sovietfilm/research/mystery-of-the-third-planet.md: RESEARCHED-OPEN
 - Stalker (1979) — projects/sovietfilm/research/stalker-1979-artemyev.md: NOT STARTED
@@ -138,6 +138,9 @@ Only distinct, evidence-backed recording/cue objects admitted under the relevant
 | Soviet Film Music | SF-GE-001 | «უკანასკნელი მასკარადი» / *The Last Masquerade* (1934) | National Archives of Georgia identifies preserved film-music recording and composer Grigol Kiladze; item provenance pending. | IN PROGRESS |
 | Soviet Film Music | SF-GE-002 | «არსენა» / *Arsena* (1937) | National Archives of Georgia identifies preserved film-music recording and composer Grigol Kiladze; item provenance pending. | IN PROGRESS |
 | Soviet Film Music | SF-TJ-001 | «Я встретил девушку» / *I Met a Girl* (1957) | Contemporary film publicity and specialist scholarship document a Tajikfilm musical and separate Tajik/Russian song versions; item-level audio provenance pending. | IN PROGRESS |
+| Grudge Mixes | GM-MX-002 | “Ignacio Parra” (parts 1–2), Rafael Herrera Robinson, Edison 18512/18513 (1904) | March 1904 Edison trade catalogue lists both parts as a corrido; 2025 scholarly chapter confirms the numbers; Frontera specialist history links the 1904 take to a rebel/defiance context. C-level qualified lead only: no exact text or surviving original transfer located; not promoted to candidate. | RESEARCHED-OPEN |
+| Insane Music | IM-048 | *Viajar – Ida e Volta no Caminho do Inconsciente Poético e Musical* (Santo André, 2002) | Contemporary report confirms a nine-track CD, 1999 workshop-authored lyrics, volunteer arrangements/performances and CAPS-DQ choir on “Viajar.” One mixed-authorship CD, not nine leads or nine resident performances; current copy/rights unresolved. | RESEARCHED-OPEN |
+| Soviet Film Music | SF-UZ-001 | “Do‘ppi tikdim” / «Дўппи тикдим» from *Мафтунингман* (*Maftuningman*, 1958) | 2014 printed score links the cue to the film and credits Turob To‘la / “Monas Leviev”; Uzbek Composers’ Union biography credits Klara Jalilova and Burhonov’s film-music context. Composer split and film-print/clip identity unresolved; one cue family. | RESEARCHED-OPEN |
 
 ### Excluded from the new-lead count
 
@@ -145,19 +148,19 @@ Only distinct, evidence-backed recording/cue objects admitted under the relevant
 - Armenian Radio Archive soundtrack collection overview: a discovery route, not a separate recording/cue lead; its individual cue objects are counted only when separately qualified.
 - Additional versions of the same recording/ballad are recorded as version evidence, not automatically counted as new leads.
 
-## Work advanced in the first two batches
+## Work advanced through 2026-11-18
 
 | Project | Baseline leads advanced | New qualified leads added | Main blocker / next exact task |
 |---|---:|---:|---|
-| Grudge Mixes | 5 (GM-US-011, GM-US-014, GM-AM-001 Helen Paul, GM-AM-001 Pamp/Vorodan, GM-AM-002) | 2 | Continue Armenian Columbia matrix/label research; compare the Tashjian version family and verify the exact text of each recording. |
-| Insane Music | 3 (IM-013, IM-011, IM-042) | 5 | Locate physical DKK cassettes/J-cards and compare IM-042 with IM-047; advance IM-036/038/039 and verify Ata Kak source-tape lineage. |
-| Soviet Film Music | 3 (Kin-dza-dza!, Aelita, The Mystery of the Third Planet) | 6 | Advance *Kosmicheskiy reys* and *Stalker*; request Armenian/Georgian item metadata and compare archive objects with original film versions. |
+| Grudge Mixes | 7 (GM-US-011, GM-US-014, GM-AM-001 Helen Paul, GM-AM-001 Pamp/Vorodan, GM-AM-002, GM-AM-003, GM-AM-004) | 3 | Locate 1909/1910 Tashjian matrices/transfers and exact recorded texts; seek the original 1904 Ignacio Parra cylinder/lyrics; next baseline GM-AM-005. |
+| Insane Music | 4 (IM-013, IM-011, IM-042, IM-036) | 6 | Advance IM-038/039; locate a current copy of IM-048 and verify credits/rights; resolve the separate IM-036 harmonica-group recording and later-CD rights. |
+| Soviet Film Music | 4 (Kin-dza-dza!, Aelita, The Mystery of the Third Planet, *Kosmicheskiy reys*) | 7 | Advance *Stalker*; obtain 1961 catalogue pp. 67–68 and 1936 newspaper scans; compare the *Maftuningman* film-print cue with the later video excerpt. |
 
 ## Next exact work queue
 
-1. **Grudge Mixes:** continue the remaining Armenian Columbia leads and international candidate list. For Sutton's GM-US-018, obtain the LOC item card and text 137 for A93 / NC137 before attempting a textual comparison; do not infer its exact date or lyrics from the A79 record.
-2. **Insane Music:** advance IM-036, IM-038 and IM-039; find physical DKK cassette evidence for IM-042/047 and resolve Ata Kak's source-tape lineage.
-3. **Soviet Film Music:** advance *Kosmicheskiy reys* and *Stalker*; request item-level provenance for Georgian and Armenian archive objects and compare *I Met a Girl* language versions.
+1. **Grudge Mixes:** advance baseline GM-AM-005 and GM-AM-006; locate matrix/runout and authorized audio for the 1909/1910 Tashjian issues; seek an original carrier/transfer and text for GM-MX-002. For Sutton's GM-US-018, obtain the LOC item card and text 137 for A93 / NC137 before attempting a textual comparison.
+2. **Insane Music:** advance IM-038 and IM-039; locate a current copy of IM-048 and confirm complete credits, custody and rights with owner approval; resolve the full IM-036 tracklist, later-CD rights and the separate harmonica-group recording.
+3. **Soviet Film Music:** advance *Stalker*; obtain the 1961 catalogue pages 67–68 and the 20/27 January 1936 newspaper pages; compare *Maftuningman*’s film-print cue with the RizaNova excerpt and resolve the composer split.
 4. Add qualified new leads in each project while maintaining the dedup register. Do not pad counts with contextual items or collection-level routes.
 
 
@@ -169,3 +172,28 @@ Only distinct, evidence-backed recording/cue objects admitted under the relevant
 The public comparison pass is complete as far as accessible catalogue evidence allows. LOC's 1991 Gordon finding aid confirms the North Carolina collection's 1925 field-trip scope, maps texts 1–298 to cylinders A1–A202, and says the recordings and corresponding typescripts are in the Archive. LOC's 1978 liner notes identify A93 / NC137 as another North Carolina “Single Girl” cylinder, but do not name the singer, give an item-specific date/place or print its text. Exact public searches returned no separate item-level record or transcript. The Sutton A79 / NC117 dossier remains B — probable; no A93 lyric or audio comparison was possible.
 
 **Next exact task:** obtain the AFC/AFS item card and text 137 for A93 / NC137, including singer, date/place, cylinder description and transfer/access conditions. Compare only after item-level evidence is supplied. The lead is RESEARCHED-OPEN, not closed.
+
+
+## Progress checkpoint — 2026-11-18 — balanced three-project batch
+
+### Baseline advances
+- **Grudge Mixes:** GM-AM-003 (1910 Tashjian Brothers, E668-4953) and GM-AM-004 (1909 Mardiros solo, E529-4100) moved to RESEARCHED-OPEN. The Armenian Museum’s label scan and discography distinguish the two performances; exact recorded text, matrices/transfers and rights remain open.
+- **Insane Music:** IM-036 moved to RESEARCHED-OPEN. The 2003, 2021 and 2026 Tōjō/Sawa CDs are reconciled as three releases by one resident singer. The harmonica-group recollection is not an extant recording lead; rights for the later CDs remain unresolved.
+- **Soviet Film Music:** *Kosmicheskiy reys* moved to RESEARCHED-OPEN. The Mosfilm mono field and 1933 date discrepancy were directly checked; the RSL bibliographic record was opened but the 1961 catalogue pages were not; the 1936 newspaper PDFs remained inaccessible.
+
+### New qualified leads
+- **GM-MX-002:** “Ignacio Parra” parts 1–2, Edison 18512/18513 (1904). The March 1904 Edison catalogue lists the two-part corrido; the 2025 UAQ chapter confirms the numbers and the Frontera specialist history links the 1904 performance to a rebel/defiance context. Count one C-level qualified lead, not a confirmed track: exact text and original surviving transfer remain unknown. The later 1970 Los Alegres de Terán performance is separate.
+- **IM-048:** *Viajar – Ida e Volta no Caminho do Inconsciente Poético e Musical* (Santo André, 2002). The contemporary report documents one nine-track CD with 1999 workshop-authored lyrics, volunteer arrangements/performances and the CAPS-DQ choir on “Viajar.” Count one mixed-authorship CD, not nine tracks or nine resident performances.
+- **SF-UZ-001:** “Do‘ppi tikdim” / «Дўппи тикдим» from *Мафтунингман* (*Maftuningman*, 1958). The 2014 printed score, Uzbek Composers’ Union biography and film catalogue establish a specific regional cue family; composer attribution and film-print/online-excerpt identity remain unresolved. Count one cue family.
+
+### Current completion measures
+- Baseline researched: **15 / 91**.
+- Cumulative distinct qualified new leads: **16 / 91 target** (Grudge Mixes 3; Insane Music 6; Soviet Film Music 7).
+- Stopping condition: **NOT MET**. The 76 remaining baseline leads and 75 further qualified new leads still require work.
+
+### Blockers and next exact actions
+- **Grudge Mixes:** no authorized audio/matrix for E529-4100 or E668-4953; no original 1904 “Ignacio Parra” transfer or exact text. Next: advance GM-AM-005/006 and locate the missing carrier/text evidence.
+- **Insane Music:** no current physical copy/custody record for IM-048; no complete 2026 *こころ* tracklist or separate harmonica-group recording; later-CD rights unclear. Next: advance IM-038/039 and seek owner approval before any contact.
+- **Soviet Film Music:** no 1936 newspaper scan, 1961 catalogue entry, or inspected film print; *Maftuningman*’s original cue audio and composer split unresolved. Next: advance *Stalker* and obtain the exact period/catalogue pages.
+
+No audio assets were modified; no purchases, downloads, archive contacts, permission requests or public-tracker updates were made. All work was confined to the canonical repository.
