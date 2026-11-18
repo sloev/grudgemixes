@@ -337,3 +337,12 @@ Either a source-backed, narrow dossier update with an explicit confidence statem
 Seek the original Tajik and Russian film versions or studio/session records that name the vocalists. Preserve Rauf Atakishiyev, Rashid Behbudov, the 1958 Gosteleradiofond television performance and the later Gulshan repertoire version as separate possible recording objects until the crosswalk is established.
 
 Sources: https://smena-online.ru/stories/ya-vstretil-devushku ; https://pitfi.tj/sites/default/files/Tillo.pdf ; https://eefb.org/retrospectives/soviet-politics-and-the-musicals-of-tajikistan/ ; https://web.archive.org/web/20110309001257/http://www.100pesen.ru/index/ah_eta_devushka/0-186 ; https://ok.ru/group/51882624155853/topic/67376203361229 ; https://ok.ru/group/55860692189327/topic/154953101010319 ; https://kkre-2.narod.ru/babaev.htm ; https://www.youtube.com/watch?v=Sle5KJywf6Y ; https://pressa.tj/darguzashti-saodat-raeva-ofarandai-na-shi-zebo/ ; https://sputnik.tj/20180920/Darguzashti-Saodat-Juraeva-ofarandai-naqshi-Zebo-1026850406.html
+
+
+## 2026-11-18 — ChatGPT — Kosmicheskiy reys sound-object audit and regional cue discovery (START)
+
+### Bounded task
+Advance baseline *Космический рейс* (1935) by checking the underlying 1936 newspaper evidence and reconciling silent-era scholarship, contemporary sound-film advertising and the current Mosfilm catalogue. In parallel, screen one distinct regional Soviet-film music cue/object outside the existing Armenian/Georgian/Tajik additions.
+
+### Guardrails
+Keep original accompaniment, later live re-scorings and sound-on-film catalogue metadata separate. Do not claim direct inspection of inaccessible scans, film prints, audio, score or archive holdings.
