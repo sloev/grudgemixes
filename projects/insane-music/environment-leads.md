@@ -2206,3 +2206,16 @@ The 2015 and 2025 Bandcamp pages list slightly different track durations. The 20
 - 2025 cassette product record: https://finersounds.com/products/ata-kak-obaa-sima-anniversary-remaster-cassette-tape
 
 No audio auditioned, no physical carrier inspected, no contact made and no rights cleared. **Next:** establish the Berlin cassette's provenance, then compare the authorised 2015 and 2025 transfer versions; keep both source copies distinct from the degraded master DAT.
+
+
+## 2026-11-18 research update — Mágicos do Som and Tardes Nuestras
+
+### IM-038 — Mágicos do Som
+
+The apparent *Saúde Musical* title/date conflict is now best explained by **two separate CDs with the same title**. The 2007 UFF thesis and 2002 *Voices Resources* article document a first *Saúde Musical* CD (c. 2000), including “Preconceito” by Regina Lúcia Serrão; the 2013 municipal notice explicitly calls its ten-song *Saúde Musical* the second CD; the 2021 municipal retrospective confirms two CDs and identifies 2013 as the latest. The 1999 clipping reproduced in the thesis shows preparation, while the November 2000 clipping reports a launch on the 22nd; the exact date is not sufficiently clear to assert more than c. 2000. The two releases remain one group-level baseline lead, not two new leads. The first CD's historical MP3 link did not resolve; the thesis annex CD-ROM and the second CD have not been accessed. See research/magicos-do-som-im-038-2026-11-18.md.
+
+### IM-049 — Tardes Nuestras opening theme
+
+Qualified one new Argentina community-radio lead: a recurring rock theme used by *Tardes Nuestras*, a programme created by users and workers associated with Hospital Agudo Ávila / Centro Cultural Gomecito and broadcast by FM Aire Libre in Rosario. A 2017 UNR thesis says the theme was produced with musicians; a 2020 *La Capital* article quotes its opening lyric and confirms it starts the weekly show; the station's official page links recorded programmes through RadioCut. The song's title, authors and performer remain unknown, and resident authorship/performance is not established. The RadioCut route returned an access failure; no audio was auditioned. Count the recurring theme once, not each episode. See research/tardes-nuestras-im-049-2026-11-18.md.
+
+Sources and access dates are recorded in the two dossiers. No contact, purchase, download, archive access or rights clearance was performed.

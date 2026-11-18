@@ -203,3 +203,25 @@ Bounded scope for this pass:
 - **Soviet Film Music:** advance baseline *Stalker*; qualify one new Kazakh SSR film-song cue.
 
 No audio audition, download, purchase, archive contact, rights clearance, public-tracker edit or publication is authorised or claimed in this pass.
+
+
+## 2026-11-18 — balanced batch completed
+
+### Existing baseline advanced: IM-038
+
+- Reconciled the apparent title conflict: the 2007 UFF thesis and 2002 *Voices Resources* article document a first *Saúde Musical* CD c. 2000; the 2013 municipal notice explicitly calls its ten-song *Saúde Musical* the second CD; the 2021 municipal retrospective confirms two CDs and 2013 as the latest. One group-level baseline lead, two separate release objects; no duplicate count.
+- “Preconceito” is attributed to group member Regina Lúcia Serrão (written/sung, 2000). The 2002 embedded audio link did not resolve; the thesis annex CD-ROM was not accessed. No current authorised copy or rights clearance.
+- Baseline status changed to RESEARCHED-OPEN. Remaining: exact first-CD release day/month, complete tracklists and catalogue numbers, audio access, current rights holder.
+
+### New qualified lead: IM-049
+
+- Qualified *Tardes Nuestras*' recurring opening theme as one new community-radio recording lead. 2017 UNR thesis: produced with musicians as the programme's *cortina*. 2020 *La Capital*: opening rock song and lyric incipit; weekly Wednesday broadcast. Official FM Aire Libre page links recorded programmes through RadioCut.
+- Classification: external-musician collaboration / broadcast playback in a community-radio environment; resident authorship or performance unproven. The RadioCut route returned an access failure; no episode ID or audio audition. Status IN PROGRESS.
+
+### Next exact tasks
+
+1. Locate owner-authorised copies/sleeves for both Mágicos do Som CDs; transcribe full tracklists and catalogue numbers; verify the first-CD audio annex and current rights.
+2. Identify one specific *Tardes Nuestras* RadioCut episode containing the opening theme; verify the audio, musicians, recording date and any participant co-writing/performance.
+3. Continue the next baseline targets IM-039 and IM-040 with the same environment-first and recording-evidence threshold.
+
+No audio assets were modified; no purchase, download, contact, permission or rights clearance was made. No public tracker was changed.
