@@ -419,3 +419,8 @@ No audio assets were modified; no purchase, download, contact, permission or rig
 Sources: https://sarynjournal.kz/saryn/article/view/367 ; https://vapress.kz/ru/article/stranisy-jivoi-istorii-v-etom-godu-vechernii-almaty-otmechaet-85-letnii-iubilei.html ; https://vapress.kz/ru/article/vechiorka-nachalo.html .
 
 Next: request the exact 23 January 1969 issue from the National Library of Kazakhstan / Almaty municipal archive and ask Kazakhfilm for the production cue sheet or Gakku recording log; continue Stalker cue-timecode work and the remaining baseline tasks separately.
+
+
+## 2026-11-18 — ChatGPT — current newspaper archive range check
+
+Followed the newspaper's own archive link to https://vapress.kz/newspapers. The visible archive filters cover 2021–2026 only; it does not expose the 23 January 1969 issue. This is a verified negative result about the current website's online archive, not evidence the historical issue is lost. Updated the SF-KZ-001 dossier and research_method.md. No cue/timecode/status change; no contact, audio audition/download/upload or rights clearance.
