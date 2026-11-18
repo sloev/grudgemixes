@@ -37,3 +37,11 @@
 ## After a reply
 
 Record the outcome in `coop.log.md` (the date, who replied and what they said, without private contact details) and update the row's status in [catalogue.md](catalogue.md). Note permission conditions word for word.
+
+
+## Owner-approval requests added 2026-11-18 — not sent
+
+| Priority | Lead | Proposed contact route | Specific request | Status |
+|---|---|---|---|---|
+| Medium | IM-036 — Tōjō/Sawa three-CD lineage | Como Esta / Tomoe Sawa’s current official contact route | Confirm full tracklist and master/recording rights for *この道* and *こころ*; clarify the harmonica-group name, dates, repertoire and whether any distinct recording survives. The 2003 *生かされて* master-rights note is documented separately. | Owner approval required; no contact made |
+| Medium | IM-048 — *Viajar* (Santo André CAPS-DQ, 2002) | Current Santo André Municipal Health Secretariat / CAPS-DQ records route; current contact details not yet verified | Ask whether the nine-track CD or master survives, current custody, full credit/lyric-author list, recording date/location and rights/consent documentation. The 2002 report is the only source currently located. | Owner approval required; no contact made |
