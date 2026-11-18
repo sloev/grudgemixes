@@ -127,3 +127,23 @@ Advance baseline IM-036 by reconciling Takashi Tōjō's three resident-made CD r
 
 ### Guardrails
 Environment-first; recording existence and maker/provenance must be evidenced. Do not infer a diagnosis, merge resident-made and visiting performances, or claim purchase/listening/contact.
+
+
+## 2026-11-18 — ChatGPT — Ōshima Seishōen and Santo André CAPS-DQ (DONE)
+
+### Existing baseline lead advanced
+- **IM-036 → RESEARCHED-OPEN.** Reconciled the 2003 *生かされて* (11-song hymn CD per JMWA), 2021 *この道* (five tracks per the 2021 project update), and 2026 *こころ* (KSB identifies at least two tracks). The official Como Esta page lists all three CDs. KSB’s 4 Nov 2026 memorial report records a resident’s recollection of Tōjō playing in a harmonica group, but supplies no group name, repertoire, date or recording; this is not a new lead. Rights remain open: the campaign page identifies Tōjō’s master rights in *生かされて* only; rights for the later CDs and posthumous use are not established.
+
+### New qualified lead added
+- **IM-048 — *Viajar – Ida e Volta no Caminho do Inconsciente Poético e Musical* (2002), Santo André, Brazil.** The 13 Jan 2002 *Diário do Grande ABC* report confirms a nine-track CD, participant-authored workshop lyrics from 1999, volunteer regional arrangements/performances, and the CAPS-DQ choir on “Viajar.” Counted as one mixed-authorship CD lead, not nine tracks and not nine resident-performed recordings. Current copy/custody and rights remain unknown.
+
+### Files changed
+- projects/insanemusic/catalogue.md
+- projects/insanemusic/environment-leads.md
+- projects/insanemusic/archive-requests.md
+- projects/insanemusic/research/IM-048-viajar-santo-andre-2002.md
+
+### Next exact tasks
+1. Advance baseline IM-038 and IM-039 with their own primary source and version/provenance audits.
+2. Locate a current physical or archival copy of *Viajar* and verify complete credits, lyric authorship, custody and rights; contact only after owner approval.
+3. Resolve the full 2026 *こころ* tracklist and the separate harmonica-group recording through owner-approved inquiry; do not merge group recollection with the Tōjō/Sawa CD lineage.
