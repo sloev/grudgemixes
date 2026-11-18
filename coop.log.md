@@ -127,3 +127,28 @@ Advance baseline Grudge Mixes records GM-AM-003 and GM-AM-004 by checking the Ar
 
 ### Guardrails
 No title-only promotion; do not infer the recorded stanzas from later songbook text. Keep issue and session dates separate, and do not claim audio audition, museum contact, download or rights clearance.
+
+
+## 2026-11-18 — ChatGPT — Armenian Columbia variants and Mexican Edison discovery (DONE)
+
+### Existing baseline leads advanced
+- **GM-AM-003 → RESEARCHED-OPEN:** the Armenian Museum of America’s label image and discography identify the 1910 Tashjian Brothers performance as Columbia E668-4953, recorded in 1910 and released in 1911. It is distinct from Mardiros Tashjian’s 1909 solo E529-4100.
+- **GM-AM-004 → RESEARCHED-OPEN:** the museum’s researched discography identifies the 1909 single-sided Mardiros solo issue E529-4100. The Adana context is retained as chronology only; the article’s fundraising idea is conjecture, not a proven purpose. Neither exact recorded text, matrix/take, authorized audio transfer nor rights have been established.
+
+### New qualified lead added
+- **GM-MX-002 — “Ignacio Parra,” parts 1–2, Rafael Herrera Robinson, Edison 18512/18513 (1904).** The March 1904 Edison trade catalogue lists both parts as a corrido; the 2025 UAQ chapter confirms the numbers; the Frontera specialist history links the 1904 performance to a rebel/defiance context and reports political pressure around the recordings. Counted as one C-level qualified lead, not a confirmed track or candidate. The original 1904 cylinder/transfer and exact text remain unlocated; the later 1970 Los Alegres de Terán performance is a separate version.
+
+### Discovery exclusions
+- The “Benito Canales” Frontera recording found in this pass is from 1928 and outside the pre-1926 core.
+- The 1912 Japanese rokyoku “赤垣源蔵” is a Chūshingura farewell episode; no exact recorded text establishing a direct revenge/defiance mechanism was verified, so it remains contextual and is not counted.
+
+### Files and commits
+- GM-AM-003 dossier — 7b493864048fa2f146fd9915b32b2e5ae5dd2859
+- GM-AM-004 dossier — e2be1727842ab7eccbd581ef59176ac565251efb
+- New GM-MX-002 dossier — f206062147279bb4a659b73b38b6ff0c6ec3eed8
+- Cross-project progress register — 71f0b2c8b449732ec149b3ad6e4d06e35eb7c752
+
+### Next exact tasks
+1. Advance baseline GM-AM-005 and GM-AM-006 with the same issue/session/text separation.
+2. Locate a primary Columbia matrix/label or authorized audio transfer for E529-4100 and E668-4953; compare the exact recorded Armenian text against the printed witnesses.
+3. Search for the original Edison cylinders 18512/18513 or an authorized transfer and a full Spanish text before raising GM-MX-002 above C lead.
