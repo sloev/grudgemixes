@@ -118,3 +118,12 @@ Look for a dated Ōshima Seishōen programme, newsletter, photograph or archive 
 Source: https://news.ksb.co.jp/article/17021393
 
 No audio auditioned, downloaded or uploaded; no physical CD inspected; no archive/artist contact or rights clearance.
+
+
+## 2026-11-18 — ChatGPT — Ōshima Seishōen resident-made recordings and Japan discovery (START)
+
+### Bounded task
+Advance baseline IM-036 by reconciling Takashi Tōjō's three resident-made CD releases with current Japanese institutional/press evidence and distinguish his recordings from the separately reported harmonica group. In parallel, search Japanese-language sanatorium/community archives for one distinct extant recording corpus meeting the main-discography threshold.
+
+### Guardrails
+Environment-first; recording existence and maker/provenance must be evidenced. Do not infer a diagnosis, merge resident-made and visiting performances, or claim purchase/listening/contact.
