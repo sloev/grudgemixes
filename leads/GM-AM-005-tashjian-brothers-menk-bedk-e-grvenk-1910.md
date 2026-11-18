@@ -1,4 +1,4 @@
-# GM-AM-005 — Tashjian Brothers, “Menk Bedk E Grvenk” (Columbia E661/4973, 1910)
+# GM-AM-005 — Tashjian Brothers, “Menk Bedk E Grvenk” (Columbia E661 / matrix 4973-1, 1910)
 
 **Region:** Armenian diaspora / New York; Armenian revolutionary-national song repertoire  
 **Status:** B — PROBABLE CANDIDATE; exact Columbia side and strong pre-1926 thematic text witnesses are identified, but the recorded take is not transcribed  
@@ -12,7 +12,7 @@
 - Label/catalogue: Columbia E661; matrix-side 4973-1. The Armenian Museum page repeats E661-4971 for both titles in the pairing; the independent Columbia E-Series table assigns 4971-1 to “Aznif Ungert” and 4973-1 to “Menk Bedk E Gurvink-Fedayi Yeraze.” Use E661 / matrix 4973-1 provisionally, pending physical label/runout confirmation.
 - Session: New York, autumn 1910; release 1911.
 - Language: Armenian.
-- The Armenian Museum's Tashjian discography lists this title in the E661 pairing, alongside “Azniv Enger,” but prints the same number E661-4971 for both titles. The independent Columbia E-Series discography distinguishes them: “Aznif Ungert” is matrix 4971-1, while “Menk Bedk E Gurvink-Fedayi Yeraze” is matrix 4973-1. This supports E661-4973 as the correct catalogue/matrix-side identifier for this target; retain the museum's duplicated number as a documented source typo/discrepancy.
+- The Armenian Museum's Tashjian discography lists this title in the E661 pairing, alongside “Azniv Enger,” but prints the same number E661-4971 for both titles. The independent Columbia E-Series discography distinguishes them: “Aznif Ungert” is matrix 4971-1, while “Menk Bedk E Gurvink-Fedayi Yeraze” is matrix 4973-1. This supports E661 as the catalogue number and 4973-1 as the target side matrix; retain the museum's duplicated number as a documented source typo/discrepancy.
 - Primary identity source: Armenian Museum of America, Tashjian Brothers discography: https://www.armenianmuseum.org/sound-archive/tashjian-story
 
 ## Text witness
@@ -43,8 +43,8 @@ The song is part of Armenian revolutionary-patriotic repertoire. Preserve its sp
 
 ## Retrieval and open questions
 
-- Request Columbia E661/4973 audio, label photograph, runout/matrix and transfer details from the Armenian Museum.
-- Confirm the physical label/runout for E661-4973 and compare the recording with the Yerkaran text. The museum's repeated 4971 for both E661 titles is corrected provisionally by the Columbia E-Series discography's distinct matrix 4973-1.
+- Request the Columbia E661 side / matrix 4973-1 audio, label photograph, runout/matrix and transfer details from the Armenian Museum.
+- Confirm the physical label/runout for E661 / matrix 4973-1 and compare the recording with the Yerkaran text. The museum's repeated 4971 for both E661 titles is corrected provisionally by the Columbia E-Series discography's distinct matrix 4973-1.
 - Compare the recorded lyrics with Yerkaran's text and identify any stanza omissions or variants.
 - Verify the songbook author's attribution and the text's date/history independently.
 - Confirm audio access/reuse terms; do not assume the museum's online presentation grants download rights.
