@@ -148,3 +148,22 @@ Local-language sources now distinguish the Tajik film title «Ман бо дух
 The Tajik Writers Union's 18 Dec 2024 article documents Burhon Muhammadqulov performing “Дидам ҷамоле” with the Gulshan Estrada Orchestra. It does not identify a date or recording object. Added SF-AUD-007 as a separate later-performance lead, IDENTITY UNRESOLVED; no download route.
 
 **Next:** seek the film's original vocal/credit sheet and compare Tajik/Russian prints under lawful access; trace Gulshan / Tajik Radio performance logs or catalogue records for Muhammadqulov's later version. Keep it separate from the 1957 film mix and all later commercial performances. No audio access or file transfer.
+
+
+## 2026-11-18 checkpoint — baseline sound-object audit and Uzbek regional cue
+
+### Baseline lead advanced
+- **Космический рейс / Kosmicheskiy reys (1935) → RESEARCHED-OPEN.** Re-opened the Mosfilm and Gosfilmofond pages and the RSL catalogue record; retried the 20 and 27 January 1936 Nekrasovka newspaper PDFs. The current Mosfilm page labels sound “mono” but carries a conflicting 1933 date field. Gosfilmofond documents the later TWINS Piano Duo score and its reported transfer preparation, not Kruchinin’s original music. The RSL record confirms the 1961 annotated catalogue but the PDF/viewer did not open; no fragment request was submitted. The 20 January newspaper transcription remains secondary, and the 27 January “sound feature” ad remains unverified. See the dated access audit in the Kosmicheskiy reys dossier.
+
+### New regional cue lead
+- **SF-UZ-001 — “Do‘ppi tikdim” / «Дўппи тикдим» from *Мафтунингман* (*Maftuningman*, 1958), Uzbek SSR.** The 2014 printed score identifies the song as from the film, gives Turob To‘la’s words and “Monas Leviev” music; the Uzbek Composers’ Union biography credits Klara Jalilova’s performance and places the song among Mutal Burhonov’s film work while describing Burhonov’s collaboration with Leviev and Ikrom Akbarov. Composer attribution remains unresolved/shared. The RizaNova video page did not load; original film-print audio is not verified. The film is listed by Shaxs.uz and TelecomTV as a 1958 Uzbek musical comedy; the stream was not played. One cue family only.
+
+### Audio queue
+- Added **SF-AUD-008** with status **IDENTITY UNRESOLVED**. TelecomTV is a stream/watch route only; no lawful file download or rights terms were established. The RizaNova page fetch failed. No audio was auditioned, downloaded or uploaded.
+- New READY FOR DRIVE entries: 0.
+- Files uploaded and verified in Drive: 0.
+
+### Next exact tasks
+1. Advance the baseline *Stalker* case with cue-level primary evidence and keep Artemyev album/re-recording objects separate from the film mix.
+2. Obtain the 1961 catalogue pages 67–68 and the two 1936 newspaper pages; inspect the exact film print/technical passport before resolving original sound format.
+3. Compare the *Maftuningman* cue in a lawful film print against the RizaNova excerpt; locate original production score/credits to resolve Leviev/Burhonov/Ikrom Akbarov attribution.
