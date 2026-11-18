@@ -424,3 +424,29 @@ Next: request the exact 23 January 1969 issue from the National Library of Kazak
 ## 2026-11-18 — ChatGPT — current newspaper archive range check
 
 Followed the newspaper's own archive link to https://vapress.kz/newspapers. The visible archive filters cover 2021–2026 only; it does not expose the 23 January 1969 issue. This is a verified negative result about the current website's online archive, not evidence the historical issue is lost. Updated the SF-KZ-001 dossier and research_method.md. No cue/timecode/status change; no contact, audio audition/download/upload or rights clearance.
+
+
+## 2026-11-18 — ChatGPT — Stalker source-provenance audit
+
+### Task
+Recheck the Artemyev/Turovskaya cue-level evidence for the baseline *Stalker* case, keeping film-print audio, rejected prototype and later album/re-recording objects separate.
+
+### Result
+- Confirmed a second Nostalghia transcription explicitly identifies its source as Maya Turovskaya's *7½, ili filmy Andreia Tarkovskogo* (Moscow: Iskusstvo, 1991, ISBN 5-210-00279-9).
+- The passage names Stalker's dream and the opening titles as the relevant episodes, identifies the synthesizer/tampur-like sound space plus tar and flute, and says Tarkovsky sometimes retained one episode from roughly ten during dubbing.
+- This strengthens source provenance but does not provide exact cue timecodes, a checked book scan, original score/cue-sheet documentation, or an equivalence claim for the later «Сталкер: Медитация» album object.
+
+### Files changed
+- `projects/sovietfilm/research/stalker-1979-artemyev.md` — appended source-provenance audit.
+- `projects/sovietfilm/coop.log.md` — appended this hand-off.
+
+### Sources
+- https://www.nostalghia.com/TheTopics/Stalker/artemyev.html — web transcription; page attributes text to Turovskaya's 1991 book.
+
+### Metrics
+- New candidate entries added: 0.
+- Entries now READY FOR DRIVE: 0.
+- Files uploaded and verified in Drive: 0.
+
+### Unresolved / next
+Obtain authorized access to the Mosfilm viewing copy for cue timecodes; locate the 1991 book or original production documentation; do not promote SF-AUD-009 or SF-AUD-005 based on this source alone. No audio was auditioned, downloaded, uploaded or purchased; no archive contact or rights clearance occurred.
