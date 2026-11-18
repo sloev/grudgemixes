@@ -118,3 +118,12 @@ Review READY FOR GROK queue; no free complete transfers for remaining blocked it
 
 ### Handoff
 Continue hunts for exact pre-1926 archival transfers and free routes for remaining READY items. Do not invent downloads or claim verification without inspection. Prefer core-date material; label later items clearly. All new work to canonical workspace.
+
+
+## 2026-11-18 — ChatGPT — Armenian Columbia recording audit and global discovery (START)
+
+### Bounded task
+Advance baseline Grudge Mixes records GM-AM-003 and GM-AM-004 by checking the Armenian Museum's exact 1910/1909 Columbia discography and independent text witnesses; separately screen one new pre-1926 recording lead from a non-Anglophone catalogue. Preserve the solo 1909 and trio 1910 performances as distinct masters.
+
+### Guardrails
+No title-only promotion; do not infer the recorded stanzas from later songbook text. Keep issue and session dates separate, and do not claim audio audition, museum contact, download or rights clearance.
