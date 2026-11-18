@@ -102,3 +102,19 @@ Review READY FOR GROK queue from Drive TRACK_MAPPING.md (latest version). No fre
 
 ### Handoff
 Continue source hunts for exact archival transfers for remaining READY items. Do not invent downloads. For sovietfilm, continue extracting labeled film-mix cues or seek owner-approved commercial reconstructions/isolated tracks. Prefer Kancheli sources next when feasible. Log any new READY FOR DRIVE items. Verify prior reported files independently before status change to FILE VERIFIED. All new work directed to canonical grudgemixes workspace; legacy repos reference-only.
+
+## 2026-11-18 — Grok — Stagger Lee family coverage: Senter orchestral and Hurt vocal access copies
+
+### Task
+Review READY FOR GROK queue; no free complete transfers for remaining blocked items. Seek additional early or relevant archival audio related to existing Stagger Lee / Stack O'Lee candidates for coverage. Aim for fast private research archive deposits.
+
+### Findings / Retrievals
+- No new READY FOR GROK items with free routes. Continued source hunts; FAU/DAHR barriers persist for prior queue.
+- Retrieved and uploaded two related Stagger Lee family access copies to grudgemixes Drive subfolder (1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY):
+  - GM-US-Senter_Original_Stack_OLee_Blues_VelvetTone_7070-V.mp3 (Boyd Senter & His Orchestra; Velvet Tone 7070-V; ~3:03; IA https://archive.org/details/78_original-stack-o-lee-blues_boyd-senter-his-orchestra_gbia0378964b). Drive ID: 1m8sGRKKUQ2O0evokhfYY8wYZORiuwPK8. Late-1920s instrumental variant.
+  - GM-US-Hurt_Stack_OLee_Blues_OKeh_1928.mp3 (Mississippi John Hurt; OKeh 8654, rec. 28 Dec 1928; ~2:58; IA Mississippi_John_Hurt-Stack_O_Lee). Drive ID: 1Jm_9GwmBjkSdNdHmStuI_rzdhCsLq2ud. Classic early vocal narrative version (outside strict pre-1926 core; labeled as such).
+- Updated Drive parent TRACK_MAPPING.md (new file ID 14k4LQBw7Nu68Xci7XnSz78tY_JmMMdun) linking the new filenames to project IDs/notes.
+- Metrics: New files uploaded and reported: 2 (Stagger Lee coverage). No new candidate dossiers created.
+
+### Handoff
+Continue hunts for exact pre-1926 archival transfers and free routes for remaining READY items. Do not invent downloads or claim verification without inspection. Prefer core-date material; label later items clearly. All new work to canonical workspace.
