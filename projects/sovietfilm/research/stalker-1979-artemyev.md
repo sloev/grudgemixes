@@ -92,3 +92,10 @@ Mosfilm's official film page currently lists a 2025 4K restoration, 163 minutes,
 
 - Eduard Artemyev first-person account, from Maya Turovskaya's 1991 book: https://www.nostalghia.com/TheTopics/TheMusicofStalker.html
 - Official Mosfilm film page, 2025 restoration: https://www.mosfilm.ru/cinema/films/stalker/
+
+
+## 2026-11-18 source-provenance audit — Artemyev/Turovskaya interview
+
+A second Nostalghia transcription was checked against the existing cue-level note. It identifies the text as taken from Maya Turovskaya's *7½, ili filmy Andreia Tarkovskogo* (Moscow: Iskusstvo, 1991, ISBN 5-210-00279-9). The passage explicitly names the relevant visual episodes as **Stalker's dream and the opening titles**, describes a synthesizer timbre compared to the Indian tampur, and names the **tar and flute** as the acoustic instruments brought into the final solution. It also says Tarkovsky sometimes retained only one episode from roughly ten during dubbing. This strengthens the provenance of the interview evidence but still does not supply cue timecodes, a score/cue sheet, or proof that the later «Сталкер: Медитация» album track is the same recording object.
+
+Source checked 2026-11-18: https://www.nostalghia.com/TheTopics/Stalker/artemyev.html . The page states that the text is taken from Turovskaya's 1991 book; it is a web transcription, not an inspected scan of the book. Confidence remains WELL-SUPPORTED for the account's content and PROVISIONAL for any exact film-version cue mapping.
