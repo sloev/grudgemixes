@@ -97,6 +97,8 @@ A further attempt was made to inspect the underlying newspaper and catalogue sca
 
 ## Research status
 
+**Programme status:** RESEARCHED-OPEN (2026-11-18). The original sound carrier and cue-level source material remain unresolved; the best available period and institutional evidence has been checked, and the exact dependencies are recorded below.
+
 - Kruchinin's association with the original-era music: **WELL-SUPPORTED**.
 - Compilation use of Liszt, Mendelssohn and Beethoven: **WELL-SUPPORTED** by the Sound Museum account; exact works and cues UNKNOWN.
 - Film's period classification: **WELL-SUPPORTED as silent with musical accompaniment**, based on the near-contemporary 20 January 1936 newspaper entry transcribed by Mayorov. Exact delivery/synchronization format: **UNKNOWN**. The 27 January advertisement's broad “sound feature” heading and Mosfilm's mono catalogue field remain counter-leads, but neither has been directly inspected at the relevant page/print level.
@@ -115,3 +117,28 @@ A further attempt was made to inspect the underlying newspaper and catalogue sca
 5. Identify the exact 2006 Mumiy Troll DVD/catalogue edition and whether its soundtrack was separately issued.
 6. Find primary event documentation or recordings for the 2014 Letov trio performance, and clarify whether the live music was recorded/released.
 7. Keep all later scores separate from Kruchinin's original-era compilation accompaniment in any future database.
+
+
+## Primary-source access audit (18 November 2026)
+
+This second bounded audit opened the current institutional records directly and retried the period-source scans.
+
+- **Mosfilm current catalogue:** the film page was opened directly. Its current metadata labels the film’s sound as **mono** but gives a release-date field of **1933**, which conflicts with the 1935 film date used by Gosfilmofond, the 1961 catalogue title and the 1936 newspaper record. Treat “mono” as current catalogue metadata only: it does not identify the original 1935/1936 print, whether the field refers to a later restoration, or whether the music was optically/synchronously recorded. Source: https://www.mosfilm.ru/cinema/films/kosmicheskiy-reys/ (accessed 2026-11-18).
+
+- **Gosfilmofond institutional report:** the 25 March 2020 page was opened directly. It confirms a modern TWINS Piano Duo composition by Igor Sviridov and Maxim Markov, performed with the Festival Symphony Orchestra, and says the notation of that new composition was being prepared for transfer to Gosfilmofond. It does not document Kruchinin’s original 1930s score or establish the present accession status of the TWINS manuscript. Source: https://gosfilmofond.ru/avtorskaya-muzyka-dlya-oblomka-imperii-i-kosmicheskogo-rejsa/ (accessed 2026-11-18).
+
+- **RSL catalogue record:** the Russian State Library record for the 1961 annotated catalogue was opened directly. It confirms the bibliographic item, the volume title “Звуковые фильмы (1930–1957 гг.),” and an online-copy/fragment service. The actual PDF/viewer link returned a fetch error; pp. 67–68 and the *Космический рейс* entry were not read. No fragment request was submitted. Source: https://search.rsl.ru/ru/record/01005451162 (accessed 2026-11-18). The National Electronic Library catalogue record was also opened but supplies bibliographic metadata only: https://rusneb.ru/catalog/000199_000009_005451162/.
+
+- **20 January 1936, *Вечерняя Москва*, no. 16:** the direct Nekrasovka PDF endpoint returned a fetch error. Mayorov’s 2022 page remains an accessible secondary transcription of the contemporary entry as “немой (озвучен музыкой),” not a direct inspection of the newspaper page. Source: https://opac.nekrasovka.ru/books/NEWSPAPERS/VM/1936/VM_1936_016.pdf (attempted 2026-11-18); transcription: https://cinemafirst.ru/kosmicheskij-rejs-1935/.
+
+- **27 January 1936, *Вечерняя Москва*, no. 21:** the direct Nekrasovka PDF endpoint again returned a fetch error. The reported “ЗВУКОВОЙ ХУДОЖ. ФАНТАСТИЧ. ФИЛЬМ” heading remains an unverified search lead; the advertisement’s page context and any adjacent qualification were not inspected. Source: https://opac.nekrasovka.ru/books/NEWSPAPERS/VM/1936/VM_1936_021.pdf (attempted 2026-11-18).
+
+**Effect on conclusion:** the best-supported period classification remains “silent, accompanied by music,” based on the secondary transcription of the 20 January 1936 newspaper entry and silent-era scholarship. The 27 January advertisement and Mosfilm’s current mono field remain counter-leads, not proof of a sound-on-film original. The film-print audio, original accompaniment carrier, exact classical excerpts and cue sequence remain unknown.
+
+**Research status decision:** RESEARCHED-OPEN. The primary newspaper scans and 1961 catalogue entry were actively retried and remain inaccessible through the opened endpoints; the best available secondary and institutional sources have been checked. This is not RESEARCHED-CLOSED and does not imply archive access, score inspection, film-print inspection, listening, rights clearance or a resolved sound format.
+
+**Next exact tasks**
+1. Obtain the 20 and 27 January 1936 newspaper pages from Nekrasovka or another library, including the full page context.
+2. If owner-approved, use the RSL fragment-copy service for pp. 67–68 of the 1961 catalogue and inspect the actual entry and its sound-format conventions.
+3. Inspect a reliably identified 1935/1936 film print and technical passport/edge code; reconcile the “silent with music” newspaper entry, the 27 January “sound feature” advertisement and the later mono catalogue field.
+4. Locate Kruchinin’s original score/cue list and establish whether the TWINS Piano Duo manuscript was ultimately accessioned; keep every later re-scoring separate.
