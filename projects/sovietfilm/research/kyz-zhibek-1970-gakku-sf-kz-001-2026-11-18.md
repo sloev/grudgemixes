@@ -49,3 +49,8 @@ Sources:
 - Saryn scholarly article (citation to the 23 January 1969 newspaper item): https://sarynjournal.kz/saryn/article/view/367
 - Local newspaper history, 29 December 2021, confirming the 1968 relaunch/title: https://vapress.kz/ru/article/stranisy-jivoi-istorii-v-etom-godu-vechernii-almaty-otmechaet-85-letnii-iubilei.html
 - Additional newspaper history, 12 March 2021: https://vapress.kz/ru/article/vechiorka-nachalo.html
+
+
+### Additional online-archive check — 2026-11-18
+
+The current newspaper's own archive page is https://vapress.kz/newspapers. Its visible year filters run from 2021 through 2026 only; it is a current-paper archive, not a digitised historical run, and does not expose the 1969 issue. This is a verified negative access result, not evidence that the 1969 issue is lost. The exact 23 January 1969 issue still requires a library/archive holdings enquiry.
