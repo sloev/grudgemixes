@@ -182,3 +182,32 @@ No audio audition, download, purchase, archive contact, rights clearance, public
 ## 2026-11-18 — ChatGPT — README snapshot addendum
 
 Appended a dated research snapshot addendum to README.md covering the GM-AM-005 B-grade upgrade, the new 1924/1925 Araki Mataemon rōkyoku C leads, and the absence of a new READY FOR GROK item. The original 2026-11-15 snapshot remains intact. No changes to TRACK_MAPPING.md or GROK_HANDOFF.md.
+
+
+## 2026-11-18 — ChatGPT — Insane Music IM-048 chronology and circulation clarification (DONE)
+
+### Scope
+Advance the canonical Insane Music lead IM-048, *Viajar – Ida e Volta no Caminho do Inconsciente Poético e Musical*, using contemporaneous local reporting; preserve mixed participant/guest authorship and do not claim a surviving copy or audio access.
+
+### Findings
+- Diario do Grande ABC (23 Nov 2001) announced the Santo André CAPS-DQ CD launch, described nine songs and approximately 500 free copies for institutions/projects connected with prevention work.
+- Diario do Grande ABC (13 Jan 2002) gave the complete title, again stated nine tracks, attributed the lyrics to students' 1999 workshops, identified volunteer regional arrangements and named the CAPS-DQ choir on “Viajar”; other named tracks were interpreted by invited/regional musicians.
+- Resolution: keep a 23 Nov 2001 launch date and a Jan 2002 distribution/reporting window, not a generic “2002 release”; do not describe all nine tracks as resident performances.
+
+### Files changed
+- `projects/insane-music/research/viajar-caps-dq-im-048-2026-11-18.md` (created)
+- `projects/insane-music/catalogue.md`
+- `projects/insane-music/environment-leads.md`
+- `projects/insane-music/research_method.md`
+- `coop.log.md`
+
+### Sources
+https://www.dgabc.com.br/Noticia/305281/centro-para-dependente-quimico-lancara-cd-no-municipal
+https://www.dgabc.com.br/Noticia/108256/arte-favorece-inclusao-social-no-abc
+https://slab.uff.br/wp-content/uploads/sites/101/2021/05/2007_d_Raquel.pdf
+
+### Verification / negative results
+No audio downloaded or auditioned; no physical CD inspected; no archive, municipality or participant contacted; no rights cleared. Public reports do not establish present carrier survival, complete sleeve/catalogue details, or current reuse permission.
+
+### Status / next handoff
+IM-048 remains RESEARCHED-OPEN. Next: locate a surviving CD or municipal/participant-held sleeve, recover complete nine-track credits and establish present custody/rights. Keep the 2001 launch and 2002 distribution evidence distinct.
