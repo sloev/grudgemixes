@@ -2228,3 +2228,10 @@ The 2026 fifth album now has an exact platform item page and a more precise date
 The exact 13-track platform list is captured in research/harmonia-enlouquece-im-039-2026-11-18.md. “O Amor Chegou” is absent from that list; Apple Music's currently accessible artist page instead exposes a 2022 track “Hoje o Amor Chegou.” No link between those titles is established. The official group site reports 66 songs, while the 15 August report says 65; preserve both counts pending a master discography. The 11/13 Hamilton authorship statement does not establish authorship of the remaining two tracks.
 
 This is metadata refinement only: retain IM-039 as context-only, with no new candidate or download request. Amazon Music is a streaming item page, not a direct audio/download URL; ℗© metadata is not reuse clearance. No audio auditioned or downloaded, no contact made, no rights cleared.
+
+
+## IM-048 — Santo André CAPS-DQ *Viajar* chronology / circulation clarification (2026-11-18)
+
+Two contemporaneous Diário do Grande ABC reports strengthen the record for the Santo André CAPS-DQ CD *Viajar – Ida e Volta no Caminho do Inconsciente Poético e Musical*: the 23 Nov 2001 launch notice describes nine songs and approximately 500 free copies for institutions/projects; the 13 Jan 2002 follow-up again gives the nine-track count, says workshop lyrics were written by students in 1999, and identifies volunteer regional arrangements and the CAPS-DQ choir on the title song. The reports distinguish participant-authored lyrics from guest interpretation; do not treat the CD as nine resident performances. Historical distribution is supported, but present carrier survival, complete sleeve data, current access and rights remain unresolved. No audio auditioned, no carrier inspected, no contact made and no rights cleared.
+
+Sources: https://www.dgabc.com.br/Noticia/305281/centro-para-dependente-quimico-lancara-cd-no-municipal ; https://www.dgabc.com.br/Noticia/108256/arte-favorece-inclusao-social-no-abc .
