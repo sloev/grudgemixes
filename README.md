@@ -189,3 +189,12 @@ The project is international in scope and must not default to North American or 
 Search local-language sources and regional archives, preserve original scripts and local genre terms, and explain transliteration and translation uncertainty. Colonial recording companies and Western collecting institutions are useful sources but are not the default arbiters of local musical meaning. Distinguish a work's first appearance from the date of a specific recording, and distinguish a local performance tradition from a commercially issued master.
 
 Recent additions illustrate this correction: Egyptian economic-grievance repertoire (GM-EG-001) and Bengali anticolonial recording history (GM-IN-001). Further active routes include the AMAR Foundation's Egyptian/Levantine 78 collection, the National Phonothèque of Tunisia, Indian sound archives and regional scholarship, and research on Ottoman Armenian diaspora records.
+
+
+## Research snapshot addendum — 2026-11-18
+
+- **GM-AM-005** (Tashjian Brothers, Columbia E661 / matrix 4973-1, 1910) is now **B — PROBABLE CANDIDATE**: a 1918 printed songbook witness is cited by Marutyan's 2020 Armenian-language study, which also documents the refrain's 1990 poster use and collective armed-recovery theme. The exact 1910 master text remains unverified.
+- **Japan / Araki Mataemon**: new C-level rōkyoku item leads include Tenchūken Ungetsu, Nipponophone 15319-A/B (1924), and Miyagawa Shōan, Asahi/Tsurumark 284 (1925), plus a separate undated Naniwaya Kotomaru 1747/1748/1749 sequence. The exact Hōsho Shiai episode text is not yet linked to the revenge mechanism, so these are not promoted candidates.
+- No new READY FOR GROK item: no authorised direct audio/download route was verified. Root TRACK_MAPPING.md remains unchanged.
+
+See the GM-AM-005 lead dossier, Japan rōkyoku dossier and global map for evidence and source distinctions.
