@@ -1403,3 +1403,8 @@ Created research/harmonia-enlouquece-im-039-2026-11-18.md and updated catalogue.
 2. Continue IM-040 GDE item-level verification (exact cassette issue, tracklist, performer/authorship, band-supplied transfer provenance and lawful access); do not use collector-blog download links as rights evidence.
 3. Continue IM-046 Ata Kak source-copy lineage: identify the Berlin cassette generation and run a distinct Twi-language/local Ghana source search; keep the 2015 and 2025 transfers separate.
 4. Do not repeat the completed IM-038 two-CD chronology or IM-049 Tardes Nuestras theme qualification without a new primary audio/access or authorship route.
+
+
+## 2026-11-18 continuation checkpoint — IM-048
+
+A bounded source pass advanced the canonical Insane Music lead IM-048 using two contemporaneous Portuguese reports. The lead now has a precise 23 Nov 2001 launch / Jan 2002 distribution-report chronology, a nine-track count, an approximately 500-copy free-distribution estimate and a clearer mixed participant/guest performance distinction. The surviving carrier, complete sleeve/credits and rights remain unresolved. Next exact task: locate a surviving CD or municipal/participant-held sleeve and preserve the 2001 and 2002 reports as separate evidence. No audio or physical media was accessed.
