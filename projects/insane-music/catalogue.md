@@ -196,3 +196,10 @@ The date conflict is material: do not collapse the 1987 catalogue/platform date 
 ## 2026-11-18 IM-039 catalogue follow-up
 
 The 13-track fifth-album item is now cross-referenced to research/harmonia-enlouquece-im-039-2026-11-18.md. Platform item: Amazon Music, Esse 5° É Dos Infernos, platform-listed 2026-07-05; official public launch: O Quinto dos Infernos at MuhCab, 2026-08-15. The official 2026-04-08 announcement's “O Amor Chegou” is not in the platform tracklist; no mapping to Apple Music's 2022 “Hoje o Amor Chegou” is established. Preserve the official-site 66-song count vs Agência Brasil's 65-song count. IM-039 remains VERIFIED corpus / CONTEXT ONLY; no new candidate and no download request.
+
+
+## IM-048 — *Viajar – Ida e Volta no Caminho do Inconsciente Poético e Musical* (2026-11-18 clarification)
+
+The contemporary chronology is now more precise: a Diário do Grande ABC report dated **23 November 2001** announced the Santo André CAPS-DQ launch and described approximately 500 free-distribution copies; a second report dated **13 January 2002** again identified a **nine-track** CD and described its 1999 workshop lyric origin, volunteer arrangements and mixed guest/resident performance. Keep the 2001 launch and 2002 distribution/reporting window distinct. The 500-copy figure is a historical distribution estimate, not a present-day survival count. IM-048 remains **RESEARCHED-OPEN** because no surviving carrier, complete sleeve/catalogue record, current access route or rights status has been verified. Do not describe all nine tracks as resident performances: the contemporary reports identify only “Viajar” as performed by the CAPS-DQ group.
+
+Sources: https://www.dgabc.com.br/Noticia/305281/centro-para-dependente-quimico-lancara-cd-no-municipal ; https://www.dgabc.com.br/Noticia/108256/arte-favorece-inclusao-social-no-abc .
