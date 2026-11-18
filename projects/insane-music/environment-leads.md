@@ -2219,3 +2219,12 @@ The apparent *Saúde Musical* title/date conflict is now best explained by **two
 Qualified one new Argentina community-radio lead: a recurring rock theme used by *Tardes Nuestras*, a programme created by users and workers associated with Hospital Agudo Ávila / Centro Cultural Gomecito and broadcast by FM Aire Libre in Rosario. A 2017 UNR thesis says the theme was produced with musicians; a 2020 *La Capital* article quotes its opening lyric and confirms it starts the weekly show; the station's official page links recorded programmes through RadioCut. The song's title, authors and performer remain unknown, and resident authorship/performance is not established. The RadioCut route returned an access failure; no audio was auditioned. Count the recurring theme once, not each episode. See research/tardes-nuestras-im-049-2026-11-18.md.
 
 Sources and access dates are recorded in the two dossiers. No contact, purchase, download, archive access or rights clearance was performed.
+
+
+## 2026-11-18 follow-up — IM-039 Harmonia Enlouquece fifth-album metadata
+
+The 2026 fifth album now has an exact platform item page and a more precise date/title crosswalk. Amazon Music lists **Esse 5° É Dos Infernos**, 13 tracks / 46 minutes, platform date 5 July 2026, ℗© Hamilton Assunção. The official state-health article from 8 April called the forthcoming album **O Quinto dos Infernos** and named “O Amor Chegou” as a Hamilton composition/highlight; the 15 August Agência Brasil launch report uses the same official album title, states 13 tracks and 11 unreleased tracks by Hamilton, and places the public launch at MuhCab. Treat 5 July as the platform-listed date and 15 August as the public launch event, not a date conflict.
+
+The exact 13-track platform list is captured in research/harmonia-enlouquece-im-039-2026-11-18.md. “O Amor Chegou” is absent from that list; Apple Music's currently accessible artist page instead exposes a 2022 track “Hoje o Amor Chegou.” No link between those titles is established. The official group site reports 66 songs, while the 15 August report says 65; preserve both counts pending a master discography. The 11/13 Hamilton authorship statement does not establish authorship of the remaining two tracks.
+
+This is metadata refinement only: retain IM-039 as context-only, with no new candidate or download request. Amazon Music is a streaming item page, not a direct audio/download URL; ℗© metadata is not reuse clearance. No audio auditioned or downloaded, no contact made, no rights cleared.
