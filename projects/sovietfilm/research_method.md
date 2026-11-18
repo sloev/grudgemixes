@@ -180,3 +180,8 @@ The Saryn article's cited “Сегодня на «Казахфильме»,” 
 4. Compare the *Maftuningman* cue in a lawful film print and locate the original score/production credits to resolve Leviev/Burhonov/Ikrom Akbarov attribution.
 
 No new READY FOR DRIVE item, no audio audition/download/upload, no contact and no rights clearance.
+
+
+### 2026-11-18 addendum — current newspaper archive range
+
+Followed the current newspaper's own archive link to https://vapress.kz/newspapers. The visible year filters are 2021–2026 only; this is not a digitised historical run and does not expose the 23 January 1969 issue. This is a verified negative access result, not evidence the historical issue is lost. The exact 1969 issue still requires a library/archive holdings enquiry. Updated the SF-KZ-001 dossier; no cue or status change.
