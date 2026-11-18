@@ -35,3 +35,17 @@ Obtain an authorised viewing route or archive consultation for the Kazakh-langua
 - Munira Izhánova interview, *Ak Zhaiyk*, 2014: https://azh.kz/kz/news/view/9873
 - El.kz article (6 November 2026), offscreen Gakku and 1969 attribution: https://el.kz/amp/qyz-zhibektegi-gakku-anin-oryndagan-munira-izhanova-turaly-ne-bilemiz_400055197/
 - Saryn scholarly article, «Акку–Гакку» intonation complex: https://sarynjournal.kz/saryn/article/view/367
+
+
+## 2026-11-18 follow-up — 23 January 1969 newspaper access audit
+
+The Saryn article remains the only source located in this pass that cites the contemporaneous item “Сегодня на «Казахфильме»,” *Вечерняя Алма-Ата*, 23 January 1969. A local newspaper-history article published 29 December 2021 confirms that the city paper was relaunched in early 1968 under the title «Вечерняя Алма-Ата», so the 1969 masthead/title is chronologically plausible. This corroborates the periodical identity, not the cited article's contents or the exact issue's survival.
+
+A National Academic Library PDF surfaced in the catalogue search but proved to be an Akim Tarazi biobibliography with a periodicals index, not a newspaper holdings/issue catalogue. Discard it as an access route. Searches of the current newspaper site and indexed regional library/archive pages did not locate a scan or digitised copy of the 23 January 1969 issue. No holding institution for that exact issue has been verified.
+
+**Result:** no new audio cue, no timecode, no cue-sheet or studio-log evidence, and no status change to SF-KZ-001. The next step is a targeted holdings enquiry to the National Library of Kazakhstan / Almaty municipal archive and, separately, the Kazakhfilm production archive for the 23 January 1969 issue and any music cue sheet or Gakku recording log. No enquiry was sent in this pass.
+
+Sources:
+- Saryn scholarly article (citation to the 23 January 1969 newspaper item): https://sarynjournal.kz/saryn/article/view/367
+- Local newspaper history, 29 December 2021, confirming the 1968 relaunch/title: https://vapress.kz/ru/article/stranisy-jivoi-istorii-v-etom-godu-vechernii-almaty-otmechaet-85-letnii-iubilei.html
+- Additional newspaper history, 12 March 2021: https://vapress.kz/ru/article/vechiorka-nachalo.html
