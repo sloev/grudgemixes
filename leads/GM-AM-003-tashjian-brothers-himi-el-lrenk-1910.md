@@ -66,3 +66,19 @@ Prioritize as a B candidate and a high-value retrieval target. Exact performer, 
 ## Identity clarification — a separate 1909 solo recording
 
 The Armenian Museum's expanded discography also identifies a 1909 solo Mardiros Der Sarkis Tashjian “Himi El Lrenk,” Columbia E529-4100, paired/listed with “Marseillaise.” This is distinct from the 1910 Tashjian Brothers “Himi El Lrenk,” Columbia E668/4953, documented in this dossier. The shared title does not make them the same performance or issue. The 1909 solo performance now has separate project ID GM-AM-004 and dossier `leads/GM-AM-004-mardiros-tashjian-himi-el-lrenk-1909.md`. Source: https://armenian-museum.squarespace.com/sound-archive/tashjian-story .
+
+## 2026-11-18 research audit — 1910 trio version
+
+The Armenian Museum of America’s current Sound Archive page reproduces the Columbia label for **Eghbayrner T’ashchean, “Himi el Irenk’,” E668 / 4953**. The museum’s expanded family/discography article separately lists **Himi El Lrenk (E668-4953)** among the Tashjian Brothers’ 1910 titles and states that Mardiros returned to Columbia in autumn 1910 with Nishan and Levon; the 28-song session was recorded in 1910 and released in 1911. The label image is direct evidence for the title/issue identity, not an audio transfer or a matrix/runout inspection.
+
+This resolves the principal identity/version risk: **GM-AM-003 is the 1910 three-brother performance**, not Mardiros’s distinct 1909 solo recording **E529-4100**. The museum describes the 1910 brothers’ records as three-part vocal harmonies. No exact matrix number, take, runout transcription or recording-level audio for this title was verified in this pass.
+
+The museum’s contextual account places the 1910 session after the 1909 Adana massacres and describes the brothers’ broader patriotic repertoire and community activity. That context does **not** establish that this particular song was commissioned for a relief event or was written as a direct response to Adana. The text witness already collected in the dossier remains a song-family/textual witness, not proof that every stanza or ordering occurs on E668-4953. The exact recorded Armenian text and its relation to the printed witness remain open.
+
+**Access and rights:** the museum’s label image and discography are viewable online. No audio audition, download, physical inspection, museum contact, permission request or rights clearance was performed. The museum’s digitization acknowledgement is not a reuse licence. Recording and composition rights remain unresolved.
+
+**Next exact action:** obtain an authorized audio transfer and matrix/runout documentation for E668-4953; compare the complete Armenian text and stanza order against the printed witness; establish the rights holder and any reuse conditions. Until then retain B evidence and RESEARCHED-OPEN status, not RESEARCHED-CLOSED.
+
+**Sources checked 2026-11-18**
+- Armenian Museum of America, *The Tashjian Brothers* (label image and 1910 discography): https://www.armenianmuseum.org/sound-archive/the-tashjian-brothers
+- Harout Arakelian / Armenian Museum of America, *The Incomplete Story of Mardiros Der Sarkis Tashjian & His Brothers* (1910 session, release year, and separate 1909/1910 discographies): https://www.armenianmuseum.org/sound-archive/tashjian-story
