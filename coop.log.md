@@ -162,3 +162,18 @@ Bounded scope for this pass:
 - **Soviet Film Music:** advance baseline *Stalker*; qualify one new Kazakh SSR film-song cue.
 
 No audio audition, download, purchase, archive contact, rights clearance, public-tracker edit or publication is authorised or claimed in this pass.
+
+
+## 2026-11-18 — ChatGPT — DONE: Armenian text-history upgrade and Japanese rōkyoku item search
+
+**Scope:** Grudge Mixes only. Continued the active 2026-11-18 bounded pass; did not alter any other project's records.
+
+- Upgraded GM-AM-005, Tashjian Brothers “Menk Bedk E Grvenk,” from C to **B — PROBABLE CANDIDATE**. Marutyan's 2020 Armenian-language study identifies the song as a fedayi/revolutionary song, documents its first couplet on six posters at the 24 April 1990 commemoration, describes it as approximately 80 years old, and cites a 1918 New Jersey songbook witness (T. Varjabedyan, *Քնար. գրպանի նոր երգարան*, p.105) plus the 1989 anthology. The 1918 book itself was not inspected; exact 1910 master text remains unverified. Corrected notation to catalogue E661 / matrix 4973-1; no direct authorised audio/download route.
+- Added Japanese item-level C leads: Tenchūken Ungetsu, Nipponophone 15319-A/B (1924); Miyagawa Shōan, Asahi/Tsurumark 284 (1925; CiNii BB17500519 / Nichibunken reg=521435); and separate undated Naniwaya Kotomaru Nipponophone 1747 / Royal 1748–1749 sequence. The 1924/25 items are tied to the Araki Mataemon / Hōsho Shiai episode, but the recorded episode's actual grievance/retaliation content is not established. The 1927 Taihei “Ueno Adauchi” set is outside core and retained only as a control.
+- No audio played or downloaded, no archive contacted, no rights cleared. No new READY FOR GROK row; root TRACK_MAPPING.md and GROK_HANDOFF.md unchanged.
+
+**Sources:** https://read.enlightngo.org/post/15127 ; https://78music.jp/other4.html ; https://78music.jp/other5.html ; https://ci.nii.ac.jp/ncid/BB17500519 ; https://kutsukake.nichibun.ac.jp/rsp/?reg=521435 ; https://ci.nii.ac.jp/ncid/BB17344945 ; https://www.tbz.or.jp/yamabikokan/publication/791/ ; https://www2.ntj.jac.go.jp/dglib/contents/learn/edc16/iga/etc/tv/movie.html .
+
+**Files changed:** `leads/GM-AM-005-tashjian-brothers-menk-bedk-e-grvenk-1910.md`; `research/japan-ako-gishi-yoshida-naramaru-royal-record.md`; `research/global-early-recording-map.md`; `research_method.md`; `coop.log.md`.
+
+**Next:** inspect the 1918/1989 Armenian songbook pages and match the 1910 master text; obtain primary catalogue/label/text evidence for the 1924/25 Hōsho Shiai recordings; continue the existing Royal 1645/1649 KD1-E21 crosswalk.
