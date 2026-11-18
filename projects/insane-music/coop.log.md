@@ -225,3 +225,15 @@ No audio audition, download, purchase, archive contact, rights clearance, public
 3. Continue the next baseline targets IM-039 and IM-040 with the same environment-first and recording-evidence threshold.
 
 No audio assets were modified; no purchase, download, contact, permission or rights clearance was made. No public tracker was changed.
+
+
+## 2026-11-18 — ChatGPT — IM-039 fifth-album item-level reconciliation
+
+- Identified the exact Amazon Music item page for the fifth Harmonia Enlouquece album: platform title Esse 5° É Dos Infernos, 13 tracks, 46 minutes, platform-listed 5 July 2026, ℗© Hamilton Assunção. Kept this distinct from the official event title O Quinto dos Infernos and public launch at MuhCab on 15 August 2026.
+- Reconciled the official 8 April state-health announcement (which names “O Amor Chegou” as a forthcoming highlight) with the 13-track platform list: that exact title is absent; no mapping to the 2022 Apple Music title “Hoje o Amor Chegou” is established. Preserved the official-site 66-song count vs the 15 August Agência Brasil 65-song count. The report attributes 11/13 new tracks to Hamilton; the remaining two authors are unspecified.
+- IM-039 remains VERIFIED corpus / CONTEXT ONLY. No obscurity or authorship promotion. Amazon Music is a streaming item page, not a direct download; ℗© is not reuse clearance. No audio auditioned/downloaded, no upload, contact or rights clearance; no TRACK_MAPPING/Grok queue change.
+- Added research/harmonia-enlouquece-im-039-2026-11-18.md and updated catalogue.md, environment-leads.md and research_method.md.
+
+Sources: https://harmoniaenlouquece.org.br/ ; https://www.rj.gov.br/saude/node/3948 ; https://www.linhageral.com.br/noticia/harmonia-enlouquece-lanca-novo-album-e-celebra-25-anos-de-saude-mental ; https://music.amazon.ca/albums/B0HKPWSSGD ; https://music.apple.com/us/artist/harmonia-enlouquece/1631734647 .
+
+Next: resolve “O Amor Chegou” vs platform tracklist and 65/66 corpus count; then continue IM-040 GDE and Ata Kak source-copy/Twi-language research. Do not repeat IM-038 or IM-049 without a new evidence route.
