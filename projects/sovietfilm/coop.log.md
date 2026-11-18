@@ -407,3 +407,15 @@ No audio audition, download, purchase, archive contact, rights clearance, public
 3. Continue regional discovery and advance the remaining baseline targets; preserve film-print audio, soundtrack releases, re-recordings, reconstructions and later dubs as separate objects.
 
 No audio assets were modified; no purchase, download, contact, permission or rights clearance was made. No public tracker was changed.
+
+
+## 2026-11-18 — ChatGPT — Kyz-Zhibek newspaper access audit
+
+- Followed the exact Saryn citation for “Сегодня на «Казахфильме»,” *Вечерняя Алма-Ата*, 23 January 1969. A 2021 local newspaper-history article confirms the paper relaunched in early 1968 under the title *Вечерняя Алма-Ата*, corroborating the periodical identity.
+- A National Academic Library PDF returned by search was an Akim Tarazi biobibliography with a periodicals index, not a newspaper holdings/issue catalogue; discarded it as a false access lead. No scan or exact holding for the 23 January 1969 issue was located in indexed regional sources or the current newspaper site.
+- No new cue, timecode, production cue sheet, audio item or status promotion. SF-KZ-001 remains IN PROGRESS; the newspaper citation is not proof of the issue's contents or survival.
+- Updated the SF-KZ-001 dossier and research_method.md. No audio auditioned/downloaded/uploaded, no contact, permission or rights clearance.
+
+Sources: https://sarynjournal.kz/saryn/article/view/367 ; https://vapress.kz/ru/article/stranisy-jivoi-istorii-v-etom-godu-vechernii-almaty-otmechaet-85-letnii-iubilei.html ; https://vapress.kz/ru/article/vechiorka-nachalo.html .
+
+Next: request the exact 23 January 1969 issue from the National Library of Kazakhstan / Almaty municipal archive and ask Kazakhfilm for the production cue sheet or Gakku recording log; continue Stalker cue-timecode work and the remaining baseline tasks separately.
