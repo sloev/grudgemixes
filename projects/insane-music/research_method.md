@@ -1390,3 +1390,16 @@ Source: https://atakak.bandcamp.com/album/obaa-sima-anniversary-remaster ; 2015 
 - Establish the Berlin cassette's generation and source history.
 - Compare the 2015 and 2025 faster/slower transfers; no listening claim until actually auditioned.
 - Run a separate Twi-language/local Ghana source search.
+
+
+## 2026-11-18 — IM-039 fifth-album item-level reconciliation
+
+The fifth Harmonia Enlouquece album has an exact Amazon Music item page under the platform title Esse 5° É Dos Infernos (13 tracks, 46 minutes, platform-listed 2026-07-05, ℗© Hamilton Assunção). The official state-health announcement of 2026-04-08 uses O Quinto dos Infernos and names “O Amor Chegou” as a forthcoming highlight; the 2026-08-15 Agência Brasil report describes the public launch at MuhCab, 13 tracks and 11 previously unreleased songs by Hamilton. Treat the platform date and public event as distinct. “O Amor Chegou” is absent from the platform tracklist; no mapping to Apple Music's 2022 “Hoje o Amor Chegou” is established. The official group site says 66 songs; the 15 August report says 65. Preserve both. The other two album tracks' authorship is not established by the cited report.
+
+Created research/harmonia-enlouquece-im-039-2026-11-18.md and updated catalogue.md / environment-leads.md. IM-039 remains VERIFIED corpus / CONTEXT ONLY: no obscurity or authorship promotion. Amazon is a streaming page, not a direct download URL; ℗© is not a reuse licence. No audio auditioned/downloaded, no upload, no contact and no rights clearance. No TRACK_MAPPING or Grok queue change.
+
+### NEXT — exact queue
+1. Resolve whether “O Amor Chegou” was omitted, retitled or issued separately; compare the official April announcement with the platform list and the unrelated 2022 “Hoje o Amor Chegou” without merging them. Seek a complete artist/label release sheet and credits for the remaining two tracks.
+2. Continue IM-040 GDE item-level verification (exact cassette issue, tracklist, performer/authorship, band-supplied transfer provenance and lawful access); do not use collector-blog download links as rights evidence.
+3. Continue IM-046 Ata Kak source-copy lineage: identify the Berlin cassette generation and run a distinct Twi-language/local Ghana source search; keep the 2015 and 2025 transfers separate.
+4. Do not repeat the completed IM-038 two-CD chronology or IM-049 Tardes Nuestras theme qualification without a new primary audio/access or authorship route.
