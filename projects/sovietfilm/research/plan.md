@@ -102,3 +102,14 @@ No website code or framework is in scope yet.
 - Record sources and uncertainty at claim level.
 - Never mistake an interesting lead for an established fact.
 - Build a useful map before deciding what the website should look like.
+
+
+## Regional discovery addition — 2026-11-18
+
+### Uzbek SSR: *Мафтунингман* / *Maftuningman* (1958), cue “Do‘ppi tikdim”
+
+Add this as one cue-family research target, not as a soundtrack album. The 2014 printed score labels “Do‘ppi tikdim” as from the film and credits Turob To‘la / “Monas Leviev”; the Uzbek Composers’ Union biography credits Klara Jalilova’s performance and places the song among Mutal Burhonov’s film work while also describing collaboration with Leviev and Ikrom Akbarov. Preserve this composer-credit tension until original production documentation is found.
+
+The film is identified as a 1958 Uzbekfilm musical comedy by Shaxs.uz and in the TelecomTV Milliy catalogue. A RizaNova video title says the song is from the film, but the video page did not load; do not infer that it is the original film mix. The film-print cue, later video excerpt and any standalone soundtrack release must remain separate objects. See the SF-UZ-001 dossier and SF-AUD-008 queue row.
+
+**Next:** inspect a lawful film print; locate original production score/cue sheets and recording credits; establish whether a separate soundtrack release exists; compare the film mix to the later excerpt. No listening, download, purchase or rights clearance was performed in this pass.
