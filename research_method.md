@@ -363,3 +363,23 @@ Source: https://wwws.loc.gov/folklife/guides/Gordon.html ; https://wwws.loc.gov/
 
 ### NEXT
 Request the item-level AFC/AFS record, singer, exact date/place, text 137, cylinder physical description, preservation/transfer details and access terms for A93 / NC137. Keep GM-US-018 B — probable; no new candidate or rights conclusion.
+
+
+## 2026-11-18 — Armenian GM-AM-005 and Japanese Araki Mataemon rōkyoku pass
+
+**GM-AM-005 — Tashjian Brothers, “Menk Bedk E Grvenk” (Columbia E661 / matrix 4973-1, 1910; issue 1911):** upgraded from C to **B — PROBABLE CANDIDATE**. The independent Columbia E-series table distinguishes matrix 4973-1 (“Menk Bedk E Gurvink-Fedayi Yeraze”) from 4971-1 (“Aznif Ungert”), correcting the Armenian Museum page's duplicated 4971 listing. Marutyan's 2020 Armenian-language study documents the song's first couplet on six posters at the 24 April 1990 commemoration, describes it as approximately 80 years old, and cites T. Varjabedyan's 1918 *Քնար. գրպանի նոր երգարան*, p.105, plus the 1989 *Հայ ժողովրդական ռազմի և զինվորի երգեր* anthology. This is strong collective grievance / armed-recovery evidence at song-text level. The 1918 book was not directly inspected and the 1910 master has not been heard/transcribed; exact text-to-master linkage remains unresolved. No authorised downloadable source; no Grok request.
+
+**Japan — Araki Mataemon / 奉書試合:** new item-level C leads:
+- Tenchūken Ungetsu, 「奉書仕合 荒木又右衛門（上／下）」, Nipponophone 15319-A/B, 1924 (month unspecified), per 78MUSIC.
+- Miyagawa Shōan, 「荒木又右衛門 : 奉書試合」, Asahi/Tsurumark 284, 1925, per 78MUSIC; CiNii BB17500519 and Nichibunken RSP reg=521435 identify the object/holdings.
+- Separate undated Naniwaya Kotomaru sequence: Nipponophone 1747 / Royal 1748 / 1749; CiNii BB17344945 describes a one-disc upper/middle object, while 78MUSIC lists the three-part sequence.
+The Tottori City History Museum and Japan Arts Council establish the 1634 Iga-Ueno vendetta and the 1910 film title 「荒木又右衛門奉書試合」, but not the content of the 1924/25 recorded episode. Keep all as C until a text/transcript proves the specific passage's grievance/retaliation mechanism. The 1927 Taihei 「上野仇討」 four-part set is an outside-core control. No direct audio/download route or Grok request.
+
+No file was auditioned or downloaded, no archive contacted and no rights cleared. Root TRACK_MAPPING.md and GROK_HANDOFF.md remain unchanged because no new target has an authorised direct audio/download route.
+
+### NEXT — exact queue
+1. Obtain/inspect Varjabedyan 1918 songbook p.105 and Ghaziyan 1989 pp.105/113/146–148/291; compare the exact wording with the 1910 Columbia E661 / matrix 4973-1 master if an authorised listening route becomes available. Keep author attribution unresolved.
+2. For Nipponophone 15319-A/B and Tsurumark 284, seek the exact NDL / Nichibunken / company catalogue entry and any surviving label/runout or item transcript. Establish whether “Hōsho Shiai” is a prelude/duel episode or includes the vendetta's grievance/retaliation. Keep 1747/1748/1749 undated and separate.
+3. Continue the existing Naramaru Royal 1645/1649 KD1-E21 issue-month and physical label/matrix crosswalk; do not infer dates from catalogue sequence.
+4. Reconcile GM-US-019 Waring's reported 3:32 Drive file against the 3:21 specialist duration only when Grok provides verifiable file metadata; do not ask for a new retrieval.
+5. Request item-level AFC/AFS record, singer, date/place, text 137 and transfer/access details for Gordon A93 / NC137; keep it separate from Julius Sutton's A79 / NC117.
