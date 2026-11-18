@@ -302,3 +302,20 @@ The National Diet Library's *演芸レコード発売目録* (1990, KD1-E21) cov
 ## United States — Stagger Lee / Waring's Pennsylvanians, “Stack O'Lee Blues” (Victor 19189, 1923)
 
 The North American Ballad and Song Database indexes Waring's Pennsylvanians' “Stack O'Lee Blues” (Victor 19189, 1923) as an early recording of the Stagolee / Stackerlee ballad (Laws I15). The 2026 *Jazz and Ragtime Records* discography identifies matrix 28665-5 and a Camden session on 16 October 1923; a specialist Stagger Lee chronology describes the first 1923 dance-band versions as instrumentals. This is an important early commercial version witness, but not a lyric-bearing grievance recording: the instrumental does not itself articulate retaliation or accusation. Keep it as context only, distinct from the 1924 first-vocal Ford and Ford issue and the later Furry Lewis / Reed-Hull versions. Grok reported an MP3 in Drive (3:32, about 4.8 MB); specialist duration is 3:21, so the transfer remains unverified. The earlier report's 18 April 1923 date is corrected to 16 October 1923. Dossier: research/waring-pennsylvanians-stack-o-lee-blues-victor-19189-1923.md. Sources: https://mainspringpress.org/wp-content/uploads/2026/01/RUST_JRR-6.pdf ; https://balladindex.org/Ballads/LI15.html ; https://www.staggerlee.com/history/1921-1930.php ; https://socialhistoryofamericanmusic.com/wp-content/uploads/2023/02/42-The-Bigger-Bang-pt.-3-Folk-Blues.pdf .
+
+
+## 2026-11-18 — Armenian diaspora and Japanese rōkyoku item-level advances
+
+### Armenia / New York — Tashjian Brothers, “Menk Bedk E Grvenk” (1910)
+
+**B — PROBABLE CANDIDATE.** Columbia E661, matrix 4973-1, Tashjian Brothers, New York autumn 1910, issue 1911. The independent Columbia E-series table separates matrix 4973-1 (“Menk Bedk E Gurvink-Fedayi Yeraze”) from 4971-1 (“Aznif Ungert”), correcting the Armenian Museum discography's duplicated E661-4971 listing. Marutyan's 2020 Armenian-language study identifies the song as a fedayi/revolutionary song, documents its first couplet on six posters at the 24 April 1990 commemoration, and cites T. Varjabedyan's 1918 *Քնար. գրպանի նոր երգարան*, p.105, alongside the 1989 Armenian folk war/soldier-song anthology. This is strong collective grievance / armed-recovery evidence at text level, but the exact 1910 take has not been heard or transcribed; status remains B, not A. No authorised download route or Grok request. Detailed lead: `leads/GM-AM-005-tashjian-brothers-menk-bedk-e-grvenk-1910.md`.
+
+### Japan — Araki Mataemon / 奉書試合 rōkyoku records (1924–25)
+
+New C-level recording leads, separate from the Naramaru / Akō Gishi discs:
+- Tenchūken Ungetsu, 「奉書仕合 荒木又右衛門（上／下）」, Nipponophone 15319-A/B, 1924 (month unspecified), per 78MUSIC.
+- Miyagawa Shōan, 「荒木又右衛門 : 奉書試合」, Asahi / Tsurumark 284, 1925, per 78MUSIC; CiNii BB17500519 and Nichibunken RSP reg=521435 provide the item/holding route.
+- Related but undated: Naniwaya Kotomaru, 「荒木又右衛門（上／中／下）」, Nipponophone 1747 / Royal 1748 / 1749; CiNii BB17344945 describes one disc carrying upper Nipponophone 1747 and middle Royal 1748. Keep separate from the two dated objects.
+- Negative control: Ueda Gomanraku, 「荒木又右衛門（上野仇討）」, Taihei 4017–4020, 1927, explicitly names the Ueno revenge but is outside the pre-1926 core.
+
+The Tottori City History Museum and Japan Arts Council establish the larger 1634 Iga-Ueno vendetta story and identify a 1910 film titled 「荒木又右衛門奉書試合」. They do not prove that the 1924/25 recorded Hōsho Shiai episode contains the revenge itself. All remain C — LEAD until the specific performance text is linked to a grievance/retaliation mechanism. No audio/download route verified; no Grok request. Detailed crosswalk: `research/japan-ako-gishi-yoshida-naramaru-royal-record.md`.
