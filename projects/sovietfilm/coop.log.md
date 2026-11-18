@@ -346,3 +346,30 @@ Advance baseline *Космический рейс* (1935) by checking the underl
 
 ### Guardrails
 Keep original accompaniment, later live re-scorings and sound-on-film catalogue metadata separate. Do not claim direct inspection of inaccessible scans, film prints, audio, score or archive holdings.
+
+
+## 2026-11-18 — ChatGPT — Kosmicheskiy reys and Uzbek regional cue (DONE)
+
+### Existing baseline lead advanced
+- **Космический рейс / Kosmicheskiy reys (1935) → RESEARCHED-OPEN.** The current Mosfilm page was opened: it labels the film’s sound “mono” but gives a conflicting 1933 date field. The Gosfilmofond report was opened and confirms only the later TWINS Piano Duo score and reported transfer preparation, not Kruchinin’s original score. The RSL catalogue record was opened; the 1961 catalogue PDF/viewer did not load, and no fragment request was submitted. Both 1936 Nekrasovka newspaper PDF endpoints failed again. The 20 January “silent (accompanied by music)” wording remains a secondary transcription; the 27 January “sound feature” ad remains unverified. The original carrier/print format is still unresolved.
+
+### New regional cue lead added
+- **SF-UZ-001 — “Do‘ppi tikdim” / «Дўппи тикдим» from *Мафтунингман* (*Maftuningman*, 1958), Uzbek SSR.** The 2014 printed score identifies the cue as from the film and credits Turob To‘la / “Monas Leviev”; the Uzbek Composers’ Union biography credits Klara Jalilova’s performance and places the song among Mutal Burhonov’s film work, while also describing Burhonov’s collaboration with Leviev and Ikrom Akbarov. Composer attribution is unresolved/shared. The RizaNova video page failed to load; original film-print audio and any standalone soundtrack release remain unverified. Counted as one cue family, not multiple versions.
+
+### Audio queue metrics
+- New queue entry: SF-AUD-008, status IDENTITY UNRESOLVED.
+- New entries READY FOR DRIVE: 0.
+- Files uploaded and verified in Drive: 0.
+- No audio was auditioned, downloaded, purchased or uploaded; no rights clearance or archive request was made.
+
+### Files changed
+- projects/sovietfilm/research/kosmicheskiy-reys-1935.md
+- projects/sovietfilm/research/maftuningman-doppi-tikdim-sf-uz-001-2026-11-18.md
+- projects/sovietfilm/audio-collection-queue.md
+- projects/sovietfilm/research/plan.md
+- projects/sovietfilm/research_method.md
+
+### Next exact tasks
+1. Advance baseline *Stalker* with cue-level primary evidence and keep film-mix, soundtrack-release and later re-recording objects distinct.
+2. Obtain the 1961 catalogue pages 67–68 and the 20/27 January 1936 newspaper pages; inspect a print/technical passport before resolving the original sound format.
+3. Compare “Do‘ppi tikdim” in a lawful film print against the RizaNova excerpt; locate original production score/credits and determine whether a separate soundtrack release exists.
