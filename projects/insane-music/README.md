@@ -37,3 +37,8 @@ A genuinely global, non-Anglo perspective takes priority over convenience or the
 
 
 - **New non-Anglo community-music lead:** IM-042, Salidummay / DKK, a Cordillera cassette project in the Philippines. The 1987/1989 first-cassette date discrepancy is preserved; see the dossier and catalogue notes.
+
+
+## Snapshot addendum — 2026-11-18
+
+IM-039's fifth Harmonia Enlouquece album now has an exact 13-track Amazon Music item page under the platform title Esse 5° É Dos Infernos (platform-listed 5 July 2026), distinct from the public launch event/title O Quinto dos Infernos on 15 August 2026. “O Amor Chegou,” announced as a forthcoming highlight in April, is absent from the platform list; the official-site 66-song corpus count and the August report's 65-song count remain unreconciled. IM-039 stays context-only. See research/harmonia-enlouquece-im-039-2026-11-18.md and the latest catalogue / environment-leads / research_method updates. No audio was downloaded or auditioned and no rights were cleared.
