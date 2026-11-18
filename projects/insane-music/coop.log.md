@@ -237,3 +237,8 @@ No audio assets were modified; no purchase, download, contact, permission or rig
 Sources: https://harmoniaenlouquece.org.br/ ; https://www.rj.gov.br/saude/node/3948 ; https://www.linhageral.com.br/noticia/harmonia-enlouquece-lanca-novo-album-e-celebra-25-anos-de-saude-mental ; https://music.amazon.ca/albums/B0HKPWSSGD ; https://music.apple.com/us/artist/harmonia-enlouquece/1631734647 .
 
 Next: resolve “O Amor Chegou” vs platform tracklist and 65/66 corpus count; then continue IM-040 GDE and Ata Kak source-copy/Twi-language research. Do not repeat IM-038 or IM-049 without a new evidence route.
+
+
+## 2026-11-18 — ChatGPT — README snapshot addendum
+
+Added a dated README snapshot note for the IM-039 fifth-album metadata reconciliation. The original 2026-11-16 snapshot remains intact; IM-039 remains context-only and no download/Grok queue change was made.
