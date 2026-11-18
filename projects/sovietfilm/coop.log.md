@@ -373,3 +373,13 @@ Keep original accompaniment, later live re-scorings and sound-on-film catalogue 
 1. Advance baseline *Stalker* with cue-level primary evidence and keep film-mix, soundtrack-release and later re-recording objects distinct.
 2. Obtain the 1961 catalogue pages 67–68 and the 20/27 January 1936 newspaper pages; inspect a print/technical passport before resolving the original sound format.
 3. Compare “Do‘ppi tikdim” in a lawful film print against the RizaNova excerpt; locate original production score/credits and determine whether a separate soundtrack release exists.
+
+
+## 2026-11-18 — ChatGPT — three-project balanced research batch (STARTED)
+
+Bounded scope for this pass:
+- **Grudge Mixes:** advance baseline GM-AM-005; qualify one new early Japanese rōkyoku recording lead.
+- **Insane Music:** advance baseline IM-038 (Mágicos do Som); qualify one new Argentine community-radio recording lead.
+- **Soviet Film Music:** advance baseline *Stalker*; qualify one new Kazakh SSR film-song cue.
+
+No audio audition, download, purchase, archive contact, rights clearance, public-tracker edit or publication is authorised or claimed in this pass.

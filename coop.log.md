@@ -152,3 +152,13 @@ No title-only promotion; do not infer the recorded stanzas from later songbook t
 1. Advance baseline GM-AM-005 and GM-AM-006 with the same issue/session/text separation.
 2. Locate a primary Columbia matrix/label or authorized audio transfer for E529-4100 and E668-4953; compare the exact recorded Armenian text against the printed witnesses.
 3. Search for the original Edison cylinders 18512/18513 or an authorized transfer and a full Spanish text before raising GM-MX-002 above C lead.
+
+
+## 2026-11-18 — ChatGPT — three-project balanced research batch (STARTED)
+
+Bounded scope for this pass:
+- **Grudge Mixes:** advance baseline GM-AM-005; qualify one new early Japanese rōkyoku recording lead.
+- **Insane Music:** advance baseline IM-038 (Mágicos do Som); qualify one new Argentine community-radio recording lead.
+- **Soviet Film Music:** advance baseline *Stalker*; qualify one new Kazakh SSR film-song cue.
+
+No audio audition, download, purchase, archive contact, rights clearance, public-tracker edit or publication is authorised or claimed in this pass.

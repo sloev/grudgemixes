@@ -193,3 +193,13 @@ Updated the IM-046 dossier, catalogue, environment-leads and research_method. No
 Source: https://atakak.bandcamp.com/album/obaa-sima-anniversary-remaster ; 2015 comparison: https://atakak.bandcamp.com/album/obaa-sima .
 
 Next: reconcile the two circulation accounts, establish the Berlin cassette's generation, compare 2015/2025 faster and slower presentations, and run a Twi-language/local Ghana source search.
+
+
+## 2026-11-18 — ChatGPT — three-project balanced research batch (STARTED)
+
+Bounded scope for this pass:
+- **Grudge Mixes:** advance baseline GM-AM-005; qualify one new early Japanese rōkyoku recording lead.
+- **Insane Music:** advance baseline IM-038 (Mágicos do Som); qualify one new Argentine community-radio recording lead.
+- **Soviet Film Music:** advance baseline *Stalker*; qualify one new Kazakh SSR film-song cue.
+
+No audio audition, download, purchase, archive contact, rights clearance, public-tracker edit or publication is authorised or claimed in this pass.
