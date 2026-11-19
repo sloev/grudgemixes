@@ -253,3 +253,32 @@ Added a dated README snapshot note for the IM-039 fifth-album metadata reconcili
 - Next: baseline IM-041; continue geographic rotation outside Brazil; resolve G.D.E. Synthetic Apocalypse (1996/1997) separately.
 
 Sources: https://archive.org/details/n0lpcd09/04 ; https://www.oocities.org/sunsetstrip/4509/adj.htm ; https://demo-tapes-brasil.blogspot.com/2012/12/ ; https://www.folhadelondrina.com.br/folha-2/holofotes-sobre-o-underground-29576.html
+
+
+
+## 2026-11-19 — ChatGPT — balanced discovery and evidence batch (DONE)
+
+### Existing baseline advanced
+- **IM-038 — Mágicos do Som → RESEARCHED-OPEN confirmed and enriched.** Reopened the 2007 UFF dissertation directly; confirmed Regina Lúcia Serrão's authorship/singing of “Preconceito” and the annex CD-ROM reference. A 2016 peer-reviewed *Sociologias* article interprets the song as collective anti-discrimination protest. The 2013 municipal notice confirms the second ten-song *Saúde Musical* CD, group authorship and named members; it dates formation to March 1996, while the 2016 article gives 1997. Keep the discrepancy open. No CD or audio was accessed.
+
+### New qualified lead added
+- **IM-052 — ZeN, *Bakırköy Akıl Hastanesi'nde* (Istanbul, 1998).** Extant 1999 cassette/CD live album, reissued as a 300-copy 2023 double-LP. Contemporary *Roll* coverage and participant testimony document the band's performance inside Bakırköy Psychiatric Hospital. Pathways A + F; explicitly a visiting band, not resident-made music. Visibility PROMISING/medium, not HIGH PRIORITY. Exact date/time and original edition still need primary verification.
+
+### Canonical project-path correction
+- Mirrored previously counted **IM-051 — Caustic, *Unrest* (São Paulo, 1995)** dossier into projects/insane-music/research/ and added it to the canonical catalogue. This is not a new addition in this run and does not change the cumulative new-lead count.
+
+### Files changed
+- projects/insane-music/catalogue.md
+- projects/insane-music/environment-leads.md
+- projects/insane-music/archive-requests.md
+- projects/insane-music/research_method.md
+- projects/insane-music/research/IM-051-caustic-unrest-sao-paulo-1995.md
+- projects/insane-music/research/IM-052-zen-bakirkoy-1998.md
+- projects/insane-music/research/magicos-do-som-im-038-2026-11-18.md
+
+### Handoff
+1. Verify original 1999 ZeN carrier and master chain; do not contact without owner approval.
+2. Locate both Mágicos do Som CDs and resolve the 1996/1997 formation-date discrepancy.
+3. Continue small-web and local-language searches in a different non-Anglo region.
+
+No audio was played, downloaded or copied; no archive or artist was contacted; no purchase, permission or rights clearance occurred.
