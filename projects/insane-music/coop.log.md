@@ -282,3 +282,9 @@ Sources: https://archive.org/details/n0lpcd09/04 ; https://www.oocities.org/suns
 3. Continue small-web and local-language searches in a different non-Anglo region.
 
 No audio was played, downloaded or copied; no archive or artist was contacted; no purchase, permission or rights clearance occurred.
+
+
+
+### IM-052 follow-up — 2026-11-19 release-variant breakthrough
+
+*The Wire* (Nov 2026) ties the 23 June 1998 event date to a Hürriyet notice two days before the concert and confirms the 1999 cassette/CD and 2023 vinyl chronology. Readdork distinguishes the 1999 Kod Müzik KOD 009 cassette/CD, 2002 Ada CD and 2023 Ada LP; Yerdeniz's Ada LP listing gives a track order with “Dut Ali” before “Arkadaşım Ateş”, while the 1999 Guts of Darkness listing gives the reverse. Zel Zele's own Bandcamp page describes a separate 300-copy European 2023 LP edition. These are release variants of one live recording, not separate performances. The 16-track analogue / Bill Macbeth mix claim remains secondary-reported. Hürriyet page itself could not be retrieved; no video/audio was played.
