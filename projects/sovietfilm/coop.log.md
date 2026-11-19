@@ -476,3 +476,22 @@ Sources: https://www.cambridge.org/core/journals/twentieth-century-music/article
 No film was played, no audio was auditioned/downloaded/uploaded, no score or print was inspected, no contact or permission was requested, and no rights were cleared. No public tracker or audio asset was changed.
 
 Sources checked 2026-11-19: https://tarkovskiy.gosfilmofond.ru/1970-vesna-znakomstvo-s-artemyevym/ ; https://djvu.online/file/tZ0s6ELVkng6X ; https://api.unilibrary.uz/storage/PublisherResourceFile/19745/images/1661488249.pdf ; https://www.commus.uz/index.php/ru/35-struktura/russian/331-ashrafi-mukhtar ; https://shaxs.uz/en/film/dilorom-1967
+
+
+
+## 2026-11-19 — Soviet Film Music — Georgian discovery and Stalker version audit (DONE)
+
+### Existing baseline advanced
+- **Stalker (1979):** opened Mosfilm's official catalogue record. It identifies the 1979 film, Eduard Artemyev composer credit, 163-minute duration, mono sound and a 2025 restoration year; the current presentation is marked 4K. This is a meaningful version/provenance advance: the current restored presentation must not be conflated with the original 1979 print or later album tracks. No film/audio was played; restoration source elements and soundtrack comparison remain unknown.
+
+### New qualified lead
+- **SF-GE-003 — «ხევსურული ბალადა» / *Khevsuruli Balada* (1965/1966), Rezo Lagidze.** National Library of Georgia poster metadata and National Archives film stills support the 1965 production record; Georgian Cinema's local catalogue gives Lagidze as composer and Rafiel Kezeli as sound operator, 89-minute, black-and-white film. Filmbladet lists 1966, so production/poster date and international catalogue date are kept separate. 1TV's 13 July 2026 programme listing contains a “music for the film” segment, but it is not treated as original film-print audio. One film-level score target; no cue or soundtrack release yet identified.
+
+### Next
+1. Search Georgian-language archives for Lagidze's score manuscript, parts and cue sheets; establish the first premiere date and examine the 1TV programme notes without conflating its broadcast audio with the film print.
+2. Seek Mosfilm 2025 restoration documentation and authorized print comparison for *Stalker*.
+3. Rotate regional discovery beyond Georgia and Central Asia.
+
+No film was played, no audio was auditioned/downloaded, no score or print was inspected, no archive/rights holder contacted, and no rights cleared. No public tracker or audio asset was changed.
+
+Sources checked 2026-11-19: https://dspace.nplg.gov.ge/handle/1234/390115 ; https://archive.gov.ge/en/pavilioni/dodo-abashidze-100-2 ; https://georgian-cinema.ge/index.php/ge/2015-03-27-12-14-46/975-1965-3 ; https://1tv.ge/audio/pikis-saati-13-07-2026/ ; https://www.mosfilm.ru/cinema/films/stalker/
