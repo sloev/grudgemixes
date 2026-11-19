@@ -44,3 +44,13 @@ Proposed filename: `GM-AM-007_Tashjian_Brothers_Tartzial_Paylets_Columbia_E658-4
 ## Decision
 
 C research target with unusually strong thematic promise. Exact Columbia issue is documented; a same-title Sassoun song text explicitly invokes revenge and armed resistance, but it is not yet matched to the 1910 recording. No audio has been auditioned or downloaded by this research agent.
+
+
+
+## 2026-11-19 research audit — issue identity and textual boundary
+
+The Armenian Museum of America's item-specific discography was reopened. It explicitly separates the Tashjian Brothers' 1910 “Tartzial Paylets” from Mardiros Tashjian's six solo 1909 recordings, and identifies the brothers' Columbia E658 / issue 4964 record as recorded in New York in autumn 1910 and released in 1911. The Houshamadyan regional text witness remains a same-title Sassoun song with explicit resistance/revenge language; it is not a transcription of the Columbia take. No label/runout image or audio was inspected in this pass, and the physical record's exact matrix/issue notation still needs a primary label image or matrix register.
+
+**Programme status: RESEARCHED-OPEN.** Performer, title, Columbia issue, reported session and release chronology, related text witness, thematic relevance, provenance context, access route and rights dependency have been checked as far as reasonably available. Remaining unknowns: exact recorded Armenian text, label/runout and matrix notation, carrier location/current condition, authorized audio access, and composition/master rights. The next action is a stanza-by-stanza comparison after owner-approved listening or an authorized transfer, plus a label image and contemporary catalogue check.
+
+Source rechecked 2026-11-19: Armenian Museum of America, “The Incomplete Story of Mardiros Der Sarkis Tashjian & His Brothers”: https://www.armenianmuseum.org/sound-archive/tashjian-story. Existing contextual text source: Houshamadyan, “Tartzial Paylets” / “Դարձյալ փայլեց” (the source cited in the dossier). No audio was listened to or downloaded, no disc or label was inspected, no archive was contacted, and no rights were cleared.
