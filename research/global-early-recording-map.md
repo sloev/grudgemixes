@@ -319,3 +319,11 @@ New C-level recording leads, separate from the Naramaru / Akō Gishi discs:
 - Negative control: Ueda Gomanraku, 「荒木又右衛門（上野仇討）」, Taihei 4017–4020, 1927, explicitly names the Ueno revenge but is outside the pre-1926 core.
 
 The Tottori City History Museum and Japan Arts Council establish the larger 1634 Iga-Ueno vendetta story and identify a 1910 film titled 「荒木又右衛門奉書試合」. They do not prove that the 1924/25 recorded Hōsho Shiai episode contains the revenge itself. All remain C — LEAD until the specific performance text is linked to a grievance/retaliation mechanism. No audio/download route verified; no Grok request. Detailed crosswalk: `research/japan-ako-gishi-yoshida-naramaru-royal-record.md`.
+
+
+
+## Albania — 1908 Shkodër Gramophone expedition: «Kanga e Oso Kukës»
+
+A new, unusually well-identified pre-1926 Albanian-language recording has emerged from the 1908 Shkodër expedition. Edmir Ballgjati's 2024 discographic reconstruction lists matrix **4570r**, catalogue/issue **10771**, performer **Shoqnia e hengxhive e shahirave**, title «Kanga e Oso Kukës» (disc spelling “Chenga e Oso Kuks”). The likely session window is 4–10 May 1908, inferred from the expedition itinerary. Crucially, footnote 120 gives the extant digitised IAKSA audiovisual archive reel reference **0279-03** for matrix 4570r; the physical disc was consulted at the Oso Kuka Historical Museum, not at IAKSA. The Albanian intangible-heritage register independently attributes the words and music of «Kanga e Oso Kukës» to Zenel Maha, and the Ministry of Defence's 2023 cultural article describes the 22-stanza defiance narrative of Oso Kuka's 1862 stand at Vranina. This makes a strong C-level thematic lead, but the 1908 take has not been transcribed or matched stanza-by-stanza to the later song text. Do not promote by title alone. Keep «Kanga e Ali Pashës» and other 1908 sides separate.
+
+Sources: Ballgjati, *Shejzat* 3–4 (2024), pp. 30–31 and footnote 120, p. 42: https://www.shejzat.com/wp-content/uploads/Ballgjati_3-4_2024.pdf ; Albanian intangible-heritage register, “Shkodra’s Aheng songs”: https://regjistritkj.al/en/aheng-songs/ ; Ministry of Defence gazette, *Ushtria*, 14 July 2023, pp. 11–12: https://www.mod.gov.al/images/gazetaushtria/pdf/2023/korrik/ushtria_14_7_2023.pdf . Accessed 2026-11-19. No audio was auditioned and no archive access or rights were obtained.
