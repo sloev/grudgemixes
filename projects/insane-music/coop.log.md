@@ -307,3 +307,23 @@ No audio was played, downloaded or copied; no archive or artist was contacted; n
 3. Establish whether the original tapes/discs survive and what access terms apply.
 
 No audio was played, downloaded or copied; no contact, archive access, purchase or rights clearance occurred.
+
+
+## 2026-11-19 — ChatGPT — IM-011 ARSCH edition/provenance cross-check (DONE)
+
+### Task
+Recheck the existing non-prison, self-organised commune/DIY recording lead without adding a duplicate ID.
+
+### Findings
+- Bandcamp identifies the 18-track ARSCH album, released 1 December 2020, with a hand-numbered Type-I C-44 cassette whose arrangement/mix differs from the digital edition.
+- Empty Space identifies catalogue ES-001 and a 2020 edition of 100; Tobira independently repeats the cassette identity and 18-track release.
+- These sources strengthen edition-level identity only. Original reel dates, individual roles, source-reel mapping, survival extent and transfer chain remain unresolved. The fire/archive-loss account remains first-party label/artist testimony, not independently corroborated conservation evidence.
+
+### Files changed
+- projects/insane-music/research/arsch-im-011-audit-2026-11-17.md
+
+### Status / next handoff
+IM-011 remains RESEARCHED-OPEN. Next: permitted listening comparison of cassette/digital versions and an owner-approved request for source-reel dates, personnel and compilation notes.
+
+No audio was played, downloaded or copied; no contact, purchase, archive access or rights clearance occurred.
+Sources: https://arsch.bandcamp.com/album/arsch ; https://www.empty-space.ch/work/arsch-arsch ; https://tobirarecords.com/products/arsch-arsch-tape
