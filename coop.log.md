@@ -102,3 +102,35 @@ Sources checked 2026-11-19: https://www.armenianmuseum.org/sound-archive/tashjia
 
 No audio was listened to or downloaded, no disc/label inspected, no archive contacted, no purchase, permission or rights clearance.
 Sources: https://www.shejzat.com/wp-content/uploads/Ballgjati_3-4_2024.pdf ; https://regjistritkj.al/en/aheng-songs/ ; https://www.mod.gov.al/images/gazetaushtria/pdf/2023/korrik/ushtria_14_7_2023.pdf ; https://www.armenianmuseum.org/sound-archive/tashjian-story .
+
+
+## 2026-11-19 — ChatGPT — Nigeria / Ibibio Odeon war-song lead (DONE)
+
+### Bounded task claimed
+Rotate the regional discovery pass beyond Albania and Armenia, using a locally grounded West African archive and specialist Odeon discography. No audio retrieval.
+
+### New lead
+- **GM-NG-001 — «Iquo Ekong» / «Iquo Ubom»**, one two-sided 78rpm shellac pair, provisionally crosswalked to **Odeon A 248026**.
+- The Cambridge World Oral Literature Project collection page lists the two Efik-language titles as the fifth disc in Daniel Morgan's five-disc / ten-track Ibibio Odeon collection, believed to have been recorded in south-eastern Nigeria in the 1920s. It calls both tracks society songs in the genre of war songs.
+- Afrodisc's specialist Odeon discography gives A 248026, the side titles and the performer credit “Sambouwa Udö Udö Uwa Eya Owut Ibaña and Choir”. Matching titles make this a probable discographic crosswalk, not a verified physical-label identification.
+- **C — LEAD only.** “War song” is not enough to prove a grievance or retaliation narrative; no lyrics, translation or local interpretation were checked. The date “1920s” does not establish the required pre-1926 fixation date. The Cambridge fifth-disc item and its listening links timed out, and no direct audio file was verified. Target-specific rights remain unchecked.
+
+### Files
+- Created research/nigeria-ibibio-odeon-war-songs-1920s.md.
+- Updated research/global-early-recording-map.md.
+- Updated research_method.md with the new active queue.
+- Appended this hand-off to coop.log.md.
+- Root TRACK_MAPPING.md and GROK_HANDOFF.md unchanged: no exact pre-1926 identity, proven thematic fit or authorised direct download route; no READY FOR GROK row.
+
+### Next exact tasks
+1. Obtain the Cambridge fifth-disc item record and booklet transcription; resolve item-specific file/rights metadata and exact audio identifiers.
+2. Verify Odeon A 248026 by label/sleeve/matrix and establish the actual fixation date, separately from catalogue/issue date.
+3. Translate the song texts and determine whether either contains a grievance/retaliatory mechanism; otherwise keep as contextual West African war-song documentation, not a core candidate.
+4. Continue GM-AM-008 and the existing Japanese Naramaru/Araki text/date work without repeating the completed Albania/Armenia search.
+
+No audio was played, downloaded or uploaded; no file was inspected; no archive contacted, purchase made or rights cleared. No Grok retrieval report was present to reconcile.
+
+Sources checked 2026-11-19:
+- World Oral Literature Project: https://www.oralliterature.org/collections/danielmorgan001.html
+- Cambridge fifth-disc handle (not successfully opened): http://www.dspace.cam.ac.uk/handle/1810/244387
+- Afrodisc Odeon A 248000–248059: https://afrodisc.com/west-africa/emi-west-african-labels/west-africa-odeon-a-248000-248059
