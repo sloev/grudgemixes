@@ -2273,3 +2273,18 @@ Regional screening did not justify counting any of the three contextual screens.
 - **Why it fits:** a scarce, niche Turkish underground live recording whose institutional context is directly documented; the 2023 limited reissue makes it less obscure than an unissued patient-made tape, so do not overstate priority.
 - **Cautions / next steps:** verify the exact event time and inviting staff count; compare the 1999 cassette/CD track order with the 2023 Ada/Zel Zele LP variants; verify the original recording chain and master custody. No diagnosis or patient identity is inferred. No audio was played or downloaded and no rights were cleared.
 - **Sources:** 1998 *Roll* interview https://birartibir.org/wp-content/uploads/ROLL_1998_021.pdf ; 1999 *Roll* coverage https://birartibir.org/wp-content/uploads/ROLL_1999_034.pdf ; participant interview https://www.psychedelicbabymag.com/2024/10/baba-zula-interview-murat-ertel.html ; label reissue https://zelzelerecords.bandcamp.com/album/zen-bak-rk-y-ak-l-hastanesinde
+
+
+## 2026-11-19 — Chile / Hospital El Peral: Radio Estación del Paraíso (context-only screen)
+
+A local-language source pass identified a music-bearing patient-run radio corpus and its documentary record. The 2000–2001 *Espacios locales y desarrollo ciudadanía* case study (pp. 302–303) says Radio El Peral was produced and operated by patients and that its October 2000 Santiago Amable broadcast mixed pre-recorded and live songs and poems. It describes twelve participants, including ten inpatients with programme sections, but names no songs, composers, performers or carriers. Do not infer that all broadcast music was participant-authored.
+
+CineChile records Francisco Schultz's *La furia de los caballos sin patas* as a 67-minute 2001 documentary (DVCam / 16 mm; sound Roberto Martí; national premiere 29 November 2001). A 2011 OCEP post by radio-team psychologist Rubén Nilo says the film soundtrack includes radio transmissions and unreleased tracks by Shogun, Tobías Alcayota and Joe Villablanca. A 2024 public YouTube upload credits “Jeo Villablanca” and labels the film 2004; preserve the name/date differences and do not assume a separate soundtrack album.
+
+The 2023 doctoral thesis by Nicolás Morales Sáez describes the original recordings and microprogrammes as last known at Hospital Barros Luco, with the team reporting that cassettes/discs became inaccessible after a 2003 lockout; the researcher did not locate the microprogrammes in Radio Tierra / Archivo Nacional records. This is an access/custody problem, not proof of destruction. No contact or archive request was made.
+
+**Status:** context-only C lead, not a new catalogue item. No exact song or participant-created recording is yet identified. Keep documentary mix, broadcast masters, microprogrammes and external soundtrack tracks separate. No audio was played or downloaded and no rights were cleared.
+
+Detailed dossier: research/radio-estacion-del-paraiso-el-peral-chile-2026-11-19.md.
+
+Sources: https://www.academia.edu/55132065/Espacios_locales_y_desarrollo_ciudadan%C3%ADa ; https://ocepweb.blogspot.com/2011/09/documental-la-furia-de-los-caballos-sin.html ; https://cinechile.cl/pelicula/la-furia-de-los-caballos-sin-patas/ ; https://www.tesisenred.net/bitstream/handle/10803/688597/TESI%20Nicolas%20Morales%20S%C3%A1ez.pdf?isAllowed=y&sequence=1 ; https://www.youtube.com/watch?v=yKCQ6I0AK6E .
