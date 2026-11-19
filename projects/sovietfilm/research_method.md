@@ -277,3 +277,14 @@ Added **SF-AZ-001** as a film-level case study and **SF-AUD-013 — RESEARCH LEA
 5. Continue regional rotation beyond the Caucasus and Central Asia in the next pass.
 
 No item is READY FOR DRIVE. No Drive file, public tracker or audio asset was changed.
+
+
+## 2026-11-19 — Soviet Film Music checkpoint
+
+### SF-GE-003 / SF-AUD-012 — Georgian cue identity cross-check
+- National Library of Georgia poster metadata directly supports the film identity, Rezo Lagidze composer credit, and Chiaureli/Kapanidze cast association: https://dspace.nplg.gov.ge/handle/1234/390115
+- Lot.ge metadata names Chiaureli and Kapanidze as performers of «ხმა ამაიღე ფანდურო» and associates it with Khevsuruli Balada: https://lot.ge/video/a79d3056a2ebe/
+- Treat these as discovery/film metadata, not as proof of an original soundtrack master. The cue remains RESEARCH LEAD; no promotion to READY FOR DRIVE or verified film-print object.
+- Date conflict remains explicit: 1965 production/poster metadata versus 1966 in later listing/file metadata.
+
+Next exact action: locate Lagidze score/parts or an authorized film print; determine whether the 1TV item contains original film audio, a later performance, or discussion. No audio was auditioned or collected.
