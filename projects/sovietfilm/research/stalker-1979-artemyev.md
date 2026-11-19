@@ -109,3 +109,15 @@ The quotation is not a cue sheet, score, recording log or proof of what was fina
 **Research effect:** substantive contextual advance to the baseline case; status remains RESEARCHED-OPEN. Next action remains authorized-print timecoding plus original score/cue-sheet/dubbing documentation. No film was played and no audio was auditioned or copied.
 
 Source checked 2026-11-19: Gosfilmofond media archive, “1970. Весна — Знакомство с Эдуардом Артемьевым”: https://tarkovskiy.gosfilmofond.ru/1970-vesna-znakomstvo-s-artemyevym/ (especially the Stalker discussion near the end of the page).
+
+
+
+## 2026-11-19 version audit — Mosfilm's 2025 restoration record
+
+Mosfilm's current official film catalogue was opened and checked. It lists *Stalker* as released in 1979, identifies Eduard Artemyev as composer, gives a duration of 163 minutes, marks the sound as mono, and records **2025** as the restoration year. The page also labels the current presentation 4K. This adds a clear version boundary to the case: the current Mosfilm catalogue describes a 2025-restored 4K presentation, not simply an undifferentiated 1979 print. Its mono field is a useful technical description of the current catalogue object, but it does not prove that every 1979/1980 print or later release has identical sound, duration or edits.
+
+The Mosfilm player links are not evidence that this research pass played the film. No video was viewed and no audio was auditioned. The 2025 restoration's sound track, source elements and relationship to the original 1979 mix remain unknown. Keep the film-print soundtrack, 2002/1999 album track variants, 2013 LP and any 2025 restoration as separate version questions until an authorized print and restoration notes can be compared.
+
+**Research effect:** substantive version/provenance advance to the existing baseline case; programme status remains RESEARCHED-OPEN. Next exact action: seek Mosfilm restoration notes/source-element documentation and compare an authorized 2025-restored print with a reliably identified original-era print, then timecode the music/sound cues. Do not infer cue identity from the album.
+
+Source checked 2026-11-19: Mosfilm official catalogue, *Сталкер*: https://www.mosfilm.ru/cinema/films/stalker/ (lines 90–122: 1979 release, 2025 restoration, 163 minutes, Artemyev credit, mono sound).
