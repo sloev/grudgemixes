@@ -1434,3 +1434,16 @@ The UFF 2007 dissertation was reopened directly; it identifies Regina Lúcia Ser
 ### IM-052 release-variant reconciliation (2026-11-19)
 
 The Wire's November 2026 article ties the 23 June 1998 event date to a Hürriyet notice from 21 June 1998; the notice page itself remains un-retrieved. Readdork lists the 1999 Kod Müzik KOD 009 cassette/CD and a 2002 Ada Müzik CD reissue. Yerdeniz lists a 2023 Ada Müzik Turkish 2LP with “Dut Ali” before “Arkadaşım Ateş”; the 1999 Guts of Darkness sequence lists those tracks in the reverse order. Zel Zele's Bandcamp page describes a separate European 2023 2LP edition limited to 300 copies. Treat these as edition/sequence variants of one live recording, not separate performances. The 16-track analogue / Bill Macbeth mix claim remains secondary-reported.
+
+
+## 2026-11-19 — Chile / Radio Estación del Paraíso screening checkpoint
+
+A bounded Spanish-language source pass identified Radio Estación del Paraíso, a patient-run radio project at Hospital El Peral (1999 onward), and the documentary *La furia de los caballos sin patas* (CineChile: 2001, 67 minutes). The 2000–2001 civic-programme case study confirms pre-recorded and live songs/poems in a public broadcast, but no exact song or participant authorship. A 2011 first-person team account says the film soundtrack includes radio transmissions and unreleased tracks by Shogun, Tobías Alcayota and Joe Villablanca. A 2024 public upload spells the third name “Jeo” and labels the film 2004; preserve both conflicts. A 2023 thesis reports that the original cassettes/discs became inaccessible after a 2003 Barros Luco lockout and that microprogrammes could not be traced in Radio Tierra / Archivo Nacional records.
+
+**Classification:** context-only C lead; no new core catalogue ID and no Grok request. Keep the radio masters, microprogrammes, 2001 documentary mix and external soundtrack contributions separate. No audio was played, downloaded or copied; no contact or rights enquiry was made.
+
+### NEXT — exact queue
+1. Seek a filmmaker/producer-approved cue sheet or original soundtrack listing and resolve the 2001/2004 version and Joe/Jeo credit.
+2. Identify exact participant-authored/performed songs, if any, within the radio broadcasts or microprogrammes; do not infer authorship from broadcast participation.
+3. Establish whether the original tapes/discs survive and whether any lawful access route exists; treat the 2023 thesis's negative search as a bounded result, not proof of destruction.
+4. Continue the existing IM-038 CD-owner-approved copy route and IM-052 original 1999 edition / master-chain audit; rotate to another non-Anglo region after this Chile screen.
