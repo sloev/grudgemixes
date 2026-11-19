@@ -538,3 +538,29 @@ Sources checked 2026-11-19:
 - National Library of Azerbaijan filmography: https://anl.az/el/emb/Polad_Bulbuloglu/filmoqrafiya.htm
 
 No film/audio was played, downloaded or uploaded; no print or score inspected; no archive/rights holder contacted; no rights cleared. No READY FOR DRIVE item was created.
+
+
+## 2026-11-19 — Soviet Film Music — Georgian cue cross-check (DONE)
+
+### Task
+Recheck SF-GE-003 / SF-AUD-012 using Georgian institutional metadata and preserve the film-version boundary.
+
+### Findings
+- National Library of Georgia poster metadata confirms the 1965 film record, Rezo Lagidze composer credit, director Shota Managadze, and the presence of Sofiko Chiaureli and Zurab Kapanidze in the cast: https://dspace.nplg.gov.ge/handle/1234/390115
+- Lot.ge metadata identifies «ხმა ამაიღე ფანდურო» as a song from Khevsuruli Balada and names Chiaureli and Kapanidze as performers, but the page is user-uploaded discovery metadata and was not treated as an authorized recording source: https://lot.ge/video/a79d3056a2ebe/
+- This strengthens the cue-level association while leaving original-print identity, recording date, score/parts, release history, and rights unresolved.
+- The 1965/1966 discrepancy remains explicit: 1965 is supported by institutional poster/production metadata; 1966 appears in later listing/file metadata.
+
+### Files changed
+- projects/sovietfilm/research/khevsuruli-balada-1965-66-rezo-lagidze-sf-ge-003.md
+- projects/sovietfilm/research_method.md
+- projects/sovietfilm/coop.log.md
+
+### Metrics
+- New candidate IDs: 0.
+- New queue entries: 0; SF-AUD-012 remains a single cue candidate within SF-GE-003.
+- Entries now READY FOR DRIVE: 0.
+- Files uploaded and verified in Drive: 0.
+
+### Unresolved / next
+Locate Lagidze's score/parts, authorized film-print access, and 1TV programme notes; do not treat the user-uploaded video as original film audio or a lawful download route.
