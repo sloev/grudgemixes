@@ -48,3 +48,17 @@ Ask the Armenian Museum and relevant private collectors for:
 - transfer provenance (carrier, playback equipment/speed, transfer operator, equalisation/restoration and file encoding).
 
 If no permitted audio is available, report the request and response rather than substituting a modern performance or a later compilation. Do not infer that the related Houshamadyan text is the recorded lyric.
+
+
+## 2026-11-19 — Armenian-language source-witness clarification
+
+The Armenian-language version of Houshamadyan's Alahaydoyan collection gives the title in original script as **«Սասնու գաւառ (Հրայր Դժոխքի յիշատակին)»** (“Land of Sassoun [in memory of Hrayr Tzhokhk]”). It clarifies that the witness is a cassette recorded on **12 October 1979 in Talin, Armenia**, given by Babken Sassouni to collector Petros Alahaydoyan in 1986. A small group of Sassoun-origin singers performs; the page says only Samuel Torosian is named at the start of the tape. The transcription includes a line in which the speaker vows to destroy the Ottoman army, supporting an armed-resistance mechanism for this **separate 1979 text**.
+
+This is not a transcript of Columbia E657/4955 and must not be merged with “Kerezmanis Togh” / “Hrayr Tzhokhki Yerke”. Houshamadyan's editorial note also says some performance wording was normalised against published songbooks rather than transcribed verbatim. That makes the 1979 page a valuable regional/textual witness, but not a verbatim lyric transcript of the cassette in every passage and not proof of the 1910 Columbia side's wording. A 2020 YouTube upload by Gohar Mkrtchyan presents a later public version of this 1979 cassette performance; it is not the Columbia master.
+
+**Status unchanged: Grade C — high-priority research lead.** The exact E657/4955 text, label/runout photographs and authorised audio remain unverified. No Grok promotion or request.
+
+Sources:
+- Houshamadyan, Armenian-language page: https://www.houshamadyan.org/arm/mapottomanempire/bitlispagheshvilayet/sassoun/sassounlocalcarachteristics/alahaidoyancollectionsongs.html
+- Houshamadyan, English-language page: https://www.houshamadyan.org/mapottomanempire/vilayet-of-bitlispaghesh/sassoun/local-characteristics/alahaidoyan-coll-songs.html
+- Later 1979-cassette performance upload (2020): https://www.youtube.com/watch?v=7V8kWeY7Ixw
