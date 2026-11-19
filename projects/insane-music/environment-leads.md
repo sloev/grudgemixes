@@ -2261,3 +2261,15 @@ Sources:
   - https://www.thequint.com/amp/story/fit/tb-patients-form-a-band-in-mumbai-sewri-hospital
 
 Regional screening did not justify counting any of the three contextual screens. Continue the geographic rotation in a different region next run; do not count keyword hits or performances without an extant recording.
+
+
+
+## Additional qualified institutional performance — ZeN at Bakırköy (IM-052)
+
+- **Status:** VERIFIED recording / PROMISING visibility; main-discography candidate, medium priority.
+- **Recording:** ZeN, *Bakırköy Akıl Hastanesi'nde*, live performance in 1998; original cassette/CD issued in 1999; 2023 Zel Zele double-LP reissue, limited to 300 copies.
+- **Environment connection:** a visiting underground improvisation band performed at Bakırköy Psychiatric Hospital for an audience including patients, nurses, doctors and visitors. Contemporary 1998 *Roll* reporting and Murat Ertel's first-person account document the event and the musicians' decision to adapt their performance to the room.
+- **Classification:** A (music performed in an institutional setting) + F (underground scene). **Not resident-made, not patient-composed.** Keep the visitor/performance distinction visible in every catalogue summary.
+- **Why it fits:** a scarce, niche Turkish underground live recording whose institutional context is directly documented; the 2023 limited reissue makes it less obscure than an unissued patient-made tape, so do not overstate priority.
+- **Cautions / next steps:** reconcile 1998 date/time and inviting staff count; compare 1999 cassette/CD with the 2023 LP track sequence; verify the original recording chain and master custody. No diagnosis or patient identity is inferred. No audio was played or downloaded and no rights were cleared.
+- **Sources:** 1998 *Roll* interview https://birartibir.org/wp-content/uploads/ROLL_1998_021.pdf ; 1999 *Roll* coverage https://birartibir.org/wp-content/uploads/ROLL_1999_034.pdf ; participant interview https://www.psychedelicbabymag.com/2024/10/baba-zula-interview-murat-ertel.html ; label reissue https://zelzelerecords.bandcamp.com/album/zen-bak-rk-y-ak-l-hastanesinde
