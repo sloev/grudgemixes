@@ -7,8 +7,8 @@
 ## Completion condition
 
 - Baseline leads: **91** (Grudge Mixes 44; Insane Music 42; Soviet Film Music 5).
-- Cumulative distinct qualified new leads added: **19** (Grudge Mixes 4; Insane Music 7; Soviet Film Music 8).
-- Baseline leads with researched status: **18 / 91**.
+- Cumulative distinct qualified new leads added: **22** (Grudge Mixes 5; Insane Music 8; Soviet Film Music 9).
+- Baseline leads with researched status: **20 / 91**.
 - Stopping condition: **NOT MET**. Continue until all 91 baseline leads are RESEARCHED-OPEN or RESEARCHED-CLOSED and at least 91 qualified new leads have been added.
 
 A lead is “researched” when identity, chronology/version, provenance/context, access/rights and next actions have been checked as far as available evidence allows. RESEARCHED-OPEN is valid when unresolved questions or external dependencies remain explicit. It does not mean all issues are resolved.
@@ -22,7 +22,7 @@ Counting unit: one distinct lead/candidate file. Where a legacy ID is reused for
 - leads/GM-AM-003-tashjian-brothers-himi-el-lrenk-1910.md: RESEARCHED-OPEN
 - leads/GM-AM-004-mardiros-tashjian-himi-el-lrenk-1909.md: RESEARCHED-OPEN
 - leads/GM-AM-005-tashjian-brothers-menk-bedk-e-grvenk-1910.md: RESEARCHED-OPEN
-- leads/GM-AM-006-mardiros-tashjian-dalvorig-1909.md: NOT STARTED
+- leads/GM-AM-006-mardiros-tashjian-dalvorig-1909.md: RESEARCHED-OPEN
 - leads/GM-AM-007-tashjian-brothers-tartzial-paylets-1910.md: NOT STARTED
 - leads/GM-AM-008-tashjian-brothers-kerezmanis-togh-1910.md: NOT STARTED
 - leads/GM-AM-009-tashjian-brothers-akh-vasburagan-1910.md: NOT STARTED
@@ -106,7 +106,7 @@ Counting unit: each consolidated catalogue ID IM-001 through IM-042. Duplicate s
 - IM-038: NOT STARTED
 - IM-039: NOT STARTED
 - IM-040: RESEARCHED-OPEN
-- IM-041: NOT STARTED
+- IM-041: RESEARCHED-OPEN
 - IM-042: RESEARCHED-OPEN
 
 ## Baseline C — Soviet Film Music (5)
@@ -143,6 +143,9 @@ Only distinct, evidence-backed recording/cue objects admitted under the relevant
 | Soviet Film Music | SF-UZ-001 | “Do‘ppi tikdim” / «Дўппи тикдим» from *Мафтунингман* (*Maftuningman*, 1958) | 2014 printed score links the cue to the film and credits Turob To‘la / “Monas Leviev”; Uzbek Composers’ Union biography credits Klara Jalilova and Burhonov’s film-music context. Composer split and film-print/clip identity unresolved; one cue family. | RESEARCHED-OPEN |
 
 | Grudge Mixes | GM-JP-001 | 吉田奈良丸, “矢頭右衛門の誠忠” (Victor catalogue, 1915) | Four-side 50188/50189 sequence treated as one recording family; Ako-vendetta narrative context supports a C-level lead, but exact performance text, matrix and item-level archive record remain unresolved. Not a verified track. | IN PROGRESS |
+| Grudge Mixes | GM-JP-002 | 吉田奈良丸, “勝田新左エ門” (Victor 50181–50182; catalogue year 1915) | Four-side rōkyoku sequence. Kotobank identifies Katsuta Shinzaemon as one of the 47 rōnin, but exact performance narrative is unknown and 1915 is an issue/catalogue year, not verified fixation date. C-level lead; core eligibility pending. | IN PROGRESS |
+| Insane Music | IM-051 | Caustic, Unrest (São Paulo, September 1995) | One eight-track DIY cassette; indexed collector item record gives session, personnel, tracklist, duration and conversion provenance. Underlying page opener returned cache miss; original carrier, independent scene corroboration and rights remain open. | IN PROGRESS |
+| Soviet Film Music | SF-UZ-002 | «Дилором» / Dilorom (Uzbekfilm, 1968) | One film-opera production/music object. 1995 Soviet film catalogue and 2009 Academy of Sciences Uzbekistan catalogue identify 1968 production, M. Ashrafi credit and opera adaptation; film-print audio, score/cue sheets and soundtrack release remain unknown. | IN PROGRESS |
 | Insane Music | IM-050 | Anões de Jardim, Demo (July 1993) | One eight-track Curitiba DIY cassette; band history says weak distribution, collector item record gives tracklist/copy condition, and 1997 local press corroborates the underground scene. | IN PROGRESS |
 | Soviet Film Music | SF-KG-001 | “Песня Данияра” / “Daniyar’s song” in Джамиля / *Jamilya* (1968/1969) | One provisional cue family: Mosfilm film record, regional Kyrgyz-film catalogue and later 6:12 user-uploaded fragment; exact print, cue title, performer and version remain unresolved. | IN PROGRESS |
 
@@ -225,3 +228,27 @@ Radio La Colifata / *Viva La Colifata* remains context-only because of the high-
 - Cumulative distinct qualified new leads: **19 / 91 target** (Grudge Mixes 4; Insane Music 7; Soviet Film Music 8).
 - Remaining: **73 baseline leads** to research and **72 qualified new leads** to add.
 - Stopping condition: **NOT MET**. Continue balanced batches; no public tracker was changed or published.
+
+
+## Progress checkpoint — 2026-11-19 — balanced breakthrough batch
+
+### Baseline advances and status changes
+- **Grudge Mixes:** GM-AM-006 moved from NOT STARTED to RESEARCHED-OPEN. The Armenian Museum's specialist discography was directly checked: 1909 solo “Dalvorig” has an unknown matrix number and is distinct from the 1910 Tashjian Brothers “Dalvorig” (E656). The 1896 Blackwell/Damadian text remains a pre-recording thematic witness, not an exact recording transcript.
+- **Insane Music:** IM-041 moved from NOT STARTED to RESEARCHED-OPEN. The 1996 nine-track May recording is distinguished from the unresolved “Synthetic Apocalypse” (1997) cross-reference. Collector metadata, access, rights and the absent independent 1997 witness are explicit.
+- **Soviet Film Music:** Stalker received a new Gosfilmofond-hosted quotation of Tarkovsky's sound intentions: gradual sound development, noises and fragments rather than a conventional overture. This advances director-intent context, not final cue identity or print audio; baseline remains RESEARCHED-OPEN.
+
+### New qualified leads added
+- **GM-JP-002:** 吉田奈良丸, “勝田新左エ門” (Victor 50181–50182; catalogue year 1915), one four-side rōkyoku sequence. Historical referent is supported as an Akō retainer / one of the 47 rōnin; exact performance text and fixation date remain unresolved. C-level lead only; do not treat catalogue year as recording date or promote to core.
+- **IM-051:** Caustic, *Unrest* (September 1995), one eight-track São Paulo DIY cassette. Collector-index record gives session, personnel, tracklist, runtime and conversion provenance; original carrier, independent corroboration and rights remain open.
+- **SF-UZ-002:** «Дилором» / *Dilorom* (Uzbekfilm, 1968), one regional film-opera production/music object. 1995 and 2009 catalogues support the film, composer and stage-opera adaptation; film-print audio, cue sheets, standalone release and rights remain unknown.
+
+### Completion measures
+- Baseline leads researched: **20 / 91** (Grudge Mixes 9/44; Insane Music 6/42; Soviet Film Music 5/5).
+- Cumulative distinct qualified new leads: **22 / 91 target** (Grudge Mixes 5; Insane Music 8; Soviet Film Music 9).
+- Remaining: **71 baseline leads** to research and **69 qualified new leads** to add.
+- Stopping condition: **NOT MET**. Continue balanced batches; no public tracker was changed or published.
+
+### Next exact tasks
+1. **Grudge Mixes:** advance baseline GM-AM-007; locate a stenographic text and session-date evidence for GM-JP-002; keep GM-AM-005's Columbia matrix conflict open until primary label/runout evidence appears.
+2. **Insane Music:** advance baseline IM-038; seek independent carrier/label/fanzine evidence for IM-051 and resolve IM-041's 1997 cross-reference without merging masters; rotate regional discovery beyond Brazil.
+3. **Soviet Film Music:** advance baseline *Kosmicheskiy reys* using item-level production/score/archive records; seek «Дилором» score/parts and original film-print sound evidence; rotate discovery to a different SSR beyond Kyrgyzstan/Uzbekistan.
