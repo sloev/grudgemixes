@@ -49,7 +49,9 @@ This is a meaningful defiance narrative, not a generic patriotic title. However,
 ## Sources checked 2026-11-19
 
 - Edmir Ballgjati, “’Gjeneral gramafoni’ mbërrin në Shqipëri. Regjistrimet e para në disqe gramafoni të muzikës tradicionale shqiptare,” *Shejzat*, no. 3–4 (2024), pp. 25–46; matrix/issue table pp. 30–31, original disc spelling note 23, digitised IAKSA reel list footnote 120, p. 42: https://www.shejzat.com/wp-content/uploads/Ballgjati_3-4_2024.pdf
-- Albanian Ministry of Defence, “Kënga e Oso Kukës — Zenel Maha” (2023): https://www.mod.gov.al/newsroom/kalendari-historik/2023/06/oso-kuka-kenga-e-zenel-mahes
+- Albanian Ministry of Defence, “Kënga e Oso Kukës — Zenel Maha” (2023): https://www.mod.gov.al/images/gazetaushtria/pdf/2023/korrik/ushtria_14_7_2023.pdf
 - Robert Elsie, “The Highland Lute of Gjergj Fishta” (2005), synopsis of the Oso Kuka cycle in *Lahuta e Malcis*: https://albanianhistory.org/elsie-de/pdf/articles/A2005FishtaHighlandLute.pdf
+
+The national intangible-heritage register also lists «Kanga e Oso Kukës» as an Aheng song and credits both words and music to Zenel Maha: https://regjistritkj.al/en/aheng-songs/ (accessed 2026-11-19). This provides an independent current cultural-register attribution, but it still does not transcribe the 1908 Gramophone take.
 
 No audio was listened to or downloaded, no physical disc or label was inspected, no archive was contacted, and no rights were cleared.
