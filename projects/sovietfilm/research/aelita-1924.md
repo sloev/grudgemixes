@@ -77,3 +77,12 @@ Do not infer theremin, synthesizers, “space-age” sonorities, or a futuristic
 ## Research status audit (2026-11-17)
 
 The case study has been checked against the cited 2024 scholarly account and its contemporary/archival references. The original Kruchinin score's loss, surviving related piano piece, 1924 Moscow orchestral screening evidence and 2004 Ruscico replacement-music distinction are documented with explicit evidence grades and unresolved archival questions above. The exact RGALI item and newspaper references have not been inspected directly, and no film/audio listening comparison has been performed. The baseline case is therefore RESEARCHED-OPEN: identity, chronology, score-survival question, screening context, later-version distinction, access and next archival actions are explicit; the RGALI manuscript and primary press remain external dependencies.
+
+
+## 2026-11-19 — 1926 publisher-category cross-check
+
+A direct recheck of Hannah C. J. McLaughlin’s 2024 *Twentieth-Century Music* article adds a useful publication-history boundary for the surviving two-page piano piece. The article reproduces the back cover of N. A. Slonov’s 1926 catalogue for *Dva Foksa*; its “Choreographic Sketches” list includes “Aelita” at the bottom. This is a publisher’s marketing classification for the separate Op. 24 piano piece, not a film cue-sheet entry.
+
+The article also reiterates that the two-page piece is undated and that there is no sure evidence its contents ever accompanied the film. The 1926 catalogue is therefore a later advertisement/witness, not the piece’s publication date. Keep three objects separate: (1) Kruchinin’s original 1924 film score, reported lost; (2) the separately surviving Op. 24 “Aelita” choreographic/dance piece, undated and not verified as film audio; and (3) the 2004 Ruscico replacement score. No Princeton item record or physical score was inspected in this pass; no film/audio was played.
+
+Source checked 2026-11-19: https://www.cambridge.org/core/journals/twentieth-century-music/article/valentin-kruchinin-and-the-queen-of-mars-early-musical-traces-of-soviet-scifi/27CB312C1E0EF7F104418D3B40297846

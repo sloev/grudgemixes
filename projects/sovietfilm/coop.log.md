@@ -450,3 +450,14 @@ Recheck the Artemyev/Turovskaya cue-level evidence for the baseline *Stalker* ca
 
 ### Unresolved / next
 Obtain authorized access to the Mosfilm viewing copy for cue timecodes; locate the 1991 book or original production documentation; do not promote SF-AUD-009 or SF-AUD-005 based on this source alone. No audio was auditioned, downloaded, uploaded or purchased; no archive contact or rights clearance occurred.
+
+
+## 2026-11-19 — Soviet Film Music balanced research batch
+
+- Existing baseline advanced: *Aelita* — a direct check of the 2024 Cambridge peer-reviewed article’s 1926 publisher-catalogue figure shows the surviving Op. 24 piano piece listed under “Choreographic Sketches”. This strengthens the distinction between the lost original film score, a separately marketed dance piece and the 2004 Ruscico replacement music; it does not make the piano piece a verified film cue.
+- Baseline status synchronized: *Stalker* moved from NOT STARTED to RESEARCHED-OPEN based on the 2026-11-18 source-provenance audit already recorded in its dossier and log. Its cue timecodes and primary production records remain open. Soviet Film Music baseline coverage is now 5/5 RESEARCHED-OPEN.
+- New qualified lead: SF-KG-001, provisional cue family “Песня Данияра” in *Джамиля* (*Jamilya*, 1968/1969). Mosfilm gives 1968 / 83 min / mono and a Daniyar-song synopsis; a regional Kyrgyz-film catalogue gives 1969 and Kyrgyzfilm participation; KM.RU gives film-level lyricist/composer credits; a 6:12 user-uploaded excerpt supplies the working cue label. The 1968/1969 discrepancy and exact print/cue identity remain unresolved.
+- Added SF-AUD-011 with status IDENTITY UNRESOLVED. No audio was auditioned, downloaded or uploaded; no film was played; no contact, permission or rights clearance occurred. No READY FOR DRIVE entry.
+- Next: authenticate the Jamilya cue against an authorized film print/cue sheet; continue regional rotation beyond Kyrgyzstan; maintain separate film-print, soundtrack-release, dub, re-recording and reconstruction objects.
+
+Sources: https://www.cambridge.org/core/journals/twentieth-century-music/article/valentin-kruchinin-and-the-queen-of-mars-early-musical-traces-of-soviet-scifi/27CB312C1E0EF7F104418D3B40297846 ; https://www.mosfilm.ru/cinema/films/dzhamilya/ ; https://kirgizfilm.ru/katalog/hu65.html ; https://www.km.ru/kino/encyclopedia/dzhamilya-1968 ; https://ok.ru/video/6870715339208

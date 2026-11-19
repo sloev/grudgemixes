@@ -185,3 +185,30 @@ No new READY FOR DRIVE item, no audio audition/download/upload, no contact and n
 ### 2026-11-18 addendum — current newspaper archive range
 
 Followed the current newspaper's own archive link to https://vapress.kz/newspapers. The visible year filters are 2021–2026 only; this is not a digitised historical run and does not expose the 23 January 1969 issue. This is a verified negative access result, not evidence the historical issue is lost. The exact 1969 issue still requires a library/archive holdings enquiry. Updated the SF-KZ-001 dossier; no cue or status change.
+
+
+## 2026-11-19 — regional cue lead SF-KG-001: “Песня Данияра” / *Джамиля* (*Jamilya*, 1968/1969)
+
+**Status:** IN PROGRESS; one provisional cue-family lead, not a confirmed original-print cue.
+
+- Mosfilm’s film record gives 1968, 83 minutes, mono sound, composer Николай Сидельников and a synopsis that specifically mentions the wounded Daniyar’s songs.
+- A regional Kyrgyz-film catalogue lists the same director, cinematographer and composer under 1969, with Lenfilm and a German co-producer and Kyrgyzfilm participation. Treat 1968/1969 as an unresolved release/production-credit discrepancy for one film, not two leads.
+- KM.RU gives film-level credits for composer Н. Сидельников and song lyrics Б. Сарногоев. It does not map the lyricist or composer to a specific cue.
+- An OK.ru user-uploaded 6:12 film fragment is titled “Джамиля (1968) — Песня Данияра” and labels itself a film fragment. This supplies a working cue title and a later digital excerpt, not proof of the original print, exact cue title, performer or version. Do not infer that an actor named in the cast is the singer.
+- Targeted searches did not locate a standalone soundtrack release in MusicBrainz/Discogs. This is a search null, not proof no release exists. No later dub, re-recording or reconstruction has been identified.
+- Access: Mosfilm lists a full-film viewing route; it was not played or tested. The OK.ru clip was not played. No audio audition, download, upload, contact or rights clearance occurred.
+
+Sources checked 2026-11-19:
+- https://www.mosfilm.ru/cinema/films/dzhamilya/
+- https://kirgizfilm.ru/katalog/hu65.html
+- https://www.km.ru/kino/encyclopedia/dzhamilya-1968
+- https://ok.ru/video/6870715339208
+
+### Next exact tasks for SF-KG-001
+
+1. Find an authorized 1968/1969 film-print or production record and identify the cue’s exact timecode, language and version.
+2. Search Kyrgyz-language and Russian-language catalogues for “Даниярдын ыры”, “Песня Данияра”, “Жамиля”, Б. Сарногоев and Н. Сидельников.
+3. Establish whether the 6:12 excerpt is from the original mono print, a later transfer, a dub or a reconstruction; do not merge these objects.
+4. Locate the original score, cue sheet, lyric sheet or production sound record before assigning a cue-specific composer, lyricist or performer.
+
+The 2026-11-18 Stalker provenance audit is now sufficient for baseline status RESEARCHED-OPEN: its original film-print cue identity, later Artemyev album/re-recording distinctions, source provenance, access and rights dependencies are explicit. Soviet Film Music baseline coverage is now 5/5 RESEARCHED-OPEN; the remaining programme work is new-lead qualification and further research of SF-KG-001.
