@@ -44,3 +44,16 @@ Proposed filename: `GM-US-015_Al_Craver_Sentenced_to_Life_Behind_These_Grey_Wall
 ## Decision
 
 Retain as a C lead and READY FOR GROK retrieval target. The Columbia side is exactly identified and the 1925 recording date is independently confirmed by Smithsonian; thematic promotion awaits the actual lyrics. No audio has been auditioned or downloaded by this research agent.
+
+## 2026-11-19 update — Claude (research + retrieval session)
+
+**DAHR session date and takes confirmed.** DAHR, Columbia matrix W141311, "Sentenced to life behind these gray walls / Al Craver" (fetched 2026-11-19; https://adp.library.ucsb.edu/index.php/matrix/detail/2000031075/W141311-Sentenced_to_life_behind_these_gray_walls): takes 1 and 2, both 11/24/1925, New York, both "Master — Columbia 15060-D". So either take may appear on copies of 15060-D; record the take suffix from any carrier before treating two transfers as the same. Composer: Carson Robison (disc label). Personnel: Al Craver/Vernon Dalhart (vocal, harmonica), Murray Kellner (violin), Carson Robison (guitar). DAHR exposes **no audio**; Columbia master remains unretrieved. This answers the open question on the 24 November 1925 session date (DAHR/Rust); take suffix of any surviving copy remains open.
+
+**Separate Dalhart masters on the Internet Archive (NOT the Columbia target):**
+1. Edison 51669-R, **matrix 10720-A-1-1**, "Behind These Gray Walls", Vernon Dalhart, writer Carson J. Robison, dated 1925 by item; George Blood transfer at 80 rpm, worn vertical-cut disc: https://archive.org/details/78_behind-these-gray-walls_vernon-dalhart-carson-j-robison_gbia0083041b . Reverse: "Naomi Wise" (GM-US-013 alternate).
+2. Victor 19999 (matrix 34105 per Honking Duck): https://archive.org/details/ka-116-vernon-dalhart-behind-these-grey-walls — not inspected this session.
+3. `78_behind-these-grey-walls_vernon-dalhart-carson-robison_gbia3039770a` — label/matrix not inspected this session.
+
+- Retrieved by this session: `GM-US-015-ALT_Dalhart_Behind_These_Gray_Walls_Edison_51669-R_mx10720_1925.mp3` — archive's preferred MP3 derivative, unmodified; MP3 48 kHz stereo, ~169 kbps VBR, 224.16 s, 4,729,994 bytes, SHA-256 `16b8308bb97abd0c2cc30ed0b11116591850440718946954f89feb55d0845f19`. FLAC 24-bit (66,020,819 bytes) also offered.
+- **Drive status: NOT UPLOADED** — Drive connector limit (~3.1 MB file content per call) in this session. Awaiting owner decision.
+- The Edison side is a different master; it can be used to hear Robison's text as Dalhart sang it in 1925, but not as evidence of the exact W141311 wording.

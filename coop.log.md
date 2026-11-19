@@ -101,3 +101,27 @@ Reviewed latest Drive TRACK_MAPPING.md (ID 14k4LQBw7Nu68Xci7XnSz78tY_JmMMdun) an
 
 ### Handoff
 Continue source hunts for exact archival transfers of remaining research targets. Do not invent downloads or change statuses without evidence. For sovietfilm, continue extracting additional labeled film-mix cues from accessible IA sources (different timestamps) or identify owner-approved free commercial reconstructions/isolated tracks. Prefer Kancheli and Zatsepin. Update Drive TRACK_MAPPING.md with new retrievals if needed. All new work in canonical grudgemixes workspace only; legacy repos reference-only. Verify reported files independently before promoting to FILE VERIFIED.
+
+## 2026-11-19 — Claude — Grudge Mixes READY FOR GROK pass: DAHR confirmations, Edison alternate masters
+
+### Task
+Read AGENTS.md, GROK_HANDOFF.md, latest coop.log and the Drive TRACK_MAPPING.md. Worked through the Grudge Mixes leads marked READY FOR GROK (GM-US-011, -013, -015, GM-ZA-001). Insane Music and Soviet Film queues checked: no free, lawful READY items (Soviet items are STREAM ONLY / OWNER APPROVAL / IDENTITY UNRESOLVED).
+
+### Findings
+- GM-US-011: already in Drive (two copies, same byte size).
+- GM-US-013 / GM-US-015: DAHR matrix pages confirm 24 Nov 1925 New York sessions (W141313 takes 1–3, take 2 issued on 15053-D; W141311 takes 1 and 2 both issued on 15060-D). No audio exposed on DAHR. Roots 'n' Blues IA item cited by Dattilo contains Coon Creek Girls' 1938 "Poor Naomi Wise", not the Craver side.
+- New: Edison Diamond Disc 51669 (Dalhart; L = Naomi Wise mx 10721, R = Behind These Gray Walls mx 10720), Great 78 Project transfers. Different masters — recorded as ALT objects only.
+- GM-ZA-001: DISA host unreachable through the egress proxy.
+
+### Retrievals
+- Downloaded (local, unmodified IA MP3 derivatives): GM-US-013-ALT and GM-US-015-ALT; specs and hashes in the lead files and TRACK_MAPPING.md.
+- **Not uploaded to Drive**: connector refuses >~3.1 MB file payloads in this session. No file claimed as in Drive.
+
+### Files changed
+leads/GM-US-013-al-craver-naomi-wise-1925.md, leads/GM-US-015-al-craver-sentenced-to-life-behind-grey-walls-1925.md, TRACK_MAPPING.md, coop.log.md.
+
+### Metrics
+New candidate entries: 0. New queue items: 2 (ALT). Files uploaded and verified in Drive: 0.
+
+### Handoff
+Owner decision needed on uploading the two Edison MP3s (manual upload, or a Drive agent without the size limit). Next: look up Edison mx 10720/10721 session dates in DAHR; inspect the Victor 19999 and gbia3039770a "Behind These Grey Walls" items for label/matrix; transcribe the Edison texts as comparison witnesses only. Retry DISA for GM-ZA-001 from a route that can reach ukzn.ac.za.

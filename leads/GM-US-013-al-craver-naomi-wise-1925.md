@@ -50,3 +50,15 @@ Proposed filename: `GM-US-013_Al_Craver_Naomi_Wise_Columbia_15053-D_1925`
 ## Decision
 
 Keep as a C lead and retrieve for exact lyric inspection. It is a plausible accusation/justice narrative, not yet a verified grievance or punishment song. Do not quote the older Naomi Wise ballad as the 1925 performance. No audio has been auditioned or downloaded by this research agent.
+
+## 2026-11-19 update — Claude (research + retrieval session)
+
+**DAHR session date confirmed.** The DAHR matrix page for Columbia W141313 (fetched 2026-11-19; https://adp.library.ucsb.edu/index.php/matrix/detail/2000031077/W141313-Naomi_Wise) lists three takes, all 11/24/1925, New York: take 1 "Master", take 2 "Master — Columbia 15053-D", take 3 "Unknown". Issued-take information is credited to Cary Ginell, *The Columbia 15000-D series discography (1924–1933)*, and session data to Brian Rust, *The Columbia master book discography*, vol. 3. Composer/lyricist: Carson Robison, listed on the label as "Maggie Andrews". Personnel as above (Dalhart as Al Craver; Kellner, Robison, Staigers). **The DAHR page exposes no audio player or file**; the Columbia master remains unretrieved.
+
+**Roots 'n' Blues access lead — negative.** The archive.org item cited by Dattilo (https://archive.org/details/03-frank-hutchison-the-last-scene-of-the-titanic, 325 files, no licence field) contains only one Naomi Wise track: "A'nt Idy Harper & The Coon Creek Girls – Poor Naomi Wise" (1938). No Al Craver / Columbia 15053-D track was found in its file list. Do not treat this item as a route to W141313.
+
+**Separate Dalhart master found (NOT the Columbia target).** Internet Archive Great 78 Project, `78_naomi-wise_vernon-dalhart-maggie-andrews_gbia0083041a` (https://archive.org/details/78_naomi-wise_vernon-dalhart-maggie-andrews_gbia0083041a): Vernon Dalhart, "Naomi Wise", writer Maggie Andrews, **Edison 51669-L, matrix 10721-A-1-1**, vertical-cut Diamond Disc, dated 1925 by the item; "Singing, Harmonica, Violin and Guitar; Company". Transfer by George Blood L.P. at 80 rpm, 0.7 mil elliptical stylus; disc noted as worn. Reverse: "Behind These Gray Walls" (matrix 10720; see GM-US-015). This is an independent Edison recording of the same Robison song by the same singer, **not** Columbia W141313. Exact Edison session date not yet checked (DAHR search rate-limited this session).
+
+- Retrieved by this session: `GM-US-013-ALT_Dalhart_Naomi_Wise_Edison_51669-L_mx10721_1925.mp3` — the archive's "preferred" MP3 derivative, unmodified; MP3 48 kHz stereo, ~161 kbps VBR, 241.32 s, 4,848,685 bytes, SHA-256 `8f867ac6ab53334fb02e92ac31111a61f48070d4703154db8a097df48e0d5aa1`. A 24-bit FLAC (70,391,947 bytes, 241.28 s) is also offered by the item.
+- **Drive status: NOT UPLOADED** — the Drive connector in this session refuses any request over ~3.1 MB of file content. Awaiting owner decision (manual upload or another Drive-capable agent).
+- Status for the Edison object: alternate-master access copy; not listened to for lyric transcription in this session. It may serve as a comparison text for the Robison song but must not be quoted as the Columbia performance.
