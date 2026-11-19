@@ -151,7 +151,7 @@ Only distinct, evidence-backed recording/cue objects admitted under the relevant
 
 | Grudge Mixes | GM-AL-001 | Shoqnia e hengxhive e shahirave, «Kanga e Oso Kukës» (Gramophone 10771; matrix 4570r; Shkodër, 1908) | *Shejzat* 2024 identifies performer/title/matrix/issue and IAKSA reel 0279-03; Albanian intangible-heritage register credits Zenel Maha; exact 1908 performance text not yet matched to the later song. C-level, one recording object. | IN PROGRESS |
 | Insane Music | IM-052 | ZeN, *Bakırköy Akıl Hastanesi'nde* (Istanbul, 1998) | Extant 1999 cassette/CD and 2023 300-copy LP reissue; contemporary *Roll* interview and participant testimony establish visiting-band performance at Bakırköy Psychiatric Hospital. Not resident-made; exact date/time and first edition remain open. | IN PROGRESS |
-| Soviet Film Music | SF-GE-003 | «ხევსურული ბალადა» / *Khevsuruli Balada* (1965/1966), Rezo Lagidze | National Library poster, National Archives stills and Georgian Cinema catalogue support one Georgian SSR film and composer credit; 1TV programme has a later “music for the film” segment, but no original cue or soundtrack identified. | IN PROGRESS |
+| Soviet Film Music | SF-GE-003 | «ხევსურული ბალადა» / *Khevsuruli Balada* (1965/1966), Rezo Lagidze | National Library poster, National Archives stills and Georgian Cinema catalogue support one Georgian SSR film and composer credit; regional sources identify cue candidate «ხმა ამაიღე ფანდურო» with Sofiko Chiaureli and Zurab Kapanidze, but original film-print audio remains unverified. Added as SF-AUD-012 / RESEARCH LEAD. | IN PROGRESS |
 
 ### Excluded from the new-lead count
 
@@ -268,7 +268,7 @@ Radio La Colifata / *Viva La Colifata* remains context-only because of the high-
 ### New qualified leads added
 - **GM-AL-001:** Shoqnia e hengxhive e shahirave, «Kanga e Oso Kukës» (Gramophone 10771; matrix 4570r; Shkodër, 1908). The 2024 *Shejzat* study gives an extant IAKSA digitised-reel reference 0279-03; the Albanian intangible-heritage register credits Zenel Maha. C-level defiance lead; exact 1908 text is not yet matched to the later song.
 - **IM-052:** ZeN, *Bakırköy Akıl Hastanesi'nde* (Istanbul, 1998). Extant 1999 cassette/CD and limited 2023 double-LP; contemporary Turkish press and participant testimony establish the visiting underground band's performance at Bakırköy Psychiatric Hospital. Explicitly not resident-made; visibility PROMISING/medium.
-- **SF-GE-003:** «ხევსურული ბალადა» / *Khevsuruli Balada* (1965/1966), Rezo Lagidze. Georgian National Library poster and National Archives records support a 1965 production; local Georgian film catalogue provides composer and sound-operator credits. No cue or original soundtrack yet identified.
+- **SF-GE-003:** «ხევსურული ბალადა» / *Khevsuruli Balada* (1965/1966), Rezo Lagidze. Georgian National Library poster and National Archives records support a 1965 production; local Georgian film catalogue provides composer and sound-operator credits. One cue candidate «ხმა ამაიღე ფანდურო» identified; original film-print version, score and standalone soundtrack remain unresolved.
 
 ### Canonical path correction
 - IM-051 Caustic *Unrest* was mirrored into the canonical projects/insane-music research directory and catalogue. This is the prior counted lead, not a new addition in this run.
