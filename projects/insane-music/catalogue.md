@@ -214,3 +214,14 @@ Sources: https://www.dgabc.com.br/Noticia/305281/centro-para-dependente-quimico-
 | IM-050 | Anões de Jardim, Demo | Independent hardcore/DIY cassette scene, Curitiba, Paraná, Brazil | July 1993 | Eight-track demo cassette; collector-reported digitised copy | F (underground/overlooked scene), D (DIY cassette practice) | PARTIALLY VERIFIED | PROMISING | The band’s old Real Deal page says the first demo was recorded live in Studio Solo in July 1993, contained eight songs and had weak independent distribution. A specialist collector’s 2012 post describes a private-collection copy, tracklist and transfer defects; contemporaneous 1997 local press places the band in Curitiba’s independent festival circuit. No original carrier, audio audition or rights clearance. Count the demo once, not each track. |
 
 Detailed dossier: research/anoes-de-jardim-demo-1993-2026-11-19.md.
+
+
+
+## M. 2026-11-19 — additional qualified recording objects
+
+| ID | Recording / object | Environment & place | Date / medium | Pathway | Status | Visibility | Detail |
+|---|---|---|---|---|---|---|---|
+| IM-051 | Caustic, *Unrest* | Underground DIY / industrial-electronic cassette scene, São Paulo, Brazil | Recorded and mixed September 1995; eight-track demo cassette; collector-reported digital conversion | Underground cassette / home-studio / independent scene | PARTIALLY VERIFIED | PROMISING | Collector-index item gives eight tracks, 31:21, three named personnel, recording/mix credit and conversion provenance. Underlying page cache-missed; no cassette, audio or artwork inspected. Rights and transfer chain remain unknown. Separate from the three-track Caustic *Demo-tape* (1995). Dossier: research/IM-051-caustic-unrest-sao-paulo-1995.md |
+| IM-052 | ZeN, *Bakırköy Akıl Hastanesi'nde* | Visiting underground improv band at Bakırköy Psychiatric Hospital, Istanbul, Türkiye | Live event 1998; original cassette/CD issued 1999; 2023 limited double-LP reissue | A (institutional performance, visiting band) + F (underground scene) | VERIFIED recording / institutional setting | PROMISING / medium | Contemporary 1998 *Roll* interview and 1999 press coverage, participant interview and label reissue page establish the event and surviving album. Explicitly NOT resident-made. The 1998 caller count, exact event date/time, first label/edition and 1999/2023 track-order details remain open. No audio was played. Dossier: research/IM-052-zen-bakirkoy-1998.md |
+
+**Counting:** IM-051 and IM-052 are one recording object each. IM-052 is admitted as a visiting underground performance with an extant recording, not as patient-made music. The 2023 Zel Zele edition is limited to 300 copies; visibility is PROMISING rather than HIGH PRIORITY because the recording has a specialist reissue and press coverage.
