@@ -242,3 +242,14 @@ Next: resolve “O Amor Chegou” vs platform tracklist and 65/66 corpus count; 
 ## 2026-11-18 — ChatGPT — README snapshot addendum
 
 Added a dated README snapshot note for the IM-039 fifth-album metadata reconciliation. The original 2026-11-16 snapshot remains intact; IM-039 remains context-only and no download/Grok queue change was made.
+
+
+## 2026-11-19 — Insane Music balanced research batch
+
+- Existing baseline advanced: IM-040, G.D.E. — No Art Pictures. Rechecked the collector post against the item-level Archive.org record: both list 17 tracks, but durations differ (59:34 vs 59:25), the item record calls it a second album while the collector calls it a demo-tape, and the item metadata carries an uploader-set CC BY-NC-ND field. Baseline status advanced from NOT STARTED to RESEARCHED-OPEN; original carrier, exact fixation date and rights-holder authority remain open.
+- New qualified lead: IM-050, Anões de Jardim — Demo (July 1993), one eight-track Curitiba cassette. The band’s preserved Real Deal page says it was poorly distributed; a collector’s item record gives the tracklist and tape-copy condition; contemporaneous 1997 local press corroborates the independent scene. Status PARTIALLY VERIFIED / PROMISING.
+- Regional screening in Argentina, Mizoram and Mumbai produced three context-only results: La Colifata’s resident-generated Manu Chao collaboration (high visibility/date conflict), the mission-formed Leprosy Mission Choir (no resident membership established), and Sewri’s Band-Aid patient band (no item-level extant recording found). None was counted as a core new lead.
+- No audio was auditioned or downloaded, no physical cassette was inspected, no contact or rights request was made, and no permissions are implied.
+- Next: baseline IM-041; continue geographic rotation outside Brazil; resolve G.D.E. Synthetic Apocalypse (1996/1997) separately.
+
+Sources: https://archive.org/details/n0lpcd09/04 ; https://www.oocities.org/sunsetstrip/4509/adj.htm ; https://demo-tapes-brasil.blogspot.com/2012/12/ ; https://www.folhadelondrina.com.br/folha-2/holofotes-sobre-o-underground-29576.html

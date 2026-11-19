@@ -2235,3 +2235,29 @@ This is metadata refinement only: retain IM-039 as context-only, with no new can
 Two contemporaneous Diário do Grande ABC reports strengthen the record for the Santo André CAPS-DQ CD *Viajar – Ida e Volta no Caminho do Inconsciente Poético e Musical*: the 23 Nov 2001 launch notice describes nine songs and approximately 500 free copies for institutions/projects; the 13 Jan 2002 follow-up again gives the nine-track count, says workshop lyrics were written by students in 1999, and identifies volunteer regional arrangements and the CAPS-DQ choir on the title song. The reports distinguish participant-authored lyrics from guest interpretation; do not treat the CD as nine resident performances. Historical distribution is supported, but present carrier survival, complete sleeve data, current access and rights remain unresolved. No audio auditioned, no carrier inspected, no contact made and no rights cleared.
 
 Sources: https://www.dgabc.com.br/Noticia/305281/centro-para-dependente-quimico-lancara-cd-no-municipal ; https://www.dgabc.com.br/Noticia/108256/arte-favorece-inclusao-social-no-abc .
+
+
+## 2026-11-19 — Curitiba DIY discovery and regional exclusion register
+
+### Core lead IM-050 — Anões de Jardim, Demo (1993)
+
+The band’s preserved Real Deal page says Anões de Jardim formed in January 1993, first played at Curitiba’s 92 Degrees, and recorded an eight-song first demo live at Studio Solo in July 1993; it explicitly describes the first demo’s independent distribution as weak. The 1994 follow-up Extra! had better circulation (the page says more than 500 copies) and an MTV clip, but that is a separate recording and must not be used to inflate the 1993 demo’s visibility.
+
+A collector’s 11 December 2012 post identifies a private-collection cassette copy, lists eight tracks and an 18:51 running time, and records a 50-second lead-in on side B and a cut final track. A 4 July 1997 Folha de Londrina report independently places the band among Curitiba groups at National Garage and documents the local alternative circuit around the 92 Degrees venue, Studio Solo and the independent Bloody label. This supports pathway F/D as a specific low-circulation DIY scene, not a diagnosis or an assumption that every obscure band is an outsider.
+
+Sources:
+- Band/label history (preserved Real Deal page): https://www.oocities.org/sunsetstrip/4509/adj.htm
+- Collector item record: https://demo-tapes-brasil.blogspot.com/2012/12/anoes-de-jardim-demo-1993.html
+- Contemporaneous local press: https://www.folhadelondrina.com.br/folha-2/holofotes-sobre-o-underground-29576.html
+
+### Context-only screens — not counted as core new leads
+
+- **Radio La Colifata / Viva La Colifata Vol I–II (Buenos Aires, Argentina).** The current official site describes 20 tracks made from Colifata participants’ songs, poetry and improvisations in collaboration with Manu Chao; a 2009 Andina report also describes resident-generated material mixed with his musical bases. The official site gives 2005, while the contemporary report is dated July 2009; preserve this date/version conflict. The resident-generated content is important context, but the high-profile collaboration and broad circulation make this a context-only screen for the current obscurity target; no track-by-track resident authorship or exact release/master crosswalk was established. No audio was played.
+  - https://www.vivalacolifata.org/
+  - https://andina.pe/agencia/noticia-manu-chao-graba-nuevo-disco-hospital-psiquiatrico-argentino-245956.aspx
+- **Leprosy Mission Choir, Mizoram, India.** The 2020 refereed Mizo Studies article describes this as a mission-formed gospel choir whose members are selected from different church denominations; it does not establish that the members are patients/residents or that the recordings were made by people living in the mission environment. Do not infer patient status from the choir’s name. Context only; no core lead counted.
+  - https://mizostudiesmzu.com/wp-content/uploads/2020/12/Mizo-Studies-Vol.-IX-No.-4-October-December-2020.pdf
+- **Band-Aid, Sewri TB Hospital, Mumbai, India.** A 2018 report documents five young people undergoing MDR-TB treatment forming a band and performing for other patients in the hospital. No item-level surviving recording or stable sound-recording object was located in this pass, so this remains a performance-context lead, not a main-discography candidate.
+  - https://www.thequint.com/amp/story/fit/tb-patients-form-a-band-in-mumbai-sewri-hospital
+
+Regional screening did not justify counting any of the three contextual screens. Continue the geographic rotation in a different region next run; do not count keyword hits or performances without an extant recording.

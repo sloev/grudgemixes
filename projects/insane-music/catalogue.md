@@ -134,7 +134,7 @@ These entries broaden the catalogue beyond prisons, camps and health institution
 
 | ID | Recording | Environment & place | Date(s) | Medium | Status | Visibility | Detail |
 |---|---|---|---|---|---|---|---|
-| IM-040 | G.D.E. (Grupo de Extermínio), No Art Pictures | Underground post-punk/industrial scene, Santa Maria, Rio Grande do Sul, Brazil | 1995 | Demo cassette; collector digitisation | PARTIALLY VERIFIED | PROMISING | Demo-Tapes Brasil says audio was supplied by the band and cover came from the collector's private collection; 17 tracks, 59:34. Cassette cover has no production details per the post. No original carrier or transfer log inspected. |
+| IM-040 | G.D.E. (Grupo de Extermínio), No Art Pictures | Underground post-punk/industrial scene, Santa Maria, Rio Grande do Sul, Brazil | 1995 (blog); item record has no date | Demo cassette; collector digitisation | PARTIALLY VERIFIED | PROMISING | Demo-Tapes Brasil lists 17 tracks / 59:34 and says the audio came from the band; the Archive.org item record lists 17 tracks / 59:25, 2004 upload metadata, source n0-age.tk and “Taped by GDE”. It calls the item a second album, while the blog calls it a demo-tape. Matching programme suggests one recording object; exact carrier/version and rights-holder authority remain unresolved. No audio auditioned. |
 | IM-041 | G.D.E. (Grupo de Extermínio), Synthetic Apocalypse | Underground post-punk/industrial scene, Santa Maria, Rio Grande do Sul, Brazil | Recorded May 1996 | Four-track demo cassette; collector digitisation | PARTIALLY VERIFIED | PROMISING | Demo-Tapes Brasil reports four-track recording, band-supplied audio and cover from collector's collection; nine tracks, 52:37. A separate 1997 Synthetic Apocalypse is mentioned and must not be conflated pending comparison. |
 
 Detailed evidence, tracklists, adjacent leads and rights caveats: research/brazil-demo-tapes-small-web-2026-11-16.md and the Brazil section of environment-leads.md.
@@ -203,3 +203,14 @@ The 13-track fifth-album item is now cross-referenced to research/harmonia-enlou
 The contemporary chronology is now more precise: a Diário do Grande ABC report dated **23 November 2001** announced the Santo André CAPS-DQ launch and described approximately 500 free-distribution copies; a second report dated **13 January 2002** again identified a **nine-track** CD and described its 1999 workshop lyric origin, volunteer arrangements and mixed guest/resident performance. Keep the 2001 launch and 2002 distribution/reporting window distinct. The 500-copy figure is a historical distribution estimate, not a present-day survival count. IM-048 remains **RESEARCHED-OPEN** because no surviving carrier, complete sleeve/catalogue record, current access route or rights status has been verified. Do not describe all nine tracks as resident performances: the contemporary reports identify only “Viajar” as performed by the CAPS-DQ group.
 
 Sources: https://www.dgabc.com.br/Noticia/305281/centro-para-dependente-quimico-lancara-cd-no-municipal ; https://www.dgabc.com.br/Noticia/108256/arte-favorece-inclusao-social-no-abc .
+
+
+---
+
+## IM-050 — Anões de Jardim, Demo (1993) — Curitiba underground cassette route (2026-11-19)
+
+| ID | Recording | Environment & place | Date(s) | Medium | Pathway | Status | Visibility | Detail |
+|---|---|---|---|---|---|---|---|---|
+| IM-050 | Anões de Jardim, Demo | Independent hardcore/DIY cassette scene, Curitiba, Paraná, Brazil | July 1993 | Eight-track demo cassette; collector-reported digitised copy | F (underground/overlooked scene), D (DIY cassette practice) | PARTIALLY VERIFIED | PROMISING | The band’s old Real Deal page says the first demo was recorded live in Studio Solo in July 1993, contained eight songs and had weak independent distribution. A specialist collector’s 2012 post describes a private-collection copy, tracklist and transfer defects; contemporaneous 1997 local press places the band in Curitiba’s independent festival circuit. No original carrier, audio audition or rights clearance. Count the demo once, not each track. |
+
+Detailed dossier: research/anoes-de-jardim-demo-1993-2026-11-19.md.

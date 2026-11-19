@@ -78,3 +78,12 @@ The G.D.E. items are useful candidates because the collector attributes the sour
 A targeted search of the archive's own “Todos Os Posts” index confirms separate entries for G.D.E. — Synthetic Apocalypse (1996) and G.D.E. — No Art Pictures (1995), but no standalone G.D.E. 1997 Synthetic Apocalypse post appears in the visible index. The 1995 post's “Também disponível: Synthetic Apocalypse (1997)” therefore remains an unresolved cross-reference: it may point to an additional item omitted from the index, an alternate issue, or a date/title error. It is not enough to create a third catalogue entry or merge it with the 1996 four-track tape.
 
 Source: https://demo-tapes-brasil.blogspot.com/p/todos-os-links.html ; compare the 1995 and 1996 posts at https://demo-tapes-brasil.blogspot.com/2012/12/ .
+
+
+## 2026-11-19 — IM-040 item-record cross-check
+
+The Archive.org item record at https://archive.org/details/n0lpcd09/04 lists the item as “No-art Pictures”, with 17 tracks, a 59:25 duration, 2004 upload metadata, source n0-age.tk and the field “Taped by GDE”. It also displays CC BY-NC-ND licence metadata. The licence field is uploader-supplied metadata and is not evidence that the uploader had authority from the rights holder.
+
+The Demo-Tapes Brasil post and its December 2012 month index call the same 17-track programme “No Art Pictures”, give 59:34, identify it as a 1995 demo-tape and say the audio was supplied by the band while the cover came from the collector’s private collection. The item page calls it a “second album”; the blog calls it a demo-tape. The matching tracklist strongly suggests one underlying recording object, but the nine-second runtime difference and release-type wording remain unresolved. Do not create a second lead for the Archive.org item.
+
+This strengthens the item-level provenance and access picture but does not resolve the original carrier, exact fixation date, label/cassette details, master version or rights authority. No audio was auditioned, no file was downloaded, no original cassette was inspected, and no contact or rights request was made. Next action: compare a lawful, owner-approved carrier or label scan against the item metadata and determine whether the 59:25/59:34 discrepancy is transfer padding or a different edit.
