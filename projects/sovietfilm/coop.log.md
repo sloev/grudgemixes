@@ -461,3 +461,18 @@ Obtain authorized access to the Mosfilm viewing copy for cue timecodes; locate t
 - Next: authenticate the Jamilya cue against an authorized film print/cue sheet; continue regional rotation beyond Kyrgyzstan; maintain separate film-print, soundtrack-release, dub, re-recording and reconstruction objects.
 
 Sources: https://www.cambridge.org/core/journals/twentieth-century-music/article/valentin-kruchinin-and-the-queen-of-mars-early-musical-traces-of-soviet-scifi/27CB312C1E0EF7F104418D3B40297846 ; https://www.mosfilm.ru/cinema/films/dzhamilya/ ; https://kirgizfilm.ru/katalog/hu65.html ; https://www.km.ru/kino/encyclopedia/dzhamilya-1968 ; https://ok.ru/video/6870715339208
+
+## 2026-11-19 — Soviet Film Music balanced breakthrough batch
+
+### Existing baseline advanced
+- **Stalker (1979):** opened the Gosfilmofond-hosted Tarkovsky media-archive page “1970. Весна — Знакомство с Эдуардом Артемьевым”. Its quoted Tarkovsky/Olga Surkova discussion records the director's stated wish for a gradually developing sound world, noises and fragments rather than a conventional opening theme/overture. This is a useful director-intent witness, not a score, cue sheet or proof of final film-print contents. Stalker remains RESEARCHED-OPEN; exact print timecodes, original score/dubbing records and album/film-mix mapping remain unresolved.
+
+### New qualified regional lead
+- **SF-UZ-002 — «Дилором» / Dilorom (Uzbekfilm, 1968).** The 1995 Soviet film catalogue and the Academy of Sciences of Uzbekistan's 2009 annotated film catalogue support a specific regional film-opera production and M. Ashrafi composer credit. The 1995 entry gives nine parts / 2,540 metres, orchestra and choir under M. Ashrafi, and named singer/role pairings; it says the film was not released to the all-Union screen. The underlying stage opera, the 1968 film-opera soundtrack and later recordings are kept separate. A later database's 1967 heading conflicts with the two catalogues' 1968 date; exact print, cue sheets, standalone soundtrack and rights remain unknown.
+
+### Next
+- Search Uzbek-language national-library and conservatory records for «Дилором» score/parts and original film production sound records; establish the print's exact date/version and locate authorized film-print access. Continue the next regional rotation beyond Central Asia.
+
+No film was played, no audio was auditioned/downloaded/uploaded, no score or print was inspected, no contact or permission was requested, and no rights were cleared. No public tracker or audio asset was changed.
+
+Sources checked 2026-11-19: https://tarkovskiy.gosfilmofond.ru/1970-vesna-znakomstvo-s-artemyevym/ ; https://djvu.online/file/tZ0s6ELVkng6X ; https://api.unilibrary.uz/storage/PublisherResourceFile/19745/images/1661488249.pdf ; https://www.commus.uz/index.php/ru/35-struktura/russian/331-ashrafi-mukhtar ; https://shaxs.uz/en/film/dilorom-1967
