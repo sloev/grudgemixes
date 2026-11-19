@@ -532,3 +532,21 @@ Sources:
 - Japan Arts Council, Cultural Digital Library, “Araki Mataemon and films”: https://www2.ntj.jac.go.jp/dglib/contents/learn/edc16/iga/etc/tv/movie.html
 
 No record was auditioned or downloaded, no direct audio/download URL was found, no archive was contacted and no rights were cleared. No Grok request.
+
+
+## 2026-11-19 — Japanese text-control search for 奉書試合
+
+A bounded Japanese-language search found a later textual control, but **no transcript or item-specific synopsis for the 1924/1925 recordings**:
+
+- The National Diet Library record for Saitō Kunio's 1955 comic-book biography **『荒木又右衛門』** (おもしろ漫画文庫 81) lists a chapter **「奉書試合」** on p.41. This confirms that the episode title circulated in later Araki Mataemon storytelling; it does not establish that the 1924/25 rōkyoku records use this exact text or narrate the Iga-Ueno vendetta.
+- The National Diet Library / Iga City digital record **「荒木又右衛門誓書」** describes a 1635 pledge attributed to Araki Mataemon, reproduced in a 1912 publication. It is a historical document about the aftermath of the vendetta, not a rōkyoku script or performance transcript.
+- The Tottori District Public Prosecutors Office's historical note says the Kagiya-no-tsuji story began with the 1630 killing of Watanabe Genta and culminated in the 1634 revenge by Watanabe Kazuma and Araki Mataemon. This confirms the wider revenge-cycle context only.
+
+The title boundary remains important: the 1924 Tenchūken Ungetsu item is catalogued as **「奉書仕合」** (仕合 variant), while the 1925 Miyagawa Shōan item is **「奉書試合」**. Do not silently normalise these spellings or assume that either title names the revenge climax. All Araki records remain **C — LEAD** until the specific recorded passage is tied to an accusation, vow, demand, threat or retaliation.
+
+Sources:
+- NDL, 『荒木又右衛門』 (1955), contents include 「奉書試合」 p.41: https://ndlsearch.ndl.go.jp/books/R100000002-I000000825785
+- NDL / Iga City, 「荒木又右衛門誓書」 (1912 reproduction of a 1635 document): https://ndlsearch.ndl.go.jp/books/R100000094-I189721 ; digital viewer https://adeac.jp/iga-city/viewer/mp003300-100030/4_13_175
+- Tottori District Public Prosecutors Office, 「荒木又右衛門と鳥取」: https://www.kensatsu.go.jp/kakuchou/tottori/kouhou_shirasetai_00004.html
+
+No 1924/25 performance text, audio, matrix or new download route was found. No candidate promotion, no Grok request and no audio retrieval.
