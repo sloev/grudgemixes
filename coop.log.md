@@ -64,7 +64,7 @@ Continue source hunts for exact archival transfers of remaining research targets
 ## 2026-11-19 — Grudge Mixes balanced research batch
 
 - Existing baseline advanced: GM-AM-005. Rechecked the Armenian song index and the cited page directly, corrected the now-mismatched Yerkaran page-45 citation, added the ERGIR text/performance page, and clarified the 1918 songbook witness and the unresolved E661-4971 versus 4973-1 identifier discrepancy. Baseline status advanced from NOT STARTED to RESEARCHED-OPEN; exact Tashjian take and primary matrix witness remain open.
-- New qualified lead: GM-JP-001, 吉田奈良丸 “矢頭右衛門の誠忠” (1915), a four-side Victor sequence treated as one C-level lead, not a verified track. The title/episode and secondary Ako-vendetta context justify research; exact performance text, matrix, generation and item-level archive record remain unresolved.
+- New qualified lead: GM-JP-001, 吉田奈良丸 “矢头右衛門の誠忠” (1915), a four-side Victor sequence treated as one C-level lead, not a verified track. The title/episode and secondary Ako-vendetta context justify research; exact performance text, matrix, generation and item-level archive record remain unresolved.
 - No audio was listened to; no label scan or original carrier was inspected; no archive contact, download, purchase, permission or rights clearance occurred.
 - Next: continue baseline GM-AM-006; verify the Tashjian matrix conflict; search the Nichibunken database directly for the Japanese title and performer.
 
@@ -149,3 +149,23 @@ All work targeted existing main only. sloev/insanemusic was read-only legacy/ref
 
 ### Next handoff
 Continue non-Anglo and non-prison rotation; for IM-011 pursue permitted cassette/digital comparison and source-reel provenance. For GM-NG-001 pursue item-level Cambridge/IAKSA metadata, exact Odeon identity and lyric/theme evidence.
+
+## 2026-11-19 (latest) — Grok — deposited additional Kancheli 30m-32m film-mix excerpt
+
+### Task
+Reviewed latest Drive TRACK_MAPPING.md (ID 1sWxhgwnzl7Y6-hv337fEceBZR-91g3ps) and parent/subfolder listings. Confirmed no new READY FOR GROK free archival targets for grudgemixes/insanemusic. Claimed bounded task: deposit one additional verified original film-mix cue excerpt from Kin-dza-dza! into sovietfilm Drive folder, continuing sequential coverage of accessible IA theatrical mix.
+
+### Findings / Retrievals
+- No music-project downloads this session (queue remains without free complete READY FOR GROK items; prior reported downloads stand).
+- sovietfilm Drive: extracted and uploaded SF-Kancheli_Kin-dza-dza_film-mix_excerpt_30m-32m.mp3 from the same Internet Archive item (https://archive.org/details/kin-dza-dza; partial download of first ~763MB of Kin-dza-dza! (English subs) (1986).ia.mp4, then ffmpeg extract of 1800-1920s).
+  - Object type: original film-mix cue excerpt (not isolated score, reconstruction, or compilation excerpt).
+  - Format: MP3, 48 kHz stereo, 128 kbps
+  - Size: 1,920,961 bytes
+  - Duration: 120.024 s
+  - Drive file ID: 1zF46HW58a0gWSGD_pb32vvSuZ57F5AJW
+  - Link: https://drive.google.com/file/d/1zF46HW58a0gWSGD_pb32vvSuZ57F5AJW/view
+- Provenance: partial IA video transfer of original theatrical film mix; audio extracted via ffmpeg (libmp3lame). Continues sequential early-film coverage. Full film remains size-constrained for single-session complete transfer. No new free isolated Kancheli or Zatsepin tracks located meeting lawful free-download terms; commercial reconstructions remain OWNER APPROVAL.
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (Kancheli 30m-32m film-mix excerpt). Updated Drive TRACK_MAPPING.md (new file ID 1jTORl5Yz0Zz7yTQYBem-_31TU0GS0bJF).
+
+### Handoff
+Continue source hunts for exact archival transfers of remaining research targets. Do not invent downloads or change statuses without evidence. For sovietfilm, continue extracting additional labeled film-mix cues from accessible IA sources (next timestamps such as 32m-34m) or identify owner-approved free commercial reconstructions/isolated tracks. Prefer Kancheli and Zatsepin. Update Drive TRACK_MAPPING.md with new retrievals if needed. All new work in canonical grudgemixes workspace only; legacy repos reference-only. Verify reported files independently before promoting to FILE VERIFIED.
