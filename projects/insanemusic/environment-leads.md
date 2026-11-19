@@ -1971,6 +1971,21 @@ Both pages document cuecas made and performed by Los de Chacabuco in the Chacabu
 Cantos Cautivos is the exact item/testimony reference, not a verified direct audio-file URL. Its testimony metadata/text carries a CC BY-NC-ND notice, but musical compositions/recordings require separate authorisation from the relevant rights holders. No authorised download or purchase route was found, so no Grok download request. Keep these pages distinct from the two MMDH Archivo Radial objects (23:36 “Centros de Detención” and 2:03 “Grabación clandestina…”): their internal object IDs and direct media URLs remain unresolved, and the two objects have not been audio-compared. No audio auditioned.
 
 
+### MMDH Archivo Radial crosswalk — two Chacabuco catalogue objects (2026-11-19)
+
+The MMDH Archivo Radial search page now supplies distinct metadata for the two objects previously kept separate:
+
+- **“Centros de Detención” — 23:36**, Radio Moscú / *Escucha Chile*, place Chacabuco, type “Registro al Aire Libre”. It documents an act for the release of a group of prisoners and lists Punto 30, Jamarí, Hugo Peñaloza, Mario Céspedes and Coro Chacabuco. The MMDH song list is “Libre, Oficina Chacabuco”; “Volver”; “Himno a la Alegría”; “Tonada del Viejo Amor”; “Amalia Rosa”; “Caliche”; “El Puntudo”. The catalogue notes defects and cuts.
+- **“Grabación clandestina en Oficina Salitrera ‘Chacabuco’, convertido en centro de detención” — 2:03**, also Radio Moscú / *Escucha Chile* and the same release-celebration event. Its description attributes the clandestine recording to Alberto Corvalán (son of Luis Corvalán), lists Punto 30, Jamarí, Hugo Peñaloza, Mario Céspedes, Coro Chacabuco (directed by Iván Quezada) and Ángel Parra, and names “Canción de la Despedida” plus a final account. It too notes defects and cuts.
+
+The shared event description and overlapping personnel support a common event context, **not** a proven excerpt/duplicate/parent-child relationship. The archive search page does not expose stable internal object IDs or direct media-file URLs in the inspected result; its embedded player controls are not themselves a direct-download route.
+
+The MMDH-linked 2021/22 music-education thesis gives a further, unresolved crosswalk: it says **“El Suertúo”** occurs at **18:30–20:50** in the 23:36 “Centros de Detención” item and gives 1973–74 credits of Víctor Canto and Luis Cifuentes (lyrics), Roberto Parra (music), conservation code **067-001-002**. Yet the MMDH 23:36 catalogue list names **“El Puntudo”**, not “El Suertúo”; the 2:03 object names **“Canción de la Despedida”**. Preserve these as three distinct title claims until an authorised audio/timecode comparison or a primary carrier/liner resolves them. The thesis does not supersede Luis Cifuentes' first-person testimony or settle the existing credit conflict.
+
+**Access / rights:** public catalogue search and player controls were visible; no stable direct audio URL, internal object ID, source-master genealogy or reuse licence was verified. No audio was played or compared. Do not add a Grok request or infer permission from the player.
+
+**Sources:** MMDH Archivo Radial search https://archivoradial.mmdh.cl/buscador_resultado.php?filtro=chacabuco&registros=0&tipo=3 ; MMDH-linked thesis appendix https://manager.mmdh.cl/uploads/L_Ibro_tesis_20212022_EDUCACION_MUSICAL_Vok_WEB_da5720b67c.pdf ; OpenBiblio thesis https://openbiblio.museodelamemoria.cl/media/digitales/TESIS_EDUCACION%20MUSICAL.pdf .
+
 ### Brazil — Hospital Público Juliano Moreira, Belém do Pará: Raul's patient trio and cassette (small-web LEAD, 2026-11-16)
 
 **Status: LEAD / no surviving tape or transfer located. Do not count as an extant recording yet.**
