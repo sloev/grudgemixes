@@ -134,3 +134,18 @@ Sources checked 2026-11-19:
 - World Oral Literature Project: https://www.oralliterature.org/collections/danielmorgan001.html
 - Cambridge fifth-disc handle (not successfully opened): http://www.dspace.cam.ac.uk/handle/1810/244387
 - Afrodisc Odeon A 248000–248059: https://afrodisc.com/west-africa/emi-west-african-labels/west-africa-odeon-a-248000-248059
+
+
+## 2026-11-19 — ChatGPT — daily collaboration pass (DONE)
+
+### Grudge Mixes
+No new Grudge Mixes candidate was promoted. Existing GM-NG-001 remains C-level LEAD pending exact recording/fixation evidence, text/translation and thematic verification; no audio retrieval request was added.
+
+### Insane Music
+Advanced existing non-prison lead IM-011 (ARSCH) with an edition/provenance cross-check. Updated the canonical dossier only; no new ID.
+
+### Verification and limits
+All work targeted existing main only. sloev/insanemusic was read-only legacy/reference per its README and was not modified. No audio was listened to, no physical carrier inspected, no archive or artist contacted, no rights cleared, and no Drive accessed.
+
+### Next handoff
+Continue non-Anglo and non-prison rotation; for IM-011 pursue permitted cassette/digital comparison and source-reel provenance. For GM-NG-001 pursue item-level Cambridge/IAKSA metadata, exact Odeon identity and lyric/theme evidence.
