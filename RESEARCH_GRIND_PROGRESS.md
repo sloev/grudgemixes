@@ -7,8 +7,8 @@
 ## Completion condition
 
 - Baseline leads: **91** (Grudge Mixes 44; Insane Music 42; Soviet Film Music 5).
-- Cumulative distinct qualified new leads added: **16** (Grudge Mixes 3; Insane Music 6; Soviet Film Music 7).
-- Baseline leads with researched status: **15 / 91**.
+- Cumulative distinct qualified new leads added: **19** (Grudge Mixes 4; Insane Music 7; Soviet Film Music 8).
+- Baseline leads with researched status: **18 / 91**.
 - Stopping condition: **NOT MET**. Continue until all 91 baseline leads are RESEARCHED-OPEN or RESEARCHED-CLOSED and at least 91 qualified new leads have been added.
 
 A lead is “researched” when identity, chronology/version, provenance/context, access/rights and next actions have been checked as far as available evidence allows. RESEARCHED-OPEN is valid when unresolved questions or external dependencies remain explicit. It does not mean all issues are resolved.
@@ -21,7 +21,7 @@ Counting unit: one distinct lead/candidate file. Where a legacy ID is reused for
 - leads/GM-AM-002-mardiros-tashjian-hairenikt-mortsir-1909.md: RESEARCHED-OPEN
 - leads/GM-AM-003-tashjian-brothers-himi-el-lrenk-1910.md: RESEARCHED-OPEN
 - leads/GM-AM-004-mardiros-tashjian-himi-el-lrenk-1909.md: RESEARCHED-OPEN
-- leads/GM-AM-005-tashjian-brothers-menk-bedk-e-grvenk-1910.md: NOT STARTED
+- leads/GM-AM-005-tashjian-brothers-menk-bedk-e-grvenk-1910.md: RESEARCHED-OPEN
 - leads/GM-AM-006-mardiros-tashjian-dalvorig-1909.md: NOT STARTED
 - leads/GM-AM-007-tashjian-brothers-tartzial-paylets-1910.md: NOT STARTED
 - leads/GM-AM-008-tashjian-brothers-kerezmanis-togh-1910.md: NOT STARTED
@@ -105,7 +105,7 @@ Counting unit: each consolidated catalogue ID IM-001 through IM-042. Duplicate s
 - IM-037: NOT STARTED
 - IM-038: NOT STARTED
 - IM-039: NOT STARTED
-- IM-040: NOT STARTED
+- IM-040: RESEARCHED-OPEN
 - IM-041: NOT STARTED
 - IM-042: RESEARCHED-OPEN
 
@@ -117,7 +117,7 @@ Counting unit: the five film-level targets named in the initial research plan. C
 - Kosmicheskiy reys / Космический рейс (1935) — projects/sovietfilm/research/kosmicheskiy-reys-1935.md: RESEARCHED-OPEN
 - Kin-dza-dza! / Кин-дза-дза! (1986) — projects/sovietfilm/research/kin-dza-dza.md: RESEARCHED-OPEN
 - The Mystery of the Third Planet / Тайна третьей планеты (1981) — projects/sovietfilm/research/mystery-of-the-third-planet.md: RESEARCHED-OPEN
-- Stalker (1979) — projects/sovietfilm/research/stalker-1979-artemyev.md: NOT STARTED
+- Stalker (1979) — projects/sovietfilm/research/stalker-1979-artemyev.md: RESEARCHED-OPEN
 
 ## New-lead deduplication register
 
@@ -142,11 +142,17 @@ Only distinct, evidence-backed recording/cue objects admitted under the relevant
 | Insane Music | IM-048 | *Viajar – Ida e Volta no Caminho do Inconsciente Poético e Musical* (Santo André, 2002) | Contemporary report confirms a nine-track CD, 1999 workshop-authored lyrics, volunteer arrangements/performances and CAPS-DQ choir on “Viajar.” One mixed-authorship CD, not nine leads or nine resident performances; current copy/rights unresolved. | RESEARCHED-OPEN |
 | Soviet Film Music | SF-UZ-001 | “Do‘ppi tikdim” / «Дўппи тикдим» from *Мафтунингман* (*Maftuningman*, 1958) | 2014 printed score links the cue to the film and credits Turob To‘la / “Monas Leviev”; Uzbek Composers’ Union biography credits Klara Jalilova and Burhonov’s film-music context. Composer split and film-print/clip identity unresolved; one cue family. | RESEARCHED-OPEN |
 
+| Grudge Mixes | GM-JP-001 | 吉田奈良丸, “矢頭右衛門の誠忠” (Victor catalogue, 1915) | Four-side 50188/50189 sequence treated as one recording family; Ako-vendetta narrative context supports a C-level lead, but exact performance text, matrix and item-level archive record remain unresolved. Not a verified track. | IN PROGRESS |
+| Insane Music | IM-050 | Anões de Jardim, Demo (July 1993) | One eight-track Curitiba DIY cassette; band history says weak distribution, collector item record gives tracklist/copy condition, and 1997 local press corroborates the underground scene. | IN PROGRESS |
+| Soviet Film Music | SF-KG-001 | “Песня Данияра” / “Daniyar’s song” in Джамиля / *Jamilya* (1968/1969) | One provisional cue family: Mosfilm film record, regional Kyrgyz-film catalogue and later 6:12 user-uploaded fragment; exact print, cue title, performer and version remain unresolved. | IN PROGRESS |
+
 ### Excluded from the new-lead count
 
 - GM-ES-001, María García's 1939 “La noche de Reyes”: useful contextual comparison, but OUTSIDE CORE (post-1925).
 - Armenian Radio Archive soundtrack collection overview: a discovery route, not a separate recording/cue lead; its individual cue objects are counted only when separately qualified.
 - Additional versions of the same recording/ballad are recorded as version evidence, not automatically counted as new leads.
+
+- 2026-11-19 regional screens, not counted: Radio La Colifata’s resident-generated Manu Chao collaboration is high-visibility/context-only and has a 2005/2009 date discrepancy; the Leprosy Mission Choir, Mizoram, is mission-formed with no evidence its members are patients/residents; Sewri’s Band-Aid patient group is documented as performing but no item-level extant recording was located. See the Insane Music environment-leads register.
 
 ## Work advanced through 2026-11-18
 
@@ -158,14 +164,10 @@ Only distinct, evidence-backed recording/cue objects admitted under the relevant
 
 ## Next exact work queue
 
-1. **Grudge Mixes:** advance baseline GM-AM-005 and GM-AM-006; locate matrix/runout and authorized audio for the 1909/1910 Tashjian issues; seek an original carrier/transfer and text for GM-MX-002. For Sutton's GM-US-018, obtain the LOC item card and text 137 for A93 / NC137 before attempting a textual comparison.
-2. **Insane Music:** advance IM-038 and IM-039; locate a current copy of IM-048 and confirm complete credits, custody and rights with owner approval; resolve the full IM-036 tracklist, later-CD rights and the separate harmonica-group recording.
-3. **Soviet Film Music:** advance *Stalker*; obtain the 1961 catalogue pages 67–68 and the 20/27 January 1936 newspaper pages; compare *Maftuningman*’s film-print cue with the RizaNova excerpt and resolve the composer split.
-4. Add qualified new leads in each project while maintaining the dedup register. Do not pad counts with contextual items or collection-level routes.
-
-
-- GM-US-019, Waring's Pennsylvanians, “Stack O'Lee Blues — A Fox Trot” (Victor 19189-A, matrix 28665-5, 16 Oct 1923): exact early instrumental version witness; Grok-reported MP3 not independently inspected. Excluded from qualified new-lead count because it is instrumental and no grievance-response mechanism is audible/verified; retain as Stagger Lee context only.
-
+1. **Grudge Mixes:** advance baseline GM-AM-006. For GM-AM-005, resolve the E661-4971 versus 4973-1 identifier with a primary label/matrix witness. For GM-JP-001, search the Nichibunken SP database directly for 矢頭右衛門の誠忠 / 赤穂城内大評定 / 吉田奈良丸 and seek a Victor label image; do not promote beyond C without exact performance text.
+2. **Insane Music:** advance baseline IM-041 (G.D.E., Synthetic Apocalypse) and keep it separate from IM-040. Continue geographic rotation outside Brazil; the Argentina, Mizoram and Mumbai screens from this run remain context-only for the reasons logged. For IM-050, seek an independent carrier/label witness and verify the 1993 demo’s circulation and rights.
+3. **Soviet Film Music:** baseline coverage is 5/5 RESEARCHED-OPEN. Advance SF-KG-001 by authenticating “Песня Данияра” against an authorized 1968/1969 film print, locating a cue sheet/score and resolving the 1968/1969 date/production-credit discrepancy. Rotate the next discovery to another SSR/region and preserve local-language titles.
+4. Continue balanced new-lead discovery in all three projects. Current target gap: **72 more qualified new leads** (19/91 added); current baseline research gap: **73 leads** (18/91 researched). Do not count context-only screens or multiple sides/tracks/versions separately.
 
 ## Progress checkpoint — 2026-11-17 — GM-US-018 A93 / NC137
 
@@ -197,3 +199,29 @@ The public comparison pass is complete as far as accessible catalogue evidence a
 - **Soviet Film Music:** no 1936 newspaper scan, 1961 catalogue entry, or inspected film print; *Maftuningman*’s original cue audio and composer split unresolved. Next: advance *Stalker* and obtain the exact period/catalogue pages.
 
 No audio assets were modified; no purchases, downloads, archive contacts, permission requests or public-tracker updates were made. All work was confined to the canonical repository.
+
+
+## Progress checkpoint — 2026-11-19 — balanced three-project batch
+
+### Baseline advances and status changes
+
+- **Grudge Mixes:** GM-AM-005 moved from NOT STARTED to RESEARCHED-OPEN. The current Yerkaran page-45 citation was corrected after direct inspection; ERGIR and the Marutyan 2020 study provide the currently checked text witnesses, including the 1918 songbook reference. The E661-4971 versus 4973-1 identifier conflict, exact Tashjian take, label/runout and rights remain open.
+- **Insane Music:** IM-040 moved from NOT STARTED to RESEARCHED-OPEN. The collector post and item-level archive record agree on 17 tracks but differ on runtime (59:34 versus 59:25) and release description (“demo-tape” versus “second album”). The uploader-set licence metadata is not rights-holder clearance; original carrier and transfer chain remain open.
+- **Soviet Film Music:** *Aelita* received a substantive source advance: the 2024 Cambridge article reproduces a 1926 publisher catalogue listing the surviving Op. 24 piece under “Choreographic Sketches”, not as a film cue. *Stalker* moved from NOT STARTED to RESEARCHED-OPEN after synchronization with the 2026-11-18 source-provenance audit and its explicit unresolved dependencies. Soviet Film Music baseline coverage is now 5/5 RESEARCHED-OPEN.
+
+### New qualified leads added
+
+- **GM-JP-001:** 吉田奈良丸, “矢頭右衛門の誠忠” (1915), one four-side Victor sequence. C-level lead only; the record’s issue year, title and Ako-vendetta narrative context are documented, but exact performance text, matrix and item-level archive record are not.
+- **IM-050:** Anões de Jardim, eight-track Demo (July 1993), Curitiba. Band history, collector item record and contemporaneous local press support a low-circulation DIY/underground-scene lead; physical carrier and rights remain open.
+- **SF-KG-001:** “Песня Данияра” / “Daniyar’s song” in *Джамиля* (*Jamilya*, 1968/1969), one provisional cue family. Mosfilm, a regional Kyrgyz-film catalogue, film-level lyric/composer credits and a later user-uploaded excerpt support investigation; exact original-print cue and version remain unresolved.
+
+### Context-only regional screens (not counted)
+
+Radio La Colifata / *Viva La Colifata* remains context-only because of the high-profile Manu Chao collaboration and unresolved 2005/2009 release-date crosswalk; the Leprosy Mission Choir, Mizoram, has no established resident/patient membership; Sewri’s Band-Aid group has no item-level extant recording located. These screens were not added to the new-lead total.
+
+### Completion measures
+
+- Baseline leads researched: **18 / 91** (Grudge Mixes 8/44; Insane Music 5/42; Soviet Film Music 5/5).
+- Cumulative distinct qualified new leads: **19 / 91 target** (Grudge Mixes 4; Insane Music 7; Soviet Film Music 8).
+- Remaining: **73 baseline leads** to research and **72 qualified new leads** to add.
+- Stopping condition: **NOT MET**. Continue balanced batches; no public tracker was changed or published.
