@@ -230,3 +230,27 @@ Sources checked 2026-11-19:
 2. Resolve 1967/1968 dating through the film technical passport or original print; compare length, parts and language.
 3. Locate an authorized film print and keep its sound distinct from stage-opera recordings, later dubs and re-recordings.
 4. Continue regional rotation beyond Kyrgyzstan and Uzbekistan in the next batch.
+
+
+
+## 2026-11-19 — Georgian SSR film lead SF-GE-003 and Stalker restoration version audit
+
+### New qualified lead SF-GE-003 — «ხევსურული ბალადა» / *Khevsuruli Balada* (1965/1966), Rezo Lagidze
+
+Added one Georgian SSR film-music case study. The National Library of Georgia poster record (handle 1234/390115) gives 1965 and credits director Shota Managadze, writer Giorgi Mdivani and composer Rezo Lagidze. The National Archives of Georgia's film-still records also date the production to 1965. Georgian Cinema's local catalogue gives the film-level composer and sound-operator credits, 89-minute duration and black-and-white format. Filmbladet lists 1966; treat 1965 as poster/production metadata and 1966 as an alternate international catalogue date until a release record settles the first public premiere. A 1TV radio programme listing dated 13 July 2026 includes a segment titled «მუსიკა ფილმისთვის „ხევსურული ბალადა“» (“Music for the film Khevsuruli Balada”), a useful later research route but not original film-print audio. No cue, score, original print sound or standalone soundtrack was identified; do not put an unidentified cue in the audio-collection queue.
+
+### Existing baseline Stalker — 2025 restoration boundary
+
+Mosfilm's official film page now records the 1979 film, Eduard Artemyev composer credit, 163-minute duration, mono sound and a **2025 restoration year**, with the current page marked 4K. This creates an explicit restoration-version boundary; it does not prove that the 2025 sound track is identical to every original 1979 print or to later album releases. No film was played. The 1979 print, 2025 restoration and later album tracks remain separate objects pending authorised comparison.
+
+Sources checked 2026-11-19:
+- National Library of Georgia, poster record: https://dspace.nplg.gov.ge/handle/1234/390115
+- National Archives of Georgia: https://archive.gov.ge/en/pavilioni/dodo-abashidze-100-2
+- Georgian Cinema local catalogue: https://georgian-cinema.ge/index.php/ge/2015-03-27-12-14-46/975-1965-3
+- 1TV programme, 13 July 2026: https://1tv.ge/audio/pikis-saati-13-07-2026/
+- Mosfilm official *Stalker* record: https://www.mosfilm.ru/cinema/films/stalker/
+
+### Next exact tasks
+1. Establish *Khevsuruli Balada* first premiere date and locate Lagidze score/parts/cue sheets; inspect the 1TV segment notes and identify whether it includes a film-print excerpt, later performance or commentary.
+2. Seek Mosfilm restoration notes and compare an authorized 2025-restored *Stalker* print with a reliably identified 1979 print; keep album versioning separate.
+3. Continue next regional rotation beyond Georgia and Central Asia.
