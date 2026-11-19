@@ -49,3 +49,13 @@ No score manuscript, orchestral parts, cue sheet, original soundtrack master, st
 - Lot.ge, Sofiko Chiaureli & Zurab Kapanidze, «ხმა ამაიღე ფანდურო» (video listing, 22 Oct 2021; unverified user upload, not treated as an authorised source): https://lot.ge/video/a79d3056a2ebe/
 
 The ArtInfo and Lot.ge pages returned cache misses when opened; their indexed metadata was checked. The 1TV programme listing and National Archives catalogue were also checked through indexed item records; the National Library and Georgian Cinema records were the underlying pages used for the principal film-credit claims. No film/video was viewed, no audio was auditioned or downloaded, no score or print was inspected, no archive or rights holder was contacted, and no permission or rights clearance occurred.
+
+
+## 2026-11-19 — National Library / local video metadata cross-check
+
+A fresh Georgian-language source pass adds two bounded pieces of evidence without upgrading the cue to verified original-print audio:
+
+- The National Library of Georgia item record for the 1965 poster explicitly names the film, director Shota Managadze, screenwriter Giorgi Mdivani, and composer Rezo Lagidze, and lists Sofiko Chiaureli and Zurab Kapanidze among the cast. This strengthens the film identity and performer association, but it is still film/poster metadata rather than a soundtrack credit or cue sheet. Source: https://dspace.nplg.gov.ge/handle/1234/390115
+- A Lot.ge listing for «ხმა ამაიღე ფანდურო» names Chiaureli and Kapanidze as singers and labels it as a song from Khevsuruli Balada, with the listing dating the film to 1966. Because it is a user-uploaded video listing, the page is treated as discovery metadata only; it does not establish the recording date, carrier, film-print identity, or rights. Source: https://lot.ge/video/a79d3056a2ebe/
+
+The cue remains RESEARCH LEAD / ORIGINAL-PRINT VERSION UNVERIFIED. Preserve the 1965/1966 split: 1965 remains the strongest production/poster date; 1966 appears in the attached poster filename and later video metadata. No audio or video was played, downloaded, or uploaded.
