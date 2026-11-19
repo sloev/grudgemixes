@@ -47,3 +47,17 @@ The artist's Bandcamp page offers authorised streaming and a digital edition; th
 ## Decision
 
 The baseline lead is RESEARCHED-OPEN: the exact 2020 release, cassette edition, tracklist, community context and partial archive loss are supported by the artist and label sources. Recording dates, source-reel mapping, cassette/digital mix differences and rights remain open.
+
+
+## 2026-11-19 follow-up — edition and provenance cross-check
+
+A fresh source pass rechecked the exact surviving release object without promoting the lead. The artist Bandcamp page still identifies an 18-track album released 1 December 2020 and states that the cassette is a hand-numbered Type-I C-44 with a different arrangement/mix from the digital edition. Empty Space independently identifies catalogue **ES-001**, a 2020 edition of 100. Tobira's Japanese retail record repeats the 18-track cassette identity and the edition-of-100 claim, and preserves the release's original track order. These sources strengthen the edition-level identity but do not establish original reel dates, individual performer roles or a complete source-reel map.
+
+The label/artist account continues to describe a self-sufficient commune and barn studio in Bitsch, with recordings stored on reel-to-reel tape and a 2019 fire that destroyed part of the archive. This remains first-party provenance testimony, not independently corroborated fire or conservation documentation. No cassette or digital transfer was accessed in this pass; no listening comparison was made.
+
+**Status unchanged:** RESEARCHED-OPEN. The cassette and digital releases remain extant objects, but source-reel chronology, surviving-archive extent, transfer chain and rights by layer are unresolved. Public Bandcamp availability is not reuse clearance.
+
+**Sources checked 2026-11-19:**
+- https://arsch.bandcamp.com/album/arsch
+- https://www.empty-space.ch/work/arsch-arsch
+- https://tobirarecords.com/products/arsch-arsch-tape
