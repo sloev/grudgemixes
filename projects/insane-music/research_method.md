@@ -1408,3 +1408,24 @@ Created research/harmonia-enlouquece-im-039-2026-11-18.md and updated catalogue.
 ## 2026-11-18 continuation checkpoint — IM-048
 
 A bounded source pass advanced the canonical Insane Music lead IM-048 using two contemporaneous Portuguese reports. The lead now has a precise 23 Nov 2001 launch / Jan 2002 distribution-report chronology, a nine-track count, an approximately 500-copy free-distribution estimate and a clearer mixed participant/guest performance distinction. The surviving carrier, complete sleeve/credits and rights remain unresolved. Next exact task: locate a surviving CD or municipal/participant-held sleeve and preserve the 2001 and 2002 reports as separate evidence. No audio or physical media was accessed.
+
+
+
+## 2026-11-19 — IM-052 discovery and IM-038 enrichment
+
+### New qualified lead IM-052 — ZeN, *Bakırköy Akıl Hastanesi'nde* (Istanbul, 1998)
+
+Added a distinct Turkish underground live album recorded at Bakırköy Psychiatric Hospital. A contemporary July 1998 *Roll* interview with Murat Ertel documents the invitation and the band's deliberate adaptation of its improvisational approach to the hospital hall; an August 1999 *Roll* article is indexed as contemporaneous coverage of the released concert album; the 2023 Zel Zele label page states that the recording was performed live at Bakırköy for an audience of patients, doctors and visitors and that the original cassette/CD appeared in 1999. The label's 2023 double-LP is limited to 300 copies. This is an A + F pathway candidate with extant recording, but it is a **visiting band performance, not resident-made or patient-composed music**. The exact 23 June 1998, 14:30 date/time is from specialist secondary metadata and a 2026 account citing a 1998 newspaper notice; it remains to be verified against that notice. A 1998 interview names nurse Nurten as caller, while Ertel's 2024 interview describes two nurses; preserve the discrepancy.
+
+### Canonicalisation of IM-051
+
+The previously added Caustic *Unrest* (São Paulo, 1995) dossier has been mirrored into the canonical projects/insane-music/research/ directory and registered in this catalogue. It is one eight-track cassette object, not eight leads. This is a path correction/migration of the existing lead, not a new lead for the programme count.
+
+### Existing baseline IM-038 — Mágicos do Som
+
+The UFF 2007 dissertation was reopened directly; it identifies Regina Lúcia Serrão as composer/singer of “Preconceito” (2000) and points to the first *Saúde Musical* CD on an annex CD-ROM. A 2016 peer-reviewed *Sociologias* article independently identifies the song as her composition performed by Mágicos do Som and interprets it as collective anti-discrimination protest. The 2013 Volta Redonda municipal notice confirms the second *Saúde Musical* CD, ten songs, group-authored compositions and named participants. The municipal notice dates the group's origin to March 1996, while the 2016 article says 1997; this remains unresolved. The recording and group history are now better distinguished from clinical narratives: this is participant-authored music with an explicit public anti-stigma voice. The first CD-ROM and second CD remain unaccessed; no audio was auditioned.
+
+### Next exact tasks
+1. Obtain owner-approved copies/sleeves of both *Saúde Musical* CDs and complete tracklists; resolve 1996/1997 formation date.
+2. For IM-052, verify the 1998 event date/time and original 1999 edition; establish master custody and 2023 remaster source through owner-approved enquiry.
+3. Continue non-Anglo regional rotation beyond Brazil and Türkiye in the next batch.
