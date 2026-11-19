@@ -78,3 +78,21 @@ The G.D.E. items are useful candidates because the collector attributes the sour
 A targeted search of the archive's own “Todos Os Posts” index confirms separate entries for G.D.E. — Synthetic Apocalypse (1996) and G.D.E. — No Art Pictures (1995), but no standalone G.D.E. 1997 Synthetic Apocalypse post appears in the visible index. The 1995 post's “Também disponível: Synthetic Apocalypse (1997)” therefore remains an unresolved cross-reference: it may point to an additional item omitted from the index, an alternate issue, or a date/title error. It is not enough to create a third catalogue entry or merge it with the 1996 four-track tape.
 
 Source: https://demo-tapes-brasil.blogspot.com/p/todos-os-links.html ; compare the 1995 and 1996 posts at https://demo-tapes-brasil.blogspot.com/2012/12/ .
+
+## 2026-11-19 follow-up — IM-041 version boundary and Caustic Unrest
+
+### Existing baseline IM-041 — Synthetic Apocalypse (1996)
+
+The 2012 Demo-Tapes Brasil December archive page was rechecked. Its 14 December entry gives G.D.E. (Grupo de Extermínio), Santa Maria, a four-track recording made in May 1996, four-track production, four named members, nine tracks and 52:37 total duration; it says the audio was supplied by the band and the cover came from the collector's collection. The adjacent 13 December No Art Pictures (1995) entry separately says “Também disponível: ‘Synthetic Apocalypse’ (1997)”. The archive's all-posts index lists the 1996 Synthetic Apocalypse but no distinct 1997 post in the visible index. Thus the 1997 mention remains a distinct unresolved cross-reference; it is not evidence that the 1996 nine-track cassette was recorded in 1997, and not enough to create a third lead or merge two masters.
+
+**Programme status: RESEARCHED-OPEN.** Identity, reported May 1996 recording, personnel, nine-track sequence, collector's source/custody statement, 1997 cross-reference, access caveat and rights limitations have been checked as far as the best available evidence allows. The indexed blog page was visible in search output, but its underlying archive page could not be opened through the page retriever in this run. No independent contemporary fanzine, original cassette label, carrier, transfer log or second source for the 1997 version was located. Next action: seek original cassette artwork/label and an independent band/fanzine/collector cross-reference for the 1997 item; do not merge.
+
+### New lead IM-051 — Caustic, Unrest (September 1995), São Paulo
+
+The Demo-Tapes Brasil August 2015 archive result supplies an eight-track Unrest item with recording/mix date September 1995, personnel Jean Grimard, Lourenço “Loop B” and Fabrício, recording/mix credit PB and Caustic, an 8-track sequence and 31:21 runtime. It says the digital conversion and image digitisation were supplied by Dalton Silva. The blog's indexed item text is detailed enough to establish a concrete cassette/transfer lead, but the underlying month archive page returned a cache miss when opened. No original carrier, artwork, fanzine, label catalogue or independent band record was inspected.
+
+A separate three-track Caustic Demo-tape (1995) is also listed by the same collector, with home-studio production and Totem Records distribution; it is not merged with Unrest. It may be a distinct recording object, but requires session and edition cross-checking before separate qualification. This lead is admitted through the underground DIY / cassette-circulation pathway, not through any clinical or institutional category. No diagnosis, institutional affiliation or personal condition is inferred.
+
+**Status:** PARTIALLY VERIFIED / PROMISING. One eight-track cassette object, not eight leads. Rights, custody, current carrier, exact transfer chain and public-circulation terms remain unknown. No audio was downloaded or auditioned, no cassette inspected, no contact made and no rights cleared.
+
+Sources checked 2026-11-19: https://demo-tapes-brasil.blogspot.com/2012/12/ ; https://demo-tapes-brasil.blogspot.com/p/todos-os-links.html ; https://demo-tapes-brasil.blogspot.com/2015/08/ ; https://demo-tapes-brasil.blogspot.com/2015/11/ .
