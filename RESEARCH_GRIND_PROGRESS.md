@@ -273,6 +273,9 @@ Radio La Colifata / *Viva La Colifata* remains context-only because of the high-
 ### Canonical path correction
 - IM-051 Caustic *Unrest* was mirrored into the canonical projects/insane-music research directory and catalogue. This is the prior counted lead, not a new addition in this run.
 
+### Effort balance
+- Each project received one substantive baseline-lead advance and one new-lead discovery/qualification pass in this batch. Research depth was balanced across the three projects; wall-clock research time was not separately recorded.
+
 ### Completion measures
 - Baseline leads researched: **22 / 91** (Grudge Mixes 10/44; Insane Music 7/42; Soviet Film Music 5/5).
 - Cumulative distinct qualified new leads: **25 / 91 target** (Grudge Mixes 6; Insane Music 9; Soviet Film Music 10).
