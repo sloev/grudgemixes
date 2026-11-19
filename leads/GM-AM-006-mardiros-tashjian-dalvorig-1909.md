@@ -44,3 +44,14 @@ Proposed filename: GM-AM-006_Mardiros_Tashjian_Dalvorig_Columbia_1909
 ## Decision
 
 B research target. The exact 1909 solo performance is documented by the Armenian Museum, and an 1896 published text attributed to Mihran Damadian provides a strong thematic lead. Catalogue/matrix and exact lyrics on the commercial recording remain unverified. No audio has been auditioned or downloaded by this research agent.
+
+
+## 2026-11-19 research audit — solo 1909 issue and evidence boundaries
+
+The Armenian Museum of America's item-specific discography was reopened and checked directly. It lists six solo Mardiros Tashjian recordings made in 1909 and names “Dalvorig” with an **unknown matrix number**, paired with “Star Spangled Banner”. The same article distinguishes these six solo recordings from the 28 Tashjian Brothers songs recorded in 1910; its separate 1910 list gives the brothers' “Dalvorig” as E656. This independently reinforces the dossier's essential object distinction: the 1909 solo performance and 1910 trio performance are not one recording. The article also describes Columbia's E-series foreign-language context and double-sided disc practice, but it does not supply a matrix, label scan or recording transcript for the 1909 “Dalvorig”.
+
+The 1896 Alice Stone Blackwell / Mihran Damadian “The Son of Dalvorig” text remains a pre-recording thematic witness, not an exact lyric transcription of this Columbia side. No claim is made that all of its stanzas occur on the 1909 master. The text witness and the recording identity support a strong defiance lead, but the recording's exact performance and matrix remain unknown.
+
+**Programme status:** RESEARCHED-OPEN. Identity, reported 1909 session, distinction from the 1910 trio recording, pre-1909 text witness, access route and rights dependencies have been checked as far as available. Remaining dependencies: primary label/runout or matrix record; exact Armenian performance transcription; physical carrier / authorized audio access; reuse rights. No audio was auditioned or downloaded, no label image was inspected, no archive was contacted, and no rights were cleared.
+
+Sources checked 2026-11-19: Armenian Museum of America, “The Incomplete Story of Mardiros Der Sarkis Tashjian & His Brothers” (https://www.armenianmuseum.org/sound-archive/tashjian-story), especially its 1909 discography and the separate 1910 Tashjian Brothers list; Blackwell, *Armenian Poems* (1896), “The Son of Dalvorig”, pp. 135–138 (existing source record: https://archive.org/details/cu31924026917231; direct page opening was unavailable in this run).
