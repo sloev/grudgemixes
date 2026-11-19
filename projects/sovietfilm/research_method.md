@@ -254,3 +254,10 @@ Sources checked 2026-11-19:
 1. Establish *Khevsuruli Balada* first premiere date and locate Lagidze score/parts/cue sheets; inspect the 1TV segment notes and identify whether it includes a film-print excerpt, later performance or commentary.
 2. Seek Mosfilm restoration notes and compare an authorized 2025-restored *Stalker* print with a reliably identified 1979 print; keep album versioning separate.
 3. Continue next regional rotation beyond Georgia and Central Asia.
+
+
+## 2026-11-19 cue-level update to SF-GE-003
+
+The regional Georgian source pass has identified one specific song candidate within «ხევსურული ბალადა»: «ხმა ამაიღე ფანდურო» / “Xma Amaige Fanduro”. ArtInfo's 30 November 2025 item identifies it as a song from the film and attributes it to Rezo Lagidze; a 2021 Lot.ge video listing names Sofiko Chiaureli and Zurab Kapanidze as performers. These are secondary indexed records (both page openers returned cache misses); no clip was viewed or heard. The 1TV programme listing for 13 July 2026 includes a “music for the film Khevsuruli Balada” segment, but its actual audio object is unknown. The cue is a candidate within SF-GE-003, not a separate lead. It has been added to audio-collection queue as RESEARCH LEAD only; no authorized download or print-audio identity is established.
+
+The National Library item record adds a date conflict: its issue date is 1965, while the attached poster image filename contains 1966. National Archives stills and Georgian Cinema catalogue date production to 1965. Preserve this conflict pending original poster/first-premiere evidence.
