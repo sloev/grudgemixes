@@ -37,3 +37,20 @@ The thesis and municipal notice place the group in a community mental-health ser
 - *Voices Resources* (2002), “Carnival and Music Therapy”: https://www.voices.no/community/index.html?q=fortnightly-columns%252F2002-carnival-and-music-therapy
 - Volta Redonda municipal notice (12 November 2013): https://www2.voltaredonda.rj.gov.br/sms/index.php/8-noticias-destaque/165-magicos-do-som-lanca-seu-segundo-cd
 - Volta Redonda municipal retrospective (2021): https://www.voltaredonda.rj.gov.br/9-noticias-em-destaque/4187-caps-usina-dos-sonhos-completa-26-anos
+
+
+
+## 2026-11-19 source expansion — participant-authored anti-stigma protest song
+
+A direct re-check of Raquel Siqueira da Silva's 2007 UFF dissertation (*Cartografias de uma experimentação musical: entre a musicoterapia e o grupo Mágicos do Som*) confirms that “Preconceito” is a composition by group member Regina Lúcia Serrão (2000), and that the thesis's annex CD-ROM includes the first *Saúde Musical* CD. The dissertation frames the group's music-making as collective participation and a public challenge to stigma; it does not make the recording a clinical artefact. The annex CD-ROM remains unaccessed, so this is an item-level recording reference, not an audition or transfer verification.
+
+A 2016 peer-reviewed *Sociologias* article (18/43, pp. 208–237; DOI 10.1590/15174522-018004308) independently identifies “Preconceito” as a composition by Lúcia Serrão performed by Mágicos do Som. Its analysis reads the song as a collective anti-discrimination statement, connecting mental-health-service users' experience with broader prejudice and segregation. This is the strongest new interpretive evidence: the song is not merely an incidental track on a therapy CD, but a participant-authored protest statement. No lyrics are reproduced here; the source's interpretation is paraphrased.
+
+The 12 November 2013 Volta Redonda municipal notice gives a second, distinct *Saúde Musical* CD with ten tracks, six named titles, and says the compositions were authored by the group. It names seven members and separately names coordinator Isaías das Neves Silva and two musicians at the launch event (Auriston on keyboard, Carlos on bass); do not assume the launch performers are the exact recording lineup. The municipal notice dates the group's origin to March 1996, while the 2016 scholarly article says it was formed in 1997. Preserve this as a 1996/1997 chronology conflict until an original programme or contemporaneous record resolves it.
+
+**Research effect:** RESEARCHED-OPEN remains appropriate. The two CD objects remain distinct within one group-level lead. The first CD's c.2000 chronology and “Preconceito” authorship are strengthened; the 2013 CD's group authorship and named event personnel are strengthened. Still unresolved: exact formation date, complete 10-track list, recording (not launch) personnel, both carrier/sleeve/catalogue IDs, authorized audio access and rights. No audio was played, no CD-ROM or physical disc inspected, and no contact or rights request made.
+
+Sources checked 2026-11-19:
+- UFF, Raquel Siqueira da Silva, 2007 dissertation, especially pp. 7–12 and the “Preconceito” section; direct PDF: https://patrimonio.uff.br/wp-content/uploads/sites/101/2021/05/2007_d_Raquel.pdf
+- Siqueira et al., “Dos ‘abismos do inconsciente’ às razões da diferença: criação estética e descolonização da desrazão na Reforma Psiquiátrica Brasileira,” *Sociologias* 18/43 (2016), pp. 208–237, DOI: https://doi.org/10.1590/15174522-018004308 (SciELO page presented a security challenge; indexed article text was checked).
+- Volta Redonda municipal health department, “Mágicos do Som lança seu segundo CD” (12 Nov 2013): https://www2.voltaredonda.rj.gov.br/sms/index.php/8-noticias-destaque/165-magicos-do-som-lanca-seu-segundo-cd
