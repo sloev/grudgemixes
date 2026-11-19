@@ -52,6 +52,6 @@ This is a meaningful defiance narrative, not a generic patriotic title. However,
 - Albanian Ministry of Defence, *Ushtria*, 14 July 2023, “Këngët tradicionale që përcaktojnë identitetin e Shkodrës,” section “Kënga e Oso Kukës,” pp. 11–12: https://www.mod.gov.al/images/gazetaushtria/pdf/2023/korrik/ushtria_14_7_2023.pdf
 - Robert Elsie, “The Highland Lute of Gjergj Fishta” (2005), synopsis of the Oso Kuka cycle in *Lahuta e Malcis*: https://albanianhistory.org/elsie-de/pdf/articles/A2005FishtaHighlandLute.pdf
 
-The national intangible-heritage register also lists «Kanga e Oso Kukës» as an Aheng song and credits both words and music to Zenel Maha: https://regjistritkj.al/en/aheng-songs/ (accessed 2026-11-19). This provides an independent current cultural-register attribution, but it still does not transcribe the 1908 Gramophone take.
+The national intangible-heritage register's indexed record lists «Kanga e Oso Kukës» as an Aheng song and credits both words and music to Zenel Maha: https://regjistritkj.al/en/aheng-songs/ (accessed 2026-11-19; page opener returned cache miss, so the indexed item text was checked). This provides an independent current cultural-register attribution, but it still does not transcribe the 1908 Gramophone take; the Zenel Maha attribution is also supported by the opened Ministry of Defence PDF.
 
 No audio was listened to or downloaded, no physical disc or label was inspected, no archive was contacted, and no rights were cleared.
