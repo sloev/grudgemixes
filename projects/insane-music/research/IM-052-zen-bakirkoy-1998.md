@@ -57,3 +57,26 @@ Do not use the album as evidence of any patient's diagnosis, treatment response 
 - BapLab Studio, “A concert in a psychiatric hospital, improvised for the people in the room” (18 November 2026; secondary synthesis citing 1998 Hürriyet notice and 2020/2023 sources): https://www.baplab.net/core/2026-11-18-studio/
 
 No audio or video was played, downloaded or copied; no archive or artist was contacted; no purchase, permission or rights clearance occurred.
+
+
+
+## 2026-11-19 additional source reconciliation — original and reissue variants
+
+A further source pass sharpens the release chronology and event date. *The Wire*'s November 2026 item states that ZeN performed at Bakırköy on **23 June 1998**, after an invitation from two nurses, and that the live recording appeared on cassette/CD in 1999 and on vinyl in 2023. It cites a Hürriyet notice dated 21 June 1998; the Hürriyet page itself still could not be retrieved in this pass, so the date is strong secondary evidence tied to a contemporary notice, not a primary-page inspection. The 1998 *Roll* interview independently documents the hospital performance and names nurse Nurten; Ertel's 2024 interview also describes two nurses. The contemporary account names one nurse as caller, while later accounts say two; retain that small discrepancy.
+
+The release variants are now clearer:
+- **1999 original cassette/CD:** Readdork lists Kod Müzik **KOD 009** (1999). The 1999 *Roll* article independently describes the concert recording as released. Treat 1999 as secure; exact day and the platform metadata attribution to ADA remain unresolved.
+- **2002 Ada Müzik CD reissue:** Readdork lists this separately.
+- **2023 Ada Müzik Turkish LP reissue:** Yerdeniz Plak lists Ada Müzik **ADA LP 054-1**, 2LP, 2023, and gives the sequence with “Dut Ali” before “Arkadaşım Ateş”.
+- **2023 Zel Zele European LP edition:** the label's own Bandcamp page describes the first vinyl issue and a 300-copy European edition. This is a distinct reissue/territory variant, not a separate live performance.
+
+The 1999 Guts of Darkness track listing places “Arkadaşım Ateş” before “Dut Ali”, while the 2023 Ada LP listing places “Dut Ali” first. Keep this as a release-sequence difference until the original 1999 carrier and both 2023 sleeves are compared; do not infer a different performance or edit. The Wire also reports a 16-track analogue recording and a mix by Bill Macbeth in San Francisco, but this technical chain remains secondary-reported pending tape box/session documentation.
+
+Sources additionally checked 2026-11-19:
+- *The Wire*, “Video: ZeN's Bakırköy Psychiatric Hospital concert, Istanbul, 1998” (Nov 2026): https://www.thewire.co.uk/video/video-79994
+- Readdork, *Bakırköy Akıl Hastanesi'nde* release variants (Kod Müzik KOD 009; Ada reissues): https://readdork.com/album/zen-18-bak-rk-y-ak-l-hastanesinde
+- Yerdeniz Plak, Ada Müzik ADA LP 054-1 (2023) track sequence: https://www.yerdenizplak.com/magaza/zen-bakirkoy-akil-hastanesinde/
+- Zel Zele Records, European 300-copy edition: https://zelzelerecords.bandcamp.com/album/zen-bak-rk-y-ak-l-hastanesinde
+- Murat Ertel interview, *It's Psychedelic Baby Magazine* (2024): https://www.psychedelicbabymag.com/2024/10/baba-zula-interview-murat-ertel.html
+
+No audio or video was played, downloaded or copied; no contact, purchase, permission or rights clearance occurred.
