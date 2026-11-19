@@ -84,3 +84,21 @@ Sources: https://ergir.am/menq_petq_e_krvenq/ ; https://www.78music.jp/victor.ht
 No audio was listened to or downloaded; no disc or label image was inspected; no archive was contacted; no purchase, permission or rights clearance occurred.
 
 Sources checked 2026-11-19: https://www.armenianmuseum.org/sound-archive/tashjian-story ; https://www.78music.jp/victor.html ; https://www2.ntj.jac.go.jp/dglib/contents/learn/edc20/rekishi/rokyoku/index3.html ; https://kotobank.jp/word/%E8%B5%A4%E7%A9%82%E6%B5%AA%E5%A3%AB%E4%B8%80%E8%A6%A7-1614433 ; https://crd.ndl.go.jp/reference/entry/index.php?id=1000140677&page=ref_view
+
+
+
+## 2026-11-19 — Grudge Mixes — Albania discovery and Armenian baseline audit (DONE)
+
+### Existing baseline advanced
+- **GM-AM-007 → RESEARCHED-OPEN.** Reopened the Armenian Museum of America's item-specific discography. It distinguishes the Tashjian Brothers' Columbia E658 / issue 4964 “Tartzial Paylets” (recorded autumn 1910, released 1911) from the solo 1909 recordings. The Houshamadyan same-title Sassoun text remains a contextual witness, not a transcript of the Columbia take. Identity, chronology, textual context, access and rights are addressed; exact recorded text, label/runout and current carrier remain open.
+
+### New qualified lead
+- **GM-AL-001 — Shoqnia e hengxhive e shahirave, «Kanga e Oso Kukës» (Gramophone 10771; matrix 4570r; Shkodër, 1908).** The 2024 *Shejzat* discographic study identifies the performer, title, matrix and issue number, and its footnote 120 gives an extant IAKSA digitised-reel reference 0279-03. The Albanian intangible-heritage register attributes the words/music to Zenel Maha; a 2023 Ministry of Defence gazette describes the 22-stanza Oso Kuka/Vranina defiance song. One 1908 recording object, not 11 session reels or a whole song family. C-level qualified lead: exact 1908 performance text has not been compared to the later song text. The original disc is associated with the Oso Kuka Historical Museum; no audio was accessed.
+
+### Next exact tasks
+1. Owner-approved request for IAKSA reel 0279-03 metadata and Oso Kuka Museum label/runout record; no contact without owner approval.
+2. Compare the 1908 performance text with the 22-stanza Zenel Maha text only after authorised listening or a reliable contemporary transcription.
+3. Continue GM-AM-008 and resolve the matrix/label evidence for GM-AM-007; rotate beyond Albania/Armenia on the next discovery pass.
+
+No audio was listened to or downloaded, no disc/label inspected, no archive contacted, no purchase, permission or rights clearance.
+Sources: https://www.shejzat.com/wp-content/uploads/Ballgjati_3-4_2024.pdf ; https://regjistritkj.al/en/aheng-songs/ ; https://www.mod.gov.al/images/gazetaushtria/pdf/2023/korrik/ushtria_14_7_2023.pdf ; https://www.armenianmuseum.org/sound-archive/tashjian-story .
