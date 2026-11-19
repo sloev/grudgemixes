@@ -35,3 +35,7 @@
 ## After a reply
 
 Record the outcome in `coop.log.md` (the date, who replied and what they said, without private contact details) and update the row's status in [catalogue.md](catalogue.md). Note permission conditions word for word.
+
+
+
+| 13 | IM-052 ZeN, *Bakırköy Akıl Hastanesi'nde* | Zel Zele Records (Bandcamp contact route) and, only if owner-approved, ZeN / Murat Ertel | Confirm original 1999 cassette/CD label and catalogue number; event date/time and hospital documentation; original recording chain (reported 16-track analogue); whether the 1999 master or session tapes survive; source used for the 2023 remaster; reconcile track-order/duration differences; current master ownership and reuse conditions. Ask for metadata and authorised listening/access only; do not request patient names or medical details. | 1998 *Roll* interview, July 1998, pp. 19–20; Zel Zele 2023 reissue page; Murat Ertel 2024 interview; candidate event date 23 June 1998 per specialist discography (primary newspaper notice still to verify) |
