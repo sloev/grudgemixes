@@ -504,3 +504,37 @@ A further Georgian-language source pass identified a specific song candidate wit
 Added the cue candidate as **SF-AUD-012 — RESEARCH LEAD**, not a download-ready item. This is one cue within SF-GE-003, not a fourth new lead. The film's 1965 National Library issue date conflicts with the attached poster filename containing 1966; National Archives stills and Georgian Cinema catalogue support 1965 production metadata. First premiere date remains unresolved.
 
 Next: locate Lagidze's score/parts or an authorized film print; verify the song against the print; determine whether the 1TV programme contains an original film excerpt, later performance or commentary. No audio/video was played or downloaded, no archive was contacted and no rights were cleared.
+
+
+## 2026-11-19 — Soviet Film Music — Azerbaijani SSR regional film-concert pass (DONE)
+
+### Bounded task claimed
+Rotate beyond the previous Georgian and Central Asian passes to a locally documented Azerbaijani SSR music film. Identify one exact film-level music object and distinguish its score, incorporated songs and film-print audio.
+
+### New qualified lead
+- **SF-AZ-001 — «Abşeron ritmləri» / *Rhythms of Absheron* (1970).** The National Library of Azerbaijan's Polad Bülbüloğlu biography states he composed music for this full-length musical television film; Filmfond independently calls it Eldar Quliyev's full-length musical. Kinobiz identifies it as a 63-minute film-concert, Azerbaijanfilm, first viewed 3 May 1970, and lists ten musical items with song-level composer/lyricist/performer credits.
+- Preserve the credit distinction: Polad Bülbüloğlu is the film-level composer; Kinobiz lists individual songs/works by Rauf Hajiyev, Ogtay Kazimi, Alakbar Tagiyev, Gara Qarayev, Tofig Babayev, Khayyam Mirzazadeh and Rafig Babayev. Do not assume all ten were newly composed for this film.
+- This is one film-concert target, not ten separate soundtrack files. No standalone soundtrack album, cue sheet or original master was identified. Kinobiz displays a “Start to watch” control but its player was not tested; no direct download/private-copy route or rights status was verified.
+- Added **SF-AUD-013 — RESEARCH LEAD** only. Not READY FOR DRIVE.
+
+### Files
+- Created projects/sovietfilm/research/absheron-rhythms-1970-sf-az-001-2026-11-19.md.
+- Created projects/sovietfilm/audio-collection-queue/SF-AUD-013.md.
+- Updated projects/sovietfilm/audio-collection-queue.md.
+- Updated projects/sovietfilm/research_method.md with the new regional lead and exact next queue.
+- Appended this hand-off to projects/sovietfilm/coop.log.md.
+- No Drive file, public tracker or audio asset changed.
+
+### Next exact tasks
+1. Locate authorized Filmfond/Azerbaijanfilm print or catalogue record; verify original credits, version, runtime and music sequence.
+2. Match the ten Kinobiz entries against the actual film, identify timecodes and original Azerbaijani titles, and distinguish newly composed score from pre-existing repertoire.
+3. Seek score/parts, cue sheets, production sound records and any standalone soundtrack release.
+4. Continue regional rotation beyond the Caucasus and Central Asia; keep the existing Georgian cue and Stalker restoration tasks open.
+
+Sources checked 2026-11-19:
+- National Library of Azerbaijan, Polad Bülbüloğlu biography: https://anl.az/el/emb/Polad_Bulbuloglu/tarix.htm
+- Filmfond, Eldar Quliyev – 85 (16 Jan 2026): https://filmfond.az/2026/01/16/eldar-quliyev-85/
+- Kinobiz.az, Rhythms of Absheron: https://kinobiz.az/en/cinema/abseron-ritmleri
+- National Library of Azerbaijan filmography: https://anl.az/el/emb/Polad_Bulbuloglu/filmoqrafiya.htm
+
+No film/audio was played, downloaded or uploaded; no print or score inspected; no archive/rights holder contacted; no rights cleared. No READY FOR DRIVE item was created.
