@@ -147,3 +147,38 @@ Environment-first; recording existence and maker/provenance must be evidenced. D
 1. Advance baseline IM-038 and IM-039 with their own primary source and version/provenance audits.
 2. Locate a current physical or archival copy of *Viajar* and verify complete credits, lyric authorship, custody and rights; contact only after owner approval.
 3. Resolve the full 2026 *こころ* tracklist and the separate harmonica-group recording through owner-approved inquiry; do not merge group recollection with the Tōjō/Sawa CD lineage.
+
+
+## 2026-11-19 — ChatGPT — Chacabuco MMDH radio-object crosswalk (DONE)
+
+### Bounded task claimed
+Advance existing IM-035 by resolving the public MMDH Archivo Radial metadata for the two Chacabuco objects, without downloading or auditioning audio.
+
+### Findings
+- The MMDH Archivo Radial search for **Chacabuco** returns two separate catalogue records under Radio Moscú / *Escucha Chile*:
+  - **“Centros de Detención” — 23:36.** Place Chacabuco; type “Registro al Aire Libre”; described as an act marking the release of a group of prisoners. MMDH lists Punto 30, Jamarí, Hugo Peñaloza, Mario Céspedes and Coro Chacabuco, with the songs “Libre, Oficina Chacabuco”, “Volver”, “Himno a la Alegría”, “Tonada del Viejo Amor”, “Amalia Rosa”, “Caliche” and “El Puntudo”. It notes recording defects/cuts.
+  - **“Grabación clandestina en Oficina Salitrera ‘Chacabuco’, convertido en centro de detención” — 2:03.** The same event is described; the record identifies the clandestine recording with Alberto Corvalán (son of Luis Corvalán), lists Punto 30, Jamarí, Hugo Peñaloza, Mario Céspedes, Coro Chacabuco directed by Iván Quezada and Ángel Parra, and names “Canción de la Despedida” plus a final account. It also notes defects/cuts.
+- The shared event description and overlapping participants establish that the two objects concern the same Chacabuco release ceremony, but **do not prove** that the 2:03 object is an excerpt, duplicate, edit or parent/child of the 23:36 object. Keep both catalogue records distinct until internal IDs, source carriers or audio comparison establish their relationship.
+- The MMDH-linked 2021/22 music-education thesis says “El Suertúo” occurs at **18:30–20:50** in the 23:36 “Centros de Detención” recording. Its separate song table attributes “El Suertúo” to Víctor Canto and Luis Cifuentes (lyrics) and Roberto Parra (music), dated 1973–74, conservation code 067-001-002. This creates a **tracklist discrepancy**: the MMDH 23:36 metadata lists “El Puntudo”, not “El Suertúo”; the 2:03 metadata lists “Canción de la Despedida”. Do not silently equate “El Puntudo”, “El Suertúo” and “Canción de la Despedida”.
+- The thesis is a useful secondary crosswalk and does not replace the first-person Cifuentes testimony already recorded. Preserve the known credit conflict and the possibility of transcription/metadata errors.
+- The public MMDH search page exposes player controls, but this pass did not establish either object's internal catalogue ID, a stable direct media-file URL, the exact source/master genealogy or a reuse licence. No audio was played or compared.
+
+### Files
+- Updated environment-leads.md with the two-object metadata and tracklist discrepancy.
+- Updated catalogue.md IM-035 summary without promoting it to a fully matched master.
+- Updated research_method.md with the current checkpoint and next queue.
+- Appended this dated hand-off to coop.log.md.
+- TRACK_MAPPING.md unchanged: no authorised direct download route; no Grok request.
+
+### Next exact tasks
+1. Obtain the two MMDH internal object IDs and stable item-detail/player URLs; inspect the player/source metadata only through permitted public routes.
+2. If owner-approved access becomes available, compare the 2:03 and 23:36 objects and establish whether either is an excerpt, rebroadcast, edit or separate recording; map the 18:30–20:50 “El Suertúo” claim against the archive's “El Puntudo” listing.
+3. Reconcile the MMDH records with the clandestine cassette / Italian LP / 2003 CD lineage, retaining all conflicting song and credit statements.
+4. Continue the separate Phonogrammarchiv Series 17/1–5 item-level music audit; then resume Aoi-tori and TLM Canada inventory work.
+
+Sources checked 2026-11-19:
+- MMDH Archivo Radial Chacabuco search: https://archivoradial.mmdh.cl/buscador_resultado.php?filtro=chacabuco&registros=0&tipo=3
+- MMDH-linked thesis appendix: https://manager.mmdh.cl/uploads/L_Ibro_tesis_20212022_EDUCACION_MUSICAL_Vok_WEB_da5720b67c.pdf
+- OpenBiblio thesis copy: https://openbiblio.museodelamemoria.cl/media/digitales/TESIS_EDUCACION%20MUSICAL.pdf
+
+No audio was auditioned, downloaded or uploaded; no physical carrier inspected; no archive contact or rights clearance occurred.
