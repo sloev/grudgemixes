@@ -69,3 +69,18 @@ Continue source hunts for exact archival transfers of remaining research targets
 - Next: continue baseline GM-AM-006; verify the Tashjian matrix conflict; search the Nichibunken database directly for the Japanese title and performer.
 
 Sources: https://ergir.am/menq_petq_e_krvenq/ ; https://www.78music.jp/victor.html ; https://kobecco.hpg.co.jp/25106/ ; https://kotobank.jp/word/%E5%90%89%E7%94%B0%E5%A5%88%E8%89%AF%E4%B8%B8-144183
+
+## 2026-11-19 — Grudge Mixes balanced breakthrough batch
+
+### Existing baseline advanced
+- **GM-AM-006 → RESEARCHED-OPEN.** Reopened the Armenian Museum of America's specialist discography directly. It lists the 1909 solo “Dalvorig” with unknown matrix number and distinguishes it from the separately recorded 1910 Tashjian Brothers “Dalvorig” (E656). The 1896 Blackwell/Damadian text remains a pre-recording thematic witness, not an exact transcription of the Columbia master. Identity, reported session year, separate 1910 version, context, access and rights questions are explicit; matrix, exact recorded text, carrier and reuse remain unresolved.
+
+### New qualified lead
+- **GM-JP-002 — 吉田奈良丸, “勝田新左エ門” (Victor 50181–50182; catalogue year 1915).** One four-side rōkyoku sequence. A specialist Victor SP discography gives performer, sides, title, genre and 1915 catalogue year; Kotobank identifies Katsuta Shinzaemon as an Akō retainer and one of the 47 rōnin. This is a C-level lead only: the historical referent is established, but the exact performance narrative is not; 1915 is not treated as a verified recording date. Core eligibility remains unestablished pending a fixation-date source and exact text.
+
+### Next
+- Search NDL / Nichibunken / contemporary Victor catalogues for the four-side sequence and a stenographic text; resolve session date separately from issue year. Continue the next baseline lead GM-AM-007 and the E661 matrix discrepancy for GM-AM-005.
+
+No audio was listened to or downloaded; no disc or label image was inspected; no archive was contacted; no purchase, permission or rights clearance occurred.
+
+Sources checked 2026-11-19: https://www.armenianmuseum.org/sound-archive/tashjian-story ; https://www.78music.jp/victor.html ; https://www2.ntj.jac.go.jp/dglib/contents/learn/edc20/rekishi/rokyoku/index3.html ; https://kotobank.jp/word/%E8%B5%A4%E7%A9%82%E6%B5%AA%E5%A3%AB%E4%B8%80%E8%A6%A7-1614433 ; https://crd.ndl.go.jp/reference/entry/index.php?id=1000140677&page=ref_view
