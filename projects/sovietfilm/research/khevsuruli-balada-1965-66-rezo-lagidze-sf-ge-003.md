@@ -35,10 +35,10 @@ No cue title, score manuscript, orchestral parts, cue sheet, original soundtrack
 
 ## Sources checked 2026-11-19
 
-- National Library of Georgia, Digital Library, poster record «მხატვრული ფილმი "ხევსურული ბალადა"» (issue date 1965; director, writer and composer credits): https://dspace.nplg.gov.ge/handle/1234/441903
-- National Archives of Georgia, film-still catalogue for «ხევსურული ბალადა» (1965): https://archive.gov.ge/en/film-khevsuruli-balada-1965
+- National Library of Georgia, Digital Library, poster record «მხატვრული ფილმი "ხევსურული ბალადა"» (issue date 1965; director, writer and composer credits): https://dspace.nplg.gov.ge/handle/1234/390115
+- National Archives of Georgia, film-still catalogue for «ხევსურული ბალადა» (1965): https://archive.gov.ge/en/pavilioni/dodo-abashidze-100-2
 - Georgian First Channel / 1TV, «პიკის საათი – 13.07.2026» (programme listing includes “music for the film Khevsuruli Balada”): https://1tv.ge/audio/pikis-saati-13-07-2026/
-- Filmbladet, *Khevsuruli Balada* (1966; Lagidze composer credit): https://filmbladet.dk/film/khevsuruli-balada
-- Letterboxd, *Khevsurian Ballad / The Last Vendetta* (1966; Georgia-Film and Lagidze credits; secondary film record): https://letterboxd.com/film/the-last-vendetta-1966/
+- Georgian Cinema, «ხევსურული ბალადა» (1965; film-level composer and sound-operator credits, runtime, black-and-white format and synopsis): https://georgian-cinema.ge/index.php/ge/2015-03-27-12-14-46/975-1965-3
+- Filmbladet, *Khevsuruli Balada* (1966; Lagidze composer credit, secondary international catalogue): https://filmbladet.dk/film/khevsuruli-balada
 
 No film was played, no audio was auditioned or downloaded, no score or print was inspected, no archive or rights holder was contacted, and no permission or rights clearance occurred.
