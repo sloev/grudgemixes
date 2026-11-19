@@ -212,3 +212,21 @@ Sources checked 2026-11-19:
 4. Locate the original score, cue sheet, lyric sheet or production sound record before assigning a cue-specific composer, lyricist or performer.
 
 The 2026-11-18 Stalker provenance audit is now sufficient for baseline status RESEARCHED-OPEN: its original film-print cue identity, later Artemyev album/re-recording distinctions, source provenance, access and rights dependencies are explicit. Soviet Film Music baseline coverage is now 5/5 RESEARCHED-OPEN; the remaining programme work is new-lead qualification and further research of SF-KG-001.
+
+## 2026-11-19 — regional Uzbek film-opera lead SF-UZ-002: «Дилором» (1968)
+
+Added **SF-UZ-002**, one 1968 Uzbekfilm film-opera production/music object. The 1995 Soviet feature-film catalogue describes it as a colour, widescreen, nine-part / 2,540-metre Uzbekfilm film-opera, says it was not released to the all-Union screen, credits M. Ashrafi, and names the State Academic Bolshoi Theatre of Opera and Ballet named for Alisher Navoi symphony orchestra and choir under M. Ashrafi, with role/singer pairings. The Academy of Sciences of Uzbekistan's 2009 annotated catalogue independently lists «ДИЛОРОМ» as a 1968 adaptation based on the opera of the same name and credits M. Ashrafi. A later Shaxs.uz heading says 1967 while its description says 1968; preserve this as a metadata conflict, not as two films.
+
+**Object distinction:** the stage opera «Дилором» (including its 1958 production and later versions) is not the same object as the 1968 film-opera soundtrack. Do not treat the opera's published score, later aria collection or a concert recording as original film-print audio. The film-level orchestral, choral and singer credits are documented, but no score, cue sheet, print, standalone soundtrack release or original audio was located. Rights and access remain UNKNOWN.
+
+Sources checked 2026-11-19:
+- 1995 annotated Soviet film catalogue, pp. 37–38: https://djvu.online/file/tZ0s6ELVkng6X
+- Academy of Sciences of Uzbekistan, Аннотированный каталог художественного кино Узбекистана (1925–2008) (2009), entry 095: https://api.unilibrary.uz/storage/PublisherResourceFile/19745/images/1661488249.pdf
+- Uzbek Composers' Union biography of Mukhtar Ashrafi (indexed record; direct page returned 503): https://www.commus.uz/index.php/ru/35-struktura/russian/331-ashrafi-mukhtar
+- Shaxs.uz Dilorom entry (conflicting year label): https://shaxs.uz/en/film/dilorom-1967
+
+### Next exact tasks for SF-UZ-002
+1. Search Uzbek-language national-library and conservatory records for the original opera score, film score/parts, cue sheets and production sound documents.
+2. Resolve 1967/1968 dating through the film technical passport or original print; compare length, parts and language.
+3. Locate an authorized film print and keep its sound distinct from stage-opera recordings, later dubs and re-recordings.
+4. Continue regional rotation beyond Kyrgyzstan and Uzbekistan in the next batch.
