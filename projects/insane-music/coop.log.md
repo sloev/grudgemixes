@@ -288,3 +288,22 @@ No audio was played, downloaded or copied; no archive or artist was contacted; n
 ### IM-052 follow-up — 2026-11-19 release-variant breakthrough
 
 *The Wire* (Nov 2026) ties the 23 June 1998 event date to a Hürriyet notice two days before the concert and confirms the 1999 cassette/CD and 2023 vinyl chronology. Readdork distinguishes the 1999 Kod Müzik KOD 009 cassette/CD, 2002 Ada CD and 2023 Ada LP; Yerdeniz's Ada LP listing gives a track order with “Dut Ali” before “Arkadaşım Ateş”, while the 1999 Guts of Darkness listing gives the reverse. Zel Zele's own Bandcamp page describes a separate 300-copy European 2023 LP edition. These are release variants of one live recording, not separate performances. The 16-track analogue / Bill Macbeth mix claim remains secondary-reported. Hürriyet page itself could not be retrieved; no video/audio was played.
+
+
+## 2026-11-19 — ChatGPT — Chile institutional radio / documentary screen (bounded, no new candidate)
+
+### Research pass
+- Screened **Radio Estación del Paraíso / Hospital El Peral, Santiago** through a 2000–2001 civic-programme case study, a 2011 first-person OCEP account by radio-team psychologist Rubén Nilo, CineChile's documentary catalogue, and Nicolás Morales Sáez's 2023 doctoral thesis.
+- Confirmed music-bearing radio broadcasts (pre-recorded/live songs and poems) and the 2001 documentary *La furia de los caballos sin patas*. The documentary soundtrack is reported to include radio transmissions and unreleased tracks by Shogun, Tobías Alcayota and Joe/Jeo Villablanca; no tracklist or standalone carrier is verified.
+- The thesis reports that original cassettes/discs became inaccessible after a 2003 Barros Luco lockout and that microprogrammes could not be traced in Radio Tierra / Archivo Nacional records. This is a custody/access blocker, not proof of destruction.
+
+### Status and files
+- Recorded as a context-only C lead; no new core catalogue ID, no READY FOR GROK request, and no change to TRACK_MAPPING.md.
+- Added research/radio-estacion-del-paraiso-el-peral-chile-2026-11-19.md and updated environment-leads.md, catalogue.md and research_method.md.
+
+### Handoff
+1. Find a cue sheet / producer-approved soundtrack list and resolve the documentary's 2001/2004 date and Joe/Jeo credit.
+2. Identify exact music items and participant authorship in the broadcasts; keep radio masters, microprogrammes and documentary soundtrack separate.
+3. Establish whether the original tapes/discs survive and what access terms apply.
+
+No audio was played, downloaded or copied; no contact, archive access, purchase or rights clearance occurred.
