@@ -1429,3 +1429,8 @@ The UFF 2007 dissertation was reopened directly; it identifies Regina Lúcia Ser
 1. Obtain owner-approved copies/sleeves of both *Saúde Musical* CDs and complete tracklists; resolve 1996/1997 formation date.
 2. For IM-052, verify the 1998 event date/time and original 1999 edition; establish master custody and 2023 remaster source through owner-approved enquiry.
 3. Continue non-Anglo regional rotation beyond Brazil and Türkiye in the next batch.
+
+
+### IM-052 release-variant reconciliation (2026-11-19)
+
+The Wire's November 2026 article ties the 23 June 1998 event date to a Hürriyet notice from 21 June 1998; the notice page itself remains un-retrieved. Readdork lists the 1999 Kod Müzik KOD 009 cassette/CD and a 2002 Ada Müzik CD reissue. Yerdeniz lists a 2023 Ada Müzik Turkish 2LP with “Dut Ali” before “Arkadaşım Ateş”; the 1999 Guts of Darkness sequence lists those tracks in the reverse order. Zel Zele's Bandcamp page describes a separate European 2023 2LP edition limited to 300 copies. Treat these as edition/sequence variants of one live recording, not separate performances. The 16-track analogue / Bill Macbeth mix claim remains secondary-reported.
