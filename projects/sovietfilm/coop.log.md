@@ -495,3 +495,12 @@ Sources checked 2026-11-19: https://tarkovskiy.gosfilmofond.ru/1970-vesna-znakom
 No film was played, no audio was auditioned/downloaded, no score or print was inspected, no archive/rights holder contacted, and no rights cleared. No public tracker or audio asset was changed.
 
 Sources checked 2026-11-19: https://dspace.nplg.gov.ge/handle/1234/390115 ; https://archive.gov.ge/en/pavilioni/dodo-abashidze-100-2 ; https://georgian-cinema.ge/index.php/ge/2015-03-27-12-14-46/975-1965-3 ; https://1tv.ge/audio/pikis-saati-13-07-2026/ ; https://www.mosfilm.ru/cinema/films/stalker/
+
+
+## 2026-11-19 — SF-GE-003 cue-level breakthrough (follow-up)
+
+A further Georgian-language source pass identified a specific song candidate within *Khevsuruli Balada*: «ხმა ამაიღე ფანდურო» / “Xma Amaige Fanduro”. ArtInfo's 30 November 2025 article identifies it as a song from the film and attributes it to Rezo Lagidze; a 2021 Lot.ge video listing names Sofiko Chiaureli and Zurab Kapanidze as performers. Both pages returned cache misses when opened; indexed metadata was checked only. The user-uploaded clip was not viewed or heard and is not treated as an authorized source or proof of original film-print audio. 1TV's 13 July 2026 programme listing also contains a segment titled “music for the film Khevsuruli Balada”, but its contents are unknown.
+
+Added the cue candidate as **SF-AUD-012 — RESEARCH LEAD**, not a download-ready item. This is one cue within SF-GE-003, not a fourth new lead. The film's 1965 National Library issue date conflicts with the attached poster filename containing 1966; National Archives stills and Georgian Cinema catalogue support 1965 production metadata. First premiere date remains unresolved.
+
+Next: locate Lagidze's score/parts or an authorized film print; verify the song against the print; determine whether the 1TV programme contains an original film excerpt, later performance or commentary. No audio/video was played or downloaded, no archive was contacted and no rights were cleared.
