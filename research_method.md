@@ -383,3 +383,17 @@ No file was auditioned or downloaded, no archive contacted and no rights cleared
 3. Continue the existing Naramaru Royal 1645/1649 KD1-E21 issue-month and physical label/matrix crosswalk; do not infer dates from catalogue sequence.
 4. Reconcile GM-US-019 Waring's reported 3:32 Drive file against the 3:21 specialist duration only when Grok provides verifiable file metadata; do not ask for a new retrieval.
 5. Request item-level AFC/AFS record, singer, date/place, text 137 and transfer/access details for Gordon A93 / NC137; keep it separate from Julius Sutton's A79 / NC117.
+
+
+## 2026-11-19 — Nigeria / Ibibio Odeon shellac discovery
+
+A new local-language West African lead is recorded as **GM-NG-001**: «Iquo Ekong» / «Iquo Ubom», a two-sided 78rpm shellac pair in Daniel Morgan's Cambridge Ibibio Odeon collection. The Cambridge World Oral Literature Project describes the two Efik-language sides as society songs in the genre of war songs and dates the collection only broadly to the 1920s. Afrodisc gives a probable matching issue **Odeon A 248026** and performer credit “Sambouwa Udö Udö Uwa Eya Owut Ibaña and Choir”. This is **C — LEAD**, not a verified thematic candidate: no lyrics or translation were checked, “war song” does not prove grievance/retaliation, and the decade does not establish a pre-1926 fixation date. The target Cambridge item and listening pages timed out; no direct audio-file route or target-specific rights statement was verified. No Grok request.
+
+### Next exact queue
+1. Obtain the Cambridge fifth-disc item record and accompanying booklet transcription; verify file list, accession metadata and target-specific rights.
+2. Verify Odeon A 248026 against label/sleeve/matrix evidence and establish fixation date separately from issue/catalogue date.
+3. Translate and interpret both Efik texts; promote only if the specific performance evidences an eligible grievance mechanism and the fixation date is pre-1926.
+4. Continue baseline GM-AM-008 and the Japanese Naramaru / Araki exact-text and date work; preserve GM-US-019 as a metadata-reconciliation task pending a Grok report.
+5. Continue global discovery beyond the already screened Albania / Armenia / Japan leads, using local-language recording markets and primary catalogues.
+
+No audio was auditioned/downloaded/uploaded; no file inspected; no contact, purchase or rights clearance. Root TRACK_MAPPING.md and GROK_HANDOFF.md remain unchanged because no new target is READY FOR GROK.
