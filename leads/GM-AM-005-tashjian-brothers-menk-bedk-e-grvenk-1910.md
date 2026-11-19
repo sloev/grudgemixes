@@ -70,3 +70,19 @@ Sources:
 - Marutyan, “Անցյալի և ներկայի վերագնահատման գործընթացը | Մաս 2,” *Enlight Studies*, 23 April 2020 (especially main text and notes 31–32): https://read.enlightngo.org/post/15127
 - T. Varjabedyan (compiler), *Քնար. գրպանի նոր երգարան*, New Jersey, 1918, p.105 (cited in Marutyan n.32; scan not located in this pass).
 - A. S. Ghaziyan (compiler), *Հայ ժողովրդական ռազմի և զինվորի երգեր*, Yerevan, 1989, pp.105, 113, 146–148, 291 (cited in Marutyan).
+
+
+## 2026-11-19 — text-witness and identifier audit
+
+- Rechecked the current Yerkaran song index and the cited page directly. The index lists “Menk Bedk e Grvenk / Menk Bedk e Grvenk yev votch latz linenk” but does not expose a working item link; the former page-45 URL currently serves unrelated song material. The earlier page-45 lyric attribution is therefore superseded, not confirmed.
+- The ERGIR entry, “ՄԵՆՔ ՊԵՏՔ Է ԿՌՎԵՆՔ” (posted 21 March 2017), supplies a text under the Armenian title and lists performances credited to Մկրտիչ Մկրտչյան, Գրիգոր Համբարյան and unidentified performers. These are performer labels on a modern song page, not proof that any one of them authored the text or that the Tashjian take uses this exact version. The page also exposes audio links; none was opened or played in this research pass.
+- Marutyan’s 2020 study remains the stronger historical text witness: its note 32 cites Tiran K. Varjabedyan’s 1918 pocket songbook, p.105, and records textual variants. The 1918 book itself was not directly inspected in this pass. This establishes a pre-1926 print witness for the song text, but not an exact transcript of the Columbia/Tashjian performance.
+- Identifier discrepancy remains open: the Armenian Museum page currently lists E661-4971 for the title, while the independent Columbia E-series reference used in this dossier gives 4973-1. Treat these as competing record-level identifiers pending a primary label/runout image or ledger; they are not separate leads.
+- The museum’s account of the Tashjian Brothers’ patriotic repertoire supports context, while the song text as preserved in the checked witnesses is explicitly defiant and calls for armed resistance. Do not infer the exact recorded words from title alone.
+- Access and rights: no original label scan or carrier was inspected; no audio was listened to; no permission or rights clearance is established. Remaining action: obtain a primary Columbia label/matrix witness and compare the recorded text against the 1918 and later textual variants.
+
+Sources checked 2026-11-19:
+- https://yerkaran.org/page/45/
+- https://ergir.am/menq_petq_e_krvenq/
+- https://read.enlightngo.org/post/15127
+- https://www.armenianmuseum.org/sound-archive/tashjian-story

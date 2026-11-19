@@ -59,3 +59,13 @@ Reviewed Drive TRACK_MAPPING.md and subfolder listings. Confirmed no new READY F
 
 ### Handoff
 Continue source hunts for exact archival transfers of remaining research targets. Do not invent downloads or change statuses without evidence. For sovietfilm, continue extracting additional labeled film-mix cues from accessible IA sources (next timestamps such as 30m-32m) or identify owner-approved free commercial reconstructions/isolated tracks. Prefer Kancheli and Zatsepin. Update Drive TRACK_MAPPING.md with new retrievals if needed. All new work in canonical grudgemixes workspace only; legacy repos reference-only. Verify reported files independently before promoting to FILE VERIFIED.
+
+
+## 2026-11-19 — Grudge Mixes balanced research batch
+
+- Existing baseline advanced: GM-AM-005. Rechecked the Armenian song index and the cited page directly, corrected the now-mismatched Yerkaran page-45 citation, added the ERGIR text/performance page, and clarified the 1918 songbook witness and the unresolved E661-4971 versus 4973-1 identifier discrepancy. Baseline status advanced from NOT STARTED to RESEARCHED-OPEN; exact Tashjian take and primary matrix witness remain open.
+- New qualified lead: GM-JP-001, 吉田奈良丸 “矢頭右衛門の誠忠” (1915), a four-side Victor sequence treated as one C-level lead, not a verified track. The title/episode and secondary Ako-vendetta context justify research; exact performance text, matrix, generation and item-level archive record remain unresolved.
+- No audio was listened to; no label scan or original carrier was inspected; no archive contact, download, purchase, permission or rights clearance occurred.
+- Next: continue baseline GM-AM-006; verify the Tashjian matrix conflict; search the Nichibunken database directly for the Japanese title and performer.
+
+Sources: https://ergir.am/menq_petq_e_krvenq/ ; https://www.78music.jp/victor.html ; https://kobecco.hpg.co.jp/25106/ ; https://kotobank.jp/word/%E5%90%89%E7%94%B0%E5%A5%88%E8%89%AF%E4%B8%B8-144183
