@@ -1382,3 +1382,19 @@ No audio auditioned, no Drive files accessed, no contact made, and no rights cle
 KSB's 4 Nov 2026 memorial report adds a resident recollection that Takashi Tōjō played in a harmonica group with fellow resident Matsumoto Tsuneji. The same page embeds a short April 2026 “こころ” excerpt; it is a public video/news page, not a direct audio download. This does not identify a group name, date, repertoire, surviving recording or new IM item. Keep it distinct from Tōjō's three personal CDs and the historical sanatorium-song corpus.
 
 **Next:** seek dated institutional programmes, newsletters, photographs or archive references for the harmonica group and determine whether any original resident-made recording survives. Continue the physical *こころ* booklet/tracklist and rights checks separately. No contact or file transfer made.
+
+
+
+## 2026-11-19 — Chacabuco MMDH radio-object crosswalk and active queue
+
+The MMDH Archivo Radial search now provides two separate records for the same Chacabuco prisoner-release event: “Centros de Detención” (23:36) and “Grabación clandestina en Oficina Salitrera ‘Chacabuco’…” (2:03). The longer record lists “El Puntudo”; the short record lists “Canción de la Despedida” and a final account. The MMDH-linked 2021/22 thesis places “El Suertúo” at 18:30–20:50 in the 23:36 record and gives a separate 1973–74 credit line. These are not yet reconciled. The shared event and overlapping performers do not prove that one MMDH object is an excerpt or duplicate of the other. No internal IDs, stable direct media URLs or reuse licence were verified; no audio was played.
+
+### Exact active queue
+1. **Austria / Phonogrammarchiv:** audit Series 17/1–5 item-level music tracks and original protocol/data-CD scans; map each musical item to Ph call number, title, singer, language/community, camp, date and edition track. Preserve coercive POW research context and source terminology.
+2. **Chile / Chacabuco:** obtain MMDH internal IDs and stable detail/player URLs for both objects; establish their source/master relationship only from metadata or authorised comparison; resolve “El Puntudo” / “El Suertúo” / “Canción de la Despedida” and credits without erasing first-person testimony.
+3. **Japan / Aoi-tori:** determine whether Umitaro Abe's announced 2025 listening selection / 「近藤宏一の過去と現在」 collection was completed, delayed, renamed or privately circulated; identify the organiser and exact historical sound-source inventory. Keep 1963 Carville, 1967 Ibaraki/Lighthouse, 1968 「鶴島哀歌」, Sasaki's 2017 interviews and modern reinterpretations separate.
+4. **TLM Canada / Effect:Hope:** item-level inventory for the six location tape groups; compare the 1978 “More Than a Prophet” Box 14 materials with Wheaton OMF CN215 T45–T47 and script Folder 17-5 without assuming identity or music.
+5. **Nigeria / Uzuakoli:** pursue John Manton's 2015 source log and original disc owner; verify ARC 1059/1106 label, sleeve, matrix, date and choir identity before linking either to the post-1977 patient-choir vinyl. No unlicensed rip or speculative Grok request.
+6. **Non-prison/global balance:** continue IM-038/039 and the non-institutional/local-language queue only where exact extant recording and project pathway are documented; preserve the earlier UPCE, Cordillera and Brazil cassette constraints.
+
+This checkpoint supersedes the 2026-11-17 “NEXT” note for ordering; it does not mark any unresolved archive task complete. No audio was auditioned/downloaded/uploaded, no archive contacted and no rights cleared.
