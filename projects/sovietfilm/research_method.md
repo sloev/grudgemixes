@@ -261,3 +261,19 @@ Sources checked 2026-11-19:
 The regional Georgian source pass has identified one specific song candidate within «ხევსურული ბალადა»: «ხმა ამაიღე ფანდურო» / “Xma Amaige Fanduro”. ArtInfo's 30 November 2025 item identifies it as a song from the film and attributes it to Rezo Lagidze; a 2021 Lot.ge video listing names Sofiko Chiaureli and Zurab Kapanidze as performers. These are secondary indexed records (both page openers returned cache misses); no clip was viewed or heard. The 1TV programme listing for 13 July 2026 includes a “music for the film Khevsuruli Balada” segment, but its actual audio object is unknown. The cue is a candidate within SF-GE-003, not a separate lead. It has been added to audio-collection queue as RESEARCH LEAD only; no authorized download or print-audio identity is established.
 
 The National Library item record adds a date conflict: its issue date is 1965, while the attached poster image filename contains 1966. National Archives stills and Georgian Cinema catalogue date production to 1965. Preserve this conflict pending original poster/first-premiere evidence.
+
+
+## 2026-11-19 — Azerbaijani SSR film-concert lead SF-AZ-001
+
+A locally sourced regional pass identified **«Abşeron ritmləri» / Rhythms of Absheron (1970)** as one full-length musical television film / film-concert. The National Library of Azerbaijan's Polad Bülbüloğlu biography says he composed music for the film; Filmfond's Eldar Quliyev profile identifies it as the director's full-length musical. Kinobiz gives a 63-minute film-concert, Azerbaijanfilm, first-view date 3 May 1970, and a ten-item list with song-level composers, lyricists and performers. Preserve the distinction between Polad Bülbüloğlu's film-level composer credit and the other composers named for individual songs/works. The ten entries are not yet cue-level objects and may include pre-existing repertoire.
+
+Added **SF-AZ-001** as a film-level case study and **SF-AUD-013 — RESEARCH LEAD** for the original film-concert print. Kinobiz shows a “Start to watch” control, but the player was not tested. No original print, score, standalone soundtrack release, direct file URL or authorised private-copy route was verified. No audio was played or downloaded; no contact or rights clearance occurred.
+
+### Next exact queue
+1. Locate an authorized Filmfond/Azerbaijanfilm print or catalogue record; verify original credits, version, runtime and music sequence.
+2. Match the ten Kinobiz entries against the actual film, identify timecodes and original Azerbaijani title spellings, and determine which works were newly composed for the film versus pre-existing repertoire.
+3. Seek score/parts, cue sheets, production sound records and any standalone soundtrack release; keep film-print audio, later online versions, dubs and restorations distinct.
+4. Continue SF-GE-003 cue verification and the Stalker 1979 / 2025 restoration comparison.
+5. Continue regional rotation beyond the Caucasus and Central Asia in the next pass.
+
+No item is READY FOR DRIVE. No Drive file, public tracker or audio asset was changed.
