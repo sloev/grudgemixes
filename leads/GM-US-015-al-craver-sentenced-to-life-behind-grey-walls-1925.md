@@ -55,5 +55,5 @@ Retain as a C lead and READY FOR GROK retrieval target. The Columbia side is exa
 3. `78_behind-these-grey-walls_vernon-dalhart-carson-robison_gbia3039770a` — label/matrix not inspected this session.
 
 - Retrieved by this session: `GM-US-015-ALT_Dalhart_Behind_These_Gray_Walls_Edison_51669-R_mx10720_1925.mp3` — archive's preferred MP3 derivative, unmodified; MP3 48 kHz stereo, ~169 kbps VBR, 224.16 s, 4,729,994 bytes, SHA-256 `16b8308bb97abd0c2cc30ed0b11116591850440718946954f89feb55d0845f19`. FLAC 24-bit (66,020,819 bytes) also offered.
-- **Drive status: NOT UPLOADED** — Drive connector limit (~3.1 MB file content per call) in this session. Awaiting owner decision.
+- **Drive status: IN DRIVE (size verified).** Owner uploaded manually 2026-11-19 after connector size limit blocked agent upload. Drive file ID 1LcS-gikghx8Tz2ZaDrg-zYsfraH9bmxN (https://drive.google.com/file/d/1LcS-gikghx8Tz2ZaDrg-zYsfraH9bmxN/view); Drive size 4,729,994 bytes matches. Hash not re-read from Drive.
 - The Edison side is a different master; it can be used to hear Robison's text as Dalhart sang it in 1925, but not as evidence of the exact W141311 wording.

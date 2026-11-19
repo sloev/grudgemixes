@@ -125,3 +125,10 @@ New candidate entries: 0. New queue items: 2 (ALT). Files uploaded and verified 
 
 ### Handoff
 Owner decision needed on uploading the two Edison MP3s (manual upload, or a Drive agent without the size limit). Next: look up Edison mx 10720/10721 session dates in DAHR; inspect the Victor 19999 and gbia3039770a "Behind These Grey Walls" items for label/matrix; transcribe the Edison texts as comparison witnesses only. Retry DISA for GM-ZA-001 from a route that can reach ukzn.ac.za.
+
+## 2026-11-19 — Claude — Drive reconciliation for Edison 51669 ALT files
+
+Owner manually uploaded the two Edison 51669 MP3s (agent connector capped at ~3.1 MB). Verified by Drive listing in grudgemixes folder 1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY:
+- GM-US-013-ALT_Dalhart_Naomi_Wise_Edison_51669-L_mx10721_1925.mp3 — ID 13bexhFL3OKAx4PTCSOcGlSw1CzaexOPs, 4,848,685 B (matches download).
+- GM-US-015-ALT_Dalhart_Behind_These_Gray_Walls_Edison_51669-R_mx10720_1925.mp3 — ID 1LcS-gikghx8Tz2ZaDrg-zYsfraH9bmxN, 4,729,994 B (matches download).
+Statuses updated in TRACK_MAPPING.md and both lead files. Files uploaded and verified in Drive: 2 (size match; no listening/transcription yet). Research grades unchanged (still C; these are alternate masters, not the Columbia targets).
