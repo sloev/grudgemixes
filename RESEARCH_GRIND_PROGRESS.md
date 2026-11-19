@@ -7,8 +7,8 @@
 ## Completion condition
 
 - Baseline leads: **91** (Grudge Mixes 44; Insane Music 42; Soviet Film Music 5).
-- Cumulative distinct qualified new leads added: **22** (Grudge Mixes 5; Insane Music 8; Soviet Film Music 9).
-- Baseline leads with researched status: **20 / 91**.
+- Cumulative distinct qualified new leads added: **25** (Grudge Mixes 6; Insane Music 9; Soviet Film Music 10).
+- Baseline leads with researched status: **22 / 91**.
 - Stopping condition: **NOT MET**. Continue until all 91 baseline leads are RESEARCHED-OPEN or RESEARCHED-CLOSED and at least 91 qualified new leads have been added.
 
 A lead is “researched” when identity, chronology/version, provenance/context, access/rights and next actions have been checked as far as available evidence allows. RESEARCHED-OPEN is valid when unresolved questions or external dependencies remain explicit. It does not mean all issues are resolved.
@@ -23,7 +23,7 @@ Counting unit: one distinct lead/candidate file. Where a legacy ID is reused for
 - leads/GM-AM-004-mardiros-tashjian-himi-el-lrenk-1909.md: RESEARCHED-OPEN
 - leads/GM-AM-005-tashjian-brothers-menk-bedk-e-grvenk-1910.md: RESEARCHED-OPEN
 - leads/GM-AM-006-mardiros-tashjian-dalvorig-1909.md: RESEARCHED-OPEN
-- leads/GM-AM-007-tashjian-brothers-tartzial-paylets-1910.md: NOT STARTED
+- leads/GM-AM-007-tashjian-brothers-tartzial-paylets-1910.md: RESEARCHED-OPEN
 - leads/GM-AM-008-tashjian-brothers-kerezmanis-togh-1910.md: NOT STARTED
 - leads/GM-AM-009-tashjian-brothers-akh-vasburagan-1910.md: NOT STARTED
 - leads/GM-AM-010-zabelle-panosian-khavarel-yem-1918.md: NOT STARTED
@@ -103,7 +103,7 @@ Counting unit: each consolidated catalogue ID IM-001 through IM-042. Duplicate s
 - IM-035: NOT STARTED
 - IM-036: RESEARCHED-OPEN
 - IM-037: NOT STARTED
-- IM-038: NOT STARTED
+- IM-038: RESEARCHED-OPEN
 - IM-039: NOT STARTED
 - IM-040: RESEARCHED-OPEN
 - IM-041: RESEARCHED-OPEN
@@ -148,6 +148,10 @@ Only distinct, evidence-backed recording/cue objects admitted under the relevant
 | Soviet Film Music | SF-UZ-002 | «Дилором» / Dilorom (Uzbekfilm, 1968) | One film-opera production/music object. 1995 Soviet film catalogue and 2009 Academy of Sciences Uzbekistan catalogue identify 1968 production, M. Ashrafi credit and opera adaptation; film-print audio, score/cue sheets and soundtrack release remain unknown. | IN PROGRESS |
 | Insane Music | IM-050 | Anões de Jardim, Demo (July 1993) | One eight-track Curitiba DIY cassette; band history says weak distribution, collector item record gives tracklist/copy condition, and 1997 local press corroborates the underground scene. | IN PROGRESS |
 | Soviet Film Music | SF-KG-001 | “Песня Данияра” / “Daniyar’s song” in Джамиля / *Jamilya* (1968/1969) | One provisional cue family: Mosfilm film record, regional Kyrgyz-film catalogue and later 6:12 user-uploaded fragment; exact print, cue title, performer and version remain unresolved. | IN PROGRESS |
+
+| Grudge Mixes | GM-AL-001 | Shoqnia e hengxhive e shahirave, «Kanga e Oso Kukës» (Gramophone 10771; matrix 4570r; Shkodër, 1908) | *Shejzat* 2024 identifies performer/title/matrix/issue and IAKSA reel 0279-03; Albanian intangible-heritage register credits Zenel Maha; exact 1908 performance text not yet matched to the later song. C-level, one recording object. | IN PROGRESS |
+| Insane Music | IM-052 | ZeN, *Bakırköy Akıl Hastanesi'nde* (Istanbul, 1998) | Extant 1999 cassette/CD and 2023 300-copy LP reissue; contemporary *Roll* interview and participant testimony establish visiting-band performance at Bakırköy Psychiatric Hospital. Not resident-made; exact date/time and first edition remain open. | IN PROGRESS |
+| Soviet Film Music | SF-GE-003 | «ხევსურული ბალადა» / *Khevsuruli Balada* (1965/1966), Rezo Lagidze | National Library poster, National Archives stills and Georgian Cinema catalogue support one Georgian SSR film and composer credit; 1TV programme has a later “music for the film” segment, but no original cue or soundtrack identified. | IN PROGRESS |
 
 ### Excluded from the new-lead count
 
@@ -245,10 +249,37 @@ Radio La Colifata / *Viva La Colifata* remains context-only because of the high-
 ### Completion measures
 - Baseline leads researched: **20 / 91** (Grudge Mixes 9/44; Insane Music 6/42; Soviet Film Music 5/5).
 - Cumulative distinct qualified new leads: **22 / 91 target** (Grudge Mixes 5; Insane Music 8; Soviet Film Music 9).
-- Remaining: **71 baseline leads** to research and **69 qualified new leads** to add.
+- Remaining: **69 baseline leads** to research and **66 qualified new leads** to add.
 - Stopping condition: **NOT MET**. Continue balanced batches; no public tracker was changed or published.
 
 ### Next exact tasks
 1. **Grudge Mixes:** advance baseline GM-AM-007; locate a stenographic text and session-date evidence for GM-JP-002; keep GM-AM-005's Columbia matrix conflict open until primary label/runout evidence appears.
 2. **Insane Music:** advance baseline IM-038; seek independent carrier/label/fanzine evidence for IM-051 and resolve IM-041's 1997 cross-reference without merging masters; rotate regional discovery beyond Brazil.
 3. **Soviet Film Music:** advance baseline *Kosmicheskiy reys* using item-level production/score/archive records; seek «Дилором» score/parts and original film-print sound evidence; rotate discovery to a different SSR beyond Kyrgyzstan/Uzbekistan.
+
+
+## Progress checkpoint — 2026-11-19 — three-project breakthrough batch
+
+### Baseline leads advanced
+- **Grudge Mixes:** GM-AM-007 moved from NOT STARTED to RESEARCHED-OPEN. The Armenian Museum's item-specific discography confirms the Tashjian Brothers' Columbia E658 / issue 4964 “Tartzial Paylets”, recorded in autumn 1910 and released in 1911. The same-title Sassoun text remains a contextual witness, not a transcript of the recorded take; label/runout, exact performance text, carrier and rights remain open.
+- **Insane Music:** IM-038 confirmed RESEARCHED-OPEN and enriched. The UFF 2007 dissertation directly identifies Regina Lúcia Serrão as composer/singer of “Preconceito”; a 2016 peer-reviewed article interprets it as collective anti-discrimination protest. The 2013 municipal notice confirms the second *Saúde Musical* CD and group-authored songs. Formation date remains disputed (1996 municipal / 1997 scholarly).
+- **Soviet Film Music:** Stalker received an official Mosfilm version update: 2025 restoration, 4K catalogue presentation, 163 minutes, mono sound, and Artemyev composer credit. This is a restoration/version distinction, not proof of original-print sound identity.
+
+### New qualified leads added
+- **GM-AL-001:** Shoqnia e hengxhive e shahirave, «Kanga e Oso Kukës» (Gramophone 10771; matrix 4570r; Shkodër, 1908). The 2024 *Shejzat* study gives an extant IAKSA digitised-reel reference 0279-03; the Albanian intangible-heritage register credits Zenel Maha. C-level defiance lead; exact 1908 text is not yet matched to the later song.
+- **IM-052:** ZeN, *Bakırköy Akıl Hastanesi'nde* (Istanbul, 1998). Extant 1999 cassette/CD and limited 2023 double-LP; contemporary Turkish press and participant testimony establish the visiting underground band's performance at Bakırköy Psychiatric Hospital. Explicitly not resident-made; visibility PROMISING/medium.
+- **SF-GE-003:** «ხევსურული ბალადა» / *Khevsuruli Balada* (1965/1966), Rezo Lagidze. Georgian National Library poster and National Archives records support a 1965 production; local Georgian film catalogue provides composer and sound-operator credits. No cue or original soundtrack yet identified.
+
+### Canonical path correction
+- IM-051 Caustic *Unrest* was mirrored into the canonical projects/insane-music research directory and catalogue. This is the prior counted lead, not a new addition in this run.
+
+### Completion measures
+- Baseline leads researched: **22 / 91** (Grudge Mixes 10/44; Insane Music 7/42; Soviet Film Music 5/5).
+- Cumulative distinct qualified new leads: **25 / 91 target** (Grudge Mixes 6; Insane Music 9; Soviet Film Music 10).
+- Remaining: **69 baseline leads** to research and **66 qualified new leads** to add.
+- Stopping condition: **NOT MET**. Continue balanced batches; no public tracker was changed or published.
+
+### Next exact tasks
+1. **Grudge Mixes:** obtain owner-approved access metadata for IAKSA reel 0279-03 and the Oso Kuka Museum label/runout record; continue GM-AM-008 and rotate beyond the Balkans.
+2. **Insane Music:** verify ZeN's original 1999 carrier and master chain; obtain the two *Saúde Musical* CD sleeves/tracklists and resolve 1996/1997 formation date; rotate beyond Brazil/Türkiye.
+3. **Soviet Film Music:** locate Lagidze's score/parts and identify the 1TV programme segment's actual audio object; seek Mosfilm restoration documentation for Stalker; rotate beyond Georgia/Central Asia.
