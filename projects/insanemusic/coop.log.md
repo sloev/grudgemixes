@@ -207,3 +207,6 @@ The designated projects/insanemusic catalogue currently ends at IM-051. A separa
 ### Metrics and next
 New numbered catalogue entries: 0. New unnumbered item-level lead clusters: 1. New authorised Grok requests: 0. Audio downloaded/uploaded: 0. Next: continue Series 17/1–5 data-CD audit, then obtain owner approval before requesting the Lautarchiv PK 477 documents/audio access.
 
+### Process note — 2026-11-20
+The “Bounded task claimed” heading above records the task description, but this run did not pre-claim the task in this log before beginning web research. Treat the entry as a completed-work hand-off, not evidence of a pre-research claim. Future runs should append the bounded claim before substantial research; findings and statuses above are unchanged.
+
