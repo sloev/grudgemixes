@@ -112,3 +112,11 @@ Find and download additional early or relevant archival audio tracks related to 
 
 ### Handoff
 Continue highest-priority research or queue-preparation. Next film-mix extract if needed (58m-60m) or additional Stagger Lee / Jesse James / other grievance leads from IA/LOC free sources. All new research work directed to canonical grudgemixes workspace. Do not invent downloads. Verify reported files independently before promoting to FILE VERIFIED.
+
+## 2026-11-20 — balanced research batch
+
+- **Existing lead advanced:** GM-US-007 Ford and Ford, “Skeeg-A-Lee Blues” (1924). Added Rust's 6th-edition discography and the 2013 *Sing Out!* counter-assessment; fixed identity/date/provenance at C level and documented the unresolved Stagolee lyric link. Baseline status changed NOT STARTED → RESEARCHED-OPEN.
+- **New qualified lead:** GM-MX-003 Valentín Mancera corrido family. Added one C-level lead with separate 1905 Victor 97040 and circa-1920 Victor 72590-A recording witnesses, two COLMEX print witnesses and a later Columbia comparison copy. Alternate versions counted once.
+- **Discovery pass:** Spanish-language Mexican catalogues and scholarship; no additional item was counted beyond GM-MX-003. Ma Rainey's late-1925/1926 “Stack O'Lee Blues” retained as a related Stagger Lee-family comparison, not a separate lead.
+- **Blockers:** no authenticated lyric transcript, Victor label scan, surviving Victor copy or lawful transfer located; exact text-to-master match remains open. No audio was played, no archive contacted, no permission obtained.
+- **Next tasks:** advance GM-AM-006; seek Victor 97040/72590-A label/matrix evidence and lawful transfers; compare the COLMEX print witnesses with any authenticated recording text; rotate next discovery to another Spanish- or Arabic-language region.
