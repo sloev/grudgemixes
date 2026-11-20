@@ -1447,3 +1447,21 @@ A bounded Spanish-language source pass identified Radio Estación del Paraíso, 
 2. Identify exact participant-authored/performed songs, if any, within the radio broadcasts or microprogrammes; do not infer authorship from broadcast participation.
 3. Establish whether the original tapes/discs survive and whether any lawful access route exists; treat the 2023 thesis's negative search as a bounded result, not proof of destruction.
 4. Continue the existing IM-038 CD-owner-approved copy route and IM-052 original 1999 edition / master-chain audit; rotate to another non-Anglo region after this Chile screen.
+
+## 2026-11-20 research checkpoint
+
+### Existing baseline advanced
+
+- **IM-001 — Horace Flinders, Eloise Hospital piano recital:** baseline status advanced IN PROGRESS → RESEARCHED-OPEN. CSU's finding aid says undated, Box 45 Folder 9; DPLA metadata says 1948 and cassette digitized 2015-11-03. The DPLA label transcription says “Harold [sic] Flinders” and “Eliose Hospital,” conflicting with CSU's Horace/Eloise title. CSU copyright policy makes the user responsible for rights where CSU does not hold them. No file was opened or audio played in this run; the prior retrieval report was not repeated or independently verified.
+
+### New qualified leads
+
+- **IM-053 — “Selections from Eloise Symphony” (1948):** item-level CSU audio-tape record, Box 45 Folder 2. A 1948 UP report says a work co-composed by a former inpatient and Ira Altshuler was scheduled for Detroit Symphony performance. The archived recording's performer and link to that event remain unproven; classify as hospital co-composition / unidentified possibly professional performance, not resident-made performance.
+- **IM-054 — 은평병원 아트브뤼트 뮤지크 audio corpus (2012–2019):** official Seoul and Newsis sources attest blog-hosted recordings of participant-created songs. The 2015 report names 13 songs, including “우리들의 약” and “소중한 삶으로.” Count one corpus only; Naver item-level access, rights and consent remain unresolved.
+
+### Next exact tasks
+
+1. Continue baseline IM-041 as the next existing-lead batch.
+2. With owner approval, request the CSU digital objects for IM-001 and IM-053; reconcile names, dates, carrier generation, performer and rights.
+3. Resolve IM-054's stable Naver post URLs and item-level audio, then document title, date, group credit, medium, consent and rights before splitting any tracks.
+4. Rotate discovery beyond the current US/Korea cases to a different language and region; retain environment-first and resident-made / visiting-performance distinctions.
