@@ -327,3 +327,10 @@ IM-011 remains RESEARCHED-OPEN. Next: permitted listening comparison of cassette
 
 No audio was played, downloaded or copied; no contact, purchase, archive access or rights clearance occurred.
 Sources: https://arsch.bandcamp.com/album/arsch ; https://www.empty-space.ch/work/arsch-arsch ; https://tobirarecords.com/products/arsch-arsch-tape
+
+## 2026-11-20 — balanced research batch
+
+- **Existing baseline advanced:** IM-001 Horace Flinders / Eloise Hospital piano recital. CSU's item-level finding aid and copyright policy were checked; DPLA metadata adds a 1948 date, 2015 cassette digitization and label transcription with Horace/Harold and Eloise/Eliose discrepancies. Baseline status changed IN PROGRESS → RESEARCHED-OPEN.
+- **New qualified leads:** IM-053 “Selections from Eloise Symphony” (1948), an item-level CSU audiotape record linked cautiously to a contemporary report of a professional orchestra performance of a hospital co-composition; IM-054 은평병원 아트브뤼트 뮤지크, one blog-hosted patient-created song corpus attested by Seoul and Newsis. IM-054 is one corpus, not thirteen song leads.
+- **Blockers:** CSU digital files were not opened; performer/session for IM-053 unknown; Naver blog item-level access blocked; rights and participant consent unknown. No audio played, no archive contacted, no permission sought.
+- **Next tasks:** baseline IM-041; with owner approval request CSU item-level access and rights/provenance; identify stable Eunpyeong blog posts and consent conditions; rotate next discovery to a different region/language.
