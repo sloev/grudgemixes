@@ -226,3 +226,14 @@ PARTIAL
 - LEADS §C5: 5 found-tape leads, best of them EclectikTronik 88r002 (anonymous singer-songwriter reel, Wallasey 1988) and 87R001 (*War of the Worlds* with organ bleeps); a Palestinian Bedouin dabke cassette via Bodega Pop. PROPOSAL in MIXES Vol. 10.
 HANDOFF → download: MediaFire MP3s listed in LEADS §C5 (shell blocked).
 PARTIAL
+
+## 2026-11-20 — Claude: Baltic pass
+
+- Note `projects/insane-music/research/baltic-weirdos-and-banned-2026-11-20.md`; LEADS §C6. HIGH PRIORITY:
+  - Propeller (Estonia 1980; radio destroyed the recordings, band kept them)
+  - Pērkons (Latvia; banned twice, Ogre 1985)
+  - T.U.M.S.A. Home Rec. (Riga DIY label, 1986–94)
+  - Echidna Aukštyn (Lithuania c.1993)
+- Gap: Baltic women home-tapers; pre-1926 Baltic 1905-revolution discs for Grudge Mixes.
+HANDOFF → web: Underbed Storage / T.U.M.S.A. catalogue; Propeller 1980 tracklist and what was objected to.
+PARTIAL

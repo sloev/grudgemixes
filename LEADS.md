@@ -20,6 +20,7 @@
 | C3. Unwanted strand leads | 11 |
 | C4. Hostile strand leads | 4 |
 | C5. Found tapes and found audio | 5 |
+| C6. Baltic pass | 5 |
 | D. Insane Music catalogue (IM-001 – IM-055) | 53 |
 | Entries with a downloaded file | 20 |
 
@@ -1731,6 +1732,38 @@ From the found-tape blog survey. The owner widened *Found* to any audio (MIXES.m
 #### Context: Duy Khánh tape found in a thrift-store couch, San Jose, 1992
 
 - Played on *Bodega Pop* (guest DJ Papa Gentle, 29 Apr 2015). It is a commercial Vietnamese recording by a known star, so the find story is context, not the track. https://freeform.wfmu.org/playlists/shows/60440
+
+---
+
+## C6. Baltic pass: banned bands, home reels, weirdos (2026-11-20)
+
+None has been listened to. ⚠ All are living artists or estates. Full table and sources in the note `projects/insane-music/research/baltic-weirdos-and-banned-2026-11-20.md`.
+
+#### Estonia · Propeller, 1980 recordings (*Propeller*, Fugata 1995)
+
+- **Project:** Insane Music (Hostile: music treated as violence; Found) · **Planned mix:** PROPOSAL Vol. 12 · **Visibility:** HIGH PRIORITY · **Downloaded:** No
+- **Background:** officials stopped their set at a 1980 Tallinn football match, a riot followed, the band was forced to disband and Estonian Radio destroyed its recordings. The members kept the original tapes.
+- **Why it fits:** the state erased the music; the makers kept it. The non-UK "music treated as violence" case.
+
+#### Latvia · Pērkons, home-studio recordings 1981–85
+
+- **Project:** Insane Music (Hostile; Made Anyway) · **Planned mix:** PROPOSAL Vol. 12 or 9 · **Visibility:** HIGH PRIORITY · **Downloaded:** No
+- **Background:** banned in 1983; played on as a "collective farm ensemble"; banned again after fans wrecked a train following the Ogre concert of 6 July 1985 (show trials; Podnieks's film *Is It Easy to Be Young?*).
+
+#### Latvia · NSRD ("Workshop for the Restoration of Unfelt Feelings") and the T.U.M.S.A. Home Rec. label (1986–94)
+
+- **Project:** Insane Music (Unwanted; Made Anyway) · **Visibility:** NSRD PROMISING; T.U.M.S.A. HIGH PRIORITY · **Downloaded:** No
+- **Background:** Riga artist collective making tape-only experimental pop (*Invalīdu tramvajs*, 1983); archive releases on Underbed Storage.
+
+#### Lithuania · Ir Visa Tai Kas Yra Gražu Yra Gražu, home tapes from 1987
+
+- **Project:** Insane Music (Unwanted; Found) · **Visibility:** PROMISING · **Downloaded:** No
+- **Background:** Vilnius painter and record dealer duo; many tapes existed in one copy. The rejected band name translates as "Kill the close one, before the far one comes and kills you", which is grudge wisdom.
+
+#### Lithuania · Echidna Aukštyn (Ramūnas Jaras), tape c.1993
+
+- **Project:** Insane Music (Unwanted; Found) · **Visibility:** HIGH PRIORITY · **Downloaded:** No
+- **Background:** whispers, dark instrumentals, field recordings and flutes, per Don Campau's Living Archive.
 
 ---
 
