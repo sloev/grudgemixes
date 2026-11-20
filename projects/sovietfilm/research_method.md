@@ -321,3 +321,13 @@ Next exact action: locate Lagidze score/parts or an authorized film print; deter
 
 No audio/video was played, no print or score inspected, no contact or permission request made, no download/upload and no rights clearance.
 
+
+
+## 2026-11-20 regional discovery — Estonian SSR music-film archive object
+
+- Added **SF-EE-001 — «Sõjapäevade laulud» / “Songs of the War Years” (1969)** from the Estonian Film Database (EFIS) structured record 6306.
+- EFIS identifies an 18:53 Eesti Telefilm music film, 35 mm black-and-white, archive item 1852, with an ERR Video Archive viewing route and National Archives references ERA.R-1590.7.133 and ERA.R-1590.4.644.
+- EFIS lists five repertoire items and selected performer credits. Keep the repertoire separate from the film's specific recorded masters; no isolated cue IDs were created.
+- Status: RESEARCH LEAD / IDENTITY UNRESOLVED for isolated audio. No download, upload, playback, archive contact or rights clearance.
+
+Next exact action: inspect the authorized ERR/EFIS viewing route and the linked National Archives files for on-screen credits, sequence, performer and soundtrack-assembly evidence. Continue regional rotation toward Ukrainian or Moldavian SSR after this bounded pass.
