@@ -4,7 +4,7 @@ title: "The Workshop for the Restoration of Unfelt Feelings"
 slug: "nsrd-unfelt-feelings"
 date: "2026-11-20"
 draft: false
-summary: "Wonky home-taped art pop from a Riga collective that Soviet Latvia mostly ignored."
+summary: "NSRD, the Workshop for the Restoration of Unfelt Feelings, was a Riga collective of artists around Hardijs Lediņš and Juris Boiko. In the 1980s they made a wonky, home-taped experimental pop that almost nobody in Soviet Latvia wanted to hear, released mostly on cassette and reel-to-reel, and every year they walked a railway line as an art work. Today a small archive label on the edge of Riga, Underbed Storage, puts out their unreleased reels alongside other DIY tapes from the period."
 who: "NSRD (Hardijs Lediņš, Juris Boiko)"
 when: "1982–89"
 where: "Riga, Latvia"
@@ -17,7 +17,9 @@ recording_url: "https://underbedstorage.bandcamp.com/album/december-session"
 urls:
   - "https://en.wikipedia.org/wiki/NSRD"
   - "https://post.moma.org/working-with-peripheries-workshop-for-the-restoration-of-unfelt-feelings/"
-images: []
+  - "https://commons.wikimedia.org/wiki/File:Railway_station_Bolderāja.jpg"
+images:
+  - "media/nsrd-unfelt-feelings.jpg | Bolderāja railway station, Riga, on the line NSRD walked each year. Photo: Egilus, CC BY-SA 4.0, via Wikimedia Commons"
 ---
 
 NSRD was a Riga collective of artists, Hardijs Lediņš and Juris Boiko at the core, who made a wonky, home-taped experimental pop that hardly anyone in the Latvian SSR wanted to hear. Albums like *Invalīdu tramvajs* ("Invalids' Tram", 1983) existed mostly on cassettes and reel-to-reel. Every year they walked the Bolderāja railway line as an art work.

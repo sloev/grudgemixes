@@ -4,7 +4,7 @@ title: "The only recording of the noise machines"
 slug: "russolo-corale-serenata-1921"
 date: "2026-11-20"
 draft: false
-summary: "The only surviving recording of the Futurists' noise machines, which audiences pelted with vegetables."
+summary: "The Futurist Luigi Russolo built noise-intoners: boxes with cranks and levers that howled, crackled, gurgled and buzzed. His first concert with them, in Milan in 1914, ended in a riot. The machines are lost and almost none of the music written for them survives, except one gramophone disc made with his brother Antonio in 1921, where a small orchestra is shadowed by a roar nobody can quite place. It is music made to pick a fight, and the Futurists' later closeness to Mussolini belongs in the story too."
 who: "Antonio & Luigi Russolo, with intonarumori"
 when: "1921"
 where: "Milan / Paris, Italy & France"
@@ -19,7 +19,9 @@ urls:
   - "https://ltmrecordings.com/musica_futurista_the_art_of_noises_ltmcd2401.html"
   - "https://catalogue.bnf.fr/ark:/12148/cb382963855"
   - "https://en.wikipedia.org/wiki/Antonio_Russolo"
-images: []
+  - "https://commons.wikimedia.org/wiki/File:Russolo_patent_for_Intonare_dei_rumori,_1914.jpg"
+images:
+  - "media/russolo-corale-serenata-1921.jpg | Luigi Russolo's 1914 patent drawing for the noise-intoner. Public domain, via Wikimedia Commons"
 ---
 
 Luigi Russolo built *intonarumori*, "noise-intoners": boxes with cranks and levers that howled, crackled, gurgled and buzzed. His first concert with them, in Milan in 1914, ended in a riot.

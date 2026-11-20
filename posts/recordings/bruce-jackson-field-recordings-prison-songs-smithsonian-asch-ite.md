@@ -4,7 +4,7 @@ title: "Bruce Jackson, “Field Recordings: Prison Songs,” Smithsonian Asch it
 slug: "bruce-jackson-field-recordings-prison-songs-smithsonian-asch-ite"
 date: "2026-11-20"
 draft: true
-summary: "IM-045 — Bruce Jackson, “Field Recordings: Prison Songs” (Smithsonian Asch Collection,…"
+summary: "IM-045 — Bruce Jackson, “Field Recordings: Prison Songs” (Smithsonian Asch Collection, FW-ASCH-7RR-1966) Where and when: Indiana, USA; catalogue place field also lists Bloomington; exact facility unresolved; Date(s): Unknown; “1966” is only the archive local-number suffix, not an established recording date; Medium: One 7-inch analogue sound-tape reel"
 who: "Bruce Jackson"
 when: "1966"
 where: "Indiana, USA"

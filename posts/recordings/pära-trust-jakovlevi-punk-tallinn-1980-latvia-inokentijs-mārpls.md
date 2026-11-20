@@ -4,7 +4,7 @@ title: "Pära Trust, \"Jakovlevi punk\" (Tallinn, 1980) / Latvia · Inokentijs M
 slug: "pära-trust-jakovlevi-punk-tallinn-1980-latvia-inokentijs-mārpls"
 date: "2026-11-20"
 draft: true
-summary: "Notes to…"
+summary: "Notes to come."
 who: "Pära Trust"
 when: "1980"
 where: "Estonia"

@@ -4,7 +4,7 @@ title: "Zabelle Panosian, “Khavarel Yem” (Columbia E4010, June 1918)"
 slug: "zabelle-panosian-khavarel-yem-columbia-e4010-june-1918"
 date: "2026-11-20"
 draft: true
-summary: "The Canary Records title gloss is “I Am Darkened.” Armenian lexical sources confirm that խաւարել / խավարել can mean to darken, become gloomy, or be overwhelmed by sorrow, but this is only a lexical…"
+summary: "” Armenian lexical sources confirm that խաւարել / խավարել can mean to darken, become gloomy, or be overwhelmed by sorrow, but this is only a lexical clue, not a translation of the song. The Panosian project includes translated song texts and historical notes, but the full lyric of this item has not yet been independently checked in this research pass. Performer: Zabelle Panosian, soprano, with orchestra. Title: “Khavarel Yem” (publisher's English gloss: “I Am Darkened”). Original label / catalogue: Columbia E4010. Matrix / take: 84458-1 is listed for “Khavarel Yem” in the Columbia E-Series discography."
 who: "Zabelle Panosian"
 when: "1918"
 where: ""

@@ -4,7 +4,7 @@ title: "Enrico Caruso — “Vesti la giubba” (1904)"
 slug: "enrico-caruso-vesti-la-giubba-1904"
 date: "2026-11-20"
 draft: true
-summary: "The Library of Congress catalog record identifies the recording date as 1 February 1904, label Victor, catalog 930, matrix B-1002, take 1, and recording location New York."
+summary: "The Library of Congress catalog record identifies the recording date as 1 February 1904, label Victor, catalog 930, matrix B-1002, take 1, and recording location New York. The record's issue/publication date is not separately displayed in the metadata retrieved here. The 1904 catalog number and period discographies support an early issue, but the release date still needs confirmation from a contemporary Victor catalog or trade advertisement before this candidate is marked fully verified. Candidate id: GM-IT-001 Performer: Enrico Caruso, tenor Title: “Vesti la giubba” (also catalogued as I pagliacci / Pagliacci."
 who: "Enrico Caruso"
 when: "1904"
 where: ""

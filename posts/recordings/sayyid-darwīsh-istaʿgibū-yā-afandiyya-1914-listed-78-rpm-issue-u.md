@@ -4,7 +4,7 @@ title: "Sayyid Darwīsh, “Istaʿgibū yā Afandiyya” (1914-listed; 78 rpm is
 slug: "sayyid-darwīsh-istaʿgibū-yā-afandiyya-1914-listed-78-rpm-issue-u"
 date: "2026-11-20"
 draft: true
-summary: "This is a particularly valuable non-Anglophone lead because the text itself—not just the title—describes an economic grievance: kerosene price inflation, black-market selling, shortages, and the…"
+summary: "This is a particularly valuable non-Anglophone lead because the text itself—not just the title—describes an economic grievance: kerosene price inflation, black-market selling, shortages, and the presence of police officials. It may fit collective grievance and accusation better than revenge or personal retaliation. It also records a specific urban experience of scarcity and price exploitation around the First World War."
 who: "Sayyid Darwīsh"
 when: "1914"
 where: ""

@@ -4,7 +4,7 @@ title: "Nubar Effendi, “Vatan Canto” (Odeon 54584, 1908–1909)"
 slug: "nubar-effendi-vatan-canto-odeon-54584-19081909"
 date: "2026-11-20"
 draft: true
-summary: "The archive publishes Turkish lyrics and an English translation."
+summary: "The archive publishes Turkish lyrics and an English translation. The refrain reads: Proposed role: Constitutional-revolution context / freedom-and-equality rhetoric Why it fits / decision: The recording is dated 1908–1909 in Constantinople and celebrates the constitutional-era language of freedom, justice, equality and nation. It belongs alongside the 1908 “Marche Huriet” as evidence of the musical rhetoric circulating around the Young Turk / constitutional revolution."
 who: "Nubar Effendi"
 when: "1908"
 where: ""

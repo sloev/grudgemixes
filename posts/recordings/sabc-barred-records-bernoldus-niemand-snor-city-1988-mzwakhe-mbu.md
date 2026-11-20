@@ -4,7 +4,7 @@ title: "SABC-barred records: Bernoldus Niemand \"Snor City\" (1988); Mzwakhe Mbu
 slug: "sabc-barred-records-bernoldus-niemand-snor-city-1988-mzwakhe-mbu"
 date: "2026-11-20"
 draft: true
-summary: "SABC memos 273 (9 Feb 1989) and 322 (8 Nov 1990) barred them; censors scratched discs so they could not be aired."
+summary: "SABC memos 273 (9 Feb 1989) and 322 (8 Nov 1990) barred them; censors scratched discs so they could not be aired. htm Rights: ⚠ James Phillips (d. 1995), Mbuli living; Shifty Records licence."
 who: "SABC-barred records: Bernoldus Niemand"
 when: "1988"
 where: "South Africa"

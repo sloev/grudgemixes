@@ -4,7 +4,7 @@ title: "“Revenge! Timotheus cries” — Handel, *Alexander’s Feast*"
 slug: "revenge-timotheus-cries-handel-alexanders-feast"
 date: "2026-11-20"
 draft: true
-summary: "The aria is a direct thematic fit: its text explicitly stages revenge and vengeance."
+summary: "The aria is a direct thematic fit: its text explicitly stages revenge and vengeance. It is a literary/classical representation, not evidence of an actual grievance or a contemporary act of revenge. Why it fits / decision: Keep both recordings in the research queue as LEADS in this research dossier, with HMV D589 / 02927 the first search target. A separate formal candidate record GM-UK-001 and the README crosswalk currently map the Vocalion lead to B — PROBABLE; this is a documented status mismatch, not a fresh promotion in this dossier. Reconcile only after the exact identity/date evidence is reviewed across both records."
 who: "“Revenge! Timotheus cries” — Handel"
 when: ""
 where: ""

@@ -4,7 +4,7 @@ title: "The Shaggs, \"Philosophy of the World\" (Third World, 1969)"
 slug: "the-shaggs-philosophy-of-the-world-third-world-1969"
 date: "2026-11-20"
 draft: true
-summary: "Three sisters made to record by their father; famously both mocked and revered."
+summary: "Three sisters made to record by their father; famously both mocked and revered. Recording: LP recorded at Fleetwood Studios, Revere, 9 Mar 1969; 1,000 pressed, about 100 survived Why it's here: The archetype of the unwanted voice. The anchor, not the discovery. Rights / consent: ⚠ Living makers; Light in the Attic."
 who: "The Shaggs"
 when: "1969"
 where: "US"

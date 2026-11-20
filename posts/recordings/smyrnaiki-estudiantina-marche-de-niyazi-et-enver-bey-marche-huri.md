@@ -4,7 +4,7 @@ title: "Smyrnaiki Estudiantina, “Marche de Niyazi et Enver Bey / Marche Huriet
 slug: "smyrnaiki-estudiantina-marche-de-niyazi-et-enver-bey-marche-huri"
 date: "2026-11-20"
 draft: true
-summary: "The Kounadis record page publishes Turkish lyrics and an English translation."
+summary: "The Kounadis record page publishes Turkish lyrics and an English translation. The text includes the lines: Proposed role: Anti-despotism / collective grievance / revolutionary liberation Why it fits / decision: This is a clear anti-despotism / liberation text associated with the 1908 Young Turk Revolution and the restoration of constitutional government. Its explicit references to the oppressed, informers, despotism, freedom and bondage make the grievance/protest content textual rather than inferred from the title."
 who: "Smyrnaiki Estudiantina"
 when: "1908"
 where: ""

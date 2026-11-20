@@ -4,7 +4,7 @@ title: "Tashjian Brothers, “Akh Vasburagan” (Columbia E666/4974, 1910)"
 slug: "tashjian-brothers-akh-vasburagan-columbia-e6664974-1910"
 date: "2026-11-20"
 draft: true
-summary: "The Armenian-language ERGIR page “ԱԽ ՎԱՍՊՈՒՐԱԿԱՆ” (“Akh Vaspurakan”) attributes the words to S."
+summary: "The Armenian-language ERGIR page “ԱԽ ՎԱՍՊՈՒՐԱԿԱՆ” (“Akh Vaspurakan”) attributes the words to S. Jamkochyan. Its stanzas: - mourn Vaspurakan and the Armenian dead; - condemn captivity, foreign dependence and disunity; - call for Armenian unity and explicitly say “Պէտք է մենք լուծենք վրէժ հայկական” — approximately, “We must exact Armenian revenge”; - describe Van and its districts filled with bodies and fields stained with Armenian blood; - denounce the Ottoman army and artillery; - end with a call to take up rifles as Armenian communities and homes are attacked. Performer: Tashjian Brothers — Mardiros, Nishan and Levon Der Sarkis."
 who: "Tashjian Brothers"
 when: "1910"
 where: ""

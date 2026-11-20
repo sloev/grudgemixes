@@ -4,7 +4,7 @@ title: "Horace Flinders, Eloise Hospital piano recital, 1948"
 slug: "horace-flinders-eloise-hospital-piano-recital-1948"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Eloise Hospital, Michigan, USA (psychiatric); Date(s): 1948 per DPLA; undated per the finding aid; Medium: Tape, digitised from cassette…"
+summary: "Where and when: Eloise Hospital, Michigan, USA (psychiatric); Date(s): 1948 per DPLA; undated per the finding aid; Medium: Tape, digitised from cassette 2015 Why it's here: Rare mid-century US psychiatric-hospital patient recording, with a digitised transfer"
 who: "Horace Flinders"
 when: "1948"
 where: "Eloise Hospital, Michigan, USA (psychiatric)"

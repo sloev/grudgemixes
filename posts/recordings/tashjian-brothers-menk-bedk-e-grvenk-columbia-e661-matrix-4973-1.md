@@ -4,7 +4,7 @@ title: "Tashjian Brothers, “Menk Bedk E Grvenk” (Columbia E661 / matrix 4973
 slug: "tashjian-brothers-menk-bedk-e-grvenk-columbia-e661-matrix-4973-1"
 date: "2026-11-20"
 draft: true
-summary: "The text is unusually explicit about collective loss, unheard grievance, and armed recovery."
+summary: "The text is unusually explicit about collective loss, unheard grievance, and armed recovery. It directly contrasts passive lament with organized resistance. This is a strong conceptual fit for the project's collective grievance / defiance strand, but it is not necessarily a revenge narrative in the narrow sense."
 who: "Tashjian Brothers"
 when: "1910"
 where: ""

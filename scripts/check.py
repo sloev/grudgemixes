@@ -37,7 +37,7 @@ for kind, keys, folder in (("recording", REC, "recordings"), ("collection", COL,
             bad = set(m.get("tags") or []) - TAGS
             if bad: errors.append(f"{f}: unknown tags {bad}")
             if m.get("medium") not in MEDIA: errors.append(f"{f}: medium must be one of {sorted(MEDIA)}")
-            if len(str(m.get("summary") or "")) > 240: errors.append(f"{f}: summary must be one sentence, at most 240 characters")
+            if len(str(m.get("summary") or "")) > 900: errors.append(f"{f}: summary must be at most 900 characters (aim for 400–650)")
             if m.get("draft") is False:
                 for k in ("summary", "who", "what"):
                     if not m.get(k): errors.append(f"{f}: finished post needs '{k}'")

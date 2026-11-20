@@ -4,7 +4,7 @@ title: "The ballad that convicted Robert Ford"
 slug: "bentley-ball-jesse-james-1919"
 date: "2026-11-20"
 draft: false
-summary: "The ballad that never let Robert Ford live down shooting Jesse James in the back, cut to disc in 1919."
+summary: "Robert Ford shot Jesse James in the back for the reward money, and the state pardoned him. The ballad didn't. Passed from singer to singer, it called Ford a dirty little coward and handed down the verdict no court ever gave. Bentley Ball's 1919 Columbia disc is one of the earliest commercial recordings of the song: a folk court in waltz time, still finding Ford guilty a generation after the shot."
 who: "Bentley Ball"
 when: "1919"
 where: "New York, USA"
@@ -17,7 +17,9 @@ recording_url: "https://www.loc.gov/item/10030589/"
 urls:
   - "https://americanhistory.si.edu/collections/object/nmah_1282202"
   - "https://www.worldradiohistory.com/Archive-Talking-Machine/10s/Talking-Machine-1919-08.pdf"
-images: []
+  - "https://commons.wikimedia.org/wiki/File:Side_view_of_Jesse_James_home_and_museum.jpg"
+images:
+  - "media/bentley-ball-jesse-james-1919.jpg | The Jesse James house in St. Joseph, Missouri, where Ford shot him. Photo: MauraWen, CC0, via Wikimedia Commons"
 ---
 
 Robert Ford shot Jesse James in the back for the reward, was pardoned, and never escaped the song. "The dirty little coward that shot Mister Howard" was passed around as a public verdict the courts never delivered.

@@ -4,7 +4,7 @@ title: "Say It Without Saying It"
 slug: "say-it-without-saying-it"
 date: "2026-11-20"
 draft: false
-description: "Songs that authorities banned, erased or punished, and how they got through anyway."
+description: "Eight songs that authorities banned, erased or punished, and how they got through anyway. A Cairo singer sells dates so a whole city can sing a forbidden name. A samba jokes about the police that harassed it. Banned jazz and rock'n'roll are cut onto hospital X-rays. Algeria's raï grandmother keeps singing after the state shuts her out, Latvian and Estonian bands outlive their bans on tape, a cantata from wartime Riga waits on tape for its return in 1990, and a London drill duo is sentenced for performing a song."
 tracks:
   - "naima-ya-balah-zaghloul"
   - "pelo-telefone-1917"

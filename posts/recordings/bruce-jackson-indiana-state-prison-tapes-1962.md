@@ -4,7 +4,7 @@ title: "Bruce Jackson, Indiana State Prison tapes, 1962"
 slug: "bruce-jackson-indiana-state-prison-tapes-1962"
 date: "2026-11-20"
 draft: true
-summary: "IM-013 — Indiana State Prison tape provenance reconciliation…"
+summary: "IM-013 — Indiana State Prison tape provenance reconciliation (2026-11-17) Where and when: Indiana State Prison, Michigan City; Date(s): Mar–Jul 1962; Medium: Reel-to-reel Why it's here: Original tapes that, as the release itself says, contain songs left off the LP"
 who: "Bruce Jackson"
 when: "1962"
 where: "Indiana State Prison, Michigan City"

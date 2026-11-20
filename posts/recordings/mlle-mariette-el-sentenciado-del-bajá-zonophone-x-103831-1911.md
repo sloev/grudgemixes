@@ -4,7 +4,7 @@ title: "Mlle Mariette, “El sentenciado del bajá” (Zonophone X-103831, 1911)
 slug: "mlle-mariette-el-sentenciado-del-bajá-zonophone-x-103831-1911"
 date: "2026-11-20"
 draft: true
-summary: "The Hebrew University / Jewish Music Research Centre commentary identifies this as a truncated version of the Sephardic romance “El sentenciado del bajá” (CMP H23), known in only a few printed and…"
+summary: "The Hebrew University / Jewish Music Research Centre commentary identifies this as a truncated version of the Sephardic romance “El sentenciado del bajá” (CMP H23), known in only a few printed and recorded sources in longer versions. It explains that the protagonist is sentenced to death after refusing the advances of an anonymous “Turk”; in some versions the protagonist is female, in others male. The fuller romance develops into a dialogue with the protagonist's mother, who is asked to save the condemned child but cannot help. The commentary explicitly notes that this dialogue is missing from Mlle Mariette's recording."
 who: "Mlle Mariette"
 when: "1911"
 where: ""

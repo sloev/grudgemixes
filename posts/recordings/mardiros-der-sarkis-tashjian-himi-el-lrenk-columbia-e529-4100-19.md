@@ -4,7 +4,7 @@ title: "Mardiros Der Sarkis Tashjian, “Himi El Lrenk” (Columbia E529-4100, 1
 slug: "mardiros-der-sarkis-tashjian-himi-el-lrenk-columbia-e529-4100-19"
 date: "2026-11-20"
 draft: true
-summary: "Armenian online songbooks attribute a song under this title to Raphael Patkanian's nineteenth-century poem “The Death of Vardan Mamikonian.” A published song-family text asks whether Armenians should…"
+summary: "” A published song-family text asks whether Armenians should remain silent while their land and arms are taken, chains are forged, and the community is driven from its homeland; it ends by rejecting silence and calling for resistance."
 who: "Mardiros Der Sarkis Tashjian"
 when: "1909"
 where: ""

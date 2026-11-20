@@ -4,7 +4,7 @@ title: "Chacabuco clandestine cassette / LP lineage; MMDH “Centros de Detenci�
 slug: "chacabuco-clandestine-cassette-lp-lineage-mmdh-centros-de-detenc"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Oficina Salitrera Chacabuco detention camp, Chile; Date(s): 1973–75; later archive/reissue dates vary; Medium: Cassette, LP, radio archive digital…"
+summary: "Where and when: Oficina Salitrera Chacabuco detention camp, Chile; Date(s): 1973–75; later archive/reissue dates vary; Medium: Cassette, LP, radio archive digital objects"
 who: "Chacabuco clandestine cassette / LP lineage; MMDH"
 when: "1973"
 where: "Oficina Salitrera Chacabuco detention camp, Chile"

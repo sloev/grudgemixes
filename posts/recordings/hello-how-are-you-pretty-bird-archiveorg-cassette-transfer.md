@@ -4,7 +4,7 @@ title: "\"Hello, how are you? … pretty bird!\" (archive.org cassette transfer)
 slug: "hello-how-are-you-pretty-bird-archiveorg-cassette-transfer"
 date: "2026-11-20"
 draft: true
-summary: "a young woman repeats \"Hello, how are you?\" and \"pretty bird!\", alternating left and right ears; origin unknown."
+summary: "\", alternating left and right ears; origin unknown. Probably a home-made parrot-training tape (check). org's huge \"Cassette Audio\" section of amateur transfers. Privacy: not intimate speech, but the speaker is unknown: trace before use."
 who: "\"Hello"
 when: ""
 where: "Found audio"

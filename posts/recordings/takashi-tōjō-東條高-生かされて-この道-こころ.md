@@ -4,7 +4,7 @@ title: "Takashi Tōjō (東條高), 生かされて / この道 / こころ"
 slug: "takashi-tōjō-東條高-生かされて-この道-こころ"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Ōshima Seishōen, Kagawa, Japan; Date(s): 2003, Feb 2021, Apr 2026; Medium: Three…"
+summary: "Where and when: Ōshima Seishōen, Kagawa, Japan; Date(s): 2003, Feb 2021, Apr 2026; Medium: Three CDs Why it's here: Resident-led music from Ōshima Seishōen, Japan; an individual songwriter's own CDs, distinct from prison and camp material."
 who: "Takashi Tōjō (東條高)"
 when: "2003"
 where: "Ōshima Seishōen, Kagawa, Japan"

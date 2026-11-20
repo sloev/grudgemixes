@@ -4,7 +4,7 @@ title: "Qamar-ol-Moluk Vaziri, 1924–25"
 slug: "qamar-ol-moluk-vaziri-192425"
 date: "2026-11-20"
 draft: true
-summary: "first concert at Tehran's Grand Hotel in 1924, the first public appearance of an Iranian woman singer before men without the veil."
+summary: "first concert at Tehran's Grand Hotel in 1924, the first public appearance of an Iranian woman singer before men without the veil. Featured on more than half of the 1925 sessions per the Honest Jon's compilation; later Polyphon 78s from 1927–28. One disc mourns the assassinated poet Mirzādeh Eshqi."
 who: "Qamar-ol-Moluk Vaziri"
 when: "1924"
 where: "Iran"

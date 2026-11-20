@@ -4,7 +4,7 @@ title: "“You Ought to Be Arrested and Put in Jail” — Land Norris, Okeh 403
 slug: "you-ought-to-be-arrested-and-put-in-jail-land-norris-okeh-40374"
 date: "2026-11-20"
 draft: true
-summary: "A useful lead emerged from comparing the title with early song-family…"
+summary: "A useful lead emerged from comparing the title with early song-family references:"
 who: "“You Ought to Be Arrested and Put in Jail” — Land Norris"
 when: "1924"
 where: ""

@@ -4,7 +4,7 @@ title: "Margaret Valiant FSA migrant-camp discs, 1938–39"
 slug: "margaret-valiant-fsa-migrant-camp-discs-193839"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Calipatria, Brawley and Shafter FSA camps, California; Date(s): 1938–39; Medium: Instantaneous…"
+summary: "Where and when: Calipatria, Brawley and Shafter FSA camps, California; Date(s): 1938–39; Medium: Instantaneous disc Why it's here: Camp residents' own performances; little known; LOC item numbers available"
 who: "Margaret Valiant FSA migrant-camp discs"
 when: "1938"
 where: "Calipatria, Brawley and Shafter FSA camps, California"

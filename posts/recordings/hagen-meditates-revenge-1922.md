@@ -4,7 +4,7 @@ title: "A son keeps his father's grudge"
 slug: "hagen-meditates-revenge-1922"
 date: "2026-11-20"
 draft: false
-summary: "Wagner's night-long revenge brooding, sung in English onto a 1922 disc."
+summary: "In Wagner's Götterdämmerung, Hagen sits up all night guarding the hall while everyone sleeps, turning over a revenge that was his father's before it was his. In 1922 the English bass Robert Radford recorded the scene for HMV, sung in English as Hagen meditates revenge. Grudges are often inherited, and this is one of the earliest discs on which you can hear one sung as a duty, slowly and in the dark. A transfer of the 78 is free to hear on the Internet Archive."
 who: "Robert Radford"
 when: "1922"
 where: "Hayes, UK"
@@ -16,7 +16,9 @@ tags:
 recording_url: "https://archive.org/details/78_the-twilight-of-the-gods-hagen-meditates-revenge_radford-robert-symphony-orchestra"
 urls:
   - "https://www.musicweb-international.com/hooey/radford-discog.htm"
-images: []
+  - "https://commons.wikimedia.org/wiki/File:Siegfried_and_the_Twilight_of_the_Gods_p_138.jpg"
+images:
+  - "media/hagen-meditates-revenge-1922.jpg | Arthur Rackham, \"Swear to me, Hagen, my son!\": Alberich passes the revenge to his son (1911). Public domain, via Wikimedia Commons"
 ---
 
 In Wagner's *Götterdämmerung*, Hagen sits up all night guarding the hall while everyone else sleeps, turning over a revenge that was his father's before it was his. In 1922 the English bass Robert Radford recorded the scene in English for HMV, as "Hagen meditates revenge".

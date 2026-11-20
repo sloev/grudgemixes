@@ -4,7 +4,7 @@ title: "Bengal's early recorded *Bande Mataram* cluster (1905–1908)"
 slug: "bengals-early-recorded-bande-mataram-cluster-19051908"
 date: "2026-11-20"
 draft: true
-summary: "The National Institute of Science Communication / Indian Journal of History of Science article by Suvobrata Sarkar gives unusually useful recording-industry evidence."
+summary: "The National Institute of Science Communication / Indian Journal of History of Science article by Suvobrata Sarkar gives unusually useful recording-industry evidence. It says Hemendramohan Bose founded his phonographic business in 1905; in early 1906, at the height of anti-partition agitation, H. Bose's first batch of cylinder records was offered for sale, comprising patriotic songs sung by Rabindranath Tagore, Dwijendralal Roy and others. Bose later partnered with Pathé to transfer some cylinders to discs. One Pathé–H."
 who: "Bengal's early recorded"
 when: "1905"
 where: ""

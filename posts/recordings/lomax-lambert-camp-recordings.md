@@ -4,7 +4,7 @@ title: "Lomax, Lambert Camp recordings"
 slug: "lomax-lambert-camp-recordings"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Parchman; Date(s): 1947–48; Medium: Tape and…"
+summary: "Where and when: Parchman; Date(s): 1947–48; Medium: Tape and disc"
 who: "Lomax"
 when: "1947"
 where: "Parchman"

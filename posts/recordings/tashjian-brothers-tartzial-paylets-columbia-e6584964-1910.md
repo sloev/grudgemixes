@@ -4,7 +4,7 @@ title: "Tashjian Brothers, “Tartzial Paylets” (Columbia E658/4964, 1910)"
 slug: "tashjian-brothers-tartzial-paylets-columbia-e6584964-1910"
 date: "2026-11-20"
 draft: true
-summary: "Houshamadyan's Armenian-language Sassoun collection publishes a song titled “Դարձեալ փայլեց” (“It Shone Again”) in the Alahaydoyan collection."
+summary: "Houshamadyan's Armenian-language Sassoun collection publishes a song titled “Դարձեալ փայլեց” (“It Shone Again”) in the Alahaydoyan collection. The text describes a freedom flag raised over Sassoun, calls for aid to the homeland, names Gurgen, Vahan, Hrayr Tzhokhk and Andranik in the mountains of Dalvorik, describes an order from the Sultan's palace to destroy the fedayi positions, and includes the explicit cry “Ժամանակն է վրեժ լուծել” (“It is time to take revenge”). The closing stanza describes gunfire from Armenian positions and enemy casualties."
 who: "Tashjian Brothers"
 when: "1910"
 where: ""

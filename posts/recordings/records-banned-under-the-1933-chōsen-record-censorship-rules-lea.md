@@ -4,7 +4,7 @@ title: "records banned under the 1933 Chōsen record-censorship rules (lead set)
 slug: "records-banned-under-the-1933-chōsen-record-censorship-rules-lea"
 date: "2026-11-20"
 draft: true
-summary: "from 1933, the Government-General required lyrics and test pressings before sale; stampers were destroyed and issued discs confiscated."
+summary: "from 1933, the Government-General required lyrics and test pressings before sale; stampers were destroyed and issued discs confiscated. Mun Ok-bae's 일제의 노래검열 (Northeast Asian History Foundation, Dec 2025) lists banned titles; also Lee Jun-hee's SNU study (2007). To do: pull 2–3 banned discs with surviving copies (National Gugak Center, Korean Record Archive)."
 who: "records banned under the 1933 Chōsen record-censorship rules (lead set)"
 when: "1933"
 where: "Korea"

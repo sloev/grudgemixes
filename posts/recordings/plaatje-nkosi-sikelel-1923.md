@@ -4,7 +4,7 @@ title: "A hymn recorded by the man who wrote the indictment"
 slug: "plaatje-nkosi-sikelel-1923"
 date: "2026-11-20"
 draft: false
-summary: "A South African activist recorded the hymn that became an anthem of resistance, in London, in 1923."
+summary: "In 1916 Sol Plaatje published Native Life in South Africa, a book-length charge sheet against the Natives' Land Act. In October 1923, in London, he recorded six sides for Zonophone with Sylvia Colenso at the piano. One of them was Enoch Sontonga's Nkosi Sikelel' iAfrika, the first recording of the hymn that became the anthem of the liberation struggle. It lasts barely a minute: a prayer for Africa, cut in the capital of the empire that had just refused his delegation."
 who: "Sol T. Plaatje, with Sylvia Colenso (piano)"
 when: "1923"
 where: "London, UK / South Africa"
@@ -13,12 +13,15 @@ what: "“Nkosi Sikelel' iAfrika”, Zonophone 4168"
 medium: "78 rpm disc"
 tags:
   - "the-account"
-recording_url: "https://commons.wikimedia.org/wiki/Category:Nkosi_Sikelel%27_iAfrika"
+recording_url: "https://upload.wikimedia.org/wikipedia/commons/0/04/%22Nkosi_Sikelel%27_iAfrika%22_sung_by_Sol_T._Plaatje_in_October_1923.mp3"
 urls:
+  - "https://commons.wikimedia.org/wiki/Category:Nkosi_Sikelel%27_iAfrika"
   - "https://www.nts.live/incoming/british-library-sound-archive-south-african-gumboots"
   - "https://jeffreygreen.co.uk/205-sol-plaatje-in-britain-1914-1923/"
   - "https://sahistory.org.za/node/123223"
-images: []
+  - "https://commons.wikimedia.org/wiki/File:Nkosi_Sikelel'_iAfrika.png"
+images:
+  - "media/plaatje-nkosi-sikelel-1923.jpg | Score of Enoch Sontonga's Nkosi Sikelel' iAfrika. Public domain, via Wikimedia Commons"
 ---
 
 In 1916 Sol Plaatje published *Native Life in South Africa*, a book-length charge sheet against the Natives' Land Act. On 16 October 1923, in London, he walked into Zonophone's studio and recorded six sides, with Sylvia Colenso at the piano.

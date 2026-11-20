@@ -4,7 +4,7 @@ title: "Sayyid Darwīsh, “Qum yā Miṣrī” (Odeon; 1919 work, specific disc
 slug: "sayyid-darwīsh-qum-yā-miṣrī-odeon-1919-work-specific-disc-date-u"
 date: "2026-11-20"
 draft: true
-summary: "The work is a strong collective defiance / anticolonial solidarity lead."
+summary: "The work is a strong collective defiance / anticolonial solidarity lead. It is not simply a generic patriotic song: it emerged in the 1919 uprising and uses an imperative call to collective action. The solidarity stanza is particularly important because it can be read as an explicit appeal across religious communities; verify its presence in the actual Odeon issue rather than importing it from a later printed lyric."
 who: "Sayyid Darwīsh"
 when: "1919"
 where: ""

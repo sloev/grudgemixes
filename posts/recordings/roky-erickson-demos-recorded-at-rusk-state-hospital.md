@@ -4,7 +4,7 @@ title: "Roky Erickson, demos recorded at Rusk State Hospital"
 slug: "roky-erickson-demos-recorded-at-rusk-state-hospital"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Rusk State Hospital, Texas, USA; Date(s): c.1969–72; Medium: Reel-to-reel; issued on later…"
+summary: "Where and when: Rusk State Hospital, Texas, USA; Date(s): c.1969–72; Medium: Reel-to-reel; issued on later compilations"
 who: "Roky Erickson"
 when: "1969"
 where: "Rusk State Hospital, Texas, USA"

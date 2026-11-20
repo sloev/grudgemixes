@@ -4,7 +4,7 @@ title: "Mardiros Tashjian, “Dalvorig” (Columbia, 1909)"
 slug: "mardiros-tashjian-dalvorig-columbia-1909"
 date: "2026-11-20"
 draft: true
-summary: "A pre-1909 English-language text witness is Alice Stone Blackwell's Armenian Poems (Boston: Roberts Brothers, 1896), which includes “The Son of Dalvorig,” attributed to Mihran Damadian, pp."
+summary: "A pre-1909 English-language text witness is Alice Stone Blackwell's Armenian Poems (Boston: Roberts Brothers, 1896), which includes “The Son of Dalvorig,” attributed to Mihran Damadian, pp. 135–138. The poem's speaker identifies himself as a free son of Dalvorig, refuses to bow before the Turk, calls Armenian brothers to join him for liberty, rejects foreign domination, and describes armed struggle. In its closing movement, the speaker says that for every blow dealt him, he returns a thousand."
 who: "Mardiros Tashjian"
 when: "1909"
 where: ""

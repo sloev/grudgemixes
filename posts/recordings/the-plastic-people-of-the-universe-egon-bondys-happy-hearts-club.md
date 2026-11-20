@@ -4,7 +4,7 @@ title: "The Plastic People of the Universe, *Egon Bondy's Happy Hearts Club Bann
 slug: "the-plastic-people-of-the-universe-egon-bondys-happy-hearts-club"
 date: "2026-11-20"
 draft: true
-summary: "recorded in secret at Houska Castle, Dec 1974, by a band banned from public performance; released only in France in 1978."
+summary: "recorded in secret at Houska Castle, Dec 1974, by a band banned from public performance; released only in France in 1978. Rights: ⚠ Hlavsa (d. 2001) and Bondy (d. 2007) compositions protected."
 who: "The Plastic People of the Universe"
 when: ""
 where: "Czechoslovakia"

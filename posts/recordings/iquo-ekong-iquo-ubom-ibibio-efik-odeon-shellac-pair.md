@@ -4,7 +4,7 @@ title: "«Iquo Ekong» / «Iquo Ubom» (Ibibio / Efik Odeon shellac pair)"
 slug: "iquo-ekong-iquo-ubom-ibibio-efik-odeon-shellac-pair"
 date: "2026-11-20"
 draft: true
-summary: "GM-NG-001 — «Iquo Ekong» / «Iquo Ubom» (Ibibio / Efik Odeon shellac…"
+summary: "GM-NG-001 — «Iquo Ekong» / «Iquo Ubom» (Ibibio / Efik Odeon shellac pair) Side a: «Iquo Ekong» Side b: «Iquo Ubom»"
 who: "«Iquo Ekong» / «Iquo Ubom» (Ibibio / Efik Odeon shellac pair)"
 when: ""
 where: ""

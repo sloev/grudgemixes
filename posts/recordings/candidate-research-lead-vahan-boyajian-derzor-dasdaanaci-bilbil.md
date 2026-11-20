@@ -4,7 +4,7 @@ title: "Candidate research lead: Vahan Boyajian, “Derzor Dasdaanaci” (Bilbil
 slug: "candidate-research-lead-vahan-boyajian-derzor-dasdaanaci-bilbil"
 date: "2026-11-20"
 draft: true
-summary: "Yıldız identifies “Derzor Dasdaanaci” as a popular song with many versions by different singers."
+summary: "Yıldız identifies “Derzor Dasdaanaci” as a popular song with many versions by different singers. She describes it as narrating the long and painful deportation of Armenians to Deir ez-Zor in Syria, and as a lament that symbolically depicts violence committed around 1915. She interprets the song as a site of memory and “postmemory,” carrying familial and cultural memory across generations and borders."
 who: "Vahan Boyajian"
 when: ""
 where: ""

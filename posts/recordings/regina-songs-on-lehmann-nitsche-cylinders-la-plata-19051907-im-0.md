@@ -4,7 +4,7 @@ title: "Regina, songs on Lehmann-Nitsche cylinders, La Plata, 1905–1907 (IM-05
 slug: "regina-songs-on-lehmann-nitsche-cylinders-la-plata-19051907-im-0"
 date: "2026-11-20"
 draft: true
-summary: "Regina, a Mapuche captive of the \"Conquest of the Desert\", lived as a servant in the household of the scientist who recorded her."
+summary: "Regina, a Mapuche captive of the \"Conquest of the Desert\", lived as a servant in the household of the scientist who recorded her. Hers are among the first recordings of Mapuche song. Recording: Berliner Phonogramm-Archiv, \"Araukaner\" cylinders, VII WS 192; cylinder 2 on BPhA-WA4/5 (2009); audio with Canio Llanquinao & Pozo Menares, Revista Musical Chilena 68 (2014) Why it's here: song recorded by the people who took her land; the voice of the only woman in the corpus. Consent: ⚠ sacred machi songs recorded under coercion. Mapuche community consent is required before any use."
 who: "Regina"
 when: "1905"
 where: "Argentina / Mapuche"

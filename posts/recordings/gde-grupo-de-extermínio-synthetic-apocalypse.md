@@ -4,7 +4,7 @@ title: "G.D.E. (Grupo de Extermínio), Synthetic Apocalypse"
 slug: "gde-grupo-de-extermínio-synthetic-apocalypse"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Underground post-punk/industrial scene, Santa Maria, Rio Grande do Sul, Brazil; Date(s): Recorded May 1996; Medium: Four-track demo cassette; collector…"
+summary: "Where and when: Underground post-punk/industrial scene, Santa Maria, Rio Grande do Sul, Brazil; Date(s): Recorded May 1996; Medium: Four-track demo cassette; collector digitisation"
 who: "G.D.E. (Grupo de Extermínio)"
 when: "1996"
 where: "Underground post-punk/industrial scene, Santa Maria, Rio Grande do Sul, Brazil"

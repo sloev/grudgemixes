@@ -4,7 +4,7 @@ title: "Julian Whiterose (\"J. Resigna\"), \"Iron Duke in the Land\" (Single Ton
 slug: "julian-whiterose-j-resigna-iron-duke-in-the-land-single-tone-cal"
 date: "2026-11-20"
 draft: true
-summary: "among the first calypsos recorded with lyrics, sung in English by the leader of the White Rose Masquerade Band (real name Henry Julian)."
+summary: "among the first calypsos recorded with lyrics, sung in English by the leader of the White Rose Masquerade Band (real name Henry Julian). Recording: Victor matrix G-145, Port of Spain, 11 Sep 1914, issued Victor 67362; also G-147 \"Double Tone Calipso\" (\"Bayonet Charge by the Laws of Iron Duke\"), Victor 67387 Why it's here: calypso is public boast and insult (picong); a street-level, Caribbean form of the sung grudge, pre-1926."
 who: "Julian Whiterose"
 when: "1914"
 where: "Trinidad"

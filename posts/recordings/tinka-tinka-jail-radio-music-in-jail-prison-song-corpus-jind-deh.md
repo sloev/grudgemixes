@@ -4,7 +4,7 @@ title: "Tinka Tinka Jail Radio / “Music in Jail” prison-song corpus: Jind, D
 slug: "tinka-tinka-jail-radio-music-in-jail-prison-song-corpus-jind-deh"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Multiple Indian jails (Haryana, Uttarakhand, Chhattisgarh); Date(s): 2017; 2021–24; Medium: Official digital video/audio streams and prison-radio…"
+summary: "Where and when: Multiple Indian jails (Haryana, Uttarakhand, Chhattisgarh); Date(s): 2017; 2021–24; Medium: Official digital video/audio streams and prison-radio podcasts"
 who: "Tinka Tinka Jail Radio /"
 when: "2017"
 where: "Multiple Indian jails (Haryana, Uttarakhand, Chhattisgarh)"

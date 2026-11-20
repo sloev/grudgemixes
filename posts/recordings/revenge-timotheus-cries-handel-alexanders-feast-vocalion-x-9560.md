@@ -4,7 +4,7 @@ title: "“Revenge! Timotheus Cries” — Handel, *Alexander's Feast* (Vocalion
 slug: "revenge-timotheus-cries-handel-alexanders-feast-vocalion-x-9560"
 date: "2026-11-20"
 draft: true
-summary: "This is a particularly strong example of music represented as an instrument of retaliation."
+summary: "This is a particularly strong example of music represented as an instrument of retaliation. In Handel's Alexander's Feast, the singer Timotheus evokes the Furies and the ghosts of Greeks slain in earlier wars with Persia. His song moves Alexander toward burning Persepolis, framed by the poem as vengeance for Greek dead. The aria is not simply an aggressive title: the libretto explicitly stages a remembered injury, summoned dead, and a retaliatory act. It is a fictionalized ancient-historical narrative mediated through John Dryden's 1697 ode and Newburgh Hamilton's adaptation, not a neutral record of Alexander's actual motives."
 who: "“Revenge! Timotheus Cries” — Handel"
 when: "1924"
 where: ""

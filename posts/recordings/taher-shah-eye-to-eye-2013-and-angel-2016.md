@@ -4,7 +4,7 @@ title: "Taher Shah, \"Eye to Eye\" (2013) and \"Angel\" (2016)"
 slug: "taher-shah-eye-to-eye-2013-and-angel-2016"
 date: "2026-11-20"
 draft: true
-summary: "written off as a joke and mocked on national TV in 2013, he came back in 2016 with \"Angel\"."
+summary: "written off as a joke and mocked on national TV in 2013, he came back in 2016 with \"Angel\". He left Pakistan in December 2016 after death threats. Why it's here: the ridiculed maker who kept going. Frame with care: the threats are not a joke. Rights: ⚠ living artist; participation needed."
 who: "Taher Shah"
 when: "2013"
 where: "Pakistan"

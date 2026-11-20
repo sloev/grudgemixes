@@ -4,7 +4,7 @@ title: "“Drapchi 14” nuns' cassette"
 slug: "drapchi-14-nuns-cassette"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Drapchi Prison, Lhasa; Date(s): June 1993; Medium: Cassette (variant…"
+summary: "Where and when: Drapchi Prison, Lhasa; Date(s): June 1993; Medium: Cassette (variant copies)"
 who: "“Drapchi 14” nuns' cassette"
 when: "1993"
 where: "Drapchi Prison, Lhasa"

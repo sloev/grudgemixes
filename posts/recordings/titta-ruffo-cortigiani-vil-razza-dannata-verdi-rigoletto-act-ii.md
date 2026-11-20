@@ -4,7 +4,7 @@ title: "Titta Ruffo, \"Cortigiani, vil razza dannata\" (Verdi, *Rigoletto*, Act 
 slug: "titta-ruffo-cortigiani-vil-razza-dannata-verdi-rigoletto-act-ii"
 date: "2026-11-20"
 draft: true
-summary: "Rigoletto turns on the courtiers who abducted his daughter: public denunciation before the revenge plan."
+summary: "Rigoletto turns on the courtiers who abducted his daughter: public denunciation before the revenge plan. Recording: Gramophone matrix 2735f, 24 Nov 1908, with La Scala orchestra, cond. Carlo Sabajno (US issue Victor 92066); Ruffo also re-recorded the aria later Why it's here: accusation step of the revenge sequence in Vol. 2."
 who: "Titta Ruffo"
 when: "1908"
 where: ""

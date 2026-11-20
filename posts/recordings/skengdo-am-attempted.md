@@ -4,7 +4,7 @@ title: "The first song a British court punished someone for performing"
 slug: "skengdo-am-attempted"
 date: "2026-11-20"
 draft: false
-summary: "A drill duo were barred by the courts from performing their own music, and performed it anyway."
+summary: "In 2018 London's Metropolitan Police obtained a gang injunction that barred the drill duo Skengdo x AM from performing certain music. That December they performed their track Attempted 1.0 at a concert in Camden, and in January 2019 a court gave them suspended prison sentences, widely described as the first in British history for performing a song. The injunction was lifted in 2021. Whatever you think of the lyrics, it is a modern case of a state treating a song as a weapon."
 who: "Skengdo x AM"
 when: "2018–19"
 where: "London, UK"

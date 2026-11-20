@@ -4,7 +4,7 @@ title: "Caustic Unrest Sao Paulo 1995"
 slug: "caustic-unrest-sao-paulo-1995"
 date: "2026-11-20"
 draft: true
-summary: "Demo-Tapes Brasil's item-level post identifies Caustic's Unrest as a 1995 São Paulo cassette."
+summary: "Demo-Tapes Brasil's item-level post identifies Caustic's Unrest as a 1995 São Paulo cassette. It reports that the recording and mix were made by PB and Caustic in September 1995; the named formation is Jean Grimard (guitar and vocals), Lourenço “Loop B” (machines) and Fabrício (drums). The post supplies an eight-track sequence and a reported duration of 31:21, alongside nine images. It says the audio conversion and image digitisation were supplied by Dalton Silva."
 who: "Caustic Unrest Sao Paulo 1995"
 when: ""
 where: "Underground DIY / industrial-electronic cassette scene, São Paulo, Brazil"

@@ -4,7 +4,7 @@ title: "Jacob Algava, “Hermanos mis queridos” (Gramophone, March 1909)"
 slug: "jacob-algava-hermanos-mis-queridos-gramophone-march-1909"
 date: "2026-11-20"
 draft: true
-summary: "The Hebrew University publication identifies the song as a Judeo-Spanish adaptation / abridgement of Joseph Pinto's “Cante nuevo por la constitución,” published in the Istanbul Judeo-Spanish…"
+summary: "The Hebrew University publication identifies the song as a Judeo-Spanish adaptation / abridgement of Joseph Pinto's “Cante nuevo por la constitución,” published in the Istanbul Judeo-Spanish periodical El Djugueton on 10 November 1908 and sung to the melody of the Turkish song “Yaşasın Hürriyet adalet” (“Long live freedom, justice”). It links the song to the reinstatement of the 1876 Ottoman Constitution in 1908 after the Young Turk revolt."
 who: "Jacob Algava"
 when: "1909"
 where: ""

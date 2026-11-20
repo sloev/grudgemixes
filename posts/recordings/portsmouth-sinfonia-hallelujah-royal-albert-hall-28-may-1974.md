@@ -4,7 +4,7 @@ title: "Portsmouth Sinfonia, *Hallelujah!* (Royal Albert Hall, 28 May 1974)"
 slug: "portsmouth-sinfonia-hallelujah-royal-albert-hall-28-may-1974"
 date: "2026-11-20"
 draft: true
-summary: "Gavin Bryars's 1970 art-school orchestra, open to anyone; trained players had to use instruments they could not play."
+summary: "Gavin Bryars's 1970 art-school orchestra, open to anyone; trained players had to use instruments they could not play. Recording: Live LP produced by Brian Eno Why it's here: Incompetence as method; the polite concert hall made to hear it. Rights / consent: ⚠ Label and performers."
 who: "Portsmouth Sinfonia"
 when: "1974"
 where: "UK"

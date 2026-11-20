@@ -4,7 +4,7 @@ title: "15M movement *cacerolada* recordings, 2011–13"
 slug: "15m-movement-cacerolada-recordings-201113"
 date: "2026-11-20"
 draft: true
-summary: "Modern political pot-banging aimed at the state, the descendant (or reinvention) of the cencerrada."
+summary: "Modern political pot-banging aimed at the state, the descendant (or reinvention) of the cencerrada. Recording: Field recording used to open the self/noise podcast episode \"Rough Music\" (2013); recordist to identify Why it's here: Collective sonic grievance with a public target. Rights / consent: Recordist consent."
 who: "15M movement"
 when: "2011"
 where: "Spain"

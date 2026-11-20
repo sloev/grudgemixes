@@ -4,7 +4,7 @@ title: "Copacabana clandestine cassette compilation (“A FITA”), 17-track Lat
 slug: "copacabana-clandestine-cassette-compilation-a-fita-17-track-lati"
 date: "2026-11-20"
 draft: true
-summary: "IM-043 — The Copacabana clandestine cassette compilation (“A FITA”), Rio de Janeiro,…"
+summary: "IM-043 — The Copacabana clandestine cassette compilation (“A FITA”), Rio de Janeiro, c.1975 Where and when: Concealed compartment in an apartment possibly used as a clandestine opposition safehouse; Copacabana, Rio de Janeiro, Brazil; Date(s): Probably c.1975 (inferred from newest identified track); found 1984; Medium: 50 identical unbranded cassettes reported; one cassette later digitised to CD"
 who: "Copacabana clandestine cassette compilation"
 when: "1975"
 where: "Concealed compartment in an apartment possibly used as a clandestine opposition safehouse"

@@ -4,7 +4,7 @@ title: "Al Craver [Vernon Dalhart], “The Convict and the Rose” (Columbia 150
 slug: "al-craver-vernon-dalhart-the-convict-and-the-rose-columbia-15046"
 date: "2026-11-20"
 draft: true
-summary: "A transcription from a 1928 Ontario text witness gives a first-person prisoner awaiting execution."
+summary: "A transcription from a 1928 Ontario text witness gives a first-person prisoner awaiting execution. The narrator says the judge did not believe his story, the jury imposed punishment, and he maintains his innocence; the rose sent by his sweetheart becomes a token of their shared past and a final keepsake. com/2008/12/08/the-convict-and-the-rose/ ."
 who: "Al Craver [Vernon Dalhart]"
 when: "1925"
 where: ""

@@ -4,7 +4,7 @@ title: "“Dalvorig” / “Dalvorigtsi” — Mihran Damadian; Tashjian Columbi
 slug: "dalvorig-dalvorigtsi-mihran-damadian-tashjian-columbia-recording"
 date: "2026-11-20"
 draft: true
-summary: "The 1962 Armenian National Songs, second edition, includes “Dalvorig” and prints the following English translation (James G."
+summary: "The 1962 Armenian National Songs, second edition, includes “Dalvorig” and prints the following English translation (James G. Mandalian translation, per the volume's introduction): - “Torrents of hail pelted the plain of Khanasor” - “Wreaking revenge, Dashnaktzakan Fedayee” - “The soldiers of Andranik / Are wreaking revenge on the Kurds” - The Mazrig Kurd is described as panic-stricken and being killed by fedayi bullets. - A later stanza states that the Mazrig tribe was wiped out and Khanasor's green was painted red with blood. - Another stanza says the “avenging Armenian brave” does not harm a Kurdish woman's hair."
 who: "“Dalvorig” / “Dalvorigtsi” — Mihran Damadian; Tashjian Columbia recordings"
 when: "1909"
 where: ""

@@ -4,7 +4,7 @@ title: "*Time Control Addiction* by \"D.O.\" (1986 home-taped synth-pop; The Cas
 slug: "time-control-addiction-by-do-1986-home-taped-synth-pop-the-casse"
 date: "2026-11-20"
 draft: true
-summary: "Notes to…"
+summary: "Notes to come."
 who: "*Time Control Addiction* by \"D.O.\" (1986 home-taped synth-pop; The Cassette Archive)"
 when: "1986"
 where: "Found audio"

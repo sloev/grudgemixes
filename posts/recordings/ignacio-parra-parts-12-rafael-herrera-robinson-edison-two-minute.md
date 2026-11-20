@@ -4,7 +4,7 @@ title: "“Ignacio Parra” (parts 1–2), Rafael Herrera Robinson, Edison two-m
 slug: "ignacio-parra-parts-12-rafael-herrera-robinson-edison-two-minute"
 date: "2026-11-20"
 draft: true
-summary: "The Frontera Collection’s 2017 specialist history describes “Ignacio Parra” and “Heraclio Bernal” as early corridos about rebels active in the late 1880s during the Díaz dictatorship."
+summary: "The Frontera Collection’s 2017 specialist history describes “Ignacio Parra” and “Heraclio Bernal” as early corridos about rebels active in the late 1880s during the Díaz dictatorship. It reports that Herrera later re-recorded many early cylinder titles for Victor and Columbia but did not reprise these two rebel ballads; the article relays corrido scholar James Nicolopulos’s interpretation that political pressure and a “seditious undercurrent” explain the omission. This supports a probable defiance/resistance connection and justifies a research lead."
 who: "“Ignacio Parra” (parts 1–2)"
 when: "1904"
 where: ""

@@ -4,7 +4,7 @@ title: "Helen Paul, “Tzain ma Hunchetz” (Columbia E-4661; 1918)"
 slug: "helen-paul-tzain-ma-hunchetz-columbia-e-4661-1918"
 date: "2026-11-20"
 draft: true
-summary: "The Armenian Museum of America identifies the piece as the first known recording of an ode to Armenian revolutionaries from Erzurum, especially the Protectors of the Fatherland (Bashdban Hayrenyats)."
+summary: "The Armenian Museum of America identifies the piece as the first known recording of an ode to Armenian revolutionaries from Erzurum, especially the Protectors of the Fatherland (Bashdban Hayrenyats). It says the composition was written by an unknown author in the late nineteenth century. The museum describes the record as made in April 1918 and notes that the Nishkian Phonograph Shop in Fresno carried the Columbia disc. Why it fits / decision: This is potentially one of the strongest early Armenian-American collective-resistance recordings located so far."
 who: "Helen Paul"
 when: "1918"
 where: ""

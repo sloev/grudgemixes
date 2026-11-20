@@ -4,7 +4,7 @@ title: "Egypt: Dinshaway mawwal / ballad tradition (1906)"
 slug: "egypt-dinshaway-mawwal-ballad-tradition-1906"
 date: "2026-11-20"
 draft: true
-summary: "Ziad Fahmy's study Ordinary Egyptians: Creating the Modern Nation through Popular Culture describes the near-immediate commemoration of the 1906 Dinshaway incident in rural colloquial Egyptian…"
+summary: "Ziad Fahmy's study Ordinary Egyptians: Creating the Modern Nation through Popular Culture describes the near-immediate commemoration of the 1906 Dinshaway incident in rural colloquial Egyptian mawāwīl (singular mawwāl, ballad-like sung narratives). The book reports that these songs circulated widely in the countryside and that many were probably not composed by a single identifiable writer. One mawwāl is attributed to Sheikh Mustafa ʿAjāj. Why it fits / decision: The reported ballad appears to imagine retaliatory humiliation or punishment of the colonial authority as a response to an injury understood as dishonouring."
 who: "Egypt: Dinshaway mawwal / ballad tradition (1906)"
 when: "1906"
 where: ""

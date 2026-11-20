@@ -4,7 +4,7 @@ title: "Zomba Prison Project, I Have No Everything Here"
 slug: "zomba-prison-project-i-have-no-everything-here"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Zomba prison, Malawi; Date(s): 2015; Medium:…"
+summary: "Where and when: Zomba prison, Malawi; Date(s): 2015; Medium: Commercial"
 who: "Zomba Prison Project"
 when: "2015"
 where: "Zomba prison, Malawi"

@@ -4,7 +4,7 @@ title: "Dr Maurice Dupont, Sainte-Anne hospital, phonograph recordings of patien
 slug: "dr-maurice-dupont-sainte-anne-hospital-phonograph-recordings-of"
 date: "2026-11-20"
 draft: true
-summary: "Notes to…"
+summary: "Notes to come."
 who: "Dr Maurice Dupont"
 when: "1889"
 where: "France"

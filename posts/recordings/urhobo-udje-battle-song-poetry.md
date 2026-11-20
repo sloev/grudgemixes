@@ -4,7 +4,7 @@ title: "Urhobo *udje* battle song-poetry"
 slug: "urhobo-udje-battle-song-poetry"
 date: "2026-11-20"
 draft: true
-summary: "Notes to…"
+summary: "Notes to come."
 who: "Urhobo"
 when: ""
 where: "Nigeria"

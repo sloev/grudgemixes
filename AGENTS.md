@@ -15,7 +15,7 @@ title: "Headline, written like a sentence"
 slug: "same-as-file-name"
 date: "YYYY-MM-DD"               # date the post was written or last substantially rewritten
 draft: true                      # true until the post is finished
-summary: "One sentence (max 240 characters) shown in post lists"
+summary: "3–5 sentences (400–650 characters, max 900) shown in post lists: the story in brief, in plain words"
 who: "Performer(s); composer/author/recordist where relevant"
 when: "1919"                     # year, date or range of the recording
 where: "City, Country"
@@ -28,7 +28,7 @@ recording_url: "https://..."     # the best public place to hear it ("" if none)
 urls:
   - "https://..."                # sources, archive records, buy links, articles
 images:
-  - "media/<slug>.jpg | Credit, licence"   # or "https://... | Credit, licence"; first one is the cover. Leave [] for a generated cover
+  - "media/<slug>.jpg | Caption saying what it shows. Author, licence, via source"   # first one is shown; [] = no image (nothing is shown)
 ---
 
 The story in Markdown: 80–200 words, your own words.
@@ -52,9 +52,32 @@ images: []
 Liner notes: 100–250 words about what the tracks tell, in order.
 ```
 
-## How posts appear in lists
+## How posts appear on the site
 
-Lists show each post as a row: headline, a recording indicator (*Playable here* when `recording_url` can be embedded, *Recording link* when it can only be linked), pills, the `summary`, and *Read more*. A thumbnail appears only if `images` has an entry. The pills come from `medium`, the period (decade worked out from `when`), `country`, and `tags`. Readers filter by clicking a pill, so fill these fields consistently.
+- **Front page:** every finished recording, newest first, on one continuously growing page (no pagination, ever). Each row shows the headline, a recording indicator (*Playable here* when `recording_url` can be embedded, *Recording link* when it can only be linked), pills, the `summary` and *Read more*, plus a thumbnail only if the post has an image.
+- **Pills:** they come from `medium`, the period (the decade worked out from `when`), `country` and `tags`. Readers filter by clicking a pill, so fill these fields consistently.
+- **Mixtapes:** they have their own page under the *Mixtapes* menu item.
+- **Post pages:** they show an image only if `images` has an entry. Nothing is generated in its place.
+
+## Images: find one for every post
+
+A good picture makes a post. Finding one is a priority whenever you work on a post, and the picture should be close to the story:
+- the disc label, sleeve or cassette;
+- the instrument;
+- the building, street or place where it happened;
+- a period print, newspaper drawing or score;
+- a patent drawing or poster.
+
+A generic stand-in (any cassette, any record) is a last resort.
+
+Rules:
+- Use only public-domain or freely licensed images (Wikimedia Commons is the main source).
+- No photographs of people, and no street scenes where people dominate. Drawings, prints and paintings are fine.
+- Save a copy as `media/<slug>.jpg`, at most 1200 px on the long side. Commons serves `…/thumb/…/1280px-<name>` when the full file is refused.
+- Write a caption that says what the picture shows and how it connects to the story, then the author, licence and source.
+- Add the image's Commons file page to `urls`.
+
+A public-domain recording on Commons (`upload.wikimedia.org/…mp3` or `.ogg`) can be used as `recording_url` and plays on the page.
 
 ## Drafts and finishing
 

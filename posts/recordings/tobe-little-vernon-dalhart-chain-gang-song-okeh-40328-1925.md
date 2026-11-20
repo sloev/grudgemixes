@@ -4,7 +4,7 @@ title: "Tobe Little [Vernon Dalhart], “Chain Gang Song” (Okeh 40328, 1925)"
 slug: "tobe-little-vernon-dalhart-chain-gang-song-okeh-40328-1925"
 date: "2026-11-20"
 draft: true
-summary: "The title and contemporary catalogue place the song in the penal-labour / chain-gang subject area."
+summary: "The title and contemporary catalogue place the song in the penal-labour / chain-gang subject area. That makes it worth screening for a representation of punishment, coercion, forced labour, or grievance about incarceration. However, neither title nor catalogue description proves that the singer protests the system, complains of wrongful punishment, or expresses retaliation. The lyric text has not yet been located or linked securely to the Okeh master."
 who: "Tobe Little [Vernon Dalhart]"
 when: "1925"
 where: ""

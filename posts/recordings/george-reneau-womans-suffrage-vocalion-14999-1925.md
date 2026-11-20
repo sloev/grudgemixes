@@ -4,7 +4,7 @@ title: "George Reneau, “Woman's Suffrage” (Vocalion 14999, 1925)"
 slug: "george-reneau-womans-suffrage-vocalion-14999-1925"
 date: "2026-11-20"
 draft: true
-summary: "The title identifies the political issue, not the singer's stance."
+summary: "The title identifies the political issue, not the singer's stance. The performance could be advocacy, ridicule, anti-suffrage satire, comic role-play, or something more ambivalent. Do not infer opposition from the performer, genre, title or the era's gender politics. Do not classify this as protest, grievance or counter-protest until the actual lyrics and performance are inspected."
 who: "George Reneau"
 when: "1925"
 where: ""

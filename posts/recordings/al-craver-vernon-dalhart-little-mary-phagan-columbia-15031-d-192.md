@@ -4,7 +4,7 @@ title: "Al Craver [Vernon Dalhart] — “Little Mary Phagan” (Columbia 15031-
 slug: "al-craver-vernon-dalhart-little-mary-phagan-columbia-15031-d-192"
 date: "2026-11-20"
 draft: true
-summary: "Mary Phagan, age thirteen, was murdered in Atlanta in 1913."
+summary: "Mary Phagan, age thirteen, was murdered in Atlanta in 1913. Leo Frank, superintendent at the pencil factory where she worked, was convicted in a highly controversial trial and sentenced to death. Governor John M. Slaton commuted the sentence; Frank was kidnapped from prison and lynched in August 1915."
 who: "Al Craver [Vernon Dalhart]"
 when: "1925"
 where: ""

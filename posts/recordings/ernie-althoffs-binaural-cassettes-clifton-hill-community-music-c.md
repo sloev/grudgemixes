@@ -4,7 +4,7 @@ title: "Ernie Althoff's binaural cassettes, Clifton Hill Community Music Centre"
 slug: "ernie-althoffs-binaural-cassettes-clifton-hill-community-music-c"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Melbourne, Australia; Date(s): 1976–83; Medium:…"
+summary: "Where and when: Melbourne, Australia; Date(s): 1976–83; Medium: Cassette"
 who: "Ernie Althoff's binaural cassettes"
 when: "1976"
 where: "Melbourne, Australia"

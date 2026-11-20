@@ -4,7 +4,7 @@ title: "Choir of the Uzuakoli Leprosy Colony, Harcourt Whyte compositions"
 slug: "choir-of-the-uzuakoli-leprosy-colony-harcourt-whyte-compositions"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Uzuakoli, Abia State, Nigeria; Date(s): After 1977 per one source; LPs from 1974–75 not yet linked; Medium:…"
+summary: "Where and when: Uzuakoli, Abia State, Nigeria; Date(s): After 1977 per one source; LPs from 1974–75 not yet linked; Medium: Vinyl"
 who: "Choir of the Uzuakoli Leprosy Colony"
 when: "1977"
 where: "Uzuakoli, Abia State, Nigeria"

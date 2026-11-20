@@ -4,7 +4,7 @@ title: "Julius Sutton, “Single Girl” (Gordon cylinder A79, Item NC117; 28 Oc
 slug: "julius-sutton-single-girl-gordon-cylinder-a79-item-nc117-28-octo"
 date: "2026-11-20"
 draft: true
-summary: "The recorded text opens by warning young women against marriage."
+summary: "The recorded text opens by warning young women against marriage. It contrasts the singer's former freedom and decent clothing with the labour and deprivation of married life, then describes a husband returning with a bottle and wishing she were dead, followed by children crying for food. The singer repeatedly wishes she were single again. Why it fits / decision: Add as GM-US-018, B — probable core candidate. The exact recording and pre-cutoff fixation date are directly documented, and the text supplies a clear grievance/defiance mechanism."
 who: "Julius Sutton"
 when: "1925"
 where: ""

@@ -4,7 +4,7 @@ title: "Upheaval: “Paradise Lost” / “Now That You're Gone” 45 (1974-08-2
 slug: "upheaval-paradise-lost-now-that-youre-gone-45-1974-08-26-peoples"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Wisconsin State Prison, Waupun; Date(s): 1974–75; Medium: 45; ½″ open-reel…"
+summary: "Where and when: Wisconsin State Prison, Waupun; Date(s): 1974–75; Medium: 45; ½″ open-reel video"
 who: "Upheaval"
 when: "1974"
 where: "Wisconsin State Prison, Waupun"

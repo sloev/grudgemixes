@@ -4,7 +4,7 @@ title: "Riley Puckett, “The Boston Burglar” (Columbia 15050-D, 1925)"
 slug: "riley-puckett-the-boston-burglar-columbia-15050-d-1925"
 date: "2026-11-20"
 draft: true
-summary: "“The Boston Burglar” belongs to a broadside-derived family related to “Botany Bay.” The narrative commonly follows a young man who turns to crime, is caught and sentenced, and warns listeners against lawbreaking."
+summary: "” The narrative commonly follows a young man who turns to crime, is caught and sentenced, and warns listeners against lawbreaking. ie/localstudies/music-and-literature/music/collections/traditional-music-sessions-from-clare-live/the-carroll-mackenzie-music-collection/singers-and-songs-of-county-clare-from-the-carroll-mackenzie-collection/songs-of-clare-the-boston-burglar-sung-by-pat-macnamara/ ."
 who: "Riley Puckett"
 when: "1925"
 where: ""

@@ -4,7 +4,7 @@ title: "David Boder, “Songs recorded in Henonville DP camp” (USHMM RG-91.201
 slug: "david-boder-songs-recorded-in-henonville-dp-camp-ushmm-rg-912015"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Hénonville DP centre, France; Date(s): 1946; Medium:…"
+summary: "Where and when: Hénonville DP centre, France; Date(s): 1946; Medium: Wire"
 who: "David Boder"
 when: "2015"
 where: "Hénonville DP centre, France"

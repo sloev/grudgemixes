@@ -4,7 +4,7 @@ title: "Liberation, Massachusetts prison band, c.1981"
 slug: "liberation-massachusetts-prison-band-c1981"
 date: "2026-11-20"
 draft: true
-summary: "A particularly strong small-web discovery: Under the Radar Recording's archive page “Liberation” publishes five audio mixes and a first-person production account."
+summary: "A particularly strong small-web discovery: Under the Radar Recording's archive page “Liberation” publishes five audio mixes and a first-person production account. The author says the session took place at “Massachusetts Correction Facilities in Norfolk, MA” around 1981; band was four incarcerated people (bass, drums, guitar, lead singer; all sang backing vocals); Andy Pratt produced."
 who: "Liberation"
 when: "1981"
 where: "Massachusetts prison, Norfolk per the post (the site index says “Shirley?”)"

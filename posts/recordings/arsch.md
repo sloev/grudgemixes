@@ -4,7 +4,7 @@ title: "ARSCH"
 slug: "arsch"
 date: "2026-11-20"
 draft: true
-summary: "A commune taping…"
+summary: "A commune taping itself."
 who: "ARSCH"
 when: ""
 where: ""

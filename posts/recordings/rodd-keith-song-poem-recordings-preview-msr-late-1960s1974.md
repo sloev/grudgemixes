@@ -4,7 +4,7 @@ title: "Rodd Keith, song-poem recordings (Preview / MSR, late 1960s–1974)"
 slug: "rodd-keith-song-poem-recordings-preview-msr-late-1960s1974"
 date: "2026-11-20"
 draft: true
-summary: "The best-known song-poem musician, setting hundreds of strangers' lyrics."
+summary: "The best-known song-poem musician, setting hundreds of strangers' lyrics. g. \"I Died Today\" (compilation of the same name) Why it's here: Craft in service of unwanted lyrics. Rights / consent: ⚠ Estate."
 who: "Rodd Keith"
 when: "1974"
 where: "US"

@@ -4,7 +4,7 @@ title: "Carville patient cantatas, cassettes"
 slug: "carville-patient-cantatas-cassettes"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: National Hansen's Disease Center, Carville, Louisiana; Date(s): Undated; one dated 1981-01-01; Medium: Cassette (Box 48, series 11-2-8-4, items…"
+summary: "Where and when: National Hansen's Disease Center, Carville, Louisiana; Date(s): Undated; one dated 1981-01-01; Medium: Cassette (Box 48, series 11-2-8-4, items 5–8) Why it's here: Catalogued patient performances; no public audio; specialist archive"
 who: "Carville patient cantatas"
 when: "1981"
 where: "National Hansen's Disease Center, Carville, Louisiana"

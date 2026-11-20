@@ -4,7 +4,7 @@ title: "Ma Rainey, \"Cell Bound Blues\", 1924"
 slug: "ma-rainey-cell-bound-blues-1924"
 date: "2026-11-20"
 draft: true
-summary: "sung in the voice of a woman jailed after a killing; the accused answers back."
+summary: "sung in the voice of a woman jailed after a killing; the accused answers back. Recording: Paramount 12257-A, New York, 16 Oct 1924; composer Ma Rainey (d."
 who: "Ma Rainey"
 when: "1924"
 where: "USA"

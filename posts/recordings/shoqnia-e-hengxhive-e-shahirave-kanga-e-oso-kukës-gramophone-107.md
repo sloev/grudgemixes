@@ -4,7 +4,7 @@ title: "Shoqnia e hengxhive e shahirave, «Kanga e Oso Kukës» (Gramophone 1077
 slug: "shoqnia-e-hengxhive-e-shahirave-kanga-e-oso-kukës-gramophone-107"
 date: "2026-11-20"
 draft: true
-summary: "A 2023 Albanian-language cultural article published by the Albanian Ministry of Defence describes a song about Oso Kuka, attributing its composition to Zenel Maha and dating its creation to the time…"
+summary: "A 2023 Albanian-language cultural article published by the Albanian Ministry of Defence describes a song about Oso Kuka, attributing its composition to Zenel Maha and dating its creation to the time of the 1862 Vranina battle. It says the song comprised 22 stanzas and was first performed by a Shkodër aheng ensemble in a local coffeehouse. The account presents Oso Kuka's stand against Montenegrin forces as a narrative of resistance and refusal to surrender. A scholarly study of Gjergj Fishta's Lahuta e Malcis independently situates the five-canto Oso Kuka cycle in 1862 and identifies it as a central episode of the Albanian national epic."
 who: "Shoqnia e hengxhive e shahirave"
 when: "1908"
 where: ""

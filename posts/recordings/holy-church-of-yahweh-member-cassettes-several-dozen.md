@@ -4,7 +4,7 @@ title: "Holy Church of Yahweh member cassettes (several dozen)"
 slug: "holy-church-of-yahweh-member-cassettes-several-dozen"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Quezon City, Philippines; Date(s): 1978–c.1991; Medium:…"
+summary: "Where and when: Quezon City, Philippines; Date(s): 1978–c.1991; Medium: Cassette"
 who: "Holy Church of Yahweh member cassettes (several dozen)"
 when: "1978"
 where: "Quezon City, Philippines"

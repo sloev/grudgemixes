@@ -4,7 +4,7 @@ title: "\"James Hanson\", *War of the Worlds* reading with organ bleeps (Eclecti
 slug: "james-hanson-war-of-the-worlds-reading-with-organ-bleeps-eclecti"
 date: "2026-11-20"
 draft: true
-summary: "a young person reads The War of the Worlds into the mic, makes noises and plays electronic bleeps on a primitive organ."
+summary: "a young person reads The War of the Worlds into the mic, makes noises and plays electronic bleeps on a primitive organ. A one-person radio play. 1978–79. Why it's here: weird and wonderful home invention; found audio that is not speech-only. Rights / consent: ⚠ a named person, probably a minor at the time: trace and get consent before use. Wells is public domain."
 who: "\"James Hanson\""
 when: "1987"
 where: "UK"

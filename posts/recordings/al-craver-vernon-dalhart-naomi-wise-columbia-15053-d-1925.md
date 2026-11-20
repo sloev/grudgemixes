@@ -4,7 +4,7 @@ title: "Al Craver [Vernon Dalhart], “Naomi Wise” (Columbia 15053-D, 1925)"
 slug: "al-craver-vernon-dalhart-naomi-wise-columbia-15053-d-1925"
 date: "2026-11-20"
 draft: true
-summary: "The Naomi Wise ballad tradition concerns the murder of a young woman by a man who had promised marriage."
+summary: "The Naomi Wise ballad tradition concerns the murder of a young woman by a man who had promised marriage. Delia Dattilo traces the story's nineteenth-century printed and oral forms, notes the historical case's uncertain details, and distinguishes versions that do and do not include the killer's capture, confession or punishment. The article identifies the 1925 Columbia 15053-D recording as a Carson Robison song related to West Virginia oral culture, with a tune and lyrics different from the older Craven-derived “Song of Naomi Wise” text."
 who: "Al Craver [Vernon Dalhart]"
 when: "1925"
 where: ""

@@ -4,7 +4,7 @@ title: "The Jonestown Express, 14 cassettes / 91 tracks; Peoples Temple choir He
 slug: "the-jonestown-express-14-cassettes-91-tracks-peoples-temple-choi"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Jonestown, Guyana; Peoples Temple; Date(s): 1973, 1978; Medium: Cassette;…"
+summary: "Where and when: Jonestown, Guyana; Peoples Temple; Date(s): 1973, 1978; Medium: Cassette; LP"
 who: "The Jonestown Express"
 when: "1973"
 where: "Jonestown, Guyana"

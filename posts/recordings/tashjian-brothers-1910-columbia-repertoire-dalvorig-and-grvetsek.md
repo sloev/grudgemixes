@@ -4,7 +4,7 @@ title: "Tashjian Brothers 1910 Columbia repertoire: Dalvorig and Grvetsek Dgherk
 slug: "tashjian-brothers-1910-columbia-repertoire-dalvorig-and-grvetsek"
 date: "2026-11-20"
 draft: true
-summary: "Houshamadyan's account of the Capuchin college in Mezire (Mamuret-ul-Aziz/Harput region) says that after the 1908 Ottoman constitutional proclamation, the college orchestra played Armenian patriotic…"
+summary: "” This establishes that both titles circulated as patriotic repertoire in an Armenian institutional/public setting in the Harput region. It does not establish that the Tashjian recording derives from that exact local performance tradition, nor does it supply lyrics or authorship. Why it fits / decision: The museum characterizes the 1910 repertoire broadly as patriotic songs, odes to fedayi/freedom fighters and songs of loss. That does not automatically make any title revenge, retaliation or grievance testimony."
 who: "Tashjian Brothers 1910 Columbia repertoire: Dalvorig and Grvetsek Dgherk"
 when: "1910"
 where: ""

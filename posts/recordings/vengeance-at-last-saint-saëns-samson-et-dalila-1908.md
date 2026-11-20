@@ -4,7 +4,7 @@ title: "“Vengeance at Last” — Saint-Saëns, *Samson et Dalila* (1908)"
 slug: "vengeance-at-last-saint-saëns-samson-et-dalila-1908"
 date: "2026-11-20"
 draft: true
-summary: "This is a strong early recording of an explicit revenge aria."
+summary: "This is a strong early recording of an explicit revenge aria. Victor issued “Vengeance at Last” from Samson and Delilah, with baritone Emilio de Gogorza and contralto Louise Homer, accompanied by orchestra. The aria's original French incipit is “À moi l'honneur de la vengeance” (“The honour of vengeance is mine”); a contemporary Victor catalogue advertised the selection in English, so the actual recorded text should be checked against the digitized sound rather than inferred from the French libretto."
 who: "“Vengeance at Last” — Saint-Saëns"
 when: "1908"
 where: ""

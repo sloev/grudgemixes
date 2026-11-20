@@ -4,7 +4,7 @@ title: "María García, “La noche de Reyes” (Asturias; recorded 19 January 1
 slug: "maría-garcía-la-noche-de-reyes-asturias-recorded-19-january-1939"
 date: "2026-11-20"
 draft: true
-summary: "The documented plot is a killing in response to an alleged sexual betrayal."
+summary: "The documented plot is a killing in response to an alleged sexual betrayal. Before classifying the work as revenge, distinguish: - the father's narrated motive; - the child's position as listener; - the ballad's narrative stance; - the performer's own stance, which is not established by the catalogue. Proposed role: domestic violence, accusation and retaliatory killing in an Asturian ballad Why it fits / decision: A strong, exact, publicly catalogued revenge-ballad recording, but not eligible for the pre-1926 core. Its value is as a post-cutoff comparison and as a pointer toward earlier Iberian ballad witnesses."
 who: "María García"
 when: "1939"
 where: ""

@@ -4,7 +4,7 @@ title: "Kolkata theatre recording lead — “Khune Nahak: Gana Gana Gana” (19
 slug: "kolkata-theatre-recording-lead-khune-nahak-gana-gana-gana-1902"
 date: "2026-11-20"
 draft: true
-summary: "A significant contextual match has now been found: Khun-e-Nahaq (also rendered Khun-e-nahaq, Khoon-e-Nahaq, Khune Nahak) is identified in scholarship as an Urdu adaptation of Hamlet by Munshi Mehdi…"
+summary: "A significant contextual match has now been found: Khun-e-Nahaq (also rendered Khun-e-nahaq, Khoon-e-Nahaq, Khune Nahak) is identified in scholarship as an Urdu adaptation of Hamlet by Munshi Mehdi Hasan Ahsan, staged by the Parsi Alfred Company in 1898. Kathryn Hansen's Stages of Life appendix identifies Ahsan/Mehdi Hasan as the author of Khun-e Nahaq (based on Hamlet); research on Shakespeare reception in India likewise identifies the 1898 Urdu Hamlet adaptation and notes that it was transformed into a musical. This makes revenge a plausible dramatic frame for the play, not yet a demonstrated lyric mechanism in the recorded selection."
 who: "Kolkata theatre recording lead"
 when: "1902"
 where: ""

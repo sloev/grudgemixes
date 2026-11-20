@@ -4,7 +4,7 @@ title: "Valentín Mancera corrido family (Victor 97040 / Victor 72590-A, 1905–
 slug: "valentín-mancera-corrido-family-victor-97040-victor-72590-a-1905"
 date: "2026-11-20"
 draft: true
-summary: "The printed corrido family tells of Valentín Mancera, a Guanajuato bandit whose lover and her sister betray him for money, leading to capture and execution."
+summary: "The printed corrido family tells of Valentín Mancera, a Guanajuato bandit whose lover and her sister betray him for money, leading to capture and execution. The 2016 analysis treats the song as an accusatory, didactic narrative about betrayal and punishment. That is within the project's grievance/punishment remit. The link from that narrative to the exact wording of each early recording remains incomplete, so this stays at C level."
 who: "Valentín Mancera corrido family (Victor 97040 / Victor 72590-A"
 when: "1905"
 where: ""

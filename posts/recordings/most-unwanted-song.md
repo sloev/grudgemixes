@@ -4,7 +4,7 @@ title: "The song a poll said nobody wants"
 slug: "most-unwanted-song"
 date: "2026-11-20"
 draft: false
-summary: "A song built from what 500 people said they least wanted to hear in music."
+summary: "In 1997 the artists Komar and Melamid and the composer Dave Soldier asked about 500 visitors to the Dia Center's website what they least wanted to hear in music. The answers included bagpipes, accordion, opera, rap, tuba, drum machines, jingles and children's voices. They put all of it into one 22-minute piece, complete with a children's choir urging you to shop at Walmart. It is a song engineered by survey to be unbearable, and it is a lot of fun."
 who: "Komar & Melamid, Dave Soldier; lyrics Nina Mankin"
 when: "1997"
 where: "New York, USA"
@@ -16,7 +16,9 @@ tags:
 recording_url: "https://ubu.punctumbooks.com/sound/komar.html"
 urls:
   - "https://en.wikipedia.org/wiki/The_People%27s_Choice_Music"
-images: []
+  - "https://commons.wikimedia.org/wiki/File:Dudelsack,_violin_&_accordion,_Puhoi_Heritage_Museum.jpg"
+images:
+  - "media/most-unwanted-song.jpg | Bagpipe and accordion, two of the most unwanted sounds. Photo: Bjankuloski06, CC BY 4.0, via Wikimedia Commons"
 ---
 
 The artists Komar and Melamid and the composer Dave Soldier asked about 500 visitors to the Dia Center's website what they least wanted to hear in music. The answers included bagpipes, accordion, cowboy music, opera, rap, tuba, drum machines, advertising jingles and children's voices.

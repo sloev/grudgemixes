@@ -4,7 +4,7 @@ title: "Anders Enevig tapes (Dansk Folkemindesamling), incl. Agnes Sambleben bal
 slug: "anders-enevig-tapes-dansk-folkemindesamling-incl-agnes-sambleben"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Copenhagen and Danish itinerant communities; Date(s): 1958–83; Medium:…"
+summary: "Where and when: Copenhagen and Danish itinerant communities; Date(s): 1958–83; Medium: Tape"
 who: "Anders Enevig tapes (Dansk Folkemindesamling)"
 when: "1959"
 where: "Copenhagen and Danish itinerant communities"

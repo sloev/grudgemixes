@@ -4,7 +4,7 @@ title: "Zen Bakirkoy 1998"
 slug: "zen-bakirkoy-1998"
 date: "2026-11-20"
 draft: true
-summary: "ZeN's Bakırköy Akıl Hastanesi'nde is a seven-track live album, with a 1999 cassette/CD release and a 2023 double-LP reissue."
+summary: "ZeN's Bakırköy Akıl Hastanesi'nde is a seven-track live album, with a 1999 cassette/CD release and a 2023 double-LP reissue. The 1998 event took place in the Mazhar Osman Hall of Bakırköy Psychiatric Hospital, Istanbul. The specialist Guts of Darkness discography gives the date and time as 23 June 1998, 14:30, and lists a six-person lineup: Levent Akman, Murat Ertel, Emre Onel, Fahreddin Fahri Aykut, Merih Nafi Öztaylan and William Macbeth. Its seven-track listing totals 54:22."
 who: "Zen Bakirkoy 1998"
 when: ""
 where: "Visiting underground improv band at Bakırköy Psychiatric Hospital, Istanbul, Türkiye"

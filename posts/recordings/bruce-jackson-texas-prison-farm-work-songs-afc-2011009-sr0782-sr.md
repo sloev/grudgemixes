@@ -4,7 +4,7 @@ title: "Bruce Jackson, Texas prison-farm work songs (AFC 2011/009 SR0782, SR1040
 slug: "bruce-jackson-texas-prison-farm-work-songs-afc-2011009-sr0782-sr"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Ellis, Wayne, Ramsey and Retrieve farms; Huntsville; Date(s): 1964–66; Medium:…"
+summary: "Where and when: Ellis, Wayne, Ramsey and Retrieve farms; Huntsville; Date(s): 1964–66; Medium: Reel-to-reel"
 who: "Bruce Jackson"
 when: "2011"
 where: "Ellis, Wayne, Ramsey and Retrieve farms"

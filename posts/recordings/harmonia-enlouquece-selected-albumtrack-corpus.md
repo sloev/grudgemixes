@@ -4,7 +4,7 @@ title: "Harmonia Enlouquece, selected album/track corpus"
 slug: "harmonia-enlouquece-selected-albumtrack-corpus"
 date: "2026-11-20"
 draft: true
-summary: "IM-039 — Harmonia Enlouquece: fifth-album item-level reconciliation…"
+summary: "IM-039 — Harmonia Enlouquece: fifth-album item-level reconciliation (2026-11-18) Where and when: Centro Psiquiátrico Rio de Janeiro (CPRJ), Rio de Janeiro, Brazil; Date(s): 2001 onward; fifth album reported launched 2026-08-15; platform metadata 2026-07-05; Medium: CD / digital Why it's here: Brazilian mixed user/professional group with a broad five-album catalogue; use as context rather than an obscurity claim."
 who: "Harmonia Enlouquece"
 when: "2001"
 where: "Centro Psiquiátrico Rio de Janeiro (CPRJ), Rio de Janeiro, Brazil"

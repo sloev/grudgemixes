@@ -4,7 +4,7 @@ title: "Unknown Bedouin artists, dabke cassette (1980s)"
 slug: "unknown-bedouin-artists-dabke-cassette-1980s"
 date: "2026-11-20"
 draft: true
-summary: "Recording: a 1980s Palestinian Bedouin dabke cassette, artists unknown, played on WFMU Bodega Pop (Gary Sullivan), 30 Aug 2023."
+summary: "Recording: a 1980s Palestinian Bedouin dabke cassette, artists unknown, played on WFMU Bodega Pop (Gary Sullivan), 30 Aug 2023. Why it's here: Arab-world found tape; a wedding-music cassette with no names, crossing borders in shop bins. Rights / consent: ⚠ trace the artists via the tape's label and stamp; Gary Sullivan, Moroccan Tape Stash."
 who: "Unknown Bedouin artists"
 when: "2023"
 where: "Palestine / diaspora"

@@ -4,7 +4,7 @@ title: "Mardiros Der Sarkis Tashjian, “Hairenikt Mortsir” (Columbia E531/408
 slug: "mardiros-der-sarkis-tashjian-hairenikt-mortsir-columbia-e5314084"
 date: "2026-11-20"
 draft: true
-summary: "The song stages a confrontation between the emigrant and an unnamed “foreigner” who urges abandonment of the homeland as barren and ruined."
+summary: "The song stages a confrontation between the emigrant and an unnamed “foreigner” who urges abandonment of the homeland as barren and ruined. The singer's answer is emphatically defiant: he will continue to love and remember Armenia and Cilicia. This makes the recording a strong example of diasporic grievance and resistance to assimilation, although it is not a direct account of a single retaliatory act or a fully documented protest against a named policy."
 who: "Mardiros Der Sarkis Tashjian"
 when: "1909"
 where: ""

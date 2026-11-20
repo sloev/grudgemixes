@@ -4,7 +4,7 @@ title: "Ford and Ford — “Skeeg-A-Lee Blues” (Paramount 12244-A, 1924)"
 slug: "ford-and-ford-skeeg-a-lee-blues-paramount-12244-a-1924"
 date: "2026-11-20"
 draft: true
-summary: "The 2023 Social History of American Music chapter calls the Ford and Ford recording the first vocal version of Stagger Lee."
+summary: "The 2023 Social History of American Music chapter calls the Ford and Ford recording the first vocal version of Stagger Lee. Patrick Blackman's 2013 Sing Out! Stagolee compendium explicitly disputes the connection: he includes the recording among early examples but says the Ford and Ford track is hard to connect to the Stagolee narrative. The compendium identifies Ma Rainey's late-1925 recording, issued in 1926, as the first version with clearly recognizable Stagolee lines. This is a real scholarly/editorial disagreement, not a resolved lyric match. No authenticated lyric sheet or transcription tied to matrix 1899-2 was located."
 who: "Ford and Ford"
 when: "1924"
 where: ""

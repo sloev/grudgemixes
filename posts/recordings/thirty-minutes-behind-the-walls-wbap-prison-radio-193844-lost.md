@@ -4,7 +4,7 @@ title: "*Thirty Minutes Behind the Walls*, WBAP prison radio, 1938–44 — lost
 slug: "thirty-minutes-behind-the-walls-wbap-prison-radio-193844-lost"
 date: "2026-11-20"
 draft: true
-summary: "Notes to…"
+summary: "Notes to come."
 who: "*Thirty Minutes Behind the Walls*"
 when: "1938"
 where: "USA (Texas)"

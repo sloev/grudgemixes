@@ -4,7 +4,7 @@ title: "(lead) — Rabindranath Tagore, “Bande Mataram” (H. Bose cylinder / 
 slug: "lead-rabindranath-tagore-bande-mataram-h-bose-cylinder-pathé-h-b"
 date: "2026-11-20"
 draft: true
-summary: "“Bande Mataram” became a major song of the Swadeshi movement and resistance to the 1905 partition of Bengal."
+summary: "“Bande Mataram” became a major song of the Swadeshi movement and resistance to the 1905 partition of Bengal. Its circulation was entangled with political meetings, anti-colonial mobilisation, police searches and destruction/confiscation of nationalist recording material. The gramophone/cylinder was not simply a neutral imported technology: local entrepreneurs and activists used it to circulate political sound."
 who: "(lead) — Rabindranath Tagore"
 when: "1908"
 where: ""

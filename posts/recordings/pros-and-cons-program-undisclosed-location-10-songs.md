@@ -4,7 +4,7 @@ title: "Pros and Cons Program, Undisclosed Location (10 songs)"
 slug: "pros-and-cons-program-undisclosed-location-10-songs"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Grand Valley Institution for Women, Kitchener, Ontario; Date(s): 2017–18; Medium:…"
+summary: "Where and when: Grand Valley Institution for Women, Kitchener, Ontario; Date(s): 2017–18; Medium: Digital"
 who: "Pros and Cons Program"
 when: "2017"
 where: "Grand Valley Institution for Women, Kitchener, Ontario"

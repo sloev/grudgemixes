@@ -4,7 +4,7 @@ title: "ARSCH, ARSCH"
 slug: "arsch-arsch"
 date: "2026-11-20"
 draft: true
-summary: "The artist's Bandcamp page identifies an 18-track ARSCH album released on 1 December 2020."
+summary: "The artist's Bandcamp page identifies an 18-track ARSCH album released on 1 December 2020. It offers a limited cassette edition and digital album. The cassette uses professionally dubbed Type-I C-44 tapes, is hand-numbered, and has a different arrangement/mix from the digital edition. com/album/arsch Where and when: Commune and barn studio, Bitsch, Valais, Switzerland; Date(s): Released Dec 2020 from earlier reels; Medium: Cassette / digital Why it's here: Self-organised commune and barn-studio cassette/digital release; DIY communal life rather than a penal or medical institution."
 who: "ARSCH"
 when: "2020"
 where: "Commune and barn studio, Bitsch, Valais, Switzerland"

@@ -4,7 +4,7 @@ title: "Papus Rache / Bar Kochba (Yiddish theatre repertory)"
 slug: "papus-rache-bar-kochba-yiddish-theatre-repertory"
 date: "2026-11-20"
 draft: true
-summary: "A German-language discography compilation titled Zusammenstellung der Schallplatten mit Themen aus dem Orient lists a recording under the work heading Bar Kochba…"
+summary: "A German-language discography compilation titled Zusammenstellung der Schallplatten mit Themen aus dem Orient lists a recording under the work heading Bar Kochba (Goldfaden): Why it fits / decision: This classification is based on the work's explicit plot function and the named aria. It should not be upgraded to a historical example of Jewish-Roman retaliation or a record of collective grievance without analysis of the libretto. The wider operetta draws on the Bar Kokhba revolt and later Jewish national memory, but its plot is a nineteenth-century theatrical construction."
 who: "Papus Rache / Bar Kochba (Yiddish theatre repertory)"
 when: ""
 where: ""

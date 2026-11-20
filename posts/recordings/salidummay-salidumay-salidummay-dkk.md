@@ -4,7 +4,7 @@ title: "Salidummay / Salidumay, Salidummay (DKK)"
 slug: "salidummay-salidumay-salidummay-dkk"
 date: "2026-11-20"
 draft: true
-summary: "Philippine Cordillera — Salidummay / Dap-ayan ti Kultura iti Kordilyera cassette…"
+summary: "Philippine Cordillera — Salidummay / Dap-ayan ti Kultura iti Kordilyera cassette research Where and when: Cordillera community cultural/activist music; Baguio City and northern Luzon highlands, Philippines; Date(s): 1987 (2023 exhibition catalogue and platform metadata) / 1989 (ethnomusicology dissertation); unresolved; Medium: Cassette; current ten-track digital listing Why it's here: Cordillera community cultural/activist cassette music from the Philippines; local cassette circulation and Indigenous-rights/land-defence context, with 1987/1989 date conflict retained."
 who: "Salidummay / Salidumay"
 when: "1987"
 where: "Cordillera community cultural/activist music"

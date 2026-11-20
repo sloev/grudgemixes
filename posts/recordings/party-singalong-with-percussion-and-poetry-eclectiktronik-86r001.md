@@ -4,7 +4,7 @@ title: "Party singalong with percussion and poetry (EclectikTronik 86R001)"
 slug: "party-singalong-with-percussion-and-poetry-eclectiktronik-86r001"
 date: "2026-11-20"
 draft: true
-summary: "Recording: reel found with a Marconi recorder at a rubbish dump, Wirral, 1986; date unknown."
+summary: "Recording: reel found with a Marconi recorder at a rubbish dump, Wirral, 1986; date unknown. Why it's here: a room's racket rescued from the tip; music as communal noise. Rights / consent: ⚠ check for identifiable private speech."
 who: "Party singalong with percussion and poetry (EclectikTronik 86R001)"
 when: "1986"
 where: "UK"

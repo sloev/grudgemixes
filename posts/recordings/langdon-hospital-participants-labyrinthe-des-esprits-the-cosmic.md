@@ -4,7 +4,7 @@ title: "Langdon Hospital participants, Labyrinthe Des Esprits: The Cosmic Hunt"
 slug: "langdon-hospital-participants-labyrinthe-des-esprits-the-cosmic"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Langdon Hospital, Dawlish, UK (secure psychiatric); Date(s): Released Apr 2025; Medium: Digital (Spirit Duplicator /…"
+summary: "Where and when: Langdon Hospital, Dawlish, UK (secure psychiatric); Date(s): Released Apr 2025; Medium: Digital (Spirit Duplicator / Bandcamp)"
 who: "Langdon Hospital participants"
 when: "2025"
 where: "Langdon Hospital, Dawlish, UK (secure psychiatric)"

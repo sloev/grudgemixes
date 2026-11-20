@@ -4,7 +4,7 @@ title: "Glory to the soldiers who would not shoot"
 slug: "montehus-gloire-au-17e"
 date: "2026-11-20"
 draft: false
-summary: "The song that saluted French soldiers who refused to shoot striking winegrowers in 1907."
+summary: "In June 1907 the winegrowers of the Languedoc rose up against ruin. Soldiers of the 17th infantry regiment, many of them local men, were sent in and refused to fire on their own people. The chansonnier Montéhus wrote Gloire au 17e in their honour, and for decades it was sung as an anthem of collective refusal. The original early disc is still being hunted by collectors, but Montéhus's own 1936 remake can be streamed on Phonobase."
 who: "Montéhus"
 when: "1907"
 where: "France"
@@ -16,7 +16,9 @@ tags:
 recording_url: "https://phonobase.org/en/fiche/5988"
 urls:
   - "https://eduscol.education.gouv.fr/chansonsquifontlhistoire/Gloire-au-17e.html"
-images: []
+  - "https://commons.wikimedia.org/wiki/File:Le_Petit_Parisien_Béziers_1907.jpg"
+images:
+  - "media/montehus-gloire-au-17e.jpg | Le Petit Parisien's 1907 picture of the 17th regiment fraternising with the people of Béziers. Public domain, via Wikimedia Commons"
 ---
 
 In June 1907 winegrowers in the Languedoc rose up against ruin. Soldiers of the 17th infantry regiment, many of them local men, were sent in and refused to fire on their own people. The chansonnier Montéhus wrote "Gloire au 17e" in their honour, and it was sung for decades as a hymn of collective refusal.

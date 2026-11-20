@@ -4,7 +4,7 @@ title: "A samba that mocked the police chief"
 slug: "pelo-telefone-1917"
 date: "2026-11-20"
 draft: false
-summary: "The first recorded samba, a song that joked about the police while samba lived under police pressure."
+summary: "Samba grew up in Rio de Janeiro's Black neighbourhoods, around homes like Tia Ciata's, under constant police pressure. In January 1917 Casa Edison released Pelo Telefone, credited to Donga and sung by Baiano, and it became the hit of that year's carnival and the first recorded samba. The popular version opens with the police chief phoning to say the fun can go ahead, a dig at police corruption hidden in a party song. A music the police harassed got its first hit by joking about them."
 who: "Baiano; written by Donga & Mauro de Almeida"
 when: "1917"
 where: "Rio de Janeiro, Brazil"
@@ -13,11 +13,14 @@ what: "“Pelo Telefone”, Odeon 121322"
 medium: "78 rpm disc"
 tags:
   - "out-of-turn"
-recording_url: "https://ims.com.br/2023/10/09/little-africas-qr-code-17/"
+recording_url: "https://upload.wikimedia.org/wikipedia/commons/4/43/Pelo_Telephone_%281916%29.ogg"
 urls:
+  - "https://ims.com.br/2023/10/09/little-africas-qr-code-17/"
   - "https://jornal.usp.br/?p=34978"
   - "https://en.wikipedia.org/wiki/Pelo_Telefone"
-images: []
+  - "https://commons.wikimedia.org/wiki/File:Propaganda_antiga_Casa_Edison_de_São_Paulo_-_1916.jpg"
+images:
+  - "media/pelo-telefone-1917.jpg | Casa Edison advertisement, 1916. The firm released Pelo Telefone a year later. Public domain, via Wikimedia Commons"
 ---
 
 Samba grew up in Rio's Black neighbourhoods, around houses like Tia Ciata's, under constant police pressure. In January 1917 Casa Edison released "Pelo Telefone", credited to Donga and sung by Baiano on Odeon 121322. It was the hit of that year's carnival.

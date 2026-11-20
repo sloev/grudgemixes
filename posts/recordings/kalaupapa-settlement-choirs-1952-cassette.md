@@ -4,7 +4,7 @@ title: "Kalaupapa Settlement choirs, 1952 cassette"
 slug: "kalaupapa-settlement-choirs-1952-cassette"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Kalaupapa Settlement, Moloka‘i, Hawai‘i; Date(s): 1952; Medium: One 60-min cassette…"
+summary: "Where and when: Kalaupapa Settlement, Moloka‘i, Hawai‘i; Date(s): 1952; Medium: One 60-min cassette (copy) Why it's here: Patient-recorded, resident choirs, named singers, an original song by the choir director; audio excerpts online"
 who: "Kalaupapa Settlement choirs"
 when: "1952"
 where: "Kalaupapa Settlement, Moloka‘i, Hawai‘i"

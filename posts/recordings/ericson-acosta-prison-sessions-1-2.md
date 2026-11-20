@@ -4,7 +4,7 @@ title: "Ericson Acosta, Prison Sessions 1 & 2"
 slug: "ericson-acosta-prison-sessions-1-2"
 date: "2026-11-20"
 draft: true
-summary: "Where and when: Calbayog Sub-provincial Jail, Samar, Philippines; Date(s): 2011-04-06; 2011-09-20; Medium: Digital;…"
+summary: "Where and when: Calbayog Sub-provincial Jail, Samar, Philippines; Date(s): 2011-04-06; 2011-09-20; Medium: Digital; CD"
 who: "Ericson Acosta"
 when: "2011"
 where: "Calbayog Sub-provincial Jail, Samar, Philippines"

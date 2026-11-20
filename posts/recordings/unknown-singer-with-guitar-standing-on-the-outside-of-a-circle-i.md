@@ -4,7 +4,7 @@ title: "Unknown singer with guitar, \"Standing on the Outside of a Circle\" / \"
 slug: "unknown-singer-with-guitar-standing-on-the-outside-of-a-circle-i"
 date: "2026-11-20"
 draft: true
-summary: "an anonymous songwriter's own songs on a discarded reel, kept by the EclectikTronik archive since 1988."
+summary: "an anonymous songwriter's own songs on a discarded reel, kept by the EclectikTronik archive since 1988. Recording: quarter-track mono 5\" reel, found mid-1988 in Wallasey (Wirral); also an untitled instrumental and an instrumental \"Blackbird\". mp3 hints at a name. Why it's here: music nobody was meant to hear, saved by accident. The purest Found case. Rights / consent: ⚠ unknown maker. \", hold royalties. \"Blackbird\" is a Lennon–McCartney composition and cannot be used."
 who: "Unknown singer with guitar"
 when: "1988"
 where: "UK"

@@ -4,7 +4,7 @@ title: "Japan lead: Yoshida Naramaru, *Akō Gishi-den Toiri* (Royal Record)"
 slug: "japan-lead-yoshida-naramaru-akō-gishi-den-toiri-royal-record"
 date: "2026-11-20"
 draft: true
-summary: "Nichibunken’s Rōkyoku SP Record Digital Archive describes a collection of 9,998 SP records donated by collector Morikawa Tsukasa in 2014."
+summary: "Nichibunken’s Rōkyoku SP Record Digital Archive describes a collection of 9,998 SP records donated by collector Morikawa Tsukasa in 2014. Its public database includes label images for all digitized records, but sound is publicly available only when copyright protection has expired; otherwise audio is restricted to on-site access. The current archive overview reports 2,237 audio titles and 5,534 label-image titles (as of February 2023). The Toiri record's presence in the 2016 institutional prospectus establishes a Nichibunken holding, but its inclusion in the online searchable subset and its audio status still need item-level confirmation."
 who: "Yoshida Naramaru"
 when: ""
 where: ""

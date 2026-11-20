@@ -4,7 +4,7 @@ title: "(lead) — Helen Paul, “Tzain ma Hunchetz” (Columbia, April 1918 ses
 slug: "lead-helen-paul-tzain-ma-hunchetz-columbia-april-1918-session"
 date: "2026-11-20"
 draft: true
-summary: "The museum identifies the song as an ode to the earliest organized Armenian revolutionary groups, especially the Protectors of the Fatherland (Bashdban Hayrenyat's), an organization associated with Erzerum."
+summary: "The museum identifies the song as an ode to the earliest organized Armenian revolutionary groups, especially the Protectors of the Fatherland (Bashdban Hayrenyat's), an organization associated with Erzerum. The composition is attributed to an unknown writer and is believed to date from the late nineteenth century. Proposed role: Revolutionary memory / collective resistance / historical grievance Why it fits / decision: The song is a historical ode to revolutionary organizers and can fit collective resistance / revolutionary memory."
 who: "(lead) — Helen Paul"
 when: "1918"
 where: ""

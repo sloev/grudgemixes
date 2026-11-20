@@ -4,7 +4,7 @@ title: "Roba Stanley & Bill Patterson, “Little Frankie” (Okeh 40436, matrix 
 slug: "roba-stanley-bill-patterson-little-frankie-okeh-40436-matrix-884"
 date: "2026-11-20"
 draft: true
-summary: "This is more than a title-only association."
+summary: "This is more than a title-only association. The LOC finding aid preserves the opening narrative and the lover's wrongdoing; Wolfe's account identifies the performance as a female-voiced version of “Frankie and Johnnie” in which Frankie kills Alvin, is tried and acquitted. The song therefore represents retaliation for perceived romantic betrayal, with a woman as the retaliating protagonist. It is a narrative representation, not evidence of the singer's own experience or endorsement."
 who: "Roba Stanley & Bill Patterson"
 when: "1924"
 where: ""

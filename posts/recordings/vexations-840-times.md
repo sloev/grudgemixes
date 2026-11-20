@@ -4,7 +4,7 @@ title: "840 times"
 slug: "vexations-840-times"
 date: "2026-11-20"
 draft: false
-summary: "Satie's single page, to be played 840 times in a row: an endurance test that audiences sat through."
+summary: "Erik Satie left behind a single page of slow, unresolved music headed by a note about playing it 840 times in a row. He never published it and never performed it. In September 1963 John Cage took the note at its word: at a small Manhattan theatre a relay of pianists, John Cale among them, played it for 18 hours and 40 minutes. Ticket holders got a nickel back for every twenty minutes they stayed, which makes it perhaps the only concert that paid its audience to endure it."
 who: "Erik Satie; John Cage's Pocket Theatre relay"
 when: "1893 / 1963"
 where: "Paris 1893 / New York 1963"
@@ -17,7 +17,9 @@ recording_url: ""
 urls:
   - "https://en.wikipedia.org/wiki/Vexations"
   - "https://time.com/archive/6808157/recitals-shoot-the-piano-players"
-images: []
+  - "https://commons.wikimedia.org/wiki/File:Vexations_erik_satie_piano_sheet.jpeg"
+images:
+  - "media/vexations-840-times.jpg | The single page of Satie's Vexations. Image: Sonia y natalia, CC BY-SA 3.0, via Wikimedia Commons"
 ---
 
 Erik Satie left behind a single page of slow, unresolved music headed by a note about playing it 840 times in a row. He never published it and never played it.

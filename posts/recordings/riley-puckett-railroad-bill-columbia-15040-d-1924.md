@@ -4,7 +4,7 @@ title: "Riley Puckett — “Railroad Bill” (Columbia 15040-D, 1924)"
 slug: "riley-puckett-railroad-bill-columbia-15040-d-1924"
 date: "2026-11-20"
 draft: true
-summary: "“Railroad Bill” is a Black-origin blues ballad associated in song and story with a fugitive train robber known as Railroad Bill, often identified as Morris Slater, though the identity is disputed."
+summary: "“Railroad Bill” is a Black-origin blues ballad associated in song and story with a fugitive train robber known as Railroad Bill, often identified as Morris Slater, though the identity is disputed. The American National Biography notes that the ballad circulated among field hands, turpentine-camp workers, prisoners and other Black working-class communities in the Deep South before appearing in print in 1911; the first commercial recording was made by Gid Tanner and Riley Puckett in 1924."
 who: "Riley Puckett"
 when: "1924"
 where: ""

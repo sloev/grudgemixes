@@ -4,7 +4,7 @@ title: "Al Craver [Vernon Dalhart], “Sentenced to Life Behind These Grey Walls
 slug: "al-craver-vernon-dalhart-sentenced-to-life-behind-these-grey-wal"
 date: "2026-11-20"
 draft: true
-summary: "The full Columbia title explicitly frames the subject as a life sentence and confinement."
+summary: "The full Columbia title explicitly frames the subject as a life sentence and confinement. This is a strong title-level punishment lead, but the title alone does not tell us whether the singer accepts the sentence, protests wrongful conviction, laments separation, or speaks in another dramatic register. No verified lyric transcription has yet been found for matrix W141311."
 who: "Al Craver [Vernon Dalhart]"
 when: "1925"
 where: ""
