@@ -564,3 +564,31 @@ Recheck SF-GE-003 / SF-AUD-012 using Georgian institutional metadata and preserv
 
 ### Unresolved / next
 Locate Lagidze's score/parts, authorized film-print access, and 1TV programme notes; do not treat the user-uploaded video as original film audio or a lawful download route.
+
+## 2026-11-20 — Soviet Film Music — SF-KG-001 local-language source pass (PARTIAL)
+
+### Bounded task claimed
+Advance the next existing baseline, SF-KG-001 / “Песня Данияра”, with a Kyrgyz-language search and locally grounded film-source route. Preserve the existing cue-family ID and avoid promoting user uploads.
+
+### Findings
+- Mosfilm's official page reconfirms the 1968, 83-minute, mono film and Sidelnikov's film-level composer credit; the synopsis explicitly mentions Daniyar's songs.
+- Two 11–12 October 2024 YouTube uploads by Kyrgyz film critic Gulbara Tolomushova are newly identified: one title labels the clip “35мм”, the other associates it with “#QarashLab”. The uploader's FIPRESCI profile supports her professional identity, but both video pages have no description; the print/transfer provenance, audio version, cue title, singer and rights remain unknown.
+- The “QarashLab” tag is not an archive/access statement. AUCA describes Qarash Lab as a contemporary creative platform for emerging Kyrgyz filmmakers.
+- A Kyrgyz-script search for “Даниярдын ыры” also found a 2021 upload by Adilet Kılıch Uulu; no evidence links it to the 1968 film. It is not merged with SF-KG-001.
+- The existing 6:12 OK.ru fragment and the two Tolomushova uploads remain separate digital objects; no listening or comparison was done. The cue remains IDENTITY UNRESOLVED.
+
+### Files
+- Updated projects/sovietfilm/research/jamilya-1968-daniyar-song-sf-kg-001.md.
+- Updated projects/sovietfilm/audio-collection-queue.md.
+- Updated projects/sovietfilm/research_method.md.
+- Appended this entry to projects/sovietfilm/coop.log.md.
+
+### Metrics
+- New film/candidate IDs: 0.
+- New audio-queue IDs: 0.
+- Entries now READY FOR DRIVE: 0.
+- Files downloaded/uploaded or verified in Drive: 0.
+
+### Next
+With owner approval, seek the provenance of the two Tolomushova uploads and match the cue against an authorized film print, score or cue sheet. Do not treat the title's “35мм” label as verified provenance and do not request a download from a user-uploaded clip.
+
