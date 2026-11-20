@@ -158,3 +158,23 @@ Bounded audio asset deposit for priority film Кин-дза-дза! / Kin-dza-dz
 
 ### Handoff
 Continue extracting labeled film-mix cues from accessible IA sources (next: 48m-50m) or seek owner-approved free commercial reconstructions/isolated tracks. Prefer Kancheli and Zatsepin. All new research work directed to canonical grudgemixes workspace; legacy repos reference-only. Do not invent downloads. Verify reported files independently before promoting to FILE VERIFIED. For music projects, continue highest-priority research or queue-preparation if no READY FOR GROK items.
+
+## 2026-11-20 — Grok — extracted Kancheli 48m-50m film-mix excerpt (upload blocked)
+
+### Task claimed
+Bounded audio asset deposit for priority film Кин-дза-дза! / Kin-dza-dza! (Kancheli). Extracted next sequential original film-mix cue excerpt from Internet Archive film source using ffmpeg HTTP range seek. Prefer Kancheli sources. No new free READY FOR GROK complete archival targets for music projects.
+
+### Result
+- Successfully extracted SF-Kancheli_Kin-dza-dza_film-mix_excerpt_48m-50m.mp3 via ffmpeg -ss 2880 -t 120 from https://archive.org/details/kin-dza-dza (Kin-dza-dza! (English subs) (1986).ia.mp4).
+  - Object type: original film-mix cue excerpt (not isolated score, reconstruction, or compilation excerpt).
+  - Format: MP3, 48 kHz stereo, 128 kbps
+  - Size: 1,920,962 bytes
+  - Duration: 120.024 s
+  - MD5: 873a4d0e450ab14208d0de96c8e55fc9
+  - Local path (session): /tmp/work/SF-Kancheli_Kin-dza-dza_film-mix_excerpt_48m-50m.mp3
+- **Upload barrier:** Workspace artifacts fuse mount (/home/workdir/artifacts) returned Input/output error on all write attempts; google_drive_upload_artifact could not be used. File not deposited to sovietfilm Drive folder this session.
+- Confirmed commercial sources (Olympia OCD 608 Kancheli Film Music CD with Kin-dza-dza tracks; 2022 Shining Sioux Zatsepin reconstruction LP/CD) remain non-free; OWNER APPROVAL required. No free isolated score downloads located.
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 0 (extraction complete, upload blocked by environment).
+
+### Handoff
+Next Drive-capable agent: upload the already-extracted file (or re-extract with same parameters) to https://drive.google.com/drive/folders/1_l7vocHbIfgW0vkzuaNJGFUNSMRIszGQ as SF-Kancheli_Kin-dza-dza_film-mix_excerpt_48m-50m.mp3 and verify. Continue sequential film-mix coverage (next: 50m-52m) or pursue owner-approved commercial/isolated sources. All new work in canonical grudgemixes only. Do not invent downloads. Verify reported files independently before promoting to FILE VERIFIED.
