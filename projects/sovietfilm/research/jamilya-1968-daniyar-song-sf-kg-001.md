@@ -41,3 +41,24 @@ Next:
 - Regional Kyrgyz-film catalogue (1965–1974): https://kirgizfilm.ru/katalog/hu65.html
 - KM.RU film entry and song-lyric credit: https://www.km.ru/kino/encyclopedia/dzhamilya-1968
 - OK.ru 6:12 user-uploaded film fragment: https://ok.ru/video/6870715339208
+
+## 2026-11-20 — Kyrgyz-language and local film-critic source check
+
+The official Mosfilm record continues to identify **Джамиля** as a 1968, 83-minute, mono feature with composer **Николай Сидельников**; its synopsis explicitly says that wounded Daniyar's songs teach the narrator to notice beauty. This confirms the film-level context, not the identity or performer of a particular cue.
+
+A new local source lead surfaced on the YouTube channel of **Gulbara Tolomushova**:
+- 11 October 2024: **“Песня Данияра из фильма 'Джамиля ', 35мм”** — https://www.youtube.com/watch?v=ZGgifFfnm5M
+- 12 October 2024: **“Песня Данияра (Чокморов) в фильме 'Джамиля '. #QarashLab”** — https://www.youtube.com/watch?v=irCdxFxt8sY
+
+Both pages have no description. FIPRESCI identifies Tolomushova as a Kyrgyz film critic, but that professional identity does not authenticate the source print, transfer chain, performer or rights. The “35мм” wording is the uploader's title, not independently verified carrier provenance. The Qarash Lab tag points to a contemporary Kyrgyz creative film laboratory, not by itself to an archive or rights holder. Treat the two uploads as separate digital objects until compared; do not count them as two cues or assume either is an original-print transfer.
+
+A Kyrgyz-script search for **“Даниярдын ыры”** also surfaced a 2021 YouTube upload by Adilet Kılıch Uulu (https://www.youtube.com/watch?v=rn0raq2zHo0). It is not identified as the 1968 film recording and is a false-positive / modern-title collision for this audit; keep it separate. No primary Kyrgyz-language cue sheet, score, lyric sheet or production sound record was located in this bounded pass.
+
+**Evidence effect:** a potentially better local film-source/provenance lead has been found, but the cue remains **IDENTITY UNRESOLVED**. No audio or video was played; no print was inspected; no contact or permission request was made; no direct file/download route or rights status was verified. No new SF-AUD item and no READY FOR DRIVE entry.
+
+Sources checked 2026-11-20:
+- Mosfilm official record: https://www.mosfilm.ru/cinema/films/dzhamilya/
+- Tolomushova's FIPRESCI profile: https://fipresci.org/people/gulbara-tolomushova/
+- Qarash Lab description (contemporary creative film lab): https://auca.kg/en/auca_news/6842/
+- Modern-title collision: https://www.youtube.com/watch?v=rn0raq2zHo0
+
