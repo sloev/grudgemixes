@@ -39,3 +39,9 @@ Record the outcome in `coop.log.md` (the date, who replied and what they said, w
 
 
 | 13 | IM-052 ZeN, *Bakırköy Akıl Hastanesi'nde* | Zel Zele Records (Bandcamp contact route) and, only if owner-approved, ZeN / Murat Ertel | Confirm original 1999 cassette/CD label and catalogue number; event date/time and hospital documentation; original recording chain (reported 16-track analogue); whether the 1999 master or session tapes survive; source used for the 2023 remaster; reconcile track-order/duration differences; current master ownership and reuse conditions. Ask for metadata and authorised listening/access only; do not request patient names or medical details. | 1998 *Roll* interview, July 1998, pp. 19–20; Zel Zele 2023 reissue page; Murat Ertel 2024 interview; candidate event date 23 June 1998 per specialist discography (primary newspaper notice still to verify) |
+
+## 2026-11-20 follow-up and new request queue entries
+
+- **Existing request 5 — IM-001 Flinders:** CSU item page confirms Box 45 Folder 9 and an undated finding-aid title; DPLA metadata says 1948, cassette digitized 2015-11-03, with label variants “Harold [sic]” / “Eliose.” CSU policy says it cannot grant or deny permission if it does not hold copyright. No access restriction is indicated, but physical materials are offsite and require advance notice. No request or contact was sent in this run.
+- **14 — IM-053, “Selections from Eloise Symphony” (1948), CSU Box 45 Folder 2 / digital object 2174:** request item-level audio, carrier/label image, exact performer, recording date and venue, relation (if any) to the 1948 Detroit Symphony performance notice, and rights/consent information. No request sent.
+- **15 — IM-054, 은평병원 아트브뤼트 뮤지크 blog corpus:** seek stable post URLs or an institutional export, individual titles/dates/performer-group credits, recording medium, preservation provenance, participant consent and rights/reuse conditions. No request sent.
