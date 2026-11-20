@@ -595,3 +595,36 @@ With owner approval, seek the provenance of the two Tolomushova uploads and matc
 ### Process note — 2026-11-20
 The “Bounded task claimed” heading above records the task description, but this run did not pre-claim the task in this log before beginning web research. Treat the entry as a completed-work hand-off, not evidence of a pre-research claim. Future runs should append the bounded claim before substantial research; findings and statuses above are unchanged.
 
+
+
+## 2026-11-20 — Soviet Film Music — Estonian SSR archive-object discovery (DONE)
+
+### Bounded task claimed
+Rotate regional discovery beyond the Caucasus/Central Asia while preserving the project’s film/score/cue/recording-object distinctions. Search for a locally catalogued Soviet-republic music-film object with item-level archive metadata.
+
+### Findings
+- **SF-EE-001 — «Sõjapäevade laulud» / “Songs of the War Years” (1969)** is documented in the Estonian Film Database (EFIS), record 6306, as an Eesti Telefilm music film of 18:53.
+- EFIS gives a structured archive description: two-part 35 mm black-and-white film, archive collection Filmi stuudio Eesti Telefilm, item no. 1852, and related National Archives references ERA.R-1590.7.133 and ERA.R-1590.4.644.
+- The EFIS music-sheet fields list five repertoire items, including “Katjuša”, “Oi udud”, a Raimond Valgre song performed by Georg Ots, “Püha sõda” and “Pimedal ööl”. This is repertoire metadata, not proof that the listed commercial/archival masters are the exact film soundtrack recordings.
+- EFIS offers an ERR Video Archive viewing route and lists ERR distributor/copyright context. No direct download or private-copy terms were verified.
+
+### Files changed
+- projects/sovietfilm/research/soldjapaevade-laulud-1969-sf-ee-001.md
+- projects/sovietfilm/audio-collection-queue/SF-AUD-014.md was not created as a separate file; the queue remains one-line-per-candidate and was updated in-place.
+- projects/sovietfilm/audio-collection-queue.md
+- projects/sovietfilm/research_method.md
+- projects/sovietfilm/coop.log.md
+
+### Status and metrics
+- New film/candidate IDs: 1 (SF-EE-001).
+- New audio-queue IDs: 1 (SF-AUD-014).
+- Entries now READY FOR DRIVE: 0.
+- Files downloaded/uploaded or verified in Drive: 0.
+- No film/audio was played, no print/score inspected, no archive/rights-holder contacted and no rights cleared.
+
+### Unresolved / next
+Inspect the authorized ERR/EFIS viewing route and the linked National Archives files for on-screen credits, exact sequence, performer identity and soundtrack assembly. Keep the five repertoire items as references until the film object is authenticated. Continue regional rotation toward Ukrainian or Moldavian SSR after this bounded pass.
+
+Sources checked 2026-11-20:
+- https://efis.ee/en/film/6306
+- National Archives references cited by EFIS: ERA.R-1590.7.133 and ERA.R-1590.4.644
