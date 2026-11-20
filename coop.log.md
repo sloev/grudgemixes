@@ -144,3 +144,6 @@ Find a primary 1909 Columbia label/runout or matrix-book record and an authorise
 
 No audio was auditioned, downloaded or uploaded; no file inspected; no archive contacted; no purchase or rights clearance.
 
+### Process note — 2026-11-20
+The “Bounded task claimed” heading above records the task description, but this run did not pre-claim the task in this log before beginning web research. Treat the entry as a completed-work hand-off, not evidence of a pre-research claim. Future runs should append the bounded claim before substantial research; findings and statuses above are unchanged.
+
