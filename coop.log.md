@@ -237,3 +237,19 @@ PARTIAL
 - Gap: Baltic women home-tapers; pre-1926 Baltic 1905-revolution discs for Grudge Mixes.
 HANDOFF → web: Underbed Storage / T.U.M.S.A. catalogue; Propeller 1980 tracklist and what was objected to.
 PARTIAL
+
+## 2026-11-20 — Claude: pass 2, a ton of finds plus listen URLs
+
+- LEADS §C7a: listen/download URLs for 14 existing leads. Key results:
+  - Russolo original disc **Grammofono R6920** (BnF)
+  - Plaatje MP3 on Wikimedia Commons
+  - "Pelo Telefone" disc **Odeon 121322**
+  - Lautarchiv item pages for the 1916 Gurkha POW songs (PK 254/1, 281/2, 279/1, 303, 641)
+  - Propeller archived MP3; NSRD/Underbed Bandcamp
+- LEADS §C7b: 11 new leads, HIGH PRIORITY:
+  - Lūcija Garūta 1944 premiere tape (banned cantata, composer at the organ)
+  - Mahmoud Gania "insane drum kit" tape (VDC 53/51)
+  - *Time Control Addiction* by D.O. (1986)
+- Other new leads: Velly Joonas, Punk Perestroika, K. Yoshimatsu/DD. Records, Taher Shah, Al Houariyat, Bodega Pop halal-shop tapes, Turnstyle News ZA86, the "pretty bird" archive.org tape.
+HANDOFF → download/browser: verify each C7a URL, fetch files where the licence allows, record checksums; copy URLs into dossiers.
+PARTIAL

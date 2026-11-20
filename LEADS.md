@@ -21,6 +21,7 @@
 | C4. Hostile strand leads | 4 |
 | C5. Found tapes and found audio | 5 |
 | C6. Baltic pass | 5 |
+| C7. Listen links (14) and new finds (11) | 25 |
 | D. Insane Music catalogue (IM-001 – IM-055) | 53 |
 | Entries with a downloaded file | 20 |
 
@@ -1764,6 +1765,108 @@ None has been listened to. ⚠ All are living artists or estates. Full table and
 
 - **Project:** Insane Music (Unwanted; Found) · **Visibility:** HIGH PRIORITY · **Downloaded:** No
 - **Background:** whispers, dark instrumentals, field recordings and flutes, per Don Campau's Living Archive.
+
+---
+
+## C7. Listen links for existing leads, and new finds (pass 2, 2026-11-20)
+
+### C7a. Listen and download links found for leads already in this file
+
+None of these files has been fetched by an agent. "Stream" means listen only; "file" means a direct audio file; "archive" means a catalogue page that should lead to audio. Each row should be checked, then copied into its dossier.
+
+| Lead | What was found | URL |
+|---|---|---|
+| Russolo, "Corale" / "Serenata" (C4) | BnF catalogue gives the original disc as **Grammofono R6920, 1924**. UbuWeb page with MP3s, including Corale 1921 and Serenata 1921. YouTube copy. | https://ubu.punctumbooks.com/sound/russolo_l.html · https://catalogue.bnf.fr/ark:/12148/cb382963855 · https://youtu.be/8GpN5FHO60c |
+| Sol Plaatje, "Nkosi Sikelel' iAfrika", Zonophone 4168, rec. 16 Oct 1923 (Vol. 4) | Wikimedia Commons MP3 (1:04); British Library ref 1SS0009976 (via the *Black Europe* box, Bear Family BCD 16095). | file: https://commons.wikimedia.org/wiki/Category:Nkosi_Sikelel%27_iAfrika · https://www.nts.live/incoming/british-library-sound-archive-south-african-gumboots |
+| Baiano, "Pelo Telefone" (Vol. 5) | Disc identified: **Odeon 121322**, Casa Edison, Jan 1917. Of three takes, the second, with cavaquinho and guitar only, was the carnival hit. IMS / Discografia Brasileira hold transfers. | https://jornal.usp.br/?p=34978 · https://ims.com.br/2023/10/09/little-africas-qr-code-17/ |
+| Gauhar Jaan, 1902 (Vol. 5) | Archive of Indian Music (Bangalore) streams restored early gramophone records free. | https://artsandculture.google.com/story/bQUhgLc4Ow4A8A (links to AIM) |
+| Jas Bahadur Rai / Gurkha POW recordings, Halbmondlager, Wünsdorf (Vol. 7) | The Lautarchiv (Humboldt University) has online item pages with digitised shellac. Gurkha songs: PK 254/1 (Dal Bahador, 29 May 1916), PK 281/2 ("2 Gurkhalieder", 3 Jun 1916), PK 279/1 (Motilal), PK 303 (Lalbahadur); a Rai narrative is PK 641 (Birkhe, 2 Jan 1917). Search the catalogue for "Jas Bahadur". | https://www.lautarchiv.hu-berlin.de/en/objekte/lautarchiv/7458 · https://www.lautarchiv.hu-berlin.de/en/objekte/lautarchiv/7703 · https://www.lautarchiv.hu-berlin.de/en/objekte/lautarchiv/10553 |
+| GM-GL-001 Greenland duel songs (Vol. 12) | Sub Rosa reissue on streaming as "Inuit – Topic" (YouTube auto-generated); same channel pattern as "Kayak-Song". | https://www.youtube.com/watch?v=tHrkVxCygxg (Kayak-Song; the duel songs sit next to it) |
+| GM-EG-003 Naʿīma al-Miṣriyya (Vol. 4 proposal) | Already listed: YouTube and SoundCloud copies (provenance unknown). | see GM-EG-003 |
+| Soviet bone records (Vol. 9) | The X-Ray Audio Project (Stephen Coates) site hosts images, sounds and stories; 2016 documentary on YouTube (The Vinyl Factory). | https://www.x-rayaudio.com · https://en.wikipedia.org/wiki/Ribs_(recordings) |
+| Cheikha Rimitti (Vol. 9) | "Charrak Gattà" (1954) is on streaming in later versions; the original 1954 Pathé 78 still needs finding. Banned from Algerian radio and TV after 1962 as "folklore perverted by colonialism". | https://www.deezer.com/artist/68157 |
+| Propeller (C6) | Archived MP3 "Potpourri Volkonski/Propeller" via the Wayback Machine; Punk Perestroika SoundCloud for Estonian and Latvian 1980s punk. | https://web.archive.org/web/20110720131601/http://www.volk.ee/24345.mp3 · https://soundcloud.com/punkperestroika |
+| NSRD / Underbed Storage (C6) | Bandcamp streams of unreleased reel-to-reel outtakes and 1988 archive recordings. | https://underbedstorage.bandcamp.com/album/december-session · https://underbedstorage.bandcamp.com/track/tunelis |
+| Ir Visa Tai Kas Yra Gražu Yra Gražu (C6) | Band Bandcamp. | https://ivtkygyg.bandcamp.com |
+| Song-poem MSR 851 (C3) | Already listed (songpoemmusic.com MP3 page). | https://songpoemmusic.com/mp3.htm |
+| "The Most Unwanted Song" (C3) | Already listed (UbuWeb). | https://ubu.punctumbooks.com/sound/komar.html |
+
+### C7b. New leads
+
+#### Latvia · Lūcija Garūta, *Dievs, Tava zeme deg!* ("God, Thy Land Is Burning!"), tape of the premiere, Riga, 15 March 1944
+
+- **Project:** Insane Music (Hostile: banned; Found) · **Planned mix:** PROPOSAL Vol. 9 or 12 · **Visibility:** HIGH PRIORITY · **Downloaded:** No
+- **Recording:** a tape of the wartime premiere with the composer herself at the organ (Reiters choir; soloists Ādolfs Kaktiņš and Mariss Vētra). One account says the sounds of battle outside are audible on the tape.
+- **Background:** the cantata (words by Andrejs Eglītis) was later banned under Soviet rule and became a symbol of the independence movement. It was revived by candlelight at the 1990 Song Festival.
+- **Why it fits:** a woman composer, a prayer written under occupation, banned, and a tape that survived. It is also the Baltic women's voice the strand lacked.
+- **Conflict:** the venue is given as the Old St Gertrude's Church (LSM, Latvijas Vēstnesis) or the Riga Cathedral (other sources). Check against the tape's provenance.
+- **Rights:** ⚠ Eglītis d. 1993 (text); Garūta d. 1977. Ask Latvian Radio / National Library.
+- **Sources:** https://en.wikipedia.org/wiki/L%C5%ABcija_Gar%C5%ABta · https://www.lsm.lv/raksts/kultura/maksla/quotdievs-tava-zeme-degquot-jauna-redakcija.a24696/ · https://serenadetomusic.blogspot.com/2013/02/latvia-ii-loving-lucija.html · https://okupacijasmuzejs.lv/en/museum-shop/books/kantate-dievs-tava-zeme-deg-eng
+
+#### Estonia · Velly Joonas, "Stopp, seisku aeg!" (Estonian Radio, 1983; Frotee FRO 007, 2015)
+
+- **Project:** Insane Music (Made Anyway; archive-buried) · **Visibility:** PROMISING · **Downloaded:** No (7" and streams)
+- **Background:** she recorded about 30 songs at Estonian Radio, mostly left in the archive; she wrote her own Estonian lyric to ABBA singer Frida's "I See Red", backed by an amateur band of young Russians from Lasnamäe. She later wrote almost 300 songs. Frotee's *Valgusesse* (FRO 009) collects other buried Estonian Radio tracks.
+- **Why it fits:** a woman's voice kept in a state archive.
+- **Rights:** ⚠ the composition is an ABBA cover, so likely context only; look for her own songs.
+- **Sources:** https://en.wikipedia.org/wiki/Velly_Joonas · https://allnightflightrecords.com/products/velly-joonas-stopp-seisku-aeg · https://www.rushhour.nl/node/138451
+
+#### Estonia · Pära Trust, "Jakovlevi punk" (Tallinn, 1980) / Latvia · Inokentijs Mārpls, "Meklē mani peklē" (Riga, 1987)
+
+- **Project:** Insane Music (Made Anyway / Hostile) · **Visibility:** PROMISING · **Downloaded:** No
+- **Listen:** https://soundcloud.com/punkperestroika
+
+#### Japan · K. Yoshimatsu and DD. Records (1980s; *Fossil Cocoon*, Phantom Limb 2024)
+
+- **Project:** Insane Music (Unwanted voices) · **Visibility:** PROMISING (reissued 2024, but the original tapes are rarities) · **Downloaded:** No (Bandcamp stream)
+- **Background:** the DD. Records circle released exactly 222 cassettes of weird Japanese outsider music over five years, each with typewritten notes and Xerox art from found materials.
+- **Why it fits:** first East Asian *Unwanted* lead.
+- **Listen:** https://phantomlimblabel.bandcamp.com/album/fossil-cocoon-the-music-of-k-yoshimatsu
+
+#### Pakistan · Taher Shah, "Eye to Eye" (2013) and "Angel" (2016)
+
+- **Project:** Insane Music (Unwanted voices) · **Visibility:** CONTEXT / anchor (viral) · **Downloaded:** No
+- **Background:** written off as a joke and mocked on national TV in 2013, he came back in 2016 with "Angel". He left Pakistan in December 2016 after death threats.
+- **Why it fits:** the ridiculed maker who kept going. Frame with care: the threats are not a joke.
+- **Rights:** ⚠ living artist; participation needed.
+- **Sources:** https://en.wikipedia.org/wiki/Taher_Shah · https://tribune.com.pk/story/1270065/entertainment · https://globalvoices.org/2016/04/19/how-pakistans-taher-shah-took-viral-culture-to-the-next-level/
+
+#### Morocco · Mahmoud Gania with an anonymous "insane drum kit" drummer (Voix de Casablanca VDC 53 and VDC 51)
+
+- **Project:** Insane Music (Unwanted / Found: a mismatched-sounding session tape) · **Planned mix:** PROPOSAL Vol. 11 · **Visibility:** HIGH PRIORITY · **Downloaded:** No (blog shares)
+- **Background:** a Gnawa master recorded with a trap drummer who never stops. The blog calls it one of the wildest tapes in its collection; the j-card names only "The Gnawi Mahmoud Guinia".
+- **Why it fits:** weird and wonderful collision; the drummer is anonymous.
+- **Rights:** ⚠ Gania family (Essaouira), via Hive Mind Records, which works with them.
+- **Listen:** https://moroccantapestash.blogspot.com/2011/06 · https://moroccantapestash.blogspot.com/2022 (post of 19 Mar 2022)
+
+#### Morocco · Al Houariyat, led by Jmiâ Al Marrakchia (Sawt Al Menara MN.32, c.2000), women's percussion group
+
+- **Project:** Insane Music (Found: the cassette inside did not match its j-card) · **Visibility:** PROMISING · **Downloaded:** No
+- **Listen:** https://moroccantapestash.blogspot.com/2022/01
+
+#### USA (diaspora) · "40 grime-encrusted cassettes" from Nassem Halal Meat, Astoria (Algeria, Egypt, Iraq, Lebanon, Morocco, Saudi Arabia, Syria, Turkey, UAE)
+
+- **Project:** Insane Music (Found) · **Visibility:** PROMISING · **Downloaded:** No
+- **Background:** Bodega Pop's haul from a halal butcher's shop; Orchestre Jamal, Mazhariphone cassette (FLAC re-rip).
+- **Listen:** https://bodegapop.blogspot.com/2017/11/orchestra-djamal-mazhariphone-cassette.html
+
+#### South Africa · Turnstyle News cassette archive, 1986–87 (*ZA86*, *ZA87*, Nigel Wrench / The Tapeworm)
+
+- **Project:** Insane Music (Found audio; context for Vol. 9 South African bans) · **Visibility:** PROMISING · **Downloaded:** No (Bandcamp)
+- **Background:** a 25-year-old radio reporter's cassettes, edited from nine tapes recovered from a Cape Town cellar. Includes a Band Aid-like pop song released by the apartheid regime.
+- **Listen:** https://datworm.bandcamp.com/album/za86
+
+#### Found audio · "Hello, how are you? … pretty bird!" (archive.org cassette transfer)
+
+- **Project:** Insane Music (Found audio) · **Visibility:** PROMISING · **Downloaded:** No
+- **Background:** a young woman repeats "Hello, how are you?" and "pretty bird!", alternating left and right ears; origin unknown. Probably a home-made parrot-training tape (check). Part of archive.org's huge "Cassette Audio" section of amateur transfers.
+- **Privacy:** not intimate speech, but the speaker is unknown: trace before use.
+- **Listen:** https://archive.org/details/hello-how-are-you-i-love-you-goodbye · collection: https://archive.org/details/cassettetapes
+
+#### Found audio · *Time Control Addiction* by "D.O." (1986 home-taped synth-pop; The Cassette Archive)
+
+- **Project:** Insane Music (Found) · **Visibility:** HIGH PRIORITY (no online footprint beyond the archive) · **Downloaded:** No
+- **Sources:** https://anomalyindex.com/category/lost-albums/ (The Cassette Archive on Bandcamp; find the item page)
 
 ---
 
