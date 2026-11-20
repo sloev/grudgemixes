@@ -592,3 +592,6 @@ Advance the next existing baseline, SF-KG-001 / “Песня Данияра”,
 ### Next
 With owner approval, seek the provenance of the two Tolomushova uploads and match the cue against an authorized film print, score or cue sheet. Do not treat the title's “35мм” label as verified provenance and do not request a download from a user-uploaded clip.
 
+### Process note — 2026-11-20
+The “Bounded task claimed” heading above records the task description, but this run did not pre-claim the task in this log before beginning web research. Treat the entry as a completed-work hand-off, not evidence of a pre-research claim. Future runs should append the bounded claim before substantial research; findings and statuses above are unchanged.
+
