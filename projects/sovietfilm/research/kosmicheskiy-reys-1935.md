@@ -142,3 +142,26 @@ This second bounded audit opened the current institutional records directly and 
 2. If owner-approved, use the RSL fragment-copy service for pp. 67–68 of the 1961 catalogue and inspect the actual entry and its sound-format conventions.
 3. Inspect a reliably identified 1935/1936 film print and technical passport/edge code; reconcile the “silent with music” newspaper entry, the 27 January “sound feature” advertisement and the later mono catalogue field.
 4. Locate Kruchinin’s original score/cue list and establish whether the TWINS Piano Duo manuscript was ultimately accessioned; keep every later re-scoring separate.
+
+## Research advance — 2026-11-20: Yusupova score version crosswalk
+
+A full-text 2026 article in *Technology and Language* materially clarifies that Irzaida Yusupova's music is a **modern re-scoring**, not evidence of the original 1935 film accompaniment. It distinguishes three separate forms:
+
+1. **Concert version:** the idea was suggested in 1998; the first version was made as a concert piece using video material from the film.
+2. **Synchronized film soundtrack:** the article says a full score was synchronized to the film fifteen years later. That implies approximately 2013, but the article does not give a separate exact release date. It cites “Zhuravlev & Yusupova, 2009” in the text without a corresponding full reference in the bibliography; the chronology therefore remains provisional.
+3. **Hybrid live version:** the article describes a live performance with the Pokrovsky Ensemble, using live performers alongside pre-recorded orchestral and electronic material. This is neither the 1998 concert piece nor the synchronized soundtrack.
+
+The article describes a layered score using orchestra, voices, electronic sound and speech. Its cue discussion includes an opening “pioneer song” and a tango identified as “Oblivion” by G. Vars and F. Refrain, dated by the article to the late 1930s. That tango postdates the 1935 film and is a useful version marker: it cannot be original 1935 film music. The article also distinguishes the film's 1935 production year from its official premiere in 1936. These cue anchors are not a timestamped cue sheet; no exact cue timings or score pages were located.
+
+**Revised version map**
+- 1935 production / 1936 premiere: silent film; original live accompaniment, if any, remains undocumented. No original sound-on-film music track or original score has been verified.
+- 1998: Yusupova project/concert version, later developed into a synchronized film score.
+- circa 2013: implied date of the full synchronized Yusupova soundtrack (15 years after 1998; not an explicit date).
+- Hybrid Pokrovsky Ensemble presentation: live-plus-recorded performance version, separate from the film soundtrack.
+- Do not merge any of these modern versions with the film's original print or treat the modern score as a surviving 1935 soundtrack.
+
+**Disposition:** baseline case remains RESEARCHED-OPEN; this is a substantive version/provenance advance, not a status change. The original 1935/1936 accompaniment remains unresolved. No audio was played, no print was accessed, and no rights clearance was obtained.
+
+**Next:** locate the 1998 concert programme and the synchronized soundtrack's first documented screening/recording; obtain the missing 2009 Zhuravlev–Yusupova reference; search contemporary 1935–36 documentation and surviving print catalogues for original accompaniment/sound format; obtain cue timings or score pages for the Yusupova versions.
+
+Source (accessed 2026-11-20): [2026 article, “Music by I. Yusupova to the film Kosmicheskiy reys (1935) as experience of scoring silent film,” *Technology and Language*, DOI 10.48417/technolang.2026.02.10](https://soctech.spbstu.ru/article/2026.23.10/).
