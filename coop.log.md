@@ -176,3 +176,7 @@ Write dossiers and assign IDs for the new items; find the Lautarchiv PK number f
 ## 2026-11-20 — Claude — *Music in Spite* universe expansion (owner direction)
 
 Owner widened *Music in Spite* to music made where it was not expected or tolerated, and asked for found art / found tapes. Added `research/music-in-spite-universe-2026-11-20.md`: eight territories (Banned, Scratched, Smuggled, Hidden, Confined, Unwelcome voices, Untaught, Found), a proposed found-tape rule, and provisional Vol. 8 (Banned, Scratched, Smuggled) and Vol. 9 (Found). Sources cited in the file. No IDs assigned, no audio auditioned, nothing cleared. Next: dossiers for Tirén cylinder 0212, a bone record, PPU, SABC-barred "Snor City" and "Change is Pain"; approach found-tape collectors.
+
+## 2026-11-20 — Claude — Discovery pass (b)
+
+Added `research/discovery-pass-2026-11-20b.md`. Headline lead (unverified): an 1889 proposal by Dr Maurice Dupont to record patients' delusions and a reported c.1908 recording collection at Sainte-Anne hospital, Paris — potentially the earliest psychiatric-pathway item for Insane Music. Other leads: Montéhus "Gloire au 17e" (1907 mutiny song), Dalhart "The Prisoner's Song" (prison-origin song, Victor 19427, 1924), Texas Prison Rodeo albums (Marshall Project), Lomax prison recordings (Kelly Pace 1934, Jimmie Strothers 1936). Page-fetch tool hit a usage limit; items confirmed from search text only. No IDs, no audio, nothing cleared.
