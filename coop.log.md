@@ -211,3 +211,7 @@ The Korean-language pass did not recover a stable Naver post, direct audio URL, 
 
 ### Next handoff
 With owner approval, seek an archived/exported copy of the Naver blog or an institutional catalogue; preserve participant privacy and consent uncertainty.
+
+## 2026-11-20 — Claude — Discovery pass (c): correction + diversity pass
+
+Corrected Sainte-Anne lead after full read (Dupont 1889 delusion recordings; no singing; survival unknown; "1908" was Joffroy's death). Confirmed Texas Prison Rodeo albums (8 albums 1972–82, ~100 songs, YouTube playlist) and the lost WBAP *Thirty Minutes Behind the Walls* as a hunt target. Owner asked to de-emphasise prisons: added `research/diversity-pass-2026-11-20.md` (Trinidad 1914 calypso/kalenda, Gauhar Jaan 1902, Qamar 1924, "Pelo Telefone" 1916–17, Cheikha Rimitti 1954, Piłsudski Ainu cylinders 1902–05). No IDs, no audio, nothing cleared.

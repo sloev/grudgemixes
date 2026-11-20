@@ -2,9 +2,9 @@
 
 **Status: LEADS ONLY.** Found by web search; page-fetch tool hit a usage limit mid-pass, so several items are confirmed only from search-result text. Nothing auditioned, downloaded, assigned an ID, or cleared. "Audio access" gives the best public listening page found; a true direct-file URL is noted only where one was seen.
 
-## Headline lead (possible breakthrough, unverified): early asylum recordings in Paris
+## Lead (downgraded): early asylum recordings in Paris
 
-- **What:** a review article on the phonograph in early neurology reports that on **6 July 1889**, at the Neurological Society of Paris, Dr Henri Charles Victor Maurice Dupont (1857–1910) proposed using the phonograph to record patients' **delusions**, and mentions a remarkable collection of audio recordings at **Sainte-Anne hospital, Paris (c. 1908)**. Same article: in London on 11 Mar 1891 a phonogram of a 26-year-old patient's speech was shown to the Hunterian Society.
+- **What (corrected 2026-11-20 after full read):** Dr Henri Charles Victor Maurice Dupont (1857–1910), working in Alix Joffroy's laboratory at Sainte-Anne hospital, Paris, proposed and demonstrated phonograph recordings of patients' **delusions** (grandeur, persecution) and speech disorders at the Neurological Society of Paris on 6 July 1889 (the article's reference list says 1899 — conflict). "1908" in the earlier note was Joffroy's death year, not a recording date. **No singing is mentioned, and the article says nothing about whether any cylinders survive.** Reference: Société de neurologie de Paris, "Application du phonographe à l'enregistrement des délires et des troubles de la parole", *Bulletins officiels*, Masson.
 - **Why it matters:** if the Sainte-Anne recordings survive and include singing or patient-made music, they would be the earliest known core item for Insane Music's psychiatric pathway, and pre-1926, so eligible for Grudge Mixes' date window too.
 - **Source:** "Voices from the past: The pioneering use of the phonograph in neurology", *Revue Neurologique* (ScienceDirect: https://www.sciencedirect.com/science/article/abs/pii/S0035378722007342); open PDF copy: https://baillement.com/recherche/Phonograph_neurology_RN.pdf
 - **Next:** read the full article; identify who recorded at Sainte-Anne, what survives and where (candidates: GHU Paris Psychiatrie & Neurosciences archives; BnF Archives de la Parole; Musée de la Parole et du Geste). Treat as patient-record material: privacy and descendant ethics apply before any listening copy is requested.
@@ -36,3 +36,10 @@
 1. Read the *Revue Neurologique* article in full and trace the Sainte-Anne recordings.
 2. Find a pre-1926 Montéhus recording of "Gloire au 17e" on Phonobase/Gallica.
 3. Contact The Marshall Project / Maurice Chammah about the Texas Prison Rodeo albums.
+
+## Update 2026-11-20 (c)
+
+- **Sainte-Anne:** downgraded (see correction above). Next step only if cheap: ask BIU Santé / GHU Paris archives whether Dupont's cylinders survive. Patient speech, not music; privacy first.
+- **Texas Prison Rodeo albums — confirmed:** Texas Prison Museum holds eight TDC-produced albums sold at the rodeo 1972–1982 plus a 1965 album; Chammah digitised about five hours (~100 songs); full set posted as a YouTube playlist linked from https://www.themarshallproject.org/2026/03/10/prison-music-texas-rodeo-redemption-songs (playlist URL not captured). Album named on the page: *Behind the Walls* (1972). J.D. Thomas (1974) sings against prison-farm labour and an innocent man facing execution. Morgan White on the rules: topics like racism were off limits — "Rock the boat, and you're out."
+- **Gap worth a real hunt:** WBAP's *Thirty Minutes Behind the Walls* (1938–44, Peabody 1940, up to 5 million listeners) — "the only recordings of the show were destroyed by WBAP" (Blue, *Doing Time in the Depression*, NYU Press); no surviving episode known. A surviving transcription disc would be a genuine find. Closest surviving voices: Hattie Ellis, "Desert Blues" and "I Ain't Got Nobody", Goree women's prison, Lomax, 14 May 1939 — her only recordings (https://archive.culturalequity.org/texas-1939).
+- **Owner direction (2026-11-20):** prison material is over-represented. No further prison leads unless exceptional; see `research/diversity-pass-2026-11-20.md`.
