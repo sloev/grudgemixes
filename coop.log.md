@@ -120,3 +120,27 @@ Continue highest-priority research or queue-preparation. Next film-mix extract i
 - **Discovery pass:** Spanish-language Mexican catalogues and scholarship; no additional item was counted beyond GM-MX-003. Ma Rainey's late-1925/1926 “Stack O'Lee Blues” retained as a related Stagger Lee-family comparison, not a separate lead.
 - **Blockers:** no authenticated lyric transcript, Victor label scan, surviving Victor copy or lawful transfer located; exact text-to-master match remains open. No audio was played, no archive contacted, no permission obtained.
 - **Next tasks:** advance GM-AM-006; seek Victor 97040/72590-A label/matrix evidence and lawful transfers; compare the COLMEX print witnesses with any authenticated recording text; rotate next discovery to another Spanish- or Arabic-language region.
+
+## 2026-11-20 — Grudge Mixes — GM-AM-006 Armenian score-source pass (DONE)
+
+### Bounded task claimed
+Advance the active Armenian baseline GM-AM-006 using a local-language institutional music source, without repeating the completed 1909/1910 discography distinction audit.
+
+### Findings
+- The National Library of Armenia digitized *Songs of Armenia* (1924) contains score No. 10 “Dalvorigtsi / The Son of Dalvorig”, with “M. Damadian” as author, “K. H. Aigouni” as arranger and “Marziale” as tempo marking. The score adds a pre-1926 printed arrangement witness to the 1896 Blackwell / Damadian text trail.
+- The score's English text is credited to Alice Stone Blackwell, so it is not an independent translation. The score's Latin transliteration and notation do not establish the exact lyrics or arrangement on the 1909 Columbia side.
+- The Armenian Museum's 1909 list still has “Dalvorig” with unknown matrix; its 1910 Tashjian Brothers E656 remains a separate object. The Museum page exposes a sample of “Hairenikt Mortsir”, not the 1909 “Dalvorig” recording.
+- GM-AM-006 remains B. No authorised direct audio/download route was found; no new READY FOR GROK request or mapping change.
+
+### Files
+- Updated leads/GM-AM-006-mardiros-tashjian-dalvorig-1909.md.
+- Updated research_method.md.
+- Updated README.md snapshot.
+- Appended this entry to coop.log.md.
+- TRACK_MAPPING.md and GROK_HANDOFF.md unchanged.
+
+### Next
+Find a primary 1909 Columbia label/runout or matrix-book record and an authorised item-level audio route; compare with the 1924 printed arrangement and 1910 E656 without merging versions. Then resume GM-MX-003 and baseline GM-AM-008.
+
+No audio was auditioned, downloaded or uploaded; no file inspected; no archive contacted; no purchase or rights clearance.
+
