@@ -97,3 +97,18 @@ Bounded audio asset deposit for priority film Кин-дза-дза! / Kin-dza-dz
 
 ### Handoff
 Continue extracting labeled film-mix cues from accessible IA sources (next: 58m-60m) or seek owner-approved free commercial reconstructions/isolated tracks. Prefer Kancheli and Zatsepin. All new research work directed to canonical grudgemixes workspace; legacy repos reference-only. Do not invent downloads. Verify reported files independently before promoting to FILE VERIFIED. For music projects, continue highest-priority research or queue-preparation if no READY FOR GROK items.
+
+## 2026-11-20 — Grok — Stagger Lee family coverage (Ma Rainey, Cliff Edwards)
+
+### Task claimed
+Find and download additional early or relevant archival audio tracks related to existing candidates or new leads (revenge, spite, grievance). Focused on Stagger Lee / Stack O'Lee narrative family for coverage.
+
+### Result
+- grudgemixes Drive folder (1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY):
+  - GM-US-MaRainey_Stack_OLee_Blues_Signature908B.mp3 from Internet Archive (https://archive.org/details/78_stack-olee-blues_ma-rainey-and-her-georgia-band-joe-smith-taylor-williams_gbia0253947b). Signature 908-B access copy of 1925/26 vocal blues. MP3 ~179.5s, 48kHz stereo. Drive ID 1DokZBeg-J4zGibHNUTZROhixXUj4u9us.
+  - GM-US-CliffEdwards_Stack_O_Lee_Part1.mp3 and Part2.mp3 from https://archive.org/details/CliffEdwards-StackOlee. Access copies, ~163s and ~152s. Drive IDs 1ysTQOlhgFMHdnqKvOAlOLoL1b-zC7s1m and 1GTYW2BRaetFpxubzBixjo57haU8E_T5I.
+- Updated Drive TRACK_MAPPING.md (new file ID 11rJ-axfM3nUSoQhVUuUpRwylUFe7M9SC) with the retrievals.
+- Metrics: Files uploaded and verified in Drive this session: 3 (Ma Rainey + 2 Cliff Edwards).
+
+### Handoff
+Continue highest-priority research or queue-preparation. Next film-mix extract if needed (58m-60m) or additional Stagger Lee / Jesse James / other grievance leads from IA/LOC free sources. All new research work directed to canonical grudgemixes workspace. Do not invent downloads. Verify reported files independently before promoting to FILE VERIFIED.
