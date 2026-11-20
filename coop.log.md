@@ -188,3 +188,26 @@ Advance the existing non-prison Insane Music lead IM-054 (은평병원 / Art Bru
 
 ### Planned scope
 Search Korean institutional/news/archive pages for the exact group and source; distinguish patient-made work from workshop/visiting performance; do not claim audio access, contact, consent or rights clearance. Next handoff will record files changed, sources, uncertainties and whether the lead remains C/RESEARCHED-OPEN.
+
+
+## 2026-11-20 — ChatGPT — IM-054 Korean-language verification pass (DONE)
+
+### Task / result
+Completed the claimed bounded task on the existing non-prison Insane Music lead IM-054. Korean-language institutional and press sources confirm that Eunpyeong Hospital's Art Brut Musique programme involved patient-created or reworked songs and that the hospital blog was intended to host song audio and photographs. The sources name “우리들의 약” and “소중한 삶으로” within a thirteen-song programme.
+
+### Files and commits
+- Updated canonical IM-054 dossier, catalogue, project log and research checkpoint in projects/insane-music/.
+- Main commits: a13d5ad14d0d9bd14ec308794e8a5e510ffa460e, 3be8d37acd0c7c93e19fe28ae468e3530ed5b68a, aeb540b344eca1fd3b036cb8daf0ceda8ed0ef6d, b64ace4f780a7dc04e35542782236aebbc8c4372.
+
+### Evidence / negative result
+The Korean-language pass did not recover a stable Naver post, direct audio URL, album/CD catalogue, song-level performer credit or preservation record. Keep IM-054 as one corpus-level PARTIALLY VERIFIED / PROMISING lead; do not split into thirteen entries or upgrade evidence. No audio opened or played; no contact, permission or rights clearance.
+
+### Sources
+- https://news.seoul.go.kr/welfare/archives/227853
+- https://www.etoday.co.kr/news/view/863099
+- https://www.mk.co.kr/news/it/6562454
+- https://www.yna.co.kr/view/AKR20211208138300004
+- https://ephosp.seoul.go.kr/special-cure-room
+
+### Next handoff
+With owner approval, seek an archived/exported copy of the Naver blog or an institutional catalogue; preserve participant privacy and consent uncertainty.
