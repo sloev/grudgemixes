@@ -182,3 +182,28 @@ Sources checked 2026-11-19:
 - OpenBiblio thesis copy: https://openbiblio.museodelamemoria.cl/media/digitales/TESIS_EDUCACION%20MUSICAL.pdf
 
 No audio was auditioned, downloaded or uploaded; no physical carrier inspected; no archive contact or rights clearance occurred.
+
+## 2026-11-20 — Insane Music — Berlin Lautarchiv Armenian camp-recording pass (PARTIAL)
+
+### Bounded task claimed
+Continue the active Austria / WWI POW archive queue with an item-level audit, then check the adjacent Berlin camp-recording corpus for exact musical objects. Keep the Vienna Phonogrammarchiv, Berlin Phonogramm-Archiv and Berlin Lautarchiv distinct.
+
+### Findings
+- No additional Vienna Phonogrammarchiv Series 17/1–5 musical call number was verified beyond the existing Ph 2647 item.
+- The Berlin Lautarchiv catalogue exposes a specific 1916 Armenian-language shellac-disc cluster around singer “Der Gregorianz, Lewon”: PK 477/1 “Das Lied des Sergo” (1:30; genre tag “Revolutionslied”), PK 477/2 “Soldatenlied” (0:38), PK 478 “Arams Lied” (1:33), PK 481/1 Armenian “Liebeslied” (0:55) and PK 481/2 “Liebeslied (tatarisch)” (0:40; language label uncertain). PK 479/1, PK 479/2, PK 480/1–3 are linked lost items; PK 483/1 is a spoken fairy-tale item, not music.
+- Item pages give Mannheim, “Internierungslager”, 27 cm shellac and catalogue date 1916-11-01. The archive's own holdings and usage pages clarify that songs occur in the WWI POW corpus and that access to most audio requires contacting the archive; this is not a public direct-download route.
+- The archive tag “Revolutionslied” is not a lyric translation. Composition/authorship, exact Armenian text, the singer's individual POW status and precise camp site remain unresolved. Treat this as a provisional environment-led candidate, not a claim that the songs were composed in the camp.
+- No new Grok request or transfer manifest entry: no public direct audio/download route was exposed.
+
+### Files
+- Updated projects/insanemusic/environment-leads.md.
+- Updated projects/insanemusic/research_method.md.
+- Appended this entry to projects/insanemusic/coop.log.md.
+- projects/insanemusic/TRACK_MAPPING.md unchanged.
+
+### Migration and ID caution
+The designated projects/insanemusic catalogue currently ends at IM-051. A separate projects/insane-music redirect-copy contains IM-052–054 and an IM-001 update but is not the designated workspace; no records were copied and no new IM-ID was assigned pending canonical reconciliation.
+
+### Metrics and next
+New numbered catalogue entries: 0. New unnumbered item-level lead clusters: 1. New authorised Grok requests: 0. Audio downloaded/uploaded: 0. Next: continue Series 17/1–5 data-CD audit, then obtain owner approval before requesting the Lautarchiv PK 477 documents/audio access.
+
