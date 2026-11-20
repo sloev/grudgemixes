@@ -172,3 +172,7 @@ No audio auditioned, downloaded or uploaded; no archive contacted; nothing clear
 
 ### Next
 Write dossiers and assign IDs for the new items; find the Lautarchiv PK number for Jas Bahadur Rai; locate a transfer of Paramount 12257-A; confirm the Drive Ruffo file is mx 2735f; open archive and community-consent requests for Vols. 5–7.
+
+## 2026-11-20 — Claude — *Music in Spite* universe expansion (owner direction)
+
+Owner widened *Music in Spite* to music made where it was not expected or tolerated, and asked for found art / found tapes. Added `research/music-in-spite-universe-2026-11-20.md`: eight territories (Banned, Scratched, Smuggled, Hidden, Confined, Unwelcome voices, Untaught, Found), a proposed found-tape rule, and provisional Vol. 8 (Banned, Scratched, Smuggled) and Vol. 9 (Found). Sources cited in the file. No IDs assigned, no audio auditioned, nothing cleared. Next: dossiers for Tirén cylinder 0212, a bone record, PPU, SABC-barred "Snor City" and "Change is Pain"; approach found-tape collectors.
