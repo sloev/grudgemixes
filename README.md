@@ -198,3 +198,8 @@ Recent additions illustrate this correction: Egyptian economic-grievance reperto
 - No new READY FOR GROK item: no authorised direct audio/download route was verified. Root TRACK_MAPPING.md remains unchanged.
 
 See the GM-AM-005 lead dossier, Japan rōkyoku dossier and global map for evidence and source distinctions.
+
+## Research snapshot addendum — 2026-11-20
+
+- **GM-AM-006** (Mardiros Tashjian, solo Columbia “Dalvorig”, 1909) remains **B — PROBABLE CANDIDATE**. The National Library of Armenia's 1924 *Songs of Armenia* provides a printed score witness, “Dalvorigtsi / The Son of Dalvorig”, credited to M. Damadian and arranged by K. H. Aigouni. It strengthens the song-family evidence but does not verify the exact 1909 master, matrix or lyrics. No new READY FOR GROK item.
+
