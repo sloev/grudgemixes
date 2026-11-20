@@ -334,3 +334,29 @@ Sources: https://arsch.bandcamp.com/album/arsch ; https://www.empty-space.ch/wor
 - **New qualified leads:** IM-053 “Selections from Eloise Symphony” (1948), an item-level CSU audiotape record linked cautiously to a contemporary report of a professional orchestra performance of a hospital co-composition; IM-054 은평병원 아트브뤼트 뮤지크, one blog-hosted patient-created song corpus attested by Seoul and Newsis. IM-054 is one corpus, not thirteen song leads.
 - **Blockers:** CSU digital files were not opened; performer/session for IM-053 unknown; Naver blog item-level access blocked; rights and participant consent unknown. No audio played, no archive contacted, no permission sought.
 - **Next tasks:** baseline IM-041; with owner approval request CSU item-level access and rights/provenance; identify stable Eunpyeong blog posts and consent conditions; rotate next discovery to a different region/language.
+
+
+## 2026-11-20 — ChatGPT — IM-054 Korean-language verification pass (DONE)
+
+### Task
+Advance the existing non-prison Insane Music lead IM-054 using Korean-language institutional and press sources; distinguish participant-created music from visiting performance and test whether item-level audio can be recovered.
+
+### Findings
+- Seoul Metropolitan Government (2014) says the Art Brut Musique festival presented patient-created songs and that the hospital blog would publish the creative process, song audio and photographs.
+- Korean reports from 2014, 2015 and 2021 corroborate that in-patients created or reworked songs in music therapy; the 2015 report names “우리들의 약” and “소중한 삶으로” within a thirteen-song programme.
+- The Eunpyeong Hospital music-therapy page documents song-making, singing and improvisation as programme methods, but does not identify a particular surviving recording.
+- Bounded negative result: searches did not recover a stable Naver post, direct audio URL, album/CD catalogue, song-level performer credit or preservation record. The linked blog remains the main unresolved route.
+
+### Status / files
+- IM-054 remains one corpus-level PARTIALLY VERIFIED / PROMISING lead. No split into thirteen song entries and no evidence-grade upgrade.
+- Updated `projects/insane-music/research/eunpyeong-art-brut-im-054-2012-2019-2026-11-20.md`, `projects/insane-music/catalogue.md`, and this project log. Shared `coop.log.md` already contains the bounded-task claim and will receive the final handoff separately.
+
+### Sources
+- https://news.seoul.go.kr/welfare/archives/227853
+- https://www.etoday.co.kr/news/view/863099
+- https://www.mk.co.kr/news/it/6562454
+- https://www.yna.co.kr/view/AKR20211208138300004
+- https://ephosp.seoul.go.kr/special-cure-room
+
+### Next handoff
+With owner approval, seek a stable institutional export or archived copy of the Naver blog; record song title, date, group credit, medium, provenance, consent and rights before any item-level promotion. No audio was opened or played, no contact was made, and no rights were cleared.
