@@ -49,6 +49,9 @@ Recordings from poorly documented, locally marginalised, informal, underground, 
 ### G. Art environments and alternative communities
 Music made within documented outsider-art communities, alternative living environments, community workshops, disability-led arts settings, prison or other closed institutions, and comparable settings. Explain the specific relationship and do not conflate different kinds of institution or experience.
 
+### H. Unwanted music (strand added 2026-11-20)
+Music that was rejected, ridiculed or used as a nuisance, where the spite relationship is documented. Three branches: (1) **rough music**, the noise rituals of charivari, *cencerrada*, *scampanata* and *Katzenmusik* used to shame an offender; (2) **music as nuisance**, music engineered or deployed to annoy or repel; (3) **unwanted voices**, makers whose music the culture laughed at or ignored and who made it anyway. The joke is on taste, never on the maker. Famous anchors are context only (§3B). Strangeness alone is never enough (§4). Rough-music recordings must protect private targets. Full strand note: `research/unwanted-strand-annoying-and-weirdo-music-2026-11-20.md`.
+
 ### Admission threshold
 For a main-discography entry, require:
 1. evidence that the recording exists;

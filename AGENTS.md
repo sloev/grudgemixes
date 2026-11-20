@@ -7,7 +7,7 @@
 | Project | Admission rule | Rules file |
 |---|---|---|
 | **Grudge Mixes** | A recorded grievance-response (revenge, retaliation, punishment, accusation, curse, feud, defiance, inherited grievance) recorded **before 1926**. | `projects/grudge-mixes/METHODOLOGY.md` |
-| **Insane Music** (published as *Music in Spite*) | An extant, identifiable recording of music made where it was not expected or not tolerated: confinement, banned or scratched music, unwelcome voices, untaught/DIY makers, found tapes. Any date. | `projects/insane-music/method.md` |
+| **Insane Music** (published as *Music in Spite*) | An extant, identifiable recording of music made where it was not expected or not tolerated: confinement, banned or scratched music, unwelcome voices, untaught/DIY makers, found tapes, and the *Unwanted* strand (rough music, music as nuisance, ridiculed makers; method.md §3H). Any date. | `projects/insane-music/method.md` |
 
 Keep each project's rules separate. A track may fit both; say so.
 

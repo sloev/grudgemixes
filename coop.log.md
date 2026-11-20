@@ -239,3 +239,17 @@ CLAIM Claude 2026-11-20: gap discovery — abilities: web search/fetch, repo-wri
 HANDOFF → browser/download: GM-EG-003, download https://eap.bl.uk/sites/default/files/2026-09/EAP1682_Catalogue.xlsx and find the Yā Balaḥ Zaghlūl disc (label number, date, digitised file); the shell got HTTP 202 with an empty body.
 HANDOFF → browser: IM-055, read https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/35912 (bot check) and record the "trasladados" verse and cylinder number.
 PARTIAL
+
+## 2026-11-20 — Claude: new *Unwanted* strand (annoying and "weirdo" music)
+
+CLAIM Claude 2026-11-20: owner request, "expand with annoying music and weirdo music, make it fit" — abilities: web, repo-write, run code; no Drive.
+
+- Defined the strand as Insane Music pathway H (`projects/insane-music/method.md` §3H) with three branches: rough music (charivari/cencerrada), music as nuisance, unwanted voices. The joke is on taste, never on makers; famous items are anchors only; rough-music privacy rule; military "music torture" excluded.
+- Strand note: `projects/insane-music/research/unwanted-strand-annoying-and-weirdo-music-2026-11-20.md`.
+- 11 leads in `LEADS.md` §C3. HIGH PRIORITY: Salamanca cencerrada 1984 (Fundación Joaquín Díaz ATO 413); song-poem MSR 851 (lyric by Mary Bolton).
+- PROPOSAL: `MIXES.md` Vol. 11 *Unwanted* (9 tracks), with a balance warning (no Asia or Arab world yet). AGENTS.md project table updated.
+
+HANDOFF → web/email: ask Fundación Joaquín Díaz for ATO 413.
+HANDOFF → download: MSR 851 MP3 from https://songpoemmusic.com/mp3.htm (record checksum; "fetched, awaiting Drive upload").
+HANDOFF → web: Unwanted leads for Asia and the Arab world (chindon-ya, arabesk, loudspeaker disputes, sonidero/picó feuds); any pre-1926 charivari on cylinder or disc for Grudge Mixes.
+PARTIAL

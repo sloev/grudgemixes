@@ -40,6 +40,7 @@ What we want the listener to take away:
 | 8 | Made Anyway | *Music in Spite* | 6 | Denmark, Philippines, Argentina, Brazil, Ghana, Switzerland | 0 |
 | 9 | Banned, Scratched, Smuggled | *Music in Spite* | 7 | USSR, Czechoslovakia, Kurdistan/Turkey, Afghanistan, South Africa, Algeria | 0 |
 | 10 | Found | *Music in Spite* | open | Ainu Sakhalin, Brazil, Ghana, thrift-store tapes worldwide | 0 |
+| 11 | Unwanted (PROPOSAL) | *Music in Spite* | 9 | Spain, US, Liberia, UK, France | 0 |
 
 ## Vol. 1 — The Inherited Account (Grudge Mixes)
 
@@ -172,6 +173,24 @@ Banning music changes the carrier, not the music.
 Recordings that survived by accident. Found-tape rule: publish only after a documented attempt to trace the maker, with a public "is this yours?" notice and royalties held; never private speech.
 
 Anchors: Piłsudski's Ainu cylinders (1902–05, found in Poland 1977; ⚠ Ainu consent); "A FITA" protest cassette, Copacabana (IM-043); Ata Kak (IM-046); G.D.E. demo (IM-040). Remaining slots open, to be chosen with found-tape collectors (The Cassette Archive, Intertapes).
+
+## Vol. 11 — Unwanted (PROPOSAL, 2026-11-20; awaits owner)
+
+Who decides what is unwanted? Rough music as a village's verdict, songs built to be hated, music used to drive people away, and makers the culture laughed at. The joke is on taste, never on the makers. Spitebites humour is allowed in the framing of nuisance tracks; makers are never mocked. Famous anchors open and close; the middle is discovery.
+
+| # | Track | Recording | What it tells | Downloaded |
+|---|---|---|---|---|
+| 1 | Cencerrada, Salamanca | Fundación Joaquín Díaz ATO 413, 1984 | A village's noise sentence, recorded. | No ⚠ privacy |
+| 2 | Komar & Melamid / Dave Soldier, "The Most Unwanted Song" (excerpt) | Dia, 1997 | The song a poll said nobody wants. | No ⚠ |
+| 3 | Bobbi Blake, "My Husband, Lover, Friend" (lyric Mary Bolton) | MSR 851 song-poem | An ordinary woman's paid-for song, then silence. | No (MP3 online) ⚠ |
+| 4 | Malinda Jackson Parker, "Mr. Mosquito" | Liberia, c.1971 | A congresswoman's singular piano songs. | No ⚠ |
+| 5 | Wesseh Freeman, oil-can guitar song | Monrovia, 2015–18 | A guitar built from what others threw away. | No ⚠ consent |
+| 6 | The Shaggs, "Philosophy of the World" | Third World, 1969 | The family record the world laughed at, then canonised. | No ⚠ |
+| 7 | Portsmouth Sinfonia, from *Hallelujah!* | Royal Albert Hall, 1974 | Incompetence as method, in the grandest hall. | No ⚠ |
+| 8 | Carleton & Deel, "Opus No. 1" | Garage four-track, 1989 | The teenage tape you hear on hold. | No ⚠ |
+| 9 | Satie, *Vexations* (one statement, or the end of a marathon) | 1893 / 1963 | 840 times; still here? | No |
+
+Balance problem to fix before adoption: 4 US / 2 Liberia / 1 Spain / 1 UK / 1 France; no Asia or Arab world yet (see gaps in the strand note). Alternative: feed tracks 1, 3–5 into Vols. 8–10 instead of a new volume.
 
 ## Still missing
 

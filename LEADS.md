@@ -17,7 +17,8 @@
 | A. Grudge Mixes dossiers (candidates and leads) | 53 |
 | B. Grudge Mixes leads held in research notes | 14 |
 | C. Downloaded files without dossiers, and new leads of 2026-11-20 | 35 |
-| D. Insane Music catalogue (IM-001 – IM-054) | 52 |
+| C3. Unwanted strand leads | 11 |
+| D. Insane Music catalogue (IM-001 – IM-055) | 53 |
 | Entries with a downloaded file | 20 |
 
 Known ID problems to fix: 
@@ -1497,6 +1498,128 @@ Grouped by region so the spread is visible. None has been listened to. Rights no
 - "Kaulana Nā Pua" (Hawai‘i, 1893) — written for Royal Hawaiian Band members who refused the Provisional Government's loyalty oath ("Mele ʻAi Pōhaku", the stone-eating song). Searched again on 2026-11-20: still no pre-1926 recording found; the earliest commercial Hawaiian chant discs on record are 1930s Hawaiian Transcriptions. Helen Roberts' 1923–24 Bishop Museum cylinders are the one pre-1926 place left to check.
 - Lead Belly, "Governor O.K. Allen" (Angola, 1934) — pardon song; famous; reserve.
 - Ma Rainey, "Chain Gang Blues" (Paramount 12338, 1925) — reserve; ⚠ Thomas A. Dorsey d. 1993.
+
+---
+
+## C3. The *Unwanted* strand: rough music, music as nuisance, unwanted voices (2026-11-20)
+
+A new Insane Music pathway (method.md §3H). The joke is on taste, never on the maker. Famous items are anchors only (method §3B). None has been listened to.
+
+#### Spain · Cencerrada recorded by the Centro de Cultura Tradicional de Salamanca, 1984 (Fundación Joaquín Díaz ATO 413)
+
+- **Project:** Insane Music (rough music; Grudge Mixes theme) · **Planned mix:** PROPOSAL Vol. 11 Unwanted · **Visibility:** HIGH PRIORITY · **Downloaded:** No
+- **Recording:** Fundación Joaquín Díaz, Urueña, archive item ATO 413 (cited in *Past & Present* 263, 2024)
+- **Background:** A *cencerrada* is the Spanish charivari: nocturnal cowbells, tins, whistles and firecrackers outside the house of someone the village judged, often a remarrying widow or widower.
+- **Why it fits:** Noise as a community's grudge-verdict, recorded in the field. It is the book's grudge-as-practice made audible.
+- **Rights / consent:** ⚠ Private targets: use only if unidentifiable. Archive permission.
+- **Sources:** https://academic.oup.com/past/article/263/1/249/7505499 · https://funjdiaz.net
+- **Dossier:** strand note `projects/insane-music/research/unwanted-strand-annoying-and-weirdo-music-2026-11-20.md`
+
+#### Spain · 15M movement *cacerolada* recordings, 2011–13
+
+- **Project:** Insane Music (rough music) · **Planned mix:** PROPOSAL Vol. 11 Unwanted · **Visibility:** PROMISING · **Downloaded:** No
+- **Recording:** Field recording used to open the *self/noise* podcast episode "Rough Music" (2013); recordist to identify
+- **Background:** Modern political pot-banging aimed at the state, the descendant (or reinvention) of the cencerrada.
+- **Why it fits:** Collective sonic grievance with a public target.
+- **Rights / consent:** Recordist consent.
+- **Sources:** https://www.eldiario.es/madrid/somos/malasana/de-aquellas-cencerradas-estas-caceroladas_1_6413678.html
+- **Dossier:** strand note `projects/insane-music/research/unwanted-strand-annoying-and-weirdo-music-2026-11-20.md`
+
+#### US/Russia · Komar & Melamid and Dave Soldier, "The Most Unwanted Song" (Dia Center, 1997)
+
+- **Project:** Insane Music (music as nuisance) · **Planned mix:** PROPOSAL Vol. 11 Unwanted · **Visibility:** CONTEXT / anchor · **Downloaded:** No
+- **Recording:** *The People's Choice Music* EP (Dia, 1997; reissued Mulatta/Needlejuice); about 22 min
+- **Background:** Built from a 1996 Dia web poll of about 500 visitors: the most hated instruments, styles and subjects, including bagpipes, accordion, opera-rap, a children's choir and Walmart jingles.
+- **Why it fits:** A song designed to be unwanted. It is the strand's manifesto.
+- **Rights / consent:** ⚠ Soldier, Mankin, label.
+- **Sources:** https://en.wikipedia.org/wiki/The_People%27s_Choice_Music · https://ubu.punctumbooks.com/sound/komar.html
+- **Dossier:** strand note `projects/insane-music/research/unwanted-strand-annoying-and-weirdo-music-2026-11-20.md`
+
+#### US · Tim Carleton & Darrick Deel, "Opus No. 1" (1989)
+
+- **Project:** Insane Music (music as nuisance; DIY) · **Planned mix:** PROPOSAL Vol. 11 Unwanted · **Visibility:** CONTEXT / anchor · **Downloaded:** No
+- **Recording:** Four-track garage recording, 1989; later Cisco CallManager default hold music
+- **Background:** Two 16-year-olds' practice tape became the music millions are forced to hear on hold.
+- **Why it fits:** Unchosen listening: a DIY tape turned into a daily low-grade nuisance.
+- **Rights / consent:** ⚠ Living makers; Carleton says he kept ownership.
+- **Sources:** https://www.smithsonianmag.com/innovation/a-brief-history-of-hold-music-from-early-patents-to-the-soundtrack-of-customer-service-purgatory-180989185/ · https://globalnews.ca/news/10416687/on-hold-music-history/amp/
+- **Dossier:** strand note `projects/insane-music/research/unwanted-strand-annoying-and-weirdo-music-2026-11-20.md`
+
+#### France/US · Erik Satie, *Vexations* (1893); first 840-repetition relay, Pocket Theatre NYC, 9–10 Sept 1963
+
+- **Project:** Insane Music (music as nuisance); composition pre-1926 · **Planned mix:** PROPOSAL Vol. 11 Unwanted · **Visibility:** CONTEXT / anchor · **Downloaded:** No
+- **Recording:** Recording to choose (one statement, or the end of a marathon)
+- **Background:** A one-page piece with a note about 840 repetitions; Cage's 1963 relay lasted 18 h 40 min.
+- **Why it fits:** Repetition as endurance and vexation; a closing track.
+- **Rights / consent:** Composition public domain (Satie d. 1925); the performance needs licensing.
+- **Sources:** https://en.wikipedia.org/wiki/Vexations · https://time.com/archive/6808157/recitals-shoot-the-piano-players
+- **Dossier:** strand note `projects/insane-music/research/unwanted-strand-annoying-and-weirdo-music-2026-11-20.md`
+
+#### US · Bobbi Blake, "My Husband, Lover, Friend", lyric by Mary Bolton (MSR 851), song-poem
+
+- **Project:** Insane Music (unwanted voices; found art) · **Planned mix:** PROPOSAL Vol. 11 Unwanted · **Visibility:** HIGH PRIORITY · **Downloaded:** No (MP3 available)
+- **Recording:** MSR Records 45, Hollywood; MP3 on the American Song-Poem Music Archives
+- **Background:** Song-poems: amateurs paid companies to set their lyrics; the records were rarely heard beyond the customer.
+- **Why it fits:** An ordinary woman's words, paid into existence and then ignored. Found art.
+- **Rights / consent:** ⚠ Lyricist or estate; MSR successor.
+- **Sources:** https://songpoemmusic.com/mp3.htm · https://en.wikipedia.org/wiki/Song_poem
+- **Dossier:** strand note `projects/insane-music/research/unwanted-strand-annoying-and-weirdo-music-2026-11-20.md`
+
+#### US · Rodd Keith, song-poem recordings (Preview / MSR, late 1960s–1974)
+
+- **Project:** Insane Music (unwanted voices) · **Planned mix:** PROPOSAL Vol. 11 Unwanted · **Visibility:** PROMISING · **Downloaded:** No
+- **Recording:** e.g. "I Died Today" (compilation of the same name)
+- **Background:** The best-known song-poem musician, setting hundreds of strangers' lyrics.
+- **Why it fits:** Craft in service of unwanted lyrics.
+- **Rights / consent:** ⚠ Estate.
+- **Sources:** https://freeform.wfmu.org/LCD/18/rodd.html · https://songpoemmusic.com/comps/idied_nt.htm
+- **Dossier:** strand note `projects/insane-music/research/unwanted-strand-annoying-and-weirdo-music-2026-11-20.md`
+
+#### Liberia · Congresswoman Malinda Jackson Parker, *The Liberian Landmark Joy* (c.1971), e.g. "Mr. Mosquito"
+
+- **Project:** Insane Music (unwanted voices) · **Planned mix:** PROPOSAL Vol. 11 Unwanted · **Visibility:** PROMISING · **Downloaded:** No
+- **Recording:** LP c.1971; 2005 digital EP *Tubman Goodtype Songs of Liberia*; 2020 remaster
+- **Background:** Singer-pianist (c.1903–1978) and former member of the House of Representatives; half-spoken, half-sung praise songs and odes, self-accompanied.
+- **Why it fits:** A self-made, singular West African woman's voice, later labelled "outsider" abroad. Check how she was heard at home.
+- **Rights / consent:** ⚠ Estate.
+- **Sources:** https://en.wikipedia.org/wiki/Malinda_Jackson_Parker · https://blogs.voanews.com/music-time-in-africa/2008/03/04/lost-liberian-45s-from-the-1960s/
+- **Dossier:** strand note `projects/insane-music/research/unwanted-strand-annoying-and-weirdo-music-2026-11-20.md`
+
+#### Liberia · Wesseh "Weesay" Freeman (1976–2018), oil-can guitar, Monrovia
+
+- **Project:** Insane Music (unwanted voices; homemade instruments) · **Planned mix:** PROPOSAL Vol. 11 Unwanted · **Visibility:** PROMISING · **Downloaded:** No
+- **Recording:** Street and YouTube recordings, 2015–18; recording to identify
+- **Background:** Self-taught; built guitars from oil cans, machete-shaped necks and bicycle-cable strings; went viral in 2016.
+- **Why it fits:** A homemade-instrument street practice. Admit for that, not for his disability (method §4).
+- **Rights / consent:** ⚠ Family consent; the jingle belongs to the brand.
+- **Sources:** https://en.wikipedia.org/wiki/Wesseh_Freeman
+- **Dossier:** strand note `projects/insane-music/research/unwanted-strand-annoying-and-weirdo-music-2026-11-20.md`
+
+#### US · The Shaggs, "Philosophy of the World" (Third World, 1969)
+
+- **Project:** Insane Music (unwanted voices) · **Planned mix:** PROPOSAL Vol. 11 Unwanted · **Visibility:** CONTEXT / anchor · **Downloaded:** No
+- **Recording:** LP recorded at Fleetwood Studios, Revere, 9 Mar 1969; 1,000 pressed, about 100 survived
+- **Background:** Three sisters made to record by their father; famously both mocked and revered.
+- **Why it fits:** The archetype of the unwanted voice. The anchor, not the discovery.
+- **Rights / consent:** ⚠ Living makers; Light in the Attic.
+- **Sources:** https://en.wikipedia.org/wiki/The_Shaggs
+- **Dossier:** strand note `projects/insane-music/research/unwanted-strand-annoying-and-weirdo-music-2026-11-20.md`
+
+#### UK · Portsmouth Sinfonia, *Hallelujah!* (Royal Albert Hall, 28 May 1974)
+
+- **Project:** Insane Music (unwanted voices, by design) · **Planned mix:** PROPOSAL Vol. 11 Unwanted · **Visibility:** CONTEXT / anchor · **Downloaded:** No
+- **Recording:** Live LP produced by Brian Eno
+- **Background:** Gavin Bryars's 1970 art-school orchestra, open to anyone; trained players had to use instruments they could not play.
+- **Why it fits:** Incompetence as method; the polite concert hall made to hear it.
+- **Rights / consent:** ⚠ Label and performers.
+- **Sources:** https://en.wikipedia.org/wiki/Portsmouth_Sinfonia
+- **Dossier:** strand note `projects/insane-music/research/unwanted-strand-annoying-and-weirdo-music-2026-11-20.md`
+
+#### Context only (Unwanted)
+
+- Rockdale, Sydney, 2006: Barry Manilow and Doris Day blasted to drive away "hoons"; residents complained; Manilow answered with a letter. Use in liner notes. https://www.nbcnews.com/id/wbna13898170
+- Noriega, Panama, 1989: loud music at the Vatican embassy (military; excluded).
+- "Feels Like a Wish" (Brazil, 1990): internet mystery song identified Dec 2023.
 
 ---
 
