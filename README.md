@@ -20,6 +20,6 @@ Evidence lives in `projects/grudge-mixes/` and `projects/insane-music/`. Superse
 
 Nothing is cleared for release. About 20 tracks are in the project Drive as access copies; none has yet been played and checksummed by an agent. The publisher's clearance list is built from MIXES.md.
 
-## Follow-along site
+## Public blog
 
-A password-protected copy of LEADS, MIXES and all research is published to `sloev/grudgemusic-public` by `scripts/build_site.py`. The content is encrypted; the page decrypts it in the browser.
+The public repository `sloev/grudgemusic-public` is a plain music blog, **Spite Frequencies** (https://sloev.github.io/grudgemusic-public/, RSS at `/feed.xml`), with one post per piece. It is built by `scripts/build_blog.py` from `blog/posts/` and the publishable parts of `LEADS.md`. Rules are in AGENTS.md §11.

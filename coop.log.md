@@ -253,3 +253,12 @@ PARTIAL
 - Other new leads: Velly Joonas, Punk Perestroika, K. Yoshimatsu/DD. Records, Taher Shah, Al Houariyat, Bodega Pop halal-shop tapes, Turnstyle News ZA86, the "pretty bird" archive.org tape.
 HANDOFF → download/browser: verify each C7a URL, fetch files where the licence allows, record checksums; copy URLs into dossiers.
 PARTIAL
+
+## 2026-11-20 — Claude: public site is now the blog *Spite Frequencies*
+
+- Owner: the public page is "just a blog", unencrypted, one post per piece, with RSS, images and recording embeds.
+- New `blog/posts/` (34 hand-written posts), `blog/about.md`, `scripts/build_blog.py` (adds about 88 auto posts from LEADS.md, with privacy/consent filters; 122 posts in total), `.github/workflows/publish-blog.yml`.
+- Removed the encrypted site builder and workflow. `sloev/grudgemusic-public` now holds only the generated blog. AGENTS.md §11 and README rewritten.
+- Owner to do: enable GitHub Pages (main branch, root) on grudgemusic-public; the `SITE_PASSWORD` secret is no longer needed.
+HANDOFF → writing: promote HIGH PRIORITY auto posts to hand-written posts; add embeds.
+DONE

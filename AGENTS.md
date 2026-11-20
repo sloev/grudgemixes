@@ -30,7 +30,9 @@ projects/grudge-mixes/    METHODOLOGY.md, candidates/, leads/, research/, drive-
 projects/insane-music/    method.md, research_method.md, catalogue.md, environment-leads.md,
                           archive-requests.md, TRACK_MAPPING.md, research/, drive-audio-inventory/,
                           legacy/ (snapshots from the retired repo and the old duplicate folder)
-scripts/build_site.py     builds the encrypted follow-along site
+blog/posts/                hand-written public blog posts (front matter + Markdown)
+blog/about.md              the blog's About page
+scripts/build_blog.py      builds the public blog "Spite Frequencies"
 archive/                  superseded plans and root documents; read-only history
 ```
 
@@ -49,7 +51,7 @@ Start every session by stating your abilities in your claim line (for example `a
 | **Play or analyse audio** | Listen, time, checksum and spot-check the files in Drive; confirm the recording is the one claimed (label voice-over, take, speed); mark `Yes (verified)`. | …verify from a file name or a listing alone. |
 | **Write to the repo** | Every agent with write access commits its own dossier, `LEADS.md` and log updates directly to `main`. | …rewrite another agent's dossier wholesale; append or correct with a dated note. |
 | **No repo write** (e.g. a chat-only agent) | Put the finished text, with file paths, in a deposit file the owner pastes in, or give it to the owner in chat; an agent with write access commits it and credits you in the log. | …assume your work was saved. |
-| **Run code and push** | Rebuild `LEADS.md` sections, run `scripts/build_site.py` locally to check it builds, fix tooling. | …print or commit the site password. |
+| **Run code and push** | Rebuild `LEADS.md` sections, run `scripts/build_blog.py` locally to check the blog builds, fix tooling. | …publish anything by any other route. |
 
 If a task needs an ability you lack, finish the part you can do, write the exact next step and the ability it needs in `coop.log.md`, and stop.
 
@@ -102,6 +104,45 @@ If a task needs an ability you lack, finish the part you can do, write the exact
 - Check for collisions before assigning. Known collisions to fix: two `GM-AM-001` files and two `GM-IN-001` files (listed in `LEADS.md`).
 - New leads without IDs live in `LEADS.md` section C until a dossier is written; give them an ID then.
 
-## 11. Follow-along site
+## 11. The public blog: *Spite Frequencies*
 
-`scripts/build_site.py` renders `LEADS.md`, `MIXES.md` and every research Markdown file into one encrypted page and pushes it to the public repository `sloev/grudgemusic-public`. It runs from `.github/workflows/publish-site.yml` on every push to `main`. The page decrypts only in the browser with the owner's password, which is kept in the `SITE_PASSWORD` repository secret and never written into any file. Do not publish anything outside this mechanism.
+The public repository `sloev/grudgemusic-public` is **only a blog**. It is open, not encrypted, and served by GitHub Pages at `https://sloev.github.io/grudgemusic-public/`, with an RSS feed at `/feed.xml`. Nothing else from this private repository is published.
+
+**How it is built.** `scripts/build_blog.py` makes one post per piece from two sources:
+1. **Hand-written posts** in `blog/posts/NN-slug.md`. These always win.
+2. **Auto-generated posts** for every other publishable `####` entry in `LEADS.md`, using its Recording / Background / Why it fits / Setting lines and its URLs.
+
+It also writes a generated SVG cover per post, an index with search and strand filters, the About page (`blog/about.md`) and a valid RSS 2.0 feed.
+
+**When it publishes.** `.github/workflows/publish-blog.yml` rebuilds and pushes to the public repository on every push to `main` that touches `blog/`, `LEADS.md` or the builder. It needs the `PUBLIC_SITE_TOKEN` secret. An agent who can push may also build locally and push the output by hand. The public repository is generated, so never edit it directly.
+
+**What is never published.** The builder skips leads whose text mentions consent, privacy, private speech, minors, children's voices, sacred material or Indigenous communities. It also skips confinement material (hospital, prison, camp and so on) unless the makers released it themselves on Bandcamp, plus the IDs in `SKIP_IDS`. Internal fields (status, planned mix, downloads, dossier paths, ⚠ rights flags) are stripped. If a lead must stay private for another reason, add its ID to `SKIP_IDS`. Never loosen these filters without the owner's say-so.
+
+**Writing a hand-written post.** Use this front matter, then 80–200 words in your own words:
+
+```
+---
+title: A sentence-like headline
+slug: short-kebab-slug
+place: City, Country
+year: 1919
+strand: The Account | Out of Turn | Made Anyway | Unwanted | Fighting Words | Found
+order: 35
+embed: youtube:VIDEOID | archive:IDENTIFIER | soundcloud:URL | audio:DIRECT_MP3_URL   (optional, one)
+listen: Label|https://...     (repeatable; links to where the recording lives)
+source: Label|https://...     (repeatable)
+---
+```
+
+Body rules:
+- No lyrics or long quotes.
+- Never mock makers.
+- Say what is uncertain.
+- Name the place, the year and the wrong.
+
+Only embed recordings from their owners' public players (YouTube, Internet Archive, SoundCloud, a direct archive MP3). Never upload audio to the blog. Covers are generated; do not add photographs of people.
+
+**Good next jobs for agents:**
+- Turn strong auto-generated posts into hand-written ones (start with the HIGH PRIORITY leads).
+- Add `listen:` and `embed:` links as recordings are found.
+- Keep each `LEADS.md` entry's Background and Why it fits lines readable, because they become public text.
