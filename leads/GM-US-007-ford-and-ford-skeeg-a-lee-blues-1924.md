@@ -35,3 +35,33 @@ No exact audio file or verified archive access route was confirmed in this resea
 - Tommy Ladnier discography: https://www.jazzresearch.se/upl/website/page-1/LadnierDiscographyDecember620222.pdf
 - Scholarly chapter, *The Bigger Bang, Part 3: Folk-Blues*: https://socialhistoryofamericanmusic.com/wp-content/uploads/2023/02/42-The-Bigger-Bang-pt.-3-Folk-Blues.pdf
 - Stagger Lee recording chronology (secondary guide): https://www.staggerlee.com/history/1921-1930.php
+
+## Research update — 2026-11-20
+
+### Identity and fixation
+
+The 2022 Lars Lindström *Tommy Ladnier Discography* entry and the 2026-uploaded sixth-edition Brian Rust *Jazz & Ragtime Records* PDF independently identify Ford and Ford's “Skeeg-A-Lee Blues” as a Paramount recording from October 1924, matrix **1899-2**, issue **12244** (the Lindström entry gives side 12244-A and session dates 1–3 October). The Ladnier discography also quotes a Chicago Defender notice from August/November 1924 about Zollie and Ethel Ford recording for Paramount; that newspaper item is cited second-hand there, not independently inspected here.
+
+### Thematic conflict — do not promote by title
+
+The 2023 *Social History of American Music* chapter calls the Ford and Ford recording the first vocal version of Stagger Lee. Patrick Blackman's 2013 *Sing Out!* Stagolee compendium explicitly disputes the connection: he includes the recording among early examples but says the Ford and Ford track is hard to connect to the Stagolee narrative. The compendium identifies Ma Rainey's late-1925 recording, issued in 1926, as the first version with clearly recognizable Stagolee lines. This is a real scholarly/editorial disagreement, not a resolved lyric match. No authenticated lyric sheet or transcription tied to matrix 1899-2 was located.
+
+A web lyric-aggregator transcription surfaced, but it is not a primary source and could not be independently verified against the master. It is not used to establish the song's content. The YouTube link embedded in the *Sing Out!* page was not opened or played.
+
+### Assessment
+
+- **Identity/date/provenance:** substantially strengthened; 1924 fixation is supported by specialist discographies, with the exact session date supplied by Lindström.
+- **Theme:** unresolved. The title resemblance is insufficient, and the 2013 source explicitly questions the connection.
+- **Version/access:** no label scan or authenticated transfer was inspected; no listening occurred.
+- **Rights:** no permission or rights clearance obtained; no modern transfer is cleared by this research.
+
+**Disposition:** retain as **C — LEAD**, not a promoted Stagger Lee track. Mark the baseline item **RESEARCHED-OPEN**: the identity, date, conflicting interpretations, access and rights limitations are now explicit, but the exact lyric/narrative match remains open.
+
+**Deduplication note:** Ma Rainey's “Stack O'Lee Blues” (late-1925 fixation / 1926 issue) is recorded here as a related Stagger Lee-family comparison, not a separate new lead. The 1924 Ford and Ford record remains one underlying lead.
+
+### Sources (accessed 2026-11-20)
+
+- Brian Rust, *Jazz & Ragtime Records, 1897–1942*, 6th ed., [Mainspring Press PDF](https://mainspringpress.org/wp-content/uploads/2026/01/RUST_JRR-6.pdf).
+- Lars Lindström, *The Tommy Ladnier Discography* (2022), specialist discography cited in the existing dossier.
+- Patrick Blackman, [“Stagolee: A Digital Compendium — ‘They give him the road…’ The 1920's”](https://singout.org/stagolee-a-digital-compendium-they-give-him-the-road-the-1920s/) (*Sing Out!*, 29 April 2013).
+- *The Bigger Bang, Part 3: Folk-Blues*, [Social History of American Music chapter PDF](https://socialhistoryofamericanmusic.com/wp-content/uploads/2023/02/42-The-Bigger-Bang-pt.-3-Folk-Blues.pdf).
