@@ -403,3 +403,18 @@ No audio was auditioned/downloaded/uploaded; no file inspected; no contact, purc
 - **GM-US-007 — Ford and Ford, “Skeeg-A-Lee Blues” (1924):** baseline research advanced to RESEARCHED-OPEN. Specialist discographies establish Paramount 12244 / matrix 1899-2 / October 1924. The Stagolee association remains contested: the 2023 chapter calls it the first vocal version, while Patrick Blackman's 2013 *Sing Out!* compendium says the connection is hard to support. No lyric transcription tied to the master, label scan or authenticated transfer was verified; retain C-level and do not promote by title.
 - **GM-MX-003 — Valentín Mancera:** one new C-level lead, counted once for the song family. Separate Victor 97040 (Abrego y Picazo, matrix 12-Y, July 1905) and Victor 72590-A (Trio González, c.1920) witnesses; two distinct COLMEX print objects; later Columbia C2193 comparison copy. Exact text-to-master match and survival of the Victor copies remain open.
 - **Next exact tasks:** (1) advance baseline GM-AM-006; (2) locate Victor 97040 / 72590-A label or matrix-book images and lawful transfers; (3) collate both COLMEX print witnesses against authenticated audio; (4) continue Spanish-language Mexican/Caribbean discovery without splitting alternate versions into duplicate leads.
+
+## 2026-11-20 checkpoint — GM-AM-006 Armenian score witness
+
+- **GM-AM-006 remains B — PROBABLE CANDIDATE.** The National Library of Armenia's 1924 *Songs of Armenia* includes score No. 10 “Dalvorigtsi / The Son of Dalvorig”, credited to M. Damadian and arranged by K. H. Aigouni, marked Marziale. This strengthens the song-family's pre-1926 printed music evidence but does not identify the exact 1909 Columbia performance or its lyrics.
+- The Armenian Museum's 1909 solo discography still gives no matrix for “Dalvorig”; its separate 1910 Tashjian Brothers “Dalvorig” is E656 and must remain a different recording. The Museum page's visible audio example is “Hairenikt Mortsir”, not “Dalvorig”.
+- No exact audio/download URL, label/runout scan, matrix-book record or authorised private-copy route was found. No new READY FOR GROK item; root TRACK_MAPPING.md and GROK_HANDOFF.md remain unchanged.
+
+### Next exact queue
+1. **GM-AM-006:** locate a primary 1909 Columbia label/runout or matrix-book record and an authorised item-level audio route; compare the 1909 solo side with the 1924 score and 1910 E656 only as distinct versions.
+2. **GM-MX-003:** locate Victor 97040 / matrix 12-Y and Victor 72590-A label or matrix-book evidence and lawful transfers; preserve the two versions and both COLMEX print witnesses.
+3. Continue baseline GM-AM-008 and the Japanese Naramaru / Araki exact-text and date work.
+4. Continue global local-language discovery beyond the already screened Albania / Armenia / Japan leads; do not add weak candidates for regional balance.
+
+No audio was auditioned, downloaded or uploaded; no contact, purchase or rights clearance occurred.
+
