@@ -55,3 +55,19 @@ The 1896 Alice Stone Blackwell / Mihran Damadian “The Son of Dalvorig” text 
 **Programme status:** RESEARCHED-OPEN. Identity, reported 1909 session, distinction from the 1910 trio recording, pre-1909 text witness, access route and rights dependencies have been checked as far as available. Remaining dependencies: primary label/runout or matrix record; exact Armenian performance transcription; physical carrier / authorized audio access; reuse rights. No audio was auditioned or downloaded, no label image was inspected, no archive was contacted, and no rights were cleared.
 
 Sources checked 2026-11-19: Armenian Museum of America, “The Incomplete Story of Mardiros Der Sarkis Tashjian & His Brothers” (https://www.armenianmuseum.org/sound-archive/tashjian-story), especially its 1909 discography and the separate 1910 Tashjian Brothers list; Blackwell, *Armenian Poems* (1896), “The Son of Dalvorig”, pp. 135–138 (existing source record: https://archive.org/details/cu31924026917231; direct page opening was unavailable in this run).
+
+## 2026-11-20 — 1924 printed score witness: “Dalvorigtsi”
+
+The National Library of Armenia's digitized copy of **Songs of Armenia** (New York: Armenian Educational Foundation, 1924) contains No. 10, **“DALVORIGTSI / THE SON OF DALVORIG”**, with the author credit **M. DAMADIAN**, the arrangement credit **K. H. AIGOUNI**, and the tempo marking **Marziale**. The score and Latin transliteration appear around printed p. 19; the English text appears at printed p. 23 and is credited to **Alice Stone Blackwell**. The volume's title page names K. H. Aigouni as arranger and G. H. Paelian as editor. The PDF also contains a 1919 foreword and a note to the 1924 second edition.
+
+This is a valuable pre-1926 **printed musical-arrangement witness** for the Damadian / Dalvorig song family. It adds notation and an arrangement credit to the 1896 Blackwell text witness, but it is not an audio recording and does not establish the exact melody, arrangement or lyrics on Mardiros Tashjian's 1909 Columbia side. The score's lyric line is presented in Latin transliteration; the digitized OCR does not provide a reliable full Armenian-script transcription. The English translation is Blackwell's, so it is not an independent translation of the text.
+
+The Armenian Museum of America's item-specific discography still lists the 1909 solo “Dalvorig” with an **unknown matrix number**, paired with “Star Spangled Banner”. The same article separately lists the Tashjian Brothers' 1910 “Dalvorig” as Columbia E656. Keep the 1909 solo and 1910 trio objects distinct. The museum page's visible embedded audio example is “Hairenikt Mortsir”, not “Dalvorig”; no direct “Dalvorig” audio file or item-level listening route was exposed in this pass.
+
+**Evidence effect:** composition/text lineage is strengthened; the exact 1909 recording-to-score match remains unverified. **Status remains B — PROBABLE CANDIDATE.** No new READY FOR GROK request: the new source is printed sheet music, not an authorised audio download route.
+
+Sources checked 2026-11-20:
+- National Library of Armenia digitized score, *Songs of Armenia* (1924), No. 10, “Dalvorigtsi / The Son of Dalvorig”: https://haygirk.nla.am/upload/1512-1940/1901-1940/ergaran_1924.pdf
+- Armenian Museum of America, Harout Arakelian, “The Incomplete Story of Mardiros Der Sarkis Tashjian & His Brothers”, 1909/1910 discographies: https://www.armenianmuseum.org/sound-archive/tashjian-story
+- Existing 1896 Blackwell / Damadian witness: https://archive.org/details/cu31924026917231
+
