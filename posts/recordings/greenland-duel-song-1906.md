@@ -4,10 +4,13 @@ title: "Settling a quarrel with a drum"
 slug: "greenland-duel-song-1906"
 date: "2026-11-20"
 draft: false
+summary: "In East Greenland, a feud was settled by a public duel of mocking drum songs, caught on wax in 1906."
 who: "K'iwingatāk' (recorded by William Thalbitzer)"
 when: "1906"
 where: "Tasiilaq, East Greenland"
+country: "Greenland"
 what: "Duel song (drum-song duel), wax cylinder"
+medium: "wax cylinder"
 tags:
   - "fighting-words"
 recording_url: "https://www.lespressesdureel.com/EN/ouvrage.php?id=4997"

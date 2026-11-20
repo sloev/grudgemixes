@@ -4,10 +4,13 @@ title: "Julius Sutton, “Single Girl” (Gordon cylinder A79, Item NC117; 28 Oc
 slug: "julius-sutton-single-girl-gordon-cylinder-a79-item-nc117-28-octo"
 date: "2026-11-20"
 draft: true
+summary: "The recorded text opens by warning young women against marriage."
 who: "Julius Sutton"
 when: "1925"
 where: ""
+country: ""
 what: "“Single Girl” (Gordon cylinder A79, Item NC117; 28 October 1925)"
+medium: "wax cylinder"
 tags:
   - "the-account"
 recording_url: ""

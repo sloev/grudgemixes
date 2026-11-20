@@ -4,10 +4,13 @@ title: "Japan lead: Yoshida Naramaru, *Akō Gishi-den Toiri* (Royal Record)"
 slug: "japan-lead-yoshida-naramaru-akō-gishi-den-toiri-royal-record"
 date: "2026-11-20"
 draft: true
+summary: "Nichibunken’s Rōkyoku SP Record Digital Archive describes a collection of 9,998 SP records donated by collector Morikawa Tsukasa in 2014."
 who: "Yoshida Naramaru"
 when: ""
 where: ""
+country: ""
 what: "*Akō Gishi-den Toiri* (Royal Record)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

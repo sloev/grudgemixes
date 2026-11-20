@@ -4,10 +4,13 @@ title: "840 times"
 slug: "vexations-840-times"
 date: "2026-11-20"
 draft: false
+summary: "Satie's single page, to be played 840 times in a row: an endurance test that audiences sat through."
 who: "Erik Satie; John Cage's Pocket Theatre relay"
 when: "1893 / 1963"
 where: "Paris 1893 / New York 1963"
+country: "France"
 what: "Vexations, 840 repetitions"
+medium: "live performance"
 tags:
   - "unwanted"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Harry Oster, Angola prisoners' blues"
 slug: "harry-oster-angola-prisoners-blues"
 date: "2026-11-20"
 draft: true
+summary: "Where and when: Louisiana State Penitentiary; Date(s): 1950s; Medium: Tape; Folkways…"
 who: "Harry Oster"
 when: ""
 where: "Louisiana State Penitentiary"
+country: "USA"
 what: "Angola prisoners' blues"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Radio La Colifata, Hospital Borda, Buenos Aires"
 slug: "radio-la-colifata-hospital-borda-buenos-aires"
 date: "2026-11-20"
 draft: true
+summary: "radio run by patients from inside a psychiatric hospital since 1991; album Viva La Colifata (2009) with Manu Chao."
 who: "Radio La Colifata"
 when: ""
 where: "Argentina"
+country: "Argentina"
 what: "Hospital Borda, Buenos Aires"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

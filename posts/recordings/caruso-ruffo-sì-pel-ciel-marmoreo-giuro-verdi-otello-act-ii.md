@@ -4,10 +4,13 @@ title: "Caruso & Ruffo, \"Sì, pel ciel marmoreo giuro!\" (Verdi, *Otello*, Act 
 slug: "caruso-ruffo-sì-pel-ciel-marmoreo-giuro-verdi-otello-act-ii"
 date: "2026-11-20"
 draft: true
+summary: "Otello and Iago kneel and swear vengeance on heaven at the end of Act II, the opera's central revenge oath."
 who: "Caruso & Ruffo"
 when: "1914"
 where: ""
+country: ""
 what: "\"Sì, pel ciel marmoreo giuro!\" (Verdi, *Otello*, Act II)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

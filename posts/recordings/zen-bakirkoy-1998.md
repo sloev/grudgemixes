@@ -4,10 +4,13 @@ title: "Zen Bakirkoy 1998"
 slug: "zen-bakirkoy-1998"
 date: "2026-11-20"
 draft: true
+summary: "ZeN's Bakırköy Akıl Hastanesi'nde is a seven-track live album, with a 1999 cassette/CD release and a 2023 double-LP reissue."
 who: "Zen Bakirkoy 1998"
 when: ""
 where: "Visiting underground improv band at Bakırköy Psychiatric Hospital, Istanbul, Türkiye"
+country: "Türkiye"
 what: ""
+medium: "digital"
 tags:
   - "made-anyway"
 recording_url: "https://zelzelerecords.bandcamp.com/album/zen-bak-rk-y-ak-l-hastanesinde"

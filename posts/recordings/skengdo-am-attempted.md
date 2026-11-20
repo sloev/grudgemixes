@@ -4,10 +4,13 @@ title: "The first song a British court punished someone for performing"
 slug: "skengdo-am-attempted"
 date: "2026-11-20"
 draft: false
+summary: "A drill duo were barred by the courts from performing their own music, and performed it anyway."
 who: "Skengdo x AM"
 when: "2018–19"
 where: "London, UK"
+country: "UK"
 what: "“Attempted 1.0”"
+medium: "digital"
 tags:
   - "fighting-words"
 recording_url: ""

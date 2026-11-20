@@ -4,10 +4,13 @@ title: "Forty grimy cassettes behind the halal counter"
 slug: "bodega-pop-halal-shop-tapes"
 date: "2026-11-20"
 draft: false
+summary: "Forty Arab-world cassettes rescued from a halal butcher's shelf in Astoria."
 who: "Unknown artists; found by Gary Sullivan"
 when: "found 2017"
 where: "Astoria, New York"
+country: "USA"
 what: "Forty shop cassettes from the Arab world"
+medium: "cassette"
 tags:
   - "found"
 recording_url: "https://bodegapop.blogspot.com/2017/11/orchestra-djamal-mazhariphone-cassette.html"

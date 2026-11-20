@@ -4,10 +4,13 @@ title: "Ohio Penitentiary 511 Jazz Ensemble, Hard Luck Soul"
 slug: "ohio-penitentiary-511-jazz-ensemble-hard-luck-soul"
 date: "2026-11-20"
 draft: true
+summary: "Where and when: Ohio State Penitentiary; Date(s): 1971; Medium: Private LP; 2012…"
 who: "Ohio Penitentiary 511 Jazz Ensemble"
 when: "1971"
 where: "Ohio State Penitentiary"
+country: "USA"
 what: "Hard Luck Soul"
+medium: "digital"
 tags:
   - "made-anyway"
 recording_url: "https://jazzmanholygrailseries.bandcamp.com/album/hard-luck-soul"

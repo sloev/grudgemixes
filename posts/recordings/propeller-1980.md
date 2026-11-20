@@ -4,10 +4,13 @@ title: "The band whose tapes the radio destroyed"
 slug: "propeller-1980"
 date: "2026-11-20"
 draft: false
+summary: "An Estonian punk band played half-time at a football match and got Soviet punk banned."
 who: "Propeller (Peeter Volkonski and band)"
 when: "1980"
 where: "Tallinn, Estonia"
+country: "Estonia"
 what: "1980 recordings, issued as Propeller (Fugata, 1995)"
+medium: "reel-to-reel"
 tags:
   - "fighting-words"
 recording_url: "https://web.archive.org/web/20110720131601id_/http://www.volk.ee/24345.mp3"

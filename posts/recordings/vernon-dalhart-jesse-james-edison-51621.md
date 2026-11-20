@@ -4,10 +4,13 @@ title: "Vernon Dalhart, \"Jesse James\" (Edison 51621)"
 slug: "vernon-dalhart-jesse-james-edison-51621"
 date: "2026-11-20"
 draft: true
+summary: "Why it's here: third version of the \"dirty little coward\" accusation ballad."
 who: "Vernon Dalhart"
 when: ""
 where: ""
+country: ""
 what: "\"Jesse James\" (Edison 51621)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

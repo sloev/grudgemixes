@@ -15,10 +15,13 @@ title: "Headline, written like a sentence"
 slug: "same-as-file-name"
 date: "YYYY-MM-DD"               # date the post was written or last substantially rewritten
 draft: true                      # true until the post is finished
+summary: "One sentence (max 240 characters) shown in post lists"
 who: "Performer(s); composer/author/recordist where relevant"
 when: "1919"                     # year, date or range of the recording
 where: "City, Country"
+country: "Latvia"                # one place name for the location pill (modern country, or the historic state if clearer: "USSR"); "" if unknown
 what: "Title in original script and translation; label & catalogue / matrix or archive item"
+medium: "78 rpm disc"            # one of: 78 rpm disc, wax cylinder, x-ray record, vinyl, cassette, reel-to-reel, radio, field recording, live performance, video, digital; "" if unknown
 tags:
   - "the-account"                # one or more of: the-account, out-of-turn, made-anyway, unwanted, fighting-words, found
 recording_url: "https://..."     # the best public place to hear it ("" if none). YouTube, Internet Archive, SoundCloud or a direct audio file is embedded; anything else is shown as a Listen button
@@ -49,11 +52,15 @@ images: []
 Liner notes: 100–250 words about what the tracks tell, in order.
 ```
 
+## How posts appear in lists
+
+Lists show each post as a row: headline, a recording indicator (*Playable here* when `recording_url` can be embedded, *Recording link* when it can only be linked), pills, the `summary`, and *Read more*. A thumbnail appears only if `images` has an entry. The pills come from `medium`, the period (decade worked out from `when`), `country`, and `tags`. Readers filter by clicking a pill, so fill these fields consistently.
+
 ## Drafts and finishing
 
 - A post that isn't finished has `draft: true` and ends with a `## To do` list of what's missing. Drafts are kept in the repo but never published.
 - A **recording** is finished when:
-  - `who`, `what`, `when` and `where` are filled in precisely;
+  - `summary`, `who`, `what`, `when`, `where`, `country` and `medium` are filled in precisely (many draft summaries, countries and media were auto-filled; check them);
   - the story is in plain blog voice and every fact is backed by a link in `urls`;
   - `recording_url` is set if any public recording exists;
   - any consent or privacy question is resolved (see Ethics);

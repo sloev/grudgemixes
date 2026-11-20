@@ -4,10 +4,13 @@ title: "Julian Whiterose (\"J. Resigna\"), \"Iron Duke in the Land\" (Single Ton
 slug: "julian-whiterose-j-resigna-iron-duke-in-the-land-single-tone-cal"
 date: "2026-11-20"
 draft: true
+summary: "among the first calypsos recorded with lyrics, sung in English by the leader of the White Rose Masquerade Band (real name Henry Julian)."
 who: "Julian Whiterose"
 when: "1914"
 where: "Trinidad"
+country: "Trinidad"
 what: "\"J. Resigna\"), \"Iron Duke in the Land\" (Single Tone Calipso I), 1914"
+medium: "vinyl"
 tags:
   - "the-account"
 recording_url: ""

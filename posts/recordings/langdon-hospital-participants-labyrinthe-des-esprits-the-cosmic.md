@@ -4,10 +4,13 @@ title: "Langdon Hospital participants, Labyrinthe Des Esprits: The Cosmic Hunt"
 slug: "langdon-hospital-participants-labyrinthe-des-esprits-the-cosmic"
 date: "2026-11-20"
 draft: true
+summary: "Where and when: Langdon Hospital, Dawlish, UK (secure psychiatric); Date(s): Released Apr 2025; Medium: Digital (Spirit Duplicator /…"
 who: "Langdon Hospital participants"
 when: "2025"
 where: "Langdon Hospital, Dawlish, UK (secure psychiatric)"
+country: "UK"
 what: "Labyrinthe Des Esprits: The Cosmic Hunt"
+medium: "digital"
 tags:
   - "made-anyway"
 recording_url: "https://labyrinthedesesprits.bandcamp.com/album/the-cosmic-hunt"

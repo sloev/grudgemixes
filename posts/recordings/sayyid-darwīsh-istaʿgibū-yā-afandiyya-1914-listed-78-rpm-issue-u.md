@@ -4,10 +4,13 @@ title: "Sayyid Darwīsh, “Istaʿgibū yā Afandiyya” (1914-listed; 78 rpm is
 slug: "sayyid-darwīsh-istaʿgibū-yā-afandiyya-1914-listed-78-rpm-issue-u"
 date: "2026-11-20"
 draft: true
+summary: "This is a particularly valuable non-Anglophone lead because the text itself—not just the title—describes an economic grievance: kerosene price inflation, black-market selling, shortages, and the…"
 who: "Sayyid Darwīsh"
 when: "1914"
 where: ""
+country: ""
 what: "“Istaʿgibū yā Afandiyya” (1914-listed; 78 rpm issue unresolved)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

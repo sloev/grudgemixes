@@ -4,10 +4,13 @@ title: "Bengal's early recorded *Bande Mataram* cluster (1905–1908)"
 slug: "bengals-early-recorded-bande-mataram-cluster-19051908"
 date: "2026-11-20"
 draft: true
+summary: "The National Institute of Science Communication / Indian Journal of History of Science article by Suvobrata Sarkar gives unusually useful recording-industry evidence."
 who: "Bengal's early recorded"
 when: "1905"
 where: ""
+country: ""
 what: "*Bande Mataram* cluster (1905–1908)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

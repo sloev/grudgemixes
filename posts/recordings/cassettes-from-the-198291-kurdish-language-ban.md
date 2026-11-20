@@ -4,10 +4,13 @@ title: "cassettes from the 1982–91 Kurdish-language ban"
 slug: "cassettes-from-the-198291-kurdish-language-ban"
 date: "2026-11-20"
 draft: true
+summary: "families hid tapes in their own language in gardens and charcoal stores."
 who: "cassettes from the 1982–91 Kurdish-language ban"
 when: "1982"
 where: "Turkey / Kurdish"
+country: ""
 what: ""
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

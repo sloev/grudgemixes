@@ -4,10 +4,13 @@ title: "A guitar built from an oil can"
 slug: "wesseh-freeman-oil-can-guitar"
 date: "2026-11-20"
 draft: false
+summary: "A blind Monrovia street musician plays a guitar he built from an oil can."
 who: "Wesseh “Weesay” Freeman"
 when: "2015–18"
 where: "Monrovia, Liberia"
+country: "Liberia"
 what: "Oil-can guitar street recordings"
+medium: "field recording"
 tags:
   - "made-anyway"
 recording_url: ""

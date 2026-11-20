@@ -4,10 +4,13 @@ title: "Nubar Effendi, “Vatan Canto” (Odeon 54584, 1908–1909)"
 slug: "nubar-effendi-vatan-canto-odeon-54584-19081909"
 date: "2026-11-20"
 draft: true
+summary: "The archive publishes Turkish lyrics and an English translation."
 who: "Nubar Effendi"
 when: "1908"
 where: ""
+country: ""
 what: "“Vatan Canto” (Odeon 54584, 1908–1909)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

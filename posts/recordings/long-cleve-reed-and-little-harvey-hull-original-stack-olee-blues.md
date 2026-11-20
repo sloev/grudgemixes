@@ -4,10 +4,13 @@ title: "Long “Cleve” Reed and Little Harvey Hull — “Original Stack O'Lee
 slug: "long-cleve-reed-and-little-harvey-hull-original-stack-olee-blues"
 date: "2026-11-20"
 draft: true
+summary: "This is an early, distinct vocal interpretation of the Stagger Lee / Stack O'Lee murder-ballad family."
 who: "Long"
 when: "1927"
 where: ""
+country: ""
 what: "“Cleve” Reed and Little Harvey Hull — “Original Stack O'Lee Blues” (Black Patti 8030, 1927)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

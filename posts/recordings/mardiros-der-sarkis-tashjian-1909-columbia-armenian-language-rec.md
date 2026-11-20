@@ -4,10 +4,13 @@ title: "Mardiros Der Sarkis Tashjian — 1909 Columbia Armenian-language recordi
 slug: "mardiros-der-sarkis-tashjian-1909-columbia-armenian-language-rec"
 date: "2026-11-20"
 draft: true
+summary: "Mardiros Der Sarkis Tashjian — 1909 Columbia Armenian-language…"
 who: "Mardiros Der Sarkis Tashjian — 1909 Columbia Armenian-language recordings"
 when: "1909"
 where: ""
+country: ""
 what: ""
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

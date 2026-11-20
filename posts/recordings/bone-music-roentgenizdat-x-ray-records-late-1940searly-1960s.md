@@ -4,10 +4,13 @@ title: "\"Bone music\" (roentgenizdat) X-ray records, late 1940s–early 1960s"
 slug: "bone-music-roentgenizdat-x-ray-records-late-1940searly-1960s"
 date: "2026-11-20"
 draft: true
+summary: "forbidden music cut onto used X-ray film."
 who: "\"Bone music\" (roentgenizdat) X-ray records"
 when: ""
 where: "USSR"
+country: "USSR"
 what: "late 1940s–early 1960s"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

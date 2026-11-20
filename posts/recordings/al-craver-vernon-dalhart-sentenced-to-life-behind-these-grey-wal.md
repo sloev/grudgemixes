@@ -4,10 +4,13 @@ title: "Al Craver [Vernon Dalhart], “Sentenced to Life Behind These Grey Walls
 slug: "al-craver-vernon-dalhart-sentenced-to-life-behind-these-grey-wal"
 date: "2026-11-20"
 draft: true
+summary: "The full Columbia title explicitly frames the subject as a life sentence and confinement."
 who: "Al Craver [Vernon Dalhart]"
 when: "1925"
 where: ""
+country: ""
 what: "“Sentenced to Life Behind These Grey Walls” (Columbia 15060-D, 1925)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

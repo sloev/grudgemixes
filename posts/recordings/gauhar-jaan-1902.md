@@ -4,10 +4,13 @@ title: "“My name is Gauhar Jaan!”"
 slug: "gauhar-jaan-1902"
 date: "2026-11-20"
 draft: false
+summary: "The first Indian singer on gramophone record, recorded in a Calcutta hotel room, announcing her own name."
 who: "Gauhar Jaan"
 when: "1902"
 where: "Calcutta, India"
+country: "India"
 what: "Khayal in Raag Jogiya, Gramophone Company"
+medium: "78 rpm disc"
 tags:
   - "out-of-turn"
 recording_url: "https://artsandculture.google.com/story/bQUhgLc4Ow4A8A"

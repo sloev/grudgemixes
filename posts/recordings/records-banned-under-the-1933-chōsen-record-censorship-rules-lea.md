@@ -4,10 +4,13 @@ title: "records banned under the 1933 Chōsen record-censorship rules (lead set)
 slug: "records-banned-under-the-1933-chōsen-record-censorship-rules-lea"
 date: "2026-11-20"
 draft: true
+summary: "from 1933, the Government-General required lyrics and test pressings before sale; stampers were destroyed and issued discs confiscated."
 who: "records banned under the 1933 Chōsen record-censorship rules (lead set)"
 when: "1933"
 where: "Korea"
+country: "Korea"
 what: ""
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

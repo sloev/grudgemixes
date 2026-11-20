@@ -4,10 +4,13 @@ title: "Gnawa master meets a drummer who will not stop"
 slug: "gania-insane-drum-kit-tape"
 date: "2026-11-20"
 draft: false
+summary: "A Gnawa master's cassette where a studio drummer refuses to stay in the background."
 who: "Maâlem Mahmoud Gania with an unknown drummer"
 when: "1990s"
 where: "Casablanca, Morocco"
+country: "Morocco"
 what: "Voix de Casablanca VDC 53 / VDC 51 cassettes"
+medium: "cassette"
 tags:
   - "found"
 recording_url: "https://moroccantapestash.blogspot.com/2011/06"

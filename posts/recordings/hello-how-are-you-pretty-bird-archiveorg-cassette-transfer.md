@@ -4,10 +4,13 @@ title: "\"Hello, how are you? … pretty bird!\" (archive.org cassette transfer)
 slug: "hello-how-are-you-pretty-bird-archiveorg-cassette-transfer"
 date: "2026-11-20"
 draft: true
+summary: "a young woman repeats \"Hello, how are you?\" and \"pretty bird!\", alternating left and right ears; origin unknown."
 who: "\"Hello"
 when: ""
 where: "Found audio"
+country: ""
 what: "how are you? … pretty bird!\" (archive.org cassette transfer)"
+medium: "cassette"
 tags:
   - "made-anyway"
 recording_url: "https://archive.org/details/hello-how-are-you-i-love-you-goodbye"

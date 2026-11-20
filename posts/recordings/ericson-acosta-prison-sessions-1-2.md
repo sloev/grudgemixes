@@ -4,10 +4,13 @@ title: "Ericson Acosta, Prison Sessions 1 & 2"
 slug: "ericson-acosta-prison-sessions-1-2"
 date: "2026-11-20"
 draft: true
+summary: "Where and when: Calbayog Sub-provincial Jail, Samar, Philippines; Date(s): 2011-04-06; 2011-09-20; Medium: Digital;…"
 who: "Ericson Acosta"
 when: "2011"
 where: "Calbayog Sub-provincial Jail, Samar, Philippines"
+country: "Philippines"
 what: "Prison Sessions 1 & 2"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

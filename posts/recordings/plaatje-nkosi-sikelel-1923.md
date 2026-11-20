@@ -4,10 +4,13 @@ title: "A hymn recorded by the man who wrote the indictment"
 slug: "plaatje-nkosi-sikelel-1923"
 date: "2026-11-20"
 draft: false
+summary: "A South African activist recorded the hymn that became an anthem of resistance, in London, in 1923."
 who: "Sol T. Plaatje, with Sylvia Colenso (piano)"
 when: "1923"
 where: "London, UK / South Africa"
+country: "South Africa"
 what: "“Nkosi Sikelel' iAfrika”, Zonophone 4168"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://commons.wikimedia.org/wiki/Category:Nkosi_Sikelel%27_iAfrika"

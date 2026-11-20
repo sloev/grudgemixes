@@ -4,10 +4,13 @@ title: "Mlle Mariette, “El sentenciado del bajá” (Zonophone X-103831, 1911)
 slug: "mlle-mariette-el-sentenciado-del-bajá-zonophone-x-103831-1911"
 date: "2026-11-20"
 draft: true
+summary: "The Hebrew University / Jewish Music Research Centre commentary identifies this as a truncated version of the Sephardic romance “El sentenciado del bajá” (CMP H23), known in only a few printed and…"
 who: "Mlle Mariette"
 when: "1911"
 where: ""
+country: ""
 what: "“El sentenciado del bajá” (Zonophone X-103831, 1911)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Glory to the soldiers who would not shoot"
 slug: "montehus-gloire-au-17e"
 date: "2026-11-20"
 draft: false
+summary: "The song that saluted French soldiers who refused to shoot striking winegrowers in 1907."
 who: "Montéhus"
 when: "1907"
 where: "France"
+country: "France"
 what: "“Gloire au 17e”"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://phonobase.org/en/fiche/5988"

@@ -4,10 +4,13 @@ title: "Zabelle Panosian, “Khavarel Yem” (Columbia E4010, June 1918)"
 slug: "zabelle-panosian-khavarel-yem-columbia-e4010-june-1918"
 date: "2026-11-20"
 draft: true
+summary: "The Canary Records title gloss is “I Am Darkened.” Armenian lexical sources confirm that խաւարել / խավարել can mean to darken, become gloomy, or be overwhelmed by sorrow, but this is only a lexical…"
 who: "Zabelle Panosian"
 when: "1918"
 where: ""
+country: ""
 what: "“Khavarel Yem” (Columbia E4010, June 1918)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://canary-records.bandcamp.com/album/i-am-servant-of-your-voice-march-1917-june-1918"

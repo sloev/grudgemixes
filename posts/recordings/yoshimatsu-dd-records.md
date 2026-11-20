@@ -4,10 +4,13 @@ title: "222 cassettes of Japanese weirdness"
 slug: "yoshimatsu-dd-records"
 date: "2026-11-20"
 draft: false
+summary: "A small Japanese circle released exactly 222 cassettes in five years, then stopped."
 who: "K. Yoshimatsu and DD. Records"
 when: "1980s"
 where: "Japan"
+country: "Japan"
 what: "222 cassettes; Fossil Cocoon retrospective"
+medium: "cassette"
 tags:
   - "unwanted"
 recording_url: "https://phantomlimblabel.bandcamp.com/album/fossil-cocoon-the-music-of-k-yoshimatsu"

@@ -4,10 +4,13 @@ title: "Kolkata theatre recording lead — “Khune Nahak: Gana Gana Gana” (19
 slug: "kolkata-theatre-recording-lead-khune-nahak-gana-gana-gana-1902"
 date: "2026-11-20"
 draft: true
+summary: "A significant contextual match has now been found: Khun-e-Nahaq (also rendered Khun-e-nahaq, Khoon-e-Nahaq, Khune Nahak) is identified in scholarship as an Urdu adaptation of Hamlet by Munshi Mehdi…"
 who: "Kolkata theatre recording lead"
 when: "1902"
 where: ""
+country: ""
 what: "“Khune Nahak: Gana Gana Gana” (1902)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

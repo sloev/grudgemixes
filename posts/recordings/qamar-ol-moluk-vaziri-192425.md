@@ -4,10 +4,13 @@ title: "Qamar-ol-Moluk Vaziri, 1924–25"
 slug: "qamar-ol-moluk-vaziri-192425"
 date: "2026-11-20"
 draft: true
+summary: "first concert at Tehran's Grand Hotel in 1924, the first public appearance of an Iranian woman singer before men without the veil."
 who: "Qamar-ol-Moluk Vaziri"
 when: "1924"
 where: "Iran"
+country: "Iran"
 what: "1924–25"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

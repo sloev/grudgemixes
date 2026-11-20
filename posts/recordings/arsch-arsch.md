@@ -4,10 +4,13 @@ title: "ARSCH, ARSCH"
 slug: "arsch-arsch"
 date: "2026-11-20"
 draft: true
+summary: "The artist's Bandcamp page identifies an 18-track ARSCH album released on 1 December 2020."
 who: "ARSCH"
 when: "2020"
 where: "Commune and barn studio, Bitsch, Valais, Switzerland"
+country: "Switzerland"
 what: "ARSCH"
+medium: "digital"
 tags:
   - "made-anyway"
 recording_url: "https://arsch.bandcamp.com/album/arsch"

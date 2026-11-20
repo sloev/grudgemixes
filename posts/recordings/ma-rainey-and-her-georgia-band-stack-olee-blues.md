@@ -4,10 +4,13 @@ title: "Ma Rainey and her Georgia Band, \"Stack O'Lee Blues\""
 slug: "ma-rainey-and-her-georgia-band-stack-olee-blues"
 date: "2026-11-20"
 draft: true
+summary: "the Stagolee killing told by the leading woman blues singer of the 1920s."
 who: "Ma Rainey and her Georgia Band"
 when: "1925"
 where: ""
+country: ""
 what: "\"Stack O'Lee Blues\""
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://archive.org/details/78_stack-olee-blues_ma-rainey-and-her-georgia-band-joe-smith-taylor-williams_gbia0253947b"

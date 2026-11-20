@@ -4,10 +4,13 @@ title: "Waring's Pennsylvanians, “Stack O'Lee Blues” (Victor 19189, 1923)"
 slug: "warings-pennsylvanians-stack-olee-blues-victor-19189-1923"
 date: "2026-11-20"
 draft: true
+summary: "The Stagolee ballad family preserves a violent grievance narrative, but this specific 1923 Waring recording is described by the historical sources as an instrumental fox trot."
 who: "Waring's Pennsylvanians"
 when: "1923"
 where: ""
+country: ""
 what: "“Stack O'Lee Blues” (Victor 19189, 1923)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://archive.org/details/1923-USA-Archives-1923-10-16-Warings-Pennsylvanians-Stack-O-Lee-Blues"

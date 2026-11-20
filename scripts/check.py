@@ -5,8 +5,10 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
-REC = ["type", "title", "slug", "date", "draft", "who", "when", "where", "what", "tags", "recording_url", "urls", "images"]
+REC = ["type", "title", "slug", "date", "draft", "summary", "who", "when", "where", "country", "what", "medium", "tags", "recording_url", "urls", "images"]
 COL = ["type", "title", "slug", "date", "draft", "description", "tracks", "images"]
+MEDIA = {"", "78 rpm disc", "wax cylinder", "x-ray record", "vinyl", "cassette", "reel-to-reel", "radio", "field recording",
+         "live performance", "video", "digital"}
 TAGS = {"the-account", "out-of-turn", "made-anyway", "unwanted", "fighting-words", "found"}
 errors, slugs, recs = [], {}, {}
 
@@ -34,8 +36,10 @@ for kind, keys, folder in (("recording", REC, "recordings"), ("collection", COL,
             recs[m["slug"]] = m
             bad = set(m.get("tags") or []) - TAGS
             if bad: errors.append(f"{f}: unknown tags {bad}")
+            if m.get("medium") not in MEDIA: errors.append(f"{f}: medium must be one of {sorted(MEDIA)}")
+            if len(str(m.get("summary") or "")) > 240: errors.append(f"{f}: summary must be one sentence, at most 240 characters")
             if m.get("draft") is False:
-                for k in ("who", "what"):
+                for k in ("summary", "who", "what"):
                     if not m.get(k): errors.append(f"{f}: finished post needs '{k}'")
                 if "## To do" in body: errors.append(f"{f}: finished post still has a '## To do' section")
         else:

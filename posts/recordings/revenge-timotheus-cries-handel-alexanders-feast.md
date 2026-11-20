@@ -4,10 +4,13 @@ title: "“Revenge! Timotheus cries” — Handel, *Alexander’s Feast*"
 slug: "revenge-timotheus-cries-handel-alexanders-feast"
 date: "2026-11-20"
 draft: true
+summary: "The aria is a direct thematic fit: its text explicitly stages revenge and vengeance."
 who: "“Revenge! Timotheus cries” — Handel"
 when: ""
 where: ""
+country: ""
 what: "*Alexander’s Feast*"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

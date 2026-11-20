@@ -4,10 +4,13 @@ title: "And Everything That Is Beautiful Is Beautiful"
 slug: "ivtkygyg-vilnius-home-tapes"
 date: "2026-11-20"
 draft: false
+summary: "Thirty-plus years of Vilnius underground home tapes from a painter and a record dealer."
 who: "Ir Visa Tai Kas Yra Gražu Yra Gražu"
 when: "1987–"
 where: "Vilnius, Lithuania"
+country: "Lithuania"
 what: "Home tapes"
+medium: "cassette"
 tags:
   - "unwanted"
 recording_url: "https://ivtkygyg.bandcamp.com"

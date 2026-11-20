@@ -4,10 +4,13 @@ title: "Sayyid Darwīsh, “Qum yā Miṣrī” (Odeon; 1919 work, specific disc
 slug: "sayyid-darwīsh-qum-yā-miṣrī-odeon-1919-work-specific-disc-date-u"
 date: "2026-11-20"
 draft: true
+summary: "The work is a strong collective defiance / anticolonial solidarity lead."
 who: "Sayyid Darwīsh"
 when: "1919"
 where: ""
+country: ""
 what: "“Qum yā Miṣrī” (Odeon; 1919 work, specific disc date unknown)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

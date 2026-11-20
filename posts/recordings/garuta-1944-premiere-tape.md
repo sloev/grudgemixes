@@ -4,10 +4,13 @@ title: "A prayer under occupation, and the tape that outlived the ban"
 slug: "garuta-1944-premiere-tape"
 date: "2026-11-20"
 draft: false
+summary: "A Latvian cantata premiered in Riga in 1944, as the front came closer, and survived on tape."
 who: "Lūcija Garūta (organ), Reiters choir"
 when: "1944"
 where: "Riga, Latvia"
+country: "Latvia"
 what: "Dievs, Tava zeme deg! — premiere tape"
+medium: "reel-to-reel"
 tags:
   - "fighting-words"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Tardes Nuestras recurring opening theme (working incipit “Dicen que no
 slug: "tardes-nuestras-recurring-opening-theme-working-incipit-dicen-qu"
 date: "2026-11-20"
 draft: true
+summary: "A 2017 Universidad Nacional de Rosario thesis records that the programme made contact with musicians and produced a song to serve as the cortina (opening/closing theme) of Tardes Nuestras."
 who: "Tardes Nuestras recurring opening theme (working incipit"
 when: "2005"
 where: "CCGomecito / FM Aire Libre community radio, Rosario, Santa Fe, Argentina"
+country: "Argentina"
 what: "“Dicen que no tenemos razón”; official title unknown)"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

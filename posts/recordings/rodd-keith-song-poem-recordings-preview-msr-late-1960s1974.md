@@ -4,10 +4,13 @@ title: "Rodd Keith, song-poem recordings (Preview / MSR, late 1960s–1974)"
 slug: "rodd-keith-song-poem-recordings-preview-msr-late-1960s1974"
 date: "2026-11-20"
 draft: true
+summary: "The best-known song-poem musician, setting hundreds of strangers' lyrics."
 who: "Rodd Keith"
 when: "1974"
 where: "US"
+country: "USA"
 what: "song-poem recordings (Preview / MSR, late 1960s–1974)"
+medium: ""
 tags:
   - "unwanted"
 recording_url: "https://songpoemmusic.com/comps/idied_nt.htm"

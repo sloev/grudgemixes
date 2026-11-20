@@ -4,10 +4,13 @@ title: "Caruso & Scotti, \"Ah Mimì, tu più non torni\" (Puccini, *La Bohème*)
 slug: "caruso-scotti-ah-mimì-tu-più-non-torni-puccini-la-bohème"
 date: "2026-11-20"
 draft: true
+summary: "…"
 who: "Caruso & Scotti"
 when: ""
 where: ""
+country: ""
 what: "\"Ah Mimì, tu più non torni\" (Puccini, *La Bohème*)"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

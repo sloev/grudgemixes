@@ -4,10 +4,13 @@ title: "Tashjian Brothers, “Menk Bedk E Grvenk” (Columbia E661 / matrix 4973
 slug: "tashjian-brothers-menk-bedk-e-grvenk-columbia-e661-matrix-4973-1"
 date: "2026-11-20"
 draft: true
+summary: "The text is unusually explicit about collective loss, unheard grievance, and armed recovery."
 who: "Tashjian Brothers"
 when: "1910"
 where: ""
+country: ""
 what: "“Menk Bedk E Grvenk” (Columbia E661 / matrix 4973-1, 1910)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

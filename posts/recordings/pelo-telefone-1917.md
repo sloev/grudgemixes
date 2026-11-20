@@ -4,10 +4,13 @@ title: "A samba that mocked the police chief"
 slug: "pelo-telefone-1917"
 date: "2026-11-20"
 draft: false
+summary: "The first recorded samba, a song that joked about the police while samba lived under police pressure."
 who: "Baiano; written by Donga & Mauro de Almeida"
 when: "1917"
 where: "Rio de Janeiro, Brazil"
+country: "Brazil"
 what: "“Pelo Telefone”, Odeon 121322"
+medium: "78 rpm disc"
 tags:
   - "out-of-turn"
 recording_url: "https://ims.com.br/2023/10/09/little-africas-qr-code-17/"

@@ -4,10 +4,13 @@ title: "Answering a defeat from the year 451"
 slug: "bezazian-bam-porotan-1916"
 date: "2026-11-20"
 draft: false
+summary: "An Armenian call to remember a defeat from the year 451, recorded in New York a year after the genocide began."
 who: "Torcom Bézazian"
 when: "1916"
 where: "New York, USA"
+country: "USA"
 what: "“Bam Porotan” (Alishan), Victor 69102, matrix B-18462"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://www.loc.gov/item/jukebox-19711/"

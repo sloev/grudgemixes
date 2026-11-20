@@ -4,10 +4,13 @@ title: "Bruce Jackson, Indiana State Prison tapes, 1962"
 slug: "bruce-jackson-indiana-state-prison-tapes-1962"
 date: "2026-11-20"
 draft: true
+summary: "IM-013 — Indiana State Prison tape provenance reconciliation…"
 who: "Bruce Jackson"
 when: "1962"
 where: "Indiana State Prison, Michigan City"
+country: "USA"
 what: "Indiana State Prison tapes, 1962"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

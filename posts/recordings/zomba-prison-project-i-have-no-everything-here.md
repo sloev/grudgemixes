@@ -4,10 +4,13 @@ title: "Zomba Prison Project, I Have No Everything Here"
 slug: "zomba-prison-project-i-have-no-everything-here"
 date: "2026-11-20"
 draft: true
+summary: "Where and when: Zomba prison, Malawi; Date(s): 2015; Medium:…"
 who: "Zomba Prison Project"
 when: "2015"
 where: "Zomba prison, Malawi"
+country: "Malawi"
 what: "I Have No Everything Here"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

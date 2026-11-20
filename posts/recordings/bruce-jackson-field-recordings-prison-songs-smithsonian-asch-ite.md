@@ -4,10 +4,13 @@ title: "Bruce Jackson, “Field Recordings: Prison Songs,” Smithsonian Asch it
 slug: "bruce-jackson-field-recordings-prison-songs-smithsonian-asch-ite"
 date: "2026-11-20"
 draft: true
+summary: "IM-045 — Bruce Jackson, “Field Recordings: Prison Songs” (Smithsonian Asch Collection,…"
 who: "Bruce Jackson"
 when: "1966"
 where: "Indiana, USA"
+country: "USA"
 what: "“Field Recordings: Prison Songs,” Smithsonian Asch item FW-ASCH-7RR-1966"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

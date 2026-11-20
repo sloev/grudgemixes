@@ -4,10 +4,13 @@ title: "Egypt: Dinshaway mawwal / ballad tradition (1906)"
 slug: "egypt-dinshaway-mawwal-ballad-tradition-1906"
 date: "2026-11-20"
 draft: true
+summary: "Ziad Fahmy's study Ordinary Egyptians: Creating the Modern Nation through Popular Culture describes the near-immediate commemoration of the 1906 Dinshaway incident in rural colloquial Egyptian…"
 who: "Egypt: Dinshaway mawwal / ballad tradition (1906)"
 when: "1906"
 where: ""
+country: ""
 what: ""
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

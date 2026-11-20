@@ -4,10 +4,13 @@ title: "Mardiros Der Sarkis Tashjian, “Hairenikt Mortsir” (Columbia E531/408
 slug: "mardiros-der-sarkis-tashjian-hairenikt-mortsir-columbia-e5314084"
 date: "2026-11-20"
 draft: true
+summary: "The song stages a confrontation between the emigrant and an unnamed “foreigner” who urges abandonment of the homeland as barren and ruined."
 who: "Mardiros Der Sarkis Tashjian"
 when: "1909"
 where: ""
+country: ""
 what: "“Hairenikt Mortsir” (Columbia E531/4084, 1909)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Shoqnia e hengxhive e shahirave, «Kanga e Oso Kukës» (Gramophone 1077
 slug: "shoqnia-e-hengxhive-e-shahirave-kanga-e-oso-kukës-gramophone-107"
 date: "2026-11-20"
 draft: true
+summary: "A 2023 Albanian-language cultural article published by the Albanian Ministry of Defence describes a song about Oso Kuka, attributing its composition to Zenel Maha and dating its creation to the time…"
 who: "Shoqnia e hengxhive e shahirave"
 when: "1908"
 where: ""
+country: ""
 what: "«Kanga e Oso Kukës» (Gramophone 10771; matrix 4570r; Shkodër, 1908)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Haló: when towns went to war with songs"
 slug: "halo-ewe-song-war"
 date: "2026-11-20"
 draft: false
+summary: "Anlo-Ewe towns once fought wars of insult songs so sharp that the colonial government banned them."
 who: "Anlo-Ewe haló groups"
 when: "c.1912–1960"
 where: "Anlo-Ewe, Ghana"
+country: "Ghana"
 what: "Song-and-drum insult wars (no recording found yet)"
+medium: ""
 tags:
   - "fighting-words"
 recording_url: ""

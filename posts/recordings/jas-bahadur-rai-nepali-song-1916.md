@@ -4,10 +4,13 @@ title: "Jas Bahadur Rai, Nepali song, 1916"
 slug: "jas-bahadur-rai-nepali-song-1916"
 date: "2026-11-20"
 draft: true
+summary: "a Gurkha prisoner of war at the Halbmondlager, Wünsdorf, who never returned home, sang his own story for German researchers."
 who: "Jas Bahadur Rai"
 when: "1916"
 where: "Germany (WWI camp)"
+country: "Germany (WWI camp)"
 what: "Nepali song, 1916"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Tashjian Brothers, “Kerezmanis Togh” (Columbia E657/4955, 1910)"
 slug: "tashjian-brothers-kerezmanis-togh-columbia-e6574955-1910"
 date: "2026-11-20"
 draft: true
+summary: "Houshamadyan's Sassoun / Alahaydoyan collection preserves a song titled “Sasnou Kavar (Hrayr Tjokhki Hishadagin)” — “Land of Sassoun (In Memory of Hrayr Tzhokhk)”."
 who: "Tashjian Brothers"
 when: "1910"
 where: ""
+country: ""
 what: "“Kerezmanis Togh” (Columbia E657/4955, 1910)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://www.youtube.com/watch?v=7V8kWeY7Ixw"

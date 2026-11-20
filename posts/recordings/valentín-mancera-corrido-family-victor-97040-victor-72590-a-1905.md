@@ -4,10 +4,13 @@ title: "Valentín Mancera corrido family (Victor 97040 / Victor 72590-A, 1905–
 slug: "valentín-mancera-corrido-family-victor-97040-victor-72590-a-1905"
 date: "2026-11-20"
 draft: true
+summary: "The printed corrido family tells of Valentín Mancera, a Guanajuato bandit whose lover and her sister betray him for money, leading to capture and execution."
 who: "Valentín Mancera corrido family (Victor 97040 / Victor 72590-A"
 when: "1905"
 where: ""
+country: ""
 what: "1905–c.1920)"
+medium: ""
 tags:
   - "the-account"
 recording_url: "https://frontera.library.ucla.edu/recordings/valent%C3%ADn-mancera-1"

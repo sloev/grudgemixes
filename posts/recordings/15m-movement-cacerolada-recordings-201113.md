@@ -4,10 +4,13 @@ title: "15M movement *cacerolada* recordings, 2011–13"
 slug: "15m-movement-cacerolada-recordings-201113"
 date: "2026-11-20"
 draft: true
+summary: "Modern political pot-banging aimed at the state, the descendant (or reinvention) of the cencerrada."
 who: "15M movement"
 when: "2011"
 where: "Spain"
+country: "Spain"
 what: "*cacerolada* recordings, 2011–13"
+medium: ""
 tags:
   - "unwanted"
 recording_url: ""

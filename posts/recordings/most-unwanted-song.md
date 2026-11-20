@@ -4,10 +4,13 @@ title: "The song a poll said nobody wants"
 slug: "most-unwanted-song"
 date: "2026-11-20"
 draft: false
+summary: "A song built from what 500 people said they least wanted to hear in music."
 who: "Komar & Melamid, Dave Soldier; lyrics Nina Mankin"
 when: "1997"
 where: "New York, USA"
+country: "USA"
 what: "“The Most Unwanted Song”, Dia Center"
+medium: "digital"
 tags:
   - "unwanted"
 recording_url: "https://ubu.punctumbooks.com/sound/komar.html"

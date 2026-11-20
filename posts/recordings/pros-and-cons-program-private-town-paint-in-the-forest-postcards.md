@@ -4,10 +4,13 @@ title: "Pros and Cons Program, Private Town, Paint in the Forest, Postcards from
 slug: "pros-and-cons-program-private-town-paint-in-the-forest-postcards"
 date: "2026-11-20"
 draft: true
+summary: "Where and when: Grand Valley; Joyceville; Pittsburgh Institution, Ontario; Date(s): 2017–2020; Medium:…"
 who: "Pros and Cons Program"
 when: "2017"
 where: "Grand Valley"
+country: "USA"
 what: "Private Town, Paint in the Forest, Postcards from the County"
+medium: "digital"
 tags:
   - "made-anyway"
 recording_url: "https://prosandconsprogram.bandcamp.com/album/private-town"

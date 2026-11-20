@@ -4,10 +4,13 @@ title: "“Ignacio Parra” (parts 1–2), Rafael Herrera Robinson, Edison two-m
 slug: "ignacio-parra-parts-12-rafael-herrera-robinson-edison-two-minute"
 date: "2026-11-20"
 draft: true
+summary: "The Frontera Collection’s 2017 specialist history describes “Ignacio Parra” and “Heraclio Bernal” as early corridos about rebels active in the late 1880s during the Díaz dictatorship."
 who: "“Ignacio Parra” (parts 1–2)"
 when: "1904"
 where: ""
+country: ""
 what: "Rafael Herrera Robinson, Edison two-minute cylinders (1904)"
+medium: ""
 tags:
   - "the-account"
 recording_url: "https://frontera.library.ucla.edu/blog/2017/12/mexican-corrido-ballads-adversity-and-rebellion-part-4-corridos-mexican-revolution"

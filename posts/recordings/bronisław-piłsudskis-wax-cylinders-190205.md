@@ -4,10 +4,13 @@ title: "Bronisław Piłsudski's wax cylinders, 1902–05"
 slug: "bronisław-piłsudskis-wax-cylinders-190205"
 date: "2026-11-20"
 draft: true
+summary: "a Polish exile recorded Ainu speech and song; about 65 cylinders were found in Poland in 1977 and played back at Hokkaido University in 1983."
 who: "Bronisław Piłsudski's wax cylinders"
 when: "1902"
 where: "Ainu (Sakhalin and Hokkaido)"
+country: "Japan"
 what: "1902–05"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

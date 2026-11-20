@@ -4,10 +4,13 @@ title: "A corrido that names the man who sold the bandit"
 slug: "heraclio-bernal-corrido-1921"
 date: "2026-11-20"
 draft: false
+summary: "A corrido that kept the betrayal of a Sinaloa rebel in public memory, recorded in 1921."
 who: "Trío Nava"
 when: "1921"
 where: "Mexico"
+country: "Mexico"
 what: "“Heraclio Bernal — Corrido”, Columbia C4054"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://frontera.library.ucla.edu/recordings/heraclio-bernal-21"

@@ -4,10 +4,13 @@ title: "Svenskt visarkiv prison-song reels, 1965–73"
 slug: "svenskt-visarkiv-prison-song-reels-196573"
 date: "2026-11-20"
 draft: true
+summary: "Where and when: Swedish prisons including Hall, Norrköping and Hinseberg; Date(s): 1965–73 (Hinseberg 1973 or 1975, unresolved); Medium:…"
 who: "Svenskt visarkiv prison-song reels"
 when: "1965"
 where: "Swedish prisons including Hall, Norrköping and Hinseberg"
+country: "Sweden"
 what: "1965–73"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Furry Lewis — “Billy Lyons and Stack O'Lee” (Vocalion 1132, 1927)"
 slug: "furry-lewis-billy-lyons-and-stack-olee-vocalion-1132-1927"
 date: "2026-11-20"
 draft: true
+summary: "The title explicitly names Billy Lyons and Stack O'Lee, the two figures at the centre of the Stagger Lee ballad cycle."
 who: "Furry Lewis"
 when: "1927"
 where: ""
+country: ""
 what: "“Billy Lyons and Stack O'Lee” (Vocalion 1132, 1927)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

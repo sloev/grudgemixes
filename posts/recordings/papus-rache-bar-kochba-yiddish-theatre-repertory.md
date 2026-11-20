@@ -4,10 +4,13 @@ title: "Papus Rache / Bar Kochba (Yiddish theatre repertory)"
 slug: "papus-rache-bar-kochba-yiddish-theatre-repertory"
 date: "2026-11-20"
 draft: true
+summary: "A German-language discography compilation titled Zusammenstellung der Schallplatten mit Themen aus dem Orient lists a recording under the work heading Bar Kochba…"
 who: "Papus Rache / Bar Kochba (Yiddish theatre repertory)"
 when: ""
 where: ""
+country: ""
 what: ""
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

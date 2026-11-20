@@ -4,10 +4,13 @@ title: "Pära Trust, \"Jakovlevi punk\" (Tallinn, 1980) / Latvia · Inokentijs M
 slug: "pära-trust-jakovlevi-punk-tallinn-1980-latvia-inokentijs-mārpls"
 date: "2026-11-20"
 draft: true
+summary: "Notes to…"
 who: "Pära Trust"
 when: "1980"
 where: "Estonia"
+country: "Estonia"
 what: "\"Jakovlevi punk\" (Tallinn, 1980) / Latvia · Inokentijs Mārpls, \"Meklē mani peklē\" (Riga, 1987)"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: "https://soundcloud.com/punkperestroika"

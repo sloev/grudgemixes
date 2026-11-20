@@ -4,10 +4,13 @@ title: "Peg Leg Howell and Jim Hill — “Ball and Chain Blues” (Columbia 145
 slug: "peg-leg-howell-and-jim-hill-ball-and-chain-blues-columbia-14535"
 date: "2026-11-20"
 draft: true
+summary: "A transcribed lyric witness attributed to Howell's 1929 recording describes arrest, a judge who will not let the narrator speak, an excessive or unjust sentence, prison labour, stripes on the back and a ball and chain."
 who: "Peg Leg Howell and Jim Hill"
 when: "1929"
 where: ""
+country: ""
 what: "“Ball and Chain Blues” (Columbia 14535-D, 1929)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

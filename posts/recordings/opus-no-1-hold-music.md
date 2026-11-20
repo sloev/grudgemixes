@@ -4,10 +4,13 @@ title: "The teenage tape you hear on hold"
 slug: "opus-no-1-hold-music"
 date: "2026-11-20"
 draft: false
+summary: "Two teenagers' garage instrumental became the hold music millions of people wait through."
 who: "Tim Carleton & Darrick Deel"
 when: "1989"
 where: "California, USA"
+country: "USA"
 what: "“Opus No. 1”, four-track recording"
+medium: "digital"
 tags:
   - "unwanted"
 recording_url: ""

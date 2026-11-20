@@ -4,10 +4,13 @@ title: "Music on the ribs"
 slug: "bone-music-roentgenizdat"
 date: "2026-11-20"
 draft: false
+summary: "Forbidden music bootlegged onto used hospital X-rays in the Soviet Union."
 who: "Anonymous Soviet bootleggers"
 when: "1946–64"
 where: "Leningrad & across the USSR"
+country: "USSR"
 what: "Records cut on X-ray film (roentgenizdat)"
+medium: "x-ray record"
 tags:
   - "fighting-words"
 recording_url: "https://www.x-rayaudio.com"

@@ -4,10 +4,13 @@ title: "Tashjian Brothers 1910 Columbia repertoire: Dalvorig and Grvetsek Dgherk
 slug: "tashjian-brothers-1910-columbia-repertoire-dalvorig-and-grvetsek"
 date: "2026-11-20"
 draft: true
+summary: "Houshamadyan's account of the Capuchin college in Mezire (Mamuret-ul-Aziz/Harput region) says that after the 1908 Ottoman constitutional proclamation, the college orchestra played Armenian patriotic…"
 who: "Tashjian Brothers 1910 Columbia repertoire: Dalvorig and Grvetsek Dgherk"
 when: "1910"
 where: ""
+country: ""
 what: ""
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Smyrnaiki Estudiantina, “Marche de Niyazi et Enver Bey / Marche Huriet
 slug: "smyrnaiki-estudiantina-marche-de-niyazi-et-enver-bey-marche-huri"
 date: "2026-11-20"
 draft: true
+summary: "The Kounadis record page publishes Turkish lyrics and an English translation."
 who: "Smyrnaiki Estudiantina"
 when: "1908"
 where: ""
+country: ""
 what: "“Marche de Niyazi et Enver Bey / Marche Huriet” (Odeon 58588, June 1908)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

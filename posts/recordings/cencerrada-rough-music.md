@@ -4,10 +4,13 @@ title: "Rough music: when a village plays you out of town"
 slug: "cencerrada-rough-music"
 date: "2026-11-20"
 draft: false
+summary: "Pots, bells and horns outside a house: Europe's old custom of punishing neighbours with noise."
 who: "Village communities; tape by the Centro de Cultura Tradicional de Salamanca"
 when: "traditional"
 where: "Spain & Europe"
+country: "Spain"
 what: "Cencerrada (rough music), archive tape ATO 413"
+medium: "field recording"
 tags:
   - "fighting-words"
 recording_url: ""

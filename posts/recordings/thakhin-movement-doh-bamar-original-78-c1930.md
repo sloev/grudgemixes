@@ -4,10 +4,13 @@ title: "Thakhin movement, \"Doh Bamar\" (original 78, c.1930)"
 slug: "thakhin-movement-doh-bamar-original-78-c1930"
 date: "2026-11-20"
 draft: true
+summary: "a Rangoon collector says he holds the only original record of the song of the anti-colonial Dobama Asiayone (\"We Burmans\") movement, which later became the national anthem."
 who: "Thakhin movement"
 when: "1930"
 where: "Burma"
+country: "Burma"
 what: "\"Doh Bamar\" (original 78, c.1930)"
+medium: "78 rpm disc"
 tags:
   - "made-anyway"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Caustic Unrest Sao Paulo 1995"
 slug: "caustic-unrest-sao-paulo-1995"
 date: "2026-11-20"
 draft: true
+summary: "Demo-Tapes Brasil's item-level post identifies Caustic's Unrest as a 1995 São Paulo cassette."
 who: "Caustic Unrest Sao Paulo 1995"
 when: ""
 where: "Underground DIY / industrial-electronic cassette scene, São Paulo, Brazil"
+country: "Brazil"
 what: ""
+medium: ""
 tags:
   - "made-anyway"
 recording_url: "https://demo-tapes-brasil.blogspot.com/2015/08/"

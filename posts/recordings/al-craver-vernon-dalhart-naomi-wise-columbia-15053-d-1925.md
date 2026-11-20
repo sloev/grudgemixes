@@ -4,10 +4,13 @@ title: "Al Craver [Vernon Dalhart], “Naomi Wise” (Columbia 15053-D, 1925)"
 slug: "al-craver-vernon-dalhart-naomi-wise-columbia-15053-d-1925"
 date: "2026-11-20"
 draft: true
+summary: "The Naomi Wise ballad tradition concerns the murder of a young woman by a man who had promised marriage."
 who: "Al Craver [Vernon Dalhart]"
 when: "1925"
 where: ""
+country: ""
 what: "“Naomi Wise” (Columbia 15053-D, 1925)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://archive.org/details/03-frank-hutchison-the-last-scene-of-the-titanic"

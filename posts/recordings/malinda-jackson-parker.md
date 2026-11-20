@@ -4,10 +4,13 @@ title: "A congresswoman at the piano"
 slug: "malinda-jackson-parker"
 date: "2026-11-20"
 draft: false
+summary: "A former Liberian legislator's self-made LP of half-spoken praise songs at the piano."
 who: "Malinda Jackson Parker"
 when: "c.1971"
 where: "Monrovia, Liberia"
+country: "Liberia"
 what: "The Liberian Landmark Joy"
+medium: "vinyl"
 tags:
   - "unwanted"
 recording_url: ""

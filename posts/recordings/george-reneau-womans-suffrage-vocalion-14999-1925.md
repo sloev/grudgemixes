@@ -4,10 +4,13 @@ title: "George Reneau, “Woman's Suffrage” (Vocalion 14999, 1925)"
 slug: "george-reneau-womans-suffrage-vocalion-14999-1925"
 date: "2026-11-20"
 draft: true
+summary: "The title identifies the political issue, not the singer's stance."
 who: "George Reneau"
 when: "1925"
 where: ""
+country: ""
 what: "“Woman's Suffrage” (Vocalion 14999, 1925)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Thirty songs left in the radio archive"
 slug: "velly-joonas-radio-archive"
 date: "2026-11-20"
 draft: false
+summary: "An Estonian singer's songs, recorded at the state radio and locked in its archive for decades."
 who: "Velly Joonas with Vstretša"
 when: "1983"
 where: "Tallinn, Estonia"
+country: "Estonia"
 what: "“Stopp, seisku aeg!”, Estonian Radio; Frotee FRO 007"
+medium: "radio"
 tags:
   - "made-anyway"
 recording_url: "https://allnightflightrecords.com/products/velly-joonas-stopp-seisku-aeg"

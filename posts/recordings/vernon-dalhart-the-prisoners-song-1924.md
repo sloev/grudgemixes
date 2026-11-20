@@ -4,10 +4,13 @@ title: "Vernon Dalhart, \"The Prisoner's Song\", 1924"
 slug: "vernon-dalhart-the-prisoners-song-1924"
 date: "2026-11-20"
 draft: true
+summary: "copyrighted in the name of Dalhart's cousin Guy Massey, who learned it from a brother who may have heard it in prison; it became one of the best-selling records of the 1920s."
 who: "Vernon Dalhart"
 when: "1924"
 where: "USA"
+country: "USA"
 what: "\"The Prisoner's Song\", 1924"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

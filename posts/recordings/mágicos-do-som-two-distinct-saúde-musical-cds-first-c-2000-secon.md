@@ -4,10 +4,13 @@ title: "Mágicos do Som, two distinct Saúde Musical CDs (first c. 2000; second 
 slug: "mágicos-do-som-two-distinct-saúde-musical-cds-first-c-2000-secon"
 date: "2026-11-20"
 draft: true
+summary: "Mágicos do Som is a music group associated with the CAPS Usina de Sonhos in Volta Redonda, Rio de Janeiro, Brazil."
 who: "Mágicos do Som"
 when: "2000"
 where: "CAPS Usina de Sonhos, Volta Redonda, Rio de Janeiro, Brazil"
+country: "Brazil"
 what: "two distinct Saúde Musical CDs (first c. 2000; second 2013)"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

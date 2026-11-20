@@ -4,10 +4,13 @@ title: "Lomax, Lambert Camp recordings"
 slug: "lomax-lambert-camp-recordings"
 date: "2026-11-20"
 draft: true
+summary: "Where and when: Parchman; Date(s): 1947–48; Medium: Tape and…"
 who: "Lomax"
 when: "1947"
 where: "Parchman"
+country: "USA"
 what: "Lambert Camp recordings"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Unknown singer with guitar, \"Standing on the Outside of a Circle\" / \"
 slug: "unknown-singer-with-guitar-standing-on-the-outside-of-a-circle-i"
 date: "2026-11-20"
 draft: true
+summary: "an anonymous songwriter's own songs on a discarded reel, kept by the EclectikTronik archive since 1988."
 who: "Unknown singer with guitar"
 when: "1988"
 where: "UK"
+country: "UK"
 what: "\"Standing on the Outside of a Circle\" / \"I Have Looked Upon a Land\" (EclectikTronik 88r002)"
+medium: ""
 tags:
   - "found"
 recording_url: "http://www.mediafire.com/listen/dhvk93v950o44b2/88r002_web_philomena.mp3"

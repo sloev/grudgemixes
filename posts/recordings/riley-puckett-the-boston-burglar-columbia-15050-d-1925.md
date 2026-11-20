@@ -4,10 +4,13 @@ title: "Riley Puckett, “The Boston Burglar” (Columbia 15050-D, 1925)"
 slug: "riley-puckett-the-boston-burglar-columbia-15050-d-1925"
 date: "2026-11-20"
 draft: true
+summary: "“The Boston Burglar” belongs to a broadside-derived family related to “Botany Bay.” The narrative commonly follows a young man who turns to crime, is caught and sentenced, and warns listeners against lawbreaking."
 who: "Riley Puckett"
 when: "1925"
 where: ""
+country: ""
 what: "“The Boston Burglar” (Columbia 15050-D, 1925)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

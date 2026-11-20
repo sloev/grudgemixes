@@ -4,10 +4,13 @@ title: "吉田奈良丸, “矢頭右衛門の誠忠” (Victor catalogue, 1915)
 slug: "吉田奈良丸-矢頭右衛門の誠忠-victor-catalogue-1915"
 date: "2026-11-20"
 draft: true
+summary: "A 2015 Kobecco historical feature places 矢頭右衛門七 in the Ako-retainer revenge tradition: his father joined the revenge pledge, and the son is represented as taking up the cause after his father's death."
 who: "吉田奈良丸"
 when: "1915"
 where: ""
+country: ""
 what: "“矢頭右衛門の誠忠” (Victor catalogue, 1915)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

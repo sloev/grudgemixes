@@ -4,10 +4,13 @@ title: "Taher Shah, \"Eye to Eye\" (2013) and \"Angel\" (2016)"
 slug: "taher-shah-eye-to-eye-2013-and-angel-2016"
 date: "2026-11-20"
 draft: true
+summary: "written off as a joke and mocked on national TV in 2013, he came back in 2016 with \"Angel\"."
 who: "Taher Shah"
 when: "2013"
 where: "Pakistan"
+country: "Pakistan"
 what: "\"Eye to Eye\" (2013) and \"Angel\" (2016)"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

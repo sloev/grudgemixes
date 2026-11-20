@@ -4,10 +4,13 @@ title: "Roba Stanley & Bill Patterson, “Little Frankie” (Okeh 40436, matrix 
 slug: "roba-stanley-bill-patterson-little-frankie-okeh-40436-matrix-884"
 date: "2026-11-20"
 draft: true
+summary: "This is more than a title-only association."
 who: "Roba Stanley & Bill Patterson"
 when: "1924"
 where: ""
+country: ""
 what: "“Little Frankie” (Okeh 40436, matrix 8848; recorded December 1924)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

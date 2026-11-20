@@ -4,10 +4,13 @@ title: "Fifty copies and twenty years"
 slug: "ata-kak-obaa-sima"
 date: "2026-11-20"
 draft: false
+summary: "A Ghanaian in Toronto pressed fifty cassettes of sped-up highlife rap; one turned up in a market twenty years later."
 who: "Ata Kak (Yaw Atta-Owusu)"
 when: "1994"
 where: "Toronto, Canada / Ghana"
+country: "Canada"
 what: "Obaa Sima, cassette"
+medium: "cassette"
 tags:
   - "found"
 recording_url: "https://atakak.bandcamp.com/album/obaa-sima"

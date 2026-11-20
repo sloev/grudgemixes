@@ -4,10 +4,13 @@ title: "G.D.E. (Grupo de Extermínio), No Art Pictures"
 slug: "gde-grupo-de-extermínio-no-art-pictures"
 date: "2026-11-20"
 draft: true
+summary: "Where and when: Underground post-punk/industrial scene, Santa Maria, Rio Grande do Sul, Brazil; Date(s): 1995 (blog); item record has no date; Medium: Demo cassette; collector…"
 who: "G.D.E. (Grupo de Extermínio)"
 when: "1995"
 where: "Underground post-punk/industrial scene, Santa Maria, Rio Grande do Sul, Brazil"
+country: "Brazil"
 what: "No Art Pictures"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

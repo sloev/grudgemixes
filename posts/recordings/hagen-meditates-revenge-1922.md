@@ -4,10 +4,13 @@ title: "A son keeps his father's grudge"
 slug: "hagen-meditates-revenge-1922"
 date: "2026-11-20"
 draft: false
+summary: "Wagner's night-long revenge brooding, sung in English onto a 1922 disc."
 who: "Robert Radford"
 when: "1922"
 where: "Hayes, UK"
+country: "UK"
 what: "“Hagen meditates revenge” (Wagner, Götterdämmerung, in English), HMV D704"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://archive.org/details/78_the-twilight-of-the-gods-hagen-meditates-revenge_radford-robert-symphony-orchestra"

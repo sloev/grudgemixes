@@ -4,10 +4,13 @@ title: "“Dalvorig” / “Dalvorigtsi” — Mihran Damadian; Tashjian Columbi
 slug: "dalvorig-dalvorigtsi-mihran-damadian-tashjian-columbia-recording"
 date: "2026-11-20"
 draft: true
+summary: "The 1962 Armenian National Songs, second edition, includes “Dalvorig” and prints the following English translation (James G."
 who: "“Dalvorig” / “Dalvorigtsi” — Mihran Damadian; Tashjian Columbia recordings"
 when: "1909"
 where: ""
+country: ""
 what: "1909 and 1910"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "The ballad that convicted Robert Ford"
 slug: "bentley-ball-jesse-james-1919"
 date: "2026-11-20"
 draft: false
+summary: "The ballad that never let Robert Ford live down shooting Jesse James in the back, cut to disc in 1919."
 who: "Bentley Ball"
 when: "1919"
 where: "New York, USA"
+country: "USA"
 what: "“Jesse James”, Columbia A3085"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://www.loc.gov/item/10030589/"

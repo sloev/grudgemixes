@@ -4,10 +4,13 @@ title: "Titta Ruffo, \"Cortigiani, vil razza dannata\" (Verdi, *Rigoletto*, Act 
 slug: "titta-ruffo-cortigiani-vil-razza-dannata-verdi-rigoletto-act-ii"
 date: "2026-11-20"
 draft: true
+summary: "Rigoletto turns on the courtiers who abducted his daughter: public denunciation before the revenge plan."
 who: "Titta Ruffo"
 when: "1908"
 where: ""
+country: ""
 what: "\"Cortigiani, vil razza dannata\" (Verdi, *Rigoletto*, Act II)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

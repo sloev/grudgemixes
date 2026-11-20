@@ -4,10 +4,13 @@ title: "Los de Chacabuco"
 slug: "los-de-chacabuco"
 date: "2026-11-20"
 draft: true
+summary: "Detainees record in secret in an abandoned nitrate town."
 who: "Los de Chacabuco"
 when: "1973"
 where: ""
+country: ""
 what: "Chacabuco camp, Chile, 1973–75 (IM-035)"
+medium: ""
 tags: []
 recording_url: ""
 urls: []

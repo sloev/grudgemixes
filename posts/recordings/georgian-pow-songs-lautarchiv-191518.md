@@ -4,10 +4,13 @@ title: "Georgian POW songs, Lautarchiv 1915–18"
 slug: "georgian-pow-songs-lautarchiv-191518"
 date: "2026-11-20"
 draft: true
+summary: "…"
 who: "Georgian POW songs"
 when: "1915"
 where: "Georgia (WWI camps)"
+country: "Georgia"
 what: "Lautarchiv 1915–18"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

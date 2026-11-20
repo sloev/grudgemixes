@@ -4,10 +4,13 @@ title: "Roland C. Nathaniels, “Anlo Patriotic Song” / “Ewe Battle Hymn” 
 slug: "roland-c-nathaniels-anlo-patriotic-song-ewe-battle-hymn-zonophon"
 date: "2026-11-20"
 draft: true
+summary: "The titles “Anlo Patriotic Song” and “Ewe Battle Hymn” invite investigation of collective identity, resistance and historical grievance, but neither title proves an anti-colonial message."
 who: "Roland C. Nathaniels"
 when: "1925"
 where: ""
+country: ""
 what: "“Anlo Patriotic Song” / “Ewe Battle Hymn” (Zonophone 3972, 1925)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

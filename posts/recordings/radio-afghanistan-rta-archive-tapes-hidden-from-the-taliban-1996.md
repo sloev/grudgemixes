@@ -4,10 +4,13 @@ title: "Radio Afghanistan (RTA) archive tapes hidden from the Taliban, 1996"
 slug: "radio-afghanistan-rta-archive-tapes-hidden-from-the-taliban-1996"
 date: "2026-11-20"
 draft: true
+summary: "staff hid cassettes and claimed the archive had been looted; about 50,000 tapes survived."
 who: "Radio Afghanistan (RTA) archive tapes hidden from the Taliban"
 when: "1996"
 where: "Afghanistan"
+country: "Afghanistan"
 what: "1996"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Jules Sims, \"Native Trinidad Kalenda\" I–II, 1914"
 slug: "jules-sims-native-trinidad-kalenda-iii-1914"
 date: "2026-11-20"
 draft: true
+summary: "kalenda are stick-fighting songs; tamboo bamboo bands played them on bamboo tubes after colonial authorities restricted skin drums (cite the ordinance before liner use)."
 who: "Jules Sims"
 when: "1914"
 where: "Trinidad"
+country: "Trinidad"
 what: "\"Native Trinidad Kalenda\" I–II, 1914"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

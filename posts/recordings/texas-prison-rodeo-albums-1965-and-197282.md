@@ -4,10 +4,13 @@ title: "Texas Prison Rodeo albums, 1965 and 1972–82"
 slug: "texas-prison-rodeo-albums-1965-and-197282"
 date: "2026-11-20"
 draft: true
+summary: "eight albums produced by the Texas Department of Corrections and sold at the Huntsville prison rodeo; about 100 songs digitised by Maurice Chammah (The Marshall Project) from Texas Prison Museum copies."
 who: "Texas Prison Rodeo albums"
 when: "1965"
 where: "USA (Texas)"
+country: "USA"
 what: "1965 and 1972–82"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

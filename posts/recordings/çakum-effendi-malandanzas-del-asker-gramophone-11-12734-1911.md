@@ -4,10 +4,13 @@ title: "Çakum Effendi, “Malandanzas del asker” (Gramophone 11-12734, 1911)"
 slug: "çakum-effendi-malandanzas-del-asker-gramophone-11-12734-1911"
 date: "2026-11-20"
 draft: true
+summary: "The Hebrew University scholarly commentary identifies this as one of the Ladino songs about “askerlik” — military service imposed on Jews by Ottoman authorities from 1908."
 who: "Çakum Effendi"
 when: "1911"
 where: ""
+country: ""
 what: "“Malandanzas del asker” (Gramophone 11-12734, 1911)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

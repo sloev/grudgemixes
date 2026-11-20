@@ -4,10 +4,13 @@ title: "Benjamin J. Harbert collection (AFC 2024/014): LCIW choir and lockdown s
 slug: "benjamin-j-harbert-collection-afc-2024014-lciw-choir-and-lockdow"
 date: "2026-11-20"
 draft: true
+summary: "Where and when: LCIW, Louisiana; New Folsom, California; Date(s): 2008–09; Medium: Digital audio and…"
 who: "Benjamin J. Harbert collection (AFC 2024/014): LCIW choir and lockdown singing; New Folsom Prison Blues Band"
 when: "2024"
 where: "LCIW, Louisiana"
+country: "USA"
 what: ""
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

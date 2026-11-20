@@ -4,10 +4,13 @@ title: "“Vengeance at Last” — Saint-Saëns, *Samson et Dalila* (1908)"
 slug: "vengeance-at-last-saint-saëns-samson-et-dalila-1908"
 date: "2026-11-20"
 draft: true
+summary: "This is a strong early recording of an explicit revenge aria."
 who: "“Vengeance at Last” — Saint-Saëns"
 when: "1908"
 where: ""
+country: ""
 what: "*Samson et Dalila* (1908)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

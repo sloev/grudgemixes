@@ -4,10 +4,13 @@ title: "Copacabana clandestine cassette compilation (“A FITA”), 17-track Lat
 slug: "copacabana-clandestine-cassette-compilation-a-fita-17-track-lati"
 date: "2026-11-20"
 draft: true
+summary: "IM-043 — The Copacabana clandestine cassette compilation (“A FITA”), Rio de Janeiro,…"
 who: "Copacabana clandestine cassette compilation"
 when: "1975"
 where: "Concealed compartment in an apartment possibly used as a clandestine opposition safehouse"
+country: ""
 what: "“A FITA”), 17-track Latin American protest programme"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Jacob Algava, “Hermanos mis queridos” (Gramophone, March 1909)"
 slug: "jacob-algava-hermanos-mis-queridos-gramophone-march-1909"
 date: "2026-11-20"
 draft: true
+summary: "The Hebrew University publication identifies the song as a Judeo-Spanish adaptation / abridgement of Joseph Pinto's “Cante nuevo por la constitución,” published in the Istanbul Judeo-Spanish…"
 who: "Jacob Algava"
 when: "1909"
 where: ""
+country: ""
 what: "“Hermanos mis queridos” (Gramophone, March 1909)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

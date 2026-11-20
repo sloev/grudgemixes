@@ -4,10 +4,13 @@ title: "Tashjian Brothers, “Akh Vasburagan” (Columbia E666/4974, 1910)"
 slug: "tashjian-brothers-akh-vasburagan-columbia-e6664974-1910"
 date: "2026-11-20"
 draft: true
+summary: "The Armenian-language ERGIR page “ԱԽ ՎԱՍՊՈՒՐԱԿԱՆ” (“Akh Vaspurakan”) attributes the words to S."
 who: "Tashjian Brothers"
 when: "1910"
 where: ""
+country: ""
 what: "“Akh Vasburagan” (Columbia E666/4974, 1910)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

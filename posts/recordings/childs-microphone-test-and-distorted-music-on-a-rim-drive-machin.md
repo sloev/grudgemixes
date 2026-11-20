@@ -4,10 +4,13 @@ title: "Child's microphone test and distorted music on a rim-drive machine (Ecle
 slug: "childs-microphone-test-and-distorted-music-on-a-rim-drive-machin"
 date: "2026-11-20"
 draft: true
+summary: "Recording: reel on a \"Miny\" rim-drive machine bought at a jumble sale, Willaston (Wirral); mid-1970s; three minutes of distorted music, then children on the mic."
 who: "Child's microphone test and distorted music on a rim-drive machine (EclectikTronik 87r003)"
 when: ""
 where: "UK"
+country: "UK"
 what: ""
+medium: ""
 tags:
   - "found"
 recording_url: "http://www.mediafire.com/listen/7m9ydfgxduqgqdw/87r003_rimdrive_full.mp3"

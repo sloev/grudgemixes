@@ -4,10 +4,13 @@ title: "The song that sang a banned name without saying it"
 slug: "naima-ya-balah-zaghloul"
 date: "2026-11-20"
 draft: false
+summary: "When Egypt's British rulers banned the name Zaghloul, singers sold dates instead."
 who: "Naʿīma al-Miṣriyya; music Sayyid Darwīsh, words Badīʿ Khayrī"
 when: "c.1919"
 where: "Cairo, Egypt"
+country: "Egypt"
 what: "“Yā Balaḥ Zaghlūl” (يا بلح زغلول), Mechian disc"
+medium: "78 rpm disc"
 tags:
   - "fighting-words"
 recording_url: "https://www.youtube.com/watch?v=xyjCk72GVx8"

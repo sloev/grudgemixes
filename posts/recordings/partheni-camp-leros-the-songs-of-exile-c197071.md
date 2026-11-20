@@ -4,10 +4,13 @@ title: "Partheni camp, Leros, The Songs of Exile, c.1970–71"
 slug: "partheni-camp-leros-the-songs-of-exile-c197071"
 date: "2026-11-20"
 draft: true
+summary: "Where and when: Partheni camp, Leros, Greece (political detention); Date(s): Late 1970 or early 1971; Medium: Clandestine…"
 who: "Partheni camp"
 when: "1970"
 where: "Partheni camp, Leros, Greece (political detention)"
+country: "Greece"
 what: "Leros, The Songs of Exile, c.1970–71"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

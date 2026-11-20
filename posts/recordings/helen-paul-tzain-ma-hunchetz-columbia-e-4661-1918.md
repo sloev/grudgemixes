@@ -4,10 +4,13 @@ title: "Helen Paul, “Tzain ma Hunchetz” (Columbia E-4661; 1918)"
 slug: "helen-paul-tzain-ma-hunchetz-columbia-e-4661-1918"
 date: "2026-11-20"
 draft: true
+summary: "The Armenian Museum of America identifies the piece as the first known recording of an ode to Armenian revolutionaries from Erzurum, especially the Protectors of the Fatherland (Bashdban Hayrenyats)."
 who: "Helen Paul"
 when: "1918"
 where: ""
+country: ""
 what: "“Tzain ma Hunchetz” (Columbia E-4661; 1918)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://canary-records.bandcamp.com/album/if-i-were-a-nightingale-turkish-armenian-language-recordings-in-nyc-dec-1916-june-1921"

@@ -4,10 +4,13 @@ title: "Barrientos & Stracciari, Sì, vendetta"
 slug: "barrientos-stracciari-sì-vendetta"
 date: "2026-11-20"
 draft: true
+summary: "The father's vow and the daughter's plea."
 who: "Barrientos & Stracciari"
 when: "1919"
 where: ""
+country: ""
 what: "\"Sì, vendetta\" — Columbia 78363, 1919 (GM-IT-002 family)"
+medium: "78 rpm disc"
 tags: []
 recording_url: ""
 urls: []

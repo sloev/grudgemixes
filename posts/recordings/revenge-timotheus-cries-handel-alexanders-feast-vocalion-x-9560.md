@@ -4,10 +4,13 @@ title: "“Revenge! Timotheus Cries” — Handel, *Alexander's Feast* (Vocalion
 slug: "revenge-timotheus-cries-handel-alexanders-feast-vocalion-x-9560"
 date: "2026-11-20"
 draft: true
+summary: "This is a particularly strong example of music represented as an instrument of retaliation."
 who: "“Revenge! Timotheus Cries” — Handel"
 when: "1924"
 where: ""
+country: ""
 what: "*Alexander's Feast* (Vocalion X-9560, 1924/25)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Salidummay / Salidumay, Salidummay (DKK)"
 slug: "salidummay-salidumay-salidummay-dkk"
 date: "2026-11-20"
 draft: true
+summary: "Philippine Cordillera — Salidummay / Dap-ayan ti Kultura iti Kordilyera cassette…"
 who: "Salidummay / Salidumay"
 when: "1987"
 where: "Cordillera community cultural/activist music"
+country: ""
 what: "Salidummay (DKK)"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

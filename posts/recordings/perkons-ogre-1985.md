@@ -4,10 +4,13 @@ title: "Banned twice, once for a train"
 slug: "perkons-ogre-1985"
 date: "2026-11-20"
 draft: false
+summary: "A banned Latvian rock band, a concert in Ogre, and a smashed train on the way home."
 who: "Pērkons"
 when: "1985"
 where: "Ogre, Latvia"
+country: "Latvia"
 what: "Home-studio and live recordings, 1981–85"
+medium: "reel-to-reel"
 tags:
   - "fighting-words"
 recording_url: ""

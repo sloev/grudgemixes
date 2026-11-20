@@ -4,10 +4,13 @@ title: "Bruce Jackson, Indiana Prison Songs (reels 1–2)"
 slug: "bruce-jackson-indiana-prison-songs-reels-12"
 date: "2026-11-20"
 draft: true
+summary: "The Smithsonian Institution's Ralph Rinzler Folklife Archives and Collections catalogue identifies two items titled “Bruce Jackson Field Recordings: Indiana Prison Songs” in the Moses and Frances…"
 who: "Bruce Jackson"
 when: "1963"
 where: "Indiana, USA"
+country: "USA"
 what: "Indiana Prison Songs (reels 1–2)"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

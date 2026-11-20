@@ -4,10 +4,13 @@ title: "Al Craver [Vernon Dalhart] — “Little Mary Phagan” (Columbia 15031-
 slug: "al-craver-vernon-dalhart-little-mary-phagan-columbia-15031-d-192"
 date: "2026-11-20"
 draft: true
+summary: "Mary Phagan, age thirteen, was murdered in Atlanta in 1913."
 who: "Al Craver [Vernon Dalhart]"
 when: "1925"
 where: ""
+country: ""
 what: "“Little Mary Phagan” (Columbia 15031-D, 1925)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

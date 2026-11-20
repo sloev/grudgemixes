@@ -4,10 +4,13 @@ title: "Ford and Ford — “Skeeg-A-Lee Blues” (Paramount 12244-A, 1924)"
 slug: "ford-and-ford-skeeg-a-lee-blues-paramount-12244-a-1924"
 date: "2026-11-20"
 draft: true
+summary: "The 2023 Social History of American Music chapter calls the Ford and Ford recording the first vocal version of Stagger Lee."
 who: "Ford and Ford"
 when: "1924"
 where: ""
+country: ""
 what: "“Skeeg-A-Lee Blues” (Paramount 12244-A, 1924)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

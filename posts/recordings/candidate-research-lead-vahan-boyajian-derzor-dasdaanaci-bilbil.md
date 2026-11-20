@@ -4,10 +4,13 @@ title: "Candidate research lead: Vahan Boyajian, “Derzor Dasdaanaci” (Bilbil
 slug: "candidate-research-lead-vahan-boyajian-derzor-dasdaanaci-bilbil"
 date: "2026-11-20"
 draft: true
+summary: "Yıldız identifies “Derzor Dasdaanaci” as a popular song with many versions by different singers."
 who: "Vahan Boyajian"
 when: ""
 where: ""
+country: ""
 what: "“Derzor Dasdaanaci” (Bilbil 2)"
+medium: "digital"
 tags:
   - "the-account"
 recording_url: "https://canary-records.bandcamp.com/track/derzor-dasdaanaci-the-ballad-singer-of-der-zor"

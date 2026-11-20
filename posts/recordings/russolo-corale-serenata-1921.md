@@ -4,10 +4,13 @@ title: "The only recording of the noise machines"
 slug: "russolo-corale-serenata-1921"
 date: "2026-11-20"
 draft: false
+summary: "The only surviving recording of the Futurists' noise machines, which audiences pelted with vegetables."
 who: "Antonio & Luigi Russolo, with intonarumori"
 when: "1921"
 where: "Milan / Paris, Italy & France"
+country: "Italy"
 what: "“Corale” / “Serenata”, Grammofono R6920"
+medium: "78 rpm disc"
 tags:
   - "fighting-words"
 recording_url: "https://www.youtube.com/watch?v=8GpN5FHO60c"

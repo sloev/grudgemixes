@@ -4,10 +4,13 @@ title: "Mágicos do Som, Preconceito"
 slug: "mágicos-do-som-preconceito"
 date: "2026-11-20"
 draft: true
+summary: "A mental-health group names the stigma it lives with."
 who: "Mágicos do Som"
 when: "2000"
 where: ""
+country: ""
 what: "\"Preconceito\" — CAPS Volta Redonda, Brazil, c.2000 (IM-038)"
+medium: ""
 tags: []
 recording_url: ""
 urls: []

@@ -4,10 +4,13 @@ title: "ARSCH"
 slug: "arsch"
 date: "2026-11-20"
 draft: true
+summary: "A commune taping…"
 who: "ARSCH"
 when: ""
 where: ""
+country: ""
 what: "Commune barn studio, Valais (IM-011)"
+medium: ""
 tags: []
 recording_url: ""
 urls: []

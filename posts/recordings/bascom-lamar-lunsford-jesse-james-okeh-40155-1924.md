@@ -4,10 +4,13 @@ title: "Bascom Lamar Lunsford — “Jesse James” (Okeh 40155, 1924)"
 slug: "bascom-lamar-lunsford-jesse-james-okeh-40155-1924"
 date: "2026-11-20"
 draft: true
+summary: "The traditional “Jesse James” ballad frames Robert Ford's killing of James as betrayal by a trusted associate and repeatedly condemns Ford as a coward."
 who: "Bascom Lamar Lunsford"
 when: "1924"
 where: ""
+country: ""
 what: "“Jesse James” (Okeh 40155, 1924)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

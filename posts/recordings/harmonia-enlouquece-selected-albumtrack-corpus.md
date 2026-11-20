@@ -4,10 +4,13 @@ title: "Harmonia Enlouquece, selected album/track corpus"
 slug: "harmonia-enlouquece-selected-albumtrack-corpus"
 date: "2026-11-20"
 draft: true
+summary: "IM-039 — Harmonia Enlouquece: fifth-album item-level reconciliation…"
 who: "Harmonia Enlouquece"
 when: "2001"
 where: "Centro Psiquiátrico Rio de Janeiro (CPRJ), Rio de Janeiro, Brazil"
+country: "Brazil"
 what: "selected album/track corpus"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

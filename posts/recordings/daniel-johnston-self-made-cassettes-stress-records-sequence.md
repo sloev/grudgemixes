@@ -4,10 +4,13 @@ title: "Daniel Johnston, self-made cassettes (Stress Records sequence)"
 slug: "daniel-johnston-self-made-cassettes-stress-records-sequence"
 date: "2026-11-20"
 draft: true
+summary: "Where and when: Home recording; Wittliff Collections; Date(s): 1980–88; Medium:…"
 who: "Daniel Johnston"
 when: "1980"
 where: "Home recording"
+country: ""
 what: "self-made cassettes (Stress Records sequence)"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "The grandmother of raï, banned from her own country's radio"
 slug: "cheikha-rimitti-charrak-gatta"
 date: "2026-11-20"
 draft: false
+summary: "An illiterate wedding singer from western Algeria scandalised a nation with one song in 1954."
 who: "Cheikha Rimitti"
 when: "1954"
 where: "Oran region, Algeria"
+country: "Algeria"
 what: "“Charrak Gattà”, Pathé"
+medium: "78 rpm disc"
 tags:
   - "out-of-turn"
 recording_url: "https://www.deezer.com/artist/68157"

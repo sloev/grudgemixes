@@ -4,10 +4,13 @@ title: "Anões de Jardim, Demo"
 slug: "anões-de-jardim-demo"
 date: "2026-11-20"
 draft: true
+summary: "The band’s preserved Real Deal page says Anões de Jardim formed in January 1993, with Frederico P."
 who: "Anões de Jardim"
 when: "1993"
 where: "Independent hardcore/DIY cassette scene, Curitiba, Paraná, Brazil"
+country: "Brazil"
 what: "Demo"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: "https://demo-tapes-brasil.blogspot.com/2012/12/anoes-de-jardim-demo-1993.html"

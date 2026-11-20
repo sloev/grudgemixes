@@ -4,10 +4,13 @@ title: "Tuskegee Institute Singers, \"I've Been 'Buked\" (Victor, 1916)"
 slug: "tuskegee-institute-singers-ive-been-buked-victor-1916"
 date: "2026-11-20"
 draft: true
+summary: "spiritual of endured insult (\"I've been 'buked and I've been scorned\")."
 who: "Tuskegee Institute Singers"
 when: "1916"
 where: ""
+country: ""
 what: "\"I've Been 'Buked\" (Victor, 1916)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

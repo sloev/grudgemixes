@@ -4,10 +4,13 @@ title: "The Workshop for the Restoration of Unfelt Feelings"
 slug: "nsrd-unfelt-feelings"
 date: "2026-11-20"
 draft: false
+summary: "Wonky home-taped art pop from a Riga collective that Soviet Latvia mostly ignored."
 who: "NSRD (Hardijs Lediņš, Juris Boiko)"
 when: "1982–89"
 where: "Riga, Latvia"
+country: "Latvia"
 what: "Tape and reel albums incl. Invalīdu tramvajs (1983)"
+medium: "cassette"
 tags:
   - "unwanted"
 recording_url: "https://underbedstorage.bandcamp.com/album/december-session"

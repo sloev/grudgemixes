@@ -4,10 +4,13 @@ title: "Prussian Phonographic Commission POW music cylinders (1,022)"
 slug: "prussian-phonographic-commission-pow-music-cylinders-1022"
 date: "2026-11-20"
 draft: true
+summary: "Where and when: German POW camps; Date(s): 1915–18; Medium: Wax…"
 who: "Prussian Phonographic Commission POW music cylinders (1,022)"
 when: "1915"
 where: "German POW camps"
+country: "Germany"
 what: ""
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "María García, “La noche de Reyes” (Asturias; recorded 19 January 1
 slug: "maría-garcía-la-noche-de-reyes-asturias-recorded-19-january-1939"
 date: "2026-11-20"
 draft: true
+summary: "The documented plot is a killing in response to an alleged sexual betrayal."
 who: "María García"
 when: "1939"
 where: ""
+country: ""
 what: "“La noche de Reyes” (Asturias; recorded 19 January 1939)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "“Sì, vendetta” — Verdi, *Rigoletto* (Vocalion, ca. 1921)"
 slug: "sì-vendetta-verdi-rigoletto-vocalion-ca-1921"
 date: "2026-11-20"
 draft: true
+summary: "The Act III duet “Sì, vendetta” (“Yes, vengeance”) from Verdi's Rigoletto is an explicit operatic statement of revenge."
 who: "“Sì"
 when: "1921"
 where: ""
+country: ""
 what: "vendetta” — Verdi, *Rigoletto* (Vocalion, ca. 1921)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

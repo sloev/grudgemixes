@@ -4,10 +4,13 @@ title: "(lead) — Babu Surendra Nath Banerjee, “Bande Mataram and Swadeshi”
 slug: "lead-babu-surendra-nath-banerjee-bande-mataram-and-swadeshi-part"
 date: "2026-11-20"
 draft: true
+summary: "The Berlin museum's collection record identifies the physical object as a shellac disc, attributes the performance to Babu Surendra Nath Banerjee, and names National Grand Record as maker and publisher."
 who: "(lead) — Babu Surendra Nath Banerjee"
 when: ""
 where: ""
+country: ""
 what: "“Bande Mataram and Swadeshi” / “Partition of Bengal” (National Grand Record / Beka, catalogue 20290–20291)"
+medium: ""
 tags:
   - "the-account"
 recording_url: ""

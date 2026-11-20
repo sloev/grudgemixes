@@ -4,10 +4,13 @@ title: "(lead) — Helen Paul, “Tzain ma Hunchetz” (Columbia, April 1918 ses
 slug: "lead-helen-paul-tzain-ma-hunchetz-columbia-april-1918-session"
 date: "2026-11-20"
 draft: true
+summary: "The museum identifies the song as an ode to the earliest organized Armenian revolutionary groups, especially the Protectors of the Fatherland (Bashdban Hayrenyat's), an organization associated with Erzerum."
 who: "(lead) — Helen Paul"
 when: "1918"
 where: ""
+country: ""
 what: "“Tzain ma Hunchetz” (Columbia, April 1918 session)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

@@ -4,10 +4,13 @@ title: "Kana‘ana Hou Choir, E Nā Kini o ka ‘Āina (Ernest Kalā)"
 slug: "kanaana-hou-choir-e-nā-kini-o-ka-āina-ernest-kalā"
 date: "2026-11-20"
 draft: true
+summary: "Exiled residents record their own choir."
 who: "Kana‘ana Hou Choir"
 when: "1952"
 where: ""
+country: ""
 what: "\"E Nā Kini o ka ‘Āina\" (Ernest Kalā) — Kalaupapa, Moloka‘i, 1952, patient-recorded (IM-005)"
+medium: ""
 tags: []
 recording_url: ""
 urls: []

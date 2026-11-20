@@ -4,10 +4,13 @@ title: "Women's a cappella songs, Parchman (LOC field discs)"
 slug: "womens-a-cappella-songs-parchman-loc-field-discs"
 date: "2026-11-20"
 draft: true
+summary: "Where and when: Mississippi State Penitentiary; Date(s): 1936, 1939; Medium: Instantaneous…"
 who: "Women's a cappella songs"
 when: "1936"
 where: "Mississippi State Penitentiary"
+country: ""
 what: "Parchman (LOC field discs)"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

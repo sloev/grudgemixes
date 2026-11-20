@@ -4,10 +4,13 @@ title: "Tashjian Brothers, “Tartzial Paylets” (Columbia E658/4964, 1910)"
 slug: "tashjian-brothers-tartzial-paylets-columbia-e6584964-1910"
 date: "2026-11-20"
 draft: true
+summary: "Houshamadyan's Armenian-language Sassoun collection publishes a song titled “Դարձեալ փայլեց” (“It Shone Again”) in the Alahaydoyan collection."
 who: "Tashjian Brothers"
 when: "1910"
 where: ""
+country: ""
 what: "“Tartzial Paylets” (Columbia E658/4964, 1910)"
+medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""

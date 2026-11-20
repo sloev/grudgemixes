@@ -4,10 +4,13 @@ title: "Mary Bolton's song"
 slug: "song-poem-msr-851"
 date: "2026-11-20"
 draft: false
+summary: "Ordinary people paid to have their poems turned into records; session players obliged, deadpan."
 who: "“Bobbi Blake”; lyric by Mary Bolton"
 when: "c.1970s"
 where: "Hollywood, USA"
+country: "USA"
 what: "“My Husband, Lover, Friend”, MSR 851"
+medium: "vinyl"
 tags:
   - "unwanted"
 recording_url: "https://songpoemmusic.com/mp3.htm"

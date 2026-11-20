@@ -4,10 +4,13 @@ title: "Regina, songs on Lehmann-Nitsche cylinders, La Plata, 1905–1907 (IM-05
 slug: "regina-songs-on-lehmann-nitsche-cylinders-la-plata-19051907-im-0"
 date: "2026-11-20"
 draft: true
+summary: "Regina, a Mapuche captive of the \"Conquest of the Desert\", lived as a servant in the household of the scientist who recorded her."
 who: "Regina"
 when: "1905"
 where: "Argentina / Mapuche"
+country: ""
 what: "songs on Lehmann-Nitsche cylinders, La Plata, 1905–1907 (IM-055)"
+medium: ""
 tags:
   - "made-anyway"
 recording_url: ""

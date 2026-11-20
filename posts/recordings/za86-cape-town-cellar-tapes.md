@@ -4,10 +4,13 @@ title: "Nine cassettes from a Cape Town cellar"
 slug: "za86-cape-town-cellar-tapes"
 date: "2026-11-20"
 draft: false
+summary: "A radio reporter's cassettes of South Africa in 1986, found again in an archive and cut into an album."
 who: "Nigel Wrench (recordist), Turnstyle News"
 when: "1986"
 where: "South Africa"
+country: "South Africa"
 what: "ZA86, edited from nine cassettes"
+medium: "cassette"
 tags:
   - "found"
 recording_url: "https://datworm.bandcamp.com/album/za86"

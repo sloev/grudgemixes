@@ -4,10 +4,13 @@ title: "Salidummay (DKK)"
 slug: "salidummay-dkk"
 date: "2026-11-20"
 draft: true
+summary: "Indigenous land-defence songs passed hand to hand."
 who: "Salidummay (DKK)"
 when: "1987"
 where: ""
+country: ""
 what: "Cordillera, Philippines, cassette 1987/89 (IM-042)"
+medium: "cassette"
 tags: []
 recording_url: ""
 urls: []

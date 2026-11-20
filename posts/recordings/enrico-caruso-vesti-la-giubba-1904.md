@@ -4,10 +4,13 @@ title: "Enrico Caruso — “Vesti la giubba” (1904)"
 slug: "enrico-caruso-vesti-la-giubba-1904"
 date: "2026-11-20"
 draft: true
+summary: "The Library of Congress catalog record identifies the recording date as 1 February 1904, label Victor, catalog 930, matrix B-1002, take 1, and recording location New York."
 who: "Enrico Caruso"
 when: "1904"
 where: ""
+country: ""
 what: "“Vesti la giubba” (1904)"
+medium: ""
 tags:
   - "the-account"
 recording_url: "https://www.loc.gov/item/jukebox-119158/"
