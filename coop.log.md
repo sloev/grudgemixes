@@ -207,3 +207,15 @@ Bounded audio asset deposit for priority film Кин-дза-дза! / Kin-dza-dz
 
 ### Handoff
 Continue extracting labeled film-mix cues from accessible IA sources (next: 60m-62m, noting existing 60m-63m) or seek owner-approved free commercial reconstructions/isolated tracks. Prefer Kancheli and Zatsepin. All new research work directed to canonical grudgemixes workspace; legacy repos reference-only. Do not invent downloads. Verify reported files independently before promoting to FILE VERIFIED. For music projects, continue highest-priority research or queue-preparation if no READY FOR GROK items.
+
+## 2026-11-20 — Claude: found-tape blogs survey
+
+- New discovery map: `projects/insane-music/research/found-tape-blogs-small-web-2026-11-20.md`. Best new sources:
+  - EclectikTronik Found Tapes (UK, since 1985; strangers' home tapes from skips and car-boot sales, with find place and date)
+  - Tape Findings (US garage-sale tapes; needs the Wayback Machine)
+  - WFMU Bodega Pop (diaspora shop cassettes)
+  - Lo Finest and NOISE-ARCH on archive.org
+  - early Awesome Tapes From Africa blog
+  - Moroccan Tape Stash
+HANDOFF → web: pick 2–3 music tapes from EclectikTronik and one Bodega Pop diaspora tape as Vol. 10 candidates; recover Tape Findings from the Wayback Machine; find found-tape blogs in Japanese, Turkish, Indonesian and Russian.
+PARTIAL
