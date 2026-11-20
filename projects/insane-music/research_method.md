@@ -1465,3 +1465,8 @@ A bounded Spanish-language source pass identified Radio Estación del Paraíso, 
 2. With owner approval, request the CSU digital objects for IM-001 and IM-053; reconcile names, dates, carrier generation, performer and rights.
 3. Resolve IM-054's stable Naver post URLs and item-level audio, then document title, date, group credit, medium, consent and rights before splitting any tracks.
 4. Rotate discovery beyond the current US/Korea cases to a different language and region; retain environment-first and resident-made / visiting-performance distinctions.
+
+
+## 2026-11-20 continuation checkpoint — IM-054 Korean-language pass
+
+Completed a bounded Korean-language verification pass on IM-054. Institutional/press sources now corroborate patient-created song practice and the intended hospital-blog audio corpus, but no stable item-level audio or preservation record was recovered. Keep the corpus-level lead PARTIALLY VERIFIED / PROMISING. Next exact task: locate an archived/exported copy of the Naver blog or an institutional catalogue while preserving participant privacy and consent uncertainty. No audio, archive contact or rights clearance.
