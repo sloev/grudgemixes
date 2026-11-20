@@ -305,3 +305,19 @@ Next exact action: locate Lagidze score/parts or an authorized film print; deter
 2. For SF-LT-001, obtain LFC print/sound metadata and score/cue sheets; compare film print to 1976 LP and 2000 corrected CD/cassette; resolve 1974/1976 dating.
 3. Verify whether the announced 2025 live accompaniment occurred and whether a performance recording survives; inspect the 2025 audio-description version as a separate accessibility layer.
 4. Rotate the next regional discovery toward Ukrainian SSR or Moldavian SSR, with local-language film and score catalogues; do not let Lithuanian or Moscow material crowd out regional cinema.
+
+## 2026-11-20 — SF-KG-001 local-language source update
+
+- Mosfilm's official record confirms the 1968 / 83-minute / mono film and Sidelnikov's film-level composer credit; its synopsis explicitly refers to Daniyar's songs.
+- Two new YouTube objects by Kyrgyz film critic Gulbara Tolomushova are titled as Daniyar-song clips (11–12 October 2024); one title says “35мм”, the other includes “#QarashLab”. The uploader's professional profile is verified, but the page descriptions are empty and the title alone does not authenticate a 35mm source print, cue identity, performer or rights. Keep them as separate digital objects until compared, not separate tracks.
+- A Kyrgyz-script search for “Даниярдын ыры” surfaced a 2021 modern upload by Adilet Kılıch Uulu; it is not verified as the 1968 film cue and remains a false-positive/title-collision note.
+- SF-KG-001 / SF-AUD-011 remains IDENTITY UNRESOLVED. No new queue ID, no READY FOR DRIVE item and no change to Drive inventory.
+
+### Next exact queue
+1. With owner approval, seek source-print/transfer provenance for the two Tolomushova clips and compare them with an authorized 1968/1969 film print; establish exact cue timecode and version.
+2. Locate the original score, cue sheet, lyric sheet or production sound record; keep Sidelnikov's film-level credit and Sarnogoev's film-level lyric credit separate from cue-specific attribution.
+3. Resolve the 1968/1969 date and production-credit discrepancy through a primary print or production record.
+4. Continue the next regional rotation beyond Central Asia after the SF-KG-001 baseline has been advanced.
+
+No audio/video was played, no print or score inspected, no contact or permission request made, no download/upload and no rights clearance.
+
