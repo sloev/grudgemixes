@@ -180,3 +180,11 @@ Owner widened *Music in Spite* to music made where it was not expected or tolera
 ## 2026-11-20 — Claude — Discovery pass (b)
 
 Added `research/discovery-pass-2026-11-20b.md`. Headline lead (unverified): an 1889 proposal by Dr Maurice Dupont to record patients' delusions and a reported c.1908 recording collection at Sainte-Anne hospital, Paris — potentially the earliest psychiatric-pathway item for Insane Music. Other leads: Montéhus "Gloire au 17e" (1907 mutiny song), Dalhart "The Prisoner's Song" (prison-origin song, Victor 19427, 1924), Texas Prison Rodeo albums (Marshall Project), Lomax prison recordings (Kelly Pace 1934, Jimmie Strothers 1936). Page-fetch tool hit a usage limit; items confirmed from search text only. No IDs, no audio, nothing cleared.
+
+## 2026-11-20 — ChatGPT — IM-054 Eunpyeong local-language verification (CLAIMED)
+
+### Bounded task
+Advance the existing non-prison Insane Music lead IM-054 (은평병원 / Art Brut Music) using Korean-language primary or institutional sources. Verify whether the source supports a patient-created recording corpus, identify stable item-level URLs or publication details, and record bounded negative results. No new ID unless the existing record is confirmed as the same corpus.
+
+### Planned scope
+Search Korean institutional/news/archive pages for the exact group and source; distinguish patient-made work from workshop/visiting performance; do not claim audio access, contact, consent or rights clearance. Next handoff will record files changed, sources, uncertainties and whether the lead remains C/RESEARCHED-OPEN.
