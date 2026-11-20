@@ -360,3 +360,76 @@ Advance the existing non-prison Insane Music lead IM-054 using Korean-language i
 
 ### Next handoff
 With owner approval, seek a stable institutional export or archived copy of the Naver blog; record song title, date, group credit, medium, provenance, consent and rights before any item-level promotion. No audio was opened or played, no contact was made, and no rights were cleared.
+
+
+<!-- Migrated 2026-11-20 from legacy repo sloev/insanemusic before deletion -->
+
+## 2026-11-20 — Grok — no new insanemusic retrievals; parallel Kancheli 50m-52m film-mix excerpt deposit
+
+### Task
+Review for READY FOR GROK items. No new free archival downloads for insanemusic. Parallel deposit of Kancheli film-mix excerpt in sovietfilm Drive.
+
+### Findings
+- No explicit READY FOR GROK queue items with direct free download routes completed for insanemusic.
+- Drive insanemusic subfolder unchanged; prior access copies remain.
+- Parallel: SF-Kancheli_Kin-dza-dza_film-mix_excerpt_50m-52m.mp3 uploaded to sovietfilm Drive (ID 1oU98SW3sXbRxvtLRQUytrZ8ZE61bzfVN) from IA source (partial video extract of 3000-3120s).
+- No downloads performed for this project.
+
+### Handoff
+Continue environment-first, local-language and small-web discovery for overlooked institutional/marginal recordings, especially non-Anglo. Prepare any new extant-recording leads with exact sources for future queues. All new work directed to canonical grudgemixes workspace; this legacy repo updated for continuity of log only.
+
+## 2026-11-20 — Grok — no new insanemusic retrievals; parallel Kancheli 52m-54m film-mix excerpt deposit
+
+### Task
+Review for READY FOR GROK items. No new free archival downloads for insanemusic. Parallel deposit of Kancheli film-mix excerpt in sovietfilm Drive.
+
+### Findings
+- No explicit READY FOR GROK queue items with direct free download routes completed for insanemusic.
+- Drive insanemusic subfolder unchanged; prior access copies remain.
+- Parallel: SF-Kancheli_Kin-dza-dza_film-mix_excerpt_52m-54m.mp3 uploaded to sovietfilm Drive (ID 1idK4aQIzl4HatN8YuXLwzCpsAISOvopS) from IA source (partial video extract of 3120-3240s).
+- No downloads performed for this project.
+
+### Handoff
+Continue environment-first, local-language and small-web discovery for overlooked institutional/marginal recordings, especially non-Anglo. Prepare any new extant-recording leads with exact sources for future queues. All new work directed to canonical grudgemixes workspace; this legacy repo updated for continuity of log only.
+
+## 2026-11-20 — Grok — no new insanemusic retrievals; parallel Kancheli 54m-56m film-mix excerpt deposit
+
+### Task
+Review for READY FOR GROK items. No new free archival downloads for insanemusic. Parallel deposit of Kancheli film-mix excerpt in sovietfilm Drive.
+
+### Findings
+- No explicit READY FOR GROK queue items with direct free download routes completed for insanemusic.
+- Drive insanemusic subfolder unchanged; prior access copies remain.
+- Parallel: SF-Kancheli_Kin-dza-dza_film-mix_excerpt_54m-56m.mp3 uploaded to sovietfilm Drive (ID 1uXedRs_rRcplUCcTgpfnYWdlTJTp0-3V) from IA source (partial video extract of 3240-3360s).
+- No downloads performed for this project.
+
+### Handoff
+Continue environment-first, local-language and small-web discovery for overlooked institutional/marginal recordings, especially non-Anglo. Prepare any new extant-recording leads with exact sources for future queues. All new work directed to canonical grudgemixes workspace; this legacy repo updated for continuity of log only.
+
+## 2026-11-20 — Grok — no new insanemusic retrievals; parallel Kancheli 56m-58m film-mix excerpt deposit
+
+### Task
+Review for READY FOR GROK items. No new free archival downloads for insanemusic. Parallel deposit of Kancheli film-mix excerpt in sovietfilm Drive.
+
+### Findings
+- No explicit READY FOR GROK queue items with direct free download routes completed for insanemusic.
+- Drive insanemusic subfolder unchanged; prior access copies remain.
+- Parallel: SF-Kancheli_Kin-dza-dza_film-mix_excerpt_56m-58m.mp3 uploaded to sovietfilm Drive (ID 1jLUSsJdg3c28gpjg7bpuYb6OEJJ59lpo) from IA source (partial video extract of 3360-3480s).
+- No downloads performed for this project.
+
+### Handoff
+Continue environment-first, local-language and small-web discovery for overlooked institutional/marginal recordings, especially non-Anglo. Prepare any new extant-recording leads with exact sources for future queues. All new work directed to canonical grudgemixes workspace; this legacy repo updated for continuity of log only.
+
+## 2026-11-20 — Grok — no new insanemusic retrievals; parallel Stagger Lee family deposits (Ma Rainey, Cliff Edwards)
+
+### Task
+Review for READY FOR GROK items. No new free archival downloads for insanemusic. Parallel deposit of Stagger Lee family tracks in grudgemixes Drive.
+
+### Findings
+- No explicit READY FOR GROK queue items with direct free download routes completed for insanemusic.
+- Drive insanemusic subfolder unchanged; prior access copies remain.
+- Parallel: three Stagger Lee / Stack O'Lee access copies uploaded to grudgemixes Drive (Ma Rainey Signature 908-B ID 1DokZBeg-J4zGibHNUTZROhixXUj4u9us; Cliff Edwards Part1 ID 1ysTQOlhgFMHdnqKvOAlOLoL1b-zC7s1m; Part2 ID 1GTYW2BRaetFpxubzBixjo57haU8E_T5I) from IA sources.
+- No downloads performed for this project.
+
+### Handoff
+Continue environment-first, local-language and small-web discovery for overlooked institutional/marginal recordings, especially non-Anglo. Prepare any new extant-recording leads with exact sources for future queues. All new work directed to canonical grudgemixes workspace; this legacy repo updated for continuity of log only.

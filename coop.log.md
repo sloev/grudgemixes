@@ -215,3 +215,13 @@ With owner approval, seek an archived/exported copy of the Naver blog or an inst
 ## 2026-11-20 — Claude — Discovery pass (c): correction + diversity pass
 
 Corrected Sainte-Anne lead after full read (Dupont 1889 delusion recordings; no singing; survival unknown; "1908" was Joffroy's death). Confirmed Texas Prison Rodeo albums (8 albums 1972–82, ~100 songs, YouTube playlist) and the lost WBAP *Thirty Minutes Behind the Walls* as a hunt target. Owner asked to de-emphasise prisons: added `research/diversity-pass-2026-11-20.md` (Trinidad 1914 calypso/kalenda, Gauhar Jaan 1902, Qamar 1924, "Pelo Telefone" 1916–17, Cheikha Rimitti 1954, Piłsudski Ainu cylinders 1902–05). No IDs, no audio, nothing cleared.
+
+## 2026-11-20 — Claude: consolidation, tidy-up, encrypted site
+
+- New canonical files: `LEADS.md` (every lead with background, fit, sources, links, download status, planned mix) and `MIXES.md` (ten volumes; new Vol. 5 "Voices Out of Turn"; prison material limited to Vol. 7, cut to five tracks).
+- Rewrote `AGENTS.md` (work method for all agents) and `README.md`.
+- Restructured: Grudge Mixes material under `projects/grudge-mixes/`; `projects/insanemusic` merged into `projects/insane-music` (older differing copies in `legacy/insanemusic-dir/`); superseded plans and root docs moved to `archive/`.
+- Took in the legacy `sloev/insanemusic` repo before deletion: snapshots in `projects/insane-music/legacy/insanemusic-repo/`, 5 legacy-only log entries appended to `projects/insane-music/coop.log.md`.
+- Dropped the Soviet film music project at the owner's request; `projects/soviet-film-music/` deleted.
+- Removed the old public tracker (workflow, `public/`, build script). Added `scripts/build_site.py` and `.github/workflows/publish-site.yml`: the site in `sloev/grudgemusic-public` is now AES-GCM encrypted and opens only with the owner's password (secret `SITE_PASSWORD`; push token secret `PUBLIC_SITE_TOKEN`). First build pushed by hand.
+- Open: fix duplicate IDs GM-AM-001 and GM-IN-001; clearance sheet and planning doc still use the old volume numbers; verify (play and checksum) the 20 listed Drive files.

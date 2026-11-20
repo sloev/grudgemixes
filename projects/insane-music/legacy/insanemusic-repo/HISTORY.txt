@@ -1,0 +1,431 @@
+d2f056c 2026-11-20 09:22:19 +0100 SUPERNIHIL — Append 2026-11-20 Grok entry: parallel Stagger Lee deposits, no new insanemusic retrievals
+4da96ea 2026-11-20 08:34:21 +0100 fremmedartet — Log no new insanemusic retrievals; parallel Kancheli 56m-58m deposit
+abbc4d4 2026-11-20 07:21:48 +0100 fremmedartet — Append 2026-11-20 Grok handoff: no new insanemusic retrievals; parallel Kancheli 54m-56m deposit (legacy continuity)
+b5e7a2c 2026-11-20 06:16:14 +0100 fremmedartet — Log no new retrievals; parallel Kancheli 52m-54m deposit (legacy continuity)
+8b83039 2026-11-20 05:21:58 +0100 fremmedartet — Append coop.log: no new insanemusic retrievals; parallel Kancheli 50m-52m film-mix excerpt deposit
+537eb9c 2026-11-20 03:33:29 +0100 fremmedartet — Log 2026-11-20 no new insanemusic retrievals; parallel Kancheli 46m-48m deposit
+4eedf86 2026-11-20 02:44:19 +0100 fremmedartet — Log no new insanemusic retrievals; parallel Kancheli 44m-46m deposit
+10e9495 2026-11-19 22:36:44 +0100 fremmedartet — Append 2026-11-19 Grok log: no new insanemusic retrievals; parallel Kancheli 38m-40m deposit (legacy continuity)
+a8ac4a7 2026-11-19 20:52:58 +0100 fremmedartet — Append 2026-11-19 Grok log: no new insanemusic retrievals; parallel Kancheli 36m-38m deposit
+c627cb7 2026-11-19 18:36:57 +0100 fremmedartet — Log no new insanemusic retrievals; parallel Kancheli 32m-34m deposit
+a4d934d 2026-11-19 09:23:39 +0100 SUPERNIHIL — Append 2026-11-19 Grok log: parallel Kancheli 28m-30m film-mix excerpt deposit
+f147625 2026-11-19 06:15:46 +0100 fremmedartet — Append 2026-11-19 Grok log: no new insanemusic retrievals; parallel Kancheli 22m-24m film-mix excerpt deposit
+c3ca16a 2026-11-19 05:13:47 +0100 fremmedartet — Append 2026-11-19 Grok log: no new insanemusic retrievals; parallel Kancheli 18m-20m deposit
+aada30e 2026-11-19 03:20:47 +0100 fremmedartet — Append 2026-11-19 Grok log: no new insanemusic retrievals; parallel Kancheli 14m-16m deposit
+97c46ab 2026-11-19 02:18:18 +0100 fremmedartet — Append 2026-11-19 Grok log: no new insanemusic retrievals; parallel Kancheli 12m-14m deposit
+d231489 2026-11-19 01:23:33 +0100 fremmedartet — Append 2026-11-19 Grok log: no new insanemusic retrievals; parallel Kancheli 10m-12m film-mix excerpt deposit
+55d7519 2026-11-19 00:21:38 +0100 fremmedartet — Append 2026-11-19 Grok continuity log: parallel Kancheli 8m-10m deposit; no insanemusic retrievals
+847ef70 2026-11-18 22:11:52 +0100 fremmedartet — Append 2026-11-18 Grok status: no new insanemusic retrievals; parallel Kancheli deposit
+c86b6ca 2026-11-18 09:35:26 +0100 SUPERNIHIL — Append 2026-11-18 Grok entry: parallel Stagger Lee coverage for grudgemixes
+2be1c8c 2026-11-17 20:17:48 +0100 fremmedartet — Append 2026-11-17 Grok handoff: no new retrievals; parallel sovietfilm deposit
+9c1ba7e 2026-11-17 19:19:23 +0100 fremmedartet — Append 2026-11-17 Grok entry: no new READY FOR GROK items; parallel sovietfilm deposit completed
+a9ae637 2026-11-17 09:29:46 +0100 SUPERNIHIL — Append 2026-11-17 Grok entry: no new insanemusic downloads; parallel grudgemixes archival add
+ba9e4c3 2026-11-17 00:37:08 +0100 SUPERNIHIL — Redirect agents to shared canonical workspace
+983237b 2026-11-17 00:36:35 +0100 SUPERNIHIL — Document canonical workspace transition
+106b88d 2026-11-17 00:36:33 +0100 SUPERNIHIL — Redirect agents to canonical shared workspace
+63d7d0b 2026-11-16 23:15:30 +0000 fremmedartet — Append 2026-11-17 Grok entry: no new retrievals; sovietfilm parallel
+9b2c75e 2026-11-16 23:15:36 +0100 fremmedartet — Log status: no new READY retrievals this session
+565e220 2026-11-16 22:13:45 +0100 fremmedartet — Append 2026-11-16 Grok: status check, no READY queue; continue global research
+fbe067a 2026-11-16 21:14:06 +0100 fremmedartet — Append 2026-11-16 Grok status: non-Anglo research continues; no READY downloads
+497e481 2026-11-16 20:15:26 +0100 fremmedartet — 2026-11-16 Grok: non-Anglo priority check, no new audio retrieval
+70cc57e 2026-11-16 19:15:49 +0100 fremmedartet — Log non-Anglo research advancement: Salidummay/DKK Cordillera cassette lead
+8b3fa6e 2026-11-16 16:32:42 +0100 fremmedartet — Append cross-reference to updated research map
+a74413c 2026-11-16 16:32:34 +0100 fremmedartet — Update research map with verified source route
+0ebc8b9 2026-11-16 16:32:08 +0100 fremmedartet — Append research handoff and source verification log
+fded922 2026-11-16 16:31:54 +0100 fremmedartet — Document new source and access-route research
+36d9407 2026-11-16 15:06:25 +0100 fremmedartet — Log completed research handoff
+67e4cf5 2026-11-16 15:06:00 +0100 fremmedartet — Record UPCE community archive follow-up
+450e5bb 2026-11-16 15:05:54 +0100 fremmedartet — Add UPCE Sagada archive context
+a2a2bbd 2026-11-16 15:05:49 +0100 fremmedartet — Document UPCE Sagada community archive research
+084f929 2026-11-16 15:04:54 +0100 fremmedartet — Log research session start
+8f4c6d8 2026-11-16 14:56:37 +0100 fremmedartet — Record Cordillera vernacular-country research checkpoint
+91d4b8c 2026-11-16 14:56:34 +0100 fremmedartet — Complete Cordillera vernacular-country research handoff
+76d8023 2026-11-16 14:56:28 +0100 fremmedartet — Add Cordillera vernacular country and cassette ecology research
+8b34a8e 2026-11-16 14:56:04 +0100 fremmedartet — Document Cordillera vernacular-country cassette ecology and archive leads
+2801fc8 2026-11-16 14:55:22 +0100 fremmedartet — Start Cordillera vernacular cassette ecology research
+cff25ef 2026-11-16 14:32:45 +0100 fremmedartet — Append Philippine Cordillera research handoff
+8c1fef8 2026-11-16 14:31:40 +0100 fremmedartet — Include Philippine Cordillera music in non-prison balance shortlist
+a109afb 2026-11-16 14:31:23 +0100 fremmedartet — Complete Philippine Cordillera cassette research handoff
+70addb7 2026-11-16 14:31:20 +0100 fremmedartet — Record Philippine Cordillera research checkpoint
+ef8ece5 2026-11-16 14:31:17 +0100 fremmedartet — Update Insane Music research count and Philippine lead
+ed8be22 2026-11-16 14:31:14 +0100 fremmedartet — Add IM-042 Philippine Cordillera cassette entry
+302c769 2026-11-16 14:31:08 +0100 fremmedartet — Add Philippine Cordillera Salidummay community cassette lead
+85e6647 2026-11-16 14:30:48 +0100 fremmedartet — Document Philippine Cordillera Salidummay cassette research
+9ed7b07 2026-11-16 14:30:01 +0100 fremmedartet — Log start of Philippine Cordillera cassette research
+3aade80 2026-11-16 14:23:15 +0100 fremmedartet — Log GDE 1997 cross-reference verification
+6dd4ea9 2026-11-16 14:23:11 +0100 fremmedartet — Record GDE 1997 tape index cross-check
+b4520bd 2026-11-16 14:23:07 +0100 fremmedartet — Record GDE 1997 tape cross-reference uncertainty
+1f1cb73 2026-11-16 14:23:04 +0100 fremmedartet — Clarify unresolved GDE 1997 tape reference
+5ffebc6 2026-11-16 14:22:47 +0100 fremmedartet — Record Brazilian non-institutional cassette discovery handoff
+2ab6c2a 2026-11-16 14:22:23 +0100 fremmedartet — Update Insane Music catalogue count after IM-040 and IM-041
+d229a7a 2026-11-16 14:22:21 +0100 fremmedartet — Record completed Brazilian non-institutional cassette discovery pass
+a7b7276 2026-11-16 14:22:18 +0100 fremmedartet — Add GDE underground cassette recordings IM-040 and IM-041
+685c038 2026-11-16 14:22:14 +0100 fremmedartet — Add Brazilian underground cassette environment leads
+791f9db 2026-11-16 14:22:10 +0100 fremmedartet — Document Brazilian small-web demo cassette discoveries
+a5ffbcb 2026-11-16 14:21:16 +0100 fremmedartet — Log Harmonia Enlouquece fifth album evidence
+702de0a 2026-11-16 14:20:52 +0100 fremmedartet — Record Harmonia Enlouquece metadata checkpoint
+6e4c8e6 2026-11-16 14:20:45 +0100 fremmedartet — Reconcile Harmonia Enlouquece fifth album metadata
+20f9f0b 2026-11-16 14:20:38 +0100 fremmedartet — Document Harmonia Enlouquece 2026 fifth album
+2c90fc5 2026-11-16 14:20:24 +0100 fremmedartet — Start non-institutional non-Anglo cassette discovery pass
+849f079 2026-11-16 14:19:57 +0100 fremmedartet — Log Mágicos do Som first-CD audio pointer
+e39b829 2026-11-16 14:19:54 +0100 fremmedartet — Record Mágicos do Som research checkpoint
+0dd391a 2026-11-16 14:19:51 +0100 fremmedartet — Update Mágicos do Som access evidence
+65ee759 2026-11-16 14:19:48 +0100 fremmedartet — Document Mágicos do Som first-CD audio evidence
+e5166fe 2026-11-16 14:17:52 +0100 fremmedartet — Restore append-only collaboration log and record Flinders retrieval
+32d70e9 2026-11-16 14:09:33 +0100 fremmedartet — Hand off non-prison diversification research
+62355a8 2026-11-16 14:09:08 +0100 fremmedartet — Record owner direction to diversify beyond prisons
+9c7d8fa 2026-11-16 14:08:53 +0100 fremmedartet — Add non-prison Brazilian mental-health recordings to catalogue
+1b0933e 2026-11-16 14:08:42 +0100 fremmedartet — Add Brazilian non-prison mental-health music leads
+e0b0416 2026-11-16 14:08:09 +0100 fremmedartet — Claim non-prison diversification research
+4da09e8 2026-11-16 14:05:55 +0100 fremmedartet — Document Flinders Eloise recital retrieval (personal research copy in Drive)
+decb26f 2026-11-16 14:05:37 +0100 fremmedartet — Log Flinders Eloise recital retrieval to insanemusic Drive folder
+12261d6 2026-11-16 13:58:43 +0100 fremmedartet — Refine Tinka Tinka archive enquiry scope
+6343070 2026-11-16 13:58:40 +0100 fremmedartet — Audit Tinka Tinka item-level episode credits
+e3a702c 2026-11-16 13:58:37 +0100 fremmedartet — Audit Tinka Tinka item-level episode credits
+55b1d7b 2026-11-16 13:58:23 +0100 fremmedartet — Audit Tinka Tinka item-level episode credits
+e20c587 2026-11-16 13:56:48 +0100 fremmedartet — Log Uzuakoli ARC catalogue recheck
+a1f3689 2026-11-16 13:18:52 +0100 SUPERNIHIL — Remove stale blanket listening-status claim from README
+4f87c53 2026-11-16 13:18:42 +0100 SUPERNIHIL — Add Tinka Tinka metadata and rights enquiry to queue
+0114cd2 2026-11-16 13:18:38 +0100 SUPERNIHIL — Checkpoint India Tinka Tinka corpus and item-level audit
+ee8a069 2026-11-16 13:18:34 +0100 SUPERNIHIL — Update README catalogue count and global priorities
+3acfdf0 2026-11-16 13:18:31 +0100 SUPERNIHIL — Add IM-037 Tinka Tinka Jail Radio corpus
+9528336 2026-11-16 13:18:27 +0100 SUPERNIHIL — Log India small-web prison-radio corpus discoveries
+fedd8a8 2026-11-16 13:18:22 +0100 SUPERNIHIL — Add India Tinka Tinka Jail Radio recording corpus
+1cf23cf 2026-11-16 13:16:48 +0100 SUPERNIHIL — Add Brazil Juliano Moreira catalogue enquiry to request queue
+99cfcdd 2026-11-16 13:16:45 +0100 SUPERNIHIL — Checkpoint Brazil local archive route and privacy-safe next steps
+4971693 2026-11-16 13:16:41 +0100 SUPERNIHIL — Log Juliano Moreira source genealogy and MIS-PA route
+d5d0c4b 2026-11-16 13:16:36 +0100 SUPERNIHIL — Identify Juliano Moreira memoir author and Pará sound archive lead
+d8f28a2 2026-11-16 13:15:36 +0100 SUPERNIHIL — Log Banda Cazuluz local-source triangulation
+503b820 2026-11-16 13:15:33 +0100 SUPERNIHIL — Strengthen Banda Cazuluz lead with local government and press sources
+feb6dc6 2026-11-16 13:15:30 +0100 SUPERNIHIL — Update checkpoint with main-only workflow and Brazil source triangulation
+231d8dd 2026-11-16 13:15:26 +0100 SUPERNIHIL — Document main-only collaboration and global small-web research rules
+6d5df8d 2026-11-16 13:14:52 +0100 SUPERNIHIL — Add consolidated catalogue and 16 Nov recording additions
+fa3c69b 2026-11-16 13:14:50 +0100 SUPERNIHIL — Add prioritised archive and maker request queue
+fc53716 2026-11-16 13:14:47 +0100 SUPERNIHIL — Add project README and global research priorities
+295e32e 2026-11-16 13:14:44 +0100 SUPERNIHIL — Add Portuguese small-web recording leads from Brazil
+5f9f43c 2026-11-16 13:14:39 +0100 SUPERNIHIL — Integrate independent agent consolidation log and Portuguese small-web discoveries
+986c1ab 2026-11-16 12:15:43 +0100 SUPERNIHIL — Add item-level POW and Chacabuco recording leads
+69a6e81 2026-11-16 11:28:28 +0100 SUPERNIHIL — Add authorised physical CD acquisition request for Takashi Tojo Kokoro
+1b779e1 2026-11-16 11:28:24 +0100 SUPERNIHIL — Checkpoint global small-web treasure hunt and Japan resident recording
+5ca4277 2026-11-16 11:28:18 +0100 SUPERNIHIL — Log global small-web discovery and Japan resident recording
+4c50911 2026-11-16 11:28:09 +0100 SUPERNIHIL — Add Japan Ōshima Seishōen resident recording lead from Japanese small-web trail
+89ac713 2026-11-16 11:28:04 +0100 SUPERNIHIL — Make global non-Anglo and small-web discovery highest-priority methodology
+426fdff 2026-11-16 11:24:32 +0100 SUPERNIHIL — Checkpoint Phonogrammarchiv and Chacabuco findings
+e7805d2 2026-11-16 11:24:29 +0100 SUPERNIHIL — Log Phonogrammarchiv and Chacabuco research
+d60dc0c 2026-11-16 11:24:25 +0100 SUPERNIHIL — Refine Chacabuco provenance and cueca credits
+96686c0 2026-11-16 11:16:57 +0100 SUPERNIHIL — Update Phonogrammarchiv continuation checkpoint
+2a51c7d 2026-11-16 11:16:54 +0100 SUPERNIHIL — Log Phonogrammarchiv POW track identification and critical provenance
+ca0c116 2026-11-16 11:16:52 +0100 SUPERNIHIL — Add item-level Phonogrammarchiv POW music lead Ph 2647 and Series 17/6 speech exclusion
+cddd090 2026-11-16 11:15:33 +0100 SUPERNIHIL — Update TLM Canada continuation checkpoint
+d1a1a95 2026-11-16 11:15:31 +0100 SUPERNIHIL — Log TLM Canada AV inventory and cross-archive title comparison
+4c2477a 2026-11-16 11:15:28 +0100 SUPERNIHIL — Add TLM Canada AV inventory and More Than a Prophet cross-archive comparison
+83885fd 2026-11-15 20:17:56 +0100 SUPERNIHIL — Update Aoi-tori continuation checkpoint with 2025–26 findings
+4fedb41 2026-11-15 20:17:54 +0100 SUPERNIHIL — Log Aoi-tori 2025 audio-publication target and 2026 status check
+d86d654 2026-11-15 20:17:51 +0100 SUPERNIHIL — Add Aoi-tori 2025–26 source-project status and institutional archive distinctions
+26864ec 2026-11-15 19:30:16 +0100 SUPERNIHIL — Refine Uzuakoli ARC and Tabansi LP lineage evidence
+b8e86d1 2026-11-15 19:30:13 +0100 SUPERNIHIL — Refine Uzuakoli ARC and Tabansi LP lineage evidence
+daa2cc7 2026-11-15 19:30:09 +0100 SUPERNIHIL — Refine Uzuakoli ARC and Tabansi LP lineage evidence
+6431972 2026-11-15 19:28:16 +0100 SUPERNIHIL — Document Uzuakoli choir LP catalogue leads and chronology conflict
+e3a30cf 2026-11-15 19:28:12 +0100 SUPERNIHIL — Document Uzuakoli choir LP catalogue leads and chronology conflict
+144cbdd 2026-11-15 19:28:08 +0100 SUPERNIHIL — Document Uzuakoli choir LP catalogue leads and chronology conflict
+ddfc77a 2026-11-15 19:22:48 +0100 SUPERNIHIL — Log public Uzuakoli broadcast stream
+a4bee3c 2026-11-15 19:22:41 +0100 SUPERNIHIL — Add public Uzuakoli radio listening route
+f64adae 2026-11-15 19:22:33 +0100 SUPERNIHIL — Checkpoint Uzuakoli vinyl source and Aoi-tori correction
+215f26c 2026-11-15 19:22:25 +0100 SUPERNIHIL — Log Uzuakoli vinyl and Aoi-tori correction
+278ba7c 2026-11-15 19:22:16 +0100 SUPERNIHIL — Correct 1967 Lighthouse tape-copy inference
+0a903da 2026-11-15 19:22:09 +0100 SUPERNIHIL — Refine Uzuakoli original vinyl source provenance
+555b483 2026-11-15 19:19:09 +0100 SUPERNIHIL — Checkpoint Aoi-tori public release and Carville audit
+e90a8dd 2026-11-15 19:19:02 +0100 SUPERNIHIL — Log Aoi-tori Carville and release audit
+c5e06c9 2026-11-15 19:18:54 +0100 SUPERNIHIL — Audit Aoi-tori release and Carville holdings
+90039aa 2026-11-15 19:16:18 +0100 SUPERNIHIL — Remove duplicate Aoi-tori tape shorthand
+a1061ad 2026-11-15 19:15:43 +0100 SUPERNIHIL — Clarify Aoi-tori tape object distinctions
+96a0e14 2026-11-15 19:15:24 +0100 SUPERNIHIL — Checkpoint Carville archival cross-check
+75d7d50 2026-11-15 19:15:19 +0100 SUPERNIHIL — Log Carville source audit for Aoi-tori tape
+1862670 2026-11-15 19:15:12 +0100 SUPERNIHIL — Add Carville archival cross-check for Aoi-tori tape
+52b40cb 2026-11-15 19:14:37 +0100 SUPERNIHIL — Checkpoint Aoi-tori 1963 and 1967 tape leads
+3cbfc06 2026-11-15 19:14:29 +0100 SUPERNIHIL — Log Aoi-tori 1963 and 1967 tape evidence
+cd1b82d 2026-11-15 19:14:19 +0100 SUPERNIHIL — Add dated Aoi-tori tape provenance
+02f4d6c 2026-11-15 19:12:49 +0100 SUPERNIHIL — Prioritise Aoi-tori surviving audio collection
+dad2132 2026-11-15 19:12:42 +0100 SUPERNIHIL — Log Aoi-tori surviving concert recordings lead
+d32fb78 2026-11-15 19:12:34 +0100 SUPERNIHIL — Upgrade Aoi-tori to verified historic audio lead
+7dfe44d 2026-11-15 19:11:56 +0100 SUPERNIHIL — Checkpoint TLM, Chacabuco and Aoi-tori audit
+ddf2855 2026-11-15 19:11:48 +0100 SUPERNIHIL — Log Chacabuco, TLM and Aoi-tori archival leads
+facec48 2026-11-15 19:11:40 +0100 SUPERNIHIL — Clarify Chacabuco audio objects and TLM holdings
+a07c6dc 2026-11-15 19:09:50 +0100 SUPERNIHIL — Checkpoint Uzuakoli and Nagashima source audits
+8352362 2026-11-15 19:09:42 +0100 SUPERNIHIL — Log Uzuakoli and Nagashima archival refinements
+36a25b0 2026-11-15 19:09:32 +0100 SUPERNIHIL — Refine Uzuakoli and Nagashima source histories
+60757b5 2026-11-15 19:05:43 +0100 SUPERNIHIL — Checkpoint Nigeria and Japan archive leads in global queue
+2de4146 2026-11-15 19:05:27 +0100 SUPERNIHIL — Log Nigeria and Japan non-Western music archive research
+9b6c4e2 2026-11-15 19:05:21 +0100 SUPERNIHIL — Expand Nigerian Uzuakoli evidence and add Japanese Aoi-tori archive lead
+0afddcc 2026-11-15 19:04:58 +0100 SUPERNIHIL — Checkpoint Chacabuco archive item identities and corrected music credits
+a3a1525 2026-11-15 19:04:55 +0100 SUPERNIHIL — Log Chacabuco item-level provenance and Radio Moscú archive entry
+e4258d9 2026-11-15 19:04:51 +0100 SUPERNIHIL — Refine Chile Chacabuco audio provenance and archive timecode
+6c207a2 2026-11-15 19:04:19 +0100 SUPERNIHIL — Checkpoint global research balance and Chilean archive queue
+fbc22db 2026-11-15 19:04:16 +0100 SUPERNIHIL — Log global balance correction and Chilean archive discovery
+bceabd2 2026-11-15 19:04:12 +0100 SUPERNIHIL — Add global research-balance directive and Chilean captive-song archive lead
+fc1807e 2026-11-15 19:02:34 +0100 SUPERNIHIL — Checkpoint Pros and Cons tracklists and next source audit
+c0a23ac 2026-11-15 19:02:31 +0100 SUPERNIHIL — Log complete Pros and Cons Bandcamp tracklist audit
+9d9fab1 2026-11-15 19:02:28 +0100 SUPERNIHIL — Add Grok acquisition requests for Private Town and Paint in the Forest
+fd4ae12 2026-11-15 19:02:25 +0100 SUPERNIHIL — Audit complete Bandcamp tracklists for two prison albums
+6b4f53e 2026-11-15 19:00:51 +0100 SUPERNIHIL — Checkpoint Fort Madison Presidio print-source trail
+cc399c3 2026-11-15 19:00:48 +0100 SUPERNIHIL — Log Fort Madison Presidio print archive lead
+7f2f050 2026-11-15 19:00:44 +0100 SUPERNIHIL — Add Fort Madison Presidio print-source trail
+d44768c 2026-11-15 19:00:04 +0100 SUPERNIHIL — Checkpoint Fort Madison K-155 film and revise active queue
+eafc9a7 2026-11-15 19:00:00 +0100 SUPERNIHIL — Log Fort Madison 1952 prisoner-song film discovery
+a36914d 2026-11-15 18:59:57 +0100 SUPERNIHIL — Add verified 1952 Fort Madison prisoner-song film lead
+6df3147 2026-11-15 18:56:57 +0100 SUPERNIHIL — Advance checkpoint with Iowa prison radio lead
+4cbfbd3 2026-11-15 18:56:54 +0100 SUPERNIHIL — Log Iowa prison radio discovery and related screening
+3a6bfa8 2026-11-15 18:56:51 +0100 SUPERNIHIL — Add Iowa inmate radio and orchestra research lead
+449cf2d 2026-11-15 18:28:54 +0100 SUPERNIHIL — Refine Waupun newspaper research target
+5b570bf 2026-11-15 18:28:51 +0100 SUPERNIHIL — Narrow Waupun World archival issue targets
+739263b 2026-11-15 18:28:47 +0100 SUPERNIHIL — Narrow Waupun World archival issue targets
+18726c5 2026-11-15 18:28:35 +0100 SUPERNIHIL — Advance research checkpoint with Langdon album findings
+7da63a9 2026-11-15 18:28:32 +0100 SUPERNIHIL — Add verified Langdon Hospital album research
+3a80530 2026-11-15 18:28:29 +0100 SUPERNIHIL — Add verified Langdon Hospital album research
+f6b4df2 2026-11-15 18:28:26 +0100 SUPERNIHIL — Add verified Langdon Hospital album research
+26ee9b3 2026-11-15 18:24:45 +0100 SUPERNIHIL — Checkpoint Upheaval leads and Grok download requests
+92eee99 2026-11-15 18:24:37 +0100 SUPERNIHIL — Log Upheaval authorised reissue routes and archival leads
+bae65a5 2026-11-15 18:24:27 +0100 SUPERNIHIL — Use plain Markdown priority labels in Grok queue
+deca727 2026-11-15 18:24:22 +0100 SUPERNIHIL — Add Grok download requests for authorised Upheaval reissues
+a2498d4 2026-11-15 18:24:14 +0100 SUPERNIHIL — Expand Upheaval recording leads and authorised reissue routes
+09af60a 2026-11-15 18:20:47 +0100 SUPERNIHIL — Checkpoint Pros and Cons audio URLs; clarify Waupun archive queue
+3474046 2026-11-15 18:20:38 +0100 SUPERNIHIL — Log Pros and Cons media mapping and Waupun newspaper source audit
+411439c 2026-11-15 18:20:29 +0100 SUPERNIHIL — Map Pros and Cons official audio files and album archives
+34b55d0 2026-11-15 18:20:19 +0100 SUPERNIHIL — Audit official Pros and Cons track and download sources
+88a3bba 2026-11-15 18:18:48 +0100 SUPERNIHIL — Set next active research queue after archive audit
+9fc672b 2026-11-15 18:18:14 +0100 SUPERNIHIL — Checkpoint Soledad, Kalaupapa and Carville research; advance queue
+84f48de 2026-11-15 18:18:04 +0100 SUPERNIHIL — Log Soledad, Kalaupapa and Carville archive research batch
+081714f 2026-11-15 18:17:54 +0100 SUPERNIHIL — Add Kalaupapa public excerpt map and Carville cassette source records
+b1ad28e 2026-11-15 18:17:45 +0100 SUPERNIHIL — Add item-described Kalaupapa and Carville archival music leads
+85f3564 2026-11-15 18:17:25 +0100 SUPERNIHIL — Map Soledad CTF archival audio groupings and access route
+4f2e77d 2026-11-15 18:17:15 +0100 SUPERNIHIL — Add item-level Soledad CTF Jack Bowers archive audit
+5327d0c 2026-11-15 18:16:43 +0100 SUPERNIHIL — Set research-only execution queue and track-source discovery checkpoint
+004bda8 2026-11-15 18:16:33 +0100 SUPERNIHIL — Log Upheaval archive video and audio source research
+6aa836a 2026-11-15 18:16:23 +0100 SUPERNIHIL — Expand Upheaval source audit with 1975 archive video and track links
+eb18c98 2026-11-15 18:16:14 +0100 SUPERNIHIL — Add Upheaval archival video and track source routes
+0b11075 2026-11-15 18:13:25 +0100 SUPERNIHIL — Log research-only track discovery pass and release URLs
+b27cf20 2026-11-15 18:13:14 +0100 SUPERNIHIL — Add verified Finding Rhythms release leads and Parchman item URLs
+8c0fdd8 2026-11-15 18:12:38 +0100 SUPERNIHIL — Checkpoint audio retrieval handoff and verified batch targets
+3b018cf 2026-11-15 18:12:30 +0100 SUPERNIHIL — Log audio batch verification and Parchman correction
+1daff64 2026-11-15 18:12:20 +0100 SUPERNIHIL — Correct track provenance and map next verified prison-music batch
+5962659 2026-11-15 18:10:33 +0100 SUPERNIHIL — Update TRACK_MAPPING with current Drive holdings (method-compliant)
+095f768 2026-11-15 17:53:25 +0100 SUPERNIHIL — Add more institutional / prison-related downloads to TRACK_MAPPING.md
+6f9a44b 2026-11-15 17:52:20 +0100 SUPERNIHIL — Update TRACK_MAPPING.md with first institutional download
+c83bfa7 2026-11-15 17:49:09 +0100 SUPERNIHIL — Checkpoint milestone 23 peer-led music research
+7f21acb 2026-11-15 17:49:02 +0100 SUPERNIHIL — Log milestone 23 peer-led music environments
+e5bd507 2026-11-15 17:48:59 +0100 SUPERNIHIL — Add Outsider Music and Om Music Sanctuary leads
+a78910c 2026-11-15 17:45:33 +0100 SUPERNIHIL — Checkpoint milestone 22 participant music research
+102ab5b 2026-11-15 17:45:26 +0100 SUPERNIHIL — Log milestone 22 participant music archive research
+f3e5a52 2026-11-15 17:45:22 +0100 SUPERNIHIL — Add Finding Rhythms, La Colifata and Chilli archive findings
+9377684 2026-11-15 17:42:57 +0100 SUPERNIHIL — Add TRACK_MAPPING.md for Drive audio folder
+53b3a26 2026-11-15 17:29:04 +0100 SUPERNIHIL — Checkpoint milestone 21 Chilli Studios album discovery
+45237f1 2026-11-15 17:28:56 +0100 SUPERNIHIL — Log Chilli Studios unidentified 2016 studio album
+0d3b5d2 2026-11-15 17:28:48 +0100 SUPERNIHIL — Add Chilli Studios 2016 studio album archival lead
+80c3b42 2026-11-15 17:28:22 +0100 SUPERNIHIL — Checkpoint milestone 20 Chilli Studios and Finding Rhythms
+089fdaa 2026-11-15 17:28:13 +0100 SUPERNIHIL — Log Finding Rhythms 2026 releases and Chilli Studios research
+9b03ab9 2026-11-15 17:27:57 +0100 SUPERNIHIL — Expand Finding Rhythms 2026 releases and verify Chilli Studios music archive
+b6b224c 2026-11-15 17:27:26 +0100 SUPERNIHIL — Log LPP post-release participant album pair
+c187958 2026-11-15 17:27:15 +0100 SUPERNIHIL — Add London Pathways Partnership post-release album pair
+a05961c 2026-11-15 17:26:53 +0100 SUPERNIHIL — Log Chilli Studios member audio and Found Sounds project
+ce3cd43 2026-11-15 17:26:46 +0100 SUPERNIHIL — Add Chilli Studios member recording and Found Sounds lead
+c807b9b 2026-11-15 17:26:15 +0100 SUPERNIHIL — Checkpoint milestone 19 Finding Rhythms residential albums
+5559100 2026-11-15 17:26:04 +0100 SUPERNIHIL — Log Finding Rhythms residential and custodial album leads
+686f549 2026-11-15 17:25:56 +0100 SUPERNIHIL — Detail Finding Rhythms residential and custodial releases
+fa37f9d 2026-11-15 17:25:33 +0100 SUPERNIHIL — Checkpoint milestone 18 Finding Rhythms archive
+4b34702 2026-11-15 17:25:26 +0100 SUPERNIHIL — Log Finding Rhythms catalogue expansion
+69fb66d 2026-11-15 17:25:18 +0100 SUPERNIHIL — Add Finding Rhythms cross-project recording catalogue
+443e74b 2026-11-15 17:24:49 +0100 SUPERNIHIL — Checkpoint milestone 17 Pine Ward and La Colifata
+13f3cdc 2026-11-15 17:24:40 +0100 SUPERNIHIL — Log Pine Ward and La Colifata audio corpus research
+60add12 2026-11-15 17:24:30 +0100 SUPERNIHIL — Add Pine Ward album and clarify La Colifata catalogues
+55527e1 2026-11-15 17:23:21 +0100 SUPERNIHIL — Checkpoint Dragon Cafe first CD milestone 16
+040d195 2026-11-15 17:23:14 +0100 SUPERNIHIL — Log Dragon Cafe first CD and radio trace
+b435346 2026-11-15 17:23:07 +0100 SUPERNIHIL — Narrow Dragon Cafe first CD date and radio traces
+a25c7bd 2026-11-15 17:22:52 +0100 SUPERNIHIL — Checkpoint Dragon Cafe first album milestone 15
+35193c0 2026-11-15 17:22:45 +0100 SUPERNIHIL — Log Dragon Cafe earlier album and song chronology
+42bbaba 2026-11-15 17:22:35 +0100 SUPERNIHIL — Expand Dragon Cafe album and song chronology
+d4feed1 2026-11-15 17:22:17 +0100 SUPERNIHIL — Checkpoint milestone 14 Dragon Cafe and MMANYT
+3b2df65 2026-11-15 17:22:05 +0100 SUPERNIHIL — Log MMANYT bounded search and Dragon Cafe track provenance
+5d19fee 2026-11-15 17:21:55 +0100 SUPERNIHIL — Record MMANYT bounded audit and Fiskprinsen external booking
+028564c 2026-11-15 17:19:03 +0100 SUPERNIHIL — Checkpoint MMusik provenance research milestone
+1dbbe63 2026-11-15 17:18:55 +0100 SUPERNIHIL — Log MMusik video catalogue and provenance research
+4cec8a3 2026-11-15 17:18:46 +0100 SUPERNIHIL — Expand MMusik video catalogue and provenance triage
+ee6d67e 2026-11-15 17:17:40 +0100 SUPERNIHIL — Checkpoint RadioTi Rooster Music milestone 12
+a0fbfee 2026-11-15 17:17:31 +0100 SUPERNIHIL — Log RadioTi Rooster Music municipal archive evidence
+db86cd0 2026-11-15 17:17:22 +0100 SUPERNIHIL — Expand RadioTi and Rooster Music evidence cross-links
+a2e9f4a 2026-11-15 17:12:26 +0100 SUPERNIHIL — Checkpoint RadioTi archive research milestone
+a167cb0 2026-11-15 17:12:08 +0100 SUPERNIHIL — Log RadioTi broadcast archive research
+76d7340 2026-11-15 17:11:54 +0100 SUPERNIHIL — Document RadioTi archive research and Radioator distinction
+5d11223 2026-11-15 17:08:47 +0100 SUPERNIHIL — Checkpoint RadioTi and Thorvaldsen archive discovery
+829af73 2026-11-15 17:08:35 +0100 SUPERNIHIL — Log Thorvaldsen RadioTi archive research and Rooster catalogue
+72a254f 2026-11-15 17:08:21 +0100 SUPERNIHIL — Expand Thorvaldsen archive evidence and catalogue leads
+8df1c9e 2026-11-15 16:23:54 +0100 SUPERNIHIL — Checkpoint Bethel and La Colifata follow-up research
+b0b2562 2026-11-15 16:23:49 +0100 SUPERNIHIL — Log Bethel and La Colifata follow-up verification
+d910062 2026-11-15 16:23:43 +0100 SUPERNIHIL — Refine Bethel CD and La Colifata sound archive verification
+f1abed2 2026-11-15 16:23:33 +0100 SUPERNIHIL — Checkpoint peer-run music archive research phase
+9b1d637 2026-11-15 16:23:26 +0100 SUPERNIHIL — Log Thorvaldsen and peer-run studio archive research
+3dd526f 2026-11-15 16:23:18 +0100 SUPERNIHIL — Document Thorvaldsen music archive route and peer-space screening
+af02d5a 2026-11-15 12:26:36 +0100 SUPERNIHIL — Checkpoint Studio Route 29 Beauty Music catalogue expansion
+46ed766 2026-11-15 12:26:25 +0100 SUPERNIHIL — Log Studio Route 29 Beauty Music catalogue research
+4add4ec 2026-11-15 12:26:15 +0100 SUPERNIHIL — Add BJ Armour Beauty Music EP and Studio Route 29 archive leads
+f82df46 2026-11-15 12:25:24 +0100 SUPERNIHIL — Checkpoint Dragon Cafe and UK creative-space findings
+cf52250 2026-11-15 12:25:15 +0100 SUPERNIHIL — Log Dragon Cafe and UK peer-led creative space research
+5142540 2026-11-15 12:25:05 +0100 SUPERNIHIL — Add Dragon Cafe Singers album and UK studio screens
+8c50c9d 2026-11-15 12:24:33 +0100 SUPERNIHIL — Checkpoint Creative Growth album and null-result screens
+ba3c993 2026-11-15 12:24:22 +0100 SUPERNIHIL — Log Creative Growth and visual-art studio screening
+c16c02e 2026-11-15 12:24:12 +0100 SUPERNIHIL — Add Creative Growth collaborative music album
+4a8e8f4 2026-11-15 12:24:01 +0100 SUPERNIHIL — Checkpoint Creedmoor and Creative Growth recording research
+28a5e23 2026-11-15 12:23:30 +0100 SUPERNIHIL — Log Creedmoor and DSM5 ward recording research
+d81e262 2026-11-15 12:23:20 +0100 SUPERNIHIL — Add Creedmoor ward recordings and DSM5 Living Museum band
+58ff11d 2026-11-15 12:22:21 +0100 SUPERNIHIL — Checkpoint international peer-run music recording leads
+b5443fe 2026-11-15 12:22:10 +0100 SUPERNIHIL — Log Bethel House and Workman Arts audio research
+3a80ba7 2026-11-15 12:22:00 +0100 SUPERNIHIL — Add Bethel House and Workman Arts participant music recordings
+10b438f 2026-11-15 12:21:12 +0100 SUPERNIHIL — Log La Colifata audio archive and provenance research
+834de96 2026-11-15 12:21:02 +0100 SUPERNIHIL — Add Radio La Colifata participant-made audio archive lead
+7013f0c 2026-11-15 12:20:27 +0100 SUPERNIHIL — Checkpoint Danish screen and transition to international peer-run spaces
+90527be 2026-11-15 12:20:08 +0100 SUPERNIHIL — Log Danish peer-run music and sound archive screen
+83d47ab 2026-11-15 12:19:57 +0100 SUPERNIHIL — Add Danish peer-run sound and media archive findings
+ea4f7d1 2026-11-15 12:19:37 +0100 SUPERNIHIL — Checkpoint Danish peer-run media and sound research
+6e9e1d1 2026-11-15 12:15:11 +0100 SUPERNIHIL — Checkpoint peer-run creative spaces research
+de8df8a 2026-11-15 12:14:58 +0100 SUPERNIHIL — Log peer-run creative space recording research
+10394ed 2026-11-15 12:14:47 +0100 SUPERNIHIL — Add peer-led creative space music and recording leads
+331963b 2026-11-15 12:14:04 +0100 SUPERNIHIL — Checkpoint new peer-led creative spaces research phase
+4deb9e7 2026-11-15 12:13:42 +0100 SUPERNIHIL — Log Kakuma Sound and Tibetan exile music research
+a5526d0 2026-11-15 12:13:30 +0100 SUPERNIHIL — Add Kakuma Sound album and Tibetan exile cassette research
+c70eda6 2026-11-15 12:12:37 +0100 SUPERNIHIL — Checkpoint Sahrawi and Greek refugee music research
+f09b436 2026-11-15 12:12:28 +0100 SUPERNIHIL — Log Sahrawi and Greek refugee camp recordings
+e317a76 2026-11-15 12:12:17 +0100 SUPERNIHIL — Add Northern Greek refugee camp sound recordings
+684da6a 2026-11-15 12:11:57 +0100 SUPERNIHIL — Log Sahrawi refugee camp music archive research
+447536d 2026-11-15 12:11:46 +0100 SUPERNIHIL — Add Sahrawi refugee camp music archives and recording projects
+99cf7c1 2026-11-15 12:10:33 +0100 SUPERNIHIL — Checkpoint refugee camp and exile research milestones
+3c6bfc9 2026-11-15 12:10:22 +0100 SUPERNIHIL — Log Sierra Leone Refugee All Stars screening
+3aeacc8 2026-11-15 12:10:16 +0100 SUPERNIHIL — Add Sierra Leone Refugee All Stars context screening
+399d99e 2026-11-15 12:10:01 +0100 SUPERNIHIL — Log Palestinian and Somali refugee camp music research
+99654e5 2026-11-15 12:09:53 +0100 SUPERNIHIL — Add Palestinian and Somali refugee camp music research
+90748f4 2026-11-15 12:08:57 +0100 SUPERNIHIL — Log Afghan and Liberian refugee recording research
+7371c10 2026-11-15 12:08:48 +0100 SUPERNIHIL — Add Afghan and Liberian refugee music research
+9b8fe05 2026-11-15 12:07:34 +0100 SUPERNIHIL — Log Cambodia, Karen and Karenni refugee music research
+ef0a0f3 2026-11-15 12:07:26 +0100 SUPERNIHIL — Add Cambodian, Karen and Karenni refugee camp recordings
+9de99ec 2026-11-15 12:07:06 +0100 SUPERNIHIL — Checkpoint Southeast Asian refugee camp music research
+1070ec7 2026-11-15 12:06:06 +0100 SUPERNIHIL — Log East Awin refugee song field recording lead
+e24ecd2 2026-11-15 12:05:59 +0100 SUPERNIHIL — Add East Awin refugee song field-recording corpus
+fa91b53 2026-11-15 12:05:20 +0100 SUPERNIHIL — Log West Papuan refugee and prison recording discoveries
+7aff127 2026-11-15 12:05:10 +0100 SUPERNIHIL — Add Arnold Ap prison cassette and song provenance
+4a1804a 2026-11-15 12:04:49 +0100 SUPERNIHIL — Add West Papuan refugee and exile recordings and cassette archive
+fb22fa8 2026-11-15 12:04:26 +0100 SUPERNIHIL — Checkpoint West Papuan refugee cassette research
+8b6f749 2026-11-15 12:03:27 +0100 SUPERNIHIL — Checkpoint expanded environment sweep
+10c0881 2026-11-15 12:03:17 +0100 SUPERNIHIL — Log leprosy archive and remote setting screening
+4a290c3 2026-11-15 12:03:10 +0100 SUPERNIHIL — Add leprosy mission archive route and remote-setting screens
+7f37c4a 2026-11-15 12:02:49 +0100 SUPERNIHIL — Log residential school, Eritrea and refugee-camp research
+b860cb3 2026-11-15 12:02:41 +0100 SUPERNIHIL — Add residential school, Eritrean and refugee-camp recording research
+19a515f 2026-11-15 12:02:20 +0100 SUPERNIHIL — Checkpoint new environment research phase
+6c9897a 2026-11-15 12:00:27 +0100 SUPERNIHIL — Checkpoint unresolved Sufferras provenance search
+2c418f5 2026-11-15 12:00:21 +0100 SUPERNIHIL — Log unresolved Sufferras producer/source search
+ba019c6 2026-11-15 12:00:09 +0100 SUPERNIHIL — Checkpoint Sufferras track-level research
+7f5deff 2026-11-15 12:00:03 +0100 SUPERNIHIL — Log Sufferras Crew track-level provenance follow-up
+ffdd019 2026-11-15 11:59:54 +0100 SUPERNIHIL — Add Sufferras track-level follow-up and dead-link status
+6a9e11e 2026-11-15 11:59:18 +0100 SUPERNIHIL — Checkpoint African small-web research
+f33d72a 2026-11-15 11:59:12 +0100 SUPERNIHIL — Log African small-web screening
+cdb6bca 2026-11-15 11:59:06 +0100 SUPERNIHIL — Record African prison-music small-web screens
+c28bb07 2026-11-15 11:58:48 +0100 SUPERNIHIL — Checkpoint regional screens and next research task
+ee7f0cf 2026-11-15 11:58:42 +0100 SUPERNIHIL — Log additional local-language screens and false positives
+beec17d 2026-11-15 11:58:33 +0100 SUPERNIHIL — Record Eastern European and regional small-web screens
+86ecd84 2026-11-15 11:58:05 +0100 SUPERNIHIL — Checkpoint after Latin American small-web sweep
+f5e3b8f 2026-11-15 11:57:43 +0100 SUPERNIHIL — Log Chile and Costa Rica small-web research
+ef6e186 2026-11-15 11:57:28 +0100 SUPERNIHIL — Add Costa Rican prison reggae lead and Chacabuco context record
+66bf7d0 2026-11-15 11:55:58 +0100 SUPERNIHIL — Checkpoint international small-web research results
+d4d0adc 2026-11-15 11:55:51 +0100 SUPERNIHIL — Log Portuguese-language prison music small-web research
+0cb0fe7 2026-11-15 11:55:43 +0100 SUPERNIHIL — Add Brazilian prison CD lead and recording-location screening
+b38f369 2026-11-15 11:54:54 +0100 SUPERNIHIL — Log Spanish-language prison recording research
+bdcd0c5 2026-11-15 11:54:47 +0100 SUPERNIHIL — Add Spanish-language prison recording discoveries and screening
+796ffef 2026-11-15 11:54:23 +0100 SUPERNIHIL — Begin international small-web research sweep
+3524a6e 2026-11-15 11:54:17 +0100 SUPERNIHIL — Checkpoint after public-source research follow-up
+55ef20e 2026-11-15 11:54:10 +0100 SUPERNIHIL — Log public-source follow-up on archive leads
+8e39483 2026-11-15 11:54:01 +0100 SUPERNIHIL — Add Upheaval and Uzuakoli source follow-up
+e070969 2026-11-15 11:53:39 +0100 SUPERNIHIL — Checkpoint after metadata audit
+38888ac 2026-11-15 11:53:31 +0100 SUPERNIHIL — Log metadata and ethics completeness audit
+2e45024 2026-11-15 11:53:21 +0100 SUPERNIHIL — Record candidate metadata and ethics audit gaps
+8baf71a 2026-11-15 11:52:19 +0100 SUPERNIHIL — Begin candidate metadata and ethics completeness audit
+ed6cd20 2026-11-15 11:51:33 +0100 SUPERNIHIL — Checkpoint after lead cross-reference audit
+335d126 2026-11-15 11:51:29 +0100 SUPERNIHIL — Log lead register cross-reference audit
+6cd22de 2026-11-15 11:51:21 +0100 SUPERNIHIL — Map candidate headings and contextual follow-ups
+eede7f9 2026-11-15 11:50:56 +0100 SUPERNIHIL — Set next checkpoint for candidate index audit
+84e200a 2026-11-15 11:50:50 +0100 SUPERNIHIL — Log repository structure and persistent-state audit
+c68c7b4 2026-11-15 11:50:42 +0100 SUPERNIHIL — Record repository structure and editorial data audit
+3f98bd0 2026-11-15 11:49:58 +0100 SUPERNIHIL — Add persistent research state and repository audit plan
+9f4844b 2026-11-15 11:45:38 +0100 SUPERNIHIL — Log item-level Urata catalogue verification
+1826e11 2026-11-15 11:45:34 +0100 SUPERNIHIL — Add item-level Smithsonian catalogue references for Urata tapes
+f9c54d5 2026-11-15 11:45:20 +0100 SUPERNIHIL — Log Hawaiian plantation and Tule Lake music archive research
+aac8a7a 2026-11-15 11:45:17 +0100 SUPERNIHIL — Add Harry Urata holehole bushi field recordings
+2bae730 2026-11-15 11:40:46 +0100 SUPERNIHIL — Log small-web and psychiatric hospital screening
+42a64a1 2026-11-15 11:40:15 +0100 SUPERNIHIL — Log Soledad and Waupun archive follow-up
+d40b878 2026-11-15 11:40:12 +0100 SUPERNIHIL — Add Soledad and Waupun archive research update
+a0b8a02 2026-11-15 11:34:26 +0100 SUPERNIHIL — Log focused research run: Soledad, Alcatraz, Leuven
+88b88f3 2026-11-15 11:34:09 +0100 SUPERNIHIL — Add verified Leuven prison album CELL(R) Every Day
+62a61d4 2026-11-15 11:30:40 +0100 SUPERNIHIL — Correct Soledad track title punctuation
+538e609 2026-11-15 11:30:13 +0100 SUPERNIHIL — Log Soledad CTF recording corpus and Long Kesh screening
+ec3bd31 2026-11-15 11:30:11 +0100 SUPERNIHIL — Add Soledad CTF inmate recording sets from LOC
+e469ff6 2026-11-15 03:35:49 +0100 SUPERNIHIL — Log Waupun print archive and hospital audio screening
+a9b8432 2026-11-15 03:35:46 +0100 SUPERNIHIL — Expand Waupun prison newspaper archive leads
+3909c7a 2026-11-15 03:34:37 +0100 SUPERNIHIL — Record psychiatric hospital keyword false positives
+cff414a 2026-11-15 03:34:30 +0100 SUPERNIHIL — Log Waupun band chronology and newspaper lead
+c68c656 2026-11-15 03:34:28 +0100 SUPERNIHIL — Add Waupun institutional band and newspaper research route
+3df7696 2026-11-15 03:33:14 +0100 SUPERNIHIL — Log Waupun archival and newspaper research
+0302e4f 2026-11-15 03:33:12 +0100 SUPERNIHIL — Add Waupun prison band archival context and newspaper route
+8c12406 2026-11-15 03:31:52 +0100 SUPERNIHIL — Log Upheaval chronology correction and film discovery
+cf7c504 2026-11-15 03:31:50 +0100 SUPERNIHIL — Correct Upheaval chronology and add Wisconsin prison film archive
+7eb45e5 2026-11-15 03:31:11 +0100 SUPERNIHIL — Log full Smithsonian finding aid audit
+e7be708 2026-11-15 03:31:09 +0100 SUPERNIHIL — Qualify Smithsonian prison reel provenance and scope
+9017187 2026-11-15 03:30:32 +0100 SUPERNIHIL — Log RISK and Smithsonian prison audio discoveries
+f191e8b 2026-11-15 03:30:29 +0100 SUPERNIHIL — Add RISK and Smithsonian Anacostia prison audio leads
+d9c361b 2026-11-15 03:29:38 +0100 SUPERNIHIL — Log Northeastern archival inventory audit
+b4d402c 2026-11-15 03:29:36 +0100 SUPERNIHIL — Audit Northeastern archives for Liberation provenance
+06a0481 2026-11-15 03:27:05 +0100 SUPERNIHIL — Log new Liberation archival research
+ec66bcd 2026-11-15 03:27:03 +0100 SUPERNIHIL — Add Norfolk prison arts archive route for Liberation
+c80f344 2026-11-15 03:26:29 +0100 SUPERNIHIL — Log Liberation facility discrepancy and contact route
+bc6b897 2026-11-15 03:26:28 +0100 SUPERNIHIL — Correct Liberation facility attribution and add provenance questions
+c1b9d62 2026-11-15 03:25:43 +0100 SUPERNIHIL — Log Liberation discovery and Culion radio check
+02b4445 2026-11-15 03:25:41 +0100 SUPERNIHIL — Add Liberation prison session and Culion radio history
+8184fb4 2026-11-15 03:23:26 +0100 SUPERNIHIL — Log Uzuakoli track match and Smithsonian Culion film check
+5052b48 2026-11-15 03:23:24 +0100 SUPERNIHIL — Add Uzuakoli track-level comparison and Culion silent film record
+b6c9550 2026-11-15 03:22:23 +0100 SUPERNIHIL — Log Uzuakoli choir distinction and Culion archive trail
+97af74f 2026-11-15 03:22:21 +0100 SUPERNIHIL — Clarify Uzuakoli choir provenance and Culion photo records
+6e17959 2026-11-15 03:17:43 +0100 SUPERNIHIL — Log Uzuakoli and Culion research pass
+6da8434 2026-11-15 03:17:41 +0100 SUPERNIHIL — Add Uzuakoli discography and Culion band leads
+64aee38 2026-11-15 03:13:47 +0100 SUPERNIHIL — Log music-blog discoveries: Ohio prison jazz and Uzuakoli choir
+356c896 2026-11-15 03:13:45 +0100 SUPERNIHIL — Add Ohio prison jazz LP and Uzuakoli choir recording leads
+b535173 2026-11-15 03:13:08 +0100 SUPERNIHIL — Log blog and smolweb research pass
+283e58a 2026-11-15 03:13:06 +0100 SUPERNIHIL — Add blog-sourced prison session and independent discovery conduits
+dff7963 2026-11-15 03:13:04 +0100 SUPERNIHIL — Add independent blog and small-web research method
+7533d34 2026-11-15 03:11:55 +0100 SUPERNIHIL — Log Texas prison and Danish archive research
+91726b2 2026-11-15 03:11:53 +0100 SUPERNIHIL — Add Texas prison farm recordings and Danish Enevig archive route
+c473f7c 2026-11-15 03:10:29 +0100 SUPERNIHIL — Log item-level audit of Bruce Jackson prison recordings
+bfe28cd 2026-11-15 03:10:26 +0100 SUPERNIHIL — Expand Bruce Jackson prison tape inventory from LOC finding aid
+748322b 2026-11-15 03:09:19 +0100 SUPERNIHIL — Add item-level Hénonville DP song spool research
+7368a1c 2026-11-15 03:09:13 +0100 SUPERNIHIL — Log Indiana prison and Berlin POW archive research
+7b0405d 2026-11-15 03:09:11 +0100 SUPERNIHIL — Add Indiana prison source tapes and Berlin POW cylinder leads
+12f44f4 2026-11-15 03:07:56 +0100 SUPERNIHIL — Log POW and displaced persons camp sound archive research
+70d24a4 2026-11-15 03:07:54 +0100 SUPERNIHIL — Add First World War POW and postwar DP camp music archives
+4497522 2026-11-15 03:07:17 +0100 SUPERNIHIL — Log migrant camp and prison archive research
+a964204 2026-11-15 03:07:15 +0100 SUPERNIHIL — Add migrant camp recordings and expanded prison archive leads
+72c384b 2026-11-15 03:04:22 +0100 SUPERNIHIL — Log Danish field-recording research and date correction
+2d8ae2f 2026-11-15 03:04:20 +0100 SUPERNIHIL — Add Danish marginal-community field recordings
+885604c 2026-11-15 03:04:05 +0100 SUPERNIHIL — Log Swedish prison-song archive research
+db49ab8 2026-11-15 03:04:02 +0100 SUPERNIHIL — Add Swedish prison-song archive corpus
+7aa9d11 2026-11-15 03:03:09 +0100 SUPERNIHIL — Log Carville patient cantata cassette archive lead
+1c8197e 2026-11-15 03:03:06 +0100 SUPERNIHIL — Add Carville patient cantata cassette archive lead
+da7a673 2026-11-15 03:02:52 +0100 SUPERNIHIL — Log Music in Spite publication identity idea
+7b82d93 2026-11-15 03:02:46 +0100 SUPERNIHIL — Log Greek clandestine cassette and obscurity comparison finds
+8e589c0 2026-11-15 03:02:43 +0100 SUPERNIHIL — Add clandestine Greek camp cassette and obscurity calibration leads
+8b6c9ab 2026-11-15 03:00:37 +0100 SUPERNIHIL — Log Kalaupapa settlement choir recording discovery
+c7cd8f3 2026-11-15 03:00:34 +0100 SUPERNIHIL — Add Kalaupapa patient choir cassette discovery
+dc06bd7 2026-11-15 03:00:18 +0100 SUPERNIHIL — Log obscurity-filtered environment research pass
+7478850 2026-11-15 03:00:15 +0100 SUPERNIHIL — Add first obscure environment-first recording leads
+7960d0e 2026-11-15 03:00:12 +0100 SUPERNIHIL — Add obscurity and marginality admission threshold
+0f19150 2026-11-15 02:57:11 +0100 SUPERNIHIL — Log environment-first strategy and prison/cult/camp discoveries
+359e6cf 2026-11-15 02:57:05 +0100 SUPERNIHIL — Add environment-first global discovery framework
+93ec92e 2026-11-15 02:55:56 +0100 SUPERNIHIL — Log expanded global outsider music research
+5515ed7 2026-11-15 02:55:43 +0100 SUPERNIHIL — Expand project scope to global outsider and unconventional music
+05ed0dc 2026-11-15 02:52:33 +0100 SUPERNIHIL — Expand first-pass findings with Rusk State Hospital recording evidence
+311cd58 2026-11-15 02:52:23 +0100 SUPERNIHIL — Add first archival recording research findings
+97fc7f9 2026-11-15 02:48:50 +0100 SUPERNIHIL — Initialize research collaboration log
+e82391f 2026-11-15 02:48:48 +0100 SUPERNIHIL — Add research method and collaboration protocol
