@@ -2288,3 +2288,21 @@ The 2023 doctoral thesis by Nicolás Morales Sáez describes the original record
 Detailed dossier: research/radio-estacion-del-paraiso-el-peral-chile-2026-11-19.md.
 
 Sources: https://www.academia.edu/55132065/Espacios_locales_y_desarrollo_ciudadan%C3%ADa ; https://ocepweb.blogspot.com/2011/09/documental-la-furia-de-los-caballos-sin.html ; https://cinechile.cl/pelicula/la-furia-de-los-caballos-sin-patas/ ; https://www.tesisenred.net/bitstream/handle/10803/688597/TESI%20Nicolas%20Morales%20S%C3%A1ez.pdf?isAllowed=y&sequence=1 ; https://www.youtube.com/watch?v=yKCQ6I0AK6E .
+
+## 2026-11-20 — additional institutional environments
+
+### IM-053 — Eloise Symphony archive recording (1948)
+
+CSU's item-level finding aid records “Altshuler, Ira, Selections from Eloise Symphony, 1948” in Box 45, Folder 2, Subseries 1.13, within the 1948–1997 audio/video media series and audiotape subseries. A contemporary UP report in the 1 September 1948 *Ranger Daily Times* says a symphony co-composed by a former Eloise Hospital inpatient and Dr Ira M. Altshuler was scheduled for Detroit Symphony performance under Walter Poole. The report is a scheduled-performance notice; it does not prove that the archived tape is that performance. Treat the composition as hospital co-created, but the archived performance as unidentified and potentially professional/visiting. Do not label it resident-made.
+
+**Access/rights:** digital-object record linked, file not opened; no access restriction indicated, physical material offsite/advance notice; CSU copyright policy places permission responsibility on the user where CSU does not clearly hold rights. No audio played, no contact, no permission.
+
+Sources: [CSU item record](https://archives.colostate.edu/repositories/2/archival_objects/19371); [Ranger Daily Times, 1 Sep 1948, p.6](https://newspapers.swco.ttu.edu/bitstreams/f50802c2-c285-4359-9557-2568401249f4/download); [CSU copyright policy](https://lib.colostate.edu/find/archives-special-collections/visit/reading-room-rules/copyright-and-use/).
+
+### IM-054 — 은평병원 아트브뤼트 뮤지크 blog audio corpus (2012–2019)
+
+Seoul Metropolitan Government's 2014 notice links the hospital's Art Brut Musique blog and says song audio and photographs would be posted. The 2015 sixth-festival report lists 13 songs, including “우리들의 약” and “소중한 삶으로.” The 2019 *Newsis* report explicitly confirms that the hospital blog carries audio of participant-created songs and photographs. The festival began in 2012 and reached its tenth edition in 2019. Count the blog corpus once; do not count the thirteen festival songs separately or assume the two named 2015 songs have been matched to blog posts.
+
+The Naver blog is blocked to direct inspection in this pass. No item-level audio, post date, recording medium, performer credit, consent or rights information was verified. No individual participant is identified in this register.
+
+Sources: [Seoul Metropolitan Government, 2014](https://news.seoul.go.kr/welfare/archives/227853); [Maeil Business News, 5 Feb 2015](https://www.mk.co.kr/news/it/6562454); [Newsis, 21 Feb 2019](https://www.newsis.com/view/NISX20190220_0000564603); [hospital blog](http://blog.naver.com/artbrutmusic).
