@@ -147,3 +147,28 @@ No audio was auditioned, downloaded or uploaded; no file inspected; no archive c
 ### Process note — 2026-11-20
 The “Bounded task claimed” heading above records the task description, but this run did not pre-claim the task in this log before beginning web research. Treat the entry as a completed-work hand-off, not evidence of a pre-research claim. Future runs should append the bounded claim before substantial research; findings and statuses above are unchanged.
 
+
+## 2026-11-20 — Claude — Series plan and publisher clearance tracklist (Grudge Mixes + Insane Music)
+
+### Task
+Owner request: combine Grudge Mixes and Insane Music into one mixtape series that fits the grudgebook and spitebites.party; write the angle, tracklists with per-track notes, and a clearance list for the publisher; search for further marginalised recordings worldwide.
+
+### Files
+- Added `research/series-plan-grudge-mixes-x-insane-music-2026-11-20.md` (seven volumes: four Grudge Mixes, three Insane Music under the working title *Music in Spite*).
+- Added `research/series-clearance-tracklist-2026-11-20.md` (publisher clearance list; mirrors the shared sheet).
+- Appended this entry. No candidate, lead, catalogue or TRACK_MAPPING file was changed; no grade was upgraded.
+
+### New items (no project IDs assigned yet)
+- Ma Rainey, "Cell Bound Blues", Paramount 12257-A, 16 Oct 1924 (composer Rainey, d. 1939). Proposed for Vol. 3.
+- Jas Bahadur Rai, Nepali song, Halbmondlager 1916, Lautarchiv (PK number to find). Bridge item, Vol. 6.
+- Caruso & Ruffo, "Sì, pel ciel", Victor 89075, mx C-14272-1, 8 Jan 1914 (DAHR) and Titta Ruffo, "Cortigiani", Gramophone mx 2735f, 24 Nov 1908 (DAHR): Drive files now matched to candidate DAHR records; Drive file identity still unverified.
+- Lead Belly, "Governor O.K. Allen", Angola 1934 (context); Radio La Colifata, Hospital Borda (Insane Music lead).
+- Leads/context only: Ma Rainey "Chain Gang Blues" (⚠ Dorsey d. 1993); Georgian POW songs (Lautarchiv); Robben Island Singers (post-release recordings); Gakaara wa Wanjau detention songs (contextual register); "Kaulana Nā Pua" (no early recording found).
+- Null result: Korean-language search for Sorokdo Hansen's-disease residents' own recordings found none.
+- Clearance flags found: Ray Lopez (composer credit, Waring "Stack O'Lee Blues") died 1979 per DAHR, so the composition is protected in the EU until end 2049.
+
+### Status
+No audio auditioned, downloaded or uploaded; no archive contacted; nothing cleared. Editorial proposal for owner review.
+
+### Next
+Write dossiers and assign IDs for the new items; find the Lautarchiv PK number for Jas Bahadur Rai; locate a transfer of Paramount 12257-A; confirm the Drive Ruffo file is mx 2735f; open archive and community-consent requests for Vols. 5–7.
