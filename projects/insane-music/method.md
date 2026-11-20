@@ -52,6 +52,9 @@ Music made within documented outsider-art communities, alternative living enviro
 ### H. Unwanted music (strand added 2026-11-20)
 Music that was rejected, ridiculed or used as a nuisance, where the spite relationship is documented. Three branches: (1) **rough music**, the noise rituals of charivari, *cencerrada*, *scampanata* and *Katzenmusik* used to shame an offender; (2) **music as nuisance**, music engineered or deployed to annoy or repel; (3) **unwanted voices**, makers whose music the culture laughed at or ignored and who made it anyway. The joke is on taste, never on the maker. Famous anchors are context only (§3B). Strangeness alone is never enough (§4). Rough-music recordings must protect private targets. Full strand note: `research/unwanted-strand-annoying-and-weirdo-music-2026-11-20.md`.
 
+### I. Hostile music (strand added 2026-11-20)
+Music aimed at someone, or treated as an attack. Three branches: (1) **difficult music**, where hostility between music and audience is documented (riots, bans, walkouts), not merely music that is hard to listen to; (2) **fighting words**, song duels, insult-song wars and battle traditions; (3) **music treated as violence**, songs banned, enjoined or prosecuted for what they were said to do. Hard limits: no track that glorifies or incites violence against real people, nothing made as propaganda for mass violence, no music torture, and living artists in criminalised genres only with their participation. Full note: `research/hostile-strand-difficult-and-violent-music-2026-11-20.md`.
+
 ### Admission threshold
 For a main-discography entry, require:
 1. evidence that the recording exists;

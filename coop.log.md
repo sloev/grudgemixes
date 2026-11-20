@@ -253,3 +253,14 @@ HANDOFF → web/email: ask Fundación Joaquín Díaz for ATO 413.
 HANDOFF → download: MSR 851 MP3 from https://songpoemmusic.com/mp3.htm (record checksum; "fetched, awaiting Drive upload").
 HANDOFF → web: Unwanted leads for Asia and the Arab world (chindon-ya, arabesk, loudspeaker disputes, sonidero/picó feuds); any pre-1926 charivari on cylinder or disc for Grudge Mixes.
 PARTIAL
+
+## 2026-11-20 — Claude: *Hostile* strand and the "thin red line"
+
+CLAIM Claude 2026-11-20: owner request, difficult and hostile/violent music; restate the overarching idea — abilities: web, repo-write, run code; no Drive.
+
+- New GM-GL-001: East Greenland duel song, K'iwingatāk', Thalbitzer 1906 (ULO/Sub Rosa reissue). Pre-1926, a woman, a grievance settled in song.
+- Hostile strand = Insane Music pathway I (`method.md` §3I) with hard limits. Note: `projects/insane-music/research/hostile-strand-difficult-and-violent-music-2026-11-20.md`. LEADS §C4: Russolo 1921, Anlo-Ewe *haló* (banned 1960; recording needed), Urhobo *udje*, Skengdo x AM 2019.
+- `MIXES.md`: new "The thin red line" section (one idea, three questions, strand map, admission test). PROPOSAL Vol. 12 *Fighting Words*.
+
+HANDOFF → web: find any *haló* or *udje* recording (ILAM, GBC archive, Avorgbedor fieldwork); trace the Thalbitzer cylinder number (Royal Library / Danish Folklore Archives).
+PARTIAL

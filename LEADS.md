@@ -14,10 +14,11 @@
 
 | Section | Entries |
 |---|---|
-| A. Grudge Mixes dossiers (candidates and leads) | 53 |
+| A. Grudge Mixes dossiers (candidates and leads) | 54 |
 | B. Grudge Mixes leads held in research notes | 14 |
 | C. Downloaded files without dossiers, and new leads of 2026-11-20 | 35 |
 | C3. Unwanted strand leads | 11 |
+| C4. Hostile strand leads | 4 |
 | D. Insane Music catalogue (IM-001 – IM-055) | 53 |
 | Entries with a downloaded file | 20 |
 
@@ -452,6 +453,21 @@ Known ID problems to fix:
     - https://eap.bl.uk/project/EAP1682 (Naʿīma archive; catalogue XLSX https://eap.bl.uk/sites/default/files/2026-09/EAP1682_Catalogue.xlsx)
     - Listening copies, provenance unknown: https://www.youtube.com/watch?v=xyjCk72GVx8 · https://soundcloud.com/esmmatalneemr/ojkmzzlun1qt
 - **Dossier:** `projects/grudge-mixes/leads/GM-EG-003-naima-al-masriyya-ya-balah-zaghloul.md`
+
+#### GM-GL-001 — K'iwingatāk', duel song (drum-song duel), Tasiilaq, East Greenland, 1906 — NEW 2026-11-20
+
+- **Project:** Grudge Mixes (also Insane Music *Hostile* strand) · **Research status:** B — published reissue identified; cylinder number to trace · **Planned mix:** PROPOSAL Vol. 12 Fighting Words (opening)
+- **Downloaded:** No
+- **Recording:** William Thalbitzer wax cylinder, Ammassalik (Tasiilaq), 1906; reissued on *Inuit: 55 Historical Recordings 1905–1987* (ULO / Sub Rosa, 2000), disc 1 track 4, 1:06
+- **Background:** in East Greenland two people with a quarrel met before the community and sang mocking drum songs at each other; the audience decided.
+- **Why it fits:** a grievance given a stage, a drum and a judge. The grudge as an institution, voiced by a woman, pre-1926.
+- **Consent:** ⚠ Greenlandic heritage bodies, ULO and Tasiilaq community.
+- **Sources, listen, download or buy:**
+    - https://musicbrainz.org/release/ffa43e99-7c6c-4ca6-92d7-41e2bf080966
+    - https://www.thenationalnews.com/arts-culture/album-review-historical-inuit-recordings-let-listeners-eavesdrop-on-another-world-1.167394
+    - https://trap.gl/en/kultur/traditioner-og-fortaellinger/
+    - Buy: https://www.lespressesdureel.com/EN/ouvrage.php?id=4997
+- **Dossier:** `projects/grudge-mixes/leads/GM-GL-001-east-greenland-duel-song-thalbitzer-1906.md`
 
 #### GM-ES-001 — María García, “La noche de Reyes” (Asturias; recorded 19 January 1939)
 
@@ -1620,6 +1636,44 @@ A new Insane Music pathway (method.md §3H). The joke is on taste, never on the 
 - Rockdale, Sydney, 2006: Barry Manilow and Doris Day blasted to drive away "hoons"; residents complained; Manilow answered with a letter. Use in liner notes. https://www.nbcnews.com/id/wbna13898170
 - Noriega, Panama, 1989: loud music at the Vatican embassy (military; excluded).
 - "Feels Like a Wish" (Brazil, 1990): internet mystery song identified Dec 2023.
+
+---
+
+## C4. The *Hostile* strand: difficult music, fighting words, music treated as violence (2026-11-20)
+
+Insane Music pathway I (method.md §3I). Hard limits: nothing that glorifies or incites violence against real people; no propaganda made for mass violence; no music torture. None has been listened to.
+
+#### Italy · Antonio & Luigi Russolo, "Corale" and "Serenata" (Gramophone, rec. 1921, issued c.1924)
+
+- **Project:** Insane Music (difficult music; pre-1926) · **Planned mix:** PROPOSAL Vol. 12 · **Visibility:** PROMISING · **Downloaded:** No (UbuWeb MP3 online)
+- **Background:** the only surviving period recording of Russolo's *intonarumori* noise machines with orchestra; the first Futurist noise concert (April 1914) caused a riot.
+- **Why it fits:** music built to assault the audience, and an audience that fought back.
+- **Rights:** compositions and phonogram likely expired; ⚠ state Futurism's later fascist ties in notes.
+- **Sources:** https://en.wikipedia.org/wiki/Antonio_Russolo · https://ltmrecordings.com/musica_futurista_the_art_of_noises_ltmcd2401.html
+- **Dossier:** strand note `projects/insane-music/research/hostile-strand-difficult-and-violent-music-2026-11-20.md`
+
+#### Ghana · Anlo-Ewe *haló*, song wars of insult (c.1912–1960, banned)
+
+- **Project:** both (grievance song; banned genre) · **Planned mix:** PROPOSAL Vol. 12, if a recording exists · **Visibility:** HIGH PRIORITY · **Downloaded:** No (no recording identified)
+- **Background:** song-and-drum insult wars between Anlo-Ewe towns and factions, popular from about 1912 until banned under Ghana's 1960 Criminal Code; insult in song was felt to outlive the singer.
+- **Why it fits:** the grudge as a formal art of combat, and a music the state banned for its power.
+- **Consent:** ⚠ the songs still name families; community and scholar involvement essential.
+- **Sources:** https://journal.oraltradition.org/wp-content/uploads/files/articles/9i/4_avorgbedor.pdf · https://muse.jhu.edu/article/29566 · https://digitalcollections.sit.edu/african_diaspora_isp/44
+- **Dossier:** strand note `projects/insane-music/research/hostile-strand-difficult-and-violent-music-2026-11-20.md`
+
+#### Nigeria · Urhobo *udje* battle song-poetry
+
+- **Project:** Insane Music (fighting words) · **Visibility:** PROMISING · **Downloaded:** No (recordings to find)
+- **Sources:** https://link.springer.com/chapter/10.1007/978-3-031-15617-5_3 · **Dossier:** strand note `projects/insane-music/research/hostile-strand-difficult-and-violent-music-2026-11-20.md`
+
+#### UK · Skengdo x AM, "Attempted 1.0" (London, 2018)
+
+- **Project:** Insane Music (music treated as violence) · **Planned mix:** PROPOSAL Vol. 12, only with the artists' participation · **Visibility:** CONTEXT / anchor · **Downloaded:** No
+- **Background:** nine-month prison sentences, suspended for two years, in January 2019 for performing the song in breach of a police gang injunction. Widely called the first prison sentence in British history for performing a song. The injunction was lifted in 2021.
+- **Why it fits:** the state deciding a song is a weapon, the modern mirror of the 1919 ban on Zaghloul's name (GM-EG-003).
+- **Rights / consent:** ⚠ living artists; label.
+- **Sources:** https://www.qmul.ac.uk/lac/legal-blog/2019-2024-blogs/items/banning-drill-deprivation-violence-and-a-failure-of-engagement.html · https://djmag.com/news/injunction-banning-skengdo-am-lifted-after-two-years
+- **Dossier:** strand note `projects/insane-music/research/hostile-strand-difficult-and-violent-music-2026-11-20.md`
 
 ---
 

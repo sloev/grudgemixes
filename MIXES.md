@@ -17,6 +17,26 @@ What we want the listener to take away:
 4. No moral, no mockery. The mixes never tell anyone to forgive and never make fun of the singers.
 5. The whole world, told precisely, with original-language titles and no culture standing in for a country.
 
+## The thin red line
+
+**One idea runs through everything: a grudge is a wrong that someone refuses to let go of, and music is one of the oldest ways people have kept that refusal alive.** Every track must answer three questions:
+
+1. **What is the wrong, or the refusal?** An injury, an insult, an exile, a ban, a ridicule, a confinement.
+2. **Who stands on each side?** The aggrieved and the offender; the maker and whoever did not want the music.
+3. **What does the music do about it?** It *keeps account* (names, accuses, vows, remembers), *defies* (is made anyway), *annoys* (makes the other side listen) or *strikes back* (wounds with song instead of weapons).
+
+The strands are not separate genres. They are positions on that one line:
+
+| Strand | Where the spite sits | Volumes |
+|---|---|---|
+| **The Account** (Grudge Mixes, pre-1926) | In the song's words: the grievance named and carried | 1–4 |
+| **Out of Turn** | In the singer: a voice not meant to be heard, heard anyway | 5 |
+| **Made Anyway** (*Music in Spite*) | In the act of making: music where it was not tolerated (walls, bans, no money, found tapes) | 6–10 |
+| **Unwanted** | In the reception: music someone else declared unbearable, and music used to make others suffer a little | 11 (proposal) |
+| **Fighting Words** | In the aim: music pointed at an enemy, from song duels to songs a state calls weapons | 12 (proposal) |
+
+**Test for any new lead:** if you cannot say in one sentence who the wrong was done to, who refuses what, and how the recording answers, it does not belong, however strange, rare or beautiful it is.
+
 ## Curation rules
 
 - **Diversity first.** Each volume spans at least three regions and two languages, and includes women's voices wherever the material exists. No volume may be more than half US or more than half one kind of setting.
@@ -41,6 +61,7 @@ What we want the listener to take away:
 | 9 | Banned, Scratched, Smuggled | *Music in Spite* | 7 | USSR, Czechoslovakia, Kurdistan/Turkey, Afghanistan, South Africa, Algeria | 0 |
 | 10 | Found | *Music in Spite* | open | Ainu Sakhalin, Brazil, Ghana, thrift-store tapes worldwide | 0 |
 | 11 | Unwanted (PROPOSAL) | *Music in Spite* | 9 | Spain, US, Liberia, UK, France | 0 |
+| 12 | Fighting Words (PROPOSAL) | Both | 6 (2 open) | Greenland, Ghana, Nigeria, Egypt, Italy, UK | 0 |
 
 ## Vol. 1 — The Inherited Account (Grudge Mixes)
 
@@ -191,6 +212,21 @@ Who decides what is unwanted? Rough music as a village's verdict, songs built to
 | 9 | Satie, *Vexations* (one statement, or the end of a marathon) | 1893 / 1963 | 840 times; still here? | No |
 
 Balance problem to fix before adoption: 4 US / 2 Liberia / 1 Spain / 1 UK / 1 France; no Asia or Arab world yet (see gaps in the strand note). Alternative: feed tracks 1, 3–5 into Vols. 8–10 instead of a new volume.
+
+## Vol. 12 — Fighting Words (PROPOSAL, 2026-11-20; awaits owner)
+
+Hostility given a form: the song duel, the insult war, the noise aimed at an audience, the song a court treats as a weapon. It takes in the oldest form of the subject (a community gives grievance a stage and rules) and the newest (a state decides a song is violence). Hard limits: nothing that incites violence against real people, no propaganda for mass violence, no music torture.
+
+| # | Track | Recording | What it tells | Downloaded |
+|---|---|---|---|---|
+| 1 | K'iwingatāk', duel song | Thalbitzer cylinder, Tasiilaq 1906 (GM-GL-001) | A quarrel settled before the village with a drum. | No ⚠ consent |
+| 2 | Anlo-Ewe *haló* song | Recording to find | A song war between towns, banned in 1960. | No (open slot) |
+| 3 | Urhobo *udje* song | Recording to find | Battle poetry between rival communities. | No (open slot) |
+| 4 | Naʿīma al-Miṣriyya, "Yā Balaḥ Zaghlūl" (if not used in Vol. 4) | Mechian, c.1919–22 (GM-EG-003) | A banned name sung in public. | No |
+| 5 | Antonio & Luigi Russolo, "Corale" | Gramophone, 1921 | Noise machines aimed at an audience that rioted. | No (MP3 online) |
+| 6 | Skengdo x AM, "Attempted 1.0" (only with the artists) | London, 2018 | The first song a British court punished someone for performing. | No ⚠ |
+
+Balance: Greenland, Ghana, Nigeria, Egypt, Italy, UK. Two or three women at most so far, so look for women's insult songs (e.g. Ewe women's *haló* roles, Inuit women's duels).
 
 ## Still missing
 
