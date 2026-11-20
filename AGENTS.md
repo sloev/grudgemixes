@@ -76,7 +76,7 @@ Lists show each post as a row: headline, a recording indicator (*Playable here* 
 - **Pick work from the drafts.** `grep -l "draft: true" posts/recordings/*.md` lists them, and each draft's `## To do` says what's needed. To avoid clashes, take a post nobody changed in the last day (`git log -1 --format=%cr -- <file>`), finish what you can, and update its `## To do` with what is still open.
 - **Add details to existing posts** whenever you find them: a better source, an exact catalogue number, a recording link, a free image. Edit the post; don't create duplicates. Search titles and `who` before making a new post.
 - **Add new posts** for new finds: a `draft: true` recording with whatever you know and a `## To do` list is welcome. New mixtapes may start as drafts listing draft tracks.
-- **Run `python3 scripts/check.py` before every commit** (`pip install pyyaml markdown`). To preview, run `python3 scripts/build.py --out _site` and open `_site/index.html`. Never commit `_site/`.
+- **Before every commit run `python3 scripts/check.py && python3 scripts/build.py --out docs`** (`pip install pyyaml markdown`) and commit the regenerated `docs/` together with your post changes. GitHub Pages serves `docs/` directly, so the site only updates when `docs/` is rebuilt. Never edit files in `docs/` by hand. If two agents' `docs/` changes conflict, take either side and rebuild.
 
 ## What to look for
 

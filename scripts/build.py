@@ -2,7 +2,7 @@
 """Build the blog from posts/ into a static site. Only posts with `draft: false` are published.
 
     pip install markdown pyyaml
-    python3 scripts/build.py --out _site [--base https://sloev.github.io/grudgemixes/]
+    python3 scripts/build.py --out docs [--base https://sloev.github.io/grudgemixes/]
 """
 import argparse, hashlib, html, re, shutil
 from datetime import datetime, timezone
@@ -169,7 +169,7 @@ def row(p, rel, recs, n=None):
             f'<p>{esc(summ)}</p><a class="more" href="{href}">Read more →</a></div></article>')
 
 def main():
-    ap = argparse.ArgumentParser(); ap.add_argument("--out", default="_site"); ap.add_argument("--base", default="https://sloev.github.io/grudgemixes/")
+    ap = argparse.ArgumentParser(); ap.add_argument("--out", default="docs"); ap.add_argument("--base", default="https://sloev.github.io/grudgemixes/")
     a = ap.parse_args(); base = a.base.rstrip("/") + "/"; out = Path(a.out)
     if out.exists(): shutil.rmtree(out)
     (out / "covers").mkdir(parents=True)
@@ -227,7 +227,7 @@ document.addEventListener('click',e=>{const a=e.target.closest('a.pill');if(a){e
     about = (ROOT / "README.md").read_text(encoding="utf-8").split("<!-- about-end -->")[0]
     (out / "about").mkdir(); (out / "about/index.html").write_text(page(f"About · {NAME}", f"<main><article>{md(about)}</article></main>", base, "../"), encoding="utf-8")
 
-    now = datetime.now(timezone.utc); items = []
+    now = max(datetime.strptime(str(p.get("date") or "2026-11-20"), "%Y-%m-%d") for p in live_cols + live).replace(tzinfo=timezone.utc, hour=12); items = []
     for i, p in enumerate(live_cols + live):
         kind = "mixtapes" if p["type"] == "collection" else "posts"
         link = f"{base}{kind}/{p['slug']}/"

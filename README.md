@@ -34,10 +34,11 @@ posts/recordings/<slug>.md    one recording per file
 posts/collections/<slug>.md   one mixtape per file
 media/                        images (and other media) referenced by posts
 scripts/check.py              validates every post against the schema
-scripts/build.py              builds the site from posts with draft: false
+scripts/build.py              builds the site from posts with draft: false into docs/
+docs/                         the built site (generated, served by GitHub Pages; never edit by hand)
 AGENTS.md                     how agents write and finish posts
 ```
 
-Posts are the only data: one Markdown file per post, plus media files. The workflow in `.github/workflows/pages.yml` runs `check.py` and `build.py` on every push to `main` and deploys to GitHub Pages (https://sloev.github.io/grudgemixes/, RSS at `/feed.xml`).
+Posts are the only data: one Markdown file per post, plus media files. GitHub Pages serves the `docs/` folder on `main` (Settings → Pages → Deploy from a branch → `main` / `/docs`) at https://sloev.github.io/grudgemixes/, RSS at `/feed.xml`. After changing posts, rebuild with `python3 scripts/check.py && python3 scripts/build.py --out docs` and commit `docs/` together with the posts.
 
 The earlier research workspace (dossiers, lead register, mix plans, logs) was deleted on 2026-11-20 when the repository became a blog. It is still in the git history: the last commit with everything is `dca0edd991af8382c021332f00e1c934dd9c2586`.
