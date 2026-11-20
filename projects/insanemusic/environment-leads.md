@@ -2243,3 +2243,52 @@ This is a **mixed authorship/performance** object: workshop participants authore
 **Next exact action:** with owner approval, ask the current Santo André Health Secretariat/CAPS-DQ records route whether a CD/master survives, where it is held, and whether a tracklist/credit sheet, lyric-author list and rights documentation exist. No contact or permission request was made.
 
 Source checked 2026-11-18: Gislaine Gutierre, “Arte favorece inclusão social no ABC,” *Diário do Grande ABC*, 13 Jan 2002: https://www.dgabc.com.br/Noticia/108256/arte-favorece-inclusao-social-no-abc
+
+## Berlin Lautarchiv — Armenian-language camp recordings, Mannheim (2026-11-20; unnumbered lead)
+
+**Status:** item-level archival evidence for extant music recordings; provisional main-discography candidate pending person/camp and audio-access checks. No IM-ID assigned because the designated catalogue's ID sequence is not reconciled with the parallel redirect-copy directory.
+
+**Keep this separate from Vienna Phonogrammarchiv Ph 2647 and from the Berlin Phonogramm-Archiv wax-cylinder music corpus.** These are shellac-disc objects catalogued by the Humboldt-Universität zu Berlin Lautarchiv / former Lautabteilung of the Prussian State Library.
+
+### Exact surviving music objects
+
+- **PK 477/1 — “Das Lied des Sergo”** (Lautarchiv object 9777): catalogue date 1916-11-01; 27 cm shellac; duration 1:30; singer recorded as **Der Gregorianz, Lewon**; language/category “Armenisch (Georgien)” / label wording “Armenisch (Tiflis)”; speaker origin Tiflis / Achalkalaki, historical Russian Empire; recording-place tags include Mannheim and “Internierungslager”. The catalogue assigns the musical genre tag **Revolutionslied**. The label transcription names “1. Das Lied d. Sergo, 2. Soldatenlied, P. K. 477”. This is the strongest item-level lead, but the lyrics, composer and exact political referent of “Sergo” remain unknown.
+  - Item: https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9777/
+- **PK 477/2 — “Soldatenlied, Armenisch (Tiflis)”** (object 9778): same catalogue date, same singer and PK 477 label; 27 cm shellac; duration 0:38. Treat as the paired second side / companion item, not a second independently established camp composition.
+  - Item: https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9778/
+- **PK 478 — “Arams Lied (Armenisch)”** (object 9779): same singer; catalogue date 1916-11-01; 27 cm shellac; duration 1:33.
+  - Item: https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9779/
+- **PK 481/1 — “Liebeslied (Armenisch) Tifllis”** (object 9785): same singer; 27 cm shellac; duration 0:55.
+  - Item: https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9785/
+- **PK 481/2 — “Liebeslied (tatarisch)”** (object 9786): same singer; 27 cm shellac; duration 0:40. Preserve the catalogue's uncertainty: its heading is “Armenisch [Tatarisch?] (Georgien)” and the handwritten label wording is not a definitive language identification.
+  - Item: https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9786/
+
+### Related lost objects and non-music control
+
+The same-singer linked-object records list **PK 479/1 “Soldatenlied” (lost), PK 479/2 “Frühlingslied” (lost), PK 480/1 “Morgengebet” (lost), PK 480/2 “Abschiedslied” (lost), and PK 480/3 “Erzählung” (lost)**. Do not count these as extant recordings. **PK 483/1**, “Anfang eines Märchens: Das feurige Pferd”, is a surviving spoken/read fairy-tale item, not a song. These records form one singer/session cluster; do not inflate it into a large number of unrelated candidates.
+
+### Provenance, camp context and ethical status
+
+- The item records identify the former **Lautabteilung an der Preussischen Staatsbibliothek** as the collection source. Public metadata associates Adolf Dirr with collection/editorial work and Wilhelm Doegen with project leadership; the item pages do not name an individual recording operator.
+- The record pages tag Mannheim as recording place and “Internierungslager” as place type. The Lautarchiv's own holdings guide says its First World War corpus includes recordings made in prisoner-of-war camps and that traditional songs and stories occur among them. A separate 1916 Prussian Phonographic Commission object in the Staatliche Museen zu Berlin explicitly labels Mannheim a **Deutsches Kriegsgefangenenlager**; that is contextual corroboration for the location, not proof of the exact room/site or this singer's personal status.
+- The archive's collection guide states that its core comprises roughly 4,500 shellac discs, including about 700 music discs, and that many songs occur within the POW recordings. This refines the earlier shorthand that treated the Lautarchiv's POW shellac corpus as speech-only. Keep it distinct from the Berlin Phonogramm-Archiv's wax-cylinder music holdings and Vienna's Phonogrammarchiv.
+- The item page and linked documentation establish a recorded singer/performance, not composition authorship. There is no evidence that Der Gregorianz composed these songs or that they were created in the camp. Describe them as performances recorded in a camp context unless primary documentation proves more.
+- **Access:** the catalogue is publicly searchable and some written documents through 1918 are online; the archive says only a few selected recordings can be heard online. For further recordings it asks users to contact the archive; MP3 files are made accessible after contact and WAV may be supplied for publications/presentations. It may refuse requests where no substantive research interest is apparent, where demeaning/nationalist/racist use is feared, or where research suggests publication would conflict with a speaker's wishes. No public direct audio/download URL was exposed for these items.
+- No archive contact, listening, file inspection, download, upload or permission request was made. Public catalogue access is not a download or reuse licence.
+
+### Project fit and confidence
+
+- **Environment/pathway:** First World War camp / internment setting; named singer from the Caucasus; archival performance of music in an under-documented multilingual POW corpus.
+- **Obscurity:** high as an item-level music lead, although the collection itself is known and catalogued.
+- **Evidence confidence:** high for catalogue title, format, duration, singer label, catalogue date and archive provenance; medium for the precise camp status/site; low for composer, lyric text, the referent of “Sergo” and whether the singer was the composer.
+- **Editorial status:** retain as an unnumbered research lead, not a completed or rights-cleared catalogue entry. The archive's “Revolutionslied” tag is a useful discovery clue, not a substitute for translation or thematic interpretation.
+
+### Next exact actions
+
+1. With owner approval, request access to the PK 477 personnel sheet, original label documentation, phonetic text, Armenian text and German translation; establish the singer's status and exact camp/site.
+2. Verify whether the catalogue date 1916-11-01 is the session date and identify the physical disc/matrix or carrier-level relationship among PK 477, 478 and 481.
+3. Obtain a reliable Armenian reading/translation of “Das Lied des Sergo”; do not infer its subject from the title or genre tag.
+4. Establish the archive's item-specific access and reuse conditions before any transfer or publication. No Grok request: no direct lawful audio file route is presently identified.
+
+**Sources checked 2026-11-20:** Lautarchiv holdings and corpus description, https://www.lautarchiv.hu-berlin.de/bestaende-und-katalog/bestaende/ ; Lautarchiv usage policy, https://www.lautarchiv.hu-berlin.de/einfuehrung/nutzungsmoeglichkeiten/ ; PK 477/1 https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9777/ ; PK 477/2 https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9778/ ; PK 478 https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9779/ ; PK 479/1 https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9780/ ; PK 479/2 https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9781/ ; PK 480/1 https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9782/ ; PK 480/2 https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9783/ ; PK 480/3 https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9784/ ; PK 481/1 https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9785/ ; PK 481/2 https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9786/ ; PK 483/1 https://www.lautarchiv.hu-berlin.de/objekte/lautarchiv/9789/ ; independent Mannheim POW-camp context, Staatliche Museen zu Berlin, https://search.smb.museum/object/obj-743344?geographicalReferences=Georgien&page=3 ; separate Vienna Phonogrammarchiv item Ph 2647, https://www.researchcatalogue.net/view/3355133/4340708 .
+
