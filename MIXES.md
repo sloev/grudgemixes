@@ -98,6 +98,8 @@ A grievance shared becomes an identity. Book: Part IV, ch. 21–22; Part V, ch. 
 
 Reserves: Tagore, "Bande Mataram" (GM-IN-001); Sayyid Darwīsh, "Qum yā Miṣrī" (GM-EG-002).
 
+**PROPOSAL (2026-11-20, Claude; awaits owner):** add Naʿīma al-Miṣriyya, "Yā Balaḥ Zaghlūl" (Mechian, c.1919–22; GM-EG-003) as track 3 or 4. In 1919, naming the exiled Zaghloul was banned, so a song "about dates" let Cairo chant his name anyway. It would give Vol. 4 its first Arabic-language track and its second woman. Condition: an attributed transfer (EAP1682 / AMAR) and a confirmed date.
+
 ## Vol. 5 — Voices Out of Turn (both projects, all pre-1926) — new
 
 People whose music was policed, scorned or not meant to be recorded, getting onto disc and cylinder anyway. This volume carries the series' widest geography.
@@ -173,7 +175,7 @@ Anchors: Piłsudski's Ainu cylinders (1902–05, found in Poland 1977; ⚠ Ainu 
 
 ## Still missing
 
-East and Southeast Asia beyond Japan and Korea, the Pacific beyond Hawai‘i, the Andes, Central Asia, Arabic-language tracks on a main volume, Roma voices, Indigenous Australia (only with community control).
+East and Southeast Asia beyond Japan and Korea, the Pacific beyond Hawai‘i, the Andes, Central Asia, Arabic-language tracks on a main volume (proposal: GM-EG-003), Roma voices, Indigenous Australia (only with community control).
 
 ## Old-to-new volume key
 

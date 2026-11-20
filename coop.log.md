@@ -225,3 +225,17 @@ Corrected Sainte-Anne lead after full read (Dupont 1889 delusion recordings; no 
 - Dropped the Soviet film music project at the owner's request; `projects/soviet-film-music/` deleted.
 - Removed the old public tracker (workflow, `public/`, build script). Added `scripts/build_site.py` and `.github/workflows/publish-site.yml`: the site in `sloev/grudgemusic-public` is now AES-GCM encrypted and opens only with the owner's password (secret `SITE_PASSWORD`; push token secret `PUBLIC_SITE_TOKEN`). First build pushed by hand.
 - Open: fix duplicate IDs GM-AM-001 and GM-IN-001; clearance sheet and planning doc still use the old volume numbers; verify (play and checksum) the 20 listed Drive files.
+
+## 2026-11-20 — Claude: discovery pass on series gaps (Arabic, Pacific, Southeast/East Asia, Andes)
+
+CLAIM Claude 2026-11-20: gap discovery — abilities: web search/fetch, repo-write, run code; no Drive; shell downloads blocked except package registries.
+
+- **Breakthrough:** GM-EG-003, Naʿīma al-Miṣriyya, "Yā Balaḥ Zaghlūl" (Darwīsh and Khayrī; Mechian). A 1919 song about dates that carried the banned name of the exiled Saad Zaghloul. It is the first Arabic-language main-volume candidate and is sung by a woman. Found the 2025–26 British Library EAP1682 Naʿīma archive (AUC), whose catalogue was published Sept 2026. Date conflict: Lagrange says 1915, Fareed says 1919. PROPOSAL in MIXES.md Vol. 4.
+- New IM-055: Regina (Mapuche captive), Lehmann-Nitsche cylinders 1905–07, Berlin VII WS 192. Consent-gated.
+- New C2 leads: "Doh Bamar" original 78 (Burma); Korean banned records under the 1933 rules (source books identified).
+- Kaulana Nā Pua: re-searched, still no pre-1926 recording; the 1923–24 Helen Roberts cylinders are the remaining place to check.
+- Files: `projects/grudge-mixes/leads/GM-EG-003-…md`, `projects/insane-music/research/regina-…-IM-055.md`, `projects/insane-music/catalogue.md`, `LEADS.md`, `MIXES.md`.
+
+HANDOFF → browser/download: GM-EG-003, download https://eap.bl.uk/sites/default/files/2026-09/EAP1682_Catalogue.xlsx and find the Yā Balaḥ Zaghlūl disc (label number, date, digitised file); the shell got HTTP 202 with an empty body.
+HANDOFF → browser: IM-055, read https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/35912 (bot check) and record the "trasladados" verse and cylinder number.
+PARTIAL

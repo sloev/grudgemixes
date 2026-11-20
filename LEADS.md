@@ -14,9 +14,9 @@
 
 | Section | Entries |
 |---|---|
-| A. Grudge Mixes dossiers (candidates and leads) | 52 |
+| A. Grudge Mixes dossiers (candidates and leads) | 53 |
 | B. Grudge Mixes leads held in research notes | 14 |
-| C. Downloaded files without dossiers, and new leads of 2026-11-20 | 32 |
+| C. Downloaded files without dossiers, and new leads of 2026-11-20 | 35 |
 | D. Insane Music catalogue (IM-001 – IM-054) | 52 |
 | Entries with a downloaded file | 20 |
 
@@ -435,6 +435,22 @@ Known ID problems to fix:
     - https://diplomatmagazineegypt.com/wp-content/uploads/2023/05/No265-267.pdf
     - https://www.shorouknews.com/news/view.aspx?cdate=16032019&id=5d15c93c-06b4-424e-a95c-9a02fce2ffe7
 - **Dossier:** `projects/grudge-mixes/leads/GM-EG-002-sayed-darwish-qum-ya-masri-odeon-78.md`
+
+#### GM-EG-003 — Naʿīma al-Miṣriyya, “Yā Balaḥ Zaghlūl” (Mechian; c.1919–1922, date disputed) — NEW 2026-11-20
+
+- **Project:** Grudge Mixes (also Insane Music) · **Research status:** B — singer, writers, label and context attested; disc number and date unresolved · **Planned mix:** PROPOSAL Vol. 4 The Collective Account
+- **Downloaded:** No
+- **Recording:** يا بلح زغلول, music Sayyid Darwīsh, lyrics Badīʿ Khayrī; Mechian label (Lagrange). Lagrange dates the set 1915; Fareed ties it to 1919. 1915 cannot fit a tribute to a man exiled in 1919, so check for 1919–22 or the 1922 Mechian session.
+- **Background:** after Saad Zaghloul's exile in 1919, Egyptian accounts say the British military made naming him punishable by prison and lashes. Khayrī and Darwīsh wrote a song "about dates" (*Zaghlūl* is a date variety), and Naʿīma sang it so that crowds could chant the banned name.
+- **Why it fits:** a collective grievance against occupation, voiced by a woman before 1926, through a song built to dodge a ban. It is the series' first Arabic-language main-volume candidate.
+- **Rights:** ⚠ Khayrī d. 1966 (EU term to end of 2036). Darwīsh's music and the phonogram are free.
+- **Sources, listen, download or buy:**
+    - https://babmsr.com/naeima-al-masriya-the-voice-of-taqatiq-popular-songs
+    - https://arz.wikipedia.org/wiki/%D9%8A%D8%A7%D8%A8%D9%84%D8%AD_%D8%B2%D8%BA%D9%84%D9%88%D9%84
+    - https://www.alwafd.news/essay/42371
+    - https://eap.bl.uk/project/EAP1682 (Naʿīma archive; catalogue XLSX https://eap.bl.uk/sites/default/files/2026-09/EAP1682_Catalogue.xlsx)
+    - Listening copies, provenance unknown: https://www.youtube.com/watch?v=xyjCk72GVx8 · https://soundcloud.com/esmmatalneemr/ojkmzzlun1qt
+- **Dossier:** `projects/grudge-mixes/leads/GM-EG-003-naima-al-masriyya-ya-balah-zaghloul.md`
 
 #### GM-ES-001 — María García, “La noche de Reyes” (Asturias; recorded 19 January 1939)
 
@@ -1450,11 +1466,35 @@ Grouped by region so the spread is visible. None has been listened to. Rights no
 
 - **Status:** downgraded lead. Speech and delusions, no singing mentioned; survival unknown. Patient-record material: privacy first. **Source:** https://baillement.com/recherche/Phonograph_neurology_RN.pdf
 
+#### Argentina / Mapuche · Regina, songs on Lehmann-Nitsche cylinders, La Plata, 1905–1907 (IM-055)
+
+- **Project:** Insane Music · **Planned mix:** none until consent · **Downloaded:** No
+- **Recording:** Berliner Phonogramm-Archiv, "Araukaner" cylinders, VII WS 192; cylinder 2 on BPhA-WA4/5 (2009); audio with Canio Llanquinao & Pozo Menares, *Revista Musical Chilena* 68 (2014)
+- **Background:** Regina, a Mapuche captive of the "Conquest of the Desert", lived as a servant in the household of the scientist who recorded her. Hers are among the first recordings of Mapuche song.
+- **Why it fits:** song recorded by the people who took her land; the voice of the only woman in the corpus.
+- **Consent:** ⚠ sacred *machi* songs recorded under coercion. Mapuche community consent is required before any use.
+- **Sources:** https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/35912 · https://ccc.deutsche-digitale-bibliothek.de/en/item/RGLLD5SHUNUOJAMH6BAUJZ6ZY3XN5OEL
+- **Dossier:** `projects/insane-music/research/regina-mapuche-cylinders-la-plata-1905-1907-IM-055.md`
+
+#### Burma · Thakhin movement, "Doh Bamar" (original 78, c.1930)
+
+- **Project:** Insane Music · **Downloaded:** No
+- **Background:** a Rangoon collector says he holds the only original record of the song of the anti-colonial Dobama Asiayone ("We Burmans") movement, which later became the national anthem. Burmese labels pressed 78s from 1919 to 1962.
+- **To do:** identify the label and catalogue number; ask whether the record was suppressed; ask for a transfer. Radford University's Burmese 78 collection may hold a copy.
+- **Sources:** https://www.irrawaddy.com/in-person/myanmars-gramophone-record-collector.html · https://monk.radford.edu/records/item/731-byau
+
+#### Korea · records banned under the 1933 Chōsen record-censorship rules (lead set)
+
+- **Project:** Insane Music · **Downloaded:** No
+- **Background:** from 1933, the Government-General required lyrics and test pressings before sale; stampers were destroyed and issued discs confiscated. Mun Ok-bae's *일제의 노래검열* (Northeast Asian History Foundation, Dec 2025) lists banned titles; also Lee Jun-hee's SNU study (2007).
+- **To do:** pull 2–3 banned discs with surviving copies (National Gugak Center, Korean Record Archive).
+- **Sources:** https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003259107 · https://s-space.snu.ac.kr/handle/10371/66822
+
 #### Context only (not tracks)
 
 - Robben Island Singers — songs made in prison, recorded after release (https://robbenislandsingers.com/?p=418).
 - Gakaara wa Wanjau — songs composed in Mau Mau detention; text only so far.
-- "Kaulana Nā Pua" (Hawai‘i, 1893) — protest song; no pre-1926 recording found.
+- "Kaulana Nā Pua" (Hawai‘i, 1893) — written for Royal Hawaiian Band members who refused the Provisional Government's loyalty oath ("Mele ʻAi Pōhaku", the stone-eating song). Searched again on 2026-11-20: still no pre-1926 recording found; the earliest commercial Hawaiian chant discs on record are 1930s Hawaiian Transcriptions. Helen Roberts' 1923–24 Bishop Museum cylinders are the one pre-1926 place left to check.
 - Lead Belly, "Governor O.K. Allen" (Angola, 1934) — pardon song; famous; reserve.
 - Ma Rainey, "Chain Gang Blues" (Paramount 12338, 1925) — reserve; ⚠ Thomas A. Dorsey d. 1993.
 
