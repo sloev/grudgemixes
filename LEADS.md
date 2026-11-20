@@ -19,6 +19,7 @@
 | C. Downloaded files without dossiers, and new leads of 2026-11-20 | 35 |
 | C3. Unwanted strand leads | 11 |
 | C4. Hostile strand leads | 4 |
+| C5. Found tapes and found audio | 5 |
 | D. Insane Music catalogue (IM-001 – IM-055) | 53 |
 | Entries with a downloaded file | 20 |
 
@@ -1674,6 +1675,62 @@ Insane Music pathway I (method.md §3I). Hard limits: nothing that glorifies or 
 - **Rights / consent:** ⚠ living artists; label.
 - **Sources:** https://www.qmul.ac.uk/lac/legal-blog/2019-2024-blogs/items/banning-drill-deprivation-violence-and-a-failure-of-engagement.html · https://djmag.com/news/injunction-banning-skengdo-am-lifted-after-two-years
 - **Dossier:** strand note `projects/insane-music/research/hostile-strand-difficult-and-violent-music-2026-11-20.md`
+
+---
+
+## C5. Found tapes and found audio (2026-11-20)
+
+From the found-tape blog survey. The owner widened *Found* to any audio (MIXES.md Vol. 10 rule). None has been listened to. Audio links are on MediaFire (shell blocked); the blog author holds the reels.
+
+#### UK · Unknown singer with guitar, "Standing on the Outside of a Circle" / "I Have Looked Upon a Land" (EclectikTronik 88r002)
+
+- **Project:** Insane Music (Found) · **Planned mix:** PROPOSAL Vol. 10 · **Visibility:** HIGH PRIORITY · **Downloaded:** No (MP3 online)
+- **Recording:** quarter-track mono 5" reel, found mid-1988 in Wallasey (Wirral); also an untitled instrumental and an instrumental "Blackbird". The file name `88r002_web_philomena.mp3` hints at a name.
+- **Background:** an anonymous songwriter's own songs on a discarded reel, kept by the EclectikTronik archive since 1988.
+- **Why it fits:** music nobody was meant to hear, saved by accident. The purest *Found* case.
+- **Rights / consent:** ⚠ unknown maker. Trace (Wallasey, "Philomena", song titles), post "is this yours?", hold royalties. "Blackbird" is a Lennon–McCartney composition and cannot be used.
+- **Listen:** http://www.mediafire.com/listen/dhvk93v950o44b2/88r002_web_philomena.mp3 · http://www.mediafire.com/listen/3z3oq162nxnh0n2/88r002_web_i_have_looked.mp3 · http://www.mediafire.com/listen/c307wit7matt7q8/88r002_web_untitled_instr.mp3
+- **Dossier:** discovery map `projects/insane-music/research/found-tape-blogs-small-web-2026-11-20.md`
+
+#### UK · "James Hanson", *War of the Worlds* reading with organ bleeps (EclectikTronik 87R001)
+
+- **Project:** Insane Music (Found; Unwanted voices) · **Planned mix:** PROPOSAL Vol. 10 · **Visibility:** HIGH PRIORITY · **Downloaded:** No (MP3 online)
+- **Recording:** reel on a Fidelity "Playmaster" recorder bought at a primary-school jumble sale, Gayton (Wirral), 1987; recorded c.1978–79.
+- **Background:** a young person reads *The War of the Worlds* into the mic, makes noises and plays electronic bleeps on a primitive organ. A one-person radio play.
+- **Why it fits:** weird and wonderful home invention; found audio that is not speech-only.
+- **Rights / consent:** ⚠ a named person, probably a minor at the time: trace and get consent before use. Wells is public domain.
+- **Listen:** http://www.mediafire.com/listen/s1por6lu8pvjc38/87R001+GAYTON.mp3
+- **Dossier:** discovery map `projects/insane-music/research/found-tape-blogs-small-web-2026-11-20.md`
+
+#### UK · Party singalong with percussion and poetry (EclectikTronik 86R001)
+
+- **Project:** Insane Music (Found) · **Planned mix:** PROPOSAL Vol. 10 · **Visibility:** PROMISING · **Downloaded:** No (MP3 online)
+- **Recording:** reel found with a Marconi recorder at a rubbish dump, Wirral, 1986; date unknown.
+- **Why it fits:** a room's racket rescued from the tip; music as communal noise.
+- **Rights / consent:** ⚠ check for identifiable private speech.
+- **Listen:** http://www.mediafire.com/listen/a2es821ug02ge9w/86R001+neston+POETRY.mp3
+- **Dossier:** discovery map `projects/insane-music/research/found-tape-blogs-small-web-2026-11-20.md`
+
+#### UK · Child's microphone test and distorted music on a rim-drive machine (EclectikTronik 87r003)
+
+- **Project:** Insane Music (Found audio) · **Visibility:** PROMISING · **Downloaded:** No
+- **Recording:** reel on a "Miny" rim-drive machine bought at a jumble sale, Willaston (Wirral); mid-1970s; three minutes of distorted music, then children on the mic.
+- **Rights / consent:** ⚠ children's voices; use the distorted-music passage only.
+- **Listen:** http://www.mediafire.com/listen/7m9ydfgxduqgqdw/87r003_rimdrive_full.mp3
+- **Dossier:** discovery map `projects/insane-music/research/found-tape-blogs-small-web-2026-11-20.md`
+
+#### Palestine / diaspora · Unknown Bedouin artists, dabke cassette (1980s)
+
+- **Project:** Insane Music (Found; diaspora shop tape) · **Planned mix:** PROPOSAL Vol. 10 · **Visibility:** PROMISING · **Downloaded:** No
+- **Recording:** a 1980s Palestinian Bedouin dabke cassette, artists unknown, played on WFMU *Bodega Pop* (Gary Sullivan), 30 Aug 2023.
+- **Why it fits:** Arab-world found tape; a wedding-music cassette with no names, crossing borders in shop bins.
+- **Rights / consent:** ⚠ trace the artists via the tape's label and stamp; Gary Sullivan, Moroccan Tape Stash.
+- **Sources:** https://ftp.wfmu.org/playlists/shows/131126
+- **Dossier:** discovery map `projects/insane-music/research/found-tape-blogs-small-web-2026-11-20.md`
+
+#### Context: Duy Khánh tape found in a thrift-store couch, San Jose, 1992
+
+- Played on *Bodega Pop* (guest DJ Papa Gentle, 29 Apr 2015). It is a commercial Vietnamese recording by a known star, so the find story is context, not the track. https://freeform.wfmu.org/playlists/shows/60440
 
 ---
 

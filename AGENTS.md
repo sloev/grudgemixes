@@ -93,7 +93,7 @@ If a task needs an ability you lack, finish the part you can do, write the exact
 - Cite sources next to claims; keep original spellings; state uncertainty and conflicts instead of resolving them by guesswork.
 - Keep research grade, project fit, audio availability, rights and consent as separate facts.
 - Nothing is cleared until the publisher says so. Flag (⚠) compositions or translations by people who died after 1955, unpublished field recordings, reissue restoration rights and living makers.
-- Recordings of patients, prisoners, detainees, Indigenous communities and private individuals need the makers' or their community's consent, not only an archive's permission. Never include private speech (diaries, voicemails, therapy or medical recordings) as a track.
+- Recordings of patients, prisoners, detainees, Indigenous communities and private individuals need the makers' or their community's consent, not only an archive's permission. Never include private speech (diaries, voicemails, taped letters, phone calls, therapy or medical recordings) as a track unless the speaker or family is traced and consents. Found **non-speech audio** (noise, machines, broadcasts caught on tape, home sound experiments) is admissible in *Found* under the found-tape rule in `MIXES.md` Vol. 10.
 - Never write mockingly about makers. Insane Music material is never tied to joke merchandise.
 
 ## 10. IDs

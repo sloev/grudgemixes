@@ -219,3 +219,10 @@ Continue extracting labeled film-mix cues from accessible IA sources (next: 60m-
   - Moroccan Tape Stash
 HANDOFF → web: pick 2–3 music tapes from EclectikTronik and one Bodega Pop diaspora tape as Vol. 10 candidates; recover Tape Findings from the Wayback Machine; find found-tape blogs in Japanese, Turkish, Indonesian and Russian.
 PARTIAL
+
+## 2026-11-20 — Claude: Found audio leads
+
+- Owner: "Can also just be found audio." *Found* (Vol. 10) now admits any audio. Private speech stays out without traced consent. Rule in MIXES.md and AGENTS.md §9.
+- LEADS §C5: 5 found-tape leads, best of them EclectikTronik 88r002 (anonymous singer-songwriter reel, Wallasey 1988) and 87R001 (*War of the Worlds* with organ bleeps); a Palestinian Bedouin dabke cassette via Bodega Pop. PROPOSAL in MIXES Vol. 10.
+HANDOFF → download: MediaFire MP3s listed in LEADS §C5 (shell blocked).
+PARTIAL

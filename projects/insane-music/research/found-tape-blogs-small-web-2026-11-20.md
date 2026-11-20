@@ -60,3 +60,11 @@ Already in the repo before this pass: demo-tapes-brasil.blogspot.com, cambodianc
 - https://boingboing.net/tag/cassette-tapes
 - https://cambodiancassettearchives.blogspot.com/
 - https://rrr.org.au/explore/news-articles/planet-of-the-tapes
+
+## Update (same day): pulled from the sources
+
+- **EclectikTronik:** of 14 tapes, 9 contain music (blog index). Five are now in LEADS §C5: 88r002 (unknown singer-songwriter reel, Wallasey 1988), 87R001 (*War of the Worlds* with organ bleeps, c.1978–79), 86R001 (party singalong from a rubbish dump), 87r003 (rim-drive distortion), plus context. Speech-only reels (taped letters from the Queen Mary, a planning meeting, phone calls) stay out under the private-speech rule.
+- **Bodega Pop:** a 1980s Palestinian Bedouin dabke cassette by unknown artists (30 Aug 2023 show); a tape found inside a thrift-store couch in San Jose in 1992 (context).
+- Owner decision 2026-11-20: *Found* takes any audio, not only music. Rule in MIXES.md Vol. 10.
+
+HANDOFF → download: fetch the MediaFire MP3s above (browser), checksum, and note "fetched, awaiting Drive upload". Ask the EclectikTronik author for reel transfers and any provenance notes on 88r002 and 87R001.
