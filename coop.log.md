@@ -113,6 +113,82 @@ Find and download additional early or relevant archival audio tracks related to 
 ### Handoff
 Continue highest-priority research or queue-preparation. Next film-mix extract if needed (58m-60m) or additional Stagger Lee / Jesse James / other grievance leads from IA/LOC free sources. All new research work directed to canonical grudgemixes workspace. Do not invent downloads. Verify reported files independently before promoting to FILE VERIFIED.
 
+## 2026-11-20 — balanced research batch
+
+- **Existing lead advanced:** GM-US-007 Ford and Ford, “Skeeg-A-Lee Blues” (1924). Added Rust's 6th-edition discography and the 2013 *Sing Out!* counter-assessment; fixed identity/date/provenance at C level and documented the unresolved Stagolee lyric link. Baseline status changed NOT STARTED → RESEARCHED-OPEN.
+- **New qualified lead:** GM-MX-003 Valentín Mancera corrido family. Added one C-level lead with separate 1905 Victor 97040 and circa-1920 Victor 72590-A recording witnesses, two COLMEX print witnesses and a later Columbia comparison copy. Alternate versions counted once.
+- **Discovery pass:** Spanish-language Mexican catalogues and scholarship; no additional item was counted beyond GM-MX-003. Ma Rainey's late-1925/1926 “Stack O'Lee Blues” retained as a related Stagger Lee-family comparison, not a separate lead.
+- **Blockers:** no authenticated lyric transcript, Victor label scan, surviving Victor copy or lawful transfer located; exact text-to-master match remains open. No audio was played, no archive contacted, no permission obtained.
+- **Next tasks:** advance GM-AM-006; seek Victor 97040/72590-A label/matrix evidence and lawful transfers; compare the COLMEX print witnesses with any authenticated recording text; rotate next discovery to another Spanish- or Arabic-language region.
+
+## 2026-11-20 — Grudge Mixes — GM-AM-006 Armenian score-source pass (DONE)
+
+### Bounded task claimed
+Advance the active Armenian baseline GM-AM-006 using a local-language institutional music source, without repeating the completed 1909/1910 discography distinction audit.
+
+### Findings
+- The National Library of Armenia digitized *Songs of Armenia* (1924) contains score No. 10 “Dalvorigtsi / The Son of Dalvorig”, with “M. Damadian” as author, “K. H. Aigouni” as arranger and “Marziale” as tempo marking. The score adds a pre-1926 printed arrangement witness to the 1896 Blackwell / Damadian text trail.
+- The score's English text is credited to Alice Stone Blackwell, so it is not an independent translation. The score's Latin transliteration and notation do not establish the exact lyrics or arrangement on the 1909 Columbia side.
+- The Armenian Museum's 1909 list still has “Dalvorig” with unknown matrix; its 1910 Tashjian Brothers E656 remains a separate object. The Museum page exposes a sample of “Hairenikt Mortsir”, not the 1909 “Dalvorig” recording.
+- GM-AM-006 remains B. No authorised direct audio/download route was found; no new READY FOR GROK request or mapping change.
+
+### Files
+- Updated leads/GM-AM-006-mardiros-tashjian-dalvorig-1909.md.
+- Updated research_method.md.
+- Updated README.md snapshot.
+- Appended this entry to coop.log.md.
+- TRACK_MAPPING.md and GROK_HANDOFF.md unchanged.
+
+### Next
+Find a primary 1909 Columbia label/runout or matrix-book record and an authorised item-level audio route; compare with the 1924 printed arrangement and 1910 E656 without merging versions. Then resume GM-MX-003 and baseline GM-AM-008.
+
+No audio was auditioned, downloaded or uploaded; no file inspected; no archive contacted; no purchase or rights clearance.
+
+### Process note — 2026-11-20
+The “Bounded task claimed” heading above records the task description, but this run did not pre-claim the task in this log before beginning web research. Treat the entry as a completed-work hand-off, not evidence of a pre-research claim. Future runs should append the bounded claim before substantial research; findings and statuses above are unchanged.
+
+
+## 2026-11-20 — Claude — Series plan and publisher clearance tracklist (Grudge Mixes + Insane Music)
+
+### Task
+Owner request: combine Grudge Mixes and Insane Music into one mixtape series that fits the grudgebook and spitebites.party; write the angle, tracklists with per-track notes, and a clearance list for the publisher; search for further marginalised recordings worldwide.
+
+### Files
+- Added `research/series-plan-grudge-mixes-x-insane-music-2026-11-20.md` (seven volumes: four Grudge Mixes, three Insane Music under the working title *Music in Spite*).
+- Added `research/series-clearance-tracklist-2026-11-20.md` (publisher clearance list; mirrors the shared sheet).
+- Appended this entry. No candidate, lead, catalogue or TRACK_MAPPING file was changed; no grade was upgraded.
+
+### New items (no project IDs assigned yet)
+- Ma Rainey, "Cell Bound Blues", Paramount 12257-A, 16 Oct 1924 (composer Rainey, d. 1939). Proposed for Vol. 3.
+- Jas Bahadur Rai, Nepali song, Halbmondlager 1916, Lautarchiv (PK number to find). Bridge item, Vol. 6.
+- Caruso & Ruffo, "Sì, pel ciel", Victor 89075, mx C-14272-1, 8 Jan 1914 (DAHR) and Titta Ruffo, "Cortigiani", Gramophone mx 2735f, 24 Nov 1908 (DAHR): Drive files now matched to candidate DAHR records; Drive file identity still unverified.
+- Lead Belly, "Governor O.K. Allen", Angola 1934 (context); Radio La Colifata, Hospital Borda (Insane Music lead).
+- Leads/context only: Ma Rainey "Chain Gang Blues" (⚠ Dorsey d. 1993); Georgian POW songs (Lautarchiv); Robben Island Singers (post-release recordings); Gakaara wa Wanjau detention songs (contextual register); "Kaulana Nā Pua" (no early recording found).
+- Null result: Korean-language search for Sorokdo Hansen's-disease residents' own recordings found none.
+- Clearance flags found: Ray Lopez (composer credit, Waring "Stack O'Lee Blues") died 1979 per DAHR, so the composition is protected in the EU until end 2049.
+
+### Status
+No audio auditioned, downloaded or uploaded; no archive contacted; nothing cleared. Editorial proposal for owner review.
+
+### Next
+Write dossiers and assign IDs for the new items; find the Lautarchiv PK number for Jas Bahadur Rai; locate a transfer of Paramount 12257-A; confirm the Drive Ruffo file is mx 2735f; open archive and community-consent requests for Vols. 5–7.
+
+## 2026-11-20 — Claude — *Music in Spite* universe expansion (owner direction)
+
+Owner widened *Music in Spite* to music made where it was not expected or tolerated, and asked for found art / found tapes. Added `research/music-in-spite-universe-2026-11-20.md`: eight territories (Banned, Scratched, Smuggled, Hidden, Confined, Unwelcome voices, Untaught, Found), a proposed found-tape rule, and provisional Vol. 8 (Banned, Scratched, Smuggled) and Vol. 9 (Found). Sources cited in the file. No IDs assigned, no audio auditioned, nothing cleared. Next: dossiers for Tirén cylinder 0212, a bone record, PPU, SABC-barred "Snor City" and "Change is Pain"; approach found-tape collectors.
+
+## 2026-11-20 — Claude — Discovery pass (b)
+
+Added `research/discovery-pass-2026-11-20b.md`. Headline lead (unverified): an 1889 proposal by Dr Maurice Dupont to record patients' delusions and a reported c.1908 recording collection at Sainte-Anne hospital, Paris — potentially the earliest psychiatric-pathway item for Insane Music. Other leads: Montéhus "Gloire au 17e" (1907 mutiny song), Dalhart "The Prisoner's Song" (prison-origin song, Victor 19427, 1924), Texas Prison Rodeo albums (Marshall Project), Lomax prison recordings (Kelly Pace 1934, Jimmie Strothers 1936). Page-fetch tool hit a usage limit; items confirmed from search text only. No IDs, no audio, nothing cleared.
+
+## 2026-11-20 — ChatGPT — IM-054 Eunpyeong local-language verification (CLAIMED)
+
+### Bounded task
+Advance the existing non-prison Insane Music lead IM-054 (은평병원 / Art Brut Music) using Korean-language primary or institutional sources. Verify whether the source supports a patient-created recording corpus, identify stable item-level URLs or publication details, and record bounded negative results. No new ID unless the existing record is confirmed as the same corpus.
+
+### Planned scope
+Search Korean institutional/news/arc[+7971 bytes at .content[1].resource.text]
+
 ## 2026-11-20 — Grok — deposited Kancheli 58m-60m film-mix excerpt
 
 ### Task claimed
