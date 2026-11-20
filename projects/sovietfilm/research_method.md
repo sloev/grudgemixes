@@ -288,3 +288,20 @@ No item is READY FOR DRIVE. No Drive file, public tracker or audio asset was cha
 - Date conflict remains explicit: 1965 production/poster metadata versus 1966 in later listing/file metadata.
 
 Next exact action: locate Lagidze score/parts or an authorized film print; determine whether the 1TV item contains original film audio, a later performance, or discussion. No audio was auditioned or collected.
+
+## 2026-11-20 regional case and version audit
+
+### Existing baseline advanced
+
+- **Kosmicheskiy reys (1935 / official premiere 1936):** full text of the 2026 Yusupova article checked. It separates the 1998 concert version, a full film-synchronized score implied circa 2013, and a hybrid Pokrovsky Ensemble live-plus-recorded presentation. The late-1930s “Oblivion” tango is an anachronistic cue marker; none of these versions is the original 1935 accompaniment. The article's cited 2009 source is missing from its bibliography, so the 15-year timeline remains provisional. Baseline remains RESEARCHED-OPEN; no status change.
+
+### New qualified lead
+
+- **SF-LT-001 — Velnio nuotaka (The Devil's Bride), Lithuanian SSR:** one film-level lead, with SF-AUD-014 for the 1976 Melodiya studio album and its 2000 CD/cassette editions. LFC dates the film 1974; an LNB 2022 programme uses 1976. The 1976 studio album, 2000 corrected CD/cassette, 2003/2011 stage productions, 2025 live accompaniment announcement and 2025 audio-described version are separate objects/versions, not separate leads. Original print audio and cue-level score remain unverified.
+
+### Next exact tasks
+
+1. Advance baseline SF-KG-001 as the next existing case.
+2. For SF-LT-001, obtain LFC print/sound metadata and score/cue sheets; compare film print to 1976 LP and 2000 corrected CD/cassette; resolve 1974/1976 dating.
+3. Verify whether the announced 2025 live accompaniment occurred and whether a performance recording survives; inspect the 2025 audio-description version as a separate accessibility layer.
+4. Rotate the next regional discovery toward Ukrainian SSR or Moldavian SSR, with local-language film and score catalogues; do not let Lithuanian or Moscow material crowd out regional cinema.
