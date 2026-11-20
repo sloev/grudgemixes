@@ -1398,3 +1398,25 @@ The MMDH Archivo Radial search now provides two separate records for the same Ch
 6. **Non-prison/global balance:** continue IM-038/039 and the non-institutional/local-language queue only where exact extant recording and project pathway are documented; preserve the earlier UPCE, Cordillera and Brazil cassette constraints.
 
 This checkpoint supersedes the 2026-11-17 “NEXT” note for ordering; it does not mark any unresolved archive task complete. No audio was auditioned/downloaded/uploaded, no archive contacted and no rights cleared.
+
+## 2026-11-20 checkpoint — Vienna Phonogrammarchiv audit and adjacent Berlin Lautarchiv lead
+
+### Bounded findings
+- The public item-level pass over Vienna Phonogrammarchiv Series 17/1–5 did not verify a new call number beyond the already recorded **Ph 2647** (Isaak Isaakon, Psalm 126 / “Shirat tsiyon” and fragment of “Hatikvah”, Theresienstadt, catalogue/recording date 6 October 1915). The official series description confirms the five language/community volumes and their CD plus data-CD protocol editions, but the item-level music list/data-CD scans still need examination.
+- A separate, new Berlin **Lautarchiv** cluster is now documented in environment-leads.md: PK 477/1 “Das Lied des Sergo” (archive genre tag “Revolutionslied”) and PK 477/2 “Soldatenlied”, with related extant PK 478 and PK 481/1–2 performances by the same singer, catalogue form “Der Gregorianz, Lewon”, at Mannheim, dated 1 November 1916. The same-singer records also list lost music items; do not count them as extant.
+- This is **not** Vienna Phonogrammarchiv Ph 2647 and **not** the Berlin Phonogramm-Archiv wax-cylinder corpus. The Lautarchiv's own holdings guide explicitly says songs occur among its WWI POW recordings and identifies a substantial music-disc component. Refine the earlier speech-only shorthand without merging these distinct archives.
+- The Lautarchiv item pages tag Mannheim and “Internierungslager”; its holdings guide describes the WWI POW-camp corpus, while a separate 1916 Staatliche Museen zu Berlin Phonographic Commission object identifies Mannheim as a German POW camp. Treat this as strong context, but confirm the exact camp/site and the singer's individual status from the personnel documentation.
+- The archive's usage policy says the catalogue is open, only selected audio is online, further recordings require contact, MP3 access follows contact and WAV may be supplied for publications/presentations. No direct audio/download route, permission or contact was obtained.
+- No new IM-ID assigned: the designated projects/insanemusic catalogue ends at IM-051, while a separate projects/insane-music redirect-copy contains IM-052–054 and an IM-001 update. Per the canonical workspace routing rules, do not assume those records are migrated or assign a conflicting ID until the canonical sequence is reconciled.
+
+### Next exact queue
+1. **Austria / Phonogrammarchiv:** inspect the official Series 17/1–5 data-CD protocol scans and item-level track listings; add only individually verified music items, retaining language/community, camp, date and coercive research context.
+2. **Berlin / Lautarchiv:** with owner approval, request PK 477/1 and companion documentation; confirm personal sheet, camp/site, original-language text/translation, recording date and item-specific audio access. No contact made.
+3. **Chile / Chacabuco:** obtain MMDH internal IDs and stable detail/player URLs for the separate 23:36 and 2:03 objects; preserve song/credit discrepancies.
+4. **Japan / Aoi-tori:** establish whether Abe's announced 2025 collection/listening selection was completed, delayed, renamed or privately circulated; keep the historical sound sources separate.
+5. **TLM Canada / Effect:Hope:** obtain item-level AV inventory for six location tape groups and compare “More Than a Prophet” materials without assuming identity or music.
+6. **Nigeria / Uzuakoli:** seek Manton's 2015 source log and primary label/matrix/personnel evidence for ARC 1059/1106; do not use the unlicensed rip.
+7. **Global non-prison balance:** continue exact local-language discoveries only where an extant recording and a qualifying pathway are documented.
+
+No audio was auditioned, downloaded or uploaded; no archive was contacted; no rights were cleared; no Grok request was added.
+
