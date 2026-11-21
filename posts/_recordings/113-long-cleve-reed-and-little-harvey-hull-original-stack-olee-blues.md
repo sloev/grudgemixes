@@ -14,6 +14,7 @@ medium: ""
 tags:
   - "the-account"
 recording_url: "https://www.youtube.com/watch?v=Qvou3yCH1U4"
+recording_verified: true
 urls:
   - "https://www.youtube.com/watch?v=Qvou3yCH1U4"
   - "https://www.wirz.de/music/hullph.htm"
