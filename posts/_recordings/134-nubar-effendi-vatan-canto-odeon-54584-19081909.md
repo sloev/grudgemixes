@@ -1,15 +1,16 @@
 ---
 type: recording
+why_outsider: "A rare commercial recording of constitutional hopes voiced in Ottoman popular song after the Young Turk Revolution."
 title: "Nubar Effendi, “Vatan Canto” (Odeon 54584, 1908–1909)"
 slug: "nubar-effendi-vatan-canto-odeon-54584-19081909"
 date: "2026-11-20"
-draft: true
-summary: "The archive publishes Turkish lyrics and an English translation. The refrain reads: Proposed role: Constitutional-revolution context / freedom-and-equality rhetoric Why it fits / decision: The recording is dated 1908–1909 in Constantinople and celebrates the constitutional-era language of freedom, justice, equality and nation. It belongs alongside the 1908 “Marche Huriet” as evidence of the musical rhetoric circulating around the Young Turk / constitutional revolution."
+draft: false
+summary: "Nubar Effendi’s Odeon recording celebrates the restoration of the Ottoman Constitution with a refrain for freedom, justice, equality and homeland."
 who: "Nubar Effendi"
-when: "1908"
-where: ""
-country: ""
-what: "“Vatan Canto” (Odeon 54584, 1908–1909)"
+when: "1908–1909"
+where: "Constantinople (Istanbul), Ottoman Empire"
+country: "Ottoman Empire"
+what: "“Vatan Canto” (Odeon 54584, matrix Cx 1952)"
 medium: "78 rpm disc"
 tags:
   - "the-account"
@@ -20,15 +21,4 @@ urls:
   - "https://kounadisomeka.aegean.gr/files/original/114c55e8fa4f16e98f6725bfb0f341ae.mp3"
   - "https://vmrebetiko.gr/en/item-en/?id=11154"
 ---
-
-The archive publishes Turkish lyrics and an English translation. The refrain reads:
-
-**Proposed role:** Constitutional-revolution context / freedom-and-equality rhetoric
-
-**Why it fits / decision:** The recording is dated 1908–1909 in Constantinople and celebrates the constitutional-era language of freedom, justice, equality and nation. It belongs alongside the 1908 “Marche Huriet” as evidence of the musical rhetoric circulating around the Young Turk / constitutional revolution.
-
-## To do
-
-- Rewrite the story in plain blog voice (80–200 words): who, what, when, the wrong, and why it belongs here.
-- Check every fact against the sources in `urls`; fill `who`, `when`, `where`, `what` precisely.
-- Find a public `recording_url` (archive, label, YouTube, Internet Archive) if one exists.
+*Vatan* means homeland. The Kounadis Archive dates Nubar Effendi’s Odeon 54584 to Constantinople in 1908–09, after the Young Turk Revolution and the restoration of the 1876 constitution. The Turkish lyrics invite citizens to rejoice and repeat a refrain: freedom, justice, equality, nation; long live the homeland. The archive preserves both the original recording and an English translation. Its melody also travelled across language communities, reappearing in related Turkish and Ladino songs. This 78 is a sound document of the constitutional hopes that moved through the Ottoman city’s popular music scene.
