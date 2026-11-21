@@ -14,6 +14,7 @@ medium: "wax cylinder"
 tags:
   - "the-account"
 recording_url: "https://wwws.loc.gov/folklife/Gordon/sound/Singlegirl.mp3"
+recording_verified: true
 urls:
   - "https://wwws.loc.gov/folklife/Gordon/AnnotationsandTexts.html"
   - "https://wwws.loc.gov/folklife/Gordon/sound/Singlegirl.mp3"
