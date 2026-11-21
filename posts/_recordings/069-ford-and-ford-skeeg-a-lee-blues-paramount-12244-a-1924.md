@@ -13,7 +13,7 @@ what: "“Skeeg-A-Lee Blues” (Paramount 12244-A, 1924)"
 medium: ""
 tags:
   - "the-account"
-recording_url: ""
+recording_url: "https://www.youtube.com/watch?v=PwGNzCkJ-tk"
 urls:
   - "https://www.jazzresearch.se/upl/website/page-1/LadnierDiscographyDecember620222.pdf"
   - "https://socialhistoryofamericanmusic.com/wp-content/uploads/2023/02/42-The-Bigger-Bang-pt.-3-Folk-Blues.pdf"
