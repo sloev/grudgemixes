@@ -10,7 +10,6 @@ tracks:
   - "jas-bahadur-rai-nepali-song-1916"
   - "partheni-camp-leros-the-songs-of-exile-c197071"
   - "los-de-chacabuco"
-  - "tinka-tinka-jail-radio-music-in-jail-prison-song-corpus-jind-deh"
 ---
 
 Camps and detention, 1915 to 2017; some singers were recorded against their will, others recorded against the state's will.
