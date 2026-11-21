@@ -60,13 +60,21 @@ jobs:
               return re.sub(r'[^a-z0-9]+', '-', s).strip('-')[:85] or 'post'
 
           def get(url, timeout=10):
-              try:
-                  r = session.get(url, timeout=timeout, allow_redirects=True)
-                  r.raise_for_status()
-                  return r
-              except Exception as e:
-                  print(f'FETCH ERROR {url}: {e}')
-                  return None
+              for attempt in range(2):
+                  try:
+                      r = session.get(url, timeout=timeout, allow_redirects=True)
+                      if r.status_code == 429 and attempt == 0:
+                          time.sleep(2)
+                          continue
+                      r.raise_for_status()
+                      return r
+                  except Exception as e:
+                      if attempt == 0 and getattr(getattr(e, 'response', None), 'status_code', 0) in (429, 500, 502, 503, 504):
+                          time.sleep(2)
+                          continue
+                      print(f'FETCH ERROR {url}: {e}')
+                      return None
+              return None
 
           def image_bytes(url):
               if not url or not url.startswith(('http://', 'https://')):
@@ -142,7 +150,7 @@ jobs:
               return None
 
           def loc_search(query):
-              params = {'q': query, 'fo': 'json', 'c': 15}
+              params = {'q': query, 'fo': 'json', 'c': 10}
               try:
                   data = get('https://www.loc.gov/photos/?' + requests.compat.urlencode(params))
                   if not data:
@@ -163,6 +171,37 @@ jobs:
                               return found[0], found[1], clean(item.get('title')), item.get('id', 'https://www.loc.gov/')
               except Exception as e:
                   print(f'LOC ERROR {query}: {e}')
+              return None
+
+          def commons_search(query):
+              params = {
+                  'action': 'query',
+                  'generator': 'search',
+                  'gsrsearch': query,
+                  'gsrnamespace': 6,
+                  'gsrlimit': 12,
+                  'prop': 'imageinfo',
+                  'iiprop': 'url|extmetadata',
+                  'iiurlwidth': 1200,
+                  'format': 'json'
+              }
+              try:
+                  r = get('https://commons.wikimedia.org/w/api.php?' + requests.compat.urlencode(params))
+                  if not r:
+                      return None
+                  pages = r.json().get('query', {}).get('pages', {})
+                  qt = tokens(query)
+                  for item in pages.values():
+                      label = clean(item.get('title', ''))
+                      if not relevant(qt, label):
+                          continue
+                      info = (item.get('imageinfo') or [{}])[0]
+                      img = info.get('thumburl') or info.get('url')
+                      found = image_bytes(img)
+                      if found:
+                          return found[0], found[1], label, img
+              except Exception as e:
+                  print(f'COMMONS ERROR {query}: {e}')
               return None
 
           def archive_search(query):
@@ -263,14 +302,14 @@ jobs:
               links = collect_links(front, raw[match.end():])
               result = from_linked_sources(links, query)
               if not result:
-                  for q in [title[:120], ' '.join(list(tokens(query))[:6])]:
+                  for q in [title[:120]]:
                       if q.strip():
                           result = loc_search(q)
                           if result: break
               if not result:
-                  result = archive_search(query)
+                  result = commons_search(query)
               if not result:
-                  result = met_search(' '.join(list(tokens(query))[:5]))
+                  result = archive_search(query)
               if not result:
                   missing.append(str(post))
                   print(f'NO IMAGE FOUND: {post}')
@@ -309,7 +348,7 @@ jobs:
                       old_file.unlink()
               downloaded += 1
               print(f'DOWNLOADED {filename} for {post} from {source_url}')
-              time.sleep(0.15)
+              time.sleep(0.35)
 
           print(f'POSTS SCANNED: {len(posts)}; REAL IMAGES DOWNLOADED: {downloaded}; POSTS STILL WITHOUT A REAL IMAGE: {len(missing)}')
           Path('missing-post-images.txt').write_text('\n'.join(missing) + ('\n' if missing else ''), encoding='utf-8')
