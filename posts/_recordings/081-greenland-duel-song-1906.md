@@ -13,7 +13,7 @@ what: "Duel song (drum-song duel), wax cylinder"
 medium: "wax cylinder"
 tags:
   - "fighting-words"
-recording_url: "https://www.youtube.com/watch?v=sms3ipVqvbI"
+recording_url: "https://subrosalabel.bandcamp.com/track/duel-song-2"
 recording_verified: true
 urls:
   - "https://www.qobuz.com/be-nl/album/55-historical-recordings-traditional-music-from-greenland-1905-1987-inuit/3700368473139"
