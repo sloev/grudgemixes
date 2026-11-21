@@ -1,4 +1,4 @@
-name: Enforce pre-2001 recording cutoff
+name: Enforce pre-2000 outsider catalogue rules
 
 on:
   push:
