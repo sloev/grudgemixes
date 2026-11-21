@@ -1,17 +1,17 @@
 ---
 type: recording
-title: "Tuskegee Institute Singers, "I've Been 'Buked" (Victor 18447, 1918)"
+title: "Tuskegee Institute Singers, \"I've Been 'Buked\" (Victor 18447, 1918)"
 slug: "tuskegee-institute-singers-ive-been-buked-victor-1916"
 date: "2026-11-20"
 draft: true
-summary: "A male student vocal quartet from Tuskegee recorded this spiritual for Victor in 1916."
+summary: "A male student vocal quartet from Tuskegee recorded this spiritual for Victor; Victor 18447 pairs it with \"Most Done Travelling\" and was issued in 1918."
 who: "Tuskegee Institute Singers"
 when: "1918"
 active_until: "1927"
 why_outsider: "A Black student spiritual quartet from an HBCU, recorded within a segregated commercial music industry that marginalised Black sacred music and its performers."
 where: "Tuskegee Institute, Alabama, USA"
 country: "USA"
-what: ""I've Been 'Buked and I've Been Scorned" / "Most Done Travelling" (Victor 18447, 1918)"
+what: "\"I've Been 'Buked and I've Been Scorned\" / \"Most Done Travelling\" (Victor 18447, 1918)"
 medium: "78 rpm disc"
 tags:
   - "the-account"
