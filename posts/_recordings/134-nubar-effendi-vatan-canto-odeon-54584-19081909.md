@@ -13,8 +13,10 @@ what: "“Vatan Canto” (Odeon 54584, 1908–1909)"
 medium: "78 rpm disc"
 tags:
   - "the-account"
-recording_url: ""
+recording_url: "https://kounadisomeka.aegean.gr/files/original/114c55e8fa4f16e98f6725bfb0f341ae.mp3"
 urls:
+  - "https://vmrebetiko.aegean.gr/en/item-en/?id=11154"
+  - "https://kounadisomeka.aegean.gr/files/original/114c55e8fa4f16e98f6725bfb0f341ae.mp3"
   - "https://vmrebetiko.gr/en/item-en/?id=11154"
 ---
 
