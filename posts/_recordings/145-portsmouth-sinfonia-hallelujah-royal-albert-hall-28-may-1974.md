@@ -13,8 +13,9 @@ what: "*Hallelujah!* (Royal Albert Hall, 28 May 1974)"
 medium: ""
 tags:
   - "unwanted"
-recording_url: ""
+recording_url: "https://wfmu.org/archiveplayer/?archive=295561&show=169210"
 urls:
+  - "https://wfmu.org/playlists/shows/169210"
   - "https://en.wikipedia.org/wiki/Portsmouth_Sinfonia"
 ---
 
