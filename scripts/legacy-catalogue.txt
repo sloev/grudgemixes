@@ -20,7 +20,6 @@ posts/_recordings/058-david-boder-songs-recorded-in-henonville-dp-camp-ushmm-rg-
 posts/_recordings/059-dr-maurice-dupont-sainte-anne-hospital-phonograph-recordings-of.md
 posts/_recordings/060-drapchi-14-nuns-cassette.md
 posts/_recordings/061-echidna-aukstyn-tape.md
-posts/_recordings/062-edison-talking-doll-cylinder-1888.md
 posts/_recordings/063-egypt-dinshaway-mawwal-ballad-tradition-1906.md
 posts/_recordings/066-ernie-althoffs-binaural-cassettes-clifton-hill-community-music-c.md
 posts/_recordings/069-ford-and-ford-skeeg-a-lee-blues-paramount-12244-a-1924.md
