@@ -13,7 +13,7 @@ what: "Clifton Hill Community Music Centre"
 medium: ""
 tags:
   - "made-anyway"
-recording_url: ""
+recording_url: "https://www.listeningtothearchive.com/artists/ernie-althoff"
 urls:
   - "https://www.listeningtothearchive.com/artists/ernie-althoff"
 images:
