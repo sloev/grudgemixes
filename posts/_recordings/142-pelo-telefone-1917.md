@@ -14,6 +14,7 @@ medium: "78 rpm disc"
 tags:
   - "out-of-turn"
 recording_url: "https://discografiabrasileira.com.br/fonograma/4669/pelo-telefone"
+recording_verified: true
 urls:
   - "https://discografiabrasileira.com.br/fonograma/4669/pelo-telefone"
   - "https://ims.com.br/2023/10/09/little-africas-qr-code-17/"
