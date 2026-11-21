@@ -13,8 +13,10 @@ what: "song-poem recordings (Preview / MSR, late 1960s–1974)"
 medium: ""
 tags:
   - "unwanted"
-recording_url: "https://songpoemmusic.com/comps/idied_nt.htm"
+recording_url: "https://audiomack.com/rodd-keith/album/i-died-today"
 urls:
+  - "https://audiomack.com/rodd-keith/album/i-died-today"
+  - "https://music.apple.com/us/album/i-died-today/1189731892"
   - "https://freeform.wfmu.org/LCD/18/rodd.html"
 ---
 
