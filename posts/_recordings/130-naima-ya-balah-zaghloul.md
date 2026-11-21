@@ -14,6 +14,7 @@ medium: "78 rpm disc"
 tags:
   - "fighting-words"
 recording_url: "https://www.amar-foundation.org/ar/artists/%D9%86%D8%B9%D9%8A%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9/"
+recording_verified: true
 urls:
   - "https://www.amar-foundation.org/ar/artists/%D9%86%D8%B9%D9%8A%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9/"
   - "https://soundcloud.com/esmmatalneemr/ojkmzzlun1qt"
