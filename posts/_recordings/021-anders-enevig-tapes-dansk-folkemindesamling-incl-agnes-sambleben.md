@@ -14,6 +14,7 @@ medium: ""
 tags:
   - "made-anyway"
 recording_url: "https://www.danishimmigrationmuseum.com/the-romani-people-travellers/"
+recording_verified: true
 urls:
   - "https://biografiskleksikon.lex.dk/Anders_Enevig"
   - "https://www.danishimmigrationmuseum.com/the-romani-people-travellers/"
