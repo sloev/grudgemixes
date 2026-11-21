@@ -1,16 +1,16 @@
 ---
 type: recording
-title: "Ernie Althoff's binaural cassettes, Clifton Hill Community Music Centre"
+title: "Ernie Althoff’s binaural cassette archive (Clifton Hill, 1976–83)"
 slug: "ernie-althoffs-binaural-cassettes-clifton-hill-community-music-c"
 date: "2026-11-20"
-draft: true
-summary: "Where and when: Melbourne, Australia; Date(s): 1976–83; Medium: Cassette"
+draft: false
+summary: "Ernie Althoff recorded performances at Melbourne’s Clifton Hill Community Music Centre on binaural cassettes between 1976 and 1983. The tapes preserve a local experimental scene that largely escaped commercial and academic institutions."
 who: "Ernie Althoff's binaural cassettes"
-when: "1976"
-where: "Melbourne, Australia"
+when: "1976–1983"
+where: "Clifton Hill, Melbourne, Australia"
 country: "Australia"
-what: "Clifton Hill Community Music Centre"
-medium: ""
+what: "Binaural cassette recordings of performances at Clifton Hill Community Music Centre"
+medium: "Binaural cassette"
 tags:
   - "made-anyway"
 recording_url: "https://www.listeningtothearchive.com/artists/ernie-althoff"
@@ -23,8 +23,5 @@ images:
 
 **Where and when:** Melbourne, Australia; Date(s): 1976–83; Medium: Cassette
 
-## To do
 
-- Rewrite the story in plain blog voice (80–200 words): who, what, when, the wrong, and why it belongs here.
-- Check every fact against the sources in `urls`; fill `who`, `when`, `where`, `what` precisely.
-- Find a public `recording_url` (archive, label, YouTube, Internet Archive) if one exists.
+In Melbourne, the Clifton Hill Community Music Centre became a refuge for experimental performance between 1976 and 1983. Ernie Althoff, himself a regular performer, took it upon himself to record concerts binaurally on cassette. The archive is partial—Althoff chose what to record—but it captures a scene moving between improvisation, tape manipulation, spoken word, minimalism and homemade electronics. The tapes sat on a shelf for more than 40 years before being transferred and organised in 2020–21. The listening link opens the archive, where Althoff’s own performances and those of his peers can be played.
