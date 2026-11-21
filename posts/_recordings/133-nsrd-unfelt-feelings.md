@@ -14,6 +14,7 @@ medium: "cassette"
 tags:
   - "unwanted"
 recording_url: "https://stroomtv.bandcamp.com/album/the-workshop-for-the-restoration-of-unfelt-feelings"
+recording_verified: true
 urls:
   - "https://en.wikipedia.org/wiki/NSRD"
   - "https://post.moma.org/working-with-peripheries-workshop-for-the-restoration-of-unfelt-feelings/"
