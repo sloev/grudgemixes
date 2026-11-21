@@ -59,7 +59,7 @@ jobs:
               s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode().lower()
               return re.sub(r'[^a-z0-9]+', '-', s).strip('-')[:85] or 'post'
 
-          def get(url, timeout=10):
+          def get(url, timeout=6):
               for attempt in range(2):
                   try:
                       r = session.get(url, timeout=timeout, allow_redirects=True)
@@ -79,7 +79,7 @@ jobs:
           def image_bytes(url):
               if not url or not url.startswith(('http://', 'https://')):
                   return None
-              r = get(url, 12)
+              r = get(url, 8)
               if not r:
                   return None
               mime = r.headers.get('Content-Type', '').split(';')[0].lower()
@@ -101,7 +101,7 @@ jobs:
               return len(found) >= 2 and len(found) / max(1, len(query_tokens)) >= 0.30
 
           def from_linked_sources(urls, query):
-              for page_url in urls[:4]:
+              for page_url in urls[:2]:
                   if not page_url.startswith(('http://', 'https://')):
                       continue
                   parsed = urlparse(page_url)
@@ -210,7 +210,7 @@ jobs:
                   return None
               # Query exact title terms first; image records only.
               terms = ' AND '.join('title:' + quote(w) for w in words[:5])
-              params = {'q': f'mediatype:image AND ({terms})', 'fl[]': ['identifier', 'title'], 'rows': 12, 'page': 1, 'output': 'json'}
+              params = {'q': f'mediatype:image AND ({terms})', 'fl[]': ['identifier', 'title'], 'rows': 6, 'page': 1, 'output': 'json'}
               try:
                   r = get('https://archive.org/advancedsearch.php?' + requests.compat.urlencode(params, doseq=True))
                   if not r:
@@ -229,7 +229,7 @@ jobs:
                           continue
                       files = meta_r.json().get('files', [])
                       files = sorted(files, key=lambda x: (0 if x.get('name', '').lower().endswith(('.jpg', '.jpeg', '.png')) else 1, 0 if 'cover' in x.get('name', '').lower() else 1))
-                      for f in files[:30]:
+                      for f in files[:10]:
                           name = f.get('name', '')
                           if not name.lower().endswith(('.jpg', '.jpeg', '.png', '.webp')):
                               continue
