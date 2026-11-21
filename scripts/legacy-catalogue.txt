@@ -4,10 +4,6 @@ posts/_recordings/031-bentley-ball-jesse-james-1919.md
 posts/_recordings/032-bezazian-bam-porotan-1916.md
 posts/_recordings/035-bone-music-roentgenizdat.md
 posts/_recordings/036-bronisław-piłsudskis-wax-cylinders-190205.md
-posts/_recordings/037-bruce-jackson-field-recordings-prison-songs-smithsonian-asch-ite.md
-posts/_recordings/038-bruce-jackson-indiana-prison-songs-reels-12.md
-posts/_recordings/039-bruce-jackson-indiana-state-prison-tapes-1962.md
-posts/_recordings/040-bruce-jackson-texas-prison-farm-work-songs-afc-2011009-sr0782-sr.md
 posts/_recordings/041-çakum-effendi-malandanzas-del-asker-gramophone-11-12734-1911.md
 posts/_recordings/045-cassettes-from-the-198291-kurdish-language-ban.md
 posts/_recordings/047-cencerrada-rough-music.md
