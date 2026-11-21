@@ -27,4 +27,4 @@ urls:
   - "https://thedocumentrecordsstore.com/product/tuskagee-institute-singers-quartet-1914-1927/"
   - "https://academic.oup.com/mississippi-scholarship-online/book/62191/chapter-abstract/549579026"
 ---
-A male student quartet from Tuskegee Institute recorded this spiritual for Victor; discography identifies the paired issue as Victor 18447, issued in April 1918. Their recordings carried African American sacred music into a commercial industry that routinely filtered Black performers through white expectations.
+The Tuskegee Institute Singers were a male student quartet whose unaccompanied spirituals carried Black sacred music into the commercial 78-rpm market. On Victor 18447, they paired “I’ve Been ’Buked and I’ve Been Scorned” with “Most Done Travelling.” The disc was issued in April 1918; the Library of Congress gives the recording date as 1917 or 1918. Their close harmony keeps the performance spare: no orchestra, only four voices turning a spiritual into testimony. The listening link is a later Document Records reissue of the original Victor master.
