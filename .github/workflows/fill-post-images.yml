@@ -88,7 +88,11 @@ jobs:
                   return None
               return r.content, IMAGE_TYPES[mime]
 
-          def from_linked_sources(urls):
+          def relevant(query_tokens, label):
+              found = query_tokens & tokens(label)
+              return len(found) >= 2 and len(found) / max(1, len(query_tokens)) >= 0.30
+
+          def from_linked_sources(urls, query):
               for page_url in urls[:4]:
                   if not page_url.startswith(('http://', 'https://')):
                       continue
@@ -100,13 +104,21 @@ jobs:
                       continue
                   ctype = page.headers.get('Content-Type', '').lower()
                   if ctype.startswith('image/'):
+                      if not relevant(tokens(query), urlparse(page.url).path):
+                          continue
                       found = image_bytes(page.url)
                       if found:
-                          return found[0], found[1], page.url, page.url
+                          return found[0], found[1], urlparse(page.url).path, page.url
                       continue
                   if 'html' not in ctype and not page.text.lstrip().startswith('<'):
                       continue
                   soup = BeautifulSoup(page.text[:2500000], 'html.parser')
+                  page_title = clean((soup.title.string if soup.title else '') or '')
+                  meta_title = soup.find('meta', attrs={'property': 'og:title'})
+                  meta_desc = soup.find('meta', attrs={'name': 'description'}) or soup.find('meta', attrs={'property': 'og:description'})
+                  page_context = ' '.join([page_title, clean(meta_title.get('content') if meta_title else ''), clean(meta_desc.get('content') if meta_desc else '')])
+                  if not relevant(tokens(query), page_context):
+                      continue
                   candidates = []
                   for attr in ('property', 'name', 'itemprop'):
                       for key in ('og:image', 'twitter:image', 'image'):
@@ -122,9 +134,11 @@ jobs:
                               candidates.append((src, alt))
                   for raw, alt in candidates[:6]:
                       img_url = urljoin(page.url, raw.strip())
+                      if alt and not relevant(tokens(query), alt + ' ' + img_url):
+                          continue
                       found = image_bytes(img_url)
                       if found:
-                          return found[0], found[1], img_url, page.url
+                          return found[0], found[1], page_title or alt or 'Relevant source image', page.url
               return None
 
           def loc_search(query):
@@ -138,7 +152,7 @@ jobs:
                   for item in results:
                       label = clean(item.get('title', ''))
                       score = len(qt & tokens(label)) / max(1, len(qt))
-                      if score < 0.18:
+                      if score < max(0.30, 2 / max(1, len(qt))):
                           continue
                       imgs = item.get('image_url') or []
                       if isinstance(imgs, str):
@@ -169,7 +183,7 @@ jobs:
                       if not ident:
                           continue
                       score = len(qt & tokens(label)) / max(1, len(qt))
-                      if score < 0.18:
+                      if score < max(0.30, 2 / max(1, len(qt))):
                           continue
                       meta_r = get('https://archive.org/metadata/' + quote(ident, safe=''))
                       if not meta_r:
@@ -201,7 +215,7 @@ jobs:
                       obj = obj_r.json()
                       label = clean(obj.get('title', ''))
                       score = len(qt & tokens(label)) / max(1, len(qt))
-                      if score < 0.2:
+                      if score < max(0.30, 2 / max(1, len(qt))):
                           continue
                       img = obj.get('primaryImage') or obj.get('primaryImageSmall')
                       found = image_bytes(img)
@@ -220,7 +234,7 @@ jobs:
                       for x in v: walk(x)
                   elif isinstance(v, dict):
                       for x in v.values(): walk(x)
-              walk(front)
+              walk({k: v for k, v in front.items() if k != 'images'})
               links.extend(re.findall(r'https?://[^\s\]\)\\"\']+', body))
               out = []
               for x in links:
@@ -247,7 +261,7 @@ jobs:
               what = str(front.get('what') or '')
               query = ' '.join(x for x in (title, who, what) if x)[:180]
               links = collect_links(front, raw[match.end():])
-              result = from_linked_sources(links)
+              result = from_linked_sources(links, query)
               if not result:
                   for q in [title[:120], ' '.join(list(tokens(query))[:6])]:
                       if q.strip():
@@ -298,8 +312,15 @@ jobs:
               time.sleep(0.15)
 
           print(f'POSTS SCANNED: {len(posts)}; REAL IMAGES DOWNLOADED: {downloaded}; POSTS STILL WITHOUT A REAL IMAGE: {len(missing)}')
-          if missing:
-              Path('missing-post-images.txt').write_text('\n'.join(missing) + '\n', encoding='utf-8')
+          Path('missing-post-images.txt').write_text('\n'.join(missing) + ('\n' if missing else ''), encoding='utf-8')
+          referenced = set()
+          for post in posts:
+              post_text = post.read_text(encoding='utf-8')
+              referenced.update(re.findall(r'(?<![A-Za-z0-9_])media/[A-Za-z0-9_.-]+', post_text))
+          for asset in MEDIA.iterdir():
+              if asset.is_file() and asset.name != '.gitkeep' and str(asset) not in referenced:
+                  asset.unlink()
+                  print(f'REMOVED ORPHAN IMAGE: {asset}')
           PY
       - name: Commit all real images found and report any remaining gaps
         run: |
