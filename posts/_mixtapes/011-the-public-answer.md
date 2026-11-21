@@ -8,11 +8,8 @@ description: "When the law fails or is not trusted, the ballad becomes the court
 tracks:
   - "heraclio-bernal-corrido-1921"
   - "bentley-ball-jesse-james-1919"
-  - "riley-puckett-jesse-james-columbia-15033-d-1925"
   - "ma-rainey-cell-bound-blues-1924"
   - "roba-stanley-bill-patterson-little-frankie-okeh-40436-matrix-884"
-  - "warings-pennsylvanians-stack-olee-blues-victor-19189-1923"
-  - "al-craver-vernon-dalhart-naomi-wise-columbia-15053-d-1925"
 ---
 
 When the law fails or is not trusted, the ballad becomes the court. Book: Part III, ch. 12, 16; Atlas: Appalachia, Rural Mexico.
