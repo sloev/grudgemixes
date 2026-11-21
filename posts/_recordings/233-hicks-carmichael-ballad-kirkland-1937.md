@@ -16,8 +16,10 @@ what: "The Ballad of Hicks Carmichael (traditional ballad)"
 medium: "field recording"
 tags:
   - "fighting-words"
-recording_url: ""
+recording_url: "https://wfmu.org/archiveplayer/?archive=177462&show=88301&starttime=1%3A36%3A12"
+recording_verified: true
 urls:
+  - "https://wfmu.org/playlists/shows/88301"
   - "https://ir.law.utk.edu/utk_lawpubl/94/"
   - "https://api.pageplace.de/preview/DT0400.9781621907077_A50771189/preview-9781621907077_A50771189.pdf"
   - "https://files.eric.ed.gov/fulltext/ED277618.pdf"
