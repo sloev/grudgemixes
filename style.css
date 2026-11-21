@@ -240,62 +240,76 @@ a:active {
   max-height: none;
 }
 
-/* Latest art direction */
+/* Title: two full-width rows, each 3 lines tall, glyphs stretched edge-to-edge */
+.catalogue-heading {
+  width: 100%;
+  margin: 0;
+  padding: clamp(1.25rem, 4vw, 2.5rem) 0 0;
+  background: var(--site-red);
+  color: var(--site-black);
+}
 .catalogue-heading h1 {
-  display:flex; flex-direction:column; width:100%; max-width:100%; overflow:visible;
-  font-family:Impact,Haettenschweiler,"Arial Narrow Bold",sans-serif;
-  font-size:clamp(2.1rem,10.2vw,10rem); font-weight:1000; line-height:.82;
-  letter-spacing:-.045em; text-transform:uppercase; text-wrap:nowrap;
-  text-shadow:10px 10px 0 #fff; padding:0 10px 14px 0;
-}
-.catalogue-heading h1 span { display:flex; justify-content:space-between; width:100%; white-space:nowrap; font-size:1em; }
-.site-header { margin:0; padding-top:.75rem; padding-bottom:.75rem; border:0 !important; }
-.site-menu { gap:1rem 1.25rem; }
-.site-menu .filter-toggle {
-  appearance:none; border:0; border-radius:0; padding:0; min-height:0; margin:0;
-  background:transparent; color:var(--site-black); font:inherit;
-  text-decoration:underline; text-underline-offset:.16em; cursor:pointer;
-}
-.site-menu .filter-toggle:hover,.site-menu .filter-toggle:focus-visible { background:transparent; }
-.catalogue-tools { display:none; }
-.catalogue-list { gap:1.2rem; }
-.catalogue-row {
-  position:relative; border:0 !important; border-radius:0 !important;
-  box-shadow:10px 10px 0 #000; overflow:hidden;
-  clip-path:polygon(0 1.1rem,3% .55rem,6% 1.1rem,9% .55rem,12% 1.1rem,15% .55rem,18% 1.1rem,21% .55rem,24% 1.1rem,27% .55rem,30% 1.1rem,33% .55rem,36% 1.1rem,39% .55rem,42% 1.1rem,45% .55rem,48% 1.1rem,51% .55rem,54% 1.1rem,57% .55rem,60% 1.1rem,63% .55rem,66% 1.1rem,69% .55rem,72% 1.1rem,75% .55rem,78% 1.1rem,81% .55rem,84% 1.1rem,87% .55rem,90% 1.1rem,93% .55rem,96% 1.1rem,100% .55rem,100% 100%,0 100%);
-  padding-top:.9rem;
-}
-.row-image { height:10lh !important; max-height:10lh !important; width:100%; margin:0; }
-.row-image img { width:100%; height:100%; max-height:10lh !important; object-fit:cover; }
-@media(max-width:640px) {
-  .catalogue-heading h1 { font-size:clamp(2.1rem,10.2vw,4.4rem); line-height:.82; text-shadow:10px 10px 0 #fff; }
-  .catalogue-list { padding-left:.65rem; padding-right:.8rem; }
-  .catalogue-row { box-shadow:7px 7px 0 #000; }
-  .row-image,.row-image img { height:10lh !important; max-height:10lh !important; }
-}
-
-
-/* Exact title proportions and image-to-wave edge */
-.catalogue-heading h1 {
-  font-weight: 1000;
-  line-height: 4;
-  text-shadow: none;
-  -webkit-text-stroke: 2px currentColor;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: none;
+  margin: 0;
   padding: 0;
+  overflow: visible;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: clamp(2.4rem, 11vw, 9rem);
+  font-weight: 1000;
+  line-height: 1;
+  letter-spacing: -0.04em;
+  text-transform: uppercase;
+  color: var(--site-black);
+  -webkit-text-stroke: 1.5px currentColor;
+  text-shadow: none;
 }
 .catalogue-heading h1 span {
   display: block;
   width: 100%;
-  font-size: 1em;
-  line-height: 4;
-  text-align: justify;
-  text-align-last: justify;
+  height: 3em;           /* exactly 3 lines of the current font-size */
+  line-height: 3em;
   white-space: nowrap;
+  overflow: visible;
+  transform-origin: left center;
+  /* scaleX is set by the stretch script so glyphs deform to full width */
 }
+.site-header {
+  margin: 0;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  border: 0 !important;
+  border-bottom: 1px solid rgba(0,0,0,.3) !important;
+}
+.site-menu { gap: 1rem 1.25rem; }
+.site-menu .filter-toggle {
+  appearance: none;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+  min-height: 0;
+  margin: 0;
+  background: transparent;
+  color: var(--site-black);
+  font: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
+  cursor: pointer;
+}
+.site-menu .filter-toggle:hover,
+.site-menu .filter-toggle:focus-visible { background: transparent; }
+.catalogue-tools { display: none; }
+.catalogue-list { gap: 1.2rem; }
 .catalogue-row {
+  position: relative;
+  border: 0 !important;
+  border-radius: 0 !important;
   padding-top: 0 !important;
   filter: drop-shadow(10px 10px 0 #000);
   box-shadow: none !important;
+  overflow: hidden;
   clip-path: polygon(
     0 12px, 2% 9px, 4% 6px, 6% 4px, 8% 3px, 10% 4px,
     12% 6px, 14% 9px, 16% 12px, 18% 14px, 20% 15px,
@@ -327,72 +341,12 @@ a:active {
 }
 @media (max-width: 640px) {
   .catalogue-heading h1 {
-    font-size: clamp(2.1rem, 10.2vw, 4.4rem);
-    line-height: 4;
-    text-shadow: none;
+    font-size: clamp(2.1rem, 10.5vw, 4.6rem);
   }
-  .catalogue-heading h1 span { line-height: 4; }
+  .catalogue-list { padding-left: 0.65rem; padding-right: 0.8rem; }
   .catalogue-row { filter: drop-shadow(7px 7px 0 #000); }
   .row-image, .row-image img {
     height: 10lh !important;
     max-height: 10lh !important;
-    margin: 0 !important;
-  }
-}
-
-
-/* Stretch each catalogue-title line edge to edge */
-.catalogue-heading h1 {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  max-width: none;
-}
-.catalogue-heading h1 span {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  width: 100%;
-  min-width: 0;
-  white-space: nowrap;
-  text-align: left;
-  text-align-last: auto;
-  letter-spacing: 0;
-}
-.catalogue-heading h1 span:first-child {
-  /* Distribute the words across the complete line width. */
-  justify-content: space-between;
-}
-.catalogue-heading h1 span:last-child {
-  justify-content: space-between;
-}
-
-
-/* Geometrically scale each title line to the full available width */
-.catalogue-heading h1 {
-  display: block;
-  width: 100%;
-}
-.catalogue-heading h1 span {
-  display: block;
-  width: 100%;
-  white-space: nowrap;
-  text-align: left;
-  letter-spacing: inherit;
-  transform: none;
-}
-.catalogue-heading h1 span:first-child {
-  font-stretch: expanded;
-  transform: scaleX(1);
-  transform-origin: left center;
-}
-.catalogue-heading h1 span:last-child {
-  font-stretch: expanded;
-  transform: scaleX(1);
-  transform-origin: left center;
-}
-@supports (font-stretch: ultra-expanded) {
-  .catalogue-heading h1 span {
-    font-stretch: ultra-expanded;
   }
 }
