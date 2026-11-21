@@ -13,7 +13,7 @@ what: "\"Philosophy of the World\" (Third World, 1969)"
 medium: ""
 tags:
   - "unwanted"
-recording_url: ""
+recording_url: "https://theshaggs.bandcamp.com/album/philosophy-of-the-world"
 urls:
   - "https://en.wikipedia.org/wiki/The_Shaggs"
 ---
