@@ -13,8 +13,9 @@ what: "“Pelo Telefone”, Odeon 121322"
 medium: "78 rpm disc"
 tags:
   - "out-of-turn"
-recording_url: "https://upload.wikimedia.org/wikipedia/commons/4/43/Pelo_Telephone_%281916%29.ogg"
+recording_url: "https://discografiabrasileira.com.br/fonograma/4669/pelo-telefone"
 urls:
+  - "https://discografiabrasileira.com.br/fonograma/4669/pelo-telefone"
   - "https://ims.com.br/2023/10/09/little-africas-qr-code-17/"
   - "https://jornal.usp.br/?p=34978"
   - "https://en.wikipedia.org/wiki/Pelo_Telefone"
