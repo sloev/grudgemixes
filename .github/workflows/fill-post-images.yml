@@ -49,7 +49,12 @@ jobs:
           STOP = set('the and for with from into this that what when where who song songs record records recording recordings album albums cassette tape 78rpm 78 rpm disc side a b original self titled'.split())
 
           def clean(s):
-              return re.sub(r'<[^>]+>', ' ', html.unescape(str(s or ''))).strip()
+              value = re.sub(r'<[^>]+>', ' ', html.unescape(str(s or '')))
+              # Strip mojibake directional marks and other control/format characters
+              # before writing source captions into YAML front matter.
+              value = value.replace('\u00e2\u0080\u008e', '').replace('\u00c2\u00a0', ' ')
+              value = ''.join(ch for ch in value if unicodedata.category(ch) not in {'Cc', 'Cf', 'Cs'})
+              return re.sub(r'\s+', ' ', value).strip()
 
           def tokens(s):
               vals = re.findall(r'[a-z0-9]{3,}', unicodedata.normalize('NFKD', str(s)).encode('ascii', 'ignore').decode().lower())
