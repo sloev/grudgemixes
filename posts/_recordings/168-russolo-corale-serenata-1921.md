@@ -14,6 +14,7 @@ medium: "78 rpm disc"
 tags:
   - "fighting-words"
 recording_url: "https://www.youtube.com/watch?v=8GpN5FHO60c"
+recording_verified: true
 urls:
   - "https://ubu.punctumbooks.com/sound/russolo_l.html"
   - "https://ltmrecordings.com/musica_futurista_the_art_of_noises_ltmcd2401.html"
