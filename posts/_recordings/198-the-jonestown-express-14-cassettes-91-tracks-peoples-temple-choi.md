@@ -15,7 +15,7 @@ what: "14 cassettes / 91 tracks; Peoples Temple choir He's Able (1973)"
 medium: ""
 tags:
   - "made-anyway"
-recording_url: ""
+recording_url: "https://archives.sdsu.edu/repositories/2/digital_objects/1508"
 urls:
   - "https://jonestown.sdsu.edu/?page_id=108764"
   - "https://archives.sdsu.edu/repositories/2/digital_objects/1137"
