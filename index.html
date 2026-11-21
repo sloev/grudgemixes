@@ -3,12 +3,9 @@ layout: default
 title: Recordings
 ---
 <section class="catalogue-heading">
-  <h1>a catalog of refusal</h1>
+  <h1 aria-label="A catalog of refusal"><span>a catalog of</span><span>refusal</span></h1>
 </section>
 {% include header.html %}
-<div class="catalogue-tools">
-  <button class="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-panel" data-filter-toggle>Filter / Sort</button>
-</div>
 <div class="filter-bar" id="filter-panel" data-filter-bar hidden>
   <label><span>Medium</span><select data-filter="medium"><option value="">All media</option></select></label>
   <label><span>Decade</span><select data-filter="decade"><option value="">All decades</option></select></label>
