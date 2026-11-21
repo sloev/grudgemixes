@@ -13,8 +13,9 @@ what: "“Billy Lyons and Stack O'Lee” (Vocalion 1132, 1927)"
 medium: ""
 tags:
   - "the-account"
-recording_url: ""
+recording_url: "https://www.youtube.com/watch?v=2iWnpkUndU4"
 urls:
+  - "https://music.apple.com/us/album/billy-lyons-and-stack-olee/72780566?i=72780353"
   - "https://folkways-media.si.edu/docs/folkways/artwork/FW03823.pdf"
   - "https://www.wirz.de/music/lewis.htm"
   - "https://www.grooves-inc.co.uk/furry-lewis-furrys-blues-1927-1929-document-cd-pZZa1-1899420523.html"
