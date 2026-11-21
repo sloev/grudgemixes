@@ -1,15 +1,16 @@
 ---
 type: recording
+why_outsider: "A Sephardic Ladino song that turns a state conscription policy into a family lament, preserved on an early commercial 78."
 title: "Çakum Effendi, “Malandanzas del asker” (Gramophone 11-12734, 1911)"
 slug: "çakum-effendi-malandanzas-del-asker-gramophone-11-12734-1911"
 date: "2026-11-20"
-draft: true
-summary: "The Hebrew University scholarly commentary identifies this as one of the Ladino songs about “askerlik” — military service imposed on Jews by Ottoman authorities from 1908. It notes that Çakum's version is close to Haim Effendi's earlier / parallel recorded version and that rare oral-tradition versions probably derive from these commercial recordings."
+draft: false
+summary: "A Ladino lament about askerlik, the Ottoman military service imposed on Jews after 1908. Çakum Effendi’s 1911 recording turns conscription into a family story of departure and grief."
 who: "Çakum Effendi"
 when: "1911"
-where: ""
-country: ""
-what: "“Malandanzas del asker” (Gramophone 11-12734, 1911)"
+where: "Salonica (Thessaloniki), Ottoman Empire"
+country: "Ottoman Empire"
+what: "“Malandanzas del asker” (Gramophone 11-12734)"
 medium: "78 rpm disc"
 tags:
   - "the-account"
@@ -22,11 +23,4 @@ urls:
   - "https://www.ynet.co.il/articles/0,7340,L-4898292,00.html"
   - "https://folkmasa.org/avshir/pshir_fls.php"
 ---
-
-The Hebrew University scholarly commentary identifies this as one of the Ladino songs about “askerlik” — military service imposed on Jews by Ottoman authorities from 1908. It notes that Çakum's version is close to Haim Effendi's earlier / parallel recorded version and that rare oral-tradition versions probably derive from these commercial recordings.
-
-## To do
-
-- Rewrite the story in plain blog voice (80–200 words): who, what, when, the wrong, and why it belongs here.
-- Check every fact against the sources in `urls`; fill `who`, `when`, `where`, `what` precisely.
-- Find a public `recording_url` (archive, label, YouTube, Internet Archive) if one exists.
+The title is usually translated as “Misfortunes of the Soldier.” The Jewish Music Research Centre identifies it as one of the Ladino songs responding to *askerlik*, the compulsory military service imposed on Jews in the Ottoman Empire from 1908. Its lyrics follow a son leaving for the army and the family left behind. Çakum Effendi’s 1911 version is close to a recording by Haim Effendi; the archive notes that rare oral versions likely descend from these commercial discs. The EMI collection places Çakum among the Salonica singers it documented in 1911. This 78 makes the policy’s cost audible at household scale.
