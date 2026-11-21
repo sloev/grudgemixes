@@ -8,12 +8,9 @@ description: "Eight songs that authorities banned, erased or punished, and how t
 tracks:
   - "naima-ya-balah-zaghloul"
   - "pelo-telefone-1917"
-  - "cheikha-rimitti-charrak-gatta"
   - "bone-music-roentgenizdat"
   - "garuta-1944-premiere-tape"
   - "propeller-1980"
-  - "perkons-ogre-1985"
-  - "skengdo-am-attempted"
 ---
 
 A mixtape about what happens when someone in power decides a song is dangerous.
