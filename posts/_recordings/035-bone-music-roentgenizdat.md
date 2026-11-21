@@ -16,7 +16,7 @@ what: "Records cut on X-ray film (roentgenizdat)"
 medium: "x-ray record"
 tags:
   - "fighting-words"
-recording_url: "https://www.x-rayaudio.com"
+recording_url: "https://x-rayaudio.squarespace.com/x-rayaudiorecords/"
 urls:
   - "https://en.wikipedia.org/wiki/Ribs_(recordings)"
   - "https://www.npr.org/2016/01/09/462289635/bones-and-grooves-the-weird-secret-history-of-soviet-x-ray-music"
