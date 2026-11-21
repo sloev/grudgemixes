@@ -13,7 +13,8 @@ what: "“Malandanzas del asker” (Gramophone 11-12734, 1911)"
 medium: "78 rpm disc"
 tags:
   - "the-account"
-recording_url: ""
+recording_url: "https://music.amazon.com/albums/B08P6MT32N"
+recording_verified: true
 urls:
   - "https://jewish-music.huji.ac.il/media/4583/download/"
   - "https://music.apple.com/us/album/malandanzas-del-asker-feat-%C3%A7akum-effendi/1540566417?i=1540566790"
