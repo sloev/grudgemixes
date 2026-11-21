@@ -14,9 +14,9 @@ Every document in the Jekyll collections is rendered, including documents marked
 
 ## Date eligibility (hard rule)
 
-- Every recording featured anywhere in the catalogue must have been originally recorded no later than 31 December 1999. Release date alone is not sufficient when it differs from the recording date.
+- Every recording featured anywhere in the catalogue must have been originally recorded no later than 31 December 2000. Release date alone is not sufficient when it differs from the recording date.
 - Recording posts must state a sourced original recording year or range in `when`; uncertain or missing dates must be researched before inclusion.
-- Every named performer, band, or project must have ceased performing or releasing as that act by 31 December 1999. Record the sourced final active year in `active_until`. For a genuinely anonymous, traditional, one-off, or archival field recording with no continuing named act, use a justified `act_status` value of `anonymous-traditional`, `one-off`, or `archival-field-recording`.
+- Every named performer, band, or project must have ceased performing or releasing as that act by 31 December 2000. Record the sourced final active year in `active_until`. For a genuinely anonymous, traditional, one-off, or archival field recording with no continuing named act, use a justified `act_status` value of `anonymous-traditional`, `one-off`, or `archival-field-recording`.
 - Every post must explain its relevance to marginalised, unknown, or outsider music in `why_outsider`, and cite source URLs in `urls`. No generic mainstream catalogue entries. Every mixtape track must resolve to a recording post that passes the date, act-status, outsider-relevance, and source checks. Do not add post-1999 recordings, continuing acts, or undated material to new posts or track lists.
 - `scripts/check_pre_2001.py` and `.github/workflows/pre-2001-check.yml` enforce these rules.
 
