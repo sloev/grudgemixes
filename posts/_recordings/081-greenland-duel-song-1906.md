@@ -14,6 +14,7 @@ medium: "wax cylinder"
 tags:
   - "fighting-words"
 recording_url: "https://www.youtube.com/watch?v=sms3ipVqvbI"
+recording_verified: true
 urls:
   - "https://www.qobuz.com/be-nl/album/55-historical-recordings-traditional-music-from-greenland-1905-1987-inuit/3700368473139"
   - "https://musicbrainz.org/release/ffa43e99-7c6c-4ca6-92d7-41e2bf080966"
