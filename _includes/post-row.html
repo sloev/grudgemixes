@@ -1,5 +1,7 @@
 {% assign catalogue_number = include.post.name | split: "-" | first %}
-{% assign image_parts = include.post.images[0] | split: " | " %}
+{% if include.post.images and include.post.images.size > 0 %}
+  {% assign image_parts = include.post.images[0] | split: " | " %}
+{% endif %}
 <article class="catalogue-row" data-catalogue-row
   data-number="{{ catalogue_number }}"
   data-title="{{ include.post.title | downcase | escape }}"
@@ -7,13 +9,11 @@
   data-country="{{ include.post.country | downcase | escape }}"
   data-tags="{{ include.post.tags | join: '|' | downcase | escape }}"
   data-when="{{ include.post.when | downcase | escape }}">
-  <a class="row-thumb" href="{{ include.post.url | relative_url }}" aria-label="Open {{ include.post.title | escape }}">
-    {% if include.post.images and include.post.images.size > 0 %}
+  {% if include.post.images and include.post.images.size > 0 %}
+    <a class="row-image" href="{{ include.post.url | relative_url }}" aria-label="Open {{ include.post.title | escape }}">
       <img src="{{ '/' | append: image_parts[0] | relative_url }}" alt="{{ image_parts[1] | default: include.post.title | escape }}" loading="lazy">
-    {% else %}
-      <span class="thumb-placeholder" aria-hidden="true">{{ include.post.title | slice: 0 }}</span>
-    {% endif %}
-  </a>
+    </a>
+  {% endif %}
   <div class="row-content">
     <div class="row-kicker"><span class="catalogue-number">{{ catalogue_number }}</span><span>Recording</span></div>
     <h2><a href="{{ include.post.url | relative_url }}">{{ include.post.title | escape }}</a></h2>
