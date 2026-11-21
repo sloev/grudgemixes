@@ -13,7 +13,7 @@ what: "“El sentenciado del bajá” (Zonophone X-103831, 1911)"
 medium: "78 rpm disc"
 tags:
   - "the-account"
-recording_url: "https://music.amazon.com/en-ar/albums/B08P6MT32N?trackAsin=B08P6QNVLW"
+recording_url: "https://music.amazon.com/tracks/B08P6MB4PQ"
 recording_verified: true
 urls:
   - "https://jewish-music.huji.ac.il/media/4583/download/"
