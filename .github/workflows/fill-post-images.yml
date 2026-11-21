@@ -1,4 +1,5 @@
 name: Find and download real post images
+# Re-run the full archival image audit after catalogue access cleanup.
 
 on:
   workflow_dispatch:
