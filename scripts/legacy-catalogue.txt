@@ -15,7 +15,6 @@ posts/_recordings/048-chacabuco-clandestine-cassette-lp-lineage-mmdh-centros-de-
 posts/_recordings/051-choir-of-the-uzuakoli-leprosy-colony-harcourt-whyte-compositions.md
 posts/_recordings/053-copacabana-clandestine-cassette-compilation-a-fita-17-track-lati.md
 posts/_recordings/054-cults-percussion-ensemble-1979.md
-posts/_recordings/055-dalvorig-dalvorigtsi-mihran-damadian-tashjian-columbia-recording.md
 posts/_recordings/058-david-boder-songs-recorded-in-henonville-dp-camp-ushmm-rg-912015.md
 posts/_recordings/059-dr-maurice-dupont-sainte-anne-hospital-phonograph-recordings-of.md
 posts/_recordings/060-drapchi-14-nuns-cassette.md
@@ -50,10 +49,6 @@ posts/_recordings/113-long-cleve-reed-and-little-harvey-hull-original-stack-olee
 posts/_recordings/115-ma-rainey-and-her-georgia-band-stack-olee-blues.md
 posts/_recordings/116-ma-rainey-cell-bound-blues-1924.md
 posts/_recordings/119-malinda-jackson-parker.md
-posts/_recordings/121-mardiros-der-sarkis-tashjian-1909-columbia-armenian-language-rec.md
-posts/_recordings/122-mardiros-der-sarkis-tashjian-hairenikt-mortsir-columbia-e5314084.md
-posts/_recordings/123-mardiros-der-sarkis-tashjian-himi-el-lrenk-columbia-e529-4100-19.md
-posts/_recordings/124-mardiros-tashjian-dalvorig-columbia-1909.md
 posts/_recordings/125-margaret-valiant-fsa-migrant-camp-discs-193839.md
 posts/_recordings/126-maría-garcía-la-noche-de-reyes-asturias-recorded-19-january-1939.md
 posts/_recordings/127-mlle-mariette-el-sentenciado-del-bajá-zonophone-x-103831-1911.md
@@ -84,13 +79,6 @@ posts/_recordings/181-smyrnaiki-estudiantina-marche-de-niyazi-et-enver-bey-march
 posts/_recordings/182-solenoid-norey-games-1982.md
 posts/_recordings/183-song-poem-msr-851.md
 posts/_recordings/185-svenskt-visarkiv-prison-song-reels-196573.md
-posts/_recordings/189-tashjian-brothers-1910-columbia-repertoire-dalvorig-and-grvetsek.md
-posts/_recordings/190-tashjian-brothers-akh-vasburagan-columbia-e6664974-1910.md
-posts/_recordings/191-tashjian-brothers-himi-el-lrenk-columbia-e6684953-1910.md
-posts/_recordings/192-tashjian-brothers-kerezmanis-togh-columbia-e6574955-1910.md
-posts/_recordings/193-tashjian-brothers-menk-bedk-e-grvenk-columbia-e661-matrix-4973-1.md
-posts/_recordings/194-tashjian-brothers-tartzial-paylets-columbia-e6584964-1910.md
-posts/_recordings/195-tashjian-brothers-tashnagtsagan-khump-columbia-e665-4962-1910.md
 posts/_recordings/196-texas-prison-rodeo-albums-1965-and-197282.md
 posts/_recordings/197-thakhin-movement-doh-bamar-original-78-c1930.md
 posts/_recordings/198-the-jonestown-express-14-cassettes-91-tracks-peoples-temple-choi.md
