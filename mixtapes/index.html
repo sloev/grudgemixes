@@ -6,6 +6,7 @@ permalink: /mixtapes/
 <section class="catalogue-heading mixtape-heading">
   <h1>a catalog of refusal</h1>
 </section>
+{% include header.html %}
 <div class="catalogue-list mixtape-list">
   {% assign mixtapes = site.mixtapes | sort: "name" | reverse %}
   {% for post in mixtapes %}

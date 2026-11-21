@@ -5,10 +5,9 @@ title: Recordings
 <section class="catalogue-heading">
   <h1>a catalog of refusal</h1>
 </section>
+{% include header.html %}
 <div class="catalogue-tools">
-  <button class="filter-toggle" type="button" aria-label="Open filters and sorting" aria-expanded="false" aria-controls="filter-panel" data-filter-toggle>
-    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"/><circle cx="8" cy="6" r="1.6"/><circle cx="15" cy="12" r="1.6"/><circle cx="12" cy="18" r="1.6"/></svg>
-  </button>
+  <button class="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-panel" data-filter-toggle>Filter / Sort</button>
 </div>
 <div class="filter-bar" id="filter-panel" data-filter-bar hidden>
   <label><span>Medium</span><select data-filter="medium"><option value="">All media</option></select></label>
@@ -41,7 +40,6 @@ title: Recordings
   if (toggle) toggle.addEventListener("click", function () {
     var open = toggle.getAttribute("aria-expanded") === "true";
     toggle.setAttribute("aria-expanded", String(!open));
-    toggle.setAttribute("aria-label", open ? "Open filters and sorting" : "Close filters and sorting");
     bar.hidden = open;
   });
   function valuesFor(key) {

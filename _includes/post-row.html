@@ -18,8 +18,9 @@
     <div class="row-kicker"><span class="catalogue-number">{{ catalogue_number }}</span><span>Recording</span></div>
     <h2><a href="{{ include.post.url | relative_url }}">{{ include.post.title | escape }}</a></h2>
     {% if include.post.summary %}<p class="row-summary">{{ include.post.summary | escape }}</p>{% endif %}
-    <p class="row-meta">{% if include.post.who %}{{ include.post.who | escape }}{% endif %}{% if include.post.when %}<span> · </span>{{ include.post.when | escape }}{% endif %}{% if include.post.medium %}<span> · </span>{{ include.post.medium | escape }}{% endif %}{% if include.post.country %}<span> · </span>{{ include.post.country | escape }}{% endif %}</p>
-    {% if include.post.recording_url and include.post.recording_url != "" %}<p class="listen-state"><a href="{{ include.post.recording_url }}">Recording link ↗</a></p>{% endif %}
-    {% if include.post.tags and include.post.tags.size > 0 %}<div class="tag-list">{% for tag in include.post.tags %}<span class="tag-pill">{{ tag | replace: "-", " " }}</span>{% endfor %}</div>{% endif %}
+    <div class="row-footer">
+      <p class="row-meta">{% if include.post.who %}{{ include.post.who | escape }}{% endif %}{% if include.post.when %}<span> · </span>{{ include.post.when | escape }}{% endif %}{% if include.post.medium %}<span> · </span>{{ include.post.medium | escape }}{% endif %}{% if include.post.country %}<span> · </span>{{ include.post.country | escape }}{% endif %}{% if include.post.tags and include.post.tags.size > 0 %}<span> · </span>{{ include.post.tags | join: ", " | escape }}{% endif %}</p>
+      <a class="read-more" href="{{ include.post.url | relative_url }}">Read more →</a>
+    </div>
   </div>
 </article>

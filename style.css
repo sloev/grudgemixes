@@ -8,3 +8,30 @@
   .row-image,.row-image img { max-height:11rem; }
   .row-content { padding:.85rem; }
 }
+
+/* Catalogue hierarchy and card structure */
+.catalogue-heading { width:100%; margin:0; padding:clamp(1.5rem,4vw,3rem) 0 1.25rem; }
+.catalogue-heading h1 { width:100%; max-width:none; margin:0; font-family:var(--display-font, Georgia, serif); font-size:clamp(3rem,10vw,8.5rem); font-weight:900; line-height:.88; letter-spacing:-.065em; text-wrap:balance; display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:2; line-clamp:2; overflow:hidden; }
+.site-header { display:block; width:100%; margin:0 0 1.5rem; padding:1rem 0; border-top:1px solid var(--line, rgba(128,128,128,.25)); border-bottom:1px solid var(--line, rgba(128,128,128,.25)); }
+.site-menu { display:flex; flex-wrap:wrap; align-items:center; gap:1.25rem; }
+.site-menu a { display:inline-block; }
+.catalogue-tools { display:flex; align-items:center; margin:0 0 1rem; }
+.filter-toggle { display:inline-flex; align-items:center; justify-content:center; min-height:2.75rem; padding:.65rem 1rem; border:1px solid var(--line, rgba(128,128,128,.3)); border-radius:999px; background:transparent; color:inherit; font:inherit; cursor:pointer; }
+.filter-toggle:hover { background:var(--bg-elev, rgba(128,128,128,.08)); }
+.filter-bar[hidden] { display:none !important; }
+.catalogue-list { display:grid; grid-template-columns:minmax(0,1fr); gap:1rem; }
+.catalogue-row { display:flex; flex-direction:column; gap:0; min-width:0; overflow:hidden; border:1px solid var(--line, rgba(128,128,128,.25)); border-radius:1rem; background:var(--card, transparent); }
+.row-image { display:block; width:100%; height:4lh; max-height:6rem; overflow:hidden; background:var(--bg-elev, rgba(128,128,128,.08)); }
+.row-image img { display:block; width:100%; height:100%; max-height:none; object-fit:cover; object-position:center; }
+.row-content { display:flex; flex-direction:column; align-items:stretch; padding:1.1rem; min-width:0; }
+.row-content h2 { margin:.25rem 0 .5rem; }
+.row-summary { display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:4; line-clamp:4; overflow:hidden; margin:.25rem 0 1rem; }
+.row-footer { display:flex; align-items:flex-end; justify-content:space-between; flex-wrap:wrap; gap:.75rem; margin-top:auto; }
+.row-meta { margin:0; }
+.read-more { white-space:nowrap; }
+@media (max-width:640px) {
+  .catalogue-heading h1 { font-size:clamp(2.75rem,12vw,5rem); }
+  .row-image { height:4lh; max-height:5.5rem; }
+  .row-content { padding:.9rem; }
+  .site-menu { gap:1rem; }
+}
