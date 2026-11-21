@@ -16,6 +16,7 @@ medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://www.youtube.com/watch?v=7HC8ZtD7iKA"
+recording_verified: true
 urls:
   - "https://www.youtube.com/watch?v=7HC8ZtD7iKA"
   - "https://folkways.si.edu/an-introduction-to-gospel-song/african-american-music/album/smithsonian"
