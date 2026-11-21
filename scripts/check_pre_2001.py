@@ -8,11 +8,11 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 RECORDINGS = ROOT / "posts" / "_recordings"
 MIXTAPES = ROOT / "posts" / "_mixtapes"
-YEAR_RE = re.compile(r"(?<!\\d)(1[0-9]{3}|20[0-9]{2})(?!\\d)")
+YEAR_RE = re.compile(r"(?<!\d)(1[0-9]{3}|20[0-9]{2})(?!\d)")
 
 def frontmatter(path):
     raw = path.read_text(encoding="utf-8")
-    match = re.match(r"\\A---\\s*\\n(.*?)\\n---\\s*(?:\\n|$)", raw, re.S)
+    match = re.match(r"\A---\s*\n(.*?)\n---\s*(?:\n|$)", raw, re.S)
     if not match:
         raise ValueError("missing YAML front matter")
     return yaml.safe_load(match.group(1)) or {}
@@ -62,6 +62,6 @@ if errors:
     print("PRE-2001 CATALOGUE CHECK FAILED")
     for error in errors:
         print(" - " + error)
-    print(f"\\n{len(errors)} issue(s). Correct the recording history or remove ineligible tracks.")
+    print(f"\n{len(errors)} issue(s). Correct the recording history or remove ineligible tracks.")
     sys.exit(1)
 print("Pre-2001 catalogue check passed.")
