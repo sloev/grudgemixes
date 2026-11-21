@@ -14,6 +14,7 @@ medium: ""
 tags:
   - "made-anyway"
 recording_url: "https://www.listeningtothearchive.com/artists/ernie-althoff"
+recording_verified: true
 urls:
   - "https://www.listeningtothearchive.com/artists/ernie-althoff"
 images:
