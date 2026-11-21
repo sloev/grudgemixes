@@ -12,7 +12,7 @@ Work directly on `main` only. Never create branches or pull requests, and never 
 
 Every document in the Jekyll collections is rendered, including documents marked `draft: true`. Draft is editorial metadata only; it does not prevent publication. Catalogue numbers are the stable visible identifiers; dates remain metadata, not identifiers.
 
-## Recording schema
+## Date eligibility (hard rule)\n\n- Every recording featured anywhere in the catalogue must have been originally recorded no later than 31 December 2000. Release date alone is not sufficient when it differs from the recording date.\n- Recording posts must state a sourced original recording year or range in `when`; uncertain or missing dates must be researched before inclusion.\n- Every mixtape track must resolve to a recording post that passes the pre-2001 check. Do not add post-2000 or undated recordings to new posts or track lists.\n- `scripts/check_pre_2001.py` and `.github/workflows/pre-2001-check.yml` enforce this rule.\n\n## Recording schema
 
 Keep the established front matter field order: `type`, `title`, `slug`, `date`, `draft`, `summary`, `who`, `when`, `where`, `country`, `what`, `medium`, `tags`, `recording_url`, `urls`, `images`. Use double-quoted strings and YAML lists. Recording stories should be 80–200 words and factual claims should have sources in `urls`.
 
