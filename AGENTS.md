@@ -12,9 +12,17 @@ Work directly on `main` only. Never create branches or pull requests, and never 
 
 Every document in the Jekyll collections is rendered, including documents marked `draft: true`. Draft is editorial metadata only; it does not prevent publication. Catalogue numbers are the stable visible identifiers; dates remain metadata, not identifiers.
 
-## Date eligibility (hard rule)\n\n- Every recording featured anywhere in the catalogue must have been originally recorded no later than 31 December 2000. Release date alone is not sufficient when it differs from the recording date.\n- Recording posts must state a sourced original recording year or range in `when`; uncertain or missing dates must be researched before inclusion.\n- Every mixtape track must resolve to a recording post that passes the pre-2001 check. Do not add post-2000 or undated recordings to new posts or track lists.\n- `scripts/check_pre_2001.py` and `.github/workflows/pre-2001-check.yml` enforce this rule.\n\n## Recording schema
+## Date eligibility (hard rule)
 
-Keep the established front matter field order: `type`, `title`, `slug`, `date`, `draft`, `summary`, `who`, `when`, `where`, `country`, `what`, `medium`, `tags`, `recording_url`, `urls`, `images`. Use double-quoted strings and YAML lists. Recording stories should be 80–200 words and factual claims should have sources in `urls`.
+- Every recording featured anywhere in the catalogue must have been originally recorded no later than 31 December 1999. Release date alone is not sufficient when it differs from the recording date.
+- Recording posts must state a sourced original recording year or range in `when`; uncertain or missing dates must be researched before inclusion.
+- Every performer, band, or project must have ceased performing or releasing as that act by 31 December 1999. Record the sourced final active year in `active_until`; recordings by acts that remained active after 1999 are ineligible even if the recording itself is old.
+- Every mixtape track must resolve to a recording post that passes both date and act-status checks. Do not add post-1999 recordings, continuing acts, or undated material to new posts or track lists.
+- `scripts/check_pre_2001.py` and `.github/workflows/pre-2001-check.yml` enforce these rules.
+
+## Recording schema
+
+Keep the established front matter field order: `type`, `title`, `slug`, `date`, `draft`, `summary`, `who`, `when`, `active_until`, `where`, `country`, `what`, `medium`, `tags`, `recording_url`, `urls`, `images`. Use double-quoted strings and YAML lists. Recording stories should be 80–200 words and factual claims should have sources in `urls`.
 
 Allowed media: 78 rpm disc, wax cylinder, x-ray record, vinyl, cassette, reel-to-reel, radio, field recording, live performance, video, digital, or empty. Allowed tags: the-account, out-of-turn, made-anyway, unwanted, fighting-words, found.
 
