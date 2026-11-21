@@ -14,6 +14,7 @@ medium: "cassette"
 tags:
   - "found"
 recording_url: "https://datworm.bandcamp.com/album/za86"
+recording_verified: true
 urls:
   - "https://www.forcedexposure.com/Catalog/TTW.086CS.html"
   - "https://commons.wikimedia.org/wiki/File:Sony_Walkman_WM-D6C.jpg"
