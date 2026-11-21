@@ -14,6 +14,7 @@ medium: "digital"
 tags:
   - "unwanted"
 recording_url: "https://needlejuice.bandcamp.com/track/the-most-unwanted-song"
+recording_verified: true
 urls:
   - "https://needlejuice.bandcamp.com/track/the-most-unwanted-song"
   - "https://www.davesoldier.com/experimental"
