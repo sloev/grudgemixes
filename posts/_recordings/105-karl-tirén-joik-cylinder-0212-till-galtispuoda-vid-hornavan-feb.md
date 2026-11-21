@@ -13,8 +13,9 @@ what: "\"Till Galtispuoda vid Hornavan\", Feb 1913"
 medium: ""
 tags:
   - "made-anyway"
-recording_url: ""
+recording_url: "https://s.awa.fm/album/704b21d04ad80f3c4450"
 urls:
+  - "https://old.capricemusic.se/svensktvisarkiv/karl-tiren/?lang=en"
   - "https://katalog.visarkiv.se/lib/views/kt/Default.aspx?item=116"
   - "https://www.prestomusic.com/jazz/products/8544672--same-jiena-the-karl-tiren-collection-of-sami-joik-the-february-1913-journey"
 ---
