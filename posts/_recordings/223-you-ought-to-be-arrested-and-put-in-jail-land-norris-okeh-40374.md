@@ -14,6 +14,7 @@ medium: ""
 tags:
   - "the-account"
 recording_url: "https://www.youtube.com/watch?v=oE4BGggiVnc"
+recording_verified: true
 urls:
   - "https://adp.library.ucsb.edu/index.php/matrix/detail/2000200840"
   - "https://collections.si.edu/search/results.htm?q=%22Norris%2C+Land%22"
