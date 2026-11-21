@@ -19,6 +19,7 @@ concurrency:
 
 jobs:
   images:
+    timeout-minutes: 30
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     runs-on: ubuntu-latest
     steps:
@@ -58,7 +59,7 @@ jobs:
               s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode().lower()
               return re.sub(r'[^a-z0-9]+', '-', s).strip('-')[:85] or 'post'
 
-          def get(url, timeout=25):
+          def get(url, timeout=10):
               try:
                   r = session.get(url, timeout=timeout, allow_redirects=True)
                   r.raise_for_status()
@@ -70,7 +71,7 @@ jobs:
           def image_bytes(url):
               if not url or not url.startswith(('http://', 'https://')):
                   return None
-              r = get(url, 35)
+              r = get(url, 12)
               if not r:
                   return None
               mime = r.headers.get('Content-Type', '').split(';')[0].lower()
@@ -88,7 +89,7 @@ jobs:
               return r.content, IMAGE_TYPES[mime]
 
           def from_linked_sources(urls):
-              for page_url in urls[:10]:
+              for page_url in urls[:4]:
                   if not page_url.startswith(('http://', 'https://')):
                       continue
                   parsed = urlparse(page_url)
@@ -119,7 +120,7 @@ jobs:
                           low = (src + ' ' + alt).lower()
                           if not any(x in low for x in ('logo', 'icon', 'avatar', 'pixel', 'spacer', 'flag')):
                               candidates.append((src, alt))
-                  for raw, alt in candidates[:15]:
+                  for raw, alt in candidates[:6]:
                       img_url = urljoin(page.url, raw.strip())
                       found = image_bytes(img_url)
                       if found:
@@ -127,7 +128,7 @@ jobs:
               return None
 
           def loc_search(query):
-              params = {'q': query, 'fo': 'json', 'c': 30}
+              params = {'q': query, 'fo': 'json', 'c': 15}
               try:
                   data = get('https://www.loc.gov/photos/?' + requests.compat.urlencode(params))
                   if not data:
@@ -156,7 +157,7 @@ jobs:
                   return None
               # Query exact title terms first; image records only.
               terms = ' AND '.join('title:' + quote(w) for w in words[:5])
-              params = {'q': f'mediatype:image AND ({terms})', 'fl[]': ['identifier', 'title'], 'rows': 25, 'page': 1, 'output': 'json'}
+              params = {'q': f'mediatype:image AND ({terms})', 'fl[]': ['identifier', 'title'], 'rows': 12, 'page': 1, 'output': 'json'}
               try:
                   r = get('https://archive.org/advancedsearch.php?' + requests.compat.urlencode(params, doseq=True))
                   if not r:
@@ -191,7 +192,7 @@ jobs:
                   r = get('https://collectionapi.metmuseum.org/public/collection/v1/search?' + requests.compat.urlencode({'q': query, 'hasImages': 'true'}))
                   if not r:
                       return None
-                  ids = (r.json().get('objectIDs') or [])[:12]
+                  ids = (r.json().get('objectIDs') or [])[:6]
                   qt = tokens(query)
                   for ident in ids:
                       obj_r = get(f'https://collectionapi.metmuseum.org/public/collection/v1/objects/{ident}')
