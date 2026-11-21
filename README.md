@@ -14,7 +14,7 @@ GitHub Settings → Pages → Build and deployment → Deploy from a branch → 
 - `posts/_recordings/` contains recording documents.
 - `posts/_mixtapes/` contains mixtape documents.
 - `media/` contains post images.
-- `_layouts/`, `index.html`, and `mixtapes/index.html` are Jekyll templates.
+- `_layouts/`, `index.html`, and `mixtapes/index.html` are Jekyll templates. There is no About page.
 - `style.css` is the stylesheet.
 - `jekyll-feed` generates the RSS feed.
 
