@@ -7,10 +7,8 @@ draft: true
 description: "Banning music changes the carrier, not the music.."
 tracks:
   - "bone-music-roentgenizdat"
-  - "the-plastic-people-of-the-universe-egon-bondys-happy-hearts-club"
   - "cassettes-from-the-198291-kurdish-language-ban"
   - "radio-afghanistan-rta-archive-tapes-hidden-from-the-taliban-1996"
-  - "cheikha-rimitti-charrak-gatta"
 ---
 
 Banning music changes the carrier, not the music.
