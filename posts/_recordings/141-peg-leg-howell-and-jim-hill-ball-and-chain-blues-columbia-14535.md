@@ -13,7 +13,7 @@ what: "“Ball and Chain Blues” (Columbia 14535-D, 1929)"
 medium: "78 rpm disc"
 tags:
   - "the-account"
-recording_url: ""
+recording_url: "https://www.youtube.com/watch?v=u-hGMuX7XFc"
 urls:
   - "https://mudcat.org/thread.cfm?threadid=157360"
   - "https://img1.wsimg.com/blobby/go/fac2e2b3-4447-46cd-9620-8ac813731e52/MSESET1%20digital%20booklet-0001.pdf"
