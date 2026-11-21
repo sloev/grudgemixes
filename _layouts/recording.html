@@ -21,7 +21,7 @@ layout: default
   {% include facts.html post=page %}
   <div class="prose">{{ content }}</div>
   {% if page.recording_url and page.recording_url != "" %}
-    <section class="listen-section"><h2>Listen</h2><a class="source-link" href="{{ page.recording_url }}">Open recording ↗</a></section>
+    <section class="listen-section"><h2>Listen</h2><a class="source-link" href="{{ page.recording_url | escape }}">Listen to this recording ↗</a></section>
   {% endif %}
   {% if page.urls and page.urls.size > 0 %}
     <section class="sources"><h2>Sources & further listening</h2><ol>{% for url in page.urls %}<li><a href="{{ url }}">{{ url }}</a></li>{% endfor %}</ol></section>
