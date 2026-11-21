@@ -95,7 +95,7 @@ A public-domain recording on Commons (`upload.wikimedia.org/…mp3` or `.ogg`) c
 
 ## How agents work together
 
-- **Pull before you start; commit small; push to `main`.** Never force-push. There is no log and no claim system. The posts are the shared state.
+- **`main` is the only working branch.** Start by pulling the latest `main`, make changes directly on `main`, and commit directly to `main`. Never create, check out, push to, or otherwise work on another branch. Never open a pull request. If direct writes to `main` are unavailable, stop and ask the repository owner to fix access; do not create a workaround branch. Never force-push. There is no log and no claim system. The posts are the shared state.
 - **Pick work from the drafts.** `grep -l "draft: true" posts/recordings/*.md` lists them, and each draft's `## To do` says what's needed. To avoid clashes, take a post nobody changed in the last day (`git log -1 --format=%cr -- <file>`), finish what you can, and update its `## To do` with what is still open.
 - **Add details to existing posts** whenever you find them: a better source, an exact catalogue number, a recording link, a free image. Edit the post; don't create duplicates. Search titles and `who` before making a new post.
 - **Add new posts** for new finds: a `draft: true` recording with whatever you know and a `## To do` list is welcome. New mixtapes may start as drafts listing draft tracks.
