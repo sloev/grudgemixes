@@ -14,6 +14,7 @@ medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://frontera.library.ucla.edu/recordings/heraclio-bernal-21"
+recording_verified: true
 urls:
   - "https://commons.wikimedia.org/wiki/File:A_revolutionary_soldier_on_horseback_with_a_rifle_(Heraclio_Bernal)_MET_DP869390.jpg"
 ---
