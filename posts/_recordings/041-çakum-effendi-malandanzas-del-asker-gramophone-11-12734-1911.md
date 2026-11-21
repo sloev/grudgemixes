@@ -13,7 +13,7 @@ what: "“Malandanzas del asker” (Gramophone 11-12734, 1911)"
 medium: "78 rpm disc"
 tags:
   - "the-account"
-recording_url: "https://music.amazon.com/albums/B08P6MT32N"
+recording_url: "https://music.amazon.com/tracks/B08P6PSVTV"
 recording_verified: true
 urls:
   - "https://jewish-music.huji.ac.il/media/4583/download/"
