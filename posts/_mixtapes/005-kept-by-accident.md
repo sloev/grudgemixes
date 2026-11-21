@@ -16,8 +16,6 @@ tracks:
   - "song-poem-msr-851"
 ---
 
-Most music disappears. These recordings didn't, mostly by luck.
+Most music disappears. These recordings survived through private circulation, accidental preservation and small-run cassette culture.
 
-There's a Ghanaian rap tape pressed in about fifty copies and found years later in a market. A Gnawa master shares a cassette with a drummer nobody can name. Forty grimy tapes come out from behind a butcher's counter in Queens, and nine reporter's cassettes from a Cape Town cellar. From Vilnius come home tapes that existed in a single copy, and from Lithuania a whispering tape almost nobody heard. A Japanese label released exactly 222 cassettes of strangeness. And one stranger paid to turn her poem into a record.
-
-If one of these is yours, tell us.
+This collection follows home tapes, independent cassettes and song-poem records that were never built for a mainstream audience.
