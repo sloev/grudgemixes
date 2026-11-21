@@ -16,7 +16,7 @@ what: "“Cell Bound Blues” (16 October 1924, Paramount 12257-A); “Stack O�
 medium: "78 rpm disc"
 tags:
   - "the-account"
-recording_url: "https://archive.org/details/78_stack-olee-blues_ma-rainey-and-her-georgia-band-joe-smith-taylor-williams_gbia0253947b"
+recording_url: "https://www.youtube.com/watch?v=eyaeJEWiAik"
 urls:
   - "https://syncopatedtimes.com/ma-rainey-and-her-georgia-jazz-band/"
   - "https://nmaahc.si.edu/ma-rainey"
