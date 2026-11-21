@@ -39,8 +39,8 @@ jobs:
           ROOT, MEDIA = Path('.'), Path('media')
           MEDIA.mkdir(exist_ok=True)
           API = 'https://commons.wikimedia.org/w/api.php'
-          HEADERS = {'User-Agent': 'GrudgeMixesImageCollector/2.0 (GitHub Actions; contact via repository)'}
-          ALLOWED = re.compile(r'^(CC0|Public domain|CC BY(?:-SA)?(?:-[1-4](?:\\.0)?)?)$', re.I)
+          HEADERS = {'User-Agent': 'GrudgeMixesImageCollector/2.1 (GitHub Actions; contact via repository)'}
+          ALLOWED = re.compile(r'^(CC0|Public domain|CC BY(?:-SA)?(?:-[1-4](?:\.0)?)?)$', re.I)
           session = requests.Session()
           session.headers.update(HEADERS)
 
@@ -51,9 +51,8 @@ jobs:
           def clean(value):
               return re.sub(r'<[^>]+>', ' ', html.unescape(str(value or ''))).strip()
 
-          def commons_image(title, body):
+          def commons_image(title):
               words = re.findall(r'[A-Za-z0-9]{3,}', title)
-              # Try the complete post title first, then narrower topic searches.
               queries = [title, ' '.join(words[:7]), ' '.join(words[:5]) + ' music', ' '.join(words[:5]) + ' record']
               seen = set()
               for query in queries:
@@ -81,15 +80,13 @@ jobs:
                           response = session.get(url, timeout=45)
                           response.raise_for_status()
                           mime = response.headers.get('Content-Type', '').split(';')[0].lower()
-                          extensions = {'image/jpeg': '.jpg', 'image/png': '.png', 'image/webp': '.webp', 'image/tiff': '.tif'}
-                          ext = extensions.get(mime)
+                          ext = {'image/jpeg': '.jpg', 'image/png': '.png', 'image/webp': '.webp', 'image/tiff': '.tif'}.get(mime)
                           if not ext or len(response.content) < 5000:
                               continue
                           artist = clean(meta.get('Artist', {}).get('value', 'Unknown creator'))
                           object_name = clean(meta.get('ObjectName', {}).get('value', page.get('title', title)))
                           source = info.get('descriptionurl', '')
-                          attribution = f'{object_name} — {artist}; {license_name}; {source}'
-                          return response.content, ext, attribution
+                          return response.content, ext, f'{object_name} — {artist}; {license_name}; {source}'
                   except Exception as exc:
                       print(f'Commons query failed ({query}): {exc}')
                   time.sleep(0.3)
@@ -97,9 +94,10 @@ jobs:
 
           missing = []
           downloaded = 0
-          for post in sorted((ROOT / 'posts').glob('*/*.md')):
+          seen_files = set()
+          for post in sorted((ROOT / 'posts').rglob('*.md')):
               raw = post.read_text(encoding='utf-8')
-              match = re.match(r'\\A---\\s*\\n(.*?)\\n---\\s*\\n', raw, re.S)
+              match = re.match(r'\A---\s*\n(.*?)\n---\s*\n', raw, re.S)
               if not match:
                   continue
               front = yaml.safe_load(match.group(1)) or {}
@@ -107,11 +105,11 @@ jobs:
               if isinstance(images, str):
                   images = [images]
               current = str(images[0]) if images else ''
-              # Preserve any real image already in place; replace generated SVG placeholders.
+              # Keep an existing real image; replace every generated SVG placeholder.
               if current and not current.lower().split('|', 1)[0].strip().endswith('.svg'):
                   continue
               title = str(front.get('title') or post.stem)
-              result = commons_image(title, raw[match.end():])
+              result = commons_image(title)
               if not result:
                   missing.append(f'{post}: {title}')
                   print(f'NO REAL IMAGE FOUND: {post}')
@@ -119,14 +117,16 @@ jobs:
               content, ext, attribution = result
               number = post.name.split('-', 1)[0]
               filename = f'{number}-{slugify(title)}{ext}'
-              target = MEDIA / filename
-              target.write_bytes(content)
-              image_value = f'media/{filename} | {attribution}'.replace('"', "'").replace('\\n', ' ')
+              if filename in seen_files:
+                  filename = f'{number}-{slugify(title)}-{len(seen_files)}{ext}'
+              seen_files.add(filename)
+              (MEDIA / filename).write_bytes(content)
+              image_value = f'media/{filename} | {attribution}'.replace('"', "'").replace('\n', ' ')
               front_text = match.group(1)
               if re.search(r'(?m)^images:', front_text):
-                  front_text = re.sub(r'(?ms)^images:.*?(?=^[^ \\t#][^\\n]*:|\\Z)', 'images:\\n  - "' + image_value + '"\\n', front_text)
+                  front_text = re.sub(r'(?ms)^images:.*?(?=^[^ \t#][^\n]*:|\Z)', 'images:\n  - "' + image_value + '"\n', front_text)
               else:
-                  front_text += '\\nimages:\\n  - "' + image_value + '"'
+                  front_text += '\nimages:\n  - "' + image_value + '"'
               updated = raw[:match.start(1)] + front_text.rstrip() + raw[match.end(1):]
               post.write_text(updated, encoding='utf-8')
               if current:
