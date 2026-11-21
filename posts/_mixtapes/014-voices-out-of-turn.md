@@ -8,7 +8,6 @@ description: "People whose music was policed, scorned or not meant to be recorde
 tracks:
   - "gauhar-jaan-1902"
   - "julian-whiterose-j-resigna-iron-duke-in-the-land-single-tone-cal"
-  - "jules-sims-native-trinidad-kalenda-iii-1914"
   - "karl-tirén-joik-cylinder-0212-till-galtispuoda-vid-hornavan-feb"
   - "pelo-telefone-1917"
   - "qamar-ol-moluk-vaziri-192425"
