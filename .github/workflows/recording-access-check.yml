@@ -26,3 +26,10 @@ jobs:
       - run: python -m pip install pyyaml
       - name: Require a recording-specific listening URL or approved embed
         run: python scripts/check_recording_access.py
+      - name: Save the audit report even when the check fails
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: missing-recording-links
+          path: missing-recording-links.txt
+          if-no-files-found: ignore
