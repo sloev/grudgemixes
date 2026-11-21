@@ -13,8 +13,10 @@ what: "“La noche de Reyes” (Asturias; recorded 19 January 1939)"
 medium: ""
 tags:
   - "the-account"
-recording_url: ""
+recording_url: "https://www.loc.gov/item/2017700908/"
 urls:
+  - "https://www.loc.gov/item/2017700908/"
+  - "https://musicatradicional.imf.csic.es/es/piece/66579?page=1"
   - "https://www.loc.gov/item/2017700908/"
   - "https://hdl.loc.gov/loc.afc/afc1940001.afc1940001_a3844"
 ---
