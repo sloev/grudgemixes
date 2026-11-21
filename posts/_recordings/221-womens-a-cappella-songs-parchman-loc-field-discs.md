@@ -13,7 +13,8 @@ what: "Parchman (LOC field discs)"
 medium: ""
 tags:
   - "made-anyway"
-recording_url: ""
+recording_url: "https://music.apple.com/us/album/dangerous-blues/135984453?i=135985159"
+recording_verified: true
 urls:
   - "https://wwws.loc.gov/folklife/guides/Mississippi.html"
   - "https://www.loc.gov/static/collections/alan-lomax-manuscripts/documents/lomax_chronology.pdf"
