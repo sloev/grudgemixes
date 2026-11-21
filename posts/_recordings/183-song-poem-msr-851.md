@@ -13,8 +13,9 @@ what: "“My Husband, Lover, Friend”, MSR 851"
 medium: "vinyl"
 tags:
   - "unwanted"
-recording_url: "https://songpoemmusic.com/mp3.htm"
+recording_url: "https://wfmu.org/archiveplayer/?archive=182862&show=91391"
 urls:
+  - "https://wfmu.org/playlists/shows/91391"
   - "https://en.wikipedia.org/wiki/Song_poem"
   - "https://songpoemmusic.com/what_is.htm"
 images:
