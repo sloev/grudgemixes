@@ -14,6 +14,7 @@ medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://upload.wikimedia.org/wikipedia/commons/0/04/%22Nkosi_Sikelel%27_iAfrika%22_sung_by_Sol_T._Plaatje_in_October_1923.mp3"
+recording_verified: true
 urls:
   - "https://commons.wikimedia.org/wiki/Category:Nkosi_Sikelel%27_iAfrika"
   - "https://www.nts.live/incoming/british-library-sound-archive-south-african-gumboots"
