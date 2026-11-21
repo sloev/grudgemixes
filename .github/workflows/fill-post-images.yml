@@ -15,7 +15,7 @@ permissions:
 
 concurrency:
   group: fill-post-images
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   images:
