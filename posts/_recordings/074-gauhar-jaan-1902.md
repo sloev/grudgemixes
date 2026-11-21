@@ -13,8 +13,9 @@ what: "Khayal in Raag Jogiya, Gramophone Company"
 medium: "78 rpm disc"
 tags:
   - "out-of-turn"
-recording_url: "https://artsandculture.google.com/story/bQUhgLc4Ow4A8A"
+recording_url: "https://indianmusicarchive.org/musicians/gauhar-jaan"
 urls:
+  - "https://indianmusicarchive.org/musicians/gauhar-jaan"
   - "https://mustrad.mainlynorfolk.info/articles/gauhar.htm"
   - "https://en.wikipedia.org/wiki/Gauhar_Jan"
   - "https://commons.wikimedia.org/wiki/File:1904_circa_The_Gramophone_&_Typewriter_Ltd.,_Decall_with_Trade_Mark,_21_City_Road,_Finsbury_Square_London_E._C.jpg"
