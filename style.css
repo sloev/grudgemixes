@@ -243,10 +243,11 @@ a:active {
 /* Title: two full-width rows, glyphs stretched edge-to-edge, compact height */
 .catalogue-heading {
   width: 100%;
-  margin: 0;
+  margin: 2px;
   padding: 0.5rem 0 0.1rem;
   background: var(--site-red);
   color: var(--site-black);
+  box-sizing: border-box;
 }
 .catalogue-heading,
 .catalogue-heading h1 {
@@ -343,4 +344,29 @@ a:active {
     height: 10lh !important;
     max-height: 10lh !important;
   }
+}
+
+
+/* Post titles: no underline, display serif */
+.catalogue-row h2 a,
+.catalogue-row h2 a:visited,
+.catalogue-row h2 a:hover,
+.catalogue-row h2 a:focus,
+.mixtape-row h2 a,
+.mixtape-row h2 a:visited,
+.mixtape-row h2 a:hover,
+.mixtape-row h2 a:focus,
+.single-entry h1,
+.single-entry h1 a {
+  text-decoration: none !important;
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--site-black);
+}
+.catalogue-row h2 a:hover,
+.mixtape-row h2 a:hover {
+  text-decoration: underline !important;
+  text-decoration-thickness: 0.06em;
+  text-underline-offset: 0.12em;
 }
