@@ -10,7 +10,13 @@ layout: default
   {% if page.summary %}<p class="entry-summary">{{ page.summary | escape }}</p>{% endif %}
   {% if page.images and page.images.size > 0 %}
     {% assign image_parts = page.images[0] | split: " | " %}
-    <figure class="entry-image"><img src="{{ '/' | append: image_parts[0] | relative_url }}" alt="{{ image_parts[1] | default: page.title | escape }}"><figcaption>{{ image_parts[1] | escape }}</figcaption></figure>
+    {% assign image_src = image_parts[0] %}
+    {% if image_src contains "http://" or image_src contains "https://" %}
+      {% assign image_href = image_src %}
+    {% else %}
+      {% assign image_href = '/' | append: image_src | relative_url %}
+    {% endif %}
+    <figure class="entry-image"><img src="{{ image_href }}" alt="{{ image_parts[1] | default: page.title | escape }}"><figcaption>{{ image_parts[1] | escape }}</figcaption></figure>
   {% endif %}
   {% include facts.html post=page %}
   <div class="prose">{{ content }}</div>
@@ -18,6 +24,6 @@ layout: default
     <section class="listen-section"><h2>Listen</h2><a class="source-link" href="{{ page.recording_url }}">Open recording ↗</a></section>
   {% endif %}
   {% if page.urls and page.urls.size > 0 %}
-    <section class="sources"><h2>Sources &amp; further listening</h2><ol>{% for url in page.urls %}<li><a href="{{ url }}">{{ url }}</a></li>{% endfor %}</ol></section>
+    <section class="sources"><h2>Sources & further listening</h2><ol>{% for url in page.urls %}<li><a href="{{ url }}">{{ url }}</a></li>{% endfor %}</ol></section>
   {% endif %}
 </article>
