@@ -6,6 +6,8 @@ on:
     paths:
       - 'posts/**'
       - 'scripts/check_pre_2001.py'
+      - 'scripts/legacy-catalogue.txt'
+      - 'AGENTS.md'
       - '.github/workflows/pre-2001-check.yml'
   pull_request:
     paths:
