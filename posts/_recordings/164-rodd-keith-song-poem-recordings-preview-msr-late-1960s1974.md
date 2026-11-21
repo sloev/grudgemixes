@@ -14,6 +14,7 @@ medium: ""
 tags:
   - "unwanted"
 recording_url: "https://audiomack.com/rodd-keith/album/i-died-today"
+recording_verified: true
 urls:
   - "https://audiomack.com/rodd-keith/album/i-died-today"
   - "https://music.apple.com/us/album/i-died-today/1189731892"
