@@ -14,10 +14,9 @@ medium: "cassette"
 tags:
   - "found"
   - "made-anyway"
-recording_url: "https://www.youtube.com/watch?v=Jj0u7tY5QpE"
+recording_url: ""
 urls:
   - "https://archaicinventions.blogspot.com/2013/05/solenoid-norey-games-1982-tape-private.html"
-  - "https://www.youtube.com/watch?v=Jj0u7tY5QpE"
 images: []
 ---
 
@@ -27,6 +26,6 @@ In a rare bit of luck for tape archaeologists, member Peer Saer later told the s
 
 ## To do
 
-- Verify the track list and confirm the YouTube transfer is authorised or clearly label it as an archival upload, not an official release.
+- The original download link on the archive page is dead. Trace the surviving cassette or master and seek permission before adding a public listening link.
 - Confirm the exact date and whether any surviving original cassette sleeve identifies the band members.
 - Find a freely licensed image of a period cassette or relevant instrument; no generic stand-ins unless no closer image exists.
