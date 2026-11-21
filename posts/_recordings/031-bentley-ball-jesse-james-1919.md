@@ -14,6 +14,7 @@ medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://commons.wikimedia.org/wiki/File:Jesse_James_(Bentley_Ball).ogg"
+recording_verified: true
 urls:
   - "https://americanhistory.si.edu/collections/object/nmah_1282202"
   - "https://www.worldradiohistory.com/Archive-Talking-Machine/10s/Talking-Machine-1919-08.pdf"
