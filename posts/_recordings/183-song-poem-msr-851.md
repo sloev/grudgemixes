@@ -14,6 +14,7 @@ medium: "vinyl"
 tags:
   - "unwanted"
 recording_url: "https://wfmu.org/archiveplayer/?archive=182862&show=91391"
+recording_verified: true
 urls:
   - "https://wfmu.org/playlists/shows/91391"
   - "https://en.wikipedia.org/wiki/Song_poem"
