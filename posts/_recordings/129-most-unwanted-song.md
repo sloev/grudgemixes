@@ -13,8 +13,10 @@ what: "“The Most Unwanted Song”, Dia Center"
 medium: "digital"
 tags:
   - "unwanted"
-recording_url: "https://ubu.punctumbooks.com/sound/komar.html"
+recording_url: "https://needlejuice.bandcamp.com/track/the-most-unwanted-song"
 urls:
+  - "https://needlejuice.bandcamp.com/track/the-most-unwanted-song"
+  - "https://www.davesoldier.com/experimental"
   - "https://en.wikipedia.org/wiki/The_People%27s_Choice_Music"
   - "https://commons.wikimedia.org/wiki/File:Dudelsack,_violin_&_accordion,_Puhoi_Heritage_Museum.jpg"
 ---
