@@ -17,7 +17,7 @@ recording_url: ""
 urls:
   - "https://anomalyindex.com/category/lost-albums/"
 images:
-  - "media/202-time-control-addiction-by-d-o-1986-home-taped-synth-pop-the-cassette-archive.svg | Original typographic cover artwork for *Time Control Addiction* by 'D.O.' (1986 home-taped synth-pop; The Cassette Archive)"
+  - "media/202-time-control-addiction-by-d-o-1986-home-taped-synth-pop-the-cassette-archive.png | https://anomalyindex.com/wp-content/uploads/2020/04/cropped-adams-hair-lrg-strip-1.png; source: https://anomalyindex.com/category/lost-albums/"
 ---
 
 Notes to come.

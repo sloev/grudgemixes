@@ -21,7 +21,7 @@ urls:
   - "https://www.alwafd.news/essay/42371"
   - "https://commons.wikimedia.org/wiki/File:Dates_of_Egypt_and_the_Sudan_(1915)_(14763505621).jpg"
 images:
-  - "media/naima-ya-balah-zaghloul.jpg | From Silas C. Mason, Dates of Egypt and the Sudan (1915). No known copyright restrictions, via Wikimedia Commons"
+  - "media/130-the-song-that-sang-a-banned-name-without-saying-it.jpg | https://eap.bl.uk/sites/default/files/styles/social/public/2025-07/EAP1682%20Schmid%20project%20page.jpg?itok=PUqB6m2c; source: https://eap.bl.uk/project/EAP1682"
 ---
 
 In 1919 the British exiled Saad Zaghloul, the leader of Egypt's independence movement. Egyptian accounts say the military authorities then made it an offence even to say his name, punishable by prison and the lash.

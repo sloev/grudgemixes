@@ -22,7 +22,7 @@ urls:
   - "https://www.philadelphiarowhome.com/wesseh-freeman-1976-2018/"
   - "https://commons.wikimedia.org/wiki/File:Afri-can_guitar_(2009)_developed_and_commercialized_by_Graeme_Wells_(1961-2008,_Cape_Town,_South_Africa),_and_Igogogo_(2007)_by_Shiyani_Necobo_(Zule_people)_-_MIM_PHX_(2022-04-06_02.02.34_by_Terry_Ballard).jpg"
 images:
-  - "media/wesseh-freeman-oil-can-guitar.jpg | An oil-can guitar from Cape Town (the Afri-can, 2009) at the Musical Instrument Museum, Phoenix: a cousin of Freeman's. Photo: Terry Ballard, CC BY 2.0, via Wikimedia Commons"
+  - "media/220-a-guitar-built-from-an-oil-can.jpg | https://musicinafrica.net/wp-content/uploads/2026/03/hqdefault31.jpg; source: https://musicinafrica.net/node/384397"
 ---
 
 Wesseh “Weesay” Freeman lost his sight as a child and taught himself guitar. In June 2013, a performance was recorded at the Ducor Hotel in Monrovia: a long, loose session with Freeman singing and playing a guitar he had built from an oil can, a carved stick and a few strings. It is a better introduction than the later viral snippets because it gives the music time to unfold.

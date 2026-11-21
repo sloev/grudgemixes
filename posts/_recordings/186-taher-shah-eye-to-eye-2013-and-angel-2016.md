@@ -19,7 +19,7 @@ urls:
   - "https://tribune.com.pk/story/1270065/entertainment"
   - "https://globalvoices.org/2016/04/19/how-pakistans-taher-shah-took-viral-culture-to-the-next-level/"
 images:
-  - "media/186-taher-shah-eye-to-eye-2013-and-angel-2016.svg | Original typographic cover artwork for Taher Shah, 'Eye to Eye' (2013) and 'Angel' (2016)"
+  - "media/186-taher-shah-eye-to-eye-2013-and-angel-2016.webp | https://i.tribune.com.pk/media/images/1270065-taherx-1482306036/1270065-taherx-1482306036-640x480.webp; source: https://tribune.com.pk/story/1270065/entertainment"
 ---
 
 written off as a joke and mocked on national TV in 2013, he came back in 2016 with "Angel". He left Pakistan in December 2016 after death threats.

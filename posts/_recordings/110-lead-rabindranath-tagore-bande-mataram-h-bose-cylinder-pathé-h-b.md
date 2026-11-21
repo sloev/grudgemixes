@@ -22,8 +22,6 @@ urls:
   - "https://library.bjp.org/jspui/bitstream/123456789/301/10/VOL005.pdf"
   - "https://eparlib.sansad.in/bitstream/123456789/873318/1/03_V_16-08-1963_p98_p109_PII.pdf"
   - "https://www.ncpamumbai.com/wp-content/uploads/2023/12/ON-Stage-February-2024.pdf"
-images:
-  - "media/110-lead-rabindranath-tagore-bande-mataram-h-bose-cylinder-pathe-h-bose-disc-1890s1908-date-di.svg | Original typographic cover artwork for (lead) — Rabindranath Tagore, “Bande Mataram” (H. Bose cylinder / Pathé-H. Bose disc; 1890s–1908, date disputed)"
 ---
 
 “Bande Mataram” became a major song of the Swadeshi movement and resistance to the 1905 partition of Bengal. Its circulation was entangled with political meetings, anti-colonial mobilisation, police searches and destruction/confiscation of nationalist recording material. The gramophone/cylinder was not simply a neutral imported technology: local entrepreneurs and activists used it to circulate political sound.

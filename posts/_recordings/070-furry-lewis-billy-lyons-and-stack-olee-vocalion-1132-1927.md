@@ -20,7 +20,7 @@ urls:
   - "https://www.grooves-inc.co.uk/furry-lewis-furrys-blues-1927-1929-document-cd-pZZa1-1899420523.html"
   - "https://www.staggerlee.com/history/1921-1930.php"
 images:
-  - "media/070-furry-lewis-billy-lyons-and-stack-o-lee-vocalion-1132-1927.svg | Original typographic cover artwork for Furry Lewis — “Billy Lyons and Stack O'Lee” (Vocalion 1132, 1927)"
+  - "media/070-furry-lewis-billy-lyons-and-stack-o-lee-vocalion-1132-1927.jpg | https://www.wirz.de/music/lewis/grafik/lewis2.jpg; source: https://www.wirz.de/music/lewis.htm"
 ---
 
 The title explicitly names Billy Lyons and Stack O'Lee, the two figures at the centre of the Stagger Lee ballad cycle. This is a strong research lead for a song about retaliatory violence, but the exact lyric and moral point of view must be established from this performance. Later summaries and familiar lyrics are not substitutes for the 1927 master.

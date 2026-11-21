@@ -16,8 +16,6 @@ tags:
 recording_url: "https://www.loc.gov/item/jukebox-19711/"
 urls:
   - "https://commons.wikimedia.org/wiki/File:Yeghishe,_Vasn_Vardanay_ew_Hayoc_paterazmin,_1569_(Matenadaran,_Ms._1920,_no._250v.).jpg"
-images:
-  - "media/bezazian-bam-porotan-1916.jpg | Yeghishe's history of Vartan and the Armenian war, illuminated manuscript of 1569 (Matenadaran Ms. 1920). Public domain, via Wikimedia Commons"
 ---
 
 Ghevont Alishan's 1850 poem "Bam Porotan" calls Armenians to remember Avarayr, the battle of 451 in which Vartan Mamikonian fell defending the faith. That defeat has been commemorated for fifteen centuries.

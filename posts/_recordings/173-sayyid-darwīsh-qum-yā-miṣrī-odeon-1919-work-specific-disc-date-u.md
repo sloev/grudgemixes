@@ -21,7 +21,7 @@ urls:
   - "https://diplomatmagazineegypt.com/wp-content/uploads/2023/05/No265-267.pdf"
   - "https://www.shorouknews.com/news/view.aspx?cdate=16032019&id=5d15c93c-06b4-424e-a95c-9a02fce2ffe7"
 images:
-  - "media/173-sayyid-darwish-qum-ya-misri-odeon-1919-work-specific-disc-date-unknown.svg | Original typographic cover artwork for Sayyid Darwīsh, “Qum yā Miṣrī” (Odeon; 1919 work, specific disc date unknown)"
+  - "media/173-sayyid-darwish-qum-ya-misri-odeon-1919-work-specific-disc-date-unknown.jpg | https://x.tarab.ai/og/sd.jpg; source: https://x.tarab.ai/a/sd"
 ---
 
 The work is a strong collective defiance / anticolonial solidarity lead. It is not simply a generic patriotic song: it emerged in the 1919 uprising and uses an imperative call to collective action. The solidarity stanza is particularly important because it can be read as an explicit appeal across religious communities; verify its presence in the actual Odeon issue rather than importing it from a later printed lyric.

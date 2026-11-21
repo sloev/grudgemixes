@@ -22,7 +22,7 @@ urls:
   - "https://balladofamerica.org/railroad-bill/"
   - "https://folkways-media.si.edu/docs/folkways/artwork/FW34162.pdf"
 images:
-  - "media/159-riley-puckett-railroad-bill-columbia-15040-d-1924.svg | Original typographic cover artwork for Riley Puckett — “Railroad Bill” (Columbia 15040-D, 1924)"
+  - "media/159-riley-puckett-railroad-bill-columbia-15040-d-1924.jpg | https://i0.wp.com/78-records.com/wp-content/uploads/2025/11/msp_playlist-header.jpg?resize=675%2C492&ssl=1; source: https://78-records.com/category/columbia-78-records/"
 ---
 
 “Railroad Bill” is a Black-origin blues ballad associated in song and story with a fugitive train robber known as Railroad Bill, often identified as Morris Slater, though the identity is disputed. The American National Biography notes that the ballad circulated among field hands, turpentine-camp workers, prisoners and other Black working-class communities in the Deep South before appearing in print in 1911; the first commercial recording was made by Gid Tanner and Riley Puckett in 1924. https://academic.oup.com/american-national-biography/reference/63042/reference-article-abstract/570545184

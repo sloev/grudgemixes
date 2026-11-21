@@ -20,7 +20,7 @@ urls:
   - "https://oxfordamerican.org/magazine/issue-85-summer-2014/black-patti-8030"
   - "https://www.staggerlee.com/history/1921-1930.php"
 images:
-  - "media/113-long-cleve-reed-and-little-harvey-hull-original-stack-o-lee-blues-black-patti-8030-1927.svg | Original typographic cover artwork for Long “Cleve” Reed and Little Harvey Hull — “Original Stack O'Lee Blues” (Black Patti 8030, 1927)"
+  - "media/113-long-cleve-reed-and-little-harvey-hull-original-stack-o-lee-blues-black-patti-8030-19.jpg | https://www.wirz.de/music/hullph/grafik/hull1.jpg; source: https://www.wirz.de/music/hullph.htm"
 ---
 
 This is an early, distinct vocal interpretation of the Stagger Lee / Stack O'Lee murder-ballad family. It is highly relevant to research on retaliatory violence and outlaw memory. However, its exact lyric, narrative sequence and stance toward the killing must be checked against the recording; do not substitute later lyrics or assume the title alone establishes a revenge motive.

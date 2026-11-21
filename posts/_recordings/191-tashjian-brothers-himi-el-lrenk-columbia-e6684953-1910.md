@@ -22,7 +22,7 @@ urls:
   - "https://armenian-museum.squarespace.com/sound-archive/tashjian-story"
   - "https://www.armenianmuseum.org/sound-archive/the-tashjian-brothers"
 images:
-  - "media/191-tashjian-brothers-himi-el-lrenk-columbia-e668-4953-1910.svg | Original typographic cover artwork for Tashjian Brothers, “Himi El Lrenk” (Columbia E668/4953, 1910)"
+  - "media/191-tashjian-brothers-himi-el-lrenk-columbia-e668-4953-1910.webp | http://static1.squarespace.com/static/5963d44e03596ece54830d99/685072625c9947157ae7d881/68507c9d0b9e137265520f38/1760649048969/Eghbayrner+T%27ashchean_I+Biwr+Dzaynits_Columbia_E665; source: https://armenian-museum.squarespace.com/sound-archive/the-tashjian-brothers"
 ---
 
 The Armenian Museum identifies “Himi El Lrenk” as one of the 28 songs recorded by the Tashjian Brothers in 1910 and reproduces the Columbia E668/4953 label. The museum does not publish a full transcription of this particular 1910 performance.

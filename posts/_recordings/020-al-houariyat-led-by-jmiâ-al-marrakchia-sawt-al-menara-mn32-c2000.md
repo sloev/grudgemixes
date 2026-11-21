@@ -16,7 +16,7 @@ tags:
 recording_url: "https://moroccantapestash.blogspot.com/2022/01"
 urls: []
 images:
-  - "media/020-al-houariyat-led-by-jmia-al-marrakchia-sawt-al-menara-mn-32-c-2000-women-s-percussion-grou.svg | Original typographic cover artwork for Al Houariyat, led by Jmiâ Al Marrakchia (Sawt Al Menara MN.32, c.2000), women's percussion group"
+  - "media/020-al-houariyat-led-by-jmia-al-marrakchia-sawt-al-menara-mn-32-c-2000-women-s-percussion.jpg | https://blogger.googleusercontent.com/img/a/AVvXsEgjUhrqqt03OK62iqXzC8sTfNiu-b1VkrnQ1GXKqKtXPWSUeChelVr-Rk6PZ16g9-3ZHJOKmi68vuyAAyfZ76pJ9vNIFu5PovztMSTncc-Gq_IGvPuEFY9XbgmoYE5eLQUn; source: https://moroccantapestash.blogspot.com/2022/01"
 ---
 
 Notes to come.

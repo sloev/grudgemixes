@@ -14,8 +14,6 @@ medium: "cassette"
 tags: []
 recording_url: ""
 urls: []
-images:
-  - "media/170-salidummay-dkk.svg | Original typographic cover artwork for Salidummay (DKK)"
 ---
 
 Indigenous land-defence songs passed hand to hand.

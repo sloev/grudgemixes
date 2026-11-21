@@ -18,7 +18,7 @@ urls:
   - "https://ftp.wfmu.org/playlists/shows/131126"
   - "https://commons.wikimedia.org/wiki/File:Cassette_collection_in_a_shop.jpg"
 images:
-  - "media/bodega-pop-halal-shop-tapes.jpg | Cassettes for sale in a shop. Photo: Steven Lek, CC BY-SA 4.0, via Wikimedia Commons"
+  - "media/033-forty-grimy-cassettes-behind-the-halal-counter.jpg | https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNQxhOyQH7hCxmJ4Wd4DMSN0zZbphSJ9L1wDz_C6cJmZDd5maBXUtHdSWWHZwqq2Q6LrAbNEvgfjGuflpuJsMACsCOs4whQuYtRCQhDAYOzUHJLNRgv2MxgY-; source: https://bodegapop.blogspot.com/2017/11/orchestra-djamal-mazhariphone-cassette.html"
 ---
 
 Gary Sullivan's Bodega Pop collects music ripped from cassettes and CDs found in immigrant-run corner shops. On one visit to a halal butcher's in Astoria he came away with some forty grime-encrusted tapes from Algeria, Egypt, Iraq, Lebanon, Morocco, Saudi Arabia, Syria, Turkey and the Emirates.

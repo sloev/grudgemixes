@@ -23,7 +23,7 @@ urls:
   - "https://camp-fire.jp/projects/271521/view/activities/235117"
   - "https://news.livedoor.com/article/detail/30852155/"
 images:
-  - "media/187-takashi-tojo.svg | Original typographic cover artwork for Takashi Tōjō (東條高), 生かされて / この道 / こころ"
+  - "media/187-takashi-tojo.jpg | https://comoesta.co.jp/wp-content/uploads/2020/01/tomoe-1.jpg; source: https://comoesta.co.jp/contact/"
 ---
 
 **Where and when:** Ōshima Seishōen, Kagawa, Japan; Date(s): 2003, Feb 2021, Apr 2026; Medium: Three CDs

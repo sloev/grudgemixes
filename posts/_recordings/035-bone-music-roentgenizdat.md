@@ -19,7 +19,7 @@ urls:
   - "https://www.npr.org/2016/01/09/462289635/bones-and-grooves-the-weird-secret-history-of-soviet-x-ray-music"
   - "https://commons.wikimedia.org/wiki/File:Rock_on_Bones2.jpg"
 images:
-  - "media/bone-music-roentgenizdat.jpg | A Soviet record cut on X-ray film, 1950s, shown at Vinzavod, Moscow. Photo: Dmitry Rozhkov, CC BY-SA 3.0, via Wikimedia Commons"
+  - "media/035-music-on-the-ribs.webp | http://static1.squarespace.com/static/53bb1c10e4b08d62f153a5d0/t/6054814a4c43e64a0cfc03ed/1616150858084/Bone+Disc+1.jpg?format=1500w; source: https://www.x-rayaudio.com/"
 ---
 
 After the war, huge amounts of music were forbidden in the Soviet Union: jazz, rock'n'roll, émigré singers, tango, prison songs. Bootleggers worked out that discarded hospital X-ray film could take a groove. Cut into a rough disc with a cigarette-burned hole, someone's chest or skull became a record of Elvis or a banned émigré crooner.

@@ -19,7 +19,7 @@ urls:
   - "https://time.com/archive/6808157/recitals-shoot-the-piano-players"
   - "https://commons.wikimedia.org/wiki/File:Vexations_erik_satie_piano_sheet.jpeg"
 images:
-  - "media/vexations-840-times.jpg | The single page of Satie's Vexations. Image: Sonia y natalia, CC BY-SA 3.0, via Wikimedia Commons"
+  - "media/218-840-times.jpg | https://upload.wikimedia.org/wikipedia/commons/a/a3/Santiago_Rusinol_Portrait_of_Eric_Satie_at_the_harmonium.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnai; source: https://en.wikipedia.org/wiki/Vexations"
 ---
 
 Erik Satie left behind a single page of slow, unresolved music headed by a note about playing it 840 times in a row. He never published it and never played it.

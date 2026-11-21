@@ -20,7 +20,7 @@ urls:
   - "https://barner16.de/bands/station17"
   - "https://station17.bandcamp.com/"
 images:
-  - "media/184-station-17-sing-that-everything-belongs-to-everyone.svg | Original typographic cover artwork for Station 17 sing that everything belongs to everyone"
+  - "media/184-station-17-sing-that-everything-belongs-to-everyone.jpg | https://f4.bcbits.com/img/a1123943438_5.jpg; source: https://barner16.bandcamp.com/track/alles-f-r-alle"
 ---
 
 Station 17 started in Hamburg in 1989 as a project of Wohngruppe 17, a residential group for people with intellectual disabilities. Musician Kai Boysen brought together residents and musicians from the city’s underground scene. The project outgrew its original frame: Station 17 became an experimental band, moving between krautrock, disco, electronics, noise and pop, and collaborating with artists including Michael Rother and Fettes Brot.

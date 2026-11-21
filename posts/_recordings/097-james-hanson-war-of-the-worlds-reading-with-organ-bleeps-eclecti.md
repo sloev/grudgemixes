@@ -15,8 +15,6 @@ tags:
   - "found"
 recording_url: "http://www.mediafire.com/listen/s1por6lu8pvjc38/87R001+GAYTON.mp3"
 urls: []
-images:
-  - "media/097-james-hanson-war-of-the-worlds-reading-with-organ-bleeps-eclectiktronik-87r001.svg | Original typographic cover artwork for 'James Hanson', *War of the Worlds* reading with organ bleeps (EclectikTronik 87R001)"
 ---
 
 a young person reads *The War of the Worlds* into the mic, makes noises and plays electronic bleeps on a primitive organ. A one-person radio play.

@@ -19,7 +19,7 @@ urls:
   - "https://www.worldradiohistory.com/Archive-Talking-Machine/10s/Talking-Machine-1919-08.pdf"
   - "https://commons.wikimedia.org/wiki/File:Side_view_of_Jesse_James_home_and_museum.jpg"
 images:
-  - "media/bentley-ball-jesse-james-1919.jpg | The Jesse James house in St. Joseph, Missouri, where Ford shot him. Photo: MauraWen, CC0, via Wikimedia Commons"
+  - "media/031-the-ballad-that-convicted-robert-ford.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Side_view_of_Jesse_James_home_and_museum.jpg/960px-Side_view_of_Jesse_James_home_and_museum.jpg?utm_source=commons.wikimedi; source: https://commons.wikimedia.org/wiki/File:Side_view_of_Jesse_James_home_and_museum.jpg"
 ---
 
 Robert Ford shot Jesse James in the back for the reward, was pardoned, and never escaped the song. "The dirty little coward that shot Mister Howard" was passed around as a public verdict the courts never delivered.

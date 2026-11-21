@@ -15,8 +15,6 @@ tags:
   - "the-account"
 recording_url: ""
 urls: []
-images:
-  - "media/216-vernon-dalhart-jesse-james-edison-51621.svg | Original typographic cover artwork for Vernon Dalhart, 'Jesse James' (Edison 51621)"
 ---
 
 **Why it's here:** third version of the "dirty little coward" accusation ballad.

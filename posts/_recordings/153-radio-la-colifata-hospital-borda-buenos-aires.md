@@ -17,7 +17,7 @@ recording_url: ""
 urls:
   - "https://www.vice.com/en/article/talk-radio-therapy-v25n4/"
 images:
-  - "media/153-radio-la-colifata-hospital-borda-buenos-aires.svg | Original typographic cover artwork for Radio La Colifata, Hospital Borda, Buenos Aires"
+  - "media/153-radio-la-colifata-hospital-borda-buenos-aires.jpg | https://www.vice.com/wp-content/uploads/sites/2/2018/12/1542839472470-GB6B3443_72-ppi-c-Ph-Anita-Bugni-2018_300.jpeg?resize=2000,1333; source: https://www.vice.com/en/article/talk-radio-therapy-v25n4/"
 ---
 
 radio run by patients from inside a psychiatric hospital since 1991; album *Viva La Colifata* (2009) with Manu Chao.

@@ -19,7 +19,7 @@ urls:
   - "https://danielwakeford.bandcamp.com/album/the-rock-pop-album-2"
   - "https://www.danielwakeford.com/"
 images:
-  - "media/057-daniel-wakeford-declares-himself-a-rock-popstar.svg | Original typographic cover artwork for Daniel Wakeford declares himself a rock-popstar"
+  - "media/057-daniel-wakeford-declares-himself-a-rock-popstar.jpg | https://f4.bcbits.com/img/a3196629872_5.jpg; source: https://danielwakeford.bandcamp.com/album/the-rock-pop-album-2"
 ---
 
 Daniel Wakeford has been writing and recording songs since 2009. *The Rock-Pop Album* arrived on 1 December 2022, his birthday, credited to the Daniel Wakeford Experience. Wakeford sings lead; the band brings in keyboards, violin, viola, cello, guitars, bass, drums and Moog. The songs were recorded and mixed at Brighton Road Recording Studios.

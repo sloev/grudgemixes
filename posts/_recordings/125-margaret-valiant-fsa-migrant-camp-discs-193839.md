@@ -21,8 +21,6 @@ urls:
   - "https://www.loc.gov/item/afc9999005.9995"
   - "https://www.neh.gov/article/government-song-women"
   - "https://www.sherylkaskowitz.com/recordings"
-images:
-  - "media/125-margaret-valiant-fsa-migrant-camp-discs-193839.svg | Original typographic cover artwork for Margaret Valiant FSA migrant-camp discs, 1938–39"
 ---
 
 **Where and when:** Calipatria, Brawley and Shafter FSA camps, California; Date(s): 1938–39; Medium: Instantaneous disc

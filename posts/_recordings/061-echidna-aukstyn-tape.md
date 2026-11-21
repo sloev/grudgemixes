@@ -22,7 +22,7 @@ urls:
   - "https://www.ekspertai.eu/straipsnis/lietuvoje-atgimsta-kaseciu-kultura"
   - "https://www.music.lt/lt/grupe/Ramunas-Jaras-Echidna-aukstyn/3006/"
 images:
-  - "media/echidna-aukstyn-tape.jpg | Vilma 207 twin cassette deck, made in Lithuania 1988–91. Drawing: Retired electrician, CC0, via Wikimedia Commons"
+  - "media/061-echidna-aukstyn-s-underground-music-cassette-from-1993.jpg | https://www.mic.lt/media/filer_public_thumbnails/filer_public/c5/54/c554b67c-fad0-416c-b3e6-94414032085c/8ramunas_jaras.jpg__407x407_q85_crop-smart_subject_location-1014%2C278_subs; source: https://www.mic.lt/en/database/electronic/composers-artists/jaras/"
 ---
 
 Ramūnas Jaras formed Echidna Aukštyn in Lithuania and issued *Paskutinė požemių muzika* (The Last Music of the Dungeons) on cassette in 1993. The recording is murky and homemade: low frequencies, lo-fi crackle, basement-piano tones and voices thrown into echo. It sounds like music leaking through a wall from a room that might not officially exist.

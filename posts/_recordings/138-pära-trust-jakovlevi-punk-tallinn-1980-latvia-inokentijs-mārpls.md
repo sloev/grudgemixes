@@ -15,8 +15,6 @@ tags:
   - "made-anyway"
 recording_url: "https://soundcloud.com/punkperestroika"
 urls: []
-images:
-  - "media/138-para-trust-jakovlevi-punk-tallinn-1980-latvia-inokentijs-marpls-mekle-mani-pekle-riga-1987.svg | Original typographic cover artwork for Pära Trust, 'Jakovlevi punk' (Tallinn, 1980) / Latvia · Inokentijs Mārpls, 'Meklē mani peklē' (Riga, 1987)"
 ---
 
 Notes to come.

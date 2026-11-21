@@ -16,8 +16,6 @@ tags:
 recording_url: ""
 urls:
   - "https://www.academia.edu/144206820/_Examining_Unintentionality_and_Intentionality_of_Sound_in_Prehistoric_Malta_AEMR_EJ_5_44_50"
-images:
-  - "media/089-holy-church-of-yahweh-member-cassettes-several-dozen.svg | Original typographic cover artwork for Holy Church of Yahweh member cassettes (several dozen)"
 ---
 
 **Where and when:** Quezon City, Philippines; Date(s): 1978–c.1991; Medium: Cassette

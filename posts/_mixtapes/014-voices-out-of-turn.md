@@ -12,8 +12,6 @@ tracks:
   - "karl-tirén-joik-cylinder-0212-till-galtispuoda-vid-hornavan-feb"
   - "pelo-telefone-1917"
   - "qamar-ol-moluk-vaziri-192425"
-images:
-  - "media/014-voices-out-of-turn.jpg |   'Centaur'; or the 'Turn out', a practical treatise on the (humane) management of horses ..  —  Gough, Edward W; Public domain; https://commons.wikimedia.org/wiki/File:%22Centaur%22;_or_the_%22Turn_out%22,_a_practical_treatise_on_the_(humane)_management_of_horses_.._(IA_centaurorturnout00gougrich).pdf"
 ---
 
 People whose music was policed, scorned or not meant to be recorded, getting onto disc and cylinder anyway. This volume carries the series' widest geography.

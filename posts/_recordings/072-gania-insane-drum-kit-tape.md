@@ -19,7 +19,7 @@ urls:
   - "https://boingboing.net/2026/02/25/moroccan-tape-stash-preserves-moroccos-cassette-music-heritage.html"
   - "https://commons.wikimedia.org/wiki/File:Guinbri,_Marroc,_s._XIX.jpg"
 images:
-  - "media/gania-insane-drum-kit-tape.jpg | A Moroccan guimbri, 19th century, Museu de la Música de Barcelona. Photo: Sguastevi, CC BY-SA 4.0, via Wikimedia Commons"
+  - "media/072-gnawa-master-meets-a-drummer-who-will-not-stop.jpg | https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIkzxJ801dtIctxkiMSJ_p_tsI31bIQ9mtUaboqenL9CT6mm_VewvWLn56rkgYVgjLw9MJ7QNbUUZBbV8nu5_iZOn-fxBEu5XmE8xejxjaVdZNzLrso6V5fh7; source: https://moroccantapestash.blogspot.com/2022"
 ---
 
 Maâlem Mahmoud Gania of Essaouira was the best-known Gnawa musician of his time. On a pair of Voix de Casablanca cassettes (VDC 53 and VDC 51), his guimbri and the clattering *qraqeb* are joined by an anonymous trap drummer who rolls, crashes and punctuates without a break.

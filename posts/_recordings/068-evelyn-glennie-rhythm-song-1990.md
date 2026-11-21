@@ -20,7 +20,7 @@ urls:
   - "https://www.polarmusicprize.org/laureates/evelyn-glennie/"
   - "https://www.abc.net.au/listen/programs/legends/legends-evelyn-glennie/105583780"
 images:
-  - "media/068-evelyn-glennie-makes-a-whole-orchestra-out-of-percussion.svg | Original typographic cover artwork for Evelyn Glennie makes a whole orchestra out of percussion"
+  - "media/068-evelyn-glennie-makes-a-whole-orchestra-out-of-percussion.webp | https://www.evelyn.co.uk/wp-content/uploads/2026/04/Rhythm-Song-CD-Album-Cover-Art-71t9UaDTnnL._AC_SL1500_.webp; source: https://www.evelyn.co.uk/discography/rhythm-song/"
 ---
 
 Evelyn Glennie’s first solo album, *Rhythm Song*, appeared on RCA Victor in April 1990. Its repertoire jumps from Scott Joplin’s “Maple Leaf Rag” and Rimsky-Korsakov’s “Flight of the Bumble Bee” to Glennie’s own “A Little Prayer”. The National Philharmonic Orchestra appears alongside her tuned percussion, but the record’s centre of gravity is unmistakably the soloist: marimba, rhythm and a startling range of colour.

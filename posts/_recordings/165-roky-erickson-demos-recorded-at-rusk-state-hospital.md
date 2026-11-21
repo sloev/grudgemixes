@@ -15,8 +15,6 @@ tags:
   - "made-anyway"
 recording_url: ""
 urls: []
-images:
-  - "media/165-roky-erickson-demos-recorded-at-rusk-state-hospital.svg | Original typographic cover artwork for Roky Erickson, demos recorded at Rusk State Hospital"
 ---
 
 **Where and when:** Rusk State Hospital, Texas, USA; Date(s): c.1969–72; Medium: Reel-to-reel; issued on later compilations

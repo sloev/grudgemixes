@@ -19,8 +19,6 @@ urls:
   - "http://www.dspace.cam.ac.uk/handle/1810/244387"
   - "https://afrodisc.com/west-africa/emi-west-african-labels/west-africa-odeon-a-248000-248059/"
   - "https://www.repository.cam.ac.uk/items/e9908b40-87b7-4b8b-b201-5cbef61ebfaf"
-images:
-  - "media/093-iquo-ekong-iquo-ubom-ibibio-efik-odeon-shellac-pair.svg | Original typographic cover artwork for «Iquo Ekong» / «Iquo Ubom» (Ibibio / Efik Odeon shellac pair)"
 ---
 
 # GM-NG-001 — «Iquo Ekong» / «Iquo Ubom» (Ibibio / Efik Odeon shellac pair)

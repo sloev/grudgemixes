@@ -25,7 +25,7 @@ urls:
   - "https://www.lautarchiv.hu-berlin.de/en/collections-and-catalog/collections/"
   - "https://www.lautarchiv.hu-berlin.de/en/introduction/chronology/"
 images:
-  - "media/058-david-boder-songs-recorded-in-henonville-dp-camp-ushmm-rg-91-2015.svg | Original typographic cover artwork for David Boder, “Songs recorded in Henonville DP camp” (USHMM RG-91.2015)"
+  - "media/058-david-boder-songs-recorded-in-henonville-dp-camp-ushmm-rg-91-2015.png | https://holocaustmusic.ort.org/fileadmin/image_archive/people/david-boder/david-boder-at-the-wire-recorder-courtesy-of-professor-yair-aharonowitz.png; source: https://holocaustmusic.ort.org/memory/dp-camps/david-boder/"
 ---
 
 **Where and when:** Hénonville DP centre, France; Date(s): 1946; Medium: Wire

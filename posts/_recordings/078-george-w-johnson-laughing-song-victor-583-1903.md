@@ -19,8 +19,6 @@ urls:
   - "https://www.loc.gov/item/n99035953/george-w-johnson/"
   - "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/LaughingSong.pdf"
   - "https://www.loc.gov/item/prn-14-052/"
-images:
-  - "media/078-george-w-johnson-turns-a-laugh-into-a-hit-record.svg | Original typographic cover artwork for George W. Johnson turns a laugh into a hit record"
 ---
 
 George W. Johnson was the first African American to make commercial phonograph records, beginning in 1890. His best-known number, “The Laughing Song”, was a hit in the 1890s and was recorded again and again for different companies. The performance is built around a gruff baritone, a ragtime-tinged piano part and Johnson’s bursts of laughter. It is catchy, odd and hard to forget.

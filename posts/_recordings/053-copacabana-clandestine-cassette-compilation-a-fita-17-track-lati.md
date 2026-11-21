@@ -18,8 +18,6 @@ urls:
   - "https://doi.org/10.20504/opus2024.30.16"
   - "https://www.anppom.com.br/revista/index.php/opus/article/download/opus2024.30.16/pdf"
   - "https://www.scielo.br/j/opus/a/43QQ9pGYpVQCWF3f5DFg3sj/?lang=pt"
-images:
-  - "media/053-copacabana-clandestine-cassette-compilation-a-fita-17-track-latin-american-protest-program.svg | Original typographic cover artwork for Copacabana clandestine cassette compilation (“A FITA”), 17-track Latin American protest programme"
 ---
 
 # IM-043 — The Copacabana clandestine cassette compilation (“A FITA”), Rio de Janeiro, c.1975

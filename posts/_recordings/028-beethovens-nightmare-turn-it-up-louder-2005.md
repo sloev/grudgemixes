@@ -19,7 +19,7 @@ urls:
   - "https://beethovensnightmare.com/"
   - "https://archives.starbulletin.com/2005/05/23/news/story4.html"
 images:
-  - "media/028-beethovens-nightmare-wait-thirty-years-to-turn-it-up-louder.svg | Original typographic cover artwork for Beethoven’s Nightmare wait thirty years to turn it up louder"
+  - "media/028-beethovens-nightmare-wait-thirty-years-to-turn-it-up-louder.jpg | https://beethovensnightmare.com/assets/images/card.jpg?v=58b96460; source: https://beethovensnightmare.com/"
 ---
 
 In the 1970s, three Deaf college students gathered in a Gallaudet University dorm room to play rock music and imagine a future as a band. They called themselves Beethoven’s Nightmare. They kept going for decades, playing venues around the United States and overseas, before releasing their first CD, *Turn It Up Louder*, in Hawaii in May 2005.

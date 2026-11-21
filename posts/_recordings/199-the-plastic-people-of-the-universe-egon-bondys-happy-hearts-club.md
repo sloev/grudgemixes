@@ -18,7 +18,7 @@ urls:
   - "https://www.soundohm.com/product/egon-bondy-s-happy-black"
   - "https://en.wikipedia.org/wiki/Egon_Bondy%27s_Happy_Hearts_Club_Banned"
 images:
-  - "media/199-the-plastic-people-of-the-universe-egon-bondy-s-happy-hearts-club-banned.svg | Original typographic cover artwork for The Plastic People of the Universe, *Egon Bondy's Happy Hearts Club Banned*"
+  - "media/199-the-plastic-people-of-the-universe-egon-bondy-s-happy-hearts-club-banned.jpg | https://www.soundohm.com/data/products/2023-05/plastic-peopleegon-bondy-s-happy-lp-jpg.jpg; source: https://www.soundohm.com/product/egon-bondy-s-happy-black"
 ---
 
 recorded in secret at Houska Castle, Dec 1974, by a band banned from public performance; released only in France in 1978.

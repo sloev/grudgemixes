@@ -16,7 +16,7 @@ tracks:
   - "opus-no-1-hold-music"
   - "vexations-840-times"
 images:
-  - "media/013-unwanted.svg | Original typographic cover artwork for Unwanted"
+  - "media/013-unwanted.png | UNWANTED; source: https://archive.org/details/unwanted_20240311_1512"
 ---
 
 Who decides what is unwanted? Rough music as a village's verdict, songs built to be hated, music used to drive people away, and makers the culture laughed at. The joke is on taste, never on the makers. Spitebites humour is allowed in the framing of nuisance tracks; makers are never mocked. Famous anchors open and close; the middle is discovery.

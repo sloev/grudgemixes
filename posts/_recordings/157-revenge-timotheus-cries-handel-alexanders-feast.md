@@ -23,8 +23,6 @@ urls:
   - "https://classicmusiccds.com/product/australian-bass-malcolm-mceachern-1883-1945-vol-1-cdr/"
   - "https://prd-s.awa.fm/track/95f94923e616e638ed09"
   - "https://www.vmii.org/hwv-75-alexanders-feast/21-revenge-timotheus-cries"
-images:
-  - "media/157-revenge-timotheus-cries-handel-alexanders-feast.svg | Original typographic cover artwork for “Revenge! Timotheus cries” — Handel, *Alexander’s Feast*"
 ---
 
 The aria is a direct thematic fit: its text explicitly stages revenge and vengeance. It is a literary/classical representation, not evidence of an actual grievance or a contemporary act of revenge.

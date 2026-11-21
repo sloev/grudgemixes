@@ -19,7 +19,7 @@ urls:
   - "https://www.youtube.com/watch?v=rNVGUlctVKI"
   - "https://archaicinventions.blogspot.com/"
 images:
-  - "media/090-hora-est-make-bedroom-pop-drone-and-electronic-oddities-on-one-tape.svg | Original typographic cover artwork for Hora Est make bedroom pop, drone and electronic oddities on one tape"
+  - "media/090-hora-est-make-bedroom-pop-drone-and-electronic-oddities-on-one-tape.jpg | https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIPWz41CaUfPVpM7Yd7mudBX2OxUMA4FZjJ-lAzzSn3US43POiEjPDf76swyHiJQQCudqD9fgFl7PLbMZo0BGOQO3FYSH451r7FaCS6_eDkBE762ML1kCSjZJ; source: https://archaicinventions.blogspot.com/"
 ---
 
 A self-released cassette attributed to the mysterious Dutch project Hora Est is one of those home-taping finds that seems to have been made in a room with too many keyboards and no reason to stop. The tape moves between electronic experiments, bedroom pop, cheap-keyboard minimalism and ambient drone. Its track list includes “Nasty Young One”, “Wonder Baby”, “Gymnastics”, “Casiobility” and “Violinen”.

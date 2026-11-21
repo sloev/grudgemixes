@@ -23,7 +23,7 @@ urls:
   - "https://www.cambridge.org/core/journals/yearbook-for-traditional-music/article/abs/ethnomusicology-and-folk-music-research-in-denmark/1B2F611D426BD4B8482AFFDB73490011"
   - "https://old.capricemusic.se/svensktvisarkiv/artikel/inspelningarna/?lang=en"
 images:
-  - "media/021-anders-enevig-tapes-dansk-folkemindesamling-incl-agnes-sambleben-ballad-1959.svg | Original typographic cover artwork for Anders Enevig tapes (Dansk Folkemindesamling), incl. Agnes Sambleben ballad (1959)"
+  - "media/021-anders-enevig-tapes-dansk-folkemindesamling-incl-agnes-sambleben-ballad-1959.jpg | https://media.lex.dk/theme_section_item/14650/featured_card_000_36YT3JR-5392x3595ma.jpg; source: https://biografiskleksikon.lex.dk/Anders_Enevig"
 ---
 
 **Where and when:** Copenhagen and Danish itinerant communities; Date(s): 1958–83; Medium: Tape

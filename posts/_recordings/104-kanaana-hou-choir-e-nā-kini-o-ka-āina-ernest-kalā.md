@@ -14,8 +14,6 @@ medium: ""
 tags: []
 recording_url: ""
 urls: []
-images:
-  - "media/104-kanaana-hou-choir-e-na-kini-o-ka-aina-ernest-kala.svg | Original typographic cover artwork for Kana‘ana Hou Choir, E Nā Kini o ka ‘Āina (Ernest Kalā)"
 ---
 
 Exiled residents record their own choir.

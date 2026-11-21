@@ -18,7 +18,7 @@ urls:
   - "https://en.wikipedia.org/wiki/The_People%27s_Choice_Music"
   - "https://commons.wikimedia.org/wiki/File:Dudelsack,_violin_&_accordion,_Puhoi_Heritage_Museum.jpg"
 images:
-  - "media/most-unwanted-song.jpg | Bagpipe and accordion, two of the most unwanted sounds. Photo: Bjankuloski06, CC BY 4.0, via Wikimedia Commons"
+  - "media/129-the-song-a-poll-said-nobody-wants.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Dudelsack%2C_violin_%26_accordion%2C_Puhoi_Heritage_Museum.jpg/960px-Dudelsack%2C_violin_%26_accordion%2C_Puhoi_Heritage_Mu; source: https://commons.wikimedia.org/wiki/File:Dudelsack,_violin_&_accordion,_Puhoi_Heritage_Museum.jpg"
 ---
 
 The artists Komar and Melamid and the composer Dave Soldier asked about 500 visitors to the Dia Center's website what they least wanted to hear in music. The answers included bagpipes, accordion, cowboy music, opera, rap, tuba, drum machines, advertising jingles and children's voices.

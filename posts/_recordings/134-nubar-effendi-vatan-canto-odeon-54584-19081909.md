@@ -16,8 +16,6 @@ tags:
 recording_url: ""
 urls:
   - "https://vmrebetiko.gr/en/item-en/?id=11154"
-images:
-  - "media/134-nubar-effendi-vatan-canto-odeon-54584-19081909.svg | Original typographic cover artwork for Nubar Effendi, “Vatan Canto” (Odeon 54584, 1908–1909)"
 ---
 
 The archive publishes Turkish lyrics and an English translation. The refrain reads:

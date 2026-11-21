@@ -18,7 +18,7 @@ urls:
   - "https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/35912"
   - "https://ccc.deutsche-digitale-bibliothek.de/en/item/RGLLD5SHUNUOJAMH6BAUJZ6ZY3XN5OEL"
 images:
-  - "media/155-regina-songs-on-lehmann-nitsche-cylinders-la-plata-19051907-im-055.svg | Original typographic cover artwork for Regina, songs on Lehmann-Nitsche cylinders, La Plata, 1905–1907 (IM-055)"
+  - "media/155-regina-songs-on-lehmann-nitsche-cylinders-la-plata-19051907-im-055.jpg | https://revistamusicalchilena.uchile.cl/.within.website/x/cmd/anubis/static/img/escudo-uchile.jpg?cacheBuster=1.26.2-uchile-20261103c; source: https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/35912"
 ---
 
 Regina, a Mapuche captive of the "Conquest of the Desert", lived as a servant in the household of the scientist who recorded her. Hers are among the first recordings of Mapuche song.

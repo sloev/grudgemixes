@@ -25,8 +25,6 @@ urls:
   - "https://polishjews.yivo.org/archive/?id=4806&p=digitallibrary%2Fdigitalcontent"
   - "https://findingaids.loc.gov/repositories/15/resources/7111"
   - "https://polishjews.yivo.org/archive/?id=23948&p=collections%2Fcontrolcard"
-images:
-  - "media/137-papus-rache-bar-kochba-yiddish-theatre-repertory.svg | Original typographic cover artwork for Papus Rache / Bar Kochba (Yiddish theatre repertory)"
 ---
 
 A German-language discography compilation titled *Zusammenstellung der Schallplatten mit Themen aus dem Orient* lists a recording under the work heading **Bar Kochba (Goldfaden)**:

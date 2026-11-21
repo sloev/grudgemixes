@@ -15,8 +15,6 @@ tags:
   - "made-anyway"
 recording_url: ""
 urls: []
-images:
-  - "media/056-daniel-johnston-self-made-cassettes-stress-records-sequence.svg | Original typographic cover artwork for Daniel Johnston, self-made cassettes (Stress Records sequence)"
 ---
 
 **Where and when:** Home recording; Wittliff Collections; Date(s): 1980–88; Medium: Cassette

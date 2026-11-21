@@ -14,8 +14,6 @@ tracks:
   - "echidna-aukstyn-tape"
   - "yoshimatsu-dd-records"
   - "song-poem-msr-851"
-images:
-  - "media/005-kept-by-accident.jpg |   A mere accident  —  Moore, George, 1852-1933; Public domain; https://commons.wikimedia.org/wiki/File:A_mere_accident_(IA_accidentmere00moorrich).pdf"
 ---
 
 Most music disappears. These recordings didn't, mostly by luck.

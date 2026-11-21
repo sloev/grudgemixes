@@ -19,7 +19,7 @@ urls:
   - "https://new-east-archive.org/features/show/12695/latvia-soviet-rock-rebels-perkons-band"
   - "https://commons.wikimedia.org/wiki/File:Ogres_estrāde_-_ogre11_-_Panoramio.jpg"
 images:
-  - "media/perkons-ogre-1985.jpg | The open-air stage at Ogre. Photo: ogre11, CC BY 3.0, via Wikimedia Commons"
+  - "media/143-banned-twice-once-for-a-train.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ogres_estr%C4%81de_-_ogre11_-_Panoramio.jpg/1280px-Ogres_estr%C4%81de_-_ogre11_-_Panoramio.jpg?utm_source=commons.wikimedia; source: https://commons.wikimedia.org/wiki/File:Ogres_estr%C4%81de_-_ogre11_-_Panoramio.jpg"
 ---
 
 Pērkons ("Thunder") were banned by the Soviet authorities in 1983. They carried on under an absurd cover name, the Ensemble of the Soviet Latvia Collective Farm.

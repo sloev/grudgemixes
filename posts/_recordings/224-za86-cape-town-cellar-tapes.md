@@ -18,7 +18,7 @@ urls:
   - "https://www.forcedexposure.com/Catalog/TTW.086CS.html"
   - "https://commons.wikimedia.org/wiki/File:Sony_Walkman_WM-D6C.jpg"
 images:
-  - "media/za86-cape-town-cellar-tapes.jpg | A Sony WM-D6C, the portable cassette recorder of 1980s radio reporting. Photo: edvvc, CC BY 2.0, via Wikimedia Commons"
+  - "media/224-nine-cassettes-from-a-cape-town-cellar.jpg | https://f4.bcbits.com/img/a0727260816_5.jpg; source: https://datworm.bandcamp.com/album/za86"
 ---
 
 In 1986 a 25-year-old radio reporter, Nigel Wrench, recorded South Africa in the most brutal years of late apartheid. His cassettes ended up in the archive of Turnstyle News, in a Cape Town cellar, and stayed there for decades.

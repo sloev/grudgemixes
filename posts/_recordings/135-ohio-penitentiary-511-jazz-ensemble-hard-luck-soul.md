@@ -19,7 +19,7 @@ urls:
   - "https://jazzman.kudosrecords.co.uk/release/jmancd052/ohio-penitentiary-511-ensemble-hard-luck-soul"
   - "https://www.roughtrade.com/product/ohio-penitentiary-511-jazz-ensemble/hard-luck-soul"
 images:
-  - "media/135-ohio-penitentiary-511-jazz-ensemble-hard-luck-soul.svg | Original typographic cover artwork for Ohio Penitentiary 511 Jazz Ensemble, Hard Luck Soul"
+  - "media/135-ohio-penitentiary-511-jazz-ensemble-hard-luck-soul.jpg | https://f4.bcbits.com/img/a2534044643_5.jpg; source: https://jazzmanholygrailseries.bandcamp.com/album/hard-luck-soul"
 ---
 
 **Where and when:** Ohio State Penitentiary; Date(s): 1971; Medium: Private LP; 2012 reissue

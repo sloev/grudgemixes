@@ -25,8 +25,6 @@ urls:
   - "https://doi.org/10.1080/02690403.2017.1361171"
   - "https://prd-s.awa.fm/track/dec89263bb8a36faef02"
   - "https://classicmusiccds.com/product/australian-bass-malcolm-mceachern-1883-1945-vol-1-cdr/"
-images:
-  - "media/156-revenge-timotheus-cries-handel-alexander-s-feast-vocalion-x-9560-1924-25.svg | Original typographic cover artwork for “Revenge! Timotheus Cries” — Handel, *Alexander's Feast* (Vocalion X-9560, 1924/25)"
 ---
 
 This is a particularly strong example of music represented as an instrument of retaliation. In Handel's *Alexander's Feast*, the singer Timotheus evokes the Furies and the ghosts of Greeks slain in earlier wars with Persia. His song moves Alexander toward burning Persepolis, framed by the poem as vengeance for Greek dead. The aria is not simply an aggressive title: the libretto explicitly stages a remembered injury, summoned dead, and a retaliatory act. It is a fictionalized ancient-historical narrative mediated through John Dryden's 1697 ode and Newburgh Hamilton's adaptation, not a neutral record of Alexander's actual motives.

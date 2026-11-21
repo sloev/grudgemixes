@@ -22,7 +22,7 @@ urls:
   - "https://samarnews.com/news2011/apr/b118.htm"
   - "https://phkule.org/article/699/who-is-ericson-acosta/"
 images:
-  - "media/065-ericson-acosta-prison-sessions-1-2.svg | Original typographic cover artwork for Ericson Acosta, Prison Sessions 1 & 2"
+  - "media/065-ericson-acosta-prison-sessions-1-2.jpg | https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4KPO7GtfdvBMo5Qzz5vly0Yr208okN7YJVBIgjGoEXATg1VdOWs4QRB1sLrWhyGfq_2bByLsN1Bb8Nt7E2UqZIBGPx33duojfXR7wyVmK3JjtzG4RMmrQ_mp; source: https://freeacosta.blogspot.com/2011/07/prison-sessions-cd.html"
 ---
 
 **Where and when:** Calbayog Sub-provincial Jail, Samar, Philippines; Date(s): 2011-04-06; 2011-09-20; Medium: Digital; CD

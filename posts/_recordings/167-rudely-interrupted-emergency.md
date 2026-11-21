@@ -20,7 +20,7 @@ urls:
   - "https://www.cheersquad.com.au/releases/rudely-interrupted-emergency/"
   - "https://rudelyinterrupted.com/about-the-band/about/"
 images:
-  - "media/167-rudely-interrupted-call-it-an-emergency.svg | Original typographic cover artwork for Rudely Interrupted call it an emergency"
+  - "media/167-rudely-interrupted-call-it-an-emergency.jpg | https://f4.bcbits.com/img/a0558240507_5.jpg; source: https://rudelyinterrupted.bandcamp.com/album/emergency"
 ---
 
 Rudely Interrupted have spent years making bright, tightly arranged pop-rock while insisting that disabled musicians belong in the middle of the music business, not in a separate novelty corner. Their third album, *Emergency*, appeared on Cheersquad Records & Tapes in January 2025.

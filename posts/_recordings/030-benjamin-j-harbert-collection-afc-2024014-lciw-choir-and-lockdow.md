@@ -17,8 +17,6 @@ recording_url: ""
 urls:
   - "https://tile.loc.gov/storage-services/service/gdc/gdcfindingaidpdfs/af024007/af024007.pdf"
   - "https://www.loc.gov/item/webcast-10980/"
-images:
-  - "media/030-benjamin-j-harbert-collection-afc-2024-014-lciw-choir-and-lockdown-singing-new-folsom-pris.svg | Original typographic cover artwork for Benjamin J. Harbert collection (AFC 2024/014): LCIW choir and lockdown singing; New Folsom Prison Blues Band"
 ---
 
 **Where and when:** LCIW, Louisiana; New Folsom, California; Date(s): 2008–09; Medium: Digital audio and video

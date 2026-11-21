@@ -19,7 +19,7 @@ urls:
   - "https://www.saha.org.za/shiftyrecords/sabc_internal_correspondence_restricted_records_memo_no_322.htm"
   - "https://www.saha.org.za/radio_silence.htm"
 images:
-  - "media/169-sabc-barred-records-bernoldus-niemand-snor-city-1988-mzwakhe-mbuli-change-is-pain.svg | Original typographic cover artwork for SABC-barred records: Bernoldus Niemand 'Snor City' (1988); Mzwakhe Mbuli 'Change is Pain'"
+  - "media/169-sabc-barred-records-bernoldus-niemand-snor-city-1988-mzwakhe-mbuli-change-is-pain.jpg | https://www.saha.org.za/shiftyrecords/header.jpg; source: https://www.saha.org.za/shiftyrecords/sabc_internal_correspondence_restricted_records_memo_no_273.htm"
 ---
 
 SABC memos 273 (9 Feb 1989) and 322 (8 Nov 1990) barred them; censors scratched discs so they could not be aired. **Sources:** https://www.saha.org.za/shiftyrecords/sabc_internal_correspondence_restricted_records_memo_no_273.htm · https://www.saha.org.za/shiftyrecords/sabc_internal_correspondence_restricted_records_memo_no_322.htm · https://www.saha.org.za/radio_silence.htm

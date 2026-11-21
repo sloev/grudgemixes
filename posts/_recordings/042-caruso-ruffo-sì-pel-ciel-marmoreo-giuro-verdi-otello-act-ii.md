@@ -16,8 +16,6 @@ tags:
 recording_url: ""
 urls:
   - "https://adp.library.ucsb.edu/index.php/matrix/refer/200014541"
-images:
-  - "media/042-caruso-ruffo-si-pel-ciel-marmoreo-giuro-verdi-otello-act-ii.svg | Original typographic cover artwork for Caruso & Ruffo, 'Sì, pel ciel marmoreo giuro!' (Verdi, *Otello*, Act II)"
 ---
 
 Otello and Iago kneel and swear vengeance on heaven at the end of Act II, the opera's central revenge oath.

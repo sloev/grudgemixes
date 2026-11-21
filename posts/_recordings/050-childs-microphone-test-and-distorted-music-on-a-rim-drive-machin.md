@@ -15,8 +15,6 @@ tags:
   - "found"
 recording_url: "http://www.mediafire.com/listen/7m9ydfgxduqgqdw/87r003_rimdrive_full.mp3"
 urls: []
-images:
-  - "media/050-child-s-microphone-test-and-distorted-music-on-a-rim-drive-machine-eclectiktronik-87r003.svg | Original typographic cover artwork for Child's microphone test and distorted music on a rim-drive machine (EclectikTronik 87r003)"
 ---
 
 **Recording:** reel on a "Miny" rim-drive machine bought at a jumble sale, Willaston (Wirral); mid-1970s; three minutes of distorted music, then children on the mic.

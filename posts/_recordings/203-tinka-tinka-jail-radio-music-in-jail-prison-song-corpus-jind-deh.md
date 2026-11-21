@@ -15,8 +15,6 @@ tags:
   - "made-anyway"
 recording_url: ""
 urls: []
-images:
-  - "media/203-tinka-tinka-jail-radio-music-in-jail-prison-song-corpus-jind-dehradun-karnal-panipat-rohta.svg | Original typographic cover artwork for Tinka Tinka Jail Radio / “Music in Jail” prison-song corpus: Jind, Dehradun, Karnal, Panipat, Rohtak, Ambala and Bilaspur"
 ---
 
 **Where and when:** Multiple Indian jails (Haryana, Uttarakhand, Chhattisgarh); Date(s): 2017; 2021–24; Medium: Official digital video/audio streams and prison-radio podcasts

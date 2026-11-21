@@ -21,7 +21,7 @@ urls:
   - "https://countrydiscography.blogspot.com/2010/01/riley-puckett.html"
   - "https://unipress.hud.ac.uk/plugins/books/29/format/238/download/"
 images:
-  - "media/158-riley-puckett-jesse-james-columbia-15033-d-1925.svg | Original typographic cover artwork for Riley Puckett — “Jesse James” (Columbia 15033-D, 1925)"
+  - "media/158-riley-puckett-jesse-james-columbia-15033-d-1925.jpg | https://3.bp.blogspot.com/_PvD5em7Am0Q/Sok3aKhTHYI/AAAAAAAAAAU/gW812NRp_us/S600/blog+kopie.jpg; source: https://countrydiscography.blogspot.com/2010/01/riley-puckett.html"
 ---
 
 This is the familiar “Jesse James” ballad family (Laws E1), not the separate, more historically critical “Jesse James II” song sometimes also recorded under that title. The common ballad condemns Robert Ford as a “dirty little coward” for killing James after gaining his trust. That makes the song a possible case of betrayal accusation and counter-insult, rather than a direct narrative of revenge carried out.

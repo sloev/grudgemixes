@@ -17,7 +17,7 @@ recording_url: ""
 urls:
   - "https://syncopatedtimes.com/ma-rainey-and-her-georgia-jazz-band"
 images:
-  - "media/116-ma-rainey-cell-bound-blues-1924.svg | Original typographic cover artwork for Ma Rainey, 'Cell Bound Blues', 1924"
+  - "media/116-ma-rainey-cell-bound-blues-1924.jpg | https://syncopatedtimes.com/wp-content/uploads/2020/12/Ma-Rainey-and-her-Georgia-Jazz-Band.jpg; source: https://syncopatedtimes.com/ma-rainey-and-her-georgia-jazz-band/"
 ---
 
 sung in the voice of a woman jailed after a killing; the accused answers back.

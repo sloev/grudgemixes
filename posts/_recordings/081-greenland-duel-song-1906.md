@@ -20,7 +20,7 @@ urls:
   - "https://trap.gl/en/kultur/traditioner-og-fortaellinger/"
   - "https://commons.wikimedia.org/wiki/File:Tasiilaq,_Greenland_02.jpg"
 images:
-  - "media/greenland-duel-song-1906.jpg | Tasiilaq (formerly Ammassalik), East Greenland. Photo: Filip Gielda, CC0, via Wikimedia Commons"
+  - "media/081-settling-a-quarrel-with-a-drum.jpg | https://www.lespressesdureel.com/EN/img/ouvrage/7939/_c.jpg; source: https://www.lespressesdureel.com/EN/ouvrage.php?id=4997"
 ---
 
 In East Greenland, two people with a real grievance could take it to the whole settlement. Each stood with the frame drum and sang mocking songs at the other. The audience laughed, and the laughter was the verdict. It was a grudge given rules, a stage and a judge, and no one had to die.

@@ -18,7 +18,7 @@ urls:
   - "https://www.dpt.nhs.uk/news/langdon-patients-release-therapeutic-ambient-album-831/"
   - "https://www.bbc.com/news/articles/clydyxl1w65o"
 images:
-  - "media/107-langdon-hospital-participants-labyrinthe-des-esprits-the-cosmic-hunt.svg | Original typographic cover artwork for Langdon Hospital participants, Labyrinthe Des Esprits: The Cosmic Hunt"
+  - "media/107-langdon-hospital-participants-labyrinthe-des-esprits-the-cosmic-hunt.jpg | https://f4.bcbits.com/img/a4013917364_5.jpg; source: https://labyrinthedesesprits.bandcamp.com/album/the-cosmic-hunt"
 ---
 
 **Where and when:** Langdon Hospital, Dawlish, UK (secure psychiatric); Date(s): Released Apr 2025; Medium: Digital (Spirit Duplicator / Bandcamp)

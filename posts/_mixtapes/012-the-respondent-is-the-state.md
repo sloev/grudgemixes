@@ -11,8 +11,6 @@ tracks:
   - "partheni-camp-leros-the-songs-of-exile-c197071"
   - "los-de-chacabuco"
   - "tinka-tinka-jail-radio-music-in-jail-prison-song-corpus-jind-deh"
-images:
-  - "media/012-the-respondent-is-the-state.png | Admissions to the Bar - ARGUMENTS- Terrence Byrd, Petitioner v. United States, Respondent (Case 16-1371) - Ryan Austin Collins, Petitioner v. Virginia, Respondent (Case 16-1027) - DPLA - 57167860cf3006a63eca4f041f127e8a — Supreme Court of the United States. Office of the Marshal. 1867; Public domain; https://commons.wikimedia.org/wiki/File:Admissions_to_the_Bar_-_ARGUMENTS-_Terrence_Byrd,_Petitioner_v._United_States,_Respondent_(Case_16-1371)_-_Ryan_Austin_Collins,_Petitioner_v._Virginia,_Respondent_(Case_16-1027)_-_DPLA_-_57167860cf3006a63eca4f041f127e8a.mp3"
 ---
 
 Camps and detention, 1915 to 2017; some singers were recorded against their will, others recorded against the state's will.

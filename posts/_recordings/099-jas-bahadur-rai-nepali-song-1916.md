@@ -16,8 +16,6 @@ tags:
 recording_url: ""
 urls:
   - "https://ucrisportal.univie.ac.at/en/publications/what-can-a-song-do-to-you-a-life-story-of-a-gurkha-prisoner-in-wo/"
-images:
-  - "media/099-jas-bahadur-rai-nepali-song-1916.svg | Original typographic cover artwork for Jas Bahadur Rai, Nepali song, 1916"
 ---
 
 a Gurkha prisoner of war at the Halbmondlager, Wünsdorf, who never returned home, sang his own story for German researchers.

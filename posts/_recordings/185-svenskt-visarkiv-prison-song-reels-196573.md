@@ -18,8 +18,6 @@ urls:
   - "https://carkiv.musikverk.se/www/epublikationer/Singing_through_the_bars_Lundberg.pdf"
   - "https://old.capricemusic.se/svensktvisarkiv/artikel/inspelningarna/?lang=en"
   - "https://carkiv.musikverk.se/www/epublikationer/MFSV_51_Det_stora_inspelningsprojektet.pdf"
-images:
-  - "media/185-svenskt-visarkiv-prison-song-reels-196573.svg | Original typographic cover artwork for Svenskt visarkiv prison-song reels, 1965–73"
 ---
 
 **Where and when:** Swedish prisons including Hall, Norrköping and Hinseberg; Date(s): 1965–73 (Hinseberg 1973 or 1975, unresolved); Medium: Reel-to-reel

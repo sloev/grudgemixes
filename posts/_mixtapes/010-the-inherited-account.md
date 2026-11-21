@@ -11,8 +11,6 @@ tracks:
   - "mardiros-tashjian-dalvorig-columbia-1909"
   - "japan-lead-yoshida-naramaru-akō-gishi-den-toiri-royal-record"
   - "hagen-meditates-revenge-1922"
-images:
-  - "media/010-the-inherited-account.jpg |   Alcoholism: an inherited disease  —  Petrakis, Peter L National Institute on Alcohol Abuse and Alcoholism Editorial Experts, Inc; Public domain; https://commons.wikimedia.org/wiki/File:Alcoholism-_an_inherited_disease_(IA_alcoholisminheri00petr).pdf"
 ---
 
 Grievances handed down: a fifth-century defeat still owed, a story cycle of revenge, a son carrying his father's grudge.

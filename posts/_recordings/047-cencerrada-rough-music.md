@@ -19,7 +19,7 @@ urls:
   - "https://www.eldiario.es/madrid/somos/malasana/de-aquellas-cencerradas-estas-caceroladas_1_6413678.html"
   - "https://commons.wikimedia.org/wiki/File:Hudibras_Encounters_the_Skimmington_(Plate_7-_Illustrations_to_Samuel_Butler's_Hudibras)_MET_DP825448.jpg"
 images:
-  - "media/cencerrada-rough-music.jpg | William Hogarth, Hudibras Encounters the Skimmington, an English rough-music procession (1726). Metropolitan Museum of Art, CC0"
+  - "media/047-rough-music-when-a-village-plays-you-out-of-town.jpg | https://static.eldiario.es/clip/7f5b8017-4d4d-4803-8011-da91b3f21195_facebook-aspect-ratio-1200-675_default_0.jpg; source: https://www.eldiario.es/madrid/somos/malasana/de-aquellas-cencerradas-estas-caceroladas_1_6413678.html"
 ---
 
 Across Europe there was a custom with many names: *charivari*, *cencerrada*, *scampanata*, *Katzenmusik*, rough music. When a community judged that someone had broken its rules, it gathered at night outside their door and made the worst noise it could: cowbells, pans, horns, whistles. Often the target was a widow or widower who had remarried. The noise was the sentence.

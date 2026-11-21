@@ -21,7 +21,7 @@ urls:
   - "https://dominopublishingco.com/writer/cults-percussion-ensemble/"
   - "https://www.normanrecords.com/records/136745-the-cults-percussion-the-cults"
 images:
-  - "media/054-the-cults-percussion-ensemble-sound-like-a-tiny-haunted-orchestra.svg | Original typographic cover artwork for The Cults Percussion Ensemble sound like a tiny, haunted orchestra"
+  - "media/054-the-cults-percussion-ensemble-sound-like-a-tiny-haunted-orchestra.webp | https://www.evelyn.co.uk/wp-content/uploads/2015/01/CD-Cults-Percussion-600x600-version.webp; source: https://www.evelyn.co.uk/discography/cults-percussion-ensemble/"
 ---
 
 The name sounds like a sinister secret society. It is actually a suburb of Aberdeen. In 1976 percussion teacher Ron Forbes gathered pupils from schools around Aberdeenshire and wrote music for them. Their average age was fourteen. After concerts and tours, they made one privately pressed LP in 1979.

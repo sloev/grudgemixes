@@ -20,8 +20,6 @@ urls:
   - "https://findingaids.loc.gov/exist_collections/ead3pdf/afc/2021/af021010.pdf"
   - "https://guides.loc.gov/womens-suffrage-mbrs"
   - "https://www.loc.gov/item/2017562124/"
-images:
-  - "media/077-george-reneau-woman-s-suffrage-vocalion-14999-1925.svg | Original typographic cover artwork for George Reneau, “Woman's Suffrage” (Vocalion 14999, 1925)"
 ---
 
 The title identifies the political issue, not the singer's stance. The performance could be advocacy, ridicule, anti-suffrage satire, comic role-play, or something more ambivalent. Do not infer opposition from the performer, genre, title or the era's gender politics. Do not classify this as protest, grievance or counter-protest until the actual lyrics and performance are inspected.

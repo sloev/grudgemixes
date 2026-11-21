@@ -17,7 +17,7 @@ recording_url: ""
 urls:
   - "https://en.wikipedia.org/wiki/The_Shaggs"
 images:
-  - "media/200-the-shaggs-philosophy-of-the-world-third-world-1969.svg | Original typographic cover artwork for The Shaggs, 'Philosophy of the World' (Third World, 1969)"
+  - "media/200-the-shaggs-philosophy-of-the-world-third-world-1969.jpg | https://upload.wikimedia.org/wikipedia/en/6/69/The_Shaggs.JPG?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled; source: https://en.wikipedia.org/wiki/The_Shaggs"
 ---
 
 Three sisters made to record by their father; famously both mocked and revered.

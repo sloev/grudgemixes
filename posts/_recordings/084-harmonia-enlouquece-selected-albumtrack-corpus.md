@@ -21,7 +21,7 @@ urls:
   - "https://music.amazon.ca/albums/B0HKPWSSGD"
   - "https://music.apple.com/us/artist/harmonia-enlouquece/1631734647"
 images:
-  - "media/084-harmonia-enlouquece-selected-album-track-corpus.svg | Original typographic cover artwork for Harmonia Enlouquece, selected album/track corpus"
+  - "media/084-harmonia-enlouquece-selected-album-track-corpus.webp | https://www.linhageral.com.br/uploads/images/cache/social-image-720-8c62b8ad.webp; source: https://www.linhageral.com.br/ops/404"
 ---
 
 # IM-039 — Harmonia Enlouquece: fifth-album item-level reconciliation (2026-11-18)

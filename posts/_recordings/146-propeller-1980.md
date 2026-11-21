@@ -20,8 +20,6 @@ urls:
   - "https://en.wikipedia.org/wiki/Propeller_(band)"
   - "https://straysatellite.com/singing-revolutions"
   - "https://commons.wikimedia.org/wiki/File:Kadrioru_staadion_1926–1934.jpg"
-images:
-  - "media/propeller-1980.jpg | Kadriorg Stadium, Tallinn, where Propeller played half-time in 1980 (photo c. 1930). CC0, via Wikimedia Commons"
 ---
 
 On 22 September 1980, the Estonian punk-art band Propeller played at half-time of a football match between Estonian Radio and Estonian TV staff at Kadriorg Stadium. Alarmed by the crowd, officials cancelled the second set. A riot followed and unrest spread through Tallinn. Forty intellectuals then wrote their famous open letter of protest.

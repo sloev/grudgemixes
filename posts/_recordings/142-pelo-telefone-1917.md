@@ -19,8 +19,6 @@ urls:
   - "https://jornal.usp.br/?p=34978"
   - "https://en.wikipedia.org/wiki/Pelo_Telefone"
   - "https://commons.wikimedia.org/wiki/File:Propaganda_antiga_Casa_Edison_de_São_Paulo_-_1916.jpg"
-images:
-  - "media/pelo-telefone-1917.jpg | Casa Edison advertisement, 1916. The firm released Pelo Telefone a year later. Public domain, via Wikimedia Commons"
 ---
 
 Samba grew up in Rio's Black neighbourhoods, around houses like Tia Ciata's, under constant police pressure. In January 1917 Casa Edison released "Pelo Telefone", credited to Donga and sung by Baiano on Odeon 121322. It was the hit of that year's carnival.

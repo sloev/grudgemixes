@@ -17,7 +17,7 @@ recording_url: ""
 urls:
   - "https://www.eldiario.es/madrid/somos/malasana/de-aquellas-cencerradas-estas-caceroladas_1_6413678.html"
 images:
-  - "media/015-15m-movement-cacerolada-recordings-201113.svg | Original typographic cover artwork for 15M movement *cacerolada* recordings, 2011–13"
+  - "media/015-15m-movement-cacerolada-recordings-201113.jpg | https://static.eldiario.es/clip/7f5b8017-4d4d-4803-8011-da91b3f21195_facebook-aspect-ratio-1200-675_default_0.jpg; source: https://www.eldiario.es/madrid/somos/malasana/de-aquellas-cencerradas-estas-caceroladas_1_6413678.html"
 ---
 
 Modern political pot-banging aimed at the state, the descendant (or reinvention) of the cencerrada.

@@ -16,7 +16,7 @@ tags:
 recording_url: "https://archive.org/details/CliffEdwards-StackOlee"
 urls: []
 images:
-  - "media/052-cliff-edwards-stack-o-lee-parts-12.svg | Original typographic cover artwork for Cliff Edwards, 'Stack O'Lee' Parts 1–2"
+  - "media/052-cliff-edwards-stack-o-lee-parts-12.jpg | https://archive.org/services/img/CliffEdwards-StackOlee/full/pct:500/0/default.jpg; source: https://archive.org/details/CliffEdwards-StackOlee"
 ---
 
 ## To do

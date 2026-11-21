@@ -17,7 +17,7 @@ recording_url: ""
 urls:
   - "https://theatticmag.com/reports/2369/on-the-trails-of-a-banned-language.html"
 images:
-  - "media/045-cassettes-from-the-198291-kurdish-language-ban.svg | Original typographic cover artwork for cassettes from the 1982–91 Kurdish-language ban"
+  - "media/045-cassettes-from-the-198291-kurdish-language-ban.jpg | https://theatticmag.com/img/a/reports/article/Kurdish_Female_Voices--Georg_Cizek-Graf.jpg; source: https://theatticmag.com/reports/2369/on-the-trails-of-a-banned-language.html"
 ---
 
 families hid tapes in their own language in gardens and charcoal stores. **Sources:** https://theatticmag.com/reports/2369/on-the-trails-of-a-banned-language.html

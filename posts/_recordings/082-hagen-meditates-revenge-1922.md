@@ -18,7 +18,7 @@ urls:
   - "https://www.musicweb-international.com/hooey/radford-discog.htm"
   - "https://commons.wikimedia.org/wiki/File:Siegfried_and_the_Twilight_of_the_Gods_p_138.jpg"
 images:
-  - "media/hagen-meditates-revenge-1922.jpg | Arthur Rackham, \"Swear to me, Hagen, my son!\": Alberich passes the revenge to his son (1911). Public domain, via Wikimedia Commons"
+  - "media/082-a-son-keeps-his-father-s-grudge.jpg | https://archive.org/services/img/78_the-twilight-of-the-gods-hagen-meditates-revenge_radford-robert-symphony-orchestra/full/pct:500/0/default.jpg; source: https://archive.org/details/78_the-twilight-of-the-gods-hagen-meditates-revenge_radford-robert-symphony-orchestra"
 ---
 
 In Wagner's *Götterdämmerung*, Hagen sits up all night guarding the hall while everyone else sleeps, turning over a revenge that was his father's before it was his. In 1922 the English bass Robert Radford recorded the scene in English for HMV, as "Hagen meditates revenge".

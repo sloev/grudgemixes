@@ -16,7 +16,7 @@ tags:
 recording_url: ""
 urls: []
 images:
-  - "media/161-risk-about-50-songs-on-cassette.svg | Original typographic cover artwork for RISK, about 50 songs on cassette"
+  - "media/161-risk-about-50-songs-on-cassette.jpg | Dutch Premier is lying about Airplanes and the risk at Covid-19; source: https://archive.org/details/leugen-Nederlandse-overheid"
 ---
 
 **Where and when:** Kentucky State Penitentiary, Eddyville; Date(s): 1984; Medium: Cassette

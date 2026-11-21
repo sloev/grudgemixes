@@ -17,7 +17,7 @@ recording_url: "https://frontera.library.ucla.edu/recordings/heraclio-bernal-21"
 urls:
   - "https://commons.wikimedia.org/wiki/File:A_revolutionary_soldier_on_horseback_with_a_rifle_(Heraclio_Bernal)_MET_DP869390.jpg"
 images:
-  - "media/heraclio-bernal-corrido-1921.jpg | José Guadalupe Posada, broadside print of Heraclio Bernal. Metropolitan Museum of Art, CC0"
+  - "media/088-a-corrido-that-names-the-man-who-sold-the-bandit.jpg | https://frontera.library.ucla.edu/sites/default/files/styles/recording_image/public/A/arho_cd_7041_front.jpg?itok=akLG_r5U; source: https://frontera.library.ucla.edu/recordings/heraclio-bernal-21"
 ---
 
 Heraclio Bernal was a Sinaloa bandit-rebel betrayed for a reward in 1888. The corrido that followed made sure the betrayal was remembered as clearly as the man.

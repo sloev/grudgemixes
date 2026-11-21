@@ -19,7 +19,7 @@ urls:
   - "https://daily.bandcamp.com/awesome-tapes-from-africa-feature"
   - "https://commons.wikimedia.org/wiki/File:Modern_market_hall_of_Kejetia_market.jpg"
 images:
-  - "media/ata-kak-obaa-sima.jpg | Kejetia market, Kumasi, Ghana. Photo: Afus199620, CC0, via Wikimedia Commons"
+  - "media/025-fifty-copies-and-twenty-years.jpg | https://f4.bcbits.com/img/a4168786532_5.jpg; source: https://atakak.bandcamp.com/album/obaa-sima"
 ---
 
 Yaw Atta-Owusu, as Ata Kak, recorded *Obaa Sima* in Toronto: Ghanaian highlife sped into home-made rap and drum machines. He pressed about fifty cassettes, sold a few in Ghana, and moved on with his life.

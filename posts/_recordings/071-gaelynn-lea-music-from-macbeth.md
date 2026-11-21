@@ -20,7 +20,7 @@ urls:
   - "https://www.arts.gov/impact/accessibility/careers-in-the-arts-toolkit/artist-profiles/gaelynn-lea"
   - "https://accesspress.org/gaelyn-lea-releases-new-album/"
 images:
-  - "media/071-gaelynn-lea-gives-macbeth-five-long-acts.svg | Original typographic cover artwork for Gaelynn Lea gives Macbeth five long acts"
+  - "media/071-gaelynn-lea-gives-macbeth-five-long-acts.jpg | https://f4.bcbits.com/img/a0213686652_5.jpg; source: https://gaelynnlea.bandcamp.com/album/music-from-macbeth-2025-album"
 ---
 
 Gaelynn Lea composed the music for Sam Gold’s 2022 Broadway production of *Macbeth*. In 2025 she released the music as she had originally imagined it, before the practical edits and omissions required by live theatre. *Music from Macbeth* is structured as five long instrumental movements, one for each act, with the vocal songs “Starving” and “Perfect” at either end.

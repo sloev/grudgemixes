@@ -18,8 +18,6 @@ urls:
   - "https://adp.library.ucsb.edu/index.php/matrix/refer/600000594"
   - "https://adp.library.ucsb.edu/index.php/date/browse/1914-09-11"
   - "https://en.wikipedia.org/wiki/Julian_Whiterose"
-images:
-  - "media/101-julian-whiterose-j-resigna-iron-duke-in-the-land-single-tone-calipso-i-1914.svg | Original typographic cover artwork for Julian Whiterose ('J. Resigna'), 'Iron Duke in the Land' (Single Tone Calipso I), 1914"
 ---
 
 among the first calypsos recorded with lyrics, sung in English by the leader of the White Rose Masquerade Band (real name Henry Julian).

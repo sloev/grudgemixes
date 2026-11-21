@@ -19,7 +19,7 @@ urls:
   - "https://post.moma.org/working-with-peripheries-workshop-for-the-restoration-of-unfelt-feelings/"
   - "https://commons.wikimedia.org/wiki/File:Railway_station_Bolderāja.jpg"
 images:
-  - "media/nsrd-unfelt-feelings.jpg | Bolderāja railway station, Riga, on the line NSRD walked each year. Photo: Egilus, CC BY-SA 4.0, via Wikimedia Commons"
+  - "media/133-the-workshop-for-the-restoration-of-unfelt-feelings.jpg | https://f4.bcbits.com/img/a1926722391_5.jpg; source: https://underbedstorage.bandcamp.com/album/december-session"
 ---
 
 NSRD was a Riga collective of artists, Hardijs Lediņš and Juris Boiko at the core, who made a wonky, home-taped experimental pop that hardly anyone in the Latvian SSR wanted to hear. Albums like *Invalīdu tramvajs* ("Invalids' Tram", 1983) existed mostly on cassettes and reel-to-reel. Every year they walked the Bolderāja railway line as an art work.

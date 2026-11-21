@@ -15,8 +15,6 @@ tags:
   - "made-anyway"
 recording_url: ""
 urls: []
-images:
-  - "media/100-jules-sims-native-trinidad-kalenda-iii-1914.svg | Original typographic cover artwork for Jules Sims, 'Native Trinidad Kalenda' I–II, 1914"
 ---
 
 kalenda are stick-fighting songs; tamboo bamboo bands played them on bamboo tubes after colonial authorities restricted skin drums (cite the ordinance before liner use).

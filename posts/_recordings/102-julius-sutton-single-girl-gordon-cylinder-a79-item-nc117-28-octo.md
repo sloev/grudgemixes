@@ -18,8 +18,6 @@ urls:
   - "https://wwws.loc.gov/folklife/Gordon/sideAband8.html"
   - "https://wwws.loc.gov/folklife/Gordon/GordonFolkSongLinerNotes.pdf"
   - "https://wwws.loc.gov/folklife/guides/Gordon.html"
-images:
-  - "media/102-julius-sutton-single-girl-gordon-cylinder-a79-item-nc117-28-october-1925.svg | Original typographic cover artwork for Julius Sutton, “Single Girl” (Gordon cylinder A79, Item NC117; 28 October 1925)"
 ---
 
 The recorded text opens by warning young women against marriage. It contrasts the singer's former freedom and decent clothing with the labour and deprivation of married life, then describes a husband returning with a bottle and wishing she were dead, followed by children crying for food. The singer repeatedly wishes she were single again.

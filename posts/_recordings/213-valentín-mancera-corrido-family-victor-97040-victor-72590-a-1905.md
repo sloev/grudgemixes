@@ -20,7 +20,7 @@ urls:
   - "https://hdl.handle.net/20.500.11986/COLMEX/10041713"
   - "https://hdl.handle.net/20.500.11986/COLMEX/10041582"
 images:
-  - "media/213-valentin-mancera-corrido-family-victor-97040-victor-72590-a-1905c-1920.svg | Original typographic cover artwork for Valentín Mancera corrido family (Victor 97040 / Victor 72590-A, 1905–c.1920)"
+  - "media/213-valentin-mancera-corrido-family-victor-97040-victor-72590-a-1905c-1920.jpg | https://frontera.library.ucla.edu/sites/default/files/styles/recording_image/public/C/col_c2193_13787.jpg?itok=Ttlwkzbh; source: https://frontera.library.ucla.edu/recordings/valent%C3%ADn-mancera-1"
 ---
 
 The printed corrido family tells of Valentín Mancera, a Guanajuato bandit whose lover and her sister betray him for money, leading to capture and execution. The 2016 analysis treats the song as an accusatory, didactic narrative about betrayal and punishment. That is within the project's grievance/punishment remit. The link from that narrative to the exact wording of each early recording remains incomplete, so this stays at C level.

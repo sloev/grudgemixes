@@ -20,7 +20,7 @@ urls:
   - "https://savetibet.org/ngawang-sangdrol-testifies-on-human-rights-before-us-congress/"
   - "https://savetibet.org/wp-content/uploads/2013/05/Rukhag3.pdf"
 images:
-  - "media/060-drapchi-14-nuns-cassette.svg | Original typographic cover artwork for “Drapchi 14” nuns' cassette"
+  - "media/060-drapchi-14-nuns-cassette.jpg | https://www.amnesty.org/en/wp-content/plugins/amnesty-sharepoint-runner/assets/opengraph/EN/EN-Research.jpg; source: https://www.amnesty.org/en/documents/asa17/011/1994/en/"
 ---
 
 **Where and when:** Drapchi Prison, Lhasa; Date(s): June 1993; Medium: Cassette (variant copies)

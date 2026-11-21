@@ -19,7 +19,7 @@ urls:
   - "https://afikra.com/daftarjournal/rai-mixtape"
   - "https://commons.wikimedia.org/wiki/File:L'Algérie_à_travers_les_âges._33,_Vue_prise_du_Fort_Santa_Cruz_à_Oran_-_(mission)_Boutroue_;_(photogr._prise_par)_ND_phot._(reprod._par)_Molteni_(pour_la_conférence_donnée_par)_Boutroue_-_btv1b53249662r.jpg"
 images:
-  - "media/cheikha-rimitti-charrak-gatta.jpg | Oran seen from Fort Santa Cruz, late 19th century. Mission Boutroue, public domain, via Wikimedia Commons / BnF Gallica"
+  - "media/049-the-grandmother-of-rai-banned-from-her-own-country-s-radio.jpg | https://cdn-images.dzcdn.net/images/artist/721d72f245d5201b4b60cf794c8306bb/500x500.jpg; source: https://www.deezer.com/us/artist/68157"
 ---
 
 Cheikha Rimitti could not read or write. She learned her trade singing at weddings and in the bars of western Algeria. In 1954 her song "Charrak Gattà" ("Tear, lacerate") went straight at the taboo of virginity and scandalised the pious.

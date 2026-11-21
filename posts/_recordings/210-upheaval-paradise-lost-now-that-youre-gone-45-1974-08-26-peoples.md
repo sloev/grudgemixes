@@ -15,8 +15,6 @@ tags:
   - "made-anyway"
 recording_url: ""
 urls: []
-images:
-  - "media/210-upheaval-paradise-lost-now-that-you-re-gone-45-1974-08-26-people-s-video-upheaval-1975.svg | Original typographic cover artwork for Upheaval: “Paradise Lost” / “Now That You're Gone” 45 (1974-08-26); People's Video – Upheaval (1975)"
 ---
 
 **Where and when:** Wisconsin State Prison, Waupun; Date(s): 1974–75; Medium: 45; ½″ open-reel video

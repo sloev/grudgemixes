@@ -16,8 +16,6 @@ tags:
 recording_url: ""
 urls:
   - "https://baillement.com/recherche/Phonograph_neurology_RN.pdf"
-images:
-  - "media/059-dr-maurice-dupont-sainte-anne-hospital-phonograph-recordings-of-patients-delusions-1889.svg | Original typographic cover artwork for Dr Maurice Dupont, Sainte-Anne hospital, phonograph recordings of patients' delusions, 1889"
 ---
 
 Notes to come.

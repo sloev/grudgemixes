@@ -19,8 +19,6 @@ urls:
   - "https://www.loc.gov/item/prn-17-029/?loclr=ealn"
   - "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/descriptions-and-essays/"
   - "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/fun-facts/"
-images:
-  - "media/080-four-thousand-voices-one-cylinder-a-hundred-yards-away.svg | Original typographic cover artwork for Four thousand voices, one cylinder, a hundred yards away"
 ---
 
 In 1888, Edison’s London agent Colonel George Gouraud staged demonstrations of the new phonograph. One of the first recordings was made at the Handel Festival in Crystal Palace. His colleague Hugh DeCoursey Hamilton put the machine in the press balcony, about a hundred yards from the performers, and captured a chorus of roughly four thousand voices singing from Handel’s *Israel in Egypt*.

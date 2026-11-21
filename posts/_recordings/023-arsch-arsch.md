@@ -18,7 +18,7 @@ urls:
   - "https://www.empty-space.ch/work/arsch-arsch"
   - "https://tobirarecords.com/products/arsch-arsch-tape"
 images:
-  - "media/023-arsch-arsch.svg | Original typographic cover artwork for ARSCH, ARSCH"
+  - "media/023-arsch-arsch.jpg | https://f4.bcbits.com/img/a4179006996_5.jpg; source: https://arsch.bandcamp.com/album/arsch"
 ---
 
 The artist's Bandcamp page identifies an 18-track *ARSCH* album released on 1 December 2020. It offers a limited cassette edition and digital album. The cassette uses professionally dubbed Type-I C-44 tapes, is hand-numbered, and has a different arrangement/mix from the digital edition. Tracks and durations are listed on the artist page: https://arsch.bandcamp.com/album/arsch

@@ -19,7 +19,7 @@ urls:
   - "https://portal.amelica.org/ameli/journal/645/6454649008/html/"
   - "https://antiwarsongs.org/canzone.php?id=47742&lang=en"
 images:
-  - "media/139-partheni-camp-leros-the-songs-of-exile-c-197071.svg | Original typographic cover artwork for Partheni camp, Leros, The Songs of Exile, c.1970–71"
+  - "media/139-partheni-camp-leros-the-songs-of-exile-c-197071.png | https://portal.amelica.org/ameli/journal/645/6454649008/6454649008_gf2.png; source: https://portal.amelica.org/ameli/journal/645/6454649008/html/"
 ---
 
 **Where and when:** Partheni camp, Leros, Greece (political detention); Date(s): Late 1970 or early 1971; Medium: Clandestine cassette

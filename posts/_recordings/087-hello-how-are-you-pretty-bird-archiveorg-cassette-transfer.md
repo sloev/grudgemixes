@@ -17,7 +17,7 @@ recording_url: "https://archive.org/details/hello-how-are-you-i-love-you-goodbye
 urls:
   - "https://archive.org/details/cassettetapes"
 images:
-  - "media/087-hello-how-are-you-pretty-bird-archive-org-cassette-transfer.svg | Original typographic cover artwork for 'Hello, how are you? … pretty bird!' (archive.org cassette transfer)"
+  - "media/087-hello-how-are-you-pretty-bird-archive-org-cassette-transfer.jpg | https://archive.org/services/img/hello-how-are-you-i-love-you-goodbye/full/pct:500/0/default.jpg; source: https://archive.org/details/hello-how-are-you-i-love-you-goodbye"
 ---
 
 a young woman repeats "Hello, how are you?" and "pretty bird!", alternating left and right ears; origin unknown. Probably a home-made parrot-training tape (check). Part of archive.org's huge "Cassette Audio" section of amateur transfers.
