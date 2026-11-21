@@ -339,3 +339,30 @@ a:active {
     margin: 0 !important;
   }
 }
+
+
+/* Stretch each catalogue-title line edge to edge */
+.catalogue-heading h1 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: none;
+}
+.catalogue-heading h1 span {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  width: 100%;
+  min-width: 0;
+  white-space: nowrap;
+  text-align: left;
+  text-align-last: auto;
+  letter-spacing: 0;
+}
+.catalogue-heading h1 span:first-child {
+  /* Distribute the words across the complete line width. */
+  justify-content: space-between;
+}
+.catalogue-heading h1 span:last-child {
+  justify-content: space-between;
+}
