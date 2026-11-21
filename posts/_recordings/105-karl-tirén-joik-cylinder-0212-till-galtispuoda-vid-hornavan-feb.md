@@ -14,6 +14,7 @@ medium: ""
 tags:
   - "made-anyway"
 recording_url: "https://s.awa.fm/album/704b21d04ad80f3c4450"
+recording_verified: true
 urls:
   - "https://old.capricemusic.se/svensktvisarkiv/karl-tiren/?lang=en"
   - "https://katalog.visarkiv.se/lib/views/kt/Default.aspx?item=116"
