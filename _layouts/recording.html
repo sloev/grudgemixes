@@ -20,7 +20,18 @@ layout: default
   {% endif %}
   {% include facts.html post=page %}
   <div class="prose">{{ content }}</div>
-  {% if page.recording_url and page.recording_url != "" %}
+  {% if page.recording_embed_url and page.recording_embed_url != "" %}
+    <section class="listen-section">
+      <h2>Listen</h2>
+      {% assign embed_host = page.recording_embed_url | remove_first: "https://" | remove_first: "http://" | split: "/" | first %}
+      {% if embed_host contains "youtube.com" or embed_host contains "youtube-nocookie.com" or embed_host contains "youtu.be" or embed_host contains "archive.org" or embed_host contains "soundcloud.com" or embed_host contains "bandcamp.com" or embed_host contains "open.spotify.com" or embed_host contains "player.vimeo.com" %}
+        <div class="recording-player"><iframe src="{{ page.recording_embed_url | escape }}" title="Listen to {{ page.title | escape }}" loading="lazy" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+      {% else %}
+        <p>Embedded player unavailable for this provider. {% if page.recording_url and page.recording_url != "" %}<a class="source-link" href="{{ page.recording_url | escape }}">Open recording ↗</a>{% endif %}</p>
+      {% endif %}
+      {% if page.recording_url and page.recording_url != "" %}<p><a class="source-link" href="{{ page.recording_url | escape }}">Open recording directly ↗</a></p>{% endif %}
+    </section>
+  {% elsif page.recording_url and page.recording_url != "" %}
     <section class="listen-section"><h2>Listen</h2><a class="source-link" href="{{ page.recording_url | escape }}">Listen to this recording ↗</a></section>
   {% endif %}
   {% if page.urls and page.urls.size > 0 %}
