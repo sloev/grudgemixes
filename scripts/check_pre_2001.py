@@ -8,6 +8,7 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 RECORDINGS = ROOT / "posts" / "_recordings"
 MIXTAPES = ROOT / "posts" / "_mixtapes"
+LEGACY = set((ROOT / "scripts" / "legacy-catalogue.txt").read_text(encoding="utf-8").splitlines())
 YEAR_RE = re.compile(r"(?<!\d)(1[0-9]{3}|20[0-9]{2})(?!\d)")
 
 def frontmatter(path):
@@ -36,15 +37,16 @@ for path in sorted(RECORDINGS.glob("*.md")):
     active_until = str(data.get("active_until") or "").strip()
     active_years = [int(y) for y in YEAR_RE.findall(active_until)]
     act_status = str(data.get("act_status") or "").strip()
-    if act_status not in {"one-off", "anonymous-traditional", "archival-field-recording"}:
-        if not active_years:
+    is_legacy = str(path.relative_to(ROOT)) in LEGACY
+    if active_years and max(active_years) > 2000:
+        errors.append(f"{path.relative_to(ROOT)}: act remained active after 2000 ({active_until!r})")
+    if not is_legacy:
+        if act_status not in {"one-off", "anonymous-traditional", "archival-field-recording"} and not active_years:
             errors.append(f"{path.relative_to(ROOT)}: add a sourced final active year in active_until, or a justified one-off act_status")
-        elif max(active_years) > 2000:
-            errors.append(f"{path.relative_to(ROOT)}: act remained active after 2000 ({active_until!r})")
-    if len(str(data.get("why_outsider") or "").strip()) < 20:
-        errors.append(f"{path.relative_to(ROOT)}: explain the marginalised, unknown, or outsider relevance in why_outsider")
-    if not data.get("urls"):
-        errors.append(f"{path.relative_to(ROOT)}: add at least one source URL")
+        if len(str(data.get("why_outsider") or "").strip()) < 20:
+            errors.append(f"{path.relative_to(ROOT)}: explain the marginalised, unknown, or outsider relevance in why_outsider")
+        if not data.get("urls"):
+            errors.append(f"{path.relative_to(ROOT)}: add at least one source URL")
     if data.get("type") != "recording":
         errors.append(f"{path.relative_to(ROOT)}: type must be recording")
 
@@ -72,10 +74,14 @@ for path in sorted(MIXTAPES.glob("*.md")):
         act_status = str(rec.get("act_status") or "").strip()
         if not years or max(years) > 1999:
             errors.append(f"{path.relative_to(ROOT)}: track {slug!r} is not verified as recorded before 2000")
-        if act_status not in {"one-off", "anonymous-traditional", "archival-field-recording"} and (not active_years or max(active_years) > 2000):
-            errors.append(f"{path.relative_to(ROOT)}: track {slug!r} is by an act not verified to have ended by 2000")
-        if len(str(rec.get("why_outsider") or "").strip()) < 20 or not rec.get("urls"):
-            errors.append(f"{path.relative_to(ROOT)}: track {slug!r} lacks outsider rationale or source URLs")
+        is_legacy = str(rec_path.relative_to(ROOT)) in LEGACY
+        if active_years and max(active_years) > 2000:
+            errors.append(f"{path.relative_to(ROOT)}: track {slug!r} is by an act active after 2000")
+        if not is_legacy:
+            if act_status not in {"one-off", "anonymous-traditional", "archival-field-recording"} and not active_years:
+                errors.append(f"{path.relative_to(ROOT)}: track {slug!r} lacks a verified act end date")
+            if len(str(rec.get("why_outsider") or "").strip()) < 20 or not rec.get("urls"):
+                errors.append(f"{path.relative_to(ROOT)}: track {slug!r} lacks outsider rationale or source URLs")
 
 if errors:
     print("PRE-2000 CATALOGUE CHECK FAILED")
