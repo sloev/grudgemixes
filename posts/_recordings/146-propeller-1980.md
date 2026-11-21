@@ -14,6 +14,7 @@ medium: "reel-to-reel"
 tags:
   - "fighting-words"
 recording_url: "https://web.archive.org/web/20110720131601id_/http://www.volk.ee/24345.mp3"
+recording_verified: true
 urls:
   - "https://web.archive.org/web/20110720131601/http://www.volk.ee/24345.mp3"
   - "https://soundcloud.com/punkperestroika"
