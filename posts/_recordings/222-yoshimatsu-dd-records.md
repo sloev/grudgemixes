@@ -14,6 +14,7 @@ medium: "cassette"
 tags:
   - "unwanted"
 recording_url: "https://phantomlimblabel.bandcamp.com/album/fossil-cocoon-the-music-of-k-yoshimatsu"
+recording_verified: true
 urls:
   - "https://commons.wikimedia.org/wiki/File:Tape_cassettes_in_a_wall_display.jpg"
 images:
