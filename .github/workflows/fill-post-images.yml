@@ -214,13 +214,13 @@ jobs:
               links = []
               def walk(v):
                   if isinstance(v, str):
-                      links.extend(re.findall(r'https?://[^\\s\\]\\)\\\"\\']+', v))
+                      links.extend(re.findall(r'https?://[^\s\]\)\\"\']+', v))
                   elif isinstance(v, list):
                       for x in v: walk(x)
                   elif isinstance(v, dict):
                       for x in v.values(): walk(x)
               walk(front)
-              links.extend(re.findall(r'https?://[^\\s\\]\\)\\\"\\']+', body))
+              links.extend(re.findall(r'https?://[^\s\]\)\\"\']+', body))
               out = []
               for x in links:
                   x = x.rstrip('.,;')
@@ -232,7 +232,7 @@ jobs:
           downloaded, missing = 0, []
           for index, post in enumerate(posts, 1):
               raw = post.read_text(encoding='utf-8')
-              match = re.match(r'\\A---\\s*\\n(.*?)\\n---\\s*\\n', raw, re.S)
+              match = re.match(r'\A---\s*\n(.*?)\n---\s*\n', raw, re.S)
               if not match:
                   continue
               front = yaml.safe_load(match.group(1)) or {}
@@ -265,7 +265,7 @@ jobs:
                   print(f'NO IMAGE FOUND: {post}')
                   # Remove the placeholder reference; never leave generated cover art in place.
                   if current_path.lower().endswith('.svg'):
-                      front_text = re.sub(r'(?ms)^images:.*?(?=^[^ \\t#][^\\n]*:|\\Z)', '', match.group(1))
+                      front_text = re.sub(r'(?ms)^images:.*?(?=^[^ \t#][^\n]*:|\Z)', '', match.group(1))
                       updated = raw[:match.start(1)] + front_text.rstrip() + raw[match.end(1):]
                       post.write_text(updated, encoding='utf-8')
                       old_file = ROOT / current_path
@@ -284,12 +284,12 @@ jobs:
                   suffix += 1
               target.write_bytes(content)
               attribution = f'{clean(label)[:180]}; source: {source_url}'
-              image_value = f'media/{filename} | {attribution}'.replace('"', "'").replace('\\n', ' ')
+              image_value = f'media/{filename} | {attribution}'.replace('"', "'").replace('\n', ' ')
               front_text = match.group(1)
               if re.search(r'(?m)^images:', front_text):
-                  front_text = re.sub(r'(?ms)^images:.*?(?=^[^ \\t#][^\\n]*:|\\Z)', 'images:\\n  - "' + image_value + '"\\n', front_text)
+                  front_text = re.sub(r'(?ms)^images:.*?(?=^[^ \t#][^\n]*:|\Z)', 'images:\n  - "' + image_value + '"\n', front_text)
               else:
-                  front_text += '\\nimages:\\n  - "' + image_value + '"'
+                  front_text += '\nimages:\n  - "' + image_value + '"'
               updated = raw[:match.start(1)] + front_text.rstrip() + raw[match.end(1):]
               post.write_text(updated, encoding='utf-8')
               if current_path.startswith('media/') and current_path.lower().endswith('.svg'):
@@ -302,7 +302,7 @@ jobs:
 
           print(f'POSTS SCANNED: {len(posts)}; REAL IMAGES DOWNLOADED: {downloaded}; POSTS STILL WITHOUT A REAL IMAGE: {len(missing)}')
           if missing:
-              Path('missing-post-images.txt').write_text('\\n'.join(missing) + '\\n', encoding='utf-8')
+              Path('missing-post-images.txt').write_text('\n'.join(missing) + '\n', encoding='utf-8')
           PY
       - name: Commit all real images found and report any remaining gaps
         run: |
