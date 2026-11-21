@@ -13,8 +13,9 @@ what: "“Yā Balaḥ Zaghlūl” (يا بلح زغلول), Mechian disc"
 medium: "78 rpm disc"
 tags:
   - "fighting-words"
-recording_url: "https://www.youtube.com/watch?v=xyjCk72GVx8"
+recording_url: "https://www.amar-foundation.org/ar/artists/%D9%86%D8%B9%D9%8A%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9/"
 urls:
+  - "https://www.amar-foundation.org/ar/artists/%D9%86%D8%B9%D9%8A%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9/"
   - "https://soundcloud.com/esmmatalneemr/ojkmzzlun1qt"
   - "https://eap.bl.uk/project/EAP1682"
   - "https://babmsr.com/naeima-al-masriya-the-voice-of-taqatiq-popular-songs"
@@ -27,3 +28,6 @@ In 1919 the British exiled Saad Zaghloul, the leader of Egypt's independence mov
 The answer came from the street-song writers Badīʿ Khayrī and Sayyid Darwīsh: a little *ṭaqṭūqa* apparently about dates. *Zaghlūl* is also a variety of date. "O Zaghloul dates, O sweet dates" is a fruit-seller's cry that a whole city could sing while meaning the man.
 
 The voice on the record is Naʿīma al-Miṣriyya, Cairo's "queen of the records", a woman who made around 150 discs. When it was recorded is still argued over: one scholar files her first Mechian session under 1915, which cannot fit a tribute to a man exiled in 1919. Her personal archive is being digitised, and the answer may be in there.
+
+
+The AMAR Foundation archive provides a 30-second excerpt of “Yā Balaḥ Zaghlūl” on its Naʿīma al-Miṣriyya page; full playback is available in its listening room. The archive labels this copy 1917, while other sources place the recording later, so the date remains disputed.
