@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the Spite Frequencies pre-2001 recording catalogue."""
+"""Validate the Spite Frequencies pre-2000 recording catalogue."""
 from pathlib import Path
 import re
 import sys
@@ -31,8 +31,8 @@ for path in sorted(RECORDINGS.glob("*.md")):
     years = [int(y) for y in YEAR_RE.findall(when)]
     if not years:
         errors.append(f"{path.relative_to(ROOT)}: add a sourced original recording year/range in 'when'")
-    elif max(years) > 2000:
-        errors.append(f"{path.relative_to(ROOT)}: recording date {when!r} is after the 2000 cutoff")
+    elif max(years) > 1999:
+        errors.append(f"{path.relative_to(ROOT)}: recording date {when!r} is not before 2000")
     active_until = str(data.get("active_until") or "").strip()
     active_years = [int(y) for y in YEAR_RE.findall(active_until)]
     act_status = str(data.get("act_status") or "").strip()
@@ -70,17 +70,17 @@ for path in sorted(MIXTAPES.glob("*.md")):
         active_until = str(rec.get("active_until") or "")
         active_years = [int(y) for y in YEAR_RE.findall(active_until)]
         act_status = str(rec.get("act_status") or "").strip()
-        if not years or max(years) > 2000:
-            errors.append(f"{path.relative_to(ROOT)}: track {slug!r} is not verified as recorded by 2000")
+        if not years or max(years) > 1999:
+            errors.append(f"{path.relative_to(ROOT)}: track {slug!r} is not verified as recorded before 2000")
         if act_status not in {"one-off", "anonymous-traditional", "archival-field-recording"} and (not active_years or max(active_years) > 2000):
             errors.append(f"{path.relative_to(ROOT)}: track {slug!r} is by an act not verified to have ended by 2000")
         if len(str(rec.get("why_outsider") or "").strip()) < 20 or not rec.get("urls"):
             errors.append(f"{path.relative_to(ROOT)}: track {slug!r} lacks outsider rationale or source URLs")
 
 if errors:
-    print("PRE-2001 CATALOGUE CHECK FAILED")
+    print("PRE-2000 CATALOGUE CHECK FAILED")
     for error in errors:
         print(" - " + error)
     print(f"\n{len(errors)} issue(s). Correct the recording history or remove ineligible tracks.")
     sys.exit(1)
-print("Pre-2001 catalogue check passed.")
+print("Pre-2000 catalogue check passed.")
