@@ -10,7 +10,6 @@ tracks:
   - "the-plastic-people-of-the-universe-egon-bondys-happy-hearts-club"
   - "cassettes-from-the-198291-kurdish-language-ban"
   - "radio-afghanistan-rta-archive-tapes-hidden-from-the-taliban-1996"
-  - "sabc-barred-records-bernoldus-niemand-snor-city-1988-mzwakhe-mbu"
   - "cheikha-rimitti-charrak-gatta"
 ---
 
