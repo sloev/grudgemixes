@@ -14,6 +14,7 @@ medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://kounadisomeka.aegean.gr/files/original/114c55e8fa4f16e98f6725bfb0f341ae.mp3"
+recording_verified: true
 urls:
   - "https://vmrebetiko.aegean.gr/en/item-en/?id=11154"
   - "https://kounadisomeka.aegean.gr/files/original/114c55e8fa4f16e98f6725bfb0f341ae.mp3"
