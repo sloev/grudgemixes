@@ -31,7 +31,7 @@ for path in sorted(RECORDINGS.glob("*.md")):
     years = [int(y) for y in YEAR_RE.findall(when)]
     if not years:
         errors.append(f"{path.relative_to(ROOT)}: add a sourced original recording year/range in 'when'")
-    elif max(years) > 1999:
+    elif max(years) > 2000:
         errors.append(f"{path.relative_to(ROOT)}: recording date {when!r} is after the 2000 cutoff")
     active_until = str(data.get("active_until") or "").strip()
     active_years = [int(y) for y in YEAR_RE.findall(active_until)]
@@ -39,8 +39,8 @@ for path in sorted(RECORDINGS.glob("*.md")):
     if act_status not in {"one-off", "anonymous-traditional", "archival-field-recording"}:
         if not active_years:
             errors.append(f"{path.relative_to(ROOT)}: add a sourced final active year in active_until, or a justified one-off act_status")
-        elif max(active_years) > 1999:
-            errors.append(f"{path.relative_to(ROOT)}: act remained active after 1999 ({active_until!r})")
+        elif max(active_years) > 2000:
+            errors.append(f"{path.relative_to(ROOT)}: act remained active after 2000 ({active_until!r})")
     if len(str(data.get("why_outsider") or "").strip()) < 20:
         errors.append(f"{path.relative_to(ROOT)}: explain the marginalised, unknown, or outsider relevance in why_outsider")
     if not data.get("urls"):
@@ -70,10 +70,10 @@ for path in sorted(MIXTAPES.glob("*.md")):
         active_until = str(rec.get("active_until") or "")
         active_years = [int(y) for y in YEAR_RE.findall(active_until)]
         act_status = str(rec.get("act_status") or "").strip()
-        if not years or max(years) > 1999:
-            errors.append(f"{path.relative_to(ROOT)}: track {slug!r} is not verified as recorded by 1999")
-        if act_status not in {"one-off", "anonymous-traditional", "archival-field-recording"} and (not active_years or max(active_years) > 1999):
-            errors.append(f"{path.relative_to(ROOT)}: track {slug!r} is by an act not verified to have ended by 1999")
+        if not years or max(years) > 2000:
+            errors.append(f"{path.relative_to(ROOT)}: track {slug!r} is not verified as recorded by 2000")
+        if act_status not in {"one-off", "anonymous-traditional", "archival-field-recording"} and (not active_years or max(active_years) > 2000):
+            errors.append(f"{path.relative_to(ROOT)}: track {slug!r} is by an act not verified to have ended by 2000")
         if len(str(rec.get("why_outsider") or "").strip()) < 20 or not rec.get("urls"):
             errors.append(f"{path.relative_to(ROOT)}: track {slug!r} lacks outsider rationale or source URLs")
 
