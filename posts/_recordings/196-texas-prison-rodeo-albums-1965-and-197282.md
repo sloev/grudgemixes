@@ -13,7 +13,8 @@ what: "1965 and 1972–82"
 medium: ""
 tags:
   - "made-anyway"
-recording_url: ""
+recording_url: "https://www.youtube.com/playlist?list=PLnttmJ0CBX4Ojaz64Nbe6HSRdhh_4-fmr"
+recording_verified: true
 urls:
   - "https://www.themarshallproject.org/2026/03/10/prison-music-texas-rodeo-redemption-songs"
 images:
