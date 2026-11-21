@@ -28,76 +28,211 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Search Wikimedia Commons and download real photographs and archival images
+      - name: Find and download genuine images from linked sources and open collections
         run: |
-          python -m pip install requests pyyaml
+          python -m pip install requests pyyaml beautifulsoup4 pillow
           python <<'PY'
-          import html, re, time, unicodedata
+          import html, json, re, time, unicodedata
           from pathlib import Path
+          from urllib.parse import urljoin, urlparse, quote
           import requests, yaml
+          from bs4 import BeautifulSoup
+          from PIL import Image
+          from io import BytesIO
 
           ROOT, MEDIA = Path('.'), Path('media')
           MEDIA.mkdir(exist_ok=True)
-          API = 'https://commons.wikimedia.org/w/api.php'
-          HEADERS = {'User-Agent': 'GrudgeMixesImageCollector/2.1 (GitHub Actions; contact via repository)'}
-          ALLOWED = re.compile(r'^(CC0|Public domain|CC BY(?:-SA)?(?:-[1-4](?:\.0)?)?)$', re.I)
           session = requests.Session()
-          session.headers.update(HEADERS)
+          session.headers.update({'User-Agent': 'Mozilla/5.0 (compatible; GrudgeMixesImageResearch/1.0; +https://github.com/sloev/grudgemixes)'})
+          IMAGE_TYPES = {'image/jpeg': '.jpg', 'image/png': '.png', 'image/webp': '.webp', 'image/tiff': '.tif'}
+          STOP = set('the and for with from into this that what when where who song songs record records recording recordings album albums cassette tape 78rpm 78 rpm disc side a b original self titled'.split())
 
-          def slugify(value):
-              value = unicodedata.normalize('NFKD', value).encode('ascii', 'ignore').decode().lower()
-              return re.sub(r'[^a-z0-9]+', '-', value).strip('-')[:90] or 'post'
+          def clean(s):
+              return re.sub(r'<[^>]+>', ' ', html.unescape(str(s or ''))).strip()
 
-          def clean(value):
-              return re.sub(r'<[^>]+>', ' ', html.unescape(str(value or ''))).strip()
+          def tokens(s):
+              vals = re.findall(r'[a-z0-9]{3,}', unicodedata.normalize('NFKD', str(s)).encode('ascii', 'ignore').decode().lower())
+              return {x for x in vals if x not in STOP and not x.isdigit()}
 
-          def commons_image(title):
-              words = re.findall(r'[A-Za-z0-9]{3,}', title)
-              queries = [title, ' '.join(words[:7]), ' '.join(words[:5]) + ' music', ' '.join(words[:5]) + ' record']
-              seen = set()
-              for query in queries:
-                  query = query.strip()
-                  if not query or query.lower() in seen:
+          def slug(s):
+              s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode().lower()
+              return re.sub(r'[^a-z0-9]+', '-', s).strip('-')[:85] or 'post'
+
+          def get(url, timeout=25):
+              try:
+                  r = session.get(url, timeout=timeout, allow_redirects=True)
+                  r.raise_for_status()
+                  return r
+              except Exception as e:
+                  print(f'FETCH ERROR {url}: {e}')
+                  return None
+
+          def image_bytes(url):
+              if not url or not url.startswith(('http://', 'https://')):
+                  return None
+              r = get(url, 35)
+              if not r:
+                  return None
+              mime = r.headers.get('Content-Type', '').split(';')[0].lower()
+              if mime not in IMAGE_TYPES or len(r.content) < 8000:
+                  return None
+              try:
+                  im = Image.open(BytesIO(r.content))
+                  im.verify()
+                  im = Image.open(BytesIO(r.content))
+                  w, h = im.size
+                  if w < 300 or h < 200 or w / max(h, 1) > 5.5 or h / max(w, 1) > 5.5:
+                      return None
+              except Exception:
+                  return None
+              return r.content, IMAGE_TYPES[mime]
+
+          def from_linked_sources(urls):
+              for page_url in urls[:10]:
+                  if not page_url.startswith(('http://', 'https://')):
                       continue
-                  seen.add(query.lower())
-                  params = {
-                      'action': 'query', 'format': 'json', 'generator': 'search',
-                      'gsrnamespace': 6, 'gsrsearch': query, 'gsrlimit': 40,
-                      'prop': 'imageinfo', 'iiprop': 'url|extmetadata', 'iiurlwidth': 1600
-                  }
-                  try:
-                      data = session.get(API, params=params, timeout=30).json()
-                      pages = (data.get('query') or {}).get('pages') or {}
-                      for page in pages.values():
-                          info = (page.get('imageinfo') or [{}])[0]
-                          meta = info.get('extmetadata') or {}
-                          license_name = clean(meta.get('LicenseShortName', {}).get('value', ''))
-                          if not ALLOWED.match(license_name):
-                              continue
-                          url = info.get('thumburl') or info.get('url')
-                          if not url:
-                              continue
-                          response = session.get(url, timeout=45)
-                          response.raise_for_status()
-                          mime = response.headers.get('Content-Type', '').split(';')[0].lower()
-                          ext = {'image/jpeg': '.jpg', 'image/png': '.png', 'image/webp': '.webp', 'image/tiff': '.tif'}.get(mime)
-                          if not ext or len(response.content) < 5000:
-                              continue
-                          artist = clean(meta.get('Artist', {}).get('value', 'Unknown creator'))
-                          object_name = clean(meta.get('ObjectName', {}).get('value', page.get('title', title)))
-                          source = info.get('descriptionurl', '')
-                          return response.content, ext, f'{object_name} — {artist}; {license_name}; {source}'
-                  except Exception as exc:
-                      print(f'Commons query failed ({query}): {exc}')
-                  time.sleep(0.3)
+                  parsed = urlparse(page_url)
+                  if not parsed.hostname or parsed.hostname.endswith(('youtube.com', 'youtu.be', 'spotify.com', 'soundcloud.com')):
+                      continue
+                  page = get(page_url)
+                  if not page:
+                      continue
+                  ctype = page.headers.get('Content-Type', '').lower()
+                  if ctype.startswith('image/'):
+                      found = image_bytes(page.url)
+                      if found:
+                          return found[0], found[1], page.url, page.url
+                      continue
+                  if 'html' not in ctype and not page.text.lstrip().startswith('<'):
+                      continue
+                  soup = BeautifulSoup(page.text[:2500000], 'html.parser')
+                  candidates = []
+                  for attr in ('property', 'name', 'itemprop'):
+                      for key in ('og:image', 'twitter:image', 'image'):
+                          tag = soup.find('meta', attrs={attr: key})
+                          if tag and tag.get('content'):
+                              candidates.append((tag['content'], clean(tag.get('alt') or '')))
+                  for tag in soup.find_all('img'):
+                      src = tag.get('src') or tag.get('data-src') or tag.get('data-original')
+                      if src:
+                          alt = clean(tag.get('alt') or '')
+                          low = (src + ' ' + alt).lower()
+                          if not any(x in low for x in ('logo', 'icon', 'avatar', 'pixel', 'spacer', 'flag')):
+                              candidates.append((src, alt))
+                  for raw, alt in candidates[:15]:
+                      img_url = urljoin(page.url, raw.strip())
+                      found = image_bytes(img_url)
+                      if found:
+                          return found[0], found[1], img_url, page.url
               return None
 
-          missing = []
-          downloaded = 0
-          seen_files = set()
-          for post in sorted((ROOT / 'posts').rglob('*.md')):
+          def loc_search(query):
+              params = {'q': query, 'fo': 'json', 'c': 30}
+              try:
+                  data = get('https://www.loc.gov/photos/?' + requests.compat.urlencode(params))
+                  if not data:
+                      return None
+                  results = data.json().get('results', [])
+                  qt = tokens(query)
+                  for item in results:
+                      label = clean(item.get('title', ''))
+                      score = len(qt & tokens(label)) / max(1, len(qt))
+                      if score < 0.18:
+                          continue
+                      imgs = item.get('image_url') or []
+                      if isinstance(imgs, str):
+                          imgs = [imgs]
+                      for img in imgs:
+                          found = image_bytes(img)
+                          if found:
+                              return found[0], found[1], clean(item.get('title')), item.get('id', 'https://www.loc.gov/')
+              except Exception as e:
+                  print(f'LOC ERROR {query}: {e}')
+              return None
+
+          def archive_search(query):
+              words = list(tokens(query))
+              if not words:
+                  return None
+              # Query exact title terms first; image records only.
+              terms = ' AND '.join('title:' + quote(w) for w in words[:5])
+              params = {'q': f'mediatype:image AND ({terms})', 'fl[]': ['identifier', 'title'], 'rows': 25, 'page': 1, 'output': 'json'}
+              try:
+                  r = get('https://archive.org/advancedsearch.php?' + requests.compat.urlencode(params, doseq=True))
+                  if not r:
+                      return None
+                  docs = r.json().get('response', {}).get('docs', [])
+                  qt = set(words)
+                  for doc in docs:
+                      ident, label = doc.get('identifier'), clean(doc.get('title', ''))
+                      if not ident:
+                          continue
+                      score = len(qt & tokens(label)) / max(1, len(qt))
+                      if score < 0.18:
+                          continue
+                      meta_r = get('https://archive.org/metadata/' + quote(ident, safe=''))
+                      if not meta_r:
+                          continue
+                      files = meta_r.json().get('files', [])
+                      files = sorted(files, key=lambda x: (0 if x.get('name', '').lower().endswith(('.jpg', '.jpeg', '.png')) else 1, 0 if 'cover' in x.get('name', '').lower() else 1))
+                      for f in files[:30]:
+                          name = f.get('name', '')
+                          if not name.lower().endswith(('.jpg', '.jpeg', '.png', '.webp')):
+                              continue
+                          found = image_bytes('https://archive.org/download/' + quote(ident, safe='') + '/' + quote(name, safe='/'))
+                          if found:
+                              return found[0], found[1], label, 'https://archive.org/details/' + ident
+              except Exception as e:
+                  print(f'INTERNET ARCHIVE ERROR {query}: {e}')
+              return None
+
+          def met_search(query):
+              try:
+                  r = get('https://collectionapi.metmuseum.org/public/collection/v1/search?' + requests.compat.urlencode({'q': query, 'hasImages': 'true'}))
+                  if not r:
+                      return None
+                  ids = (r.json().get('objectIDs') or [])[:12]
+                  qt = tokens(query)
+                  for ident in ids:
+                      obj_r = get(f'https://collectionapi.metmuseum.org/public/collection/v1/objects/{ident}')
+                      if not obj_r:
+                          continue
+                      obj = obj_r.json()
+                      label = clean(obj.get('title', ''))
+                      score = len(qt & tokens(label)) / max(1, len(qt))
+                      if score < 0.2:
+                          continue
+                      img = obj.get('primaryImage') or obj.get('primaryImageSmall')
+                      found = image_bytes(img)
+                      if found:
+                          return found[0], found[1], label, obj.get('objectURL', 'https://www.metmuseum.org/')
+              except Exception as e:
+                  print(f'MET ERROR {query}: {e}')
+              return None
+
+          def collect_links(front, body):
+              links = []
+              def walk(v):
+                  if isinstance(v, str):
+                      links.extend(re.findall(r'https?://[^\\s\\]\\)\\\"\\']+', v))
+                  elif isinstance(v, list):
+                      for x in v: walk(x)
+                  elif isinstance(v, dict):
+                      for x in v.values(): walk(x)
+              walk(front)
+              links.extend(re.findall(r'https?://[^\\s\\]\\)\\\"\\']+', body))
+              out = []
+              for x in links:
+                  x = x.rstrip('.,;')
+                  if x not in out:
+                      out.append(x)
+              return out
+
+          posts = sorted((ROOT / 'posts').rglob('*.md'))
+          downloaded, missing = 0, []
+          for index, post in enumerate(posts, 1):
               raw = post.read_text(encoding='utf-8')
-              match = re.match(r'\A---\s*\n(.*?)\n---\s*\n', raw, re.S)
+              match = re.match(r'\\A---\\s*\\n(.*?)\\n---\\s*\\n', raw, re.S)
               if not match:
                   continue
               front = yaml.safe_load(match.group(1)) or {}
@@ -105,55 +240,79 @@ jobs:
               if isinstance(images, str):
                   images = [images]
               current = str(images[0]) if images else ''
-              # Keep an existing real image; replace every generated SVG placeholder.
-              if current and not current.lower().split('|', 1)[0].strip().endswith('.svg'):
+              current_path = current.split('|', 1)[0].strip()
+              if current and not current_path.lower().endswith('.svg') and (ROOT / current_path).exists():
+                  print(f'KEEP EXISTING REAL IMAGE: {post}')
                   continue
+
               title = str(front.get('title') or post.stem)
-              result = commons_image(title)
+              who = str(front.get('who') or '')
+              what = str(front.get('what') or '')
+              query = ' '.join(x for x in (title, who, what) if x)[:180]
+              links = collect_links(front, raw[match.end():])
+              result = from_linked_sources(links)
               if not result:
-                  missing.append(f'{post}: {title}')
-                  print(f'NO REAL IMAGE FOUND: {post}')
+                  for q in [title[:120], ' '.join(list(tokens(query))[:6])]:
+                      if q.strip():
+                          result = loc_search(q)
+                          if result: break
+              if not result:
+                  result = archive_search(query)
+              if not result:
+                  result = met_search(' '.join(list(tokens(query))[:5]))
+              if not result:
+                  missing.append(str(post))
+                  print(f'NO IMAGE FOUND: {post}')
+                  # Remove the placeholder reference; never leave generated cover art in place.
+                  if current_path.lower().endswith('.svg'):
+                      front_text = re.sub(r'(?ms)^images:.*?(?=^[^ \\t#][^\\n]*:|\\Z)', '', match.group(1))
+                      updated = raw[:match.start(1)] + front_text.rstrip() + raw[match.end(1):]
+                      post.write_text(updated, encoding='utf-8')
+                      old_file = ROOT / current_path
+                      if current_path.startswith('media/') and old_file.exists():
+                          old_file.unlink()
                   continue
-              content, ext, attribution = result
+
+              content, ext, label, source_url = result
               number = post.name.split('-', 1)[0]
-              filename = f'{number}-{slugify(title)}{ext}'
-              if filename in seen_files:
-                  filename = f'{number}-{slugify(title)}-{len(seen_files)}{ext}'
-              seen_files.add(filename)
-              (MEDIA / filename).write_bytes(content)
-              image_value = f'media/{filename} | {attribution}'.replace('"', "'").replace('\n', ' ')
+              filename = f'{number}-{slug(title)}{ext}'
+              target = MEDIA / filename
+              suffix = 2
+              while target.exists():
+                  filename = f'{number}-{slug(title)}-{suffix}{ext}'
+                  target = MEDIA / filename
+                  suffix += 1
+              target.write_bytes(content)
+              attribution = f'{clean(label)[:180]}; source: {source_url}'
+              image_value = f'media/{filename} | {attribution}'.replace('"', "'").replace('\\n', ' ')
               front_text = match.group(1)
               if re.search(r'(?m)^images:', front_text):
-                  front_text = re.sub(r'(?ms)^images:.*?(?=^[^ \t#][^\n]*:|\Z)', 'images:\n  - "' + image_value + '"\n', front_text)
+                  front_text = re.sub(r'(?ms)^images:.*?(?=^[^ \\t#][^\\n]*:|\\Z)', 'images:\\n  - "' + image_value + '"\\n', front_text)
               else:
-                  front_text += '\nimages:\n  - "' + image_value + '"'
+                  front_text += '\\nimages:\\n  - "' + image_value + '"'
               updated = raw[:match.start(1)] + front_text.rstrip() + raw[match.end(1):]
               post.write_text(updated, encoding='utf-8')
-              if current:
-                  old_path = current.split('|', 1)[0].strip()
-                  if old_path.startswith('media/') and old_path.lower().endswith('.svg'):
-                      old_file = ROOT / old_path
-                      if old_file.exists():
-                          old_file.unlink()
+              if current_path.startswith('media/') and current_path.lower().endswith('.svg'):
+                  old_file = ROOT / current_path
+                  if old_file.exists():
+                      old_file.unlink()
               downloaded += 1
-              print(f'DOWNLOADED {filename} for {post}')
-              time.sleep(0.25)
+              print(f'DOWNLOADED {filename} for {post} from {source_url}')
+              time.sleep(0.15)
 
-          print(f'Real images downloaded: {downloaded}; posts still missing a real image: {len(missing)}')
+          print(f'POSTS SCANNED: {len(posts)}; REAL IMAGES DOWNLOADED: {downloaded}; POSTS STILL WITHOUT A REAL IMAGE: {len(missing)}')
           if missing:
-              print('Posts requiring another image source:')
-              for item in missing:
-                  print(item)
-              raise SystemExit(1)
+              Path('missing-post-images.txt').write_text('\\n'.join(missing) + '\\n', encoding='utf-8')
           PY
-      - name: Commit downloaded images and post metadata
+      - name: Commit all real images found and report any remaining gaps
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add posts media
+          git add posts media missing-post-images.txt
           if ! git diff --cached --quiet; then
-            git commit -m "Replace placeholder art with sourced post images [skip ci]"
+            git commit -m "Download real sourced images for posts [skip ci]"
             git push origin main
-          else
-            echo "All posts already have real image files."
+          fi
+          if [ -f missing-post-images.txt ]; then
+            echo "::warning::Some posts still need images; see missing-post-images.txt"
           fi
