@@ -16,8 +16,9 @@ what: "“Songs recorded in Henonville DP camp” (USHMM RG-91.2015)"
 medium: ""
 tags:
   - "made-anyway"
-recording_url: "https://www.lautarchiv.hu-berlin.de/en/collections-and-catalog/catalog/"
+recording_url: "https://centerhistorypsychology.wordpress.com/category/sound-recordings/"
 urls:
+  - "https://centerhistorypsychology.wordpress.com/category/sound-recordings/"
   - "https://holocaustmusic.ort.org/memory/dp-camps/david-boder/"
   - "https://collections.ushmm.org/search/catalog/irn719266"
   - "https://collections.ushmm.org/search/catalog/irn620183"
