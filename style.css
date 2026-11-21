@@ -366,3 +366,33 @@ a:active {
 .catalogue-heading h1 span:last-child {
   justify-content: space-between;
 }
+
+
+/* Geometrically scale each title line to the full available width */
+.catalogue-heading h1 {
+  display: block;
+  width: 100%;
+}
+.catalogue-heading h1 span {
+  display: block;
+  width: 100%;
+  white-space: nowrap;
+  text-align: left;
+  letter-spacing: inherit;
+  transform: none;
+}
+.catalogue-heading h1 span:first-child {
+  font-stretch: expanded;
+  transform: scaleX(1);
+  transform-origin: left center;
+}
+.catalogue-heading h1 span:last-child {
+  font-stretch: expanded;
+  transform: scaleX(1);
+  transform-origin: left center;
+}
+@supports (font-stretch: ultra-expanded) {
+  .catalogue-heading h1 span {
+    font-stretch: ultra-expanded;
+  }
+}
