@@ -13,7 +13,7 @@ what: "songs on Lehmann-Nitsche cylinders, La Plata, 1905–1907 (IM-055)"
 medium: ""
 tags:
   - "made-anyway"
-recording_url: ""
+recording_url: "https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/35912"
 urls:
   - "https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/35912"
   - "https://ccc.deutsche-digitale-bibliothek.de/en/item/RGLLD5SHUNUOJAMH6BAUJZ6ZY3XN5OEL"
