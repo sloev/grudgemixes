@@ -1,34 +1,29 @@
 ---
 type: recording
-title: "Helen Paul, “Tzain ma Hunchetz” (Columbia E-4661; 1918)"
+title: "Helen Paul — two Armenian songs for Columbia (April 1918)"
 slug: "helen-paul-tzain-ma-hunchetz-columbia-e-4661-1918"
-date: "2026-11-20"
+date: "2026-11-21"
 draft: true
-summary: "The Armenian Museum of America identifies the piece as the first known recording of an ode to Armenian revolutionaries from Erzurum, especially the Protectors of the Fatherland (Bashdban Hayrenyats). It says the composition was written by an unknown author in the late nineteenth century. The museum describes the record as made in April 1918 and notes that the Nishkian Phonograph Shop in Fresno carried the Columbia disc. Why it fits / decision: This is potentially one of the strongest early Armenian-American collective-resistance recordings located so far."
+summary: "Helen Paul’s only documented Columbia session produced two Armenian songs in April 1918: “Mer Hairenik” and “Tzain ma Hunchetz.” Her biography remains unknown."
 who: "Helen Paul"
-when: "1918"
-where: ""
-country: ""
-what: "“Tzain ma Hunchetz” (Columbia E-4661; 1918)"
+when: "April 1918"
+active_until: ""
+act_status: "one-off"
+why_outsider: "The Armenian Museum of America says its researchers have found no biographical information about Paul and identifies just two songs from her April 1918 session. This is a rare surviving trace of an otherwise unrecorded Armenian-American soprano singing national and revolutionary repertoire."
+where: "New York City, New York"
+country: "United States"
+what: "“Mer Hairenik” and “Tzain ma Hunchetz”"
 medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://canary-records.bandcamp.com/album/if-i-were-a-nightingale-turkish-armenian-language-recordings-in-nyc-dec-1916-june-1921"
 urls:
-  - "https://images.squarespace-cdn.com/content/v1/5963d44e03596ece54830d99/0c78bc03-de13-431a-8d5b-bc222f6b67fc/HelenPaulLabel.jpg"
   - "https://www.armenianmuseum.org/sound-archive/helen-paul"
+  - "https://canary-records.bandcamp.com/album/if-i-were-a-nightingale-turkish-armenian-language-recordings-in-nyc-dec-1916-june-1921"
   - "https://hy.wikisource.org/wiki/Ձայն_մը_հնչեց"
   - "https://archives.webaram.com/dvdk_new/eng/songs-of-armenia-1919_OCR.pdf"
 images:
-  - "media/086-helen-paul-tzain-ma-hunchetz-columbia-e-4661-1918.jpg | If I Were a Nightingale: Turkish & Armenian Language Recordings in NYC, Dec. 1916 - June 1921 | Canary Records; source: https://canary-records.bandcamp.com/album/if-i-were-a-nightingale-turkish-armenian-language-recordings-in-nyc-dec-1916-june-1921"
+  - "media/086-helen-paul-tzain-ma-hunchetz-columbia-e-4661-1918-2.jpg | If I Were a Nightingale: Turkish & Armenian Language Recordings in NYC, Dec. 1916 - June 1921 | Canary Records; source: https://canary-records.bandcamp.com/album/if-i-were-a-nightingale-turkish-armenian-language-recordings-in-nyc-dec-1916-june-1921"
 ---
 
-The Armenian Museum of America identifies the piece as the first known recording of an ode to Armenian revolutionaries from Erzurum, especially the Protectors of the Fatherland (Bashdban Hayrenyats). It says the composition was written by an unknown author in the late nineteenth century. The museum describes the record as made in April 1918 and notes that the Nishkian Phonograph Shop in Fresno carried the Columbia disc.
-
-**Why it fits / decision:** This is potentially one of the strongest early Armenian-American collective-resistance recordings located so far. Its significance is not that it is a revenge song, but that a commercial diaspora disc captured a late-nineteenth-century revolutionary ode in New York in April 1918, just weeks before the declaration of the First Republic of Armenia. It may be suitable for a collective grievance / resistance sequence if the exact recorded lyrics and composition status can be established.
-
-## To do
-
-- Rewrite the story in plain blog voice (80–200 words): who, what, when, the wrong, and why it belongs here.
-- Check every fact against the sources in `urls`; fill `who`, `when`, `where`, `what` precisely.
-- Find a public `recording_url` (archive, label, YouTube, Internet Archive) if one exists.
+In April 1918, Helen Paul entered Columbia’s New York studio and recorded two Armenian songs: “Mer Hairenik,” the national anthem, and “Tzain ma Hunchetz,” an ode to Armenian revolutionary organisers from Erzurum. The Armenian Museum of America says its researchers have found no biographical information about Paul; she remains an unknown voice in the archive. The session took place only weeks before the independent Republic of Armenia was established on 28 May 1918. This entry keeps her complete known session together rather than splitting the two sides into separate posts. Its value is the rare trace of an otherwise unrecorded singer and the diaspora’s use of commercial discs to preserve language, memory and political allegiance.

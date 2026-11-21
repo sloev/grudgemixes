@@ -31,7 +31,6 @@ posts/_recordings/079-georgian-pow-songs-lautarchiv-191518.md
 posts/_recordings/081-greenland-duel-song-1906.md
 posts/_recordings/082-hagen-meditates-revenge-1922.md
 posts/_recordings/083-halo-ewe-song-war.md
-posts/_recordings/086-helen-paul-tzain-ma-hunchetz-columbia-e-4661-1918.md
 posts/_recordings/088-heraclio-bernal-corrido-1921.md
 posts/_recordings/089-holy-church-of-yahweh-member-cassettes-several-dozen.md
 posts/_recordings/090-hora-est-self-titled-cassette-1985.md
@@ -43,11 +42,8 @@ posts/_recordings/102-julius-sutton-single-girl-gordon-cylinder-a79-item-nc117-2
 posts/_recordings/103-kalaupapa-settlement-choirs-1952-cassette.md
 posts/_recordings/105-karl-tirén-joik-cylinder-0212-till-galtispuoda-vid-hornavan-feb.md
 posts/_recordings/106-kolkata-theatre-recording-lead-khune-nahak-gana-gana-gana-1902.md
-posts/_recordings/109-lead-helen-paul-tzain-ma-hunchetz-columbia-april-1918-session.md
 posts/_recordings/111-liberation-massachusetts-prison-band-c1981.md
 posts/_recordings/113-long-cleve-reed-and-little-harvey-hull-original-stack-olee-blues.md
-posts/_recordings/115-ma-rainey-and-her-georgia-band-stack-olee-blues.md
-posts/_recordings/116-ma-rainey-cell-bound-blues-1924.md
 posts/_recordings/119-malinda-jackson-parker.md
 posts/_recordings/125-margaret-valiant-fsa-migrant-camp-discs-193839.md
 posts/_recordings/126-maría-garcía-la-noche-de-reyes-asturias-recorded-19-january-1939.md
@@ -72,8 +68,6 @@ posts/_recordings/163-roba-stanley-bill-patterson-little-frankie-okeh-40436-matr
 posts/_recordings/164-rodd-keith-song-poem-recordings-preview-msr-late-1960s1974.md
 posts/_recordings/166-roland-c-nathaniels-anlo-patriotic-song-ewe-battle-hymn-zonophon.md
 posts/_recordings/168-russolo-corale-serenata-1921.md
-posts/_recordings/172-sayyid-darwīsh-istaʿgibū-yā-afandiyya-1914-listed-78-rpm-issue-u.md
-posts/_recordings/173-sayyid-darwīsh-qum-yā-miṣrī-odeon-1919-work-specific-disc-date-u.md
 posts/_recordings/175-shoqnia-e-hengxhive-e-shahirave-kanga-e-oso-kukës-gramophone-107.md
 posts/_recordings/181-smyrnaiki-estudiantina-marche-de-niyazi-et-enver-bey-marche-huri.md
 posts/_recordings/182-solenoid-norey-games-1982.md
@@ -95,5 +89,3 @@ posts/_recordings/223-you-ought-to-be-arrested-and-put-in-jail-land-norris-okeh-
 posts/_recordings/224-za86-cape-town-cellar-tapes.md
 posts/_recordings/225-zabelle-panosian-khavarel-yem-columbia-e4010-june-1918.md
 posts/_recordings/226-zen-bakirkoy-1998.md
-posts/_recordings/228-吉田奈良丸-勝田新左エ門-victor-5018150182-catalogue-year-1915.md
-posts/_recordings/229-吉田奈良丸-矢頭右衛門の誠忠-victor-catalogue-1915.md

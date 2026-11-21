@@ -2,13 +2,14 @@
 type: collection
 title: "The Public Answer"
 slug: "the-public-answer"
-date: "2026-11-20"
+date: "2026-11-21"
 draft: true
 description: "When the law fails or is not trusted, the ballad becomes the court."
 tracks:
   - "heraclio-bernal-corrido-1921"
   - "bentley-ball-jesse-james-1919"
-  - "ma-rainey-cell-bound-blues-1924"
+  - "ma-rainey-and-her-georgia-band-stack-olee-blues"
+  - "hicks-carmichael-ballad-kirkland-1937"
   - "roba-stanley-bill-patterson-little-frankie-okeh-40436-matrix-884"
 ---
 

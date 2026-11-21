@@ -1,30 +1,28 @@
 ---
 type: recording
-title: "吉田奈良丸, “勝田新左エ門” (Victor 50181–50182; catalogue year 1915)"
+title: "Yoshida Naramaru II — two Akō vendetta recitations (Victor, 1915)"
 slug: "吉田奈良丸-勝田新左エ門-victor-5018150182-catalogue-year-1915"
-date: "2026-11-20"
+date: "2026-11-21"
 draft: true
-summary: "Kotobank's entry in the Nihon Daihyakka Zensho identifies 勝田新左衛門武堯 (Katsuta Shinzaemon Taketaka, 1680–1703) as an Akō retainer and one of the forty-seven rōnin who attacked Kira's residence on 14 December 1702 and were ordered to commit seppuku on 4 February 1703. This establishes that the named person belongs to the Akō vendetta tradition; it is not proof that the recording narrates the raid, nor that it expresses the same moral interpretation as later Chūshingura works."
-who: "吉田奈良丸"
-when: "1915"
-where: ""
-country: ""
-what: "“勝田新左エ門” (Victor 50181–50182; catalogue year 1915)"
+summary: "One artist entry gathers two 1915 Victor catalogue titles by Yoshida Naramaru: “Katsuta Shinzaemon” and “Yazū Uemon no Seichū,” both from the Akō vendetta storytelling tradition."
+who: "Yoshida Naramaru (second generation)"
+when: "1915 (Victor catalogue year; exact recording dates unverified)"
+active_until: "1929"
+act_status: ""
+why_outsider: "Rōkyoku’s sung-spoken narrative form is underrepresented in Western record histories. These Victor titles preserve Japanese popular storytelling, while the entry is careful not to claim that Naramaru was unknown in Japan: he was a major performer whose Naramaru stage-name period ended in 1929."
+where: "Japan"
+country: "Japan"
+what: "“Katsuta Shinzaemon” and “Yazū Uemon no Seichū” (Victor catalogue)"
 medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: ""
 urls:
   - "https://www.78music.jp/victor.html"
+  - "https://www.city.kishiwada.lg.jp/site/toshokan/mini-16.html"
+  - "https://kotobank.jp/word/%E8%B5%A4%E穂%E6%B5%AA%E5%A3%AB%E4%B8%80%E8%A6%A7-1614433"
   - "https://www2.ntj.jac.go.jp/dglib/contents/learn/edc20/rekishi/rokyoku/index3.html"
-  - "https://kotobank.jp/word/%E8%B5%A4%E7%A9%82%E6%B5%AA%E5%A3%AB%E4%B8%80%E8%A6%A7-1614433"
-  - "https://crd.ndl.go.jp/reference/entry/index.php?id=1000140677&page=ref_view"
+images: []
 ---
 
-Kotobank's entry in the *Nihon Daihyakka Zensho* identifies 勝田新左衛門武堯 (Katsuta Shinzaemon Taketaka, 1680–1703) as an Akō retainer and one of the forty-seven rōnin who attacked Kira's residence on 14 December 1702 and were ordered to commit seppuku on 4 February 1703. This establishes that the named person belongs to the Akō vendetta tradition; it is not proof that the recording narrates the raid, nor that it expresses the same moral interpretation as later Chūshingura works.
-
-## To do
-
-- Rewrite the story in plain blog voice (80–200 words): who, what, when, the wrong, and why it belongs here.
-- Check every fact against the sources in `urls`; fill `who`, `when`, `where`, `what` precisely.
-- Find a public `recording_url` (archive, label, YouTube, Internet Archive) if one exists.
+These two Victor catalogue entries preserve Yoshida Naramaru’s rōkyoku recitations of the Akō vendetta cycle: “Katsuta Shinzaemon” and “Yazū Uemon no Seichū.” The 1915 catalogue lists the performer as Yoshida Naramaru. Biographical sources identify the name at this time with the second-generation storyteller, who took the title in 1902 and relinquished it in 1929, later performing as Yamato no Jō. The titles point to the story world of the forty-seven rōnin, but the surviving catalogue alone does not establish every detail of the original performance text. This entry keeps both recitations together under one artist, rather than splitting each side into its own post. Rōkyoku remains underrepresented in Western recorded-music catalogues.
