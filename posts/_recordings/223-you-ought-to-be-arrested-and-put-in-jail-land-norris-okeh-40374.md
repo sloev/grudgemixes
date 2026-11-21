@@ -13,7 +13,7 @@ what: "Okeh 40374 (1924)"
 medium: ""
 tags:
   - "the-account"
-recording_url: ""
+recording_url: "https://www.youtube.com/watch?v=oE4BGggiVnc"
 urls:
   - "https://adp.library.ucsb.edu/index.php/matrix/detail/2000200840"
   - "https://collections.si.edu/search/results.htm?q=%22Norris%2C+Land%22"
