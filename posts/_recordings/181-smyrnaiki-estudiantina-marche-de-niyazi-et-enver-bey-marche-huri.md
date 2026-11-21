@@ -13,8 +13,10 @@ what: "“Marche de Niyazi et Enver Bey / Marche Huriet” (Odeon 58588, June 19
 medium: "78 rpm disc"
 tags:
   - "the-account"
-recording_url: ""
+recording_url: "https://kounadisomeka.aegean.gr/files/original/597d266265cde5076b8d468d19a94337.mp3"
+recording_verified: true
 urls:
+  - "https://vmrebetiko.aegean.gr/item/?id=11155"
   - "https://vmrebetiko.gr/en/item-en/?id=11155"
 ---
 
