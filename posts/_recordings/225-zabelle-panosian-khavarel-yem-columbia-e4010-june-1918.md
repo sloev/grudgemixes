@@ -13,7 +13,8 @@ what: "“Khavarel Yem” (Columbia E4010, June 1918)"
 medium: "78 rpm disc"
 tags:
   - "the-account"
-recording_url: "https://canary-records.bandcamp.com/album/i-am-servant-of-your-voice-march-1917-june-1918"
+recording_url: "https://canary-records.bandcamp.com/track/khavarel-yem-i-am-darkened-take-1"
+recording_verified: true
 urls:
   - "https://tert.nla.am/archive/NLA%20TERT/Mirror-Spectator/2022/39.pdf"
   - "https://www.recordingpioneers.com/docs/Columbia_E_Series.pdf"
