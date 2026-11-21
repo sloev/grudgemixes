@@ -18,6 +18,8 @@ urls:
   - "https://www.oocities.org/sunsetstrip/4509/adj.htm"
   - "https://demo-tapes-brasil.blogspot.com/2012/12/"
   - "https://www.folhadelondrina.com.br/folha-2/holofotes-sobre-o-underground-29576.html"
+images:
+  - "media/022-anoes-de-jardim-demo.jpg | Demo-tapes Brasil: Anões de Jardim - Demo (1993); source: https://demo-tapes-brasil.blogspot.com/2012/12/anoes-de-jardim-demo-1993.html"
 ---
 
 The band’s preserved Real Deal page says Anões de Jardim formed in January 1993, with Frederico P. Gomes, Felipe P. Gomes, Alexandre Velozo and Eurico Ludwig. It records the band’s first official performance at Curitiba’s 92 Degrees venue and says the first demo-tape was recorded live in Studio Solo in July 1993, with eight songs and weak distribution in the independent market.

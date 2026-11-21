@@ -20,7 +20,7 @@ urls:
   - "https://hy.wikisource.org/wiki/Ձայն_մը_հնչեց"
   - "https://archives.webaram.com/dvdk_new/eng/songs-of-armenia-1919_OCR.pdf"
 images:
-  - "media/086-helen-paul-tzain-ma-hunchetz-columbia-e-4661-1918-2.jpg | If I Were a Nightingale: Turkish & Armenian Language Recordings in NYC, Dec. 1916 - June 1921 | Canary Records; source: https://canary-records.bandcamp.com/album/if-i-were-a-nightingale-turkish-armenian-language-recordings-in-nyc-dec-1916-june-1921"
+  - "media/086-helen-paul-tzain-ma-hunchetz-columbia-e-4661-1918.jpg | If I Were a Nightingale: Turkish & Armenian Language Recordings in NYC, Dec. 1916 - June 1921 | Canary Records; source: https://canary-records.bandcamp.com/album/if-i-were-a-nightingale-turkish-armenian-language-recordings-in-nyc-dec-1916-june-1921"
 ---
 
 The Armenian Museum of America identifies the piece as the first known recording of an ode to Armenian revolutionaries from Erzurum, especially the Protectors of the Fatherland (Bashdban Hayrenyats). It says the composition was written by an unknown author in the late nineteenth century. The museum describes the record as made in April 1918 and notes that the Nishkian Phonograph Shop in Fresno carried the Columbia disc.

@@ -17,7 +17,7 @@ recording_url: "https://archive.org/details/78_stack-olee-blues_ma-rainey-and-he
 urls:
   - "https://syncopatedtimes.com/ma-rainey-and-her-georgia-jazz-band"
 images:
-  - "media/115-ma-rainey-and-her-georgia-band-stack-o-lee-blues-2.jpg | STACK O'LEE BLUES : Ma Rainey and her Georgia Band : Free Download, Borrow, and Streaming : Internet Archive; source: https://archive.org/details/78_stack-olee-blues_ma-rainey-and-her-georgia-band-joe-smith-taylor-williams_gbia0253947b"
+  - "media/115-ma-rainey-and-her-georgia-band-stack-o-lee-blues.jpg | STACK O'LEE BLUES : Ma Rainey and her Georgia Band : Free Download, Borrow, and Streaming : Internet Archive; source: https://archive.org/details/78_stack-olee-blues_ma-rainey-and-her-georgia-band-joe-smith-taylor-williams_gbia0253947b"
 ---
 
 the Stagolee killing told by the leading woman blues singer of the 1920s.
