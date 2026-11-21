@@ -13,8 +13,10 @@ what: "“Single Girl” (Gordon cylinder A79, Item NC117; 28 October 1925)"
 medium: "wax cylinder"
 tags:
   - "the-account"
-recording_url: ""
+recording_url: "https://wwws.loc.gov/folklife/Gordon/sound/Singlegirl.mp3"
 urls:
+  - "https://wwws.loc.gov/folklife/Gordon/AnnotationsandTexts.html"
+  - "https://wwws.loc.gov/folklife/Gordon/sound/Singlegirl.mp3"
   - "https://wwws.loc.gov/folklife/Gordon/sideAband8.html"
   - "https://wwws.loc.gov/folklife/Gordon/GordonFolkSongLinerNotes.pdf"
   - "https://wwws.loc.gov/folklife/guides/Gordon.html"
