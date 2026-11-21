@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#f4efe6">
   <title>{% if page.title %}{{ page.title | escape }} — {% endif %}{{ site.title | escape }}</title>
   <meta name="description" content="{{ page.summary | default: page.description | default: site.description | strip_html | escape }}">
-  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
   {% feed_meta %}
   {% seo %}
 </head>
