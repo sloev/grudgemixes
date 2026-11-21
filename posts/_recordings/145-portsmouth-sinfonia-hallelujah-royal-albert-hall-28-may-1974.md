@@ -14,6 +14,7 @@ medium: ""
 tags:
   - "unwanted"
 recording_url: "https://wfmu.org/archiveplayer/?archive=295561&show=169210"
+recording_verified: true
 urls:
   - "https://wfmu.org/playlists/shows/169210"
   - "https://en.wikipedia.org/wiki/Portsmouth_Sinfonia"
