@@ -14,6 +14,7 @@ medium: "78 rpm disc"
 tags:
   - "out-of-turn"
 recording_url: "https://indianmusicarchive.org/musicians/gauhar-jaan"
+recording_verified: true
 urls:
   - "https://indianmusicarchive.org/musicians/gauhar-jaan"
   - "https://mustrad.mainlynorfolk.info/articles/gauhar.htm"
