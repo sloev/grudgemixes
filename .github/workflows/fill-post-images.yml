@@ -59,7 +59,7 @@ jobs:
               s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode().lower()
               return re.sub(r'[^a-z0-9]+', '-', s).strip('-')[:85] or 'post'
 
-          def get(url, timeout=4):
+          def get(url, timeout=8):
               for attempt in range(2):
                   try:
                       r = session.get(url, timeout=timeout, allow_redirects=True)
@@ -101,7 +101,7 @@ jobs:
               return len(found) >= 2 and len(found) / max(1, len(query_tokens)) >= 0.30
 
           def from_linked_sources(urls, query):
-              for page_url in urls[:1]:
+              for page_url in urls[:3]:
                   if not page_url.startswith(('http://', 'https://')) or page_url.lower().split('?', 1)[0].endswith('.pdf'):
                       continue
                   parsed = urlparse(page_url)
@@ -298,7 +298,7 @@ jobs:
               title = str(front.get('title') or post.stem)
               who = str(front.get('who') or '')
               what = str(front.get('what') or '')
-              query = ' '.join(x for x in (title, who, what) if x)[:180]
+              query = ' '.join(x for x in (title, who) if x)[:180]
               links = collect_links(front, raw[match.end():])
               result = from_linked_sources(links, query)
               if not result:
@@ -307,9 +307,9 @@ jobs:
                           result = loc_search(q)
                           if result: break
               if not result:
-                  result = commons_search(query)
+                  result = commons_search(title)
               if not result:
-                  result = archive_search(query)
+                  result = archive_search(title)
               if not result:
                   missing.append(str(post))
                   print(f'NO IMAGE FOUND: {post}')
