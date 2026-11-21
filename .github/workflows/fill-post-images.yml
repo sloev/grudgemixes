@@ -59,7 +59,7 @@ jobs:
               s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode().lower()
               return re.sub(r'[^a-z0-9]+', '-', s).strip('-')[:85] or 'post'
 
-          def get(url, timeout=6):
+          def get(url, timeout=4):
               for attempt in range(2):
                   try:
                       r = session.get(url, timeout=timeout, allow_redirects=True)
@@ -79,7 +79,7 @@ jobs:
           def image_bytes(url):
               if not url or not url.startswith(('http://', 'https://')):
                   return None
-              r = get(url, 8)
+              r = get(url, 6)
               if not r:
                   return None
               mime = r.headers.get('Content-Type', '').split(';')[0].lower()
@@ -101,8 +101,8 @@ jobs:
               return len(found) >= 2 and len(found) / max(1, len(query_tokens)) >= 0.30
 
           def from_linked_sources(urls, query):
-              for page_url in urls[:2]:
-                  if not page_url.startswith(('http://', 'https://')):
+              for page_url in urls[:1]:
+                  if not page_url.startswith(('http://', 'https://')) or page_url.lower().split('?', 1)[0].endswith('.pdf'):
                       continue
                   parsed = urlparse(page_url)
                   if not parsed.hostname or parsed.hostname.endswith(('youtube.com', 'youtu.be', 'spotify.com', 'soundcloud.com')):
@@ -157,7 +157,7 @@ jobs:
                       return None
                   results = data.json().get('results', [])
                   qt = tokens(query)
-                  for item in results[:5]:
+                  for item in results[:3]:
                       label = clean(item.get('title', ''))
                       score = len(qt & tokens(label)) / max(1, len(qt))
                       if score < max(0.30, 2 / max(1, len(qt))):
@@ -191,7 +191,7 @@ jobs:
                       return None
                   pages = r.json().get('query', {}).get('pages', {})
                   qt = tokens(query)
-                  for item in list(pages.values())[:6]:
+                  for item in list(pages.values())[:4]:
                       label = clean(item.get('title', ''))
                       if not relevant(qt, label):
                           continue
@@ -217,7 +217,7 @@ jobs:
                       return None
                   docs = r.json().get('response', {}).get('docs', [])
                   qt = set(words)
-                  for doc in docs[:3]:
+                  for doc in docs[:1]:
                       ident, label = doc.get('identifier'), clean(doc.get('title', ''))
                       if not ident:
                           continue
@@ -229,7 +229,7 @@ jobs:
                           continue
                       files = meta_r.json().get('files', [])
                       files = sorted(files, key=lambda x: (0 if x.get('name', '').lower().endswith(('.jpg', '.jpeg', '.png')) else 1, 0 if 'cover' in x.get('name', '').lower() else 1))
-                      for f in files[:2]:
+                      for f in files[:1]:
                           name = f.get('name', '')
                           if not name.lower().endswith(('.jpg', '.jpeg', '.png', '.webp')):
                               continue
