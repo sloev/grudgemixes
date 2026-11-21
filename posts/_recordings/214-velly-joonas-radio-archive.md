@@ -14,6 +14,7 @@ medium: "radio"
 tags:
   - "made-anyway"
 recording_url: "https://www.youtube.com/watch?v=FEb68L-3UWY"
+recording_verified: true
 recording_embed_url: "https://www.youtube.com/embed/FEb68L-3UWY"
 urls:
   - "https://www.youtube.com/watch?v=FEb68L-3UWY"
