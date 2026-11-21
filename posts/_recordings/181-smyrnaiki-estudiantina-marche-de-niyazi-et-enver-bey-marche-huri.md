@@ -1,15 +1,16 @@
 ---
 type: recording
-title: "Smyrnaiki Estudiantina, “Marche de Niyazi et Enver Bey / Marche Huriet” (Odeon 58588, June 1908)"
+why_outsider: "A rare commercial march whose lyrics name oppression, informers and despotism, then turn the Young Turk movement into a public promise of freedom."
+title: "Smyrnaiki Estudiantina, “Marche de Niyazi et Enver Bey” (Odeon 58588, 1908)"
 slug: "smyrnaiki-estudiantina-marche-de-niyazi-et-enver-bey-marche-huri"
 date: "2026-11-20"
-draft: true
-summary: "The Kounadis record page publishes Turkish lyrics and an English translation. The text includes the lines: Proposed role: Anti-despotism / collective grievance / revolutionary liberation Why it fits / decision: This is a clear anti-despotism / liberation text associated with the 1908 Young Turk Revolution and the restoration of constitutional government. Its explicit references to the oppressed, informers, despotism, freedom and bondage make the grievance/protest content textual rather than inferred from the title."
+draft: false
+summary: "Recorded in Constantinople just before the July 1908 revolution, this march became a public anthem of the new constitutional moment. Its lyrics name oppression, despotism and freedom."
 who: "Smyrnaiki Estudiantina"
-when: "1908"
-where: ""
-country: ""
-what: "“Marche de Niyazi et Enver Bey / Marche Huriet” (Odeon 58588, June 1908)"
+when: "June 1908 (recording); August 1908 (public performance)"
+where: "Constantinople (Istanbul), Ottoman Empire"
+country: "Ottoman Empire"
+what: "“Marche de Niyazi et Enver Bey” / “Marche Hürriyet” (Odeon 58588, matrix Cx 1903 mIRp)"
 medium: "78 rpm disc"
 tags:
   - "the-account"
@@ -19,15 +20,4 @@ urls:
   - "https://vmrebetiko.aegean.gr/item/?id=11155"
   - "https://vmrebetiko.gr/en/item-en/?id=11155"
 ---
-
-The Kounadis record page publishes Turkish lyrics and an English translation. The text includes the lines:
-
-**Proposed role:** Anti-despotism / collective grievance / revolutionary liberation
-
-**Why it fits / decision:** This is a clear anti-despotism / liberation text associated with the 1908 Young Turk Revolution and the restoration of constitutional government. Its explicit references to the oppressed, informers, despotism, freedom and bondage make the grievance/protest content textual rather than inferred from the title.
-
-## To do
-
-- Rewrite the story in plain blog voice (80–200 words): who, what, when, the wrong, and why it belongs here.
-- Check every fact against the sources in `urls`; fill `who`, `when`, `where`, `what` precisely.
-- Find a public `recording_url` (archive, label, YouTube, Internet Archive) if one exists.
+The Kounadis Archive dates this Odeon recording to June 1908 in Constantinople—just before the July Young Turk Revolution. Its Turkish lyrics describe the cry of the oppressed, condemn informers and despotism, and celebrate the release from bondage under the names of Niyazi and Enver. The chronology is striking: a newspaper reported the march being performed at the Constitution Café in August, before a crowd of about 1,500, after the revolution had succeeded. The recording therefore catches a political hope at the moment it was becoming public ritual. The archive preserves the original disc, its lyrics and an English translation.
