@@ -6,7 +6,6 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/fill-post-images.yml'
-      - 'posts/**'
   schedule:
     - cron: '23 4 * * 1'
 
