@@ -63,16 +63,21 @@ def usable_url(value, field):
 
 def main():
     files = sorted(COLLECTION.glob("*.md"))
+    config = yaml.safe_load((ROOT / "_config.yml").read_text(encoding="utf-8")) or {}
+    excluded = set(config.get("exclude") or [])
     failures = []
-    drafts = []
     checked = 0
     for path in files:
         data = parse_frontmatter(path)
         if data.get("type") != "recording":
             continue
+        relative = path.relative_to(ROOT).as_posix()
+        if relative in excluded:
+            continue
         checked += 1
         if data.get("draft") is True:
-            drafts.append(path.relative_to(ROOT))
+            failures.append((path.relative_to(ROOT), "draft is still included in the public collection"))
+            continue
         valid_url, why_url = usable_url(data.get("recording_url"), "recording_url")
         valid_embed, why_embed = usable_url(data.get("recording_embed_url"), "recording_embed_url")
         if not (valid_url or valid_embed):
@@ -82,11 +87,8 @@ def main():
             if not valid_embed:
                 reasons.append("recording_embed_url: " + why_embed)
             failures.append((path.relative_to(ROOT), "; ".join(reasons)))
-    print(f"RECORDINGS CHECKED: {checked}")
-    print(f"STRUCTURAL LISTENING-LINK FAILURES: {len(failures)}")
-    print(f"RECORDINGS MARKED DRAFT BUT STILL IN THE COLLECTION: {len(drafts)}")
-    for path in drafts:
-        print(f"DRAFT-IN-COLLECTION: {path}")
+    print(f"PUBLISHED RECORDINGS CHECKED: {checked}")
+    print(f"PUBLISHED LISTENING-LINK FAILURES: {len(failures)}")
     for path, reason in failures:
         print(f"MISSING/INVALID: {path} — {reason}")
     report = ROOT / "missing-recording-links.txt"
