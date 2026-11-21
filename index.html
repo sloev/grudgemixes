@@ -3,19 +3,28 @@ layout: default
 title: Recordings
 ---
 <section class="catalogue-heading">
-  <p class="eyebrow">A catalogue of refusal</p>
-  <h1>Recordings</h1>
-  <p>Music made under refusal, ban, ridicule, or accident. A record of sounds that would not stay quiet.</p>
+  <h1>a catalog of refusal</h1>
 </section>
-{% assign recordings = site.recordings | sort: "name" %}
-<div class="filter-bar" data-filter-bar>
+<div class="catalogue-tools">
+  <button class="filter-toggle" type="button" aria-label="Open filters and sorting" aria-expanded="false" aria-controls="filter-panel" data-filter-toggle>
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"/><circle cx="8" cy="6" r="1.6"/><circle cx="15" cy="12" r="1.6"/><circle cx="12" cy="18" r="1.6"/></svg>
+  </button>
+</div>
+<div class="filter-bar" id="filter-panel" data-filter-bar hidden>
   <label><span>Medium</span><select data-filter="medium"><option value="">All media</option></select></label>
   <label><span>Decade</span><select data-filter="decade"><option value="">All decades</option></select></label>
   <label><span>Country</span><select data-filter="country"><option value="">All places</option></select></label>
   <label><span>Tag</span><select data-filter="tag"><option value="">All tags</option></select></label>
-  <button type="button" class="clear-filters" data-clear-filters>Clear</button>
-  <span class="filter-count" data-filter-count>{{ recordings.size }} recordings</span>
+  <label><span>Sort</span><select data-sort>
+    <option value="number-desc" selected>Newest number first</option>
+    <option value="number-asc">Oldest number first</option>
+    <option value="title-asc">Title A–Z</option>
+    <option value="title-desc">Title Z–A</option>
+  </select></label>
+  <button type="button" class="clear-filters" data-clear-filters>Clear filters</button>
+  <span class="filter-count" data-filter-count>{{ site.recordings.size }} recordings</span>
 </div>
+{% assign recordings = site.recordings | sort: "name" | reverse %}
 <div class="catalogue-list" data-catalogue-list>
   {% for post in recordings %}{% include post-row.html post=post %}{% endfor %}
 </div>
@@ -23,10 +32,18 @@ title: Recordings
 (function () {
   var bar = document.querySelector("[data-filter-bar]");
   var list = document.querySelector("[data-catalogue-list]");
+  var toggle = document.querySelector("[data-filter-toggle]");
   if (!bar || !list) return;
   var rows = Array.prototype.slice.call(list.querySelectorAll("[data-catalogue-row]"));
   var selects = Array.prototype.slice.call(bar.querySelectorAll("select[data-filter]"));
+  var sortSelect = bar.querySelector("[data-sort]");
   var count = bar.querySelector("[data-filter-count]");
+  if (toggle) toggle.addEventListener("click", function () {
+    var open = toggle.getAttribute("aria-expanded") === "true";
+    toggle.setAttribute("aria-expanded", String(!open));
+    toggle.setAttribute("aria-label", open ? "Open filters and sorting" : "Close filters and sorting");
+    bar.hidden = open;
+  });
   function valuesFor(key) {
     var values = {};
     rows.forEach(function (row) {
@@ -57,6 +74,18 @@ title: Recordings
     });
     select.addEventListener("change", apply);
   });
+  function sortRows() {
+    var mode = sortSelect ? sortSelect.value : "number-desc";
+    rows.sort(function (a, b) {
+      if (mode.indexOf("title") === 0) {
+        var comparison = (a.getAttribute("data-title") || "").localeCompare(b.getAttribute("data-title") || "");
+        return mode === "title-desc" ? -comparison : comparison;
+      }
+      var delta = Number(a.getAttribute("data-number")) - Number(b.getAttribute("data-number"));
+      return mode === "number-asc" ? delta : -delta;
+    });
+    rows.forEach(function (row) { list.appendChild(row); });
+  }
   function apply() {
     var active = {};
     selects.forEach(function (select) { active[select.getAttribute("data-filter")] = select.value; });
@@ -75,10 +104,12 @@ title: Recordings
     });
     if (count) count.textContent = visible + " of " + rows.length + " recordings";
   }
+  if (sortSelect) sortSelect.addEventListener("change", function () { sortRows(); });
   bar.querySelector("[data-clear-filters]").addEventListener("click", function () {
     selects.forEach(function (select) { select.value = ""; });
     apply();
   });
+  sortRows();
   apply();
 }());
 </script>

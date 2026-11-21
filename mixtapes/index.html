@@ -4,12 +4,10 @@ title: Mixtapes
 permalink: /mixtapes/
 ---
 <section class="catalogue-heading mixtape-heading">
-  <p class="eyebrow">Sequences &amp; counter-archives</p>
-  <h1>Mixtapes</h1>
-  <p>Collections of recordings that already have their own stories.</p>
+  <h1>a catalog of refusal</h1>
 </section>
 <div class="catalogue-list mixtape-list">
-  {% assign mixtapes = site.mixtapes | sort: "name" %}
+  {% assign mixtapes = site.mixtapes | sort: "name" | reverse %}
   {% for post in mixtapes %}
     {% assign catalogue_number = post.name | split: "-" | first %}
     <article class="catalogue-row mixtape-row">

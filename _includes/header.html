@@ -1,11 +1,32 @@
 <header class="site-header">
   <div class="header-inner">
-    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-    <p class="site-tagline">{{ site.tagline }}</p>
-    <nav class="site-nav" aria-label="Main navigation">
+    <button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu" data-menu-toggle>
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="site-menu" id="site-menu" aria-label="Main navigation" hidden>
       <a href="{{ '/' | relative_url }}">Recordings</a>
       <a href="{{ '/mixtapes/' | relative_url }}">Mixtapes</a>
       <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
     </nav>
   </div>
 </header>
+<script>
+(function () {
+  var button = document.querySelector("[data-menu-toggle]");
+  var menu = document.getElementById("site-menu");
+  if (!button || !menu) return;
+  button.addEventListener("click", function () {
+    var open = button.getAttribute("aria-expanded") === "true";
+    button.setAttribute("aria-expanded", String(!open));
+    button.setAttribute("aria-label", open ? "Open menu" : "Close menu");
+    menu.hidden = open;
+  });
+  document.addEventListener("click", function (event) {
+    if (!menu.hidden && !menu.contains(event.target) && !button.contains(event.target)) {
+      menu.hidden = true;
+      button.setAttribute("aria-expanded", "false");
+      button.setAttribute("aria-label", "Open menu");
+    }
+  });
+}());
+</script>

@@ -1,6 +1,8 @@
 {% assign catalogue_number = include.post.name | split: "-" | first %}
 {% assign image_parts = include.post.images[0] | split: " | " %}
 <article class="catalogue-row" data-catalogue-row
+  data-number="{{ catalogue_number }}"
+  data-title="{{ include.post.title | downcase | escape }}"
   data-medium="{{ include.post.medium | downcase | escape }}"
   data-country="{{ include.post.country | downcase | escape }}"
   data-tags="{{ include.post.tags | join: '|' | downcase | escape }}"
