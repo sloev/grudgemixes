@@ -19,7 +19,7 @@ urls:
   - "https://www.armenianmuseum.org/sound-archive/the-tashjian-brothers"
   - "https://www.recordingpioneers.com/docs/Columbia_E_Series.pdf"
 images:
-  - "media/121-mardiros-der-sarkis-tashjian-1909-columbia-armenian-language-recordings.webp | http://static1.squarespace.com/static/5963d44e03596ece54830d99/t/59b6ae8c46c3c498eb23d45b/1505144461135/facebook.png?format=1500w; source: https://www.armenianmuseum.org/sound-archive/tashjian-story"
+  - "media/121-mardiros-der-sarkis-tashjian-1909-columbia-armenian-language-recordings-2.webp | The Incomplete Story of Mardiros Der Sarkis Tashjian & His Brothers — Armenian Museum of America; source: https://www.armenianmuseum.org/sound-archive/tashjian-story"
 ---
 
 # Mardiros Der Sarkis Tashjian — 1909 Columbia Armenian-language recordings

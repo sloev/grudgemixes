@@ -20,8 +20,6 @@ urls:
   - "https://www.houshamadyan.org/mapottomanempire/vilayetofmamuratulazizharput/harputkaza/education-and-sport/schools-part-ii.html"
   - "https://archives.webaram.com/dvdk_new/eng/armenian-national-songs-1962_OCR.pdf"
   - "https://urresearch.rochester.edu/fileDownloadForInstitutionalItem.action?itemFileId=27809&itemId=12202"
-images:
-  - "media/189-tashjian-brothers-1910-columbia-repertoire-dalvorig-and-grvetsek-dgherk.webp | http://static1.squarespace.com/static/5963d44e03596ece54830d99/t/59b6ae8c46c3c498eb23d45b/1505144461135/facebook.png?format=1500w; source: https://www.armenianmuseum.org/sound-archive/tashjian-story"
 ---
 
 Houshamadyan's account of the Capuchin college in Mezire (Mamuret-ul-Aziz/Harput region) says that after the 1908 Ottoman constitutional proclamation, the college orchestra played Armenian patriotic songs at public events, including **“Pamp Voradan,” “Grvetsek Dgherk” and “Dalvorig.”** This establishes that both titles circulated as patriotic repertoire in an Armenian institutional/public setting in the Harput region. It does not establish that the Tashjian recording derives from that exact local performance tradition, nor does it supply lyrics or authorship.

@@ -20,7 +20,7 @@ urls:
   - "https://www.houshamadyan.org/arm/mapottomanempire/bitlispagheshvilayet/sassoun/sassounlocalcarachteristics/alahaidoyancollectionsongs.html"
   - "https://www.paroles-musique.com/eng/Armenian-Patriotic-Songs-Collection-Tartsyal-paylets-lyrics%2Cp10242679"
 images:
-  - "media/194-tashjian-brothers-tartzial-paylets-columbia-e658-4964-1910.webp | http://static1.squarespace.com/static/5963d44e03596ece54830d99/t/59b6ae8c46c3c498eb23d45b/1505144461135/facebook.png?format=1500w; source: https://www.armenianmuseum.org/sound-archive/tashjian-story"
+  - "media/194-tashjian-brothers-tartzial-paylets-columbia-e658-4964-1910-2.webp | The Incomplete Story of Mardiros Der Sarkis Tashjian & His Brothers — Armenian Museum of America; source: https://www.armenianmuseum.org/sound-archive/tashjian-story"
 ---
 
 Houshamadyan's Armenian-language Sassoun collection publishes a song titled “Դարձեալ փայլեց” (“It Shone Again”) in the Alahaydoyan collection. The text describes a freedom flag raised over Sassoun, calls for aid to the homeland, names Gurgen, Vahan, Hrayr Tzhokhk and Andranik in the mountains of Dalvorik, describes an order from the Sultan's palace to destroy the fedayi positions, and includes the explicit cry “Ժամանակն է վրեժ լուծել” (“It is time to take revenge”). The closing stanza describes gunfire from Armenian positions and enemy casualties.

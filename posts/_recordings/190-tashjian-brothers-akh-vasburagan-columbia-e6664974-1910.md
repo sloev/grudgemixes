@@ -20,7 +20,7 @@ urls:
   - "https://ergir.am/ax_vaspurakan/"
   - "https://armradioarchive.am/song/akh-vaspurakan-6614"
 images:
-  - "media/190-tashjian-brothers-akh-vasburagan-columbia-e666-4974-1910.webp | http://static1.squarespace.com/static/5963d44e03596ece54830d99/t/59b6ae8c46c3c498eb23d45b/1505144461135/facebook.png?format=1500w; source: https://www.armenianmuseum.org/sound-archive/tashjian-story"
+  - "media/190-tashjian-brothers-akh-vasburagan-columbia-e666-4974-1910-2.webp | The Incomplete Story of Mardiros Der Sarkis Tashjian & His Brothers — Armenian Museum of America; source: https://www.armenianmuseum.org/sound-archive/tashjian-story"
 ---
 
 The Armenian-language ERGIR page “ԱԽ ՎԱՍՊՈՒՐԱԿԱՆ” (“Akh Vaspurakan”) attributes the words to S. Jamkochyan. Its stanzas: - mourn Vaspurakan and the Armenian dead; - condemn captivity, foreign dependence and disunity; - call for Armenian unity and explicitly say “Պէտք է մենք լուծենք վրէժ հայկական” — approximately, “We must exact Armenian revenge”; - describe Van and its districts filled with bodies and fields stained with Armenian blood; - denounce the Ottoman army and artillery; - end with a call to take up rifles as Armenian communities and homes are attacked.

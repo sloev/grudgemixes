@@ -19,8 +19,6 @@ urls:
   - "https://www.lsm.lv/raksts/kultura/maksla/quotdievs-tava-zeme-degquot-jauna-redakcija.a24696/"
   - "https://serenadetomusic.blogspot.com/2013/02/latvia-ii-loving-lucija.html"
   - "https://commons.wikimedia.org/wiki/File:St._Gertrude_Old_Church,_Riga.jpg"
-images:
-  - "media/073-a-prayer-under-occupation-and-the-tape-that-outlived-the-ban.jpg | https://upload.wikimedia.org/wikipedia/commons/4/42/L%C5%ABcija_Gar%C5%ABta.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled; source: https://en.wikipedia.org/wiki/L%C5%ABcija_Gar%C5%ABta"
 ---
 
 Lūcija Garūta wrote the cantata *Dievs, Tava zeme deg!* ("God, Thy Land Is Burning!") to words by Andrejs Eglītis while Latvia was being ground between two occupations. At its premiere on 15 March 1944 she played the organ herself, before a packed church and a crowd outside.

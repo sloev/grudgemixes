@@ -22,8 +22,6 @@ urls:
   - "https://undertheradarrecording.com/wp-content/uploads/2013/03/Dr-Jesus.mp3"
   - "https://undertheradarrecording.com/archive-recordings/"
   - "https://undertheradarrecording.com/"
-images:
-  - "media/111-liberation-massachusetts-prison-band-c-1981.jpg | https://undertheradarrecording.com/wp-content/uploads/2018/10/cropped-Under-the-Radar-5x5-Ad-2.jpg; source: https://undertheradarrecording.com/archive-recordings/liberation/"
 ---
 
 A particularly strong small-web discovery: Under the Radar Recording's archive page “Liberation” publishes five audio mixes and a first-person production account. The author says the session took place at “Massachusetts Correction Facilities in Norfolk, MA” around 1981; band was four incarcerated people (bass, drums, guitar, lead singer; all sang backing vocals); Andy Pratt produced. Crew had an eight-hour window to bring in and search equipment, assemble an 8-track 1/2-inch Tascam studio in a small hall with stage, record five songs (all first takes except two takes of “Jesus Is Love”), and finish before the musicians returned to their …

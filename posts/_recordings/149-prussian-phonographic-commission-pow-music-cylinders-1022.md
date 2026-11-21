@@ -25,8 +25,6 @@ urls:
   - "https://folkways-media.si.edu/docs/folkways/artwork/FLG00013-LP.pdf"
   - "https://collections.si.edu/search/results.htm?q=%22Bruce+Jackson%22+%22Indiana+Prison+Songs%22"
   - "https://libraries.indiana.edu/policies/archives-traditional-music"
-images:
-  - "media/149-prussian-phonographic-commission-pow-music-cylinders-1-022.png | https://media.researchcatalogue.net/rc/cache/56/ab/57/a0/56ab57a05683630ba8317d06f2dd785f_332x501.png?_expiration=1795572000&_hash=MwO_8i08HEd_kZkqLI3lD8trymFPvP9-hFk0gpd4PHw; source: https://www.researchcatalogue.net/view/326465/326466"
 ---
 
 **Where and when:** German POW camps; Date(s): 1915–18; Medium: Wax cylinder

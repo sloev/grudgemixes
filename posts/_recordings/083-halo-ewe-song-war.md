@@ -18,8 +18,6 @@ urls:
   - "https://journal.oraltradition.org/wp-content/uploads/files/articles/9i/4_avorgbedor.pdf"
   - "https://digitalcollections.sit.edu/african_diaspora_isp/44"
   - "https://commons.wikimedia.org/wiki/File:Ewe_drum_01.jpg"
-images:
-  - "media/083-halo-when-towns-went-to-war-with-songs.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Ewe_drum_01.jpg/1280px-Ewe_drum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail; source: https://commons.wikimedia.org/wiki/File:Ewe_drum_01.jpg"
 ---
 
 Among the Anlo-Ewe of southeastern Ghana, *haló* was a war of insult songs between towns and factions: drums, dance, mime, costume and verses composed to wound. Fieldwork found it in about 88% of Anlo-Ewe towns. A local saying holds that being insulted in song is worse than a beating, because the song outlives you.

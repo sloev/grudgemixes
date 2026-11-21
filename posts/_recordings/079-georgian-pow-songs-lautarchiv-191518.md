@@ -16,8 +16,6 @@ tags:
 recording_url: ""
 urls:
   - "https://www.spekali.tsu.ge/index.php/en/article/viewArticle/17/312/"
-images:
-  - "media/079-georgian-pow-songs-lautarchiv-191518.png | https://www.spekali.tsu.ge/images/Ad-en.png; source: https://www.spekali.tsu.ge/index.php/en/article/viewArticle/17/312/"
 ---
 
 ## To do

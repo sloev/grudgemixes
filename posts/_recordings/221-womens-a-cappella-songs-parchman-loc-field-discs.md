@@ -19,8 +19,6 @@ urls:
   - "https://www.loc.gov/static/collections/alan-lomax-manuscripts/documents/lomax_chronology.pdf"
   - "https://english.duke.edu/events/jailhouse-blues-music-parchman-farm"
   - "https://www.wirz.de/music/rosetta.htm"
-images:
-  - "media/221-women-s-a-cappella-songs-parchman-loc-field-discs.jpg | https://english.duke.edu/sites/english.duke.edu/files/styles/social_media/public/images/JAILHOUSE-BLUES-THE-MUSIC-OF-PARCHMAN-FARM.jpg?h=d1cb525d&itok=9JECfIrX; source: https://english.duke.edu/events/jailhouse-blues-music-parchman-farm"
 ---
 
 **Where and when:** Mississippi State Penitentiary; Date(s): 1936, 1939; Medium: Instantaneous disc

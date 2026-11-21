@@ -20,8 +20,6 @@ urls:
   - "https://catalogue.bnf.fr/ark:/12148/cb382963855"
   - "https://en.wikipedia.org/wiki/Antonio_Russolo"
   - "https://commons.wikimedia.org/wiki/File:Russolo_patent_for_Intonare_dei_rumori,_1914.jpg"
-images:
-  - "media/168-the-only-recording-of-the-noise-machines.jpg | https://ltmrecordings.com/images/ltmcd2401.jpg; source: https://ltmrecordings.com/musica_futurista_the_art_of_noises_ltmcd2401.html"
 ---
 
 Luigi Russolo built *intonarumori*, "noise-intoners": boxes with cranks and levers that howled, crackled, gurgled and buzzed. His first concert with them, in Milan in 1914, ended in a riot.

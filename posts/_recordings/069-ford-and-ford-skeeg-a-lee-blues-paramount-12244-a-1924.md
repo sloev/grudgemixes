@@ -20,8 +20,6 @@ urls:
   - "https://www.staggerlee.com/history/1921-1930.php"
   - "https://mainspringpress.org/wp-content/uploads/2026/01/RUST_JRR-6.pdf"
   - "https://singout.org/stagolee-a-digital-compendium-they-give-him-the-road-the-1920s/"
-images:
-  - "media/069-ford-and-ford-skeeg-a-lee-blues-paramount-12244-a-1924.webp | https://www.staggerlee.com/img/stagger-lee-saloon.webp; source: https://www.staggerlee.com/history/1921-1930.php"
 ---
 
 The 2023 *Social History of American Music* chapter calls the Ford and Ford recording the first vocal version of Stagger Lee. Patrick Blackman's 2013 *Sing Out!* Stagolee compendium explicitly disputes the connection: he includes the recording among early examples but says the Ford and Ford track is hard to connect to the Stagolee narrative. The compendium identifies Ma Rainey's late-1925 recording, issued in 1926, as the first version with clearly recognizable Stagolee lines. This is a real scholarly/editorial disagreement, not a resolved lyric match. No authenticated lyric sheet or transcription tied to matrix 1899-2 was located.

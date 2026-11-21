@@ -20,8 +20,6 @@ urls:
   - "https://music.apple.com/us/album/hermanos-mis-queridos-feat-jacob-algava/1540566417?i=1540566424"
   - "https://vmrebetiko.gr/en/item-en/?id=11155"
   - "https://fliphtml5.com/hbkid/vgfq/EMI_Judeo_Spanish_Archive_English_Booklet/"
-images:
-  - "media/096-jacob-algava-hermanos-mis-queridos-gramophone-march-1909.jpg | https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/23/cb/af/23cbafc2-6754-ddae-0bbd-44f8d20fa354/Eastern_Mediterranean_Judeo-Spanish_Songs_Cover.jpg/1200x630wp-60.jpg; source: https://music.apple.com/us/album/hermanos-mis-queridos-feat-jacob-algava/1540566417?i=1540566424"
 ---
 
 The Hebrew University publication identifies the song as a Judeo-Spanish adaptation / abridgement of Joseph Pinto's “Cante nuevo por la constitución,” published in the Istanbul Judeo-Spanish periodical *El Djugueton* on 10 November 1908 and sung to the melody of the Turkish song “Yaşasın Hürriyet adalet” (“Long live freedom, justice”). It links the song to the reinstatement of the 1876 Ottoman Constitution in 1908 after the Young Turk revolt.

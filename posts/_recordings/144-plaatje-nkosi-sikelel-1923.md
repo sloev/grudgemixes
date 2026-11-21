@@ -20,8 +20,6 @@ urls:
   - "https://jeffreygreen.co.uk/205-sol-plaatje-in-britain-1914-1923/"
   - "https://sahistory.org.za/node/123223"
   - "https://commons.wikimedia.org/wiki/File:Nkosi_Sikelel'_iAfrika.png"
-images:
-  - "media/144-a-hymn-recorded-by-the-man-who-wrote-the-indictment.png | https://upload.wikimedia.org/wikipedia/commons/c/c5/Nkosi_Sikelel%27_iAfrika.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled; source: https://commons.wikimedia.org/wiki/Category:Nkosi_Sikelel%27_iAfrika"
 ---
 
 In 1916 Sol Plaatje published *Native Life in South Africa*, a book-length charge sheet against the Natives' Land Act. On 16 October 1923, in London, he walked into Zonophone's studio and recorded six sides, with Sylvia Colenso at the piano.

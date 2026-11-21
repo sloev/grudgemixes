@@ -20,8 +20,6 @@ urls:
   - "https://babmsr.com/naeima-al-masriya-the-voice-of-taqatiq-popular-songs"
   - "https://www.alwafd.news/essay/42371"
   - "https://commons.wikimedia.org/wiki/File:Dates_of_Egypt_and_the_Sudan_(1915)_(14763505621).jpg"
-images:
-  - "media/130-the-song-that-sang-a-banned-name-without-saying-it.jpg | https://eap.bl.uk/sites/default/files/styles/social/public/2025-07/EAP1682%20Schmid%20project%20page.jpg?itok=PUqB6m2c; source: https://eap.bl.uk/project/EAP1682"
 ---
 
 In 1919 the British exiled Saad Zaghloul, the leader of Egypt's independence movement. Egyptian accounts say the military authorities then made it an offence even to say his name, punishable by prison and the lash.

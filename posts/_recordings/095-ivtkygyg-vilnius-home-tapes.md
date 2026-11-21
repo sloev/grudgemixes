@@ -19,7 +19,7 @@ urls:
   - "https://www.mic.lt/en/database/electronic/composers-artists/baras/"
   - "https://commons.wikimedia.org/wiki/File:Vilniaus_balandžiai.jpg"
 images:
-  - "media/095-and-everything-that-is-beautiful-is-beautiful.jpg | https://f4.bcbits.com/img/0032669438_23.jpg; source: https://ivtkygyg.bandcamp.com/"
+  - "media/095-and-everything-that-is-beautiful-is-beautiful-2.jpg | Music | IR VISA TAI KAS YRA GRAŽU YRA GRAŽU; source: https://ivtkygyg.bandcamp.com/"
 ---
 
 In 1987 the painter Artūras "Šlipas" Šlipavičius and the record collector and dealer Artūras "Baras" Barysas started a band in the Vilnius underground. Many of their home tapes existed in a single copy. The name they chose was *Ir Visa Tai Kas Yra Gražu Yra Gražu*. The name they didn't choose translates as "Kill the close one, before the far one comes and kills you".

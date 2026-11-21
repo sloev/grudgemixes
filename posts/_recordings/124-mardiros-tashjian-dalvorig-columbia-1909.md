@@ -20,8 +20,6 @@ urls:
   - "https://satemer.sakarya.edu.tr/tr/icerik/19869/102034/mihran-damadyan-ve-itiraflari"
   - "https://www.houshamadyan.org/mapottomanempire/vilayet-of-bitlispaghesh/sassoun/local-characteristics/alahaidoyan-coll-songs.html"
   - "https://haygirk.nla.am/upload/1512-1940/1901-1940/ergaran_1924.pdf"
-images:
-  - "media/124-mardiros-tashjian-dalvorig-columbia-1909.webp | http://static1.squarespace.com/static/5963d44e03596ece54830d99/t/59b6ae8c46c3c498eb23d45b/1505144461135/facebook.png?format=1500w; source: https://www.armenianmuseum.org/sound-archive/tashjian-story"
 ---
 
 A pre-1909 English-language text witness is Alice Stone Blackwell's *Armenian Poems* (Boston: Roberts Brothers, 1896), which includes “The Son of Dalvorig,” attributed to Mihran Damadian, pp. 135–138. The poem's speaker identifies himself as a free son of Dalvorig, refuses to bow before the Turk, calls Armenian brothers to join him for liberty, rejects foreign domination, and describes armed struggle. In its closing movement, the speaker says that for every blow dealt him, he returns a thousand.

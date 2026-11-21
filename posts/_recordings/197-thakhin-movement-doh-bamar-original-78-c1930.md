@@ -17,8 +17,6 @@ recording_url: ""
 urls:
   - "https://www.irrawaddy.com/in-person/myanmars-gramophone-record-collector.html"
   - "https://monk.radford.edu/records/item/731-byau"
-images:
-  - "media/197-thakhin-movement-doh-bamar-original-78-c-1930.jpg | https://www.irrawaddy.com/wp-content/uploads/2022/12/Maung-Maung-Feature-1.jpg; source: https://www.irrawaddy.com/in-person/myanmars-gramophone-record-collector.html"
 ---
 
 a Rangoon collector says he holds the only original record of the song of the anti-colonial Dobama Asiayone ("We Burmans") movement, which later became the national anthem. Burmese labels pressed 78s from 1919 to 1962.

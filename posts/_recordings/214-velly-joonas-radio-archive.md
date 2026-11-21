@@ -19,7 +19,7 @@ urls:
   - "https://en.wikipedia.org/wiki/Velly_Joonas"
   - "https://commons.wikimedia.org/wiki/File:Head_office_of_Estonian_radio.JPG"
 images:
-  - "media/214-thirty-songs-left-in-the-radio-archive.jpg | http://allnightflightrecords.com/cdn/shop/files/IMG_9891_5184b5cd-f583-4a17-a710-9b429a8b9968_1200x1200.jpg?v=1685008644; source: https://allnightflightrecords.com/products/velly-joonas-stopp-seisku-aeg"
+  - "media/214-thirty-songs-left-in-the-radio-archive-2.jpg | Velly Joonas – Stopp, Seisku Aeg!                      – All Night Flight Records; source: https://allnightflightrecords.com/products/velly-joonas-stopp-seisku-aeg"
 ---
 
 In Soviet Estonia, the Estonian Radio studios were almost the only place a musician could record. Velly Joonas recorded about thirty songs there, and nearly all of them stayed in the archive.

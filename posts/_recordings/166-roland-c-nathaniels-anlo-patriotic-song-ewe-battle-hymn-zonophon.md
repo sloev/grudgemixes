@@ -21,8 +21,6 @@ urls:
   - "https://soundofhistorypodcast.com/africa-in-london/"
   - "https://sas-space.sas.ac.uk/2955/1/uBUNCA1r4.pdf"
   - "https://www.researchgate.net/publication/374810075_The_Early_History_of_Music_Recording_in_Ghana"
-images:
-  - "media/166-roland-c-nathaniels-anlo-patriotic-song-ewe-battle-hymn-zonophone-3972-1925.jpg | https://soundofhistorypodcast.com/wp-content/uploads/2026/07/Josiah-Gospel-Music-Pioneer.jpg; source: https://soundofhistorypodcast.com/africa-in-london/"
 ---
 
 The titles “Anlo Patriotic Song” and “Ewe Battle Hymn” invite investigation of collective identity, resistance and historical grievance, but neither title proves an anti-colonial message. “Battle hymn” may be a conventional religious or ceremonial description; the discography calls it a “Native melody,” not a political protest song. “Patriotic” may refer to Anlo community identity without a specific grievance or adversary.

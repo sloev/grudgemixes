@@ -20,8 +20,6 @@ urls:
   - "https://music.amazon.com/albums/B08P6MT32N"
   - "https://www.ynet.co.il/articles/0,7340,L-4898292,00.html"
   - "https://folkmasa.org/avshir/pshir_fls.php"
-images:
-  - "media/041-cakum-effendi-malandanzas-del-asker-gramophone-11-12734-1911.jpg | https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/23/cb/af/23cbafc2-6754-ddae-0bbd-44f8d20fa354/Eastern_Mediterranean_Judeo-Spanish_Songs_Cover.jpg/1200x630wp-60.jpg; source: https://music.apple.com/us/album/el-mancebo-seboso-la-fea-y-el-viejo-las-camas/1540566417?i=1540566790"
 ---
 
 The Hebrew University scholarly commentary identifies this as one of the Ladino songs about “askerlik” — military service imposed on Jews by Ottoman authorities from 1908. It notes that Çakum's version is close to Haim Effendi's earlier / parallel recorded version and that rare oral-tradition versions probably derive from these commercial recordings.

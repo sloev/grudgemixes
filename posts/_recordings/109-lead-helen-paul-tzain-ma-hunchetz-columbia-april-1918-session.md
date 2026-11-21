@@ -17,8 +17,6 @@ recording_url: ""
 urls:
   - "https://www.armenianmuseum.org/sound-archive/helen-paul"
   - "https://www.armenianmuseum.org/sound-archive"
-images:
-  - "media/109-lead-helen-paul-tzain-ma-hunchetz-columbia-april-1918-session.webp | http://static1.squarespace.com/static/5963d44e03596ece54830d99/t/69b42dbfe819302963d982d5/1773415871703/HelenPaulLabel.jpg?format=1500w; source: https://www.armenianmuseum.org/sound-archive/helen-paul"
 ---
 
 The museum identifies the song as an ode to the earliest organized Armenian revolutionary groups, especially the Protectors of the Fatherland (Bashdban Hayrenyat's), an organization associated with Erzerum. The composition is attributed to an unknown writer and is believed to date from the late nineteenth century.

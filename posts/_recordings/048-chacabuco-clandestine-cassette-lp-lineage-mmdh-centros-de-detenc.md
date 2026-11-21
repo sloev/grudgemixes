@@ -19,8 +19,6 @@ urls:
   - "https://terrorismodeestadoenchile.blogspot.com/2013/09/08/"
   - "https://culturaacompanada.blogspot.com/2018/08/museo-de-la-memoria-estrenara-cueca.html"
   - "https://folcloreyculturachilena.blogspot.com/2017/04/memoria-del-cantar-popular-musica.html"
-images:
-  - "media/048-chacabuco-clandestine-cassette-lp-lineage-mmdh-centros-de-detencion-and-separate-2-03.jpg | https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgacCxV95jJxXg6_rOB4AIc-beiTD480RTsikfhvk2OlUG7h1gxBu-N_v5PIOEA8vIbEotflnocosbUEG6pkoCJ4UpJuCv2N3j4DHs61xUJTpJXOZlErpGx0j4; source: https://discotecanacionalchile.blogspot.com/2019/04/angel-parra-chacabuco-vpa-8344-i-dischi.html"
 ---
 
 **Where and when:** Oficina Salitrera Chacabuco detention camp, Chile; Date(s): 1973–75; later archive/reissue dates vary; Medium: Cassette, LP, radio archive digital objects
