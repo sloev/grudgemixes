@@ -1,15 +1,18 @@
 ---
 type: recording
-title: "Tashjian Brothers, “Akh Vasburagan” (Columbia E666/4974, 1910)"
+title: "The Tashjian family — first Armenian-language Columbia recordings in America"
 slug: "tashjian-brothers-akh-vasburagan-columbia-e6664974-1910"
-date: "2026-11-20"
+date: "2026-11-21"
 draft: true
-summary: "The Armenian-language ERGIR page “ԱԽ ՎԱՍՊՈՒՐԱԿԱՆ” (“Akh Vaspurakan”) attributes the words to S. Jamkochyan. Its stanzas: - mourn Vaspurakan and the Armenian dead; - condemn captivity, foreign dependence and disunity; - call for Armenian unity and explicitly say “Պէտք է մենք լուծենք վրէժ հայկական” — approximately, “We must exact Armenian revenge”; - describe Van and its districts filled with bodies and fields stained with Armenian blood; - denounce the Ottoman army and artillery; - end with a call to take up rifles as Armenian communities and homes are attacked. Performer: Tashjian Brothers — Mardiros, Nishan and Levon Der Sarkis."
-who: "Tashjian Brothers"
-when: "1910"
-where: ""
-country: ""
-what: "“Akh Vasburagan” (Columbia E666/4974, 1910)"
+summary: "One consolidated entry for Mardiros Der Sarkis Tashjian’s six Armenian-language Columbia recordings from 1909 and the twenty-eight songs he recorded with brothers Nishan and Levon in 1910."
+who: "Mardiros Der Sarkis Tashjian; with Nishan and Levon Der Sarkis Tashjian"
+when: "1909–1910"
+active_until: "1910"
+act_status: ""
+why_outsider: "An immigrant Armenian family carried a marginalised language and a repertoire of homeland memory, loss and resistance into the early U.S. commercial record industry. The Armenian Museum documents these as the first commercially released Armenian-language recordings in America, while the brothers’ recording careers ended with the 1910 sessions."
+where: "New York City, New York"
+country: "United States"
+what: "Thirty-four Armenian-language songs for Columbia, including “Hairenikt Mortsir” and “Akh Vasburagan”"
 medium: "78 rpm disc"
 tags:
   - "the-account"
@@ -18,29 +21,10 @@ urls:
   - "https://www.armenianmuseum.org/sound-archive/tashjian-story"
   - "https://www.armenianmuseum.org/sound-archive/the-tashjian-brothers"
   - "https://ergir.am/ax_vaspurakan/"
-  - "https://armradioarchive.am/song/akh-vaspurakan-6614"
+  - "https://ergir.am/himi_el_lrenq/"
+  - "https://www.houshamadyan.org/mapottomanempire/vilayet-of-bitlispaghesh/sassoun/local-characteristics/alahaidoyan-coll-songs.html"
 images:
   - "media/190-tashjian-brothers-akh-vasburagan-columbia-e666-4974-1910-2.webp | The Incomplete Story of Mardiros Der Sarkis Tashjian & His Brothers — Armenian Museum of America; source: https://www.armenianmuseum.org/sound-archive/tashjian-story"
 ---
 
-The Armenian-language ERGIR page “ԱԽ ՎԱՍՊՈՒՐԱԿԱՆ” (“Akh Vaspurakan”) attributes the words to S. Jamkochyan. Its stanzas: - mourn Vaspurakan and the Armenian dead; - condemn captivity, foreign dependence and disunity; - call for Armenian unity and explicitly say “Պէտք է մենք լուծենք վրէժ հայկական” — approximately, “We must exact Armenian revenge”; - describe Van and its districts filled with bodies and fields stained with Armenian blood; - denounce the Ottoman army and artillery; - end with a call to take up rifles as Armenian communities and homes are attacked.
-
-**Performer:** Tashjian Brothers — Mardiros, Nishan and Levon Der Sarkis.
-
-**Title:** “Akh Vasburagan” (also transliterated “Akh Vaspurakan”).
-
-**Label / catalogue:** Columbia E666/4974.
-
-**Session:** New York, autumn 1910.
-
-**Release:** 1911.
-
-**Paired side:** “Zartir Vortiag” (Columbia E666/4975).
-
-**Language:** Armenian.
-
-## To do
-
-- Rewrite the story in plain blog voice (80–200 words): who, what, when, the wrong, and why it belongs here.
-- Check every fact against the sources in `urls`; fill `who`, `when`, `where`, `what` precisely.
-- Find a public `recording_url` (archive, label, YouTube, Internet Archive) if one exists.
+In 1909, Mardiros Der Sarkis Tashjian recorded six Armenian-language songs for Columbia in New York. The following autumn he returned with his brothers Nishan and Levon; as the Tashjian Brothers, they recorded another twenty-eight. Their repertoire ranged from songs of homeland and loss to tributes to fedayi fighters. “Akh Vasburagan,” for example, laments the destruction of Vaspurakan and voices a demand for resistance. These were not professional stage stars: they were an immigrant family documenting Armenian-language music at a moment when the community was scarcely represented in American commercial recording. The Armenian Museum’s research identifies the sessions as the first commercially released Armenian-language recordings in the United States and says the brothers’ recording careers ended with the 1910 session. This entry gathers the family’s Columbia work in one place rather than splitting each side into a separate post.
