@@ -368,6 +368,9 @@ jobs:
           git add posts media missing-post-images.txt
           if ! git diff --cached --quiet; then
             git commit -m "Download real sourced images for posts [skip ci]"
+            # Other commits may land while the archive search is running.
+            # Rebase generated image changes before pushing so they are not lost.
+            git pull --rebase origin main
             git push origin main
           fi
           if [ -f missing-post-images.txt ]; then
