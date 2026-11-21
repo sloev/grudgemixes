@@ -65,3 +65,17 @@ Deposit next sequential Kancheli Kin-dza-dza film-mix excerpt into sovietfilm Dr
 
 ### Handoff
 Next: 87m-89m excerpt or free Zatsepin sources. Private repo access requires collaborator account. Do not invent downloads.
+
+## 2026-11-22 — Grok — sovietfilm 87m-89m film-mix deposit
+
+### Task claimed
+Deposit next sequential Kancheli Kin-dza-dza film-mix excerpt into sovietfilm Drive (previously blocked); note access barriers for private repos.
+
+### Result
+- insanemusic repo remains 404 (private/inaccessible to current auth).
+- sovietfilm legacy repo updated for log continuity only (redirect to this canonical workspace active).
+- Deposited and verified SF-Kancheli_Kin-dza-dza_film-mix_excerpt_87m-89m.mp3 in sovietfilm Drive (ID 11HPGHlOUXp4xzeIdMjx82iX2u8WUHfQ-; 1,920,961 bytes; 120.024 s; MD5 6ca6aa55d5fe5beecaa49babd44e63fa). Object type: original film-mix cue excerpt from IA https://archive.org/details/kin-dza-dza (5220-5340s). Research note uploaded (ID 1-9wJ-hKwraI6Luu4Xo-9DRkVHw5BceeI). No new free isolated/commercial tracks found for music projects.
+- Metrics: Files uploaded and verified this session: 1 (sovietfilm).
+
+### Handoff
+Next: 89m-91m excerpt or free Zatsepin sources. Private repo access requires collaborator account. Do not invent downloads.
