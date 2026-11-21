@@ -83,6 +83,12 @@ def main():
     print(f"STRUCTURAL LISTENING-LINK FAILURES: {len(failures)}")
     for path, reason in failures:
         print(f"MISSING/INVALID: {path} — {reason}")
+    report = ROOT / "missing-recording-links.txt"
+    report.write_text(
+        "\n".join(f"{path} — {reason}" for path, reason in failures) + ("\n" if failures else ""),
+        encoding="utf-8",
+    )
+    print(f"REPORT WRITTEN: {report.name}")
     print("NOTE: passing this check confirms only a specific-looking HTTPS URL or approved embed format; it does not verify playback.")
     return 1 if failures else 0
 
