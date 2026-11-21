@@ -17,6 +17,7 @@ medium: ""
 tags:
   - "made-anyway"
 recording_url: "https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/"
+recording_verified: true
 urls:
   - "https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/"
   - "https://holocaustmusic.ort.org/memory/dp-camps/david-boder/"
