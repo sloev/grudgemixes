@@ -13,7 +13,7 @@ what: "1965–73"
 medium: ""
 tags:
   - "made-anyway"
-recording_url: ""
+recording_url: "https://svensktvisarkiv.se/musik-pa-kaken/"
 urls:
   - "https://carkiv.musikverk.se/www/epublikationer/Singing_through_the_bars_Lundberg.pdf"
   - "https://old.capricemusic.se/svensktvisarkiv/artikel/inspelningarna/?lang=en"
