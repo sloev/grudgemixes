@@ -15,6 +15,7 @@ tags:
   - "found"
   - "made-anyway"
 recording_url: "https://www.wfmu.org/playlists/shows/52733"
+recording_verified: true
 urls:
   - "https://www.wfmu.org/playlists/shows/52733"
   - "https://archaicinventions.blogspot.com/2013/05/solenoid-norey-games-1982-tape-private.html"
