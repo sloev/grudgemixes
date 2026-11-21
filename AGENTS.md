@@ -46,3 +46,12 @@ Use `type: collection`, then `title`, `slug`, `date`, `draft`, `description`, `t
 - Never upload copyrighted audio. Link to or embed the rights-holder's public player.
 - Use only public-domain or freely licensed images, with author, licence, caption and source. No photographs of people.
 - Prefer under-represented regions and languages, women's voices, and local-language archives.
+
+
+## Public catalogue gate
+
+- A recording is public only when \`draft: false\` and it has a recording-specific \`recording_url\` or an approved \`recording_embed_url\`.
+- A mixtape is public only when \`draft: false\` and every slug in its \`tracks\` list resolves to a public recording.
+- \`draft: true\` does not hide a Jekyll collection document by itself. The workflow \`scripts/sync_recording_publication.py\` writes the generated exclusion block in \`_config.yml\` so unfinished, unlistenable, or dependent mixtape entries stay out of the public build while remaining in the repository.
+- Never edit the generated exclusion block manually. Clear the draft flag, add and manually verify a playable recording URL/embed, and the workflow will re-include the entry automatically.
+- The automated URL check is structural only. Before changing \`draft\` to false, open the destination and confirm that the exact recording plays. A biography, catalogue, article, archive homepage, or product listing without a player does not qualify.
