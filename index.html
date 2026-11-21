@@ -5,6 +5,36 @@ title: Recordings
 <section class="catalogue-heading">
   <h1 aria-label="A catalog of refusal"><span>a catalog of</span><span>refusal</span></h1>
 </section>
+
+<script>
+(function () {
+  function stretchTitle() {
+    var h1 = document.querySelector('.catalogue-heading h1');
+    if (!h1) return;
+    var spans = h1.querySelectorAll('span');
+    var available = h1.clientWidth;
+    if (available < 10) return;
+    spans.forEach(function (span) {
+      // reset so we can measure natural width
+      span.style.transform = 'none';
+      var natural = span.scrollWidth;
+      if (natural < 1) return;
+      var scale = available / natural;
+      span.style.transform = 'scaleX(' + scale + ')';
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', stretchTitle);
+  } else {
+    stretchTitle();
+  }
+  window.addEventListener('resize', stretchTitle);
+  // fonts may still be loading
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(stretchTitle);
+  }
+})();
+</script>
 {% include header.html %}
 <div class="filter-bar" id="filter-panel" data-filter-bar hidden>
   <label><span>Medium</span><select data-filter="medium"><option value="">All media</option></select></label>
