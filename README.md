@@ -27,6 +27,7 @@ Site: https://sloev.github.io/grudgemixes/ · Feed: https://sloev.github.io/grud
 - One recording post per artist, band, group, or recording project; multiple sides, songs, and sessions belong together in that entry.
 - Original recording date must be before 2000, and a named act must have ceased by the end of 2000.
 - The catalogue prioritises marginalised, unknown, and outsider music; sources and uncertainty should be stated.
+- Every recording post must link to a verified, recording-specific public listening page or direct audio/video stream. General archive homepages, catalogues, biographies, and related articles do not count. If the exact recording cannot be played publicly, do not fabricate a link; withhold the post until access is secured. `draft: true` does not hide a post on this site.
 - Genuine image gaps are listed in [missing-post-images.txt](missing-post-images.txt). No placeholders are used.
 
 See [AGENTS.md](AGENTS.md) for the full editorial and rights rules.
