@@ -1,6 +1,12 @@
 {% assign catalogue_number = include.post.name | split: "-" | first %}
 {% if include.post.images and include.post.images.size > 0 %}
   {% assign image_parts = include.post.images[0] | split: " | " %}
+  {% assign image_src = image_parts[0] %}
+  {% if image_src contains "http://" or image_src contains "https://" %}
+    {% assign image_href = image_src %}
+  {% else %}
+    {% assign image_href = '/' | append: image_src | relative_url %}
+  {% endif %}
 {% endif %}
 <article class="catalogue-row" data-catalogue-row
   data-number="{{ catalogue_number }}"
@@ -11,7 +17,7 @@
   data-when="{{ include.post.when | downcase | escape }}">
   {% if include.post.images and include.post.images.size > 0 %}
     <a class="row-image" href="{{ include.post.url | relative_url }}" aria-label="Open {{ include.post.title | escape }}">
-      <img src="{{ '/' | append: image_parts[0] | relative_url }}" alt="{{ image_parts[1] | default: include.post.title | escape }}" loading="lazy">
+      <img src="{{ image_href }}" alt="{{ image_parts[1] | default: include.post.title | escape }}" loading="lazy">
     </a>
   {% endif %}
   <div class="row-content">
