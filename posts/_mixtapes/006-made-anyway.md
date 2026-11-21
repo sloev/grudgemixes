@@ -7,11 +7,8 @@ draft: true
 description: "Keeping your own record, without permission or a label."
 tracks:
   - "anders-enevig-tapes-dansk-folkemindesamling-incl-agnes-sambleben"
-  - "salidummay-dkk"
-  - "tardes-nuestras-recurring-opening-theme-working-incipit-dicen-qu"
   - "anões-de-jardim-demo"
   - "arsch"
-  - "ata-kak-obaa-sima"
 ---
 
 Keeping your own record, without permission or a label. Book: ch. 26, 29; Atlas: Denmark.
