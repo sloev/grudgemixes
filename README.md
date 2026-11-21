@@ -22,6 +22,15 @@ All collection documents are rendered. The `draft` field is editorial metadata a
 
 Site: https://sloev.github.io/grudgemixes/ · Feed: https://sloev.github.io/grudgemixes/feed.xml
 
+## Editorial rules
+
+- One recording post per artist, band, group, or recording project; multiple sides, songs, and sessions belong together in that entry.
+- Original recording date must be before 2000, and a named act must have ceased by the end of 2000.
+- The catalogue prioritises marginalised, unknown, and outsider music; sources and uncertainty should be stated.
+- Genuine image gaps are listed in [missing-post-images.txt](missing-post-images.txt). No placeholders are used.
+
+See [AGENTS.md](AGENTS.md) for the full editorial and rights rules.
+
 ## The idea
 
 A grudge is a wrong someone refuses to let go of, and music is one of the oldest ways people keep that refusal alive. Every post asks what the wrong or refusal was, who stood on each side, and what the music does about it: keep the record, defy, annoy, or strike back.
