@@ -20,6 +20,7 @@ def frontmatter(path):
 
 errors = []
 by_slug = {}
+artist_billing = {}
 for path in sorted(RECORDINGS.glob("*.md")):
     try:
         data = frontmatter(path)
@@ -47,6 +48,15 @@ for path in sorted(RECORDINGS.glob("*.md")):
             errors.append(f"{path.relative_to(ROOT)}: explain the marginalised, unknown, or outsider relevance in why_outsider")
         if not data.get("urls"):
             errors.append(f"{path.relative_to(ROOT)}: add at least one source URL")
+    who = re.sub(r"[^a-z0-9]+", " ", str(data.get("who") or "").casefold()).strip()
+    if who and who not in {"unknown", "anonymous", "unidentified"}:
+        if who in artist_billing:
+            errors.append(
+                f"{path.relative_to(ROOT)}: same artist/group billing as "
+                f"{artist_billing[who]} — consolidate to one post"
+            )
+        else:
+            artist_billing[who] = path.relative_to(ROOT)
     if data.get("type") != "recording":
         errors.append(f"{path.relative_to(ROOT)}: type must be recording")
 
