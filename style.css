@@ -12,7 +12,7 @@
 /* Catalogue hierarchy and card structure */
 .catalogue-heading { width:100%; margin:0; padding:clamp(1.5rem,4vw,3rem) 0 1.25rem; }
 .catalogue-heading h1 { width:100%; max-width:none; margin:0; font-family:var(--display-font, Georgia, serif); font-size:clamp(3rem,10vw,8.5rem); font-weight:900; line-height:.88; letter-spacing:-.065em; text-wrap:balance; display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:2; line-clamp:2; overflow:hidden; }
-.site-header { display:block; width:100%; margin:0 0 1.5rem; padding:1rem 0; border-top:1px solid var(--line, rgba(128,128,128,.25)); border-bottom:1px solid var(--line, rgba(128,128,128,.25)); }
+.site-header { display:block; width:100%; margin:0 0 1.5rem; padding:1rem 0; border:0; }
 .site-menu { display:flex; flex-wrap:wrap; align-items:center; gap:1.25rem; }
 .site-menu a { display:inline-block; }
 .catalogue-tools { display:flex; align-items:center; margin:0 0 1rem; }
@@ -116,7 +116,7 @@ body, .page-shell, main {
 .catalogue-heading h1 { color: var(--site-black); }
 .site-header {
   border-top: 0;
-  border-bottom: 1px solid rgba(0,0,0,.3);
+  border-bottom: 0;
 }
 .site-menu a,
 a,
@@ -240,48 +240,54 @@ a:active {
   max-height: none;
 }
 
-/* Title: two full-width rows, each 3 lines tall, glyphs stretched edge-to-edge */
+/* Title: two full-width rows, glyphs stretched edge-to-edge, compact height */
 .catalogue-heading {
   width: 100%;
   margin: 0;
-  padding: clamp(1.25rem, 4vw, 2.5rem) 0 0;
+  padding: 0.5rem 0 0.1rem;
   background: var(--site-red);
   color: var(--site-black);
+}
+.catalogue-heading,
+.catalogue-heading h1 {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 .catalogue-heading h1 {
   display: flex;
   flex-direction: column;
+  gap: 0;
   width: 100%;
   max-width: none;
   margin: 0;
   padding: 0;
   overflow: visible;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  font-size: clamp(2.4rem, 11vw, 9rem);
+  font-size: clamp(2.8rem, 13vw, 9rem);
   font-weight: 1000;
-  line-height: 1;
+  line-height: 0.92;
   letter-spacing: -0.04em;
   text-transform: uppercase;
   color: var(--site-black);
-  -webkit-text-stroke: 1.5px currentColor;
+  -webkit-text-stroke: 1.25px currentColor;
   text-shadow: none;
 }
 .catalogue-heading h1 span {
   display: block;
   width: 100%;
-  height: 3em;           /* exactly 3 lines of the current font-size */
-  line-height: 3em;
+  height: 0.95em;
+  line-height: 0.95em;
   white-space: nowrap;
   overflow: visible;
   transform-origin: left center;
-  /* scaleX is set by the stretch script so glyphs deform to full width */
 }
 .site-header {
   margin: 0;
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
+  padding: 0.5rem clamp(0.65rem, 2vw, 1.5rem) 0.6rem;
   border: 0 !important;
-  border-bottom: 1px solid rgba(0,0,0,.3) !important;
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  box-shadow: none !important;
 }
 .site-menu { gap: 1rem 1.25rem; }
 .site-menu .filter-toggle {
