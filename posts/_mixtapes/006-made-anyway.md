@@ -8,7 +8,6 @@ description: "Keeping your own record, without permission or a label."
 tracks:
   - "anders-enevig-tapes-dansk-folkemindesamling-incl-agnes-sambleben"
   - "anões-de-jardim-demo"
-  - "arsch"
 ---
 
 Keeping your own record, without permission or a label. Book: ch. 26, 29; Atlas: Denmark.
