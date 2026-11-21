@@ -241,10 +241,6 @@ jobs:
                   images = [images]
               current = str(images[0]) if images else ''
               current_path = current.split('|', 1)[0].strip()
-              if current and not current_path.lower().endswith('.svg') and (ROOT / current_path).exists():
-                  print(f'KEEP EXISTING REAL IMAGE: {post}')
-                  continue
-
               title = str(front.get('title') or post.stem)
               who = str(front.get('who') or '')
               what = str(front.get('what') or '')
@@ -263,8 +259,8 @@ jobs:
               if not result:
                   missing.append(str(post))
                   print(f'NO IMAGE FOUND: {post}')
-                  # Remove the placeholder reference; never leave generated cover art in place.
-                  if current_path.lower().endswith('.svg'):
+                  # Remove any unverified old image reference; never retain an irrelevant or placeholder image.
+                  if current_path:
                       front_text = re.sub(r'(?ms)^images:.*?(?=^[^ \t#][^\n]*:|\Z)', '', match.group(1))
                       updated = raw[:match.start(1)] + front_text.rstrip() + raw[match.end(1):]
                       post.write_text(updated, encoding='utf-8')
