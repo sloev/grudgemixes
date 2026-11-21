@@ -116,8 +116,8 @@ jobs:
                   filename = f'{number}-{slugify(title)}.svg'
                   fallback_svg(title, number, MEDIA/filename)
                   caption = f'Original typographic cover artwork for {title}'
-              image_value = ("media/" + filename) + " | " + caption.replace('"', "'").replace("\\n", " ")
-              new_front = re.sub(r'(?m)^images:\\s*\\[\\]\\s*$', 'images:\\n  - "' + image_value + '"', match.group(1)).rstrip()
+              image_value = ("media/" + filename) + " | " + caption.replace('"', "'").replace("\n", " ")
+              new_front = re.sub(r'(?m)^images:\s*\[\]\s*$', 'images:\n  - "' + image_value + '"', match.group(1)).rstrip()
               updated = raw[:match.start(1)] + new_front + raw[match.end(1):]
               post.write_text(updated, encoding='utf-8')
               changed += 1
