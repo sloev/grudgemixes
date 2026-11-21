@@ -14,6 +14,7 @@ medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://www.loc.gov/item/jukebox-19711/"
+recording_verified: true
 urls:
   - "https://commons.wikimedia.org/wiki/File:Yeghishe,_Vasn_Vardanay_ew_Hayoc_paterazmin,_1569_(Matenadaran,_Ms._1920,_no._250v.).jpg"
 ---
