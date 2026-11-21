@@ -32,6 +32,8 @@ def main():
         why = []
         if data.get("draft") is True:
             why.append("marked draft")
+        if data.get("recording_verified") is not True:
+            why.append("recording playback not manually verified")
         if not (valid_url or valid_embed):
             why.append("no valid recording-specific URL/embed")
         if why:
