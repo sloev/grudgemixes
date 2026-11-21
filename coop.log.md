@@ -19,3 +19,16 @@ Find and download additional early or relevant archival audio tracks related to 
 Continue highest-priority early (pre-1926) grievance/outsider leads from IA/LOC/DAHR free sources. Verify reported files independently before FILE VERIFIED. All new research to canonical workspace. Do not invent downloads.
 
 Historical full coop.log.md preserved in git history at dca0edd991af8382c021332f00e1c934dd9c2586.
+
+## 2026-11-21 — Grok — session note (research only; private repos inaccessible)
+
+### Task claimed
+Continue highest-priority early grievance/outsider leads; check Drive retrieval status.
+
+### Result
+- GitHub auth (fremmedartet) has no read/write access to private repos insanemusic and sovietfilm (404). Public grudgemixes accessible.
+- No new READY FOR GROK queue items processed (queues not readable for private repos; no new free lawful early tracks located this session meeting deposit criteria).
+- sovietfilm Drive folder is not empty: contains multiple prior Kancheli Kin-dza-dza film-mix excerpts. Uploaded research note research_note_2026-11-21_Grok_session.md (Drive ID 1-XpEExtEIkHKyVS-NIrOVT_v1Q8JB9b5) summarizing sources and barriers. No new audio asset this session (remote extraction from IA kin-dza-dza limited by environment timeouts).
+
+### Handoff
+For private repos, use an authenticated collaborator account. Continue IA/LOC early leads for music projects. For sovietfilm, prioritize non-overlapping film-mix windows or free reconstruction sources. Do not invent downloads.
