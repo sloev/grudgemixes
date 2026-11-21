@@ -21,7 +21,7 @@ urls:
   - "https://english.duke.edu/events/jailhouse-blues-music-parchman-farm"
   - "https://www.wirz.de/music/rosetta.htm"
 images:
-  - "media/221-women-s-a-cappella-songs-parchman-loc-field-discs.jpg | JAILHOUSE BLUES: THE MUSIC OF PARCHMAN FARM | English Department; source: https://english.duke.edu/events/jailhouse-blues-music-parchman-farm"
+  - "media/221-women-s-a-cappella-songs-parchman-loc-field-discs-2.jpg | JAILHOUSE BLUES: THE MUSIC OF PARCHMAN FARM | English Department; source: https://english.duke.edu/events/jailhouse-blues-music-parchman-farm"
 ---
 
 **Where and when:** Mississippi State Penitentiary; Date(s): 1936, 1939; Medium: Instantaneous disc

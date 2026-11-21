@@ -27,6 +27,6 @@ urls:
   - "https://ccblues.com/artists/ma-rainey/"
   - "https://www.youtube.com/watch?v=Lfz03gTAU_M"
 images:
-  - "media/115-ma-rainey-and-her-georgia-band-cell-bound-blues-and-stack-olee-blues-2.jpg | STACK O'LEE BLUES : Ma Rainey and her Georgia Band : Free Download, Borrow, and Streaming : Internet Archive; source: https://archive.org/details/78_stack-olee-blues_ma-rainey-and-her-georgia-band-joe-smith-taylor-williams_gbia0253947b"
+  - "media/115-ma-rainey-and-her-georgia-band-cell-bound-blues-and-stack-olee-blues.jpg | Ma Rainey and her Georgia Jazz Band - The Syncopated Times; source: https://syncopatedtimes.com/ma-rainey-and-her-georgia-jazz-band/"
 ---
 In late 1924, Ma Rainey recorded “Cell Bound Blues,” a tense first-person account of a woman who shoots the man who has beaten her and is sent to prison. In December 1925, she returned to the Stagolee murder legend with “Stack O’Lee Blues.” The two Paramount sides hold different kinds of grievance together: one turns domestic violence and confinement into testimony; the other retells a killing that had become public folklore. “Cell Bound Blues” appeared on Paramount 12257-A, while “Stack O’Lee Blues” was issued on 12357-A in 1926. The listening section gives a player for the first song and a direct link to the second.

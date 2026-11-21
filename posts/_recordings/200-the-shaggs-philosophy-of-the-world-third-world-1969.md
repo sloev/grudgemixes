@@ -16,6 +16,8 @@ tags:
 recording_url: "https://theshaggs.bandcamp.com/album/philosophy-of-the-world"
 urls:
   - "https://en.wikipedia.org/wiki/The_Shaggs"
+images:
+  - "media/200-the-shaggs-philosophy-of-the-world-third-world-1969.jpg | Philosophy of the World | The Shaggs; source: https://theshaggs.bandcamp.com/album/philosophy-of-the-world"
 ---
 
 Three sisters made to record by their father; famously both mocked and revered.

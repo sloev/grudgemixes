@@ -20,6 +20,8 @@ urls:
   - "https://www.wirz.de/music/lewis.htm"
   - "https://www.grooves-inc.co.uk/furry-lewis-furrys-blues-1927-1929-document-cd-pZZa1-1899420523.html"
   - "https://www.staggerlee.com/history/1921-1930.php"
+images:
+  - "media/070-furry-lewis-billy-lyons-and-stack-o-lee-vocalion-1132-1927.jpg | âBilly Lyons and Stack O'lee - Song with Lyrics by Furry Lewis - AppleÂ Music; source: https://music.apple.com/us/album/billy-lyons-and-stack-olee/72780566?i=72780353"
 ---
 
 The title explicitly names Billy Lyons and Stack O'Lee, the two figures at the centre of the Stagger Lee ballad cycle. This is a strong research lead for a song about retaliatory violence, but the exact lyric and moral point of view must be established from this performance. Later summaries and familiar lyrics are not substitutes for the 1927 master.

@@ -24,7 +24,7 @@ urls:
   - "https://ergir.am/himi_el_lrenq/"
   - "https://www.houshamadyan.org/mapottomanempire/vilayet-of-bitlispaghesh/sassoun/local-characteristics/alahaidoyan-coll-songs.html"
 images:
-  - "media/190-the-tashjian-family-first-armenian-language-columbia-recordings-in-america.webp | The Incomplete Story of Mardiros Der Sarkis Tashjian & His Brothers — Armenian Museum of America; source: https://www.armenianmuseum.org/sound-archive/tashjian-story"
+  - "media/190-the-tashjian-family-first-armenian-language-columbia-recordings-in-america-2.webp | The Incomplete Story of Mardiros Der Sarkis Tashjian & His Brothers — Armenian Museum of America; source: https://www.armenianmuseum.org/sound-archive/tashjian-story"
 ---
 
 In 1909, Mardiros Der Sarkis Tashjian recorded six Armenian-language songs for Columbia in New York. The following autumn he returned with his brothers Nishan and Levon; as the Tashjian Brothers, they recorded another twenty-eight. Their repertoire ranged from songs of homeland and loss to tributes to fedayi fighters. “Akh Vasburagan,” for example, laments the destruction of Vaspurakan and voices a demand for resistance. These were not professional stage stars: they were an immigrant family documenting Armenian-language music at a moment when the community was scarcely represented in American commercial recording. The Armenian Museum’s research identifies the sessions as the first commercially released Armenian-language recordings in the United States and says the brothers’ recording careers ended with the 1910 session. This entry gathers the family’s Columbia work in one place rather than splitting each side into a separate post.

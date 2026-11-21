@@ -20,7 +20,7 @@ urls:
   - "https://canary-records.bandcamp.com/album/a-diamond-ring-armenian-american-independent-releases-ca-1922-27"
   - "https://journals.uni-goettingen.de/wom/article/download/1868/1571?inline=1"
 images:
-  - "media/212-a-song-of-deir-ez-zor-cut-by-the-armenian-diaspora.jpg | Derzor Dasdaanaci (The Ballad-Singer of Der Zor) | Vahan Boyajian | Canary Records; source: https://canary-records.bandcamp.com/track/derzor-dasdaanaci-the-ballad-singer-of-der-zor"
+  - "media/212-a-song-of-deir-ez-zor-cut-by-the-armenian-diaspora-2.jpg | Derzor Dasdaanaci (The Ballad-Singer of Der Zor) | Vahan Boyajian | Canary Records; source: https://canary-records.bandcamp.com/track/derzor-dasdaanaci-the-ballad-singer-of-der-zor"
 ---
 
 Vahan Boyajian’s “Derzor Dasdaanaci” is a Turkish-language lament about the deportation of Armenians to Deir ez-Zor in Syria during the violence of 1915. Boyajian recorded it around 1925 on Bilbil Record 2, one of the small Armenian-American labels that filled the gap after the major companies stopped making new Armenian-language records.

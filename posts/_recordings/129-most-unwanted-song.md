@@ -20,6 +20,8 @@ urls:
   - "https://www.davesoldier.com/experimental"
   - "https://en.wikipedia.org/wiki/The_People%27s_Choice_Music"
   - "https://commons.wikimedia.org/wiki/File:Dudelsack,_violin_&_accordion,_Puhoi_Heritage_Museum.jpg"
+images:
+  - "media/129-the-song-a-poll-said-nobody-wants.jpg | The Most Unwanted Song | Komar & Melamid/Dave Soldier | Needlejuice Records; source: https://needlejuice.bandcamp.com/track/the-most-unwanted-song"
 ---
 
 The artists Komar and Melamid and the composer Dave Soldier asked about 500 visitors to the Dia Center's website what they least wanted to hear in music. The answers included bagpipes, accordion, cowboy music, opera, rap, tuba, drum machines, advertising jingles and children's voices.

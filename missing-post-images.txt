@@ -19,7 +19,6 @@ posts/_recordings/054-cults-percussion-ensemble-1979.md
 posts/_recordings/059-dr-maurice-dupont-sainte-anne-hospital-phonograph-recordings-of.md
 posts/_recordings/063-egypt-dinshaway-mawwal-ballad-tradition-1906.md
 posts/_recordings/069-ford-and-ford-skeeg-a-lee-blues-paramount-12244-a-1924.md
-posts/_recordings/070-furry-lewis-billy-lyons-and-stack-olee-vocalion-1132-1927.md
 posts/_recordings/073-garuta-1944-premiere-tape.md
 posts/_recordings/077-george-reneau-womans-suffrage-vocalion-14999-1925.md
 posts/_recordings/078-george-w-johnson-laughing-song-victor-583-1903.md
@@ -33,7 +32,6 @@ posts/_recordings/092-ignacio-parra-parts-12-rafael-herrera-robinson-edison-two-
 posts/_recordings/101-julian-whiterose-j-resigna-iron-duke-in-the-land-single-tone-cal.md
 posts/_recordings/102-julius-sutton-single-girl-gordon-cylinder-a79-item-nc117-28-octo.md
 posts/_recordings/103-kalaupapa-settlement-choirs-1952-cassette.md
-posts/_recordings/105-karl-tirén-joik-cylinder-0212-till-galtispuoda-vid-hornavan-feb.md
 posts/_recordings/106-kolkata-theatre-recording-lead-khune-nahak-gana-gana-gana-1902.md
 posts/_recordings/111-liberation-massachusetts-prison-band-c1981.md
 posts/_recordings/119-malinda-jackson-parker.md
@@ -41,7 +39,6 @@ posts/_recordings/125-margaret-valiant-fsa-migrant-camp-discs-193839.md
 posts/_recordings/126-maría-garcía-la-noche-de-reyes-asturias-recorded-19-january-1939.md
 posts/_recordings/127-mlle-mariette-el-sentenciado-del-bajá-zonophone-x-103831-1911.md
 posts/_recordings/128-montehus-gloire-au-17e.md
-posts/_recordings/129-most-unwanted-song.md
 posts/_recordings/130-naima-ya-balah-zaghloul.md
 posts/_recordings/132-no-body-no-lie-paddy-ladd-1990.md
 posts/_recordings/134-nubar-effendi-vatan-canto-odeon-54584-19081909.md
@@ -63,7 +60,6 @@ posts/_recordings/182-solenoid-norey-games-1982.md
 posts/_recordings/185-svenskt-visarkiv-prison-song-reels-196573.md
 posts/_recordings/197-thakhin-movement-doh-bamar-original-78-c1930.md
 posts/_recordings/198-the-jonestown-express-14-cassettes-91-tracks-peoples-temple-choi.md
-posts/_recordings/200-the-shaggs-philosophy-of-the-world-third-world-1969.md
 posts/_recordings/201-thirty-minutes-behind-the-walls-wbap-prison-radio-193844-lost.md
 posts/_recordings/202-time-control-addiction-by-do-1986-home-taped-synth-pop-the-casse.md
 posts/_recordings/207-tuskegee-institute-singers-ive-been-buked-victor-1916.md
