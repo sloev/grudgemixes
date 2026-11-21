@@ -14,6 +14,7 @@ medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://phonobase.org/en/fiche/5988"
+recording_verified: true
 urls:
   - "https://eduscol.education.gouv.fr/chansonsquifontlhistoire/Gloire-au-17e.html"
   - "https://commons.wikimedia.org/wiki/File:Le_Petit_Parisien_Béziers_1907.jpg"
