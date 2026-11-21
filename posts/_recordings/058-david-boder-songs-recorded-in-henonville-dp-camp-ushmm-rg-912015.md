@@ -16,9 +16,9 @@ what: "“Songs recorded in Henonville DP camp” (USHMM RG-91.2015)"
 medium: ""
 tags:
   - "made-anyway"
-recording_url: "https://centerhistorypsychology.wordpress.com/category/sound-recordings/"
+recording_url: "https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/"
 urls:
-  - "https://centerhistorypsychology.wordpress.com/category/sound-recordings/"
+  - "https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/"
   - "https://holocaustmusic.ort.org/memory/dp-camps/david-boder/"
   - "https://collections.ushmm.org/search/catalog/irn719266"
   - "https://collections.ushmm.org/search/catalog/irn620183"
