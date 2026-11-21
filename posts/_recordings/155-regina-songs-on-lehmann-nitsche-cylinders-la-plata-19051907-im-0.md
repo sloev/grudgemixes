@@ -14,6 +14,7 @@ medium: ""
 tags:
   - "made-anyway"
 recording_url: "https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/35912"
+recording_verified: true
 urls:
   - "https://revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/35912"
   - "https://ccc.deutsche-digitale-bibliothek.de/en/item/RGLLD5SHUNUOJAMH6BAUJZ6ZY3XN5OEL"
