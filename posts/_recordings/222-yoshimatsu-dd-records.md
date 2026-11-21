@@ -17,7 +17,7 @@ recording_url: "https://phantomlimblabel.bandcamp.com/album/fossil-cocoon-the-mu
 urls:
   - "https://commons.wikimedia.org/wiki/File:Tape_cassettes_in_a_wall_display.jpg"
 images:
-  - "media/222-222-cassettes-of-japanese-weirdness-2.jpg | Fossil Cocoon: The Music of K. Yoshimatsu | K. Yoshimatsu | Phantom Limb; source: https://phantomlimblabel.bandcamp.com/album/fossil-cocoon-the-music-of-k-yoshimatsu"
+  - "media/222-222-cassettes-of-japanese-weirdness.jpg | Fossil Cocoon: The Music of K. Yoshimatsu | K. Yoshimatsu | Phantom Limb; source: https://phantomlimblabel.bandcamp.com/album/fossil-cocoon-the-music-of-k-yoshimatsu"
 ---
 
 In the 1980s a small circle around the composer K. Yoshimatsu and his associate Tadashi Kamada ran DD. Records. Over five years they released exactly 222 cassettes: ambient, abstract punk, musique concrète and fragile songs, each with typewritten notes and Xerox covers made from found material.

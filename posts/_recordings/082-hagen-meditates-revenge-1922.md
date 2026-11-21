@@ -18,7 +18,7 @@ urls:
   - "https://www.musicweb-international.com/hooey/radford-discog.htm"
   - "https://commons.wikimedia.org/wiki/File:Siegfried_and_the_Twilight_of_the_Gods_p_138.jpg"
 images:
-  - "media/082-a-son-keeps-his-father-s-grudge-2.jpg | The Twilight Of The Gods Hagen Meditates Revenge : Radford, Robert : Free Download, Borrow, and Streaming : Internet Archive; source: https://archive.org/details/78_the-twilight-of-the-gods-hagen-meditates-revenge_radford-robert-symphony-orchestra"
+  - "media/082-a-son-keeps-his-father-s-grudge.jpg | File:Letters to his son on religion (IA letterstohissono00selbrich).pdf; source: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Letters_to_his_son_on_religion_%28IA_letterstohissono00selbrich%29.pdf/page1-500px-Letters_to_his_son_on_religion_%28IA_letterstohissono00selbrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
 ---
 
 In Wagner's *Götterdämmerung*, Hagen sits up all night guarding the hall while everyone else sleeps, turning over a revenge that was his father's before it was his. In 1922 the English bass Robert Radford recorded the scene in English for HMV, as "Hagen meditates revenge".

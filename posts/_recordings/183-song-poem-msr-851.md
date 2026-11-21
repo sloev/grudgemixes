@@ -17,6 +17,8 @@ recording_url: "https://songpoemmusic.com/mp3.htm"
 urls:
   - "https://en.wikipedia.org/wiki/Song_poem"
   - "https://songpoemmusic.com/what_is.htm"
+images:
+  - "media/183-mary-bolton-s-song.jpg | Pearlie Lee Freeman Patrick, Daughter Of Mary E. Jacobs Of East Arcadia, NC And William Dudley Freeman Of Bolton, NC Ancestral Tree; source: https://archive.org/details/pearlie-lee-freeman-patrick-daughter-of-mary-e.-jacobs-of-east-arcadia-nc-and-wi"
 ---
 
 For most of the twentieth century, magazines carried small ads: send us your poem and we'll make it a record. Thousands of ordinary people paid. Session musicians set the lyrics in an afternoon, a few copies were pressed, and the record usually went nowhere except the customer's front room.

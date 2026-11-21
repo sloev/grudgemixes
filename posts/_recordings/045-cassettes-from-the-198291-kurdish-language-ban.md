@@ -17,7 +17,7 @@ recording_url: ""
 urls:
   - "https://theatticmag.com/reports/2369/on-the-trails-of-a-banned-language.html"
 images:
-  - "media/045-cassettes-from-the-198291-kurdish-language-ban-2.jpg | On the Trails of a Banned Language | The Attic; source: https://theatticmag.com/reports/2369/on-the-trails-of-a-banned-language.html"
+  - "media/045-cassettes-from-the-198291-kurdish-language-ban.jpg | On the Trails of a Banned Language | The Attic; source: https://theatticmag.com/reports/2369/on-the-trails-of-a-banned-language.html"
 ---
 
 families hid tapes in their own language in gardens and charcoal stores. **Sources:** https://theatticmag.com/reports/2369/on-the-trails-of-a-banned-language.html

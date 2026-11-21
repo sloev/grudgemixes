@@ -20,7 +20,7 @@ urls:
   - "https://www.armenianmuseum.org/sound-archive/tashjian-story"
   - "https://hy.wiktionary.org/wiki/խավարել"
 images:
-  - "media/225-zabelle-panosian-khavarel-yem-columbia-e4010-june-1918-2.jpg | I Am Servant of Your Voice: March 1917 - June 1918 | Zabelle Panosian | Canary Records; source: https://canary-records.bandcamp.com/album/i-am-servant-of-your-voice-march-1917-june-1918"
+  - "media/225-zabelle-panosian-khavarel-yem-columbia-e4010-june-1918.jpg | I Am Servant of Your Voice: March 1917 - June 1918 | Zabelle Panosian | Canary Records; source: https://canary-records.bandcamp.com/album/i-am-servant-of-your-voice-march-1917-june-1918"
 ---
 
 The Canary Records title gloss is “I Am Darkened.” Armenian lexical sources confirm that *խաւարել / խավարել* can mean to darken, become gloomy, or be overwhelmed by sorrow, but this is only a lexical clue, not a translation of the song. The Panosian project includes translated song texts and historical notes, but the full lyric of this item has not yet been independently checked in this research pass.

@@ -19,6 +19,8 @@ urls:
   - "https://mustrad.mainlynorfolk.info/articles/gauhar.htm"
   - "https://en.wikipedia.org/wiki/Gauhar_Jan"
   - "https://commons.wikimedia.org/wiki/File:1904_circa_The_Gramophone_&_Typewriter_Ltd.,_Decall_with_Trade_Mark,_21_City_Road,_Finsbury_Square_London_E._C.jpg"
+images:
+  - "media/074-my-name-is-gauhar-jaan.jpg | Gauhar Jaan — Khayal and thumri vocal: Biography & Recordings; source: https://indianmusicarchive.org/musicians/gauhar-jaan"
 ---
 
 In November 1902 the Gramophone Company set up a makeshift studio in two hotel rooms in Calcutta. The singer who climbed up to the horn was Gauhar Jaan, a courtesan-artist at a time when reformers were trying to legislate her profession out of existence. She sang a khayal in Raag Jogiya, then shouted her own name at the end so no one could mistake whose voice it was.

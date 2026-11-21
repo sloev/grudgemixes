@@ -21,6 +21,8 @@ urls:
   - "https://www.mic.lt/en/discourses/lithuanian-music-link/no-19-january-december-2016/povilas-vaitkevicius-lithuanian-nonconventional-music-publishing/"
   - "https://www.ekspertai.eu/straipsnis/lietuvoje-atgimsta-kaseciu-kultura"
   - "https://www.music.lt/lt/grupe/Ramunas-Jaras-Echidna-aukstyn/3006/"
+images:
+  - "media/061-echidna-aukstyn-s-underground-music-cassette-from-1993.jpg | MICL - Music Information Centre Lithuania | Database  - Electronic / Experimental - Composers / Artists  - Ramūnas Jaras; source: https://www.mic.lt/en/database/electronic/composers-artists/jaras/"
 ---
 
 Ramūnas Jaras formed Echidna Aukštyn in Lithuania and issued *Paskutinė požemių muzika* (The Last Music of the Dungeons) on cassette in 1993. The recording is murky and homemade: low frequencies, lo-fi crackle, basement-piano tones and voices thrown into echo. It sounds like music leaking through a wall from a room that might not officially exist.
