@@ -13,7 +13,7 @@ what: "Tape and reel albums incl. Invalīdu tramvajs (1983)"
 medium: "cassette"
 tags:
   - "unwanted"
-recording_url: "https://underbedstorage.bandcamp.com/album/december-session"
+recording_url: "https://stroomtv.bandcamp.com/album/the-workshop-for-the-restoration-of-unfelt-feelings"
 urls:
   - "https://en.wikipedia.org/wiki/NSRD"
   - "https://post.moma.org/working-with-peripheries-workshop-for-the-restoration-of-unfelt-feelings/"
