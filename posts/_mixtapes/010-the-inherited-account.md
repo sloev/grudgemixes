@@ -7,8 +7,7 @@ draft: true
 description: "Grievances handed down: a fifth-century defeat still owed, a story cycle of revenge, a son carrying his father's grudge."
 tracks:
   - "bezazian-bam-porotan-1916"
-  - "tashjian-brothers-menk-bedk-e-grvenk-columbia-e661-matrix-4973-1"
-  - "mardiros-tashjian-dalvorig-columbia-1909"
+  - "tashjian-brothers-akh-vasburagan-columbia-e6664974-1910"
   - "hagen-meditates-revenge-1922"
 ---
 
