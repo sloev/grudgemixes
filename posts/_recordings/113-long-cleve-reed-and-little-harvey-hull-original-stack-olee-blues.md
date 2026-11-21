@@ -13,8 +13,9 @@ what: "“Cleve” Reed and Little Harvey Hull — “Original Stack O'Lee Blues
 medium: ""
 tags:
   - "the-account"
-recording_url: ""
+recording_url: "https://www.youtube.com/watch?v=Qvou3yCH1U4"
 urls:
+  - "https://www.youtube.com/watch?v=Qvou3yCH1U4"
   - "https://www.wirz.de/music/hullph.htm"
   - "https://www.45cat.com/78rpm/record/8030us"
   - "https://oxfordamerican.org/magazine/issue-85-summer-2014/black-patti-8030"
