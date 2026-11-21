@@ -14,6 +14,7 @@ medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://archive.org/details/78_the-twilight-of-the-gods-hagen-meditates-revenge_radford-robert-symphony-orchestra"
+recording_verified: true
 urls:
   - "https://www.musicweb-international.com/hooey/radford-discog.htm"
   - "https://commons.wikimedia.org/wiki/File:Siegfried_and_the_Twilight_of_the_Gods_p_138.jpg"
