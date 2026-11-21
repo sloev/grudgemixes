@@ -13,7 +13,7 @@ what: "incl. Agnes Sambleben ballad (1959)"
 medium: ""
 tags:
   - "made-anyway"
-recording_url: ""
+recording_url: "https://www.danishimmigrationmuseum.com/the-romani-people-travellers/"
 urls:
   - "https://biografiskleksikon.lex.dk/Anders_Enevig"
   - "https://www.danishimmigrationmuseum.com/the-romani-people-travellers/"
