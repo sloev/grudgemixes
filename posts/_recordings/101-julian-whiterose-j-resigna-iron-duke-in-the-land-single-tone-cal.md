@@ -13,9 +13,11 @@ what: "\"J. Resigna\"), \"Iron Duke in the Land\" (Single Tone Calipso I), 1914"
 medium: "vinyl"
 tags:
   - "the-account"
-recording_url: ""
+recording_url: "https://www.youtube.com/watch?v=6jY4VbrlRj4"
+recording_verified: true
 urls:
   - "https://adp.library.ucsb.edu/index.php/matrix/refer/600000594"
+  - "https://www.youtube.com/watch?v=6jY4VbrlRj4"
   - "https://adp.library.ucsb.edu/index.php/date/browse/1914-09-11"
   - "https://en.wikipedia.org/wiki/Julian_Whiterose"
 ---
