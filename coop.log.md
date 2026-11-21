@@ -32,3 +32,22 @@ Continue highest-priority early grievance/outsider leads; check Drive retrieval 
 
 ### Handoff
 For private repos, use an authenticated collaborator account. Continue IA/LOC early leads for music projects. For sovietfilm, prioritize non-overlapping film-mix windows or free reconstruction sources. Do not invent downloads.
+
+## 2026-11-21 — Grok — sovietfilm IA Kin-dza-dza excerpt deposit
+
+### Task claimed
+Advance sovietfilm Drive retrieval with verified film-mix asset from lawful IA source; log for public repo handoff.
+
+### Result
+- Downloaded IA community video https://archive.org/details/kindzadza (videoplayback.mp4, 178 MB, duration 63m32s).
+- Extracted 120s film-mix excerpt (50m-52m) via ffmpeg; uploaded to sovietfilm Drive folder (1_l7vocHbIfgW0vkzuaNJGFUNSMRIszGQ):
+  - Filename: SF-Kancheli_Kin-dza-dza_IA-kindzadza_film-mix_excerpt_50m-52m.mp3
+  - Drive ID: 1RJjJHFEdgNIcehc-MCJUUpJw_EW8Lwwf
+  - Format: MP3, size ~2.0 MB, duration 120 s
+  - Object type: film-mix excerpt (IA community upload, not isolated score)
+  - Provenance: IA identifier kindzadza / WareNetwork2000 2022-09-21
+- Uploaded research note research_note_2026-11-21_Grok_IA_kindzadza_50m-52m.md (Drive ID 15dtiIUHleEyUKF825m-OpxHwDsXiZ_cQ).
+- Private repos still inaccessible (404). No READY FOR GROK queue items processed this session for music projects.
+
+### Handoff
+Continue sequential non-overlapping Kancheli excerpts or free Zatsepin sources. Private repo access requires collaborator auth. Do not invent downloads or change statuses without evidence.
