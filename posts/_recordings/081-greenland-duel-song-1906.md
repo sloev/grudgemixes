@@ -13,8 +13,9 @@ what: "Duel song (drum-song duel), wax cylinder"
 medium: "wax cylinder"
 tags:
   - "fighting-words"
-recording_url: "https://www.lespressesdureel.com/EN/ouvrage.php?id=4997"
+recording_url: "https://www.youtube.com/watch?v=sms3ipVqvbI"
 urls:
+  - "https://www.qobuz.com/be-nl/album/55-historical-recordings-traditional-music-from-greenland-1905-1987-inuit/3700368473139"
   - "https://musicbrainz.org/release/ffa43e99-7c6c-4ca6-92d7-41e2bf080966"
   - "https://www.thenationalnews.com/arts-culture/album-review-historical-inuit-recordings-let-listeners-eavesdrop-on-another-world-1.167394"
   - "https://trap.gl/en/kultur/traditioner-og-fortaellinger/"
