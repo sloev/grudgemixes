@@ -16,6 +16,7 @@ medium: ""
 tags:
   - "made-anyway"
 recording_url: "https://archives.sdsu.edu/repositories/2/digital_objects/1508"
+recording_verified: true
 urls:
   - "https://jonestown.sdsu.edu/?page_id=108764"
   - "https://archives.sdsu.edu/repositories/2/digital_objects/1137"
