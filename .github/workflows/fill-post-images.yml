@@ -140,7 +140,7 @@ jobs:
                           low = (src + ' ' + alt).lower()
                           if not any(x in low for x in ('logo', 'icon', 'avatar', 'pixel', 'spacer', 'flag')):
                               candidates.append((src, alt))
-                  for raw, alt in candidates[:6]:
+                  for raw, alt in candidates[:3]:
                       img_url = urljoin(page.url, raw.strip())
                       if alt and not relevant(tokens(query), alt + ' ' + img_url):
                           continue
@@ -157,7 +157,7 @@ jobs:
                       return None
                   results = data.json().get('results', [])
                   qt = tokens(query)
-                  for item in results:
+                  for item in results[:5]:
                       label = clean(item.get('title', ''))
                       score = len(qt & tokens(label)) / max(1, len(qt))
                       if score < max(0.30, 2 / max(1, len(qt))):
@@ -165,7 +165,7 @@ jobs:
                       imgs = item.get('image_url') or []
                       if isinstance(imgs, str):
                           imgs = [imgs]
-                      for img in imgs:
+                      for img in imgs[:2]:
                           found = image_bytes(img)
                           if found:
                               return found[0], found[1], clean(item.get('title')), item.get('id', 'https://www.loc.gov/')
@@ -191,7 +191,7 @@ jobs:
                       return None
                   pages = r.json().get('query', {}).get('pages', {})
                   qt = tokens(query)
-                  for item in pages.values():
+                  for item in list(pages.values())[:6]:
                       label = clean(item.get('title', ''))
                       if not relevant(qt, label):
                           continue
@@ -217,7 +217,7 @@ jobs:
                       return None
                   docs = r.json().get('response', {}).get('docs', [])
                   qt = set(words)
-                  for doc in docs:
+                  for doc in docs[:3]:
                       ident, label = doc.get('identifier'), clean(doc.get('title', ''))
                       if not ident:
                           continue
@@ -229,7 +229,7 @@ jobs:
                           continue
                       files = meta_r.json().get('files', [])
                       files = sorted(files, key=lambda x: (0 if x.get('name', '').lower().endswith(('.jpg', '.jpeg', '.png')) else 1, 0 if 'cover' in x.get('name', '').lower() else 1))
-                      for f in files[:10]:
+                      for f in files[:2]:
                           name = f.get('name', '')
                           if not name.lower().endswith(('.jpg', '.jpeg', '.png', '.webp')):
                               continue
