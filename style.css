@@ -239,3 +239,37 @@ a:active {
   overflow: visible;
   max-height: none;
 }
+
+/* Latest art direction */
+.catalogue-heading h1 {
+  display:flex; flex-direction:column; width:100%; max-width:100%; overflow:visible;
+  font-family:Impact,Haettenschweiler,"Arial Narrow Bold",sans-serif;
+  font-size:clamp(2.1rem,10.2vw,10rem); font-weight:1000; line-height:.82;
+  letter-spacing:-.045em; text-transform:uppercase; text-wrap:nowrap;
+  text-shadow:10px 10px 0 #fff; padding:0 10px 14px 0;
+}
+.catalogue-heading h1 span { display:flex; justify-content:space-between; width:100%; white-space:nowrap; font-size:1em; }
+.site-header { margin:0; padding-top:.75rem; padding-bottom:.75rem; border:0 !important; }
+.site-menu { gap:1rem 1.25rem; }
+.site-menu .filter-toggle {
+  appearance:none; border:0; border-radius:0; padding:0; min-height:0; margin:0;
+  background:transparent; color:var(--site-black); font:inherit;
+  text-decoration:underline; text-underline-offset:.16em; cursor:pointer;
+}
+.site-menu .filter-toggle:hover,.site-menu .filter-toggle:focus-visible { background:transparent; }
+.catalogue-tools { display:none; }
+.catalogue-list { gap:1.2rem; }
+.catalogue-row {
+  position:relative; border:0 !important; border-radius:0 !important;
+  box-shadow:10px 10px 0 #000; overflow:hidden;
+  clip-path:polygon(0 1.1rem,3% .55rem,6% 1.1rem,9% .55rem,12% 1.1rem,15% .55rem,18% 1.1rem,21% .55rem,24% 1.1rem,27% .55rem,30% 1.1rem,33% .55rem,36% 1.1rem,39% .55rem,42% 1.1rem,45% .55rem,48% 1.1rem,51% .55rem,54% 1.1rem,57% .55rem,60% 1.1rem,63% .55rem,66% 1.1rem,69% .55rem,72% 1.1rem,75% .55rem,78% 1.1rem,81% .55rem,84% 1.1rem,87% .55rem,90% 1.1rem,93% .55rem,96% 1.1rem,100% .55rem,100% 100%,0 100%);
+  padding-top:.9rem;
+}
+.row-image { height:10lh !important; max-height:10lh !important; width:100%; margin:0; }
+.row-image img { width:100%; height:100%; max-height:10lh !important; object-fit:cover; }
+@media(max-width:640px) {
+  .catalogue-heading h1 { font-size:clamp(2.1rem,10.2vw,4.4rem); line-height:.82; text-shadow:10px 10px 0 #fff; }
+  .catalogue-list { padding-left:.65rem; padding-right:.8rem; }
+  .catalogue-row { box-shadow:7px 7px 0 #000; }
+  .row-image,.row-image img { height:10lh !important; max-height:10lh !important; }
+}
