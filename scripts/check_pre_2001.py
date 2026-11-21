@@ -33,6 +33,12 @@ for path in sorted(RECORDINGS.glob("*.md")):
         errors.append(f"{path.relative_to(ROOT)}: add a sourced original recording year/range in 'when'")
     elif max(years) > 2000:
         errors.append(f"{path.relative_to(ROOT)}: recording date {when!r} is after the 2000 cutoff")
+    active_until = str(data.get("active_until") or "").strip()
+    active_years = [int(y) for y in YEAR_RE.findall(active_until)]
+    if not active_years:
+        errors.append(f"{path.relative_to(ROOT)}: add a sourced final active year in active_until")
+    elif max(active_years) > 1999:
+        errors.append(f"{path.relative_to(ROOT)}: act remained active after 1999 ({active_until!r})")
     if data.get("type") != "recording":
         errors.append(f"{path.relative_to(ROOT)}: type must be recording")
 
@@ -55,8 +61,12 @@ for path in sorted(MIXTAPES.glob("*.md")):
         rec_path, rec = by_slug[slug]
         when = str(rec.get("when") or "")
         years = [int(y) for y in YEAR_RE.findall(when)]
-        if not years or max(years) > 2000:
-            errors.append(f"{path.relative_to(ROOT)}: track {slug!r} is not verified as recorded by 2000")
+        active_until = str(rec.get("active_until") or "")
+        active_years = [int(y) for y in YEAR_RE.findall(active_until)]
+        if not years or max(years) > 1999:
+            errors.append(f"{path.relative_to(ROOT)}: track {slug!r} is not verified as recorded by 1999")
+        if not active_years or max(active_years) > 1999:
+            errors.append(f"{path.relative_to(ROOT)}: track {slug!r} is by an act not verified to have ended by 1999")
 
 if errors:
     print("PRE-2001 CATALOGUE CHECK FAILED")
