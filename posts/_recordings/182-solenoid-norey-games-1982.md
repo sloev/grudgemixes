@@ -4,7 +4,7 @@ title: "Solenoid hand out one strange cassette at a party"
 slug: "solenoid-norey-games-1982"
 date: "2026-11-21"
 draft: true
-summary: "Solenoid were an experimental pop group from Harderwijk in the Netherlands, active for only two years. Their 1982 private cassette *Norey Games* was handed out at a party and never intended for normal distribution. Guitar, bass, voice, organ and rhythm box expanded into toy instruments, crackle box, trumpet, saxophone and manipulated tape. The band’s own member Peer Saer later described the project as a collision of no wave, industrial music, German experimental pop and psychedelic mischief. A party tape that escaped its room."
+summary: "Solenoid were an experimental pop group from Harderwijk in the Netherlands, active for only two years. Their 1982 private cassette *Norey Games* was handed out at a party and never intended for normal distribution. Guitar, bass, voice, organ and rhythm box expanded into toy instruments, crackle box, trumpet, saxophone and manipulated tape. The band’s own member Peer Saer later described the project as a collision of no wave, industrial music, German experimental pop and psychedelic mischief. A party tape that escaped its room. One track, “Alice ou la Derniere Fugue,” was later aired by WFMU; the full private cassette has not been publicly released."
 who: "Solenoid"
 when: "1982"
 where: "Harderwijk, Netherlands"
@@ -14,8 +14,9 @@ medium: "cassette"
 tags:
   - "found"
   - "made-anyway"
-recording_url: ""
+recording_url: "https://www.wfmu.org/playlists/shows/52733"
 urls:
+  - "https://www.wfmu.org/playlists/shows/52733"
   - "https://archaicinventions.blogspot.com/2013/05/solenoid-norey-games-1982-tape-private.html"
 images:
   - "media/182-solenoid-hand-out-one-strange-cassette-at-a-party.jpg | Archaic Inventions: Solenoid - Norey Games -1982- (Tape, Private Release), Holland; source: https://archaicinventions.blogspot.com/2013/05/solenoid-norey-games-1982-tape-private.html"
@@ -23,7 +24,7 @@ images:
 
 Solenoid were an experimental pop group from Harderwijk, active in 1981 and 1982. Their cassette *Norey Games* was a private release, handed out at a party in the summer of 1982 rather than sent through shops. The band began with guitar, bass, voice, organ and a rhythm box, then widened the palette with drums, crackle box, toy instruments, trumpet, saxophone and manipulated tape.
 
-In a rare bit of luck for tape archaeologists, member Peer Saer later told the story of the group to the Archaic Inventions blog. He described a sound fed by no wave, industrial music, German experimental pop and psychedelic underground culture. The result feels like a small machine learning how to misbehave. It was made for a handful of people at one party; decades later, the cassette has found a much larger room.
+In a rare bit of luck for tape archaeologists, member Peer Saer later told the story of the group to the Archaic Inventions blog. One track from *Norey Games*, “Alice ou la Derniere Fugue,” was later aired by WFMU; the broadcast archive is the public listening link here, not a complete upload of the private cassette. He described a sound fed by no wave, industrial music, German experimental pop and psychedelic underground culture. The result feels like a small machine learning how to misbehave. It was made for a handful of people at one party; decades later, the cassette has found a much larger room.
 
 ## To do
 
