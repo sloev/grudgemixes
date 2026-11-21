@@ -13,8 +13,11 @@ what: "“Stopp, seisku aeg!”, Estonian Radio; Frotee FRO 007"
 medium: "radio"
 tags:
   - "made-anyway"
-recording_url: "https://allnightflightrecords.com/products/velly-joonas-stopp-seisku-aeg"
+recording_url: "https://www.youtube.com/watch?v=FEb68L-3UWY"
+recording_embed_url: "https://www.youtube.com/embed/FEb68L-3UWY"
 urls:
+  - "https://www.youtube.com/watch?v=FEb68L-3UWY"
+  - "https://allnightflightrecords.com/products/velly-joonas-stopp-seisku-aeg"
   - "https://www.rushhour.nl/node/138451"
   - "https://en.wikipedia.org/wiki/Velly_Joonas"
   - "https://commons.wikimedia.org/wiki/File:Head_office_of_Estonian_radio.JPG"
