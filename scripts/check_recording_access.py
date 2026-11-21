@@ -64,12 +64,15 @@ def usable_url(value, field):
 def main():
     files = sorted(COLLECTION.glob("*.md"))
     failures = []
+    drafts = []
     checked = 0
     for path in files:
         data = parse_frontmatter(path)
         if data.get("type") != "recording":
             continue
         checked += 1
+        if data.get("draft") is True:
+            drafts.append(path.relative_to(ROOT))
         valid_url, why_url = usable_url(data.get("recording_url"), "recording_url")
         valid_embed, why_embed = usable_url(data.get("recording_embed_url"), "recording_embed_url")
         if not (valid_url or valid_embed):
@@ -81,6 +84,9 @@ def main():
             failures.append((path.relative_to(ROOT), "; ".join(reasons)))
     print(f"RECORDINGS CHECKED: {checked}")
     print(f"STRUCTURAL LISTENING-LINK FAILURES: {len(failures)}")
+    print(f"RECORDINGS MARKED DRAFT BUT STILL IN THE COLLECTION: {len(drafts)}")
+    for path in drafts:
+        print(f"DRAFT-IN-COLLECTION: {path}")
     for path, reason in failures:
         print(f"MISSING/INVALID: {path} — {reason}")
     report = ROOT / "missing-recording-links.txt"
