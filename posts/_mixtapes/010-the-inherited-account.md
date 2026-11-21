@@ -9,7 +9,6 @@ tracks:
   - "bezazian-bam-porotan-1916"
   - "tashjian-brothers-menk-bedk-e-grvenk-columbia-e661-matrix-4973-1"
   - "mardiros-tashjian-dalvorig-columbia-1909"
-  - "japan-lead-yoshida-naramaru-akō-gishi-den-toiri-royal-record"
   - "hagen-meditates-revenge-1922"
 ---
 
