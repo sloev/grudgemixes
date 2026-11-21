@@ -310,19 +310,7 @@ a:active {
   filter: drop-shadow(10px 10px 0 #000);
   box-shadow: none !important;
   overflow: hidden;
-  clip-path: polygon(
-    0 12px, 2% 9px, 4% 6px, 6% 4px, 8% 3px, 10% 4px,
-    12% 6px, 14% 9px, 16% 12px, 18% 14px, 20% 15px,
-    22% 14px, 24% 12px, 26% 9px, 28% 6px, 30% 4px,
-    32% 3px, 34% 4px, 36% 6px, 38% 9px, 40% 12px,
-    42% 14px, 44% 15px, 46% 14px, 48% 12px, 50% 9px,
-    52% 6px, 54% 4px, 56% 3px, 58% 4px, 60% 6px,
-    62% 9px, 64% 12px, 66% 14px, 68% 15px, 70% 14px,
-    72% 12px, 74% 9px, 76% 6px, 78% 4px, 80% 3px,
-    82% 4px, 84% 6px, 86% 9px, 88% 12px, 90% 14px,
-    92% 15px, 94% 14px, 96% 12px, 98% 9px, 100% 6px,
-    100% 100%, 0 100%
-  );
+  /* unique per-card soundwave clip-path applied by JS */
 }
 .row-image {
   display: block;
