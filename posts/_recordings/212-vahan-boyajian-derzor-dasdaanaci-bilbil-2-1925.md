@@ -14,6 +14,7 @@ medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://canary-records.bandcamp.com/track/derzor-dasdaanaci-the-ballad-singer-of-der-zor"
+recording_verified: true
 urls:
   - "https://canary-records.bandcamp.com/track/derzor-dasdaanaci-the-ballad-singer-of-der-zor"
   - "https://canary-records.bandcamp.com/album/a-diamond-ring-armenian-american-independent-releases-ca-1922-27"
