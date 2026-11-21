@@ -19,6 +19,7 @@ Every document in the Jekyll collections is rendered, including documents marked
 - Put multiple recordings and their catalogue details inside that single post. Update mixtape track references to the surviving slug; never leave references to deleted posts.
 - For anonymous or traditional performances, use one post per distinct archival recording event or documented collection, not one post per track.
 - Before adding a post, search the existing catalogue for the artist's name, aliases, collaborators, and group affiliations.
+- The pre-2000 check rejects identical normalized `who` billing lines in more than one recording post; this is a basic duplicate guard, not a substitute for alias research.
 
 ## Date eligibility (hard rule)
 
