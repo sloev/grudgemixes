@@ -37,3 +37,10 @@ See [AGENTS.md](AGENTS.md) for the full editorial and rights rules.
 A grudge is a wrong someone refuses to let go of, and music is one of the oldest ways people keep that refusal alive. Every post asks what the wrong or refusal was, who stood on each side, and what the music does about it: keep the record, defy, annoy, or strike back.
 
 We never mock the people who made this music. When there is a joke, it is on taste.
+
+
+## Public catalogue readiness
+
+The source repository keeps research drafts, but the live site publishes only recordings with \`draft: false\` and a recording-specific listening URL or approved player embed. Mixtapes are published only when every referenced recording is public. Unfinished or unlistenable entries remain in the repository and are automatically excluded from the site; they return when their story, access, and playback checks are complete.
+
+The GitHub Actions audit reports withheld entries and checks the public set. Its URL check is structural, not proof of playback: each link still requires a human check that the exact recording plays.
