@@ -16,7 +16,8 @@ tags:
 recording_url: "https://archive.org/details/78_stack-olee-blues_ma-rainey-and-her-georgia-band-joe-smith-taylor-williams_gbia0253947b"
 urls:
   - "https://syncopatedtimes.com/ma-rainey-and-her-georgia-jazz-band"
-images: []
+images:
+  - "media/115-ma-rainey-and-her-georgia-band-stack-o-lee-blues.svg | Original typographic cover artwork for Ma Rainey and her Georgia Band, 'Stack O'Lee Blues'"
 ---
 
 the Stagolee killing told by the leading woman blues singer of the 1920s.

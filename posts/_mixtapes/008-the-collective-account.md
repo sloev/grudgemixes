@@ -12,7 +12,8 @@ tracks:
   - "plaatje-nkosi-sikelel-1923"
   - "roland-c-nathaniels-anlo-patriotic-song-ewe-battle-hymn-zonophon"
   - "julius-sutton-single-girl-gordon-cylinder-a79-item-nc117-28-octo"
-images: []
+images:
+  - "media/008-the-collective-account.svg | Original typographic cover artwork for The Collective Account"
 ---
 
 A grievance shared becomes an identity. Book: Part IV, ch. 21–22; Part V, ch. 30.

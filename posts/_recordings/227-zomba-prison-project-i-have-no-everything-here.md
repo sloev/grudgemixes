@@ -15,7 +15,8 @@ tags:
   - "made-anyway"
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/227-zomba-prison-project-i-have-no-everything-here.jpg |   China, the mysterious and marvellous  —  Murdock, Victor, 1871-1945; Public domain; https://commons.wikimedia.org/wiki/File:China,_the_mysterious_and_marvellous_(IA_cu31924023123023).pdf"
 ---
 
 **Where and when:** Zomba prison, Malawi; Date(s): 2015; Medium: Commercial

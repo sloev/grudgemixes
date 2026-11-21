@@ -18,7 +18,8 @@ urls:
   - "https://prosandconsprogram.com/undisclosed-location/"
   - "https://prosandconsprogram.com/"
   - "https://kitchener.citynews.ca/2018/03/13/womens-prison-kitchener-releases-music-album-canadian-first/"
-images: []
+images:
+  - "media/147-pros-and-cons-program-private-town-paint-in-the-forest-postcards-from-the-county.svg | Original typographic cover artwork for Pros and Cons Program, Private Town, Paint in the Forest, Postcards from the County"
 ---
 
 **Where and when:** Grand Valley; Joyceville; Pittsburgh Institution, Ontario; Date(s): 2017–2020; Medium: Digital

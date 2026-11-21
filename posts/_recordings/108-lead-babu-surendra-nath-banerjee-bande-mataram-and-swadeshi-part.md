@@ -25,7 +25,8 @@ urls:
   - "https://groups.google.com/g/rec.music.indian.misc/c/0wuPjw-unSs"
   - "https://www.amar-foundation.org/biennale-2025/?biennale_read=yemen-note"
   - "https://archive.blogs.harvard.edu/loebmusic/2022/01/19/early-arabic-sound-recordings-and-the-public-domain/"
-images: []
+images:
+  - "media/108-lead-babu-surendra-nath-banerjee-bande-mataram-and-swadeshi-partition-of-bengal-national-g.svg | Original typographic cover artwork for (lead) — Babu Surendra Nath Banerjee, “Bande Mataram and Swadeshi” / “Partition of Bengal” (National Grand Record / Beka, catalogue 20290–20291)"
 ---
 
 The Berlin museum's collection record identifies the physical object as a shellac disc, attributes the performance to Babu Surendra Nath Banerjee, and names National Grand Record as maker and publisher. Its title is “Speech on ‘Bande Mataram and Swadeshi’”.

@@ -16,7 +16,8 @@ tags:
 recording_url: ""
 urls:
   - "https://en.wikipedia.org/wiki/The_Prisoner's_Song"
-images: []
+images:
+  - "media/217-vernon-dalhart-the-prisoner-s-song-1924.svg | Original typographic cover artwork for Vernon Dalhart, 'The Prisoner's Song', 1924"
 ---
 
 copyrighted in the name of Dalhart's cousin Guy Massey, who learned it from a brother who may have heard it in prison; it became one of the best-selling records of the 1920s.

@@ -19,7 +19,8 @@ urls:
   - "https://americanhistory.si.edu/collections/object/nmah_1291952"
   - "https://dspace.cuni.cz/bitstream/handle/20.500.11956/187210/Delia%20Dattilo_24-40.pdf?isAllowed=y&sequence=1"
   - "https://www.dm4ep.com/music/yr1925.htm"
-images: []
+images:
+  - "media/017-al-craver-vernon-dalhart-naomi-wise-columbia-15053-d-1925.svg | Original typographic cover artwork for Al Craver [Vernon Dalhart], “Naomi Wise” (Columbia 15053-D, 1925)"
 ---
 
 The Naomi Wise ballad tradition concerns the murder of a young woman by a man who had promised marriage. Delia Dattilo traces the story's nineteenth-century printed and oral forms, notes the historical case's uncertain details, and distinguishes versions that do and do not include the killer's capture, confession or punishment. The article identifies the 1925 Columbia 15053-D recording as a Carson Robison song related to West Virginia oral culture, with a tune and lyrics different from the older Craven-derived “Song of Naomi Wise” text.

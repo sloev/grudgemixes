@@ -24,7 +24,8 @@ urls:
   - "https://folkways-media.si.edu/docs/folkways/artwork/FLG00013-LP.pdf"
   - "https://collections.si.edu/search/results.htm?q=%22Bruce+Jackson%22+%22Indiana+Prison+Songs%22"
   - "https://libraries.indiana.edu/policies/archives-traditional-music"
-images: []
+images:
+  - "media/039-bruce-jackson-indiana-state-prison-tapes-1962.svg | Original typographic cover artwork for Bruce Jackson, Indiana State Prison tapes, 1962"
 ---
 
 # IM-013 — Indiana State Prison tape provenance reconciliation (2026-11-17)

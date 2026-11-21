@@ -12,7 +12,8 @@ tracks:
   - "naima-ya-balah-zaghloul"
   - "russolo-corale-serenata-1921"
   - "skengdo-am-attempted"
-images: []
+images:
+  - "media/002-fighting-words.svg | Original typographic cover artwork for Fighting Words"
 ---
 
 Hostility given a form: the song duel, the insult war, the noise aimed at an audience, the song a court treats as a weapon. It takes in the oldest form of the subject (a community gives grievance a stage and rules) and the newest (a state decides a song is violence). Hard limits: nothing that incites violence against real people, no propaganda for mass violence, no music torture.

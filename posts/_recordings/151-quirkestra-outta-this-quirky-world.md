@@ -19,7 +19,8 @@ urls:
   - "https://tuttiarts.bandcamp.com/album/outta-this-quirky-world"
   - "https://daily.bandcamp.com/features/artists-with-disabilities-feature"
   - "https://tutti.org.au/"
-images: []
+images:
+  - "media/151-quirkestra-open-the-door-to-a-quirky-world.svg | Original typographic cover artwork for Quirkestra open the door to a quirky world"
 ---
 
 Quirkestra make music at Tutti Arts, an Adelaide organisation where learning-disabled and neurodivergent artists work across music, visual art, performance and film. *Outta This Quirky World*, released in March 2026, is a twelve-track album that refuses to stay in one lane. “Voice is Power” sits beside “Animals Causing Anarchy & Pandemonium”; “The Cat Burgler” is followed by “That Ol’ Rockin’ Chair” and “Deep X13”.

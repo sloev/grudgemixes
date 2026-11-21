@@ -23,7 +23,8 @@ urls:
   - "https://collections.si.edu/search/results.htm?fq=name%3A%22Folkways+Records%22&q=%22Song%22"
   - "https://n2t.net/ark:/65665/bk5c18470d5-0463-4c10-8444-9025cde4d94f"
   - "https://collections.si.edu/search/results.htm?fq=name%3A%22Distler%2C+Marian%22&q=%22Prisons%22"
-images: []
+images:
+  - "media/205-tobe-little-vernon-dalhart-chain-gang-song-okeh-40328-1925.svg | Original typographic cover artwork for Tobe Little [Vernon Dalhart], “Chain Gang Song” (Okeh 40328, 1925)"
 ---
 
 The title and contemporary catalogue place the song in the penal-labour / chain-gang subject area. That makes it worth screening for a representation of punishment, coercion, forced labour, or grievance about incarceration. However, neither title nor catalogue description proves that the singer protests the system, complains of wrongful punishment, or expresses retaliation. The lyric text has not yet been located or linked securely to the Okeh master.

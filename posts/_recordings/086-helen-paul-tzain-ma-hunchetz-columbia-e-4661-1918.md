@@ -19,7 +19,8 @@ urls:
   - "https://www.armenianmuseum.org/sound-archive/helen-paul"
   - "https://hy.wikisource.org/wiki/Ձայն_մը_հնչեց"
   - "https://archives.webaram.com/dvdk_new/eng/songs-of-armenia-1919_OCR.pdf"
-images: []
+images:
+  - "media/086-helen-paul-tzain-ma-hunchetz-columbia-e-4661-1918.svg | Original typographic cover artwork for Helen Paul, “Tzain ma Hunchetz” (Columbia E-4661; 1918)"
 ---
 
 The Armenian Museum of America identifies the piece as the first known recording of an ode to Armenian revolutionaries from Erzurum, especially the Protectors of the Fatherland (Bashdban Hayrenyats). It says the composition was written by an unknown author in the late nineteenth century. The museum describes the record as made in April 1918 and notes that the Nishkian Phonograph Shop in Fresno carried the Columbia disc.

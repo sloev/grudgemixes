@@ -17,7 +17,8 @@ recording_url: ""
 urls:
   - "https://www.armenianmuseum.org/sound-archive/helen-paul"
   - "https://www.armenianmuseum.org/sound-archive"
-images: []
+images:
+  - "media/109-lead-helen-paul-tzain-ma-hunchetz-columbia-april-1918-session.svg | Original typographic cover artwork for (lead) — Helen Paul, “Tzain ma Hunchetz” (Columbia, April 1918 session)"
 ---
 
 The museum identifies the song as an ode to the earliest organized Armenian revolutionary groups, especially the Protectors of the Fatherland (Bashdban Hayrenyat's), an organization associated with Erzerum. The composition is attributed to an unknown writer and is believed to date from the late nineteenth century.

@@ -21,7 +21,8 @@ urls:
   - "https://www.voltaredonda.rj.gov.br/9-noticias-em-destaque/4187-caps-usina-dos-sonhos-completa-26-anos"
   - "https://patrimonio.uff.br/wp-content/uploads/sites/101/2021/05/2007_d_Raquel.pdf"
   - "https://doi.org/10.1590/15174522-018004308"
-images: []
+images:
+  - "media/118-magicos-do-som-two-distinct-saude-musical-cds-first-c-2000-second-2013.svg | Original typographic cover artwork for Mágicos do Som, two distinct Saúde Musical CDs (first c. 2000; second 2013)"
 ---
 
 Mágicos do Som is a music group associated with the CAPS Usina de Sonhos in Volta Redonda, Rio de Janeiro, Brazil. The 2007 UFF thesis by Raquel Siqueira da Silva documents the group's work in the mental-health service context and identifies Regina Lúcia Serrão as composer and singer of “Preconceito” (2000). The thesis reproduces a 1999 clipping showing that the CD was still being prepared, and a November 2000 clipping reporting a launch on the 22nd. The extracted copy does not make the exact event date fully unambiguous, so the first *Saúde Musical* CD is dated **c. 2000**, not assigned a precise day.

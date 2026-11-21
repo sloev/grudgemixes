@@ -25,7 +25,8 @@ urls:
   - "https://catalogue.bnf.fr/ark:/12148/cb413950842"
   - "https://rsa.fau.edu/rs"
   - "https://rsa.fau.edu/rs/register"
-images: []
+images:
+  - "media/215-vengeance-at-last-saint-saens-samson-et-dalila-1908.svg | Original typographic cover artwork for “Vengeance at Last” — Saint-Saëns, *Samson et Dalila* (1908)"
 ---
 
 This is a strong early recording of an explicit revenge aria. Victor issued “Vengeance at Last” from *Samson and Delilah*, with baritone Emilio de Gogorza and contralto Louise Homer, accompanied by orchestra. The aria's original French incipit is “À moi l'honneur de la vengeance” (“The honour of vengeance is mine”); a contemporary Victor catalogue advertised the selection **in English**, so the actual recorded text should be checked against the digitized sound rather than inferred from the French libretto.

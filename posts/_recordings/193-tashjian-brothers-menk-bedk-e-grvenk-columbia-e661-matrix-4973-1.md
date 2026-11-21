@@ -19,7 +19,8 @@ urls:
   - "https://yerkaran.org/page/45/"
   - "https://read.enlightngo.org/post/15127"
   - "https://ergir.am/menq_petq_e_krvenq/"
-images: []
+images:
+  - "media/193-tashjian-brothers-menk-bedk-e-grvenk-columbia-e661-matrix-4973-1-1910.svg | Original typographic cover artwork for Tashjian Brothers, “Menk Bedk E Grvenk” (Columbia E661 / matrix 4973-1, 1910)"
 ---
 
 The text is unusually explicit about collective loss, unheard grievance, and armed recovery. It directly contrasts passive lament with organized resistance. This is a strong conceptual fit for the project's collective grievance / defiance strand, but it is not necessarily a revenge narrative in the narrow sense.

@@ -18,7 +18,8 @@ recording_url: "https://rivky.bandcamp.com/album/angel-sings-the-blues"
 urls:
   - "https://rivky.bandcamp.com/album/angel-sings-the-blues"
   - "https://college.berklee.edu/BIAESN/able-voices-podcast"
-images: []
+images:
+  - "media/162-rivky-teaches-herself-to-sing-the-blues.svg | Original typographic cover artwork for Rivky teaches herself to sing the blues"
 ---
 
 Rivky Grossman taught herself music. On *Angel Sings the Blues*, released in 2013, she sings, plays piano and writes the songs; Brian Sanders plays cello, while Bob Brockmann and Amy Lee share production credits. The result moves between folk, blues, cabaret and pop, with the influence of Grossman’s Hasidic upbringing audible in the musical mix.

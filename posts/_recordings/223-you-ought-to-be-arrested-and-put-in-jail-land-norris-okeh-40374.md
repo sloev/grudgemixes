@@ -24,7 +24,8 @@ urls:
   - "https://balladindex.org/Ballads/LoF224.html"
   - "https://mudcat.org/thread.cfm?threadid=38691"
   - "https://www.jstor.org/stable/534506?seq=7#page_scan_tab_contents"
-images: []
+images:
+  - "media/223-you-ought-to-be-arrested-and-put-in-jail-land-norris-okeh-40374-1924.svg | Original typographic cover artwork for “You Ought to Be Arrested and Put in Jail” — Land Norris, Okeh 40374 (1924)"
 ---
 
 A useful lead emerged from comparing the title with early song-family references:

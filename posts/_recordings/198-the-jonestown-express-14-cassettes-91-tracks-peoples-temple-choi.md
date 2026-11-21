@@ -15,7 +15,8 @@ tags:
   - "made-anyway"
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/198-the-jonestown-express-14-cassettes-91-tracks-peoples-temple-choir-he-s-able-1973.svg | Original typographic cover artwork for The Jonestown Express, 14 cassettes / 91 tracks; Peoples Temple choir He's Able (1973)"
 ---
 
 **Where and when:** Jonestown, Guyana; Peoples Temple; Date(s): 1973, 1978; Medium: Cassette; LP

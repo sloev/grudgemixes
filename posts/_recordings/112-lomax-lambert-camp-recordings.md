@@ -15,7 +15,8 @@ tags:
   - "made-anyway"
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/112-lomax-lambert-camp-recordings.svg | Original typographic cover artwork for Lomax, Lambert Camp recordings"
 ---
 
 **Where and when:** Parchman; Date(s): 1947–48; Medium: Tape and disc

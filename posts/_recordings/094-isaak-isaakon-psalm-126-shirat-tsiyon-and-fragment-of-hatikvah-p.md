@@ -15,7 +15,8 @@ tags:
   - "made-anyway"
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/094-isaak-isaakon-psalm-126-shirat-tsiyon-and-fragment-of-hatikvah-ph-2647.svg | Original typographic cover artwork for Isaak Isaakon, Psalm 126 “Shirat tsiyon” and fragment of “Hatikvah” (Ph 2647)"
 ---
 
 **Where and when:** Theresienstadt/Terezín POW camp, Bohemia (now Czech Republic); Date(s): 1915-10-06; Medium: Historical phonograph recording; official CD edition Series 17/1 CD1 track 8

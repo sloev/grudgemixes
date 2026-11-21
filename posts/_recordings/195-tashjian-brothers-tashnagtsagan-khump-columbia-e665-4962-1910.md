@@ -19,7 +19,8 @@ urls:
   - "https://www.armenianmuseum.org/sound-archive/the-tashjian-brothers"
   - "https://archives.webaram.com/dvdk_new/eng/armenian-national-songs-1962_OCR.pdf"
   - "https://yerkaran.org/tashnagtzagan-zinvor/"
-images: []
+images:
+  - "media/195-tashjian-brothers-tashnagtsagan-khump-columbia-e665-4962-1910.svg | Original typographic cover artwork for Tashjian Brothers, “Tashnagtsagan Khump” (Columbia E665-4962, 1910)"
 ---
 
 A useful later Armenian-language text witness appears in *Armenian National Songs*, second edition (Armenian Youth Federation of America, 1962), contents p. 1 and song text/commentary around pp. 7–8 (PDF pages/printed pagination should be checked against the physical edition). It includes a song titled “Dashnagtsagan Khoumb” and describes the song as telling of Armenian Revolutionary Federation fedayi bands fighting in Sassoun under Antranik's leadership.

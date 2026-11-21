@@ -15,7 +15,8 @@ tags:
   - "the-account"
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/207-tuskegee-institute-singers-i-ve-been-buked-victor-1916.svg | Original typographic cover artwork for Tuskegee Institute Singers, 'I've Been 'Buked' (Victor, 1916)"
 ---
 
 spiritual of endured insult ("I've been 'buked and I've been scorned").

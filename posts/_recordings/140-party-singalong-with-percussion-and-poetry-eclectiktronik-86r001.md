@@ -15,7 +15,8 @@ tags:
   - "found"
 recording_url: "http://www.mediafire.com/listen/a2es821ug02ge9w/86R001+neston+POETRY.mp3"
 urls: []
-images: []
+images:
+  - "media/140-party-singalong-with-percussion-and-poetry-eclectiktronik-86r001.svg | Original typographic cover artwork for Party singalong with percussion and poetry (EclectikTronik 86R001)"
 ---
 
 **Recording:** reel found with a Marconi recorder at a rubbish dump, Wirral, 1986; date unknown.

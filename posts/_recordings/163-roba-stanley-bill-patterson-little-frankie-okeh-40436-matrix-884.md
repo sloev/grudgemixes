@@ -19,7 +19,8 @@ urls:
   - "https://findingaids.loc.gov/exist_collections/ead3pdf/afc/2021/af021010.pdf"
   - "https://core.ac.uk/download/pdf/232565129.pdf"
   - "https://www.hillbilly-music.com/artists/story/index.php?id=14533"
-images: []
+images:
+  - "media/163-roba-stanley-bill-patterson-little-frankie-okeh-40436-matrix-8848-recorded-december-1924.svg | Original typographic cover artwork for Roba Stanley & Bill Patterson, “Little Frankie” (Okeh 40436, matrix 8848; recorded December 1924)"
 ---
 
 This is more than a title-only association. The LOC finding aid preserves the opening narrative and the lover's wrongdoing; Wolfe's account identifies the performance as a female-voiced version of “Frankie and Johnnie” in which Frankie kills Alvin, is tried and acquitted. The song therefore represents retaliation for perceived romantic betrayal, with a woman as the retaliating protagonist. It is a narrative representation, not evidence of the singer's own experience or endorsement.

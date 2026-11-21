@@ -20,7 +20,8 @@ urls:
   - "https://www.houshamadyan.org/mapottomanempire/vilayet-of-bitlispaghesh/sassoun/local-characteristics/alahaidoyan-coll-songs.html"
   - "https://yerkaran.org/index/"
   - "https://www.houshamadyan.org/arm/mapottomanempire/bitlispagheshvilayet/sassoun/sassounlocalcarachteristics/alahaidoyancollectionsongs.html"
-images: []
+images:
+  - "media/192-tashjian-brothers-kerezmanis-togh-columbia-e657-4955-1910.svg | Original typographic cover artwork for Tashjian Brothers, “Kerezmanis Togh” (Columbia E657/4955, 1910)"
 ---
 
 Houshamadyan's Sassoun / Alahaydoyan collection preserves a song titled “Sasnou Kavar (Hrayr Tjokhki Hishadagin)” — “Land of Sassoun (In Memory of Hrayr Tzhokhk)”. The text praises Sassoun, names revolutionary figures, describes conflict with Ottoman forces, and includes a speaker threatening to destroy the Ottoman army. Houshamadyan attributes this particular text to an ARF-affiliated family from Shenig in the Moush Valley and cites the ARF Archives in Watertown, Massachusetts. This is valuable regional and community provenance, but it does **not** establish that these exact verses occur on Columbia E657/4955.

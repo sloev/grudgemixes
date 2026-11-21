@@ -18,7 +18,8 @@ urls:
   - "https://phonotheque.cmam.tn/archives/items/D-5239/"
   - "https://phonotheque.cmam.tn/archives/collections/Sayed_Darwich/"
   - "https://x.tarab.ai/s/D0004"
-images: []
+images:
+  - "media/172-sayyid-darwish-istagibu-ya-afandiyya-1914-listed-78-rpm-issue-unresolved.svg | Original typographic cover artwork for Sayyid Darwīsh, “Istaʿgibū yā Afandiyya” (1914-listed; 78 rpm issue unresolved)"
 ---
 
 This is a particularly valuable non-Anglophone lead because the text itself—not just the title—describes an economic grievance: kerosene price inflation, black-market selling, shortages, and the presence of police officials. It may fit collective grievance and accusation better than revenge or personal retaliation. It also records a specific urban experience of scarcity and price exploitation around the First World War.

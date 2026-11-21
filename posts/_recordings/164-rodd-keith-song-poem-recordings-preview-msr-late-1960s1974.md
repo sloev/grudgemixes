@@ -16,7 +16,8 @@ tags:
 recording_url: "https://songpoemmusic.com/comps/idied_nt.htm"
 urls:
   - "https://freeform.wfmu.org/LCD/18/rodd.html"
-images: []
+images:
+  - "media/164-rodd-keith-song-poem-recordings-preview-msr-late-1960s1974.svg | Original typographic cover artwork for Rodd Keith, song-poem recordings (Preview / MSR, late 1960s–1974)"
 ---
 
 The best-known song-poem musician, setting hundreds of strangers' lyrics.

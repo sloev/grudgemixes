@@ -25,7 +25,8 @@ urls:
   - "https://searcharchives.bl.uk/catalog/040-002724773"
   - "https://searcharchives.bl.uk/?f%5Brelated_places_ssim%5D%5B%5D=India%2C+Asia&f%5Brelated_subjects_ssim%5D%5B%5D=Bengali+Culture&page=3&per_page=100&sort=hierarchy"
   - "https://www.lib.uchicago.edu/e/su/southasia/record-news/trn2006printable.pdf"
-images: []
+images:
+  - "media/106-kolkata-theatre-recording-lead-khune-nahak-gana-gana-gana-1902.svg | Original typographic cover artwork for Kolkata theatre recording lead — “Khune Nahak: Gana Gana Gana” (1902)"
 ---
 
 A significant contextual match has now been found: **Khun-e-Nahaq** (also rendered *Khun-e-nahaq*, *Khoon-e-Nahaq*, *Khune Nahak*) is identified in scholarship as an Urdu adaptation of *Hamlet* by Munshi Mehdi Hasan Ahsan, staged by the Parsi Alfred Company in 1898. Kathryn Hansen's *Stages of Life* appendix identifies Ahsan/Mehdi Hasan as the author of *Khun-e Nahaq* (based on *Hamlet*); research on Shakespeare reception in India likewise identifies the 1898 Urdu Hamlet adaptation and notes that it was transformed into a musical. This makes revenge a plausible **dramatic frame** for the play, not yet a demonstrated lyric mechanism in the recorded selection.

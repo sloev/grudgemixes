@@ -21,7 +21,8 @@ urls:
   - "https://tert.nla.am/archive/NLA%20TERT/Armenian%20weekly/2014/31_ocr.pdf"
   - "https://www.armenianmuseum.org/sound-archive/tashjian-story"
   - "https://www.armenianmuseum.org/sound-archive/the-tashjian-brothers"
-images: []
+images:
+  - "media/123-mardiros-der-sarkis-tashjian-himi-el-lrenk-columbia-e529-4100-1909.svg | Original typographic cover artwork for Mardiros Der Sarkis Tashjian, “Himi El Lrenk” (Columbia E529-4100, 1909)"
 ---
 
 Armenian online songbooks attribute a song under this title to Raphael Patkanian's nineteenth-century poem “The Death of Vardan Mamikonian.” A published song-family text asks whether Armenians should remain silent while their land and arms are taken, chains are forged, and the community is driven from its homeland; it ends by rejecting silence and calling for resistance.

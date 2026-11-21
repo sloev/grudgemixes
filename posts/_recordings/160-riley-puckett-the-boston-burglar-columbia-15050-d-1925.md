@@ -21,7 +21,8 @@ urls:
   - "https://balladindex.org/Ballads/LL16.html"
   - "https://blogs.libraries.indiana.edu/atm/2026/06/25/folk-100-a-playlist-from-the-archives-of-traditional-music/"
   - "https://collections.si.edu/search/results.htm?fq=date%3A%221920s%22&fq=name%3A%22Okeh%22&q=%22Musical+instruments%22"
-images: []
+images:
+  - "media/160-riley-puckett-the-boston-burglar-columbia-15050-d-1925.svg | Original typographic cover artwork for Riley Puckett, “The Boston Burglar” (Columbia 15050-D, 1925)"
 ---
 
 “The Boston Burglar” belongs to a broadside-derived family related to “Botany Bay.” The narrative commonly follows a young man who turns to crime, is caught and sentenced, and warns listeners against lawbreaking. A contemporary traditional-song account explains the warning and penal-transportation narrative: https://clarelibraries.ie/localstudies/music-and-literature/music/collections/traditional-music-sessions-from-clare-live/the-carroll-mackenzie-music-collection/singers-and-songs-of-county-clare-from-the-carroll-mackenzie-collection/songs-of-clare-the-boston-burglar-sung-by-pat-macnamara/ . The Ballad Index groups “Boston Burglar” texts under Laws L16 and notes the overlap with “Botany …

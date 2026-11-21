@@ -20,7 +20,8 @@ urls:
   - "https://adp-assets.library.ucsb.edu/AmericanCelebrityRecordings.pdf"
   - "https://rsa.fau.edu/rs"
   - "https://rsa.fau.edu/rs/register"
-images: []
+images:
+  - "media/177-si-vendetta-verdi-rigoletto-vocalion-ca-1921.svg | Original typographic cover artwork for “Sì, vendetta” — Verdi, *Rigoletto* (Vocalion, ca. 1921)"
 ---
 
 The Act III duet “Sì, vendetta” (“Yes, vengeance”) from Verdi's *Rigoletto* is an explicit operatic statement of revenge. Florida Atlantic University's Recorded Sound Archives (FAU RSA) has a digitized 78rpm item titled “Don Giovanni - La ci darem; Rigoletto - Si vendetta (Yes, My Vengeance),” with the second track attributed to Verdi. The archive item identifies catalogue number **60019**, performers **Evelyn Scotney** and **Giacomo Rimini**, 78 rpm, 10-inch.

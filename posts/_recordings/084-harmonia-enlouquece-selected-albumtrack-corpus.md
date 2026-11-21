@@ -20,7 +20,8 @@ urls:
   - "https://www.linhageral.com.br/noticia/harmonia-enlouquece-lanca-novo-album-e-celebra-25-anos-de-saude-mental"
   - "https://music.amazon.ca/albums/B0HKPWSSGD"
   - "https://music.apple.com/us/artist/harmonia-enlouquece/1631734647"
-images: []
+images:
+  - "media/084-harmonia-enlouquece-selected-album-track-corpus.svg | Original typographic cover artwork for Harmonia Enlouquece, selected album/track corpus"
 ---
 
 # IM-039 — Harmonia Enlouquece: fifth-album item-level reconciliation (2026-11-18)

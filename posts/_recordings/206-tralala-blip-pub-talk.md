@@ -19,7 +19,8 @@ urls:
   - "https://room40.bandcamp.com/track/pub-talk"
   - "https://www.abc.net.au/listen/programs/doublej-special/access-all-areas-eliza-hull-and-tralala-blip/13659356"
   - "https://www.ableton.com/en/blog/tralala-blip-humans-and-machines-conversation/"
-images: []
+images:
+  - "media/206-tralala-blip-turn-a-bad-pub-night-into-pub-talk.svg | Original typographic cover artwork for Tralala Blip turn a bad pub night into “Pub Talk”"
 ---
 
 Lydian Dunbar wrote “Pub Talk” after a night when staff at his local pub did not understand his speech and, as he told ABC presenter Eliza Hull, did not talk to him much. Dunbar has Down syndrome. Rather than turn the experience into somebody else’s lesson, he brought it into the studio and asked his bandmate Randy Reimann to make a song with him.

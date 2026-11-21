@@ -21,7 +21,8 @@ urls:
   - "https://mail.violafair.com/hmrproject/h/howell-pegleg.htm"
   - "https://www.loc.gov/collections/songs-of-america/articles-and-essays/historical-topics/blues-as-protest/"
   - "https://sundayblues.org/wp-content/uploads/2011/02/PegLegHowell.pdf"
-images: []
+images:
+  - "media/141-peg-leg-howell-and-jim-hill-ball-and-chain-blues-columbia-14535-d-1929.svg | Original typographic cover artwork for Peg Leg Howell and Jim Hill — “Ball and Chain Blues” (Columbia 14535-D, 1929)"
 ---
 
 A transcribed lyric witness attributed to Howell's 1929 recording describes arrest, a judge who will not let the narrator speak, an excessive or unjust sentence, prison labour, stripes on the back and a ball and chain. This is strong evidence of complaint about criminal process and penal labour, though the transcription is a community-posted text and must be checked against the exact master before quotation or final grading. https://mudcat.org/thread.cfm?threadid=157360

@@ -19,7 +19,8 @@ urls:
   - "https://finland.fi/arts-culture/signmark-does-what-he-wants/"
   - "https://www.guinnessworldrecords.com/world-records/718040-first-deaf-male-artist-to-sign-a-recording-contract-with-an-international-major-l"
   - "https://en.wikipedia.org/wiki/Signmark_(album)"
-images: []
+images:
+  - "media/178-signmark-put-finnish-sign-language-on-the-rap-record.svg | Original typographic cover artwork for Signmark put Finnish Sign Language on the rap record"
 ---
 
 Marko Vuoriheimo, who performs as Signmark, released his self-titled debut in 2006. It was an eight-track package: a CD soundtrack and a DVD of signed music videos. Vuoriheimo was born Deaf and performs in Finnish Sign Language, using rhythm, handshape and facial expression to build his rhymes. Hearing collaborators provide the spoken and rapped vocals alongside the signed performance.

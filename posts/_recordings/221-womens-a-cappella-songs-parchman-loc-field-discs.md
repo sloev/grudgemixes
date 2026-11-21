@@ -19,7 +19,8 @@ urls:
   - "https://www.loc.gov/static/collections/alan-lomax-manuscripts/documents/lomax_chronology.pdf"
   - "https://english.duke.edu/events/jailhouse-blues-music-parchman-farm"
   - "https://www.wirz.de/music/rosetta.htm"
-images: []
+images:
+  - "media/221-women-s-a-cappella-songs-parchman-loc-field-discs.svg | Original typographic cover artwork for Women's a cappella songs, Parchman (LOC field discs)"
 ---
 
 **Where and when:** Mississippi State Penitentiary; Date(s): 1936, 1939; Medium: Instantaneous disc

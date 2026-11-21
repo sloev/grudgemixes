@@ -22,7 +22,8 @@ urls:
   - "https://cpaphils.org/about.html"
   - "https://thecordillerareview.upb.edu.ph/wp-content/uploads/2021/05/TCR-IV-2_Saboy_Voicing-Ethnicity-Traditional-Referentiality-the-Ullalim-and-Kalinga-Ethnopop-doi.pdf"
   - "https://www.ictmusic.org/sites/default/files/documents/world%20conferences/books%20of%20abstracts/abstracts%201999%20ictm%20world%20conference.pdf"
-images: []
+images:
+  - "media/171-salidummay-salidumay-salidummay-dkk.svg | Original typographic cover artwork for Salidummay / Salidumay, Salidummay (DKK)"
 ---
 
 # Philippine Cordillera — Salidummay / Dap-ayan ti Kultura iti Kordilyera cassette research

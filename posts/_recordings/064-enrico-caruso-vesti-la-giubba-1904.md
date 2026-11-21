@@ -21,7 +21,8 @@ urls:
   - "https://www.eno.org/operas/pagliacci/"
   - "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Caruso.pdf"
   - "https://adp-assets.library.ucsb.edu/TheVictorRedSealDiscography.pdf"
-images: []
+images:
+  - "media/064-enrico-caruso-vesti-la-giubba-1904.svg | Original typographic cover artwork for Enrico Caruso — “Vesti la giubba” (1904)"
 ---
 
 The Library of Congress catalog record identifies the recording date as 1 February 1904, label Victor, catalog 930, matrix B-1002, take 1, and recording location New York. The record's issue/publication date is not separately displayed in the metadata retrieved here. The 1904 catalog number and period discographies support an early issue, but the release date still needs confirmation from a contemporary Victor catalog or trade advertisement before this candidate is marked fully verified.

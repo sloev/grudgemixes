@@ -18,7 +18,8 @@ urls:
   - "https://prosandconsprogram.com/undisclosed-location/"
   - "https://prosandconsprogram.com/"
   - "https://kitchener.citynews.ca/2018/03/13/womens-prison-kitchener-releases-music-album-canadian-first/"
-images: []
+images:
+  - "media/148-pros-and-cons-program-undisclosed-location-10-songs.svg | Original typographic cover artwork for Pros and Cons Program, Undisclosed Location (10 songs)"
 ---
 
 **Where and when:** Grand Valley Institution for Women, Kitchener, Ontario; Date(s): 2017–18; Medium: Digital

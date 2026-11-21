@@ -17,7 +17,8 @@ recording_url: ""
 urls:
   - "https://www.loc.gov/item/2017700908/"
   - "https://hdl.loc.gov/loc.afc/afc1940001.afc1940001_a3844"
-images: []
+images:
+  - "media/126-maria-garcia-la-noche-de-reyes-asturias-recorded-19-january-1939.svg | Original typographic cover artwork for María García, “La noche de Reyes” (Asturias; recorded 19 January 1939)"
 ---
 
 The documented plot is a killing in response to an alleged sexual betrayal. Before classifying the work as revenge, distinguish: - the father's narrated motive; - the child's position as listener; - the ballad's narrative stance; - the performer's own stance, which is not established by the catalogue.

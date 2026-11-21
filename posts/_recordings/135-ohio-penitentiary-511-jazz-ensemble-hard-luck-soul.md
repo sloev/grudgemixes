@@ -18,7 +18,8 @@ urls:
   - "https://terminalescape.blogspot.com/2019/06/"
   - "https://jazzman.kudosrecords.co.uk/release/jmancd052/ohio-penitentiary-511-ensemble-hard-luck-soul"
   - "https://www.roughtrade.com/product/ohio-penitentiary-511-jazz-ensemble/hard-luck-soul"
-images: []
+images:
+  - "media/135-ohio-penitentiary-511-jazz-ensemble-hard-luck-soul.svg | Original typographic cover artwork for Ohio Penitentiary 511 Jazz Ensemble, Hard Luck Soul"
 ---
 
 **Where and when:** Ohio State Penitentiary; Date(s): 1971; Medium: Private LP; 2012 reissue

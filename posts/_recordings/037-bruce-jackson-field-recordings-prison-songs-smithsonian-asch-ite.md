@@ -18,7 +18,8 @@ urls:
   - "https://n2t.net/ark:/65665/bk5d396d565-cc98-4438-8a00-db906c0380f2"
   - "https://collections.si.edu/search/results.htm?fq=name%3A%22Folkways+Records%22&q=%22Prisons%22"
   - "https://collections.si.edu/search/results.htm?q=%22Jackson%2C+Bruce%2C+1936-%22"
-images: []
+images:
+  - "media/037-bruce-jackson-field-recordings-prison-songs-smithsonian-asch-item-fw-asch-7rr-1966.svg | Original typographic cover artwork for Bruce Jackson, “Field Recordings: Prison Songs,” Smithsonian Asch item FW-ASCH-7RR-1966"
 ---
 
 # IM-045 — Bruce Jackson, “Field Recordings: Prison Songs” (Smithsonian Asch Collection, FW-ASCH-7RR-1966)

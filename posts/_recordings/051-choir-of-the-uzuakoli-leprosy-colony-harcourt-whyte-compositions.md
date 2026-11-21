@@ -19,7 +19,8 @@ urls:
   - "https://africanbiosciences.wordpress.com/publications/radio-uzuakoli-in-music-and-medicine/"
   - "https://sasakawaleprosyinitiative.org/latest-updates/initiative-news/4801/"
   - "https://www.lepra.org.uk/centenary/people/details/ikoli-harcourt-whyte"
-images: []
+images:
+  - "media/051-choir-of-the-uzuakoli-leprosy-colony-harcourt-whyte-compositions.svg | Original typographic cover artwork for Choir of the Uzuakoli Leprosy Colony, Harcourt Whyte compositions"
 ---
 
 **Where and when:** Uzuakoli, Abia State, Nigeria; Date(s): After 1977 per one source; LPs from 1974–75 not yet linked; Medium: Vinyl

@@ -15,7 +15,8 @@ tags:
   - "made-anyway"
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/043-caruso-scotti-ah-mimi-tu-piu-non-torni-puccini-la-boheme.svg | Original typographic cover artwork for Caruso & Scotti, 'Ah Mimì, tu più non torni' (Puccini, *La Bohème*)"
 ---
 
 ## To do

@@ -20,7 +20,8 @@ urls:
   - "https://www.loc.gov/collections/songs-of-america/articles-and-essays/musical-styles/traditional/traditional-ballads/"
   - "https://folkways-media.si.edu/docs/folkways/artwork/SFW40155.pdf"
   - "https://balladindex.org/Ballads/LE01.html"
-images: []
+images:
+  - "media/027-bascom-lamar-lunsford-jesse-james-okeh-40155-1924.svg | Original typographic cover artwork for Bascom Lamar Lunsford — “Jesse James” (Okeh 40155, 1924)"
 ---
 
 The traditional “Jesse James” ballad frames Robert Ford's killing of James as betrayal by a trusted associate and repeatedly condemns Ford as a coward. It can therefore serve as a public accusation/counter-insult and betrayal-grievance text. It is not straightforward revenge: the familiar text condemns the killing but does not narrate a retaliatory act against Ford. Later folklore and popular culture sometimes append or associate revenge for James's death with Edward O'Kelly, but that is not evidence that this particular 1924 performance does so.

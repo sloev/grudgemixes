@@ -16,7 +16,8 @@ tags:
 recording_url: ""
 urls:
   - "https://findingaids.loc.gov/exist_collections/ead3pdf/afc/2018/af018002.pdf"
-images: []
+images:
+  - "media/040-bruce-jackson-texas-prison-farm-work-songs-afc-2011-009-sr0782-sr10401041-sr07060710-afc-1.svg | Original typographic cover artwork for Bruce Jackson, Texas prison-farm work songs (AFC 2011/009 SR0782, SR1040–1041, SR0706–0710; AFC 1965/011; AFC 1967/009)"
 ---
 
 **Where and when:** Ellis, Wayne, Ramsey and Retrieve farms; Huntsville; Date(s): 1964–66; Medium: Reel-to-reel

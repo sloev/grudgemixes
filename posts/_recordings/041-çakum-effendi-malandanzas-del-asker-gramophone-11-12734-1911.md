@@ -20,7 +20,8 @@ urls:
   - "https://music.amazon.com/albums/B08P6MT32N"
   - "https://www.ynet.co.il/articles/0,7340,L-4898292,00.html"
   - "https://folkmasa.org/avshir/pshir_fls.php"
-images: []
+images:
+  - "media/041-cakum-effendi-malandanzas-del-asker-gramophone-11-12734-1911.svg | Original typographic cover artwork for Çakum Effendi, “Malandanzas del asker” (Gramophone 11-12734, 1911)"
 ---
 
 The Hebrew University scholarly commentary identifies this as one of the Ladino songs about “askerlik” — military service imposed on Jews by Ottoman authorities from 1908. It notes that Çakum's version is close to Haim Effendi's earlier / parallel recorded version and that rare oral-tradition versions probably derive from these commercial recordings.

@@ -16,7 +16,8 @@ tags:
 recording_url: ""
 urls:
   - "https://www.spekali.tsu.ge/index.php/en/article/viewArticle/17/312/"
-images: []
+images:
+  - "media/079-georgian-pow-songs-lautarchiv-191518.svg | Original typographic cover artwork for Georgian POW songs, Lautarchiv 1915–18"
 ---
 
 ## To do

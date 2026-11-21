@@ -21,7 +21,8 @@ urls:
   - "https://natoreyes.wordpress.com/category/music/"
   - "https://samarnews.com/news2011/apr/b118.htm"
   - "https://phkule.org/article/699/who-is-ericson-acosta/"
-images: []
+images:
+  - "media/065-ericson-acosta-prison-sessions-1-2.svg | Original typographic cover artwork for Ericson Acosta, Prison Sessions 1 & 2"
 ---
 
 **Where and when:** Calbayog Sub-provincial Jail, Samar, Philippines; Date(s): 2011-04-06; 2011-09-20; Medium: Digital; CD

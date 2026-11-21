@@ -17,7 +17,8 @@ recording_url: "http://www.mediafire.com/listen/dhvk93v950o44b2/88r002_web_philo
 urls:
   - "http://www.mediafire.com/listen/3z3oq162nxnh0n2/88r002_web_i_have_looked.mp3"
   - "http://www.mediafire.com/listen/c307wit7matt7q8/88r002_web_untitled_instr.mp3"
-images: []
+images:
+  - "media/209-unknown-singer-with-guitar-standing-on-the-outside-of-a-circle-i-have-looked-upon-a-land-e.svg | Original typographic cover artwork for Unknown singer with guitar, 'Standing on the Outside of a Circle' / 'I Have Looked Upon a Land' (EclectikTronik 88r002)"
 ---
 
 an anonymous songwriter's own songs on a discarded reel, kept by the EclectikTronik archive since 1988.

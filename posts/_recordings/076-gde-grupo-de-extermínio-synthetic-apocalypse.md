@@ -15,7 +15,8 @@ tags:
   - "made-anyway"
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/076-g-d-e-grupo-de-exterminio-synthetic-apocalypse.svg | Original typographic cover artwork for G.D.E. (Grupo de Extermínio), Synthetic Apocalypse"
 ---
 
 **Where and when:** Underground post-punk/industrial scene, Santa Maria, Rio Grande do Sul, Brazil; Date(s): Recorded May 1996; Medium: Four-track demo cassette; collector digitisation

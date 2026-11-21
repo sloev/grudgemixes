@@ -16,7 +16,8 @@ tags:
 recording_url: ""
 urls:
   - "https://link.springer.com/chapter/10.1007/978-3-031-15617-5_3"
-images: []
+images:
+  - "media/211-urhobo-udje-battle-song-poetry.svg | Original typographic cover artwork for Urhobo *udje* battle song-poetry"
 ---
 
 Notes to come.

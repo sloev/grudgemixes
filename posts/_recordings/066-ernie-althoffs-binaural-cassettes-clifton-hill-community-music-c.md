@@ -16,7 +16,8 @@ tags:
 recording_url: ""
 urls:
   - "https://www.listeningtothearchive.com/artists/ernie-althoff"
-images: []
+images:
+  - "media/066-ernie-althoff-s-binaural-cassettes-clifton-hill-community-music-centre.svg | Original typographic cover artwork for Ernie Althoff's binaural cassettes, Clifton Hill Community Music Centre"
 ---
 
 **Where and when:** Melbourne, Australia; Date(s): 1976–83; Medium: Cassette

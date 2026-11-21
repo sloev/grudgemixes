@@ -14,7 +14,8 @@ medium: "78 rpm disc"
 tags: []
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/026-barrientos-stracciari-si-vendetta.svg | Original typographic cover artwork for Barrientos & Stracciari, Sì, vendetta"
 ---
 
 The father's vow and the daughter's plea.

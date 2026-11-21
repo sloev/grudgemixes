@@ -15,7 +15,8 @@ tags:
   - "the-account"
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/176-si-vendetta-alternates-galvany-ruffo-battistini-hayes.svg | Original typographic cover artwork for 'Sì, vendetta' alternates: Galvany & Ruffo; Battistini & Hayes"
 ---
 
 **Why it's here:** same revenge duet as GM-IT-002; useful if the preferred Barrientos & Stracciari (Columbia 78363, 1919) transfer cannot be obtained.

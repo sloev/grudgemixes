@@ -12,7 +12,8 @@ tracks:
   - "radio-afghanistan-rta-archive-tapes-hidden-from-the-taliban-1996"
   - "sabc-barred-records-bernoldus-niemand-snor-city-1988-mzwakhe-mbu"
   - "cheikha-rimitti-charrak-gatta"
-images: []
+images:
+  - "media/001-banned-scratched-smuggled.jpg | Amalia: a romance of the Argentine — José Mármol; Public domain; https://commons.wikimedia.org/wiki/File:Amalia._A_romance_of_the_Argentine.djvu"
 ---
 
 Banning music changes the carrier, not the music.

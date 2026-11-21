@@ -25,7 +25,8 @@ urls:
   - "https://kutsukake.nichibun.ac.jp/rsp/?reg=525664"
   - "https://ci.nii.ac.jp/ncid/BB17634016"
   - "https://kutsukake.nichibun.ac.jp/rsp/?reg=525671"
-images: []
+images:
+  - "media/098-japan-lead-yoshida-naramaru-ako-gishi-den-toiri-royal-record.svg | Original typographic cover artwork for Japan lead: Yoshida Naramaru, *Akō Gishi-den Toiri* (Royal Record)"
 ---
 
 Nichibunken’s Rōkyoku SP Record Digital Archive describes a collection of 9,998 SP records donated by collector Morikawa Tsukasa in 2014. Its public database includes label images for all digitized records, but sound is publicly available only when copyright protection has expired; otherwise audio is restricted to on-site access. The current archive overview reports 2,237 audio titles and 5,534 label-image titles (as of February 2023). The *Toiri* record's presence in the 2016 institutional prospectus establishes a Nichibunken holding, but its inclusion in the online searchable subset and its audio status still need item-level confirmation.

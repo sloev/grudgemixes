@@ -22,7 +22,8 @@ urls:
   - "https://collections.si.edu/search/results.htm?q=%22Jackson%2C+Bruce%2C+1936-%22"
   - "https://n2t.net/ark:/65665/bk5d396d565-cc98-4438-8a00-db906c0380f2"
   - "https://findingaids.loc.gov/exist_collections/ead3pdf/afc/2018/af018002.pdf"
-images: []
+images:
+  - "media/038-bruce-jackson-indiana-prison-songs-reels-12.svg | Original typographic cover artwork for Bruce Jackson, Indiana Prison Songs (reels 1–2)"
 ---
 
 The Smithsonian Institution's Ralph Rinzler Folklife Archives and Collections catalogue identifies two items titled “Bruce Jackson Field Recordings: Indiana Prison Songs” in the Moses and Frances Asch Collection:

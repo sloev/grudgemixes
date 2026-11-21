@@ -16,7 +16,8 @@ tags:
 recording_url: ""
 urls:
   - "https://www.themarshallproject.org/2026/03/10/prison-music-texas-rodeo-redemption-songs"
-images: []
+images:
+  - "media/196-texas-prison-rodeo-albums-1965-and-197282.svg | Original typographic cover artwork for Texas Prison Rodeo albums, 1965 and 1972–82"
 ---
 
 eight albums produced by the Texas Department of Corrections and sold at the Huntsville prison rodeo; about 100 songs digitised by Maurice Chammah (The Marshall Project) from Texas Prison Museum copies. J.D. Thomas (1974) sings against farm labour and an innocent man facing execution; Morgan White recalled "Rock the boat, and you're out."

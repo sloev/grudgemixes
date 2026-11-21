@@ -20,7 +20,8 @@ urls:
   - "https://escholarship.org/content/qt0qk6w6p3/qt0qk6w6p3.pdf"
   - "https://www.psychedelicbabymag.com/2014/11/nihilist-spasm-band-interview.html"
   - "https://music.apple.com/us/album/no-record/912657427"
-images: []
+images:
+  - "media/131-the-nihilist-spasm-band-no-record.svg | Original typographic cover artwork for The Nihilist Spasm Band, *No Record*"
 ---
 
 The Nihilist Spasm Band began in London, Ontario, in 1965. They were artists and self-described non-musicians who had no wish to master conventional instruments, so they bought kazoos, modified noise-makers and built their own unruly machines. Their guitars could bend between notes; their giant electric kazoo was amplified with microphones made from hearing-aid parts. Nothing had to agree on a key, a tempo or even the idea of a tune.

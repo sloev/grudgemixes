@@ -16,7 +16,8 @@ tags:
 recording_url: ""
 urls:
   - "https://ftp.wfmu.org/playlists/shows/131126"
-images: []
+images:
+  - "media/208-unknown-bedouin-artists-dabke-cassette-1980s.svg | Original typographic cover artwork for Unknown Bedouin artists, dabke cassette (1980s)"
 ---
 
 **Recording:** a 1980s Palestinian Bedouin dabke cassette, artists unknown, played on WFMU *Bodega Pop* (Gary Sullivan), 30 Aug 2023.

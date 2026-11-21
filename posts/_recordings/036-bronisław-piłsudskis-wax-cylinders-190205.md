@@ -16,7 +16,8 @@ tags:
 recording_url: ""
 urls:
   - "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/53483"
-images: []
+images:
+  - "media/036-bronisaw-pisudski-s-wax-cylinders-190205.svg | Original typographic cover artwork for Bronisław Piłsudski's wax cylinders, 1902–05"
 ---
 
 a Polish exile recorded Ainu speech and song; about 65 cylinders were found in Poland in 1977 and played back at Hokkaido University in 1983.

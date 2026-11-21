@@ -15,7 +15,8 @@ tags:
   - "made-anyway"
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/161-risk-about-50-songs-on-cassette.svg | Original typographic cover artwork for RISK, about 50 songs on cassette"
 ---
 
 **Where and when:** Kentucky State Penitentiary, Eddyville; Date(s): 1984; Medium: Cassette

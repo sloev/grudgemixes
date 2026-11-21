@@ -25,7 +25,8 @@ urls:
   - "https://gate.ahram.org.eg/daily/NewsQ/357864.aspx"
   - "https://jfma.journals.ekb.eg/article_160233_ee60ed733e4d99fc7491654043737b75.pdf"
   - "https://www.wataninet.com/2016/02/%D8%A7%D9%84%D9%87%D8%B1%D9%85-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9/"
-images: []
+images:
+  - "media/063-egypt-dinshaway-mawwal-ballad-tradition-1906.svg | Original typographic cover artwork for Egypt: Dinshaway mawwal / ballad tradition (1906)"
 ---
 
 Ziad Fahmy's study *Ordinary Egyptians: Creating the Modern Nation through Popular Culture* describes the near-immediate commemoration of the 1906 Dinshaway incident in rural colloquial Egyptian *mawāwīl* (singular *mawwāl*, ballad-like sung narratives). The book reports that these songs circulated widely in the countryside and that many were probably not composed by a single identifiable writer. One mawwāl is attributed to Sheikh Mustafa ʿAjāj.

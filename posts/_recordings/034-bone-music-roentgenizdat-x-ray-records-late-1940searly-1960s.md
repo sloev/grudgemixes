@@ -16,7 +16,8 @@ tags:
 recording_url: ""
 urls:
   - "https://vice.com/en/article/soviet-russia-forbidden-music-x-ray-records"
-images: []
+images:
+  - "media/034-bone-music-roentgenizdat-x-ray-records-late-1940searly-1960s.svg | Original typographic cover artwork for 'Bone music' (roentgenizdat) X-ray records, late 1940s–early 1960s"
 ---
 
 forbidden music cut onto used X-ray film. **Sources:** https://vice.com/en/article/soviet-russia-forbidden-music-x-ray-records · X-Ray Audio Project. **Next:** choose a disc whose source song is out of copyright.

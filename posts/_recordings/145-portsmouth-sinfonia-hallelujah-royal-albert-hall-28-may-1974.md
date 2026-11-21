@@ -16,7 +16,8 @@ tags:
 recording_url: ""
 urls:
   - "https://en.wikipedia.org/wiki/Portsmouth_Sinfonia"
-images: []
+images:
+  - "media/145-portsmouth-sinfonia-hallelujah-royal-albert-hall-28-may-1974.svg | Original typographic cover artwork for Portsmouth Sinfonia, *Hallelujah!* (Royal Albert Hall, 28 May 1974)"
 ---
 
 Gavin Bryars's 1970 art-school orchestra, open to anyone; trained players had to use instruments they could not play.

@@ -18,7 +18,8 @@ urls:
   - "https://www.hcucc.org/kalaupapa-sunday"
   - "https://www.hcucc.org/_files/ugd/1c51b0_974ec3094c53448d93230effc8ebec64.pdf"
   - "https://depauw.libraryhost.com/repositories/2/archival_objects/181793"
-images: []
+images:
+  - "media/103-kalaupapa-settlement-choirs-1952-cassette.svg | Original typographic cover artwork for Kalaupapa Settlement choirs, 1952 cassette"
 ---
 
 **Where and when:** Kalaupapa Settlement, Moloka‘i, Hawai‘i; Date(s): 1952; Medium: One 60-min cassette (copy)

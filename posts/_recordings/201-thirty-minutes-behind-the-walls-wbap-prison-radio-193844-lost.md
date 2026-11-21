@@ -16,7 +16,8 @@ tags:
 recording_url: ""
 urls:
   - "https://archive.culturalequity.org/texas-1939"
-images: []
+images:
+  - "media/201-thirty-minutes-behind-the-walls-wbap-prison-radio-193844-lost.svg | Original typographic cover artwork for *Thirty Minutes Behind the Walls*, WBAP prison radio, 1938–44 — lost"
 ---
 
 Notes to come.

@@ -12,7 +12,8 @@ tracks:
   - "eunpyeong-hospital-patients-우리들의-약-our-medicine"
   - "radio-la-colifata-hospital-borda-buenos-aires"
   - "takashi-tōjō-東條高-生かされて-この道-こころ"
-images: []
+images:
+  - "media/004-inside-the-walls.svg | Original typographic cover artwork for Inside the Walls"
 ---
 
 Hospitals and Hansen's-disease settlements: the institution kept files on these people; the music is the file they kept on themselves. Book: ch. 25, 27.

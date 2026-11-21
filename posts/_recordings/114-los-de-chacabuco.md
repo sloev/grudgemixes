@@ -14,7 +14,8 @@ medium: ""
 tags: []
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/114-los-de-chacabuco.svg | Original typographic cover artwork for Los de Chacabuco"
 ---
 
 Detainees record in secret in an abandoned nitrate town.

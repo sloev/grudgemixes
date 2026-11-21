@@ -19,7 +19,8 @@ urls:
   - "https://www.guinnessworldrecords.com/world-records/720753-first-deaf-artist-to-sign-a-recording-contract-with-an-international-major-label"
   - "https://www.polarmusicprize.org/laureates/evelyn-glennie/"
   - "https://www.abc.net.au/listen/programs/legends/legends-evelyn-glennie/105583780"
-images: []
+images:
+  - "media/068-evelyn-glennie-makes-a-whole-orchestra-out-of-percussion.svg | Original typographic cover artwork for Evelyn Glennie makes a whole orchestra out of percussion"
 ---
 
 Evelyn Glennie’s first solo album, *Rhythm Song*, appeared on RCA Victor in April 1990. Its repertoire jumps from Scott Joplin’s “Maple Leaf Rag” and Rimsky-Korsakov’s “Flight of the Bumble Bee” to Glennie’s own “A Little Prayer”. The National Philharmonic Orchestra appears alongside her tuned percussion, but the record’s centre of gravity is unmistakably the soloist: marimba, rhythm and a startling range of colour.

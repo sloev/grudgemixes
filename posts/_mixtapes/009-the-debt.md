@@ -11,7 +11,8 @@ tracks:
   - "caruso-ruffo-sì-pel-ciel-marmoreo-giuro-verdi-otello-act-ii"
   - "titta-ruffo-cortigiani-vil-razza-dannata-verdi-rigoletto-act-ii"
   - "barrientos-stracciari-sì-vendetta"
-images: []
+images:
+  - "media/009-the-debt.png | Debt - The Noun Project — Consumer Financial Protection Bureau; CC0; https://commons.wikimedia.org/wiki/File:Debt_-_The_Noun_Project.svg"
 ---
 
 Honour and the vow of revenge, sung out loud: incitement, plot, oath, accusation, vow. Book: Part II, ch. 11; Atlas: Corsica, Italy.

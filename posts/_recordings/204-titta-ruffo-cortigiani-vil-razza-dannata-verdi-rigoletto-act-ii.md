@@ -16,7 +16,8 @@ tags:
 recording_url: ""
 urls:
   - "https://adpprod2.library.ucsb.edu/index.php/objects/refer/96210"
-images: []
+images:
+  - "media/204-titta-ruffo-cortigiani-vil-razza-dannata-verdi-rigoletto-act-ii.svg | Original typographic cover artwork for Titta Ruffo, 'Cortigiani, vil razza dannata' (Verdi, *Rigoletto*, Act II)"
 ---
 
 Rigoletto turns on the courtiers who abducted his daughter: public denunciation before the revenge plan.

@@ -14,7 +14,8 @@ medium: ""
 tags: []
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/024-arsch.svg | Original typographic cover artwork for ARSCH"
 ---
 
 A commune taping itself.

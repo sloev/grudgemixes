@@ -19,7 +19,8 @@ urls:
   - "https://terrorismodeestadoenchile.blogspot.com/2013/09/08/"
   - "https://culturaacompanada.blogspot.com/2018/08/museo-de-la-memoria-estrenara-cueca.html"
   - "https://folcloreyculturachilena.blogspot.com/2017/04/memoria-del-cantar-popular-musica.html"
-images: []
+images:
+  - "media/048-chacabuco-clandestine-cassette-lp-lineage-mmdh-centros-de-detencion-and-separate-2-03-clan.svg | Original typographic cover artwork for Chacabuco clandestine cassette / LP lineage; MMDH “Centros de Detención” and separate 2:03 clandestine recording"
 ---
 
 **Where and when:** Oficina Salitrera Chacabuco detention camp, Chile; Date(s): 1973–75; later archive/reissue dates vary; Medium: Cassette, LP, radio archive digital objects

@@ -19,7 +19,8 @@ urls:
   - "https://mapuramusic.bandcamp.com/album/pulsing-2025"
   - "https://mapuramusic.bandcamp.com/"
   - "https://daily.bandcamp.com/features/artists-with-disabilities-feature"
-images: []
+images:
+  - "media/120-mapura-music-let-the-room-become-the-band.svg | Original typographic cover artwork for Māpura Music let the room become the band"
 ---
 
 Māpura Studios in Tāmaki Makaurau Auckland runs weekly creative music sessions built around spontaneous music-making. *Pulsing* gathers live recordings from the final term of 2025. Its six tracks include “Australian”, which runs nearly eleven minutes, “Yung Man Blues”, “Respect” and “Teresa’s Pulse”. The album credits twenty performers, plus facilitator and musician Stefan Neville.

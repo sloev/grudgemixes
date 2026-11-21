@@ -18,7 +18,8 @@ urls:
   - "https://www.researchgate.net/publication/338935637_21_avril_1967_11_septembre_1973_que_peut_la_musique"
   - "https://portal.amelica.org/ameli/journal/645/6454649008/html/"
   - "https://antiwarsongs.org/canzone.php?id=47742&lang=en"
-images: []
+images:
+  - "media/139-partheni-camp-leros-the-songs-of-exile-c-197071.svg | Original typographic cover artwork for Partheni camp, Leros, The Songs of Exile, c.1970–71"
 ---
 
 **Where and when:** Partheni camp, Leros, Greece (political detention); Date(s): Late 1970 or early 1971; Medium: Clandestine cassette

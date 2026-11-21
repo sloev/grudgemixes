@@ -15,7 +15,8 @@ tags:
   - "made-anyway"
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/091-horace-flinders-eloise-hospital-piano-recital-1948.svg | Original typographic cover artwork for Horace Flinders, Eloise Hospital piano recital, 1948"
 ---
 
 **Where and when:** Eloise Hospital, Michigan, USA (psychiatric); Date(s): 1948 per DPLA; undated per the finding aid; Medium: Tape, digitised from cassette 2015

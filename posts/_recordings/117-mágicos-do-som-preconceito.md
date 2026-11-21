@@ -14,7 +14,8 @@ medium: ""
 tags: []
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/117-magicos-do-som-preconceito.svg | Original typographic cover artwork for Mágicos do Som, Preconceito"
 ---
 
 A mental-health group names the stigma it lives with.

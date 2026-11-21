@@ -13,7 +13,8 @@ tracks:
   - "roba-stanley-bill-patterson-little-frankie-okeh-40436-matrix-884"
   - "warings-pennsylvanians-stack-olee-blues-victor-19189-1923"
   - "al-craver-vernon-dalhart-naomi-wise-columbia-15053-d-1925"
-images: []
+images:
+  - "media/011-the-public-answer.svg | Original typographic cover artwork for The Public Answer"
 ---
 
 When the law fails or is not trusted, the ballad becomes the court. Book: Part III, ch. 12, 16; Atlas: Appalachia, Rural Mexico.

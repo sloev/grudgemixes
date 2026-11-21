@@ -14,7 +14,8 @@ medium: ""
 tags: []
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/067-eunpyeong-hospital-patients-our-medicine.svg | Original typographic cover artwork for Eunpyeong Hospital patients, 우리들의 약 (Our Medicine)"
 ---
 
 Patients write about the pills from the receiving end.

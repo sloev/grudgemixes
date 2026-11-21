@@ -19,7 +19,8 @@ urls:
   - "https://rephip.unr.edu.ar/server/api/core/bitstreams/051ac223-f2ba-4c14-8652-2d36a3c85198/content"
   - "https://www.lacapital.com.ar/educacion/un-programa-radio-comunicar-utopias-la-salud-mental-n2612081.html"
   - "https://ar.radiocut.fm/radioshow/tardes-nuestras-1/"
-images: []
+images:
+  - "media/188-tardes-nuestras-recurring-opening-theme-working-incipit-dicen-que-no-tenemos-razon-officia.svg | Original typographic cover artwork for Tardes Nuestras recurring opening theme (working incipit “Dicen que no tenemos razón”; official title unknown)"
 ---
 
 A 2017 Universidad Nacional de Rosario thesis records that the programme made contact with musicians and produced a song to serve as the *cortina* (opening/closing theme) of *Tardes Nuestras*. A 2020 *La Capital* article describes the recurring opening as a catchy rock song, quotes its opening lyric “Dicen que no tenemos razón,” and says that the song starts the programme. The station's official programme page links to its recorded-programme archive on RadioCut.

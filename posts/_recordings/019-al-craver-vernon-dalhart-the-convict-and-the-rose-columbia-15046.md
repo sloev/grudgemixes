@@ -21,7 +21,8 @@ urls:
   - "https://www.library.kent.edu/special-collections-and-archives/crime-related-sheet-music"
   - "https://digitalcommons.conncoll.edu/sheetmusic/1808/"
   - "https://www.library.ucsb.edu/1925-recordings-digitized-ucsb-entering-public-domain-january-1-2026"
-images: []
+images:
+  - "media/019-al-craver-vernon-dalhart-the-convict-and-the-rose-columbia-15046-d-1925.svg | Original typographic cover artwork for Al Craver [Vernon Dalhart], “The Convict and the Rose” (Columbia 15046-D, 1925)"
 ---
 
 A transcription from a 1928 Ontario text witness gives a first-person prisoner awaiting execution. The narrator says the judge did not believe his story, the jury imposed punishment, and he maintains his innocence; the rose sent by his sweetheart becomes a token of their shared past and a final keepsake. The transcription and its provenance are described here: https://oldtymesongs.wordpress.com/2008/12/08/the-convict-and-the-rose/ .

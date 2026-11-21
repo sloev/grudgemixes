@@ -18,7 +18,8 @@ urls:
   - "https://www.armenianmuseum.org/sound-archive/tashjian-story"
   - "https://www.armenianmuseum.org/sound-archive/the-tashjian-brothers"
   - "https://www.recordingpioneers.com/docs/Columbia_E_Series.pdf"
-images: []
+images:
+  - "media/121-mardiros-der-sarkis-tashjian-1909-columbia-armenian-language-recordings.svg | Original typographic cover artwork for Mardiros Der Sarkis Tashjian — 1909 Columbia Armenian-language recordings"
 ---
 
 # Mardiros Der Sarkis Tashjian — 1909 Columbia Armenian-language recordings

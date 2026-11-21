@@ -17,7 +17,8 @@ recording_url: ""
 urls:
   - "https://www.aljazeera.com/news/2005/11/13/saving-the-story-of-afghanistan"
   - "https://folkways.si.edu/magazine-summer-2011-afghanistans-collection/world-central-asia/music/article/smithsonian"
-images: []
+images:
+  - "media/152-radio-afghanistan-rta-archive-tapes-hidden-from-the-taliban-1996.svg | Original typographic cover artwork for Radio Afghanistan (RTA) archive tapes hidden from the Taliban, 1996"
 ---
 
 staff hid cassettes and claimed the archive had been looted; about 50,000 tapes survived. **Sources:** https://www.aljazeera.com/news/2005/11/13/saving-the-story-of-afghanistan · https://folkways.si.edu/magazine-summer-2011-afghanistans-collection/world-central-asia/music/article/smithsonian

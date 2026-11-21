@@ -18,7 +18,8 @@ urls:
   - "https://docarchivesblog.org/wp-content/uploads/2023/02/11-2-carville-la-national-hansens-disease-center-finding-aid.pdf"
   - "https://docapsl.omeka.net/exhibits/show/the-daughters--history-in-heal/the-national-hans-s-disease-"
   - "https://www.hrsa.gov/hansens-disease/history"
-images: []
+images:
+  - "media/044-carville-patient-cantatas-cassettes.svg | Original typographic cover artwork for Carville patient cantatas, cassettes"
 ---
 
 **Where and when:** National Hansen's Disease Center, Carville, Louisiana; Date(s): Undated; one dated 1981-01-01; Medium: Cassette (Box 48, series 11-2-8-4, items 5–8)

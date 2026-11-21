@@ -17,7 +17,8 @@ recording_url: "https://songpoemmusic.com/mp3.htm"
 urls:
   - "https://en.wikipedia.org/wiki/Song_poem"
   - "https://songpoemmusic.com/what_is.htm"
-images: []
+images:
+  - "media/183-mary-bolton-s-song.svg | Original typographic cover artwork for Mary Bolton's song"
 ---
 
 For most of the twentieth century, magazines carried small ads: send us your poem and we'll make it a record. Thousands of ordinary people paid. Session musicians set the lyrics in an afternoon, a few copies were pressed, and the record usually went nowhere except the customer's front room.

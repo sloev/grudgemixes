@@ -19,7 +19,8 @@ urls:
   - "https://thesemimodulars.bandcamp.com/album/free-synthesizer"
   - "https://www.kut.org/texasstandard/2025-11-11/semi-modulars-band-texas-school-blind-visually-impaired"
   - "https://www.tsbvi.edu/tx-senseabilities/issues/tx-senseabilities-fall-2023-issue/semi-modulars"
-images: []
+images:
+  - "media/174-the-semi-modulars-make-the-synthesizer-the-instrument.svg | Original typographic cover artwork for The Semi-Modulars make the synthesizer the instrument"
 ---
 
 The Semi-Modulars began in a synthesis and sound-design class at the Texas School for the Blind and Visually Impaired. Teacher Dan Butler noticed that analog synthesizers could be explored by touch: unlike many digital instruments, their knobs and switches do not hide behind menus. The students turned the class into a band and kept making records.

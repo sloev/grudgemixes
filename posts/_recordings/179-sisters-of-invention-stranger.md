@@ -19,7 +19,8 @@ urls:
   - "https://tutti.org.au/collectives/the-sisters-of-invention/"
   - "https://tuttiarts.bandcamp.com/"
   - "https://daily.bandcamp.com/features/artists-with-disabilities-feature"
-images: []
+images:
+  - "media/179-the-sisters-of-invention-refuse-to-be-strangers.svg | Original typographic cover artwork for The Sisters of Invention refuse to be strangers"
 ---
 
 The Sisters of Invention formed in South Australia in 2010. Aimee Crathern, Michelle Hall, Caroline Hardy and Annika Hooper make pop as a group of learning-disabled artists supported by Tutti Arts. Their second album, *Stranger*, arrived in 2022, seven years after their self-titled debut.

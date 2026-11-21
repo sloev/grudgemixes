@@ -24,7 +24,8 @@ urls:
   - "https://www.georgiaencyclopedia.org/articles/arts-culture/fiddlin-john-carson-ca-1868-1949/"
   - "https://academic.oup.com/book/39669/chapter-abstract/339656506"
   - "https://famous-trials.com/leo-frank/38-ballad"
-images: []
+images:
+  - "media/016-al-craver-vernon-dalhart-little-mary-phagan-columbia-15031-d-1925.svg | Original typographic cover artwork for Al Craver [Vernon Dalhart] — “Little Mary Phagan” (Columbia 15031-D, 1925)"
 ---
 
 Mary Phagan, age thirteen, was murdered in Atlanta in 1913. Leo Frank, superintendent at the pencil factory where she worked, was convicted in a highly controversial trial and sentenced to death. Governor John M. Slaton commuted the sentence; Frank was kidnapped from prison and lynched in August 1915. The Georgia Historical Society's historical marker records the lynching and the 1986 posthumous pardon, which acknowledged the state's failure to protect Frank and bring his killers to justice without formally adjudicating guilt or innocence: https://www.georgiahistory.com/ghmi_marker_updated/leo-frank-lynching/

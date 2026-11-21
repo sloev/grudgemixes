@@ -14,7 +14,8 @@ tracks:
   - "propeller-1980"
   - "perkons-ogre-1985"
   - "skengdo-am-attempted"
-images: []
+images:
+  - "media/007-say-it-without-saying-it.jpg |   And without proving what we say, ...  1648  —  Douglas, Lady Eleanor.; Public domain; https://commons.wikimedia.org/wiki/File:And_without_proving_what_we_say,_..._1648_(IA_bim_early-english-books-1641-1700_and-without-proving-what_douglas-lady-eleanor_1648).pdf"
 ---
 
 A mixtape about what happens when someone in power decides a song is dangerous.

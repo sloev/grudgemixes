@@ -15,7 +15,8 @@ tags:
   - "made-anyway"
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/085-harry-oster-angola-prisoners-blues.svg | Original typographic cover artwork for Harry Oster, Angola prisoners' blues"
 ---
 
 **Where and when:** Louisiana State Penitentiary; Date(s): 1950s; Medium: Tape; Folkways issue

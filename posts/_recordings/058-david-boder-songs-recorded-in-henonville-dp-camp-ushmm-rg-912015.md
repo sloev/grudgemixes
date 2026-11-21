@@ -24,7 +24,8 @@ urls:
   - "https://www.smb.museum/en/museums-institutions/ethnologisches-museum/collection-research/research/sound-recordings-made-by-the-prussian-phonographic-commission/"
   - "https://www.lautarchiv.hu-berlin.de/en/collections-and-catalog/collections/"
   - "https://www.lautarchiv.hu-berlin.de/en/introduction/chronology/"
-images: []
+images:
+  - "media/058-david-boder-songs-recorded-in-henonville-dp-camp-ushmm-rg-91-2015.svg | Original typographic cover artwork for David Boder, “Songs recorded in Henonville DP camp” (USHMM RG-91.2015)"
 ---
 
 **Where and when:** Hénonville DP centre, France; Date(s): 1946; Medium: Wire

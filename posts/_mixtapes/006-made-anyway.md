@@ -12,7 +12,8 @@ tracks:
   - "anões-de-jardim-demo"
   - "arsch"
   - "ata-kak-obaa-sima"
-images: []
+images:
+  - "media/006-made-anyway.svg | Original typographic cover artwork for Made Anyway"
 ---
 
 Keeping your own record, without permission or a label. Book: ch. 26, 29; Atlas: Denmark.

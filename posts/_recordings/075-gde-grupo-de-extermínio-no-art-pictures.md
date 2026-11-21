@@ -15,7 +15,8 @@ tags:
   - "made-anyway"
 recording_url: ""
 urls: []
-images: []
+images:
+  - "media/075-g-d-e-grupo-de-exterminio-no-art-pictures.svg | Original typographic cover artwork for G.D.E. (Grupo de Extermínio), No Art Pictures"
 ---
 
 **Where and when:** Underground post-punk/industrial scene, Santa Maria, Rio Grande do Sul, Brazil; Date(s): 1995 (blog); item record has no date; Medium: Demo cassette; collector digitisation

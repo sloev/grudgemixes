@@ -16,7 +16,8 @@ tags:
 recording_url: ""
 urls:
   - "https://vmrebetiko.gr/en/item-en/?id=11155"
-images: []
+images:
+  - "media/181-smyrnaiki-estudiantina-marche-de-niyazi-et-enver-bey-marche-huriet-odeon-58588-june-1908.svg | Original typographic cover artwork for Smyrnaiki Estudiantina, “Marche de Niyazi et Enver Bey / Marche Huriet” (Odeon 58588, June 1908)"
 ---
 
 The Kounadis record page publishes Turkish lyrics and an English translation. The text includes the lines:

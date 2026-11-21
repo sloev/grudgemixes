@@ -18,7 +18,8 @@ recording_url: ""
 urls:
   - "https://discovery.ucl.ac.uk/id/eprint/10122838/7/Moredo%20Pereira_10122838_thesis_sig_removed.pdf"
   - "https://www.theguardian.com/society/2003/mar/19/guardiansocietysupplement5"
-images: []
+images:
+  - "media/132-no-body-no-lie-a-deaf-made-funk-video-from-1990.svg | Original typographic cover artwork for No body, no lie: a Deaf-made funk video from 1990"
 ---
 
 In 1990, Deaf activist and broadcaster Paddy Ladd helped make a funk video with a group of Deaf performers. Researcher Joana Pereira identifies it as the first signed-song video written and performed by Deaf people. Ladd wrote the song, first titled “You Can Lie Through Your Teeth (But You Can’t Lie Through Your Body)”; it was later retitled “No Body No Lie”. Clive Mason, Colin Thompson, Clara Allerdyce and Charles Hampton performed it.
