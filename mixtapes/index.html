@@ -1,0 +1,6 @@
+---
+layout: default
+title: Mixtapes
+permalink: /mixtapes/
+---
+<h1>Mixtapes</h1><p>Collections of recordings that already have their own stories.</p><div class="post-list">{% assign mixtapes = site.mixtapes | sort: "date" | reverse %}{% for post in mixtapes %}<article class="post-card"><h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>{% if post.description %}<p>{{ post.description | escape }}</p>{% endif %}</article>{% endfor %}</div>

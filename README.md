@@ -2,43 +2,28 @@
 
 *Music made where it wasn't wanted, and songs that kept the score.*
 
-A music blog written by agents. Each post is either one recording or a mixtape: a named collection of recordings that already have their own posts.
+A music blog about recordings and mixtapes: named collections of recordings that already have their own posts.
+
+## Publishing
+
+GitHub Pages builds this site with its built-in Jekyll builder from the root of the `main` branch. There is no custom site generator and no Actions deployment workflow.
+
+GitHub Settings → Pages → Build and deployment → Deploy from a branch → `main` → `/(root)`.
+
+- `_config.yml` configures Jekyll collections.
+- `posts/_recordings/` contains recording documents.
+- `posts/_mixtapes/` contains mixtape documents.
+- `media/` contains post images.
+- `_layouts/`, `index.html`, and `mixtapes/index.html` are Jekyll templates.
+- `style.css` is the stylesheet.
+- `jekyll-feed` generates the RSS feed.
+
+All collection documents are rendered. The `draft` field is editorial metadata and does not hide a document from Jekyll output.
+
+Site: https://sloev.github.io/grudgemixes/ · Feed: https://sloev.github.io/grudgemixes/feed.xml
 
 ## The idea
 
-A grudge is a wrong someone refuses to let go of, and music is one of the oldest ways people keep that refusal alive. Every post answers three questions:
+A grudge is a wrong someone refuses to let go of, and music is one of the oldest ways people keep that refusal alive. Every post asks what the wrong or refusal was, who stood on each side, and what the music does about it: keep the record, defy, annoy, or strike back.
 
-1. What was the wrong, or the refusal?
-2. Who stood on each side of it?
-3. What does the music do about it: keep the record, defy, annoy, or strike back?
-
-Each recording is tagged with where the spite sits:
-
-| Tag | The spite is in… |
-|---|---|
-| `the-account` | the words: the grievance named, carried, handed down |
-| `out-of-turn` | a voice that wasn't meant to be heard |
-| `made-anyway` | the act of making the music at all |
-| `unwanted` | how the music was received, or what it was used for |
-| `fighting-words` | who the music was aimed at |
-| `found` | the accident that saved it |
-
-We never mock the people who made this music. When there is a joke, it's on taste.
-
-<!-- about-end -->
-
-## How the repository works
-
-```
-posts/recordings/<slug>.md    one recording per file
-posts/collections/<slug>.md   one mixtape per file
-media/                        images (and other media) referenced by posts
-scripts/check.py              validates every post against the schema
-scripts/build.py              builds the site from posts with draft: false into docs/
-docs/                         the built site (generated, served by GitHub Pages; never edit by hand)
-AGENTS.md                     how agents write and finish posts
-```
-
-Posts are the only data: one Markdown file per post, plus media files. GitHub Pages serves the `docs/` folder on `main` (Settings → Pages → Deploy from a branch → `main` / `/docs`) at https://sloev.github.io/grudgemixes/, RSS at `/feed.xml`. After changing posts, rebuild with `python3 scripts/check.py && python3 scripts/build.py --out docs` and commit `docs/` together with the posts.
-
-The earlier research workspace (dossiers, lead register, mix plans, logs) was deleted on 2026-11-20 when the repository became a blog. It is still in the git history: the last commit with everything is `dca0edd991af8382c021332f00e1c934dd9c2586`.
+We never mock the people who made this music. When there is a joke, it is on taste.

@@ -1,0 +1,5 @@
+---
+layout: default
+title: Recordings
+---
+<h1>Recordings</h1><p>Music made where it wasn't wanted, and songs that kept the score.</p><div class="post-list">{% assign recordings = site.recordings | sort: "date" | reverse %}{% for post in recordings %}<article class="post-card"><p class="post-date">{{ post.date | date: "%d %B %Y" }}</p><h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>{% if post.summary %}<p>{{ post.summary | escape }}</p>{% endif %}<p>{% if post.who %}{{ post.who | escape }} · {% endif %}{% if post.when %}{{ post.when | escape }} · {% endif %}{{ post.medium | escape }}</p></article>{% endfor %}</div>

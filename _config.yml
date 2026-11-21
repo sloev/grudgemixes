@@ -1,0 +1,30 @@
+title: Spite Frequencies
+description: "Music made where it wasn't wanted, and songs that kept the score."
+url: "https://sloev.github.io"
+baseurl: "/grudgemixes"
+markdown: kramdown
+collections_dir: posts
+collections:
+  recordings:
+    output: true
+    permalink: /posts/:name/
+  mixtapes:
+    output: true
+    permalink: /mixtapes/:name/
+defaults:
+  - scope:
+      path: ""
+      type: recordings
+    values:
+      layout: recording
+  - scope:
+      path: ""
+      type: mixtapes
+    values:
+      layout: mixtape
+plugins:
+  - jekyll-feed
+feed:
+  collections:
+    - recordings
+    - mixtapes

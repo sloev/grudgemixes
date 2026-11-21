@@ -1,0 +1,4 @@
+---
+layout: default
+---
+<article class="post"><p><a href="{{ '/mixtapes/' | relative_url }}">← All mixtapes</a></p><h1>{{ page.title | escape }}</h1>{% if page.description %}<p class="summary">{{ page.description | escape }}</p>{% endif %}<div class="post-body">{{ content }}</div>{% if page.tracks %}<h2>Tracks</h2><ol>{% for slug in page.tracks %}{% assign track = site.recordings | where: "slug", slug | first %}{% if track %}<li><a href="{{ track.url | relative_url }}">{{ track.title | escape }}</a></li>{% else %}<li>{{ slug | escape }}</li>{% endif %}{% endfor %}</ol>{% endif %}</article>
