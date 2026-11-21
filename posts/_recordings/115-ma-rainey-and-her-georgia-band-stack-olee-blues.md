@@ -23,7 +23,7 @@ urls:
   - "https://ccblues.com/artists/ma-rainey/"
   - "https://www.youtube.com/watch?v=Lfz03gTAU_M"
 images:
-  - "media/115-ma-rainey-and-her-georgia-band-stack-o-lee-blues-2.jpg | STACK O'LEE BLUES : Ma Rainey and her Georgia Band : Free Download, Borrow, and Streaming : Internet Archive; source: https://archive.org/details/78_stack-olee-blues_ma-rainey-and-her-georgia-band-joe-smith-taylor-williams_gbia0253947b"
+  - "media/115-ma-rainey-and-her-georgia-band-cell-bound-blues-and-stack-olee-blues.jpg | STACK O'LEE BLUES : Ma Rainey and her Georgia Band : Free Download, Borrow, and Streaming : Internet Archive; source: https://archive.org/details/78_stack-olee-blues_ma-rainey-and-her-georgia-band-joe-smith-taylor-williams_gbia0253947b"
 ---
 
 Ma Rainey recorded “Cell Bound Blues” in New York on 16 October 1924. The song gives the voice of a woman facing confinement after a killing. In December 1925, Rainey and her Georgia Band recorded “Stack O’Lee Blues,” returning to the Stagolee murder story. Heard together, the two sides turn crime, punishment and public legend into blues narrative. The National Museum of African American History and Culture describes Rainey as one of the earliest African American professional blues singers and records that she retired from performing in 1935. Both recordings belong in one artist entry: the catalogue keeps the two sides together rather than making a separate post for each song.

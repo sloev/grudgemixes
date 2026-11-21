@@ -12,7 +12,7 @@ tracks:
   - "garuta-1944-premiere-tape"
   - "propeller-1980"
 images:
-  - "media/007-say-it-without-saying-it-2.jpg | File:And without proving what we say, ... 1648 (IA bim early-english-books-1641-1700 and-without-proving-what douglas-lady-eleanor 1648).pdf; source: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/And_without_proving_what_we_say%2C_..._1648_%28IA_bim_early-english-books-1641-1700_and-without-proving-what_douglas-lady-eleanor_1648%29.pdf/page1-500px-And_without_proving_what_we_say%2C_..._1648_%28IA_bim_early-english-books-1641-1700_and-without-proving-what_douglas-lady-eleanor_1648%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  - "media/007-say-it-without-saying-it.jpg | File:And without proving what we say, ... 1648 (IA bim early-english-books-1641-1700 and-without-proving-what douglas-lady-eleanor 1648).pdf; source: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/And_without_proving_what_we_say%2C_..._1648_%28IA_bim_early-english-books-1641-1700_and-without-proving-what_douglas-lady-eleanor_1648%29.pdf/page1-500px-And_without_proving_what_we_say%2C_..._1648_%28IA_bim_early-english-books-1641-1700_and-without-proving-what_douglas-lady-eleanor_1648%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
 ---
 
 A mixtape about what happens when someone in power decides a song is dangerous.

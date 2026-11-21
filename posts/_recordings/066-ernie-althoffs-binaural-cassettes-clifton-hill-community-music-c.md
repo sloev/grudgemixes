@@ -17,7 +17,7 @@ recording_url: ""
 urls:
   - "https://www.listeningtothearchive.com/artists/ernie-althoff"
 images:
-  - "media/066-ernie-althoff-s-binaural-cassettes-clifton-hill-community-music-centre.jpg | Clifton Hill Community Music Centre (1976 – 83); source: https://www.listeningtothearchive.com/artists/ernie-althoff"
+  - "media/066-ernie-althoff-s-binaural-cassettes-clifton-hill-community-music-centre-2.jpg | Clifton Hill Community Music Centre (1976 – 83); source: https://www.listeningtothearchive.com/artists/ernie-althoff"
 ---
 
 **Where and when:** Melbourne, Australia; Date(s): 1976–83; Medium: Cassette

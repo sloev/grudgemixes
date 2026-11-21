@@ -17,7 +17,7 @@ recording_url: ""
 urls:
   - "https://iranicaonline.org/articles/qamar-vaziri"
 images:
-  - "media/150-qamar-ol-moluk-vaziri-192425.jpg | QAMAR-AL-MOLUK VAZIRI - Encyclopaedia Iranica; source: https://www.iranicaonline.org/articles/qamar-vaziri/"
+  - "media/150-qamar-ol-moluk-vaziri-192425-2.jpg | QAMAR-AL-MOLUK VAZIRI - Encyclopaedia Iranica; source: https://www.iranicaonline.org/articles/qamar-vaziri/"
 ---
 
 first concert at Tehran's Grand Hotel in 1924, the first public appearance of an Iranian woman singer before men without the veil. Featured on more than half of the 1925 sessions per the Honest Jon's compilation; later Polyphon 78s from 1927–28. One disc mourns the assassinated poet Mirzādeh Eshqi.

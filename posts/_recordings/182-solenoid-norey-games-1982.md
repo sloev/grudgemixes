@@ -18,7 +18,7 @@ recording_url: ""
 urls:
   - "https://archaicinventions.blogspot.com/2013/05/solenoid-norey-games-1982-tape-private.html"
 images:
-  - "media/182-solenoid-hand-out-one-strange-cassette-at-a-party-2.jpg | Archaic Inventions: Solenoid - Norey Games -1982- (Tape, Private Release), Holland; source: https://archaicinventions.blogspot.com/2013/05/solenoid-norey-games-1982-tape-private.html"
+  - "media/182-solenoid-hand-out-one-strange-cassette-at-a-party.jpg | Archaic Inventions: Solenoid - Norey Games -1982- (Tape, Private Release), Holland; source: https://archaicinventions.blogspot.com/2013/05/solenoid-norey-games-1982-tape-private.html"
 ---
 
 Solenoid were an experimental pop group from Harderwijk, active in 1981 and 1982. Their cassette *Norey Games* was a private release, handed out at a party in the summer of 1982 rather than sent through shops. The band began with guitar, bass, voice, organ and a rhythm box, then widened the palette with drums, crackle box, toy instruments, trumpet, saxophone and manipulated tape.
