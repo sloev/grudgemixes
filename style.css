@@ -227,3 +227,15 @@ a:active {
   .single-entry .entry-image img { max-width: 100%; max-height: 90vh; max-height: 90dvh; }
   .row-meta { overflow-wrap: anywhere; }
 }
+
+
+/* Card summaries are editorial excerpts: always show the complete summary */
+.catalogue-row .row-summary,
+.mixtape-row .row-summary {
+  display: block;
+  -webkit-box-orient: initial;
+  -webkit-line-clamp: unset;
+  line-clamp: unset;
+  overflow: visible;
+  max-height: none;
+}
