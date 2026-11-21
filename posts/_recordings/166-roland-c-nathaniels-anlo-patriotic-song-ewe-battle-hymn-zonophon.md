@@ -13,7 +13,8 @@ what: "“Anlo Patriotic Song” / “Ewe Battle Hymn” (Zonophone 3972, 1925)"
 medium: "78 rpm disc"
 tags:
   - "the-account"
-recording_url: ""
+recording_url: "https://soundofhistorypodcast.podbean.com/e/africa-in-london/"
+recording_verified: true
 urls:
   - "https://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-3926-3990/"
   - "https://www.bear-family.com/various-black-europe-the-sounds-and-images-of-black-people-in-europe-pre-1927-44-cd-box.html"
