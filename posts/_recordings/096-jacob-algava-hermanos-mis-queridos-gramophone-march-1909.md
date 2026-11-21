@@ -14,6 +14,7 @@ medium: "78 rpm disc"
 tags:
   - "the-account"
 recording_url: "https://music.apple.com/us/album/hermanos-mis-queridos-feat-jacob-algava/1540566417?i=1540566424"
+recording_verified: true
 urls:
   - "https://jewish-music.huji.ac.il/media/4583/download/"
   - "https://vmrebetiko.gr/en/item-en/?id=11154"
