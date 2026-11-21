@@ -3,4 +3,23 @@ layout: default
 title: Mixtapes
 permalink: /mixtapes/
 ---
-<h1>Mixtapes</h1><p>Collections of recordings that already have their own stories.</p><div class="post-list">{% assign mixtapes = site.mixtapes | sort: "date" | reverse %}{% for post in mixtapes %}<article class="post-card"><h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>{% if post.description %}<p>{{ post.description | escape }}</p>{% endif %}</article>{% endfor %}</div>
+<section class="catalogue-heading mixtape-heading">
+  <p class="eyebrow">Sequences &amp; counter-archives</p>
+  <h1>Mixtapes</h1>
+  <p>Collections of recordings that already have their own stories.</p>
+</section>
+<div class="catalogue-list mixtape-list">
+  {% assign mixtapes = site.mixtapes | sort: "name" %}
+  {% for post in mixtapes %}
+    {% assign catalogue_number = post.name | split: "-" | first %}
+    <article class="catalogue-row mixtape-row">
+      <div class="mixtape-mark" aria-hidden="true">SF<br>{{ catalogue_number }}</div>
+      <div class="row-content">
+        <div class="row-kicker"><span class="catalogue-number">{{ catalogue_number }}</span><span>Mixtape</span></div>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+        {% if post.description %}<p class="row-summary">{{ post.description | escape }}</p>{% endif %}
+        <p class="row-meta">{{ post.tracks.size }} tracks</p>
+      </div>
+    </article>
+  {% endfor %}
+</div>

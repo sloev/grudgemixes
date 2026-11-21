@@ -1,8 +1,11 @@
 title: Spite Frequencies
-description: "Music made where it wasn't wanted, and songs that kept the score."
+tagline: "Music made where it wasn't wanted, and songs that kept the score."
+description: >-
+  Recordings and mixtapes of music made under refusal, ban, ridicule, or accident.
+  We never mock the people who made this music.
 url: "https://sloev.github.io"
 baseurl: "/grudgemixes"
-markdown: kramdown
+
 collections_dir: posts
 collections:
   recordings:
@@ -11,6 +14,7 @@ collections:
   mixtapes:
     output: true
     permalink: /mixtapes/:name/
+
 defaults:
   - scope:
       path: ""
@@ -22,9 +26,26 @@ defaults:
       type: mixtapes
     values:
       layout: mixtape
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 feed:
+  title: Spite Frequencies
+  description: Music made where it wasn't wanted
   collections:
     - recordings
     - mixtapes
+
+twitter:
+  card: summary_large_image
+
+markdown: kramdown
+permalink: pretty
+exclude:
+  - AGENTS.md
+  - scripts
+  - README.md
+  - coop.log.md

@@ -4,12 +4,13 @@ Work directly on `main` only. Never create branches or pull requests, and never 
 
 ## Content locations
 
-- Recordings: `posts/_recordings/<slug>.md`
-- Mixtapes: `posts/_mixtapes/<slug>.md`
+- Recordings: `posts/_recordings/<NNN>-<slug>.md`
+- Mixtapes: `posts/_mixtapes/<NNN>-<slug>.md`
+- Assign one unique, incrementing, zero-padded catalogue number across both collections. Never renumber existing posts; new posts use the next unused number. Keep the original `slug` front-matter value unchanged for mixtape track references.
 - Images: `media/`
 - Templates: `_layouts/` and root listing pages.
 
-Every document in the Jekyll collections is rendered, including documents marked `draft: true`. Draft is editorial metadata only; it does not prevent publication.
+Every document in the Jekyll collections is rendered, including documents marked `draft: true`. Draft is editorial metadata only; it does not prevent publication. Catalogue numbers are the stable visible identifiers; dates remain metadata, not identifiers.
 
 ## Recording schema
 

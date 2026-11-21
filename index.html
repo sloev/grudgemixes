@@ -2,4 +2,83 @@
 layout: default
 title: Recordings
 ---
-<h1>Recordings</h1><p>Music made where it wasn't wanted, and songs that kept the score.</p><div class="post-list">{% assign recordings = site.recordings | sort: "date" | reverse %}{% for post in recordings %}<article class="post-card"><p class="post-date">{{ post.date | date: "%d %B %Y" }}</p><h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>{% if post.summary %}<p>{{ post.summary | escape }}</p>{% endif %}<p>{% if post.who %}{{ post.who | escape }} · {% endif %}{% if post.when %}{{ post.when | escape }} · {% endif %}{{ post.medium | escape }}</p></article>{% endfor %}</div>
+<section class="catalogue-heading">
+  <p class="eyebrow">A catalogue of refusal</p>
+  <h1>Recordings</h1>
+  <p>Music made under refusal, ban, ridicule, or accident. A record of sounds that would not stay quiet.</p>
+</section>
+{% assign recordings = site.recordings | sort: "name" %}
+<div class="filter-bar" data-filter-bar>
+  <label><span>Medium</span><select data-filter="medium"><option value="">All media</option></select></label>
+  <label><span>Decade</span><select data-filter="decade"><option value="">All decades</option></select></label>
+  <label><span>Country</span><select data-filter="country"><option value="">All places</option></select></label>
+  <label><span>Tag</span><select data-filter="tag"><option value="">All tags</option></select></label>
+  <button type="button" class="clear-filters" data-clear-filters>Clear</button>
+  <span class="filter-count" data-filter-count>{{ recordings.size }} recordings</span>
+</div>
+<div class="catalogue-list" data-catalogue-list>
+  {% for post in recordings %}{% include post-row.html post=post %}{% endfor %}
+</div>
+<script>
+(function () {
+  var bar = document.querySelector("[data-filter-bar]");
+  var list = document.querySelector("[data-catalogue-list]");
+  if (!bar || !list) return;
+  var rows = Array.prototype.slice.call(list.querySelectorAll("[data-catalogue-row]"));
+  var selects = Array.prototype.slice.call(bar.querySelectorAll("select[data-filter]"));
+  var count = bar.querySelector("[data-filter-count]");
+  function valuesFor(key) {
+    var values = {};
+    rows.forEach(function (row) {
+      var raw = row.getAttribute("data-" + key) || "";
+      (key === "tag" ? raw.split("|") : [raw]).forEach(function (value) {
+        value = value.trim();
+        if (value) values[value] = true;
+      });
+    });
+    return Object.keys(values).sort();
+  }
+  function label(value) { return value.replace(/\b\w/g, function (c) { return c.toUpperCase(); }); }
+  selects.forEach(function (select) {
+    var key = select.getAttribute("data-filter");
+    var values = key === "decade" ? (function () {
+      var years = {};
+      rows.forEach(function (row) {
+        var match = (row.getAttribute("data-when") || "").match(/(?:18|19|20)\d{2}/);
+        if (match) years[Math.floor(Number(match[0]) / 10) * 10 + "s"] = true;
+      });
+      return Object.keys(years).sort();
+    }()) : valuesFor(key);
+    values.forEach(function (value) {
+      var option = document.createElement("option");
+      option.value = value;
+      option.textContent = label(value);
+      select.appendChild(option);
+    });
+    select.addEventListener("change", apply);
+  });
+  function apply() {
+    var active = {};
+    selects.forEach(function (select) { active[select.getAttribute("data-filter")] = select.value; });
+    var visible = 0;
+    rows.forEach(function (row) {
+      var match = true;
+      if (active.medium && row.getAttribute("data-medium") !== active.medium) match = false;
+      if (active.country && row.getAttribute("data-country") !== active.country) match = false;
+      if (active.tag && (row.getAttribute("data-tags") || "").split("|").indexOf(active.tag) === -1) match = false;
+      if (active.decade) {
+        var year = (row.getAttribute("data-when") || "").match(/(?:18|19|20)\d{2}/);
+        if (!year || Math.floor(Number(year[0]) / 10) * 10 + "s" !== active.decade) match = false;
+      }
+      row.hidden = !match;
+      if (match) visible++;
+    });
+    if (count) count.textContent = visible + " of " + rows.length + " recordings";
+  }
+  bar.querySelector("[data-clear-filters]").addEventListener("click", function () {
+    selects.forEach(function (select) { select.value = ""; });
+    apply();
+  });
+  apply();
+}());
+</script>

@@ -1,4 +1,23 @@
 ---
 layout: default
 ---
-<article class="post"><p><a href="{{ '/' | relative_url }}">← All recordings</a></p><h1>{{ page.title | escape }}</h1>{% if page.summary %}<p class="summary">{{ page.summary | escape }}</p>{% endif %}<dl>{% assign fields = "who,when,where,country,what,medium" | split: "," %}{% for field in fields %}{% assign value = page[field] %}{% if value and value != "" %}<dt>{{ field | capitalize }}</dt><dd>{{ value | escape }}</dd>{% endif %}{% endfor %}</dl>{% if page.recording_url and page.recording_url != "" %}<p><a href="{{ page.recording_url }}">Listen to the recording ↗</a></p>{% endif %}{% if page.images and page.images.size > 0 %}{% assign image_parts = page.images[0] | split: " | " %}<figure><img src="{{ '/' | append: image_parts[0] | relative_url }}" alt="{{ image_parts[1] | default: page.title | escape }}"><figcaption>{{ image_parts[1] | escape }}</figcaption></figure>{% endif %}<div class="post-body">{{ content }}</div>{% if page.urls and page.urls.size > 0 %}<h2>Sources and further listening</h2><ul>{% for url in page.urls %}<li><a href="{{ url }}">{{ url }}</a></li>{% endfor %}</ul>{% endif %}</article>
+{% assign catalogue_number = page.name | split: "-" | first %}
+<article class="single-entry">
+  <p class="back-link"><a href="{{ '/' | relative_url }}">← Recordings</a></p>
+  <p class="entry-kicker"><span class="catalogue-number">{{ catalogue_number }}</span><span>Recording</span></p>
+  <h1>{{ page.title | escape }}</h1>
+  <p class="entry-meta">{% if page.who %}{{ page.who | escape }}{% endif %}{% if page.when %}<span> · </span>{{ page.when | escape }}{% endif %}{% if page.where %}<span> · </span>{{ page.where | escape }}{% endif %}{% if page.medium %}<span> · </span>{{ page.medium | escape }}{% endif %}</p>
+  {% if page.summary %}<p class="entry-summary">{{ page.summary | escape }}</p>{% endif %}
+  {% if page.images and page.images.size > 0 %}
+    {% assign image_parts = page.images[0] | split: " | " %}
+    <figure class="entry-image"><img src="{{ '/' | append: image_parts[0] | relative_url }}" alt="{{ image_parts[1] | default: page.title | escape }}"><figcaption>{{ image_parts[1] | escape }}</figcaption></figure>
+  {% endif %}
+  {% include facts.html post=page %}
+  <div class="prose">{{ content }}</div>
+  {% if page.recording_url and page.recording_url != "" %}
+    <section class="listen-section"><h2>Listen</h2><a class="source-link" href="{{ page.recording_url }}">Open recording ↗</a></section>
+  {% endif %}
+  {% if page.urls and page.urls.size > 0 %}
+    <section class="sources"><h2>Sources &amp; further listening</h2><ol>{% for url in page.urls %}<li><a href="{{ url }}">{{ url }}</a></li>{% endfor %}</ol></section>
+  {% endif %}
+</article>

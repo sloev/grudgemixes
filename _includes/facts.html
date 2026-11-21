@@ -1,0 +1,8 @@
+<dl class="facts">
+  {% assign fields = "who,when,where,country,what,medium" | split: "," %}
+  {% for field in fields %}
+    {% assign value = include.post[field] %}
+    {% if value and value != "" %}<dt>{{ field | capitalize }}</dt><dd>{{ value | escape }}</dd>{% endif %}
+  {% endfor %}
+  {% if include.post.tags and include.post.tags.size > 0 %}<dt>Tags</dt><dd>{% for tag in include.post.tags %}<span class="tag-pill">{{ tag | replace: "-", " " }}</span>{% unless forloop.last %} {% endunless %}{% endfor %}</dd>{% endif %}
+</dl>

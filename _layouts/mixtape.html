@@ -1,4 +1,21 @@
 ---
 layout: default
 ---
-<article class="post"><p><a href="{{ '/mixtapes/' | relative_url }}">← All mixtapes</a></p><h1>{{ page.title | escape }}</h1>{% if page.description %}<p class="summary">{{ page.description | escape }}</p>{% endif %}<div class="post-body">{{ content }}</div>{% if page.tracks %}<h2>Tracks</h2><ol>{% for slug in page.tracks %}{% assign track = site.recordings | where: "slug", slug | first %}{% if track %}<li><a href="{{ track.url | relative_url }}">{{ track.title | escape }}</a></li>{% else %}<li>{{ slug | escape }}</li>{% endif %}{% endfor %}</ol>{% endif %}</article>
+{% assign catalogue_number = page.name | split: "-" | first %}
+<article class="single-entry mixtape-entry">
+  <p class="back-link"><a href="{{ '/mixtapes/' | relative_url }}">← Mixtapes</a></p>
+  <p class="entry-kicker"><span class="catalogue-number">{{ catalogue_number }}</span><span>Mixtape</span></p>
+  <h1>{{ page.title | escape }}</h1>
+  {% if page.description %}<p class="entry-summary">{{ page.description | escape }}</p>{% endif %}
+  {% if page.images and page.images.size > 0 %}{% assign image_parts = page.images[0] | split: " | " %}<figure class="entry-image"><img src="{{ '/' | append: image_parts[0] | relative_url }}" alt="{{ image_parts[1] | default: page.title | escape }}"><figcaption>{{ image_parts[1] | escape }}</figcaption></figure>{% endif %}
+  <div class="prose">{{ content }}</div>
+  {% if page.tracks %}
+    <section class="track-section"><h2>Tracklist</h2><ol class="tracklist">
+      {% for slug in page.tracks %}
+        {% assign track = site.recordings | where: "slug", slug | first %}
+        {% if track %}{% assign track_number = track.name | split: "-" | first %}<li><span class="track-number">{{ forloop.index | prepend: "0" | slice: -2, 2 }}</span><a href="{{ track.url | relative_url }}">{{ track.title | escape }}</a><span class="track-catalogue">SF {{ track_number }}</span></li>
+        {% else %}<li><span class="track-number">{{ forloop.index }}</span><span>{{ slug | escape }}</span><span class="track-missing">Post not found</span></li>{% endif %}
+      {% endfor %}
+    </ol></section>
+  {% endif %}
+</article>
