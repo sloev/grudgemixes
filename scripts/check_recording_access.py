@@ -78,6 +78,9 @@ def main():
         if data.get("draft") is True:
             failures.append((path.relative_to(ROOT), "draft is still included in the public collection"))
             continue
+        if data.get("recording_verified") is not True:
+            failures.append((path.relative_to(ROOT), "recording playback is not manually verified"))
+            continue
         valid_url, why_url = usable_url(data.get("recording_url"), "recording_url")
         valid_embed, why_embed = usable_url(data.get("recording_embed_url"), "recording_embed_url")
         if not (valid_url or valid_embed):
