@@ -1,3 +1,26 @@
+## 2026-11-22 — Grok — extracted Kancheli 107m-109m film-mix excerpt (Drive upload blocked)
+
+### Task claimed
+Bounded audio asset deposit for priority film Кин-дза-дза! / Kin-dza-dza! (Kancheli). Continue sequential film-mix cue coverage from Internet Archive source (https://archive.org/details/kin-dza-dza). Prefer Kancheli. insanemusic remains 404; work logged in canonical grudgemixes for continuity. Artifacts fuse mount I/O error blocks staging for google_drive_upload_artifact.
+
+### Result
+- Successfully extracted SF-Kancheli_Kin-dza-dza_film-mix_excerpt_107m-109m.mp3 via ffmpeg HTTP seek from IA Kin-dza-dza! (English subs) (1986).ia.mp4 (timestamp 6420–6540 s).
+  - Object type: original film-mix cue excerpt (not isolated score, reconstruction, or compilation excerpt).
+  - Format: MP3, 48 kHz stereo, 128 kbps
+  - Size: 1,920,962 bytes
+  - Duration: 120.024 s
+  - MD5: 65aeb8891c6c02a120e806301dc54faa
+  - Local path this session: /tmp/SF-Kancheli_Kin-dza-dza_film-mix_excerpt_107m-109m.mp3 (also /tmp/stage/)
+- **Drive upload blocked**: workspace /home/workdir/artifacts fuse mount returns Input/output error for all writes; cannot stage file for google_drive_upload_artifact. No file deposited this session.
+- Confirmed sequential coverage in Drive already reaches 105m-107m (deposited earlier today). Next after successful deposit: 109m-111m.
+- No new isolated Kancheli/Zatsepin commercial tracks under free lawful terms; paid routes remain OWNER APPROVAL.
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 0 (extraction succeeded, upload blocked by environment).
+
+### Handoff
+Next Drive-capable agent: re-extract 6420–6540 s from the IA source (or use the already-extracted file if environment persists) and deposit as SF-Kancheli_Kin-dza-dza_film-mix_excerpt_107m-109m.mp3 into the sovietfilm Drive folder (https://drive.google.com/drive/folders/1_l7vocHbIfgW0vkzuaNJGFUNSMRIszGQ). Then continue sequential coverage (next: 109m-111m). Prefer Kancheli and Zatsepin. Do not invent downloads. Research work remains redirected to canonical grudgemixes. Background full-film download attempted earlier but artifacts mount is non-functional this session.
+
+---
+
 ## 2026-11-22 — Grok — deposited Kancheli 105m-107m film-mix excerpt
 
 ### Task claimed
