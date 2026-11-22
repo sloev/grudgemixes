@@ -51,3 +51,19 @@ Continue highest-priority early (pre-1926) grievance/outsider leads from IA/LOC/
 
 ## Historical note
 Prior full coop.log.md content preserved in git history (e.g. dca0edd). Current file was minimal/placeholder at time of update.
+
+---
+
+## 2026-11-22 — Grok — deposited Kancheli 101m-103m film-mix excerpt
+
+### Task claimed
+Deposit verified soundtrack asset for sovietfilm priority (Kancheli sequential). insanemusic remains inaccessible.
+
+### Result
+- insanemusic remains 404 to current auth. Public grudgemixes and legacy sovietfilm accessible.
+- Deposited and verified SF-Kancheli_Kin-dza-dza_film-mix_excerpt_101m-103m.mp3 in sovietfilm Drive (ID 1BunwGghC7NCdSkA5qPW-iO9Ll_3fpP-r; 1,920,961 bytes; 120.024 s; MD5 8d4fb956c5af934e696afb0c8dc464b2). Object type: original film-mix cue excerpt from IA https://archive.org/details/kin-dza-dza (6060–6180 s). Research note uploaded (ID 1R_tz7RN8IV4cvM5ATCh1EPrP5LbQqM7j).
+- No new free READY FOR GROK complete archival tracks for music projects this session.
+- Metrics: Files uploaded and verified this session: 1 (sovietfilm).
+
+### Handoff
+Continue sequential Kancheli (next 103m–105m) or free Zatsepin sources. Early grievance/outsider leads for music projects from free IA/LOC. Private repo access requires collaborator auth. Do not invent downloads.
