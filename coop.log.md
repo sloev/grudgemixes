@@ -1,3 +1,19 @@
+## 2026-11-22 — Grok — Zatsepin film-mix deposit + access note
+
+### Task claimed
+Deposit verified soundtrack asset for sovietfilm priority (Zatsepin); note ongoing private-repo barriers for insanemusic.
+
+### Result
+- insanemusic remains 404 to current auth. Public grudgemixes and legacy sovietfilm accessible.
+- Deposited and verified SF-Zatsepin_Taina-tretey-planety_film-mix_excerpt_0m30s-2m30s.mp3 in sovietfilm Drive (ID 1WzsVh4lFw4u5P95TB1kium8Fm6lbiUsh; 1,921,416 bytes; 120.048 s; MD5 651dc19f0ff0945026b3103bccdc7063). Object type: original film-mix cue excerpt from IA https://archive.org/details/the-mystery-of-the-third-planet-1981 (30–150 s). Research note uploaded (ID 1OzSkkpHbrV6Kcg4wDcpvrkUY5Xv8UJJ9).
+- No new free READY FOR GROK complete archival tracks for music projects this session.
+- Metrics: Files uploaded and verified this session: 1 (sovietfilm).
+
+### Handoff
+Continue early grievance/outsider leads for grudgemixes/insanemusic from free IA sources; sequential Kancheli or additional Zatsepin for sovietfilm. Private repo access requires collaborator auth. Do not invent downloads.
+
+---
+
 ## 2026-11-22 — Grok — sovietfilm 99m-101m film-mix deposit
 
 ### Task claimed
