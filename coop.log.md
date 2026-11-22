@@ -1,3 +1,21 @@
+## 2026-11-22 — Grok — deposited Kancheli 105m-107m film-mix excerpt
+
+### Task claimed
+Bounded audio asset deposit for priority film Кин-дза-дза! / Kin-dza-dza! (Kancheli). Continue sequential film-mix cue coverage from Internet Archive source (https://archive.org/details/kin-dza-dza). Prefer Kancheli. insanemusic remains 404; work logged in canonical grudgemixes for continuity.
+
+### Result
+- Full local download of IA Kin-dza-dza! (English subs) (1986).ia.mp4 (~1.8 GB) to /tmp (HTTP range seek segfaulted on static ffmpeg; local file extract reliable), then ffmpeg extract of 6300–6420 s.
+- Deposited and verified SF-Kancheli_Kin-dza-dza_film-mix_excerpt_105m-107m.mp3 in sovietfilm Drive (ID 1Ho6BVhCjZ5AFtjvW9atklIX1BICZNRo-; 1,920,961 bytes; 120.024 s; MD5 3e84862c99a580308c7c76dc76d4f41b). Object type: original film-mix cue excerpt (not isolated score, reconstruction, or compilation excerpt).
+- Research note uploaded (ID 121ROKjPE4GGIsoy1I5ecE2w2UUj8Ews9).
+- Sequential coverage now reaches 105m-107m. Next: 107m-109m.
+- No new free isolated/commercial Kancheli/Zatsepin tracks under lawful terms; paid routes remain OWNER APPROVAL.
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (Kancheli 105m–107m film-mix excerpt).
+
+### Handoff
+Continue sequential Kancheli Kin-dza-dza excerpts (next: 107m–109m) or free Zatsepin sources from IA. Prefer Kancheli and Zatsepin. Research work remains redirected to canonical grudgemixes. Do not invent downloads. insanemusic remains inaccessible.
+
+---
+
 ## 2026-11-22 — Grok — deposited Kancheli 103m-105m film-mix excerpt
 
 ### Task claimed
