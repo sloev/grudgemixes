@@ -24,7 +24,21 @@
     <h2><a href="{{ include.post.url | relative_url }}">{{ include.post.title | escape }}</a></h2>
     {% if include.post.summary %}<p class="row-summary">{{ include.post.summary | escape }}</p>{% endif %}
     <div class="row-footer">
-      <div class="row-meta"><span class="catalogue-number">#{{ catalogue_number }}</span>{% include metadata.html post=include.post compact=true %}</div>
+      <div class="row-meta">
+        <span class="catalogue-number">#{{ catalogue_number }}</span>
+        {% assign meta_artist = include.post.artist | default: include.post.who %}
+        {% assign meta_year = include.post.recording_year | default: include.post.when %}
+        {% assign meta_location = include.post.location | default: include.post.where %}
+        {% if meta_artist or meta_year or meta_location %}
+        <p class="listing-meta">{% if meta_artist %}{{ meta_artist | escape }}{% endif %}{% if meta_year %}{% if meta_artist %} · {% endif %}{{ meta_year | escape }}{% endif %}{% if meta_location %}{% if meta_artist or meta_year %} · {% endif %}{{ meta_location | escape }}{% endif %}</p>
+        {% endif %}
+        {% if include.post.tags and include.post.tags.size > 0 %}
+        <p class="listing-tags">
+          {% for tag in include.post.tags limit:3 %}<span class="tag">{{ tag | escape }}</span>{% endfor %}
+          {% if include.post.tags.size > 3 %}<span class="tag">+{{ include.post.tags.size | minus: 3 }}</span>{% endif %}
+        </p>
+        {% endif %}
+      </div>
       <a class="read-more" href="{{ include.post.url | relative_url }}">Read more →</a>
     </div>
   </div>
