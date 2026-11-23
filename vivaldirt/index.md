@@ -9,7 +9,7 @@ permalink: /vivaldirt/
 
 <article class="single-entry special-entry">
   <p class="back-link"><a href="{{ '/' | relative_url }}">← Recordings</a></p>
-  <p class="entry-kicker"><span class="catalogue-number">ONLINE WORK · 2026</span></p>
+  <p class="entry-kicker"><span class="catalogue-number">DIGITAL WORK</span></p>
   <h1>VivaldiRT</h1>
   <p class="entry-summary">Four Seasons in Real Time.</p>
   <div class="prose">
@@ -23,6 +23,5 @@ permalink: /vivaldirt/
   <section class="listen-section">
     <h2>Listen</h2>
     <p><a class="source-link" href="https://vivaldirt.stream">Open VivaldiRT ↗</a></p>
-    <div class="recording-player"><iframe src="https://vivaldirt.stream" title="VivaldiRT — Four Seasons in Real Time" loading="lazy"></iframe></div>
   </section>
 </article>
