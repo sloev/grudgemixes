@@ -44,8 +44,12 @@ Use `type: collection`, then `title`, `slug`, `date`, `draft`, `description`, `t
 - Never publish recordings of patients, prisoners, detainees, Indigenous or sacred material, minors, or private people unless consent from makers or their community is documented. Private speech (letters, calls, diaries, therapy) is never published.
 - Never mock makers. Do not reproduce lyrics or long quotations; paraphrase and state uncertainty.
 - Never upload copyrighted audio. Link to or embed the rights-holder's public player.
-- Use only public-domain or freely licensed images, with author, licence, caption and source. No photographs of people.
-- Prefer under-represented regions and languages, women's voices, and local-language archives.
+- Images are encouraged when they add historical, cultural, visual, or human context. There is no blanket ban on photographs or illustrations of people: portraits of artists, performers, inventors, composers, collectors, communities, and other historically relevant people are welcome.
+- Prefer images of the actual performer, instrument, recording session, original sleeve/label, venue, or contemporary ephemera. If no direct image survives, use a clearly captioned contextual image rather than leaving the post visually empty.
+- Do not require images to depict only objects, instruments, or places. A relevant portrait is often the best image, especially for obscure or forgotten people.
+- Use public-domain, openly licensed, or otherwise permission-cleared images. Record the creator/photographer, source, licence or rights statement, and a useful caption. Link to the source record where possible; do not strip attribution or imply that a contextual image documents the exact recording.
+- Do not use images where the source or rights are unclear merely to fill a gap. Respect privacy and cultural restrictions for living private individuals, vulnerable people, sacred materials, and communities; the existing consent and ethics rules still apply.
+- Prefer under-represented regions and languages, women's voices, and local-language archives. Search beyond the most obvious English-language collections and do not reject a strong image just because it includes people.
 
 
 ## Public catalogue gate
