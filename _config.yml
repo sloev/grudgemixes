@@ -28,16 +28,8 @@ defaults:
       layout: mixtape
 
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-
-feed:
-  title: Spite Frequencies
-  description: Music made where it wasn't wanted
-  collections:
-    - recordings
-    - mixtapes
 
 twitter:
   card: summary_large_image
