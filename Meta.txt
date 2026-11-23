@@ -1,0 +1,505 @@
+================================================================================
+POST 1: The Ballad of Hicks Carmichael (1937)
+================================================================================
+DESCRIPTION: Field recording from the Edwin C. and Mary Kirkland collection (1937-1939) featuring Sam "Dynamite" Hatcher singing "Hicks Carmichael" ("Hicks' Farewell"), issued on Tennessee Folklore Society LP TFS-106 in 1984.
+DETAILS: Performer: Sam "Dynamite" Hatcher; Recorded/filed: 1937 (July 29, 1937 in folk index); LP: "The Kirkland Recordings - Newly Discovered Field Recordings From Tennessee and North Carolina 1937-1939" (Tennessee Folklore Society TFS-106, 1984, produced by Charles K. Wolfe, restored at Country Music Foundation).
+RECORDING LINK: Not verified as a standalone direct audio link in current search snippets; LP video reference indexed at https://www.discogs.com/release/7536163-Various-The-Kirkland-Recordings-Newly-Discovered-Field-Recordings-From-Tennessee-and-North-Carolina-.
+IMAGE / IMAGE LEAD: Discogs release entry lists cover/LP imagery at https://www.discogs.com/release/7536163-Various-The-Kirkland-Recordings-Newly-Discovered-Field-Recordings-From-Tennessee-and-North-Carolina-.
+SOURCES:
+- https://www.discogs.com/release/7536163-Various-The-Kirkland-Recordings-Newly-Discovered-Field-Recordings-From-Tennessee-and-North-Carolina-
+- https://www.ibiblio.org/folkindex/h05.htm
+
+================================================================================
+POST 2: Timmonsville tobacco workers (1937)
+================================================================================
+DESCRIPTION: Field recording / documentary trace tied to tobacco workers in the 1937-1939 Kirkland field recordings (TFS-106 includes "Tobacco Workers - Run, Sinner, And Hide Your Face") and Timmonsville, South Carolina.
+DETAILS: LP context: "The Kirkland Recordings" (Tennessee Folklore Society TFS-106, 1984, Side B7: "Tobacco Workers - Run, Sinner, And Hide Your Face"); feed notes provisional verification for Timmonsville tobacco workers (1937).
+RECORDING LINK: Not verified as a direct standalone stream link in current search snippets (see TFS-106 release page on Discogs).
+IMAGE / IMAGE LEAD: Discogs release page for TFS-106 at https://www.discogs.com/release/7536163-Various-The-Kirkland-Recordings-Newly-Discovered-Field-Recordings-From-Tennessee-and-North-Carolina-.
+SOURCES:
+- https://www.discogs.com/release/7536163-Various-The-Kirkland-Recordings-Newly-Discovered-Field-Recordings-From-Tennessee-and-North-Carolina-
+
+================================================================================
+POST 3: John D. Weaver — "The Fox Chase" (1938)
+================================================================================
+DESCRIPTION: Fiddle performance of "The Fox Chase" by John D. Weaver of Landrum, South Carolina, recorded May 8, 1938 in Archive of Folk Culture holdings.
+DETAILS: Performer: John D. Weaver (Landrum, SC); Instrument: Fiddle; Recorded: May 8, 1938; Archival IDs: AFS 9833A3 (tape copy on LWO 5111 reel 263).
+RECORDING LINK: Not verified as a direct stream link in current search snippets; indexed in ERIC document ED276780.
+IMAGE / IMAGE LEAD: No direct image URL in search snippets; check Library of Congress Archive of Folk Culture / ERIC ED276780 holdings.
+SOURCES:
+- https://files.eric.ed.gov/fulltext/ED276780.pdf
+
+================================================================================
+POST 4: Yoshida Naramaru II (Victor, 1915)
+================================================================================
+DESCRIPTION: Early 20th-century Japanese phonograph / naniwa-bushi context associated with Yoshida Naramaru II and Victor.
+DETAILS: Artist: Yoshida Naramaru II; Era/Label: Victor c. 1915 (prewar Japanese phonograph history).
+RECORDING LINK: Not verified as a direct public recording link in current search snippets.
+IMAGE / IMAGE LEAD: No direct image URL in search snippets.
+SOURCES:
+- Feed entry: https://sloev.github.io/grudgemixes/feed.xml
+
+================================================================================
+POST 5: Vahan Boyajian — "Derzor Dasdaanaci" (Bilbil 2, c. 1925)
+================================================================================
+DESCRIPTION: Armenian 78 rpm recording ("Derzor Desdani" / "Derzor Destanaci" / "Derzor Dasdaanaci") by Vahan Boyajian (Boyacıyan), issued on Bilbil Record No. 2 (paired with "Damdan Deushdim Dalgalaniyorim") and later included on Kalan Muzik's "Armenians in America on 78 RPM" (2021).
+DETAILS: Artist: Vahan Boyajian [Boyacıyan]; Title: "Derzor Dasdaanaci" / "Derzor Destanaci" / "Derzor Desdani"; Label: Bilbil Record No. 2 (10" 78 RPM shellac); 2021 reissue via Kalan Muzik from the Ara Dinkjian Archive.
+RECORDING LINK: https://www.youtube.com/watch?v=JZ6r1Zhdxog (also https://www.youtube.com/watch?v=VtcSavLRWpE).
+IMAGE / IMAGE LEAD: Discogs release entry at https://www.discogs.com/release/18980602-Vahan-Boyajian-Derzor-Desdani-Damdan-Deushdim-Dalgalaniyorim.
+SOURCES:
+- https://www.discogs.com/release/18980602-Vahan-Boyajian-Derzor-Desdani-Damdan-Deushdim-Dalgalaniyorim
+- https://www.youtube.com/watch?v=JZ6r1Zhdxog
+- https://www.youtube.com/watch?v=VtcSavLRWpE
+
+================================================================================
+POST 6: The Tashjian family (Columbia, 1909-1910)
+================================================================================
+DESCRIPTION: Early Armenian-American recordings by Mardiros Der Sarkis Tashjian and the Tashjian Brothers for Columbia Phonograph Company (starting with six songs in 1909 and continuing in 1910), featured in the Armenian Museum of America Sound Archive.
+DETAILS: Artists: Mardiros Der Sarkis Tashjian and the Tashjian Brothers; Label: Columbia Phonograph Company (1909-1910), including "Hairenikt Mortsir" ("Haireniked, Mortzir").
+RECORDING LINK: Featured in the Armenian Museum of America Sound Archive at https://www.armenianmuseum.org/sound-archive/the-tashjian-brothers (and https://www.armenianmuseum.org/sound-archive/tashjian-story).
+IMAGE / IMAGE LEAD: Project SAVE Armenian Photograph Archives / Armenian Museum of America features photographs of Mardiros Der Sarkis Tashjian and a 1909 Columbia record label (via https://armenianweekly.com/2021/03/19/armenian-museum-of-america-launches-fourth-virtual-series-with-focus-on-early-recordings/ and https://www.armenianmuseum.org/sound-archive/tashjian-story).
+SOURCES:
+- https://www.armenianmuseum.org/sound-archive/the-tashjian-brothers
+- https://www.armenianmuseum.org/sound-archive/tashjian-story
+- https://armenianweekly.com/2021/03/19/armenian-museum-of-america-launches-fourth-virtual-series-with-focus-on-early-recordings/
+
+================================================================================
+POST 7: Solenoid (1982)
+================================================================================
+DESCRIPTION: Experimental Dutch group from Harderwijk (active 1981-1982) connected to cassette culture and De Fabriek; "Norey Games" (1982) was a private-release cassette compiling live performances and tape experiments.
+DETAILS: Group: Solenoid (Harderwijk, Netherlands; squat/space Het Moeras); Active: 1981-1982; Releases include "Solenoid goes Fabriek" (1981), "Silex Hippopola" (1982, New Bulwark), and "Norey Games" (1982 private tape).
+RECORDING LINK: https://www.youtube.com/watch?v=dQkrf1nGwo4 ("Alice ou la dernière fugue", from "Norey Games" 1982); artist page at https://www.nts.live/artists/246625-solenoid.
+IMAGE / IMAGE LEAD: Archaic Inventions blog post at http://archaicinventions.blogspot.com/2013/05/solenoid-norey-games-1982-tape-private.html.
+SOURCES:
+- http://archaicinventions.blogspot.com/2013/05/solenoid-norey-games-1982-tape-private.html
+- https://www.youtube.com/watch?v=dQkrf1nGwo4
+- https://www.nts.live/artists/246625-solenoid
+
+================================================================================
+POST 8: Paddy Ladd (1990)
+================================================================================
+DESCRIPTION: Deaf writer and artist Paddy Ladd's song ("You Can Lie Through Your Teeth"), preserved in BBC See Hear archives and later adapted into an all-Deaf music/video project covered by Limping Chicken.
+DETAILS: Creator: Paddy Ladd; Archive: BBC See Hear archives; covered in Limping Chicken (November 8, 2013).
+RECORDING LINK: Not verified as a standalone public recording link in current search snippets (referenced via BBC See Hear archives on Limping Chicken).
+IMAGE / IMAGE LEAD: Limping Chicken article at https://limpingchicken.com/2013/11/08/deaf-news-all-deaf-team-create-a-first-for-british-music/.
+SOURCES:
+- https://limpingchicken.com/2013/11/08/deaf-news-all-deaf-team-create-a-first-for-british-music/
+
+================================================================================
+POST 9: Ma Rainey — "Cell Bound Blues" / "Stack O'Lee Blues" (1924-1925)
+================================================================================
+DESCRIPTION: Blues recordings by Ma Rainey, including "Stack O'Lee Blues" (reissued on Yazoo / Ma Rainey Vol. 3 collections).
+DETAILS: Artist: Ma Rainey; Repertoire: "Stack O'Lee Blues" (and "Cell Bound Blues" in the feed).
+RECORDING LINK: https://www.youtube.com/watch?v=Toq21ospoeU ("Stack O' Lee Blues"); Apple Music release listing at https://music.apple.com/us/album/ma-rainey-vol-3-1925-1926/91794838.
+IMAGE / IMAGE LEAD: Album/release listings at https://music.apple.com/us/album/ma-rainey-vol-3-1925-1926/91794838.
+SOURCES:
+- https://www.youtube.com/watch?v=Toq21ospoeU
+- https://music.apple.com/us/album/ma-rainey-vol-3-1925-1926/91794838
+
+================================================================================
+POST 10: Hora Est (1985)
+================================================================================
+DESCRIPTION: 1985 Dutch experimental / lo-fi electronic / musique concrète / dark ambient home-taped cassette ("Hora Est"), dedicated to Willem Vermandere with thanks to Revista Studios.
+DETAILS: Release: "Hora Est" (Cassette, 1985, Netherlands); Tracks include "Intro", "Nasty Young One", "Wonder Baby", "Fishing", "Uturkulu", "Gymnastics", "Stuk VIII", "Zummusik", "Casiobility", "Continuum", and "Violinen".
+RECORDING LINK: https://www.youtube.com/watch?v=rNVGUlctVKI (full cassette upload; also indexed on Discogs release r1467375).
+IMAGE / IMAGE LEAD: Discogs release page at https://www.discogs.com/release/1467375-Hora-Est-Hora-Est.
+SOURCES:
+- https://www.discogs.com/release/1467375-Hora-Est-Hora-Est
+- https://www.youtube.com/watch?v=rNVGUlctVKI
+
+================================================================================
+POST 11: Helen Paul (Columbia, April 1918)
+================================================================================
+DESCRIPTION: April 1918 New York recording session by Armenian soprano/vocalist Helen Paul at Columbia Records' Woolworth Building studios (233 Broadway), capturing two songs ("Tzain ma Hunchetz" and "Mer Hairenik").
+DETAILS: Artist: Helen Paul (soprano); Session: April 1918, Columbia Records studio, Woolworth Building, 233 Broadway, Lower Manhattan, NYC; Tracks: "Tzain ma Hunchetz" and "Mer Hairenik".
+RECORDING LINK: Armenian Museum of America Sound Archive essay & audio page at https://www.armenianmuseum.org/sound-archive/helen-paul.
+IMAGE / IMAGE LEAD: Armenian Museum of America cites Archive.org imagery alongside its Sound Archive entry at https://www.armenianmuseum.org/sound-archive/helen-paul.
+SOURCES:
+- https://www.armenianmuseum.org/sound-archive/helen-paul
+- https://www.armenianmuseum.org/sound-archive
+
+================================================================================
+POST 12: George W. Johnson (1903)
+================================================================================
+DESCRIPTION: Early disc/phonograph recordings of "The Laughing Song" by pioneering Black recording artist George W. Johnson, indexed in UCSB DAHR and Discogs with early 1900s Philadelphia sessions (1902/1903).
+DETAILS: Artist: George W. Johnson; Song: "The Laughing Song"; Discography notes Victor matrix [Pre-matrix B-]583 / 583 (recorded May 5, 1903 [unconfirmed] / September 11, 1902 in Philadelphia, PA) and 1903 Columbia disc references.
+RECORDING LINK: https://www.youtube.com/watch?v=N4Om0Ee0OE0; matrix entry at https://adp.library.ucsb.edu/index.php/matrix/refer/2000000177.
+IMAGE / IMAGE LEAD: Discogs release r9840754 at https://www.discogs.com/release/9840754-Geo-W-Johnson-Laughing-Song.
+SOURCES:
+- https://adp.library.ucsb.edu/index.php/matrix/refer/2000000177
+- https://www.discogs.com/release/9840754-Geo-W-Johnson-Laughing-Song
+- https://www.youtube.com/watch?v=N4Om0Ee0OE0
+
+================================================================================
+POST 13: Echidna Aukštyn (1993)
+================================================================================
+DESCRIPTION: Lithuanian underground/experimental project led by Ramūnas Jaras ("Echidna aukštyn", active from 1990 with summer 1993 Kaunas concerts and c. 1993 cassette/underground releases blending satire, humour, and dark/paranormal textures).
+DETAILS: Artist: Echidna Aukštyn (Ramūnas Jaras / Ramūnas Takas); Year/Context: c. 1993 (Kaunas concerts and cassette release noted in The Living Archive of Underground Music and As a Journal).
+RECORDING LINK: Not verified as a direct public stream link in current search snippets.
+IMAGE / IMAGE LEAD: Lithuanian music/art coverage at https://asajournal.lt/articles/the-contours-of-paranormal-music-in-lithuania/ and https://lt.wikipedia.org/wiki/Echidna_auk%C5%A1tyn.
+SOURCES:
+- https://lt.wikipedia.org/wiki/Echidna_auk%C5%A1tyn
+- https://asajournal.lt/articles/the-contours-of-paranormal-music-in-lithuania/
+- http://livingarchive.doncampau.com/cassettes_international/northern-europe
+
+================================================================================
+POST 14: Cults Percussion Ensemble (1979)
+================================================================================
+DESCRIPTION: 1979 album by the Cults Percussion Ensemble—a teenage percussion group from Cults / Aberdeenshire, Scotland formed by teacher Ron Forbes in 1976 (average age ~14, featuring a young Evelyn Glennie), reissued by Trunk Records in 2012.
+DETAILS: Group: Cults Percussion Ensemble (Cults, suburb of Aberdeen / Aberdeenshire, Scotland); Conductor/Teacher: Ron Forbes; Recorded at Highland Studios, Inverness; Original LP: 1979 (HS001); Reissue: Trunk Records (JBH046LP / JBH046CD, 2012).
+RECORDING LINK: Not verified as a direct standalone stream link in current search snippets; Trunk Records release page at https://www.trunkrecords.com/releases/cults_12/cults.php.
+IMAGE / IMAGE LEAD: Trunk Records release page (https://www.trunkrecords.com/releases/cults_12/cults.php) and Discogs release r3986359 (https://www.discogs.com/release/3986359-Cults-Percussion-Ensemble-Cults-Percussion-Ensemble).
+SOURCES:
+- https://www.trunkrecords.com/releases/cults_12/cults.php
+- https://www.discogs.com/release/3281585-Cults-Percussion-Ensemble-Cults-Percussion-Ensemble
+- https://www.discogs.com/release/3986359-Cults-Percussion-Ensemble-Cults-Percussion-Ensemble
+
+================================================================================
+POST 15: ZeN — "Bakırköy Akıl Hastanesi'nde" (1998)
+================================================================================
+DESCRIPTION: Live concert recording by Istanbul experimental/improv group ZeN performed on June 23, 1998 at Bakırköy Psychiatric Hospital (Bakırköy Akıl Hastanesi) after an invitation from two nurses who worked there.
+DETAILS: Artist: ZeN; Title: "Bakırköy Akıl Hastanesi'nde"; Date/Time: June 23, 1998 at 14:30, Bakırköy Akıl Hastanesi, Istanbul; Releases indexed on Discogs (r9096891, r9891575).
+RECORDING LINK: Video clip indexed via The Wire at https://www.thewire.co.uk/video/video-79994.
+IMAGE / IMAGE LEAD: The Wire clip page (https://www.thewire.co.uk/video/video-79994) and Discogs release r9891575 (https://www.discogs.com/release/9891575-ZeN-Bak%C4%B1rk%C3%B6y-Ak%C4%B1l-Hastanesinde).
+SOURCES:
+- https://www.thewire.co.uk/video/video-79994
+- https://www.discogs.com/release/9891575-ZeN-Bak%C4%B1rk%C3%B6y-Ak%C4%B1l-Hastanesinde
+
+================================================================================
+POST 16: Zabelle Panosian — "Khavarel Yem" (Columbia E4010, matrix 84458)
+================================================================================
+DESCRIPTION: Armenian vocal recording "Khavarel yem" ("I Have Become Darkened") by Zabelle Panosian with instrumental trio accompaniment, cataloged on Columbia E4010 (matrix 84458) and featured in Canary Books' 2022 monograph/CD study.
+DETAILS: Artist: Zabelle Panosian (Զաբել Փանոսյան); Title: "Khavarel yem" ("Khavarel Yem"); Matrix/Release: Columbia matrix 84458, Columbia E4010 (female vocal solo with instrumental trio).
+RECORDING LINK: https://www.youtube.com/watch?v=SVm9UCr4IUU; UCSB DAHR matrix record at https://adp.library.ucsb.edu/index.php/matrix/refer/2000109973.
+IMAGE / IMAGE LEAD: Abril Books / Canary Books publication listing at https://abrilbooks.com/product/zabelle-panosian/.
+SOURCES:
+- https://adp.library.ucsb.edu/index.php/matrix/refer/2000109973
+- https://abrilbooks.com/product/zabelle-panosian/
+
+================================================================================
+POST 17: Nine cassettes from a Cape Town cellar / ZA86 (1986)
+================================================================================
+DESCRIPTION: 1986 field/radio audio diaries and recordings from South Africa during states of emergency and apartheid media restrictions, assembled from nine cassettes unlocked from the Turnstyle News archive and released as "ZA86" by The Tapeworm.
+DETAILS: Creator/Reporter: Nigel Wrench; Year/Context: 1986 South Africa (including Soweto, Jabavu, media laws); Release: "ZA86" (The Tapeworm TTW#86 mono cassette, 2015; DAT#06 WAV, 2021).
+RECORDING LINK: Project hub at https://www.za86.org/ and Discogs master/release entries (r6521446).
+IMAGE / IMAGE LEAD: Collage after a photograph by Diane McCarthy (by Martin Crawley), noted on https://www.za86.org/ and https://www.discogs.com/release/6521446-Nigel-Wrench-ZA86.
+SOURCES:
+- https://www.za86.org/
+- https://www.discogs.com/release/6521446-Nigel-Wrench-ZA86
+
+================================================================================
+POST 18: Land Norris — "You Ought to Be Arrested and Put in Jail" (Okeh 40374)
+================================================================================
+DESCRIPTION: Old-time banjo and vocal recording by Land Norris, issued on Okeh 40374 (10" 78 rpm, paired with "Fox Chase in Georgia", matrix 8703, recorded August 1924 in Atlanta, Georgia).
+DETAILS: Artist: Land Norris (vocal & banjo); Title: "You Ought To Be Arrested And Put In Jail"; Recorded: August 1924, Atlanta, GA; Label: Okeh 40374 (10" 78 rpm shellac, released July 1925).
+RECORDING LINK: https://www.youtube.com/watch?v=eYKniGaXdyA; UCSB DAHR session companion record at https://adp.library.ucsb.edu/index.php/matrix/detail/2000200842/8703-Fox_chase_in_Georgia.
+IMAGE / IMAGE LEAD: Discogs release entry at https://www.discogs.com/fr/release/9606634-Land-Norris-Fox-Chase-In-Georgia-You-Ought-To-Be-Arrested-And-Put-In-Jail.
+SOURCES:
+- https://adp.library.ucsb.edu/index.php/matrix/detail/2000200842/8703-Fox_chase_in_Georgia
+- https://www.discogs.com/fr/release/9606634-Land-Norris-Fox-Chase-In-Georgia-You-Ought-To-Be-Arrested-And-Put-In-Jail
+- https://www.youtube.com/watch?v=eYKniGaXdyA
+
+================================================================================
+POST 19: 222 cassettes of Japanese weirdness / DD. Records (1980s)
+================================================================================
+DESCRIPTION: 1980s Japanese DIY cassette underground centered around DD. Records (founded via K. [Koshiro] Yoshimatsu and T. [Tadashi] Kamada), spanning home-recorded synth, ambient, musique concrète, and experimental tapes, later anthologized on Phantom Limb's "Fossil Cocoon".
+DETAILS: Label/Network: DD. Records (Japan, 1980s); Key artist in results: K. Yoshimatsu (born 1960 in Yamaguchi City; ~40 albums on DD. Records 1980-1985, including "Fossil Papillon" DT66 in July 1982; retrospective "Fossil Cocoon" on Phantom Limb).
+RECORDING LINK: https://www.youtube.com/watch?v=FmUBYQ5XgLY ("Fossil Papillon", DD. Records DT66, 1982.07); retrospective coverage at https://louderthanwar.com/phantom-limb-to-reissue-japanese-outsider-musician-k-yoshimatsus-key-1980s-works/.
+IMAGE / IMAGE LEAD: Discogs artist/release listings (https://www.discogs.com/artist/5637263-K-Yoshimatu) and Louder Than War retrospective (https://louderthanwar.com/phantom-limb-to-reissue-japanese-outsider-musician-k-yoshimatsus-key-1980s-works/).
+SOURCES:
+- https://www.discogs.com/artist/5637263-K-Yoshimatu
+- https://louderthanwar.com/phantom-limb-to-reissue-japanese-outsider-musician-k-yoshimatsus-key-1980s-works/
+- https://www.youtube.com/watch?v=FmUBYQ5XgLY
+
+================================================================================
+POST 20: Women's a cappella songs, Parchman (1936-1939)
+================================================================================
+DESCRIPTION: A cappella field recordings made in 1936 and 1939 at the Women's Camp of Mississippi State Penitentiary (Parchman) by Herbert Halpert and John A. Lomax for the Library of Congress Archive of Folk Song, later reissued on "Jailhouse Blues" (1987).
+DETAILS: Collectors: Herbert Halpert and John A. Lomax; Location: Women's Camp, Mississippi State Penal Farm, Parchman, MS; Dates: 1936 and 1939; Singers noted in catalog include Hattie Goff, Josephine Parker, Betty Mae Bowman & group, Mattie Mae Thomas, and Eve White.
+RECORDING LINK: Indexed on "Jailhouse Blues" (1987 CD, Discogs r7859884) and UW-Madison library catalog; treat incarcerated persons' recordings with care under the feed's consent policy.
+IMAGE / IMAGE LEAD: Discogs release r7859884 at https://www.discogs.com/release/7859884-Various-Jailhouse-Blues.
+SOURCES:
+- https://www.discogs.com/release/7859884-Various-Jailhouse-Blues
+- https://search.library.wisc.edu/catalog/999843637602121
+
+================================================================================
+POST 21: Thirty songs left in the radio archive / Velly Joonas
+================================================================================
+DESCRIPTION: Estonian singer-songwriter Velly Joonas (born 1955, from Tõrva), who recorded around thirty songs at Estonian Radio (Eesti Rahvusringhääling) and had previously unreleased studio tracks ("Stopp, seisku aeg!" with Vstretša, 1983; "Käes on aeg" with Pirita, 1980) issued on Frotee's 7" single.
+DETAILS: Artist: Velly Joonas (Estonia); Archive/Label: Eesti Rahvusringhääling (ERR) / Frotee 7" single (FRO007, 2015); A-side: "Stopp, seisku aeg!" (Estonian lyrics by Velly Joonas to Jim Rafferty / Frida's "I See Red", 1983); B-side: "Käes on aeg" (Estonian lyrics to Eugene McDaniels / Roberta Flack's "Feel Like Makin' Love", 1980).
+RECORDING LINK: Frotee label page at http://www.frotee.net/en/record/55-velly-joonas-eng and Discogs release r7280700 at https://www.discogs.com/release/7280700-Velly-Joonas-Stopp-Seisku-Aeg.
+IMAGE / IMAGE LEAD: Frotee release page at http://www.frotee.net/en/record/55-velly-joonas-eng and Discogs release r7280700 at https://www.discogs.com/release/7280700-Velly-Joonas-Stopp-Seisku-Aeg.
+SOURCES:
+- http://www.frotee.net/en/record/55-velly-joonas-eng
+- https://www.discogs.com/release/7280700-Velly-Joonas-Stopp-Seisku-Aeg
+
+================================================================================
+POST 22: Valentín Mancera
+================================================================================
+DESCRIPTION: Mexican corrido tradition / recording associated with Valentín Mancera, including "Corrido De Valentin Mancera" recorded by Hermanas Padilla on Victor 76995-B in the Frontera Collection.
+DETAILS: Subject/Title: Valentín Mancera / "Corrido De Valentin Mancera" (Victor 76995-B, performed by Hermanas Padilla).
+RECORDING LINK: https://www.youtube.com/watch?v=ygfsRDklfms ("Hermanas Padilla - Corrido De Valentin Mancera - Victor 76995-B").
+IMAGE / IMAGE LEAD: No direct image URL in search snippets; see Frontera Collection / YouTube listing.
+SOURCES:
+- https://www.youtube.com/watch?v=ygfsRDklfms
+- https://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S1852-44782011000100001
+
+================================================================================
+POST 23: Tuskegee Institute Singers — "I've Been 'Buked" (Victor 18447, 1918)
+================================================================================
+DESCRIPTION: Spiritual recording "I've Been Buked And I've Been Scorned" by the Tuskegee Institute Singers, recorded February 14, 1916 in Camden, New Jersey (Victor matrix B-17151) and released on Victor 18447 in April 1918.
+DETAILS: Group: Tuskegee Institute Singers; Title: "I've Been Buked And I've Been Scorned"; Recorded: February 14, 1916, Camden, NJ; Matrix: B-17151; Released: April 1918 on Victor 18447 (10" 78 rpm, batwing label).
+RECORDING LINK: UCSB DAHR matrix record at https://adp.library.ucsb.edu/index.php/matrix/detail/700002170/B-17151-Ive_been_buked_and_Ive_been_scorned and https://www.youtube.com/watch?v=AJ06ls5w9lU.
+IMAGE / IMAGE LEAD: Discogs release r12544106 at https://www.discogs.com/release/12544106-Tuskegee-Institute-Singers-Ive-Been-Buked-And-Ive-Been-Scorned-Most-Done-Trabelling--My-Ways-Cloudy-.
+SOURCES:
+- https://adp.library.ucsb.edu/index.php/matrix/detail/700002170/B-17151-Ive_been_buked_and_Ive_been_scorned
+- https://www.discogs.com/release/12544106-Tuskegee-Institute-Singers-Ive-Been-Buked-And-Ive-Been-Scorned-Most-Done-Trabelling--My-Ways-Cloudy-
+- https://www.youtube.com/watch?v=AJ06ls5w9lU
+
+================================================================================
+POST 24: Time Control Addiction (1986)
+================================================================================
+DESCRIPTION: 1986 home-taped synth-pop cassette "Time Control Addiction" by D.O. Durant, documented in The Cassette Archive / Anomaly Index.
+DETAILS: Title: "Time Control Addiction"; Artist: D.O. Durant; Year/Format: 1986 home-taped synth-pop cassette (keyboard/reverb vocals, including a cover of Joy Division's "Heart and Soul").
+RECORDING LINK: Not verified as a direct public stream URL in current search snippets (covered on Anomaly Index).
+IMAGE / IMAGE LEAD: Anomaly Index coverage at https://anomalyindex.com/2020/12/06/mystery-tapes-galore-the-cassette-archive/.
+SOURCES:
+- https://anomalyindex.com/2020/12/06/mystery-tapes-galore-the-cassette-archive/
+- https://anomalyindex.com/category/outsider-music/
+
+================================================================================
+POST 25: Thirty Minutes Behind the Walls (1938-1944)
+================================================================================
+DESCRIPTION: Weekly prison radio broadcast series ("Thirty Minutes Behind the Walls") launched March 24, 1938 on 50,000-watt WBAP in Fort Worth, Texas through the war years, featuring music and variety by incarcerated performers at Texas State Prison.
+DETAILS: Broadcaster: WBAP (Fort Worth, TX); Premiere: March 24, 1938, running through the WWII years; Context: Texas State Prison / state penological broadcasts and prisoner musical performances.
+RECORDING LINK: Archival/historical coverage at https://texashighways.com/culture/unchained-melodies-texas-prison-museum/ (check Texas Prison Museum / archival holdings rather than unverified uploads).
+IMAGE / IMAGE LEAD: Texas Highways / Texas Prison Museum article at https://texashighways.com/culture/unchained-melodies-texas-prison-museum/.
+SOURCES:
+- https://texashighways.com/culture/unchained-melodies-texas-prison-museum/
+- https://www.researchgate.net/publication/364845845_Thirty_Minutes_behind_the_Walls
+
+================================================================================
+POST 26: The Shaggs (1969)
+================================================================================
+DESCRIPTION: 1969 album "Philosophy of the World" by the Wiggin sisters (Dot, Betty, and Helen Wiggin) from Fremont, New Hampshire—a celebrated outsider/idiosyncratic rock LP reissued by Light In The Attic.
+DETAILS: Group: The Shaggs; Album: "Philosophy of the World" (1969, 12 tracks including "Philosophy of the World", "That Little Sports Car", "Who Are Parents?", "My Pal Foot Foot", and "It's Halloween").
+RECORDING LINK: Apple Music album listing at https://music.apple.com/us/album/philosophy-of-the-world/1790539349 (note feed's consent/privacy watchpoint on The Shaggs).
+IMAGE / IMAGE LEAD: Apple Music release page at https://music.apple.com/us/album/philosophy-of-the-world/1790539349.
+SOURCES:
+- https://music.apple.com/us/album/philosophy-of-the-world/1790539349
+- https://en.wikipedia.org/wiki/Philosophy_of_the_World
+
+================================================================================
+POST 27: The Jonestown Express (1973)
+================================================================================
+DESCRIPTION: Band/ensemble within Peoples Temple ("The Jonestown Express", active alongside the 1973 album "He's Able" and commune performances), documented in San Diego State University's Jonestown & Peoples Temple archive.
+DETAILS: Ensemble/Archive: The Jonestown Express / Peoples Temple; Key album: "He's Able" (1973); Archival documentation at SDSU Jonestown Institute.
+RECORDING LINK: SDSU Jonestown archive page at https://jonestown.sdsu.edu/?page_id=108764 and podcast/archive listing at https://www.deezer.com/en/show/526342.
+IMAGE / IMAGE LEAD: SDSU Jonestown archive page at https://jonestown.sdsu.edu/?page_id=108764.
+SOURCES:
+- https://jonestown.sdsu.edu/?page_id=108764
+- https://www.deezer.com/en/show/526342
+
+================================================================================
+POST 28: Doh Bamar
+================================================================================
+DESCRIPTION: Entry connected to "Doh Bamar" ("We Burmese" / "We Myanmar"), the nationalist/anti-colonial movement and slogan ("Thakin Myo Hey! Doh Bamar") in colonial Burma/Myanmar.
+DETAILS: Context: Doh Bamar Asiayone (We Myanmar Association) nationalist movement in Burma/Myanmar.
+RECORDING LINK: Not verified as a direct public recording link in current search snippets.
+IMAGE / IMAGE LEAD: No direct image URL in search snippets.
+SOURCES:
+- https://www.mdn.gov.mm/en/hailing-77th-anniversary-independence-day-2025-people-generations-have-dutifully-served
+
+================================================================================
+POST 29: Texas Prison Rodeo (1965, 1972, 1982)
+================================================================================
+DESCRIPTION: Music, prison bands, and recordings tied to the Texas Prison Rodeo in Huntsville, Texas (held 1931-1986), including 1960s-1980s records and performers such as A.J. Forman (1982).
+DETAILS: Location/Era: Huntsville, TX (Texas Prison Rodeo, 1931-1986; 1965, 1972, and 1982 records/footage); Archives at Texas State Library and Archives Commission (finding aid 20130), Texas Prison Museum, and Texas Archive of the Moving Image.
+RECORDING LINK: Reporting & media coverage at https://www.themarshallproject.org/2026/03/10/prison-music-texas-rodeo-redemption-songs and https://texasarchive.org/2022_00014.
+IMAGE / IMAGE LEAD: Texas Archive of the Moving Image (https://texasarchive.org/2022_00014) and Texas State Archives finding aid (https://txarchives.org/tslac/finding_aids/20130.xml).
+SOURCES:
+- https://www.themarshallproject.org/2026/03/10/prison-music-texas-rodeo-redemption-songs
+- https://txarchives.org/tslac/finding_aids/20130.xml
+- https://texasarchive.org/2022_00014
+
+================================================================================
+POST 30: Svenskt visarkiv prison reels (1965-1973)
+================================================================================
+DESCRIPTION: Field recordings of Swedish prison song repertoires documented by Svenskt visarkiv (Swedish Centre for Folk Music and Jazz Research) across fieldwork projects including 1965-1973.
+DETAILS: Institution: Svenskt visarkiv (Sweden); Scope: Fieldwork documenting prison songs in Swedish prisons.
+RECORDING LINK: Not verified as a direct public stream link in current search snippets; check Svenskt visarkiv (https://svensktvisarkiv.se/).
+IMAGE / IMAGE LEAD: Svenskt visarkiv portal at https://svensktvisarkiv.se/.
+SOURCES:
+- https://svensktvisarkiv.se/
+- https://ictmusic.org/sites/default/files/documents/world%20conferences/books%20of%20abstracts/abstracts%202013%20ictm%20world%20conference.pdf
+
+================================================================================
+POST 31: Mary Bolton — "My Husband, Lover, Friend" (MSR 851)
+================================================================================
+DESCRIPTION: Song-poem recording "My Husband, Lover, Friend" (lyrics by Mary Bolton, performed by Bobbi Blake, paired with "Time" by Esther R. Bader) on MSR label catalog No. 851.
+DETAILS: Lyricist: Mary Bolton; Performer: Bobbi Blake; Title: "My Husband, Lover, Friend"; Label/Catalog: MSR 851 (indexed in AS/PMA Song-Poem Music Archives).
+RECORDING LINK: Not verified as a direct public stream link in current search snippets; indexed at https://songpoemmusic.com/labels/msr.htm.
+IMAGE / IMAGE LEAD: AS/PMA MSR label discography at https://songpoemmusic.com/labels/msr.htm.
+SOURCES:
+- https://songpoemmusic.com/labels/msr.htm
+
+================================================================================
+POST 32: Smyrnaiki Estudiantina — "Marche de Niyazi et Enver Bey" (Odeon 58588, 1908)
+================================================================================
+DESCRIPTION: June 1908 Constantinople (Istanbul) recording of Sideris Vasileios's march (lyrics by Anastasios Tokatloglou) celebrating Niyazi Bey and Enver Bey after the 1908 Ottoman/Young Turk Revolution, performed by Smyrnaiki Estudiantina on Odeon 58588.
+DETAILS: Ensemble: Smyrnaiki Estudiantina; Composer/Lyricist: Sideris Vasileios / Anastasios Tokatloglou; Recorded: 06/1908, Constantinople (Istanbul); Label/Matrix: Odeon No. 58588, matrix Cx 1903 mIRp (Kounadis Archive, 3:02).
+RECORDING LINK: Kounadis Archive / VMRebetiko record at https://vmrebetiko.gr/en/item-en/?id=11155.
+IMAGE / IMAGE LEAD: Kounadis Archive / VMRebetiko record page at https://vmrebetiko.gr/en/item-en/?id=11155.
+SOURCES:
+- https://vmrebetiko.gr/en/item-en/?id=11155
+- https://vmrebetiko.aegean.gr/en/item-en?id=11155
+
+================================================================================
+POST 33: Oso Kuka (Gramophone 10771 / 4570r)
+================================================================================
+DESCRIPTION: Recording/subject tied to 19th-century border guard/commander Oso Kuka (Osman Kuka, known for the 1862 Vranina gunpowder tower resistance) and Shkodër, Albania.
+DETAILS: Subject: Oso Kuka (Osman Kuka); Location: Shkodër, Albania (Oso Kuka house / Shkodra Historical Museum on Rruga Oso Kuka); feed notes Gramophone 10771 / 4570r.
+RECORDING LINK: Not verified as a direct public recording link in current search snippets.
+IMAGE / IMAGE LEAD: Drawing from the June 1901 issue of Faik Konitza's "Albania" newspaper noted on https://en.wikipedia.org/wiki/Oso_Kuka.
+SOURCES:
+- https://en.wikipedia.org/wiki/Oso_Kuka
+- https://www.nomads-travel-guide.com/places/shkodra-historical-museum/
+
+================================================================================
+POST 34: Luigi & Antonio Russolo — "Corale" / "Serenata" (1921/1924)
+================================================================================
+DESCRIPTION: Futurist works "Corale" and "Serenata" combining conventional orchestral music with Luigi Russolo's noise-intoner machines ("intonarumori"), recorded/issued in the 1920s (May 5, 1924 in Milan on Discogs; 1921 also cited in Electrodoc).
+DETAILS: Creators: Luigi and Antonio Russolo; Works: "Corale" and "Serenata" with intonarumori; Discogs notes May 5, 1924 in Milan (engineered by George Dillnutt); Electrodoc cites 1921 78 rpm.
+RECORDING LINK: https://www.youtube.com/watch?v=-1SOuCLhCTY; Discogs entry at https://www.discogs.com/it/release/19330378-Antonio-Russolo-Corale-Serenata.
+IMAGE / IMAGE LEAD: Discogs entry at https://www.discogs.com/it/release/19330378-Antonio-Russolo-Corale-Serenata and Electrodoc profile at https://electrodoc.musiques-recherches.be/en/c/947-antonio-russolo.
+SOURCES:
+- https://www.discogs.com/it/release/19330378-Antonio-Russolo-Corale-Serenata
+- https://electrodoc.musiques-recherches.be/en/c/947-antonio-russolo
+
+================================================================================
+POST 35: Roland C. Nathaniels (Zonophone 3972)
+================================================================================
+DESCRIPTION: 1925 West African recordings by Anlo-Ewe composer, pianist, and organist Roland C. Nathaniels (from Keta, present-day Ghana) on Zonophone, including "Anlo Patriotic Song" and "Dsidso Ga Kasanku Fola Tro Vafe".
+DETAILS: Artist: Roland C. Nathaniels (Anlo-Ewe composer, pianist, organist from Keta, Ghana); Label/Year: Zonophone (1925), including Zonophone 3972 ("Anlo Patriotic Song") and Zonophone 3973 (November 20, 1925).
+RECORDING LINK: Sound of History episode ("Africa in London", July 13, 2026) at https://soundofhistorypodcast.com/africa-in-london/.
+IMAGE / IMAGE LEAD: Sound of History podcast page at https://soundofhistorypodcast.com/africa-in-london/ and Afrodisc discography at http://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-3926-3990/.
+SOURCES:
+- https://soundofhistorypodcast.com/africa-in-london/
+- http://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-3926-3990/
+
+================================================================================
+POST 36: Rodd Keith — "I Died Today"
+================================================================================
+DESCRIPTION: Song-poem recordings by American multi-instrumentalist Rodd Keith (Rodney Keith Eskelin, 1937-1974), including "I Died Today" (compiled on Tzadik's 1996 album "I Died Today", curated by his son Ellery Eskelin).
+DETAILS: Artist: Rodd Keith (aka Rod Rogers; Jan 30, 1937 - Dec 15, 1974); Key release: "I Died Today" (Tzadik TZ 7401, 1996, 26 tracks; also featured on NPR's "This American Life" August 15, 1997).
+RECORDING LINK: Tzadik release page at https://www.tzadik.com/volume.php?VolumeID=119 and Discogs compilation r1537823 at https://www.discogs.com/release/1537823-Rodd-Keith-I-Died-Today.
+IMAGE / IMAGE LEAD: Tzadik release page at https://www.tzadik.com/volume.php?VolumeID=119 and Discogs compilation r1537823 at https://www.discogs.com/release/1537823-Rodd-Keith-I-Died-Today.
+SOURCES:
+- https://www.tzadik.com/volume.php?VolumeID=119
+- https://www.discogs.com/release/1537823-Rodd-Keith-I-Died-Today
+- https://www.youtube.com/watch?v=jRwu5RivKFQ
+
+================================================================================
+POST 37: Roba Stanley — "Little Frankie" (Okeh 40436)
+================================================================================
+DESCRIPTION: Old-time recording "Little Frankie" (alternate title "Frankie and Johnny") by Roba Stanley (vocal & harmonica) with Bill Patterson (guitar), issued on Okeh 40436 (matrix 8848).
+DETAILS: Performers: Roba Stanley (vocalist & harmonica) and Bill Patterson (guitar); Title: "Little Frankie" ("Frankie and Johnny"); Label/Matrix: Okeh 40436, matrix 8848 (UCSB DAHR lists Atlanta, GA, January 1925; YouTube caption lists NY July/Oct 1925).
+RECORDING LINK: UCSB DAHR matrix page (with Joe Bussard Collection audio) at https://adp.library.ucsb.edu/index.php/matrix/detail/2000200986/8848-Little_Frankie and https://www.youtube.com/watch?v=yN8cn-flLvE.
+IMAGE / IMAGE LEAD: UCSB DAHR matrix record at https://adp.library.ucsb.edu/index.php/matrix/detail/2000200986/8848-Little_Frankie.
+SOURCES:
+- https://adp.library.ucsb.edu/index.php/matrix/detail/2000200986/8848-Little_Frankie
+- https://www.youtube.com/watch?v=yN8cn-flLvE
+
+================================================================================
+POST 38: Regina (Lehmann-Nitsche cylinders, 1905/1907)
+================================================================================
+DESCRIPTION: 1905 and 1907 phonograph wax-cylinder recordings of Mapuche songs and dialogues involving Regina and Juan Salva, recorded in La Plata via scholar Robert Lehmann-Nitsche.
+DETAILS: Subjects: Regina and Juan Salva; Format/Dates: Phonograph wax cylinders, 1905 and 1907, La Plata (Robert Lehmann-Nitsche); gated in feed for Indigenous/community consent.
+RECORDING LINK: Gated for Indigenous community consent per feed policy; indexed at https://revistaschilenas.uchile.cl/handle/2250/212954.
+IMAGE / IMAGE LEAD: No direct image URL in search snippets; see https://revistaschilenas.uchile.cl/handle/2250/212954.
+SOURCES:
+- https://revistaschilenas.uchile.cl/handle/2250/212954
+- https://www.researchgate.net/publication/273476343_Regina_y_Juan_Salva_primeras_grabaciones_de_cantos_mapuches_en_soporte_cilindros_de_fonografo_1905_y_1907
+
+================================================================================
+POST 39: Radio Afghanistan
+================================================================================
+DESCRIPTION: Radio Afghanistan's music tape archive and broadcast history, encompassing roughly 8,500 hours of traditional music recordings and preservation/repatriation work alongside Afghan cassette/radio archives.
+DETAILS: Institution: Radio Afghanistan; Scope: ~8,500 hours of traditional music recordings documented in ethnomusicological preservation/repatriation research (Sakata, Sercombe, Vallier) and Afghan Cassette Archive.
+RECORDING LINK: Afghan Cassette Archive at https://afghancassettearchive.org/ and University of Washington publication page at https://music.washington.edu/research/publications/radio-afghanistan-archive-project-building-capacity-averting-repatriation.
+IMAGE / IMAGE LEAD: Afghan Cassette Archive at https://afghancassettearchive.org/.
+SOURCES:
+- https://afghancassettearchive.org/
+- https://music.washington.edu/research/publications/radio-afghanistan-archive-project-building-capacity-averting-repatriation
+
+================================================================================
+POST 40: Qamar-ol-Moluk Vaziri
+================================================================================
+DESCRIPTION: Recordings and career of Persian vocalist Qamar-ol-Moluk Vaziri (1905-1959, active 1924-1956), known as "the Queen of Persian music" and celebrated for radif-e âvâz, tasnif, and tarâna repertoire.
+DETAILS: Artist: Qamar-ol-Moluk Vaziri (Qamar Khanum Seyed Hosayn Khan; 1905 in Takestan - August 5, 1959 in Shemiran); Active: 1924-1956; debuted at Grand Hotel in Tehran in 1924.
+RECORDING LINK: https://www.youtube.com/shorts/B5ct-wlzZzY.
+IMAGE / IMAGE LEAD: Contemporary portrait artwork "Still, Life (portrait of Qamar-ol-Moluk-Vaziri)" (2019) by Soheila Sokhanvari at https://kristinhjellegjerde.com/artworks/2652/ and https://en.wikipedia.org/wiki/Qamar-ol-Moluk_Vaziri.
+SOURCES:
+- https://en.wikipedia.org/wiki/Qamar-ol-Moluk_Vaziri
+- https://kristinhjellegjerde.com/artworks/2652/
+- https://wncri.org/2020/06/09/qamar-ol-moluk-vaziri-first-iranian-woman-sang-stage/
+
+================================================================================
+POST 41: Prussian Phonographic Commission (1915-1918)
+================================================================================
+DESCRIPTION: WWI-era (1915-1918) recordings made by the Royal Prussian Phonographic Commission in prisoner-of-war camps and preserved in Berlin's Lautarchiv (now engaged at the Humboldt Forum).
+DETAILS: Collector: Royal Prussian Phonographic Commission (1915-1918); Repository: Lautarchiv Berlin / Humboldt Forum listening room & Reflexicon documentation.
+RECORDING LINK: Rights/consent-sensitive POW archival collection; see Humboldt Forum / Reflexicon Lautarchiv pages.
+IMAGE / IMAGE LEAD: No direct image URL in search snippets.
+SOURCES:
+- Feed entry: https://sloev.github.io/grudgemixes/feed.xml
+
+================================================================================
+POST 42: Propeller (1980)
+================================================================================
+DESCRIPTION: Estonian punk/new-wave band Propeller (Tallinn, active around 1980), associated with "Pankrott" and the June 8, 1980 Pirita performance.
+DETAILS: Band: Propeller (Tallinn, Estonia); Year: 1980.
+RECORDING LINK: https://www.youtube.com/watch?v=1gFNT2xxHLQ.
+IMAGE / IMAGE LEAD: No direct image URL in search snippets.
+SOURCES:
+- Feed entry: https://sloev.github.io/grudgemixes/feed.xml
+
+================================================================================
+POST 43: Portsmouth Sinfonia (1974)
+================================================================================
+DESCRIPTION: 1974 recordings and concerts by the Portsmouth Sinfonia, including "Portsmouth Sinfonia Plays the Popular Classics" (1974) and "Hallelujah! - The Portsmouth Sinfonia at the Royal Albert Hall" (May 1974).
+DETAILS: Ensemble: Portsmouth Sinfonia (UK); Key releases/concerts: "Portsmouth Sinfonia Plays the Popular Classics" (1974) and Royal Albert Hall concert (May 1974).
+RECORDING LINK: https://www.youtube.com/watch?v=gVUakcyLnsw.
+IMAGE / IMAGE LEAD: No direct image URL in search snippets (note feed's consent/privacy watchpoint on Portsmouth Sinfonia).
+SOURCES:
+- Feed entry: https://sloev.github.io/grudgemixes/feed.xml
+
+================================================================================
+POST 44: Sol Plaatje — "Nkosi Sikelel' iAfrika" (Zonophone, 1923)
+================================================================================
+DESCRIPTION: October 16, 1923 recording of "Nkosi Sikelel' iAfrika" by South African writer, activist, and vocalist Sol T. Plaatje with Sylvia Colenso on piano at Hayes, Middlesex, UK for Zonophone (Zonophone 4168, matrix Bb3640-2).
+DETAILS: Artist: Sol T. Plaatje (vocal) with Sylvia Colenso (piano); Recorded: October 16, 1923, Hayes, Middlesex, UK; Label/Matrix: Zonophone 4168, matrix Bb3640-2.
+RECORDING LINK: Archival index at https://www.flatinternational.org/template_volume.php?volume_id=267.
+IMAGE / IMAGE LEAD: No direct image URL in search snippets.
+SOURCES:
+- Feed entry: https://sloev.github.io/grudgemixes/feed.xml
+
+================================================================================
+POST 45: Donga / Baiano — "Pelo Telefone" (Odeon, 1917)
+================================================================================
+DESCRIPTION: Early samba recording "Pelo Telefone" (credited to Donga and Mauro de Almeida; sung by Baiano with choir) released in 1917 on Odeon in Brazil.
+DETAILS: Performers/Writers: Baiano (with choir); composed by Donga and Mauro de Almeida; Label/Year: Odeon, 1917.
+RECORDING LINK: https://www.youtube.com/watch?v=-CUdd8K6YQw.
+IMAGE / IMAGE LEAD: No direct image URL in search snippets.
+SOURCES:
+- Feed entry: https://sloev.github.io/grudgemixes/feed.xml
+
+================================================================================
+POST 46: Ohio Penitentiary 511 Jazz Ensemble — "Hard Luck Soul"
+================================================================================
+DESCRIPTION: Jazz album "Hard Luck Soul" ("Moods & Ideations In Contemporary Jazz") recorded by serving inmates in the 511 Jazz Ensemble at Ohio State Penitentiary and reissued on Jazzman Records (2012-2013).
+DETAILS: Ensemble: Ohio Penitentiary 511 Jazz Ensemble (including Reynard Birtha and Logan Rollins); Album: "Hard Luck Soul" (Jazzman LP JMANLP 052 / CD JMANCD 052, 2012-2013).
+RECORDING LINK: https://www.youtube.com/watch?v=EoSHFHs_K3o.
+IMAGE / IMAGE LEAD: No direct image URL in search snippets (release details indexed on Discogs; note feed's consent/privacy watchpoint on prison recordings).
+SOURCES:
+- Feed entry: https://sloev.github.io/grudgemixes/feed.xml
