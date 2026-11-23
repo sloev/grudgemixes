@@ -28,4 +28,4 @@ This particular version is not the first issue: it is a ten-inch Victor disc, ca
 ## To do
 
 - Verify the exact Victor label scan and whether the issue date differs from the recording date.
-- Find a freely licensed image of the Victor 583 label; include image credit and licence.
+- Find an image of the Victor 583 label or a portrait or photograph of George W. Johnson. Photographs of people are welcome; include caption and source, and credit and licence when known.
