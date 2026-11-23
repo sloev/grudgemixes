@@ -13,7 +13,21 @@ permalink: /mixtapes/
       <div class="row-content">
         <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
         {% if post.description %}<p class="row-summary">{{ post.description | escape }}</p>{% endif %}
-        <div class="row-meta"><span class="catalogue-number">#{{ catalogue_number }}</span>{% include metadata.html post=post compact=true %}</div>
+        <div class="row-meta">
+          <span class="catalogue-number">#{{ catalogue_number }}</span>
+          {% assign meta_artist = post.artist | default: post.who %}
+          {% assign meta_year = post.recording_year | default: post.when %}
+          {% assign meta_location = post.location | default: post.where %}
+          {% if meta_artist or meta_year or meta_location %}
+          <p class="listing-meta">{% if meta_artist %}{{ meta_artist | escape }}{% endif %}{% if meta_year %}{% if meta_artist %} · {% endif %}{{ meta_year | escape }}{% endif %}{% if meta_location %}{% if meta_artist or meta_year %} · {% endif %}{{ meta_location | escape }}{% endif %}</p>
+          {% endif %}
+          {% if post.tags and post.tags.size > 0 %}
+          <p class="listing-tags">
+            {% for tag in post.tags limit:3 %}<span class="tag">{{ tag | escape }}</span>{% endfor %}
+            {% if post.tags.size > 3 %}<span class="tag">+{{ post.tags.size | minus: 3 }}</span>{% endif %}
+          </p>
+          {% endif %}
+        </div>
       </div>
     </article>
   {% endfor %}
