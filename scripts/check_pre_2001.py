@@ -29,6 +29,13 @@ for path in sorted(RECORDINGS.glob("*.md")):
         continue
     slug = str(data.get("slug") or path.stem)
     by_slug[slug] = (path, data)
+    if data.get("type") != "recording":
+        errors.append(f"{path.relative_to(ROOT)}: type must be recording")
+        continue
+    # Research drafts are intentionally incomplete and are not catalogue entries.
+    # They must still be blocked from any published mixtape track list below.
+    if data.get("draft") is True:
+        continue
     when = str(data.get("when") or "").strip()
     years = [int(y) for y in YEAR_RE.findall(when)]
     if not years:
@@ -57,9 +64,6 @@ for path in sorted(RECORDINGS.glob("*.md")):
             )
         else:
             artist_billing[who] = path.relative_to(ROOT)
-    if data.get("type") != "recording":
-        errors.append(f"{path.relative_to(ROOT)}: type must be recording")
-
 for path in sorted(MIXTAPES.glob("*.md")):
     try:
         data = frontmatter(path)
@@ -77,6 +81,9 @@ for path in sorted(MIXTAPES.glob("*.md")):
             errors.append(f"{path.relative_to(ROOT)}: track {slug!r} does not resolve to a recording post")
             continue
         rec_path, rec = by_slug[slug]
+        if rec.get("draft") is True:
+            errors.append(f"{path.relative_to(ROOT)}: track {slug!r} is a research draft, not a publishable recording")
+            continue
         when = str(rec.get("when") or "")
         years = [int(y) for y in YEAR_RE.findall(when)]
         active_until = str(rec.get("active_until") or "")
