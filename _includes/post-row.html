@@ -24,7 +24,7 @@
     <h2><a href="{{ include.post.url | relative_url }}">{{ include.post.title | escape }}</a></h2>
     {% if include.post.summary %}<p class="row-summary">{{ include.post.summary | escape }}</p>{% endif %}
     <div class="row-footer">
-      <p class="row-meta"><span class="catalogue-number">#{{ catalogue_number }}</span><span> · </span>{% if include.post.who %}{{ include.post.who | escape }}{% endif %}{% if include.post.when %}<span> · </span>{{ include.post.when | escape }}{% endif %}{% if include.post.medium %}<span> · </span>{{ include.post.medium | escape }}{% endif %}{% if include.post.country %}<span> · </span>{{ include.post.country | escape }}{% endif %}{% if include.post.tags and include.post.tags.size > 0 %}<span> · </span>{{ include.post.tags | join: ", " | escape }}{% endif %}</p>
+      <div class="row-meta"><span class="catalogue-number">#{{ catalogue_number }}</span>{% include metadata.html post=include.post compact=true %}</div>
       <a class="read-more" href="{{ include.post.url | relative_url }}">Read more →</a>
     </div>
   </div>
