@@ -8,6 +8,21 @@ layout: default
   <p class="entry-kicker"><span class="catalogue-number">#{{ catalogue_number }}</span></p>
   <h1>{{ page.title | escape }}</h1>
   {% if page.summary %}<p class="entry-summary">{{ page.summary | escape }}</p>{% endif %}
+  {% assign meta_artist = page.artist | default: page.who %}
+  {% assign meta_year = page.recording_year | default: page.when %}
+  {% assign meta_location = page.location | default: page.where %}
+  <dl class="post-meta">
+    {% if meta_artist %}<dt>Artist</dt><dd>{{ meta_artist | escape }}</dd>{% endif %}
+    {% if meta_year %}<dt>Recorded</dt><dd>{{ meta_year | escape }}</dd>{% endif %}
+    {% if meta_location %}<dt>Location</dt><dd>{{ meta_location | escape }}</dd>{% endif %}
+    {% if page.label %}<dt>Label</dt><dd>{{ page.label | escape }}</dd>{% endif %}
+    {% if page.catalog_number %}<dt>Catalog</dt><dd>{{ page.catalog_number | escape }}</dd>{% endif %}
+  </dl>
+  {% if page.tags and page.tags.size > 0 %}
+  <div class="post-tags">
+    {% for tag in page.tags %}<span class="tag">{{ tag | escape }}</span>{% endfor %}
+  </div>
+  {% endif %}
   {% if page.images and page.images.size > 0 %}
     {% assign image_parts = page.images[0] | split: " | " %}
     {% assign image_src = image_parts[0] %}
@@ -18,7 +33,6 @@ layout: default
     {% endif %}
     <figure class="entry-image"><img src="{{ image_href }}" alt="{{ image_parts[1] | default: page.title | escape }}"><figcaption>{{ image_parts[1] | escape }}</figcaption></figure>
   {% endif %}
-  {% include facts.html post=page %}
   <div class="prose">{{ content }}</div>
   {% if page.recording_embed_url and page.recording_embed_url != "" %}
     <section class="listen-section">
