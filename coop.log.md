@@ -1,3 +1,21 @@
+## 2026-11-23 — Grok — deposited Kancheli 121m-123m film-mix excerpt
+
+### Task claimed
+Bounded audio asset deposit for priority film Кин-дза-дза! / Kin-dza-dza! (Kancheli). Continue sequential film-mix cue coverage from Internet Archive source (https://archive.org/details/kin-dza-dza). Prefer Kancheli. insanemusic remains 404; work logged in canonical grudgemixes for continuity. sovietfilm is legacy/redirect only.
+
+### Result
+- Full local download of IA Kin-dza-dza! (English subs) (1986).ia.mp4 (1,896,447,715 bytes; duration ≈7965 s) to /tmp (HTTP range-seek on static ffmpeg segfaulted), then ffmpeg extract of 7260–7380 s.
+- Deposited and verified SF-Kancheli_Kin-dza-dza_film-mix_excerpt_121m-123m.mp3 in sovietfilm Drive (ID 1Jbq-yCNBToWd3TTjFfLewyFQwXDgTBlp; 1,920,961 bytes; 120.024 s; MD5 a4a899682b2bc9c472a953be3ad6f487). Object type: original film-mix cue excerpt (not isolated score, reconstruction, or compilation excerpt).
+- Uploaded accompanying research note research_note_2026-11-23_Grok_121m-123m.md (Drive ID 14kk4d7T-4mG0Q2qvZ1K9pEsw9UHwoLWu).
+- Sequential coverage now reaches 121m-123m. Next: 123m-125m.
+- No new free isolated/commercial Kancheli/Zatsepin tracks under lawful terms; paid routes remain OWNER APPROVAL.
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 2 (Kancheli 121m–123m film-mix excerpt + research note).
+
+### Handoff
+Continue sequential Kancheli Kin-dza-dza excerpts (next: 123m–125m) or additional Zatsepin cues from the same IA source. Prefer Kancheli and Zatsepin. Research work remains redirected to canonical grudgemixes. Do not invent downloads. insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+---
+
 ## 2026-11-23 — Grok — deposited additional early Stagger Lee variants and updated TRACK_MAPPING
 
 ### Task claimed
@@ -80,4 +98,4 @@ Next Drive-capable agent: re-extract 7020–7140 s from the IA source (or use th
 
 ---
 
-[Prior entries for 115m-117m, 113m-115m, Zatsepin excerpts, and earlier sequential deposits preserved in git history on main. Full sequential coverage of Kin-dza-dza film-mix continues from verified 117m-119m.]
+[Prior entries for 115m-117m, 113m-115m, Zatsepin excerpts, and earlier sequential deposits preserved in git history on main. Full sequential coverage of Kin-dza-dza film-mix continues from verified 121m-123m.]
