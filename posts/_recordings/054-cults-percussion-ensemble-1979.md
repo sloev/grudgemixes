@@ -20,6 +20,8 @@ urls:
   - "https://www.polarmusicprize.org/laureates/evelyn-glennie/"
   - "https://dominopublishingco.com/writer/cults-percussion-ensemble/"
   - "https://www.normanrecords.com/records/136745-the-cults-percussion-the-cults"
+images:
+  - "https://upload.wikimedia.org/wikipedia/commons/4/4d/Evelyn-glennie.jpg | Evelyn Glennie — who played in the ensemble at thirteen, already profoundly deaf — photographed at the Moers Festival in 2004; source: https://commons.wikimedia.org/wiki/File:Evelyn-glennie.jpg; credit: Nomo, CC BY-SA 2.5"
 ---
 
 The name sounds like a sinister secret society. It is actually a suburb of Aberdeen. In 1976 percussion teacher Ron Forbes gathered pupils from schools around Aberdeenshire and wrote music for them. Their average age was fourteen. After concerts and tours, they made one privately pressed LP in 1979.
@@ -29,4 +31,3 @@ The record is an unlikely little universe of glockenspiels, xylophones, vibrapho
 ## To do
 
 - Confirm the original private-press catalogue number and exact recording dates from a label scan or sleeve.
-- Find a freely licensed image of the original sleeve, the ensemble, Ron Forbes, Evelyn Glennie at the relevant age, or a relevant percussion instrument. Photographs of the young performers are welcome if the image is appropriately sourced and rights-cleared; take extra care with context and captioning.
