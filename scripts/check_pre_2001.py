@@ -72,6 +72,11 @@ for path in sorted(MIXTAPES.glob("*.md")):
         continue
     if data.get("type") != "collection":
         errors.append(f"{path.relative_to(ROOT)}: type must be collection")
+        continue
+    # Draft mixtapes are editorial work in progress, not catalogue selections.
+    # Published mixtapes are still checked against every track below.
+    if data.get("draft") is True:
+        continue
     tracks = data.get("tracks") or []
     if not tracks:
         errors.append(f"{path.relative_to(ROOT)}: add at least one recording slug to tracks")
