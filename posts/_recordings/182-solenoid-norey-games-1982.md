@@ -29,4 +29,4 @@ In a rare bit of luck for tape archaeologists, member Peer Saer later told the s
 
 - The original download link on the archive page is dead. Trace the surviving cassette or master and seek permission before adding a public listening link.
 - Confirm the exact date and whether any surviving original cassette sleeve identifies the band members.
-- Find a freely licensed image of a period cassette or relevant instrument; no generic stand-ins unless no closer image exists.
+- Find an image of the cassette sleeve, the band, or a period cassette or instrument. Photographs of people are welcome; generic stand-ins are acceptable when nothing closer exists; include caption and source.
