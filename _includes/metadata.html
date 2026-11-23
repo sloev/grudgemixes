@@ -2,7 +2,7 @@
 <div class="graphical-meta{% if include.compact %} graphical-meta-compact{% endif %}" aria-label="Recording details">
   {% if post.who %}<span class="meta-item"><span class="meta-icon" aria-hidden="true">🎙️</span><span>{{ post.who | escape }}</span></span>{% endif %}
   {% if post.when %}<span class="meta-item"><span class="meta-icon" aria-hidden="true">📅</span><span>{{ post.when | escape }}</span></span>{% endif %}
-  {% unless include.compact %}{% if post.where %}<span class="meta-item"><span class="meta-icon" aria-hidden="true">📍</span><span>{{ post.where | escape }}</span></span>{% endif %}{% endunless %}
+  {% if post.where %}<span class="meta-item"><span class="meta-icon" aria-hidden="true">📍</span><span>{{ post.where | escape }}</span></span>{% endif %}
   {% if post.country %}
     {% assign countries = post.country | replace: " & ", "|" | replace: " / ", "|" | replace: ", ", "|" | split: "|" %}
     <span class="meta-item meta-countries" aria-label="Country">
@@ -80,7 +80,7 @@
       {% endfor %}
     </span>
   {% endif %}
-  {% unless include.compact %}{% if post.what %}<span class="meta-item"><span class="meta-icon" aria-hidden="true">🎼</span><span>{{ post.what | escape }}</span></span>{% endif %}{% endunless %}
+  {% if post.what %}<span class="meta-item"><span class="meta-icon" aria-hidden="true">🎼</span><span>{{ post.what | escape }}</span></span>{% endif %}
   {% if post.medium %}
     {% assign medium_key = post.medium | downcase %}
     {% case medium_key %}
