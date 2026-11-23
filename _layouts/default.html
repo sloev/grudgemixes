@@ -12,5 +12,22 @@
 </head>
 <body>
   <main class="page-shell">{{ content }}</main>
+  <script>
+  (function () {
+    var roots = document.querySelectorAll('.prose p');
+    roots.forEach(function (root) {
+      var walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+        acceptNode: function (node) {
+          return node.parentElement && node.parentElement.closest('a, code, pre') ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT;
+        }
+      });
+      var nodes = [];
+      while (walker.nextNode()) nodes.push(walker.currentNode);
+      nodes.forEach(function (node) {
+        node.nodeValue = node.nodeValue.replace(/\.(\s+)(?=[A-Z“"'(])/g, '.\n');
+      });
+    });
+  })();
+  </script>
 </body>
 </html>
