@@ -19,8 +19,6 @@ urls:
   - "https://americanhistory.si.edu/collections/object/nmah_1282202"
   - "https://www.worldradiohistory.com/Archive-Talking-Machine/10s/Talking-Machine-1919-08.pdf"
   - "https://commons.wikimedia.org/wiki/File:Side_view_of_Jesse_James_home_and_museum.jpg"
-images:
-  - "https://upload.wikimedia.org/wikipedia/commons/0/09/Bentley_Ball_Portrait.jpg | Walter Bentley Ball, ca. 1900; source: https://commons.wikimedia.org/wiki/File:Bentley_Ball_Portrait.jpg; credit: Oltrarno, CC BY-SA 4.0"
 ---
 
 Robert Ford shot Jesse James in the back for the reward, was pardoned, and never escaped the song. "The dirty little coward that shot Mister Howard" was passed around as a public verdict the courts never delivered.

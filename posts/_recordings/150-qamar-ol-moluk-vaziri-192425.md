@@ -18,7 +18,7 @@ urls:
   - "https://iranicaonline.org/articles/qamar-vaziri"
   - "https://www.iranicaonline.org/articles/qamar-moluk-magar-nasim-sahar/"
 images:
-  - "media/150-qamar-ol-moluk-vaziri-1924-public-debut.jpg | Qamar al-Moluk - Magar nasim-e sahar - Encyclopaedia Iranica; source: https://www.iranicaonline.org/articles/qamar-moluk-magar-nasim-sahar/"
+  - "media/150-qamar-ol-moluk-vaziri-1924-public-debut-2.jpg | Qamar al-Moluk - Magar nasim-e sahar - Encyclopaedia Iranica; source: https://www.iranicaonline.org/articles/qamar-moluk-magar-nasim-sahar/"
 ---
 
 Her first public performance took place at Tehran’s Grand Hotel in 1924, when she sang “Morgh-e Sahar” unveiled before a mixed audience. Her first known commercial 78 rpm recordings followed in 1927–28 for Polyphon. The linked 7:07 sample is a later performance of her repertoire, not a recording of the 1924 debut.

@@ -17,8 +17,6 @@ recording_url: "https://www.loc.gov/item/jukebox-19711/"
 recording_verified: true
 urls:
   - "https://commons.wikimedia.org/wiki/File:Yeghishe,_Vasn_Vardanay_ew_Hayoc_paterazmin,_1569_(Matenadaran,_Ms._1920,_no._250v.).jpg"
-images:
-  - "https://upload.wikimedia.org/wikipedia/commons/8/8a/Battle_of_Avarayr.jpg | The battle of Avarayr (AD 451), the defeat the poem calls Armenians to remember, by Eduard Isabekyan; source: https://commons.wikimedia.org/wiki/File:Battle_of_Avarayr.jpg; credit: Eduard Isabekyan (painting), photo CC BY-SA 4.0"
 ---
 
 Ghevont Alishan's 1850 poem "Bam Porotan" calls Armenians to remember Avarayr, the battle of 451 in which Vartan Mamikonian fell defending the faith. That defeat has been commemorated for fifteen centuries.

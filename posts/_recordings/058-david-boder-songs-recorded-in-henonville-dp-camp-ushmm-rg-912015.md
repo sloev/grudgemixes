@@ -29,7 +29,7 @@ urls:
   - "https://www.lautarchiv.hu-berlin.de/en/collections-and-catalog/collections/"
   - "https://www.lautarchiv.hu-berlin.de/en/introduction/chronology/"
 images:
-  - "media/058-david-boder-songs-recorded-in-henonville-dp-camp-ushmm-rg-91-2015-2.png | David Boder; source: https://holocaustmusic.ort.org/memory/dp-camps/david-boder/"
+  - "media/058-david-boder-songs-recorded-in-henonville-dp-camp-ushmm-rg-91-2015.png | David Boder; source: https://holocaustmusic.ort.org/memory/dp-camps/david-boder/"
 ---
 
 In the summer of 1946 the Chicago psychologist David Boder lugged a wire recorder through Europe's displaced persons camps, asking survivors to tell their stories into the machine — around a hundred spools of it, among the first recorded testimonies of Holocaust survivors. In Hénonville, a DP centre north of Paris, he also recorded songs: Jewish songs in Yiddish and German, sung by people whose families and homes were gone — resistance songs, camp songs, songs prisoners had been forced to sing. Then the songs vanished. When Boder's collection was processed in the 1960s, one tin was catalogued as "Heroville Songs"; researchers looked for decades. In 2016, digitising wire at the Cummings Center in Ohio, engineer Jon Endres re-read the label — "Henonville? Songs" — and the missing spool came back to life. The missing songs had been sitting in the archive all along, filed under a typo.

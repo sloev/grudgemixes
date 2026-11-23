@@ -22,8 +22,6 @@ urls:
   - "https://terrorismodeestadoenchile.blogspot.com/2013/09/08/"
   - "https://culturaacompanada.blogspot.com/2018/08/museo-de-la-memoria-estrenara-cueca.html"
   - "https://folcloreyculturachilena.blogspot.com/2017/04/memoria-del-cantar-popular-musica.html"
-images:
-  - "https://upload.wikimedia.org/wikipedia/commons/a/a1/Teatro_de_la_Oficina_salitrera_Chacabuco.jpg | The theatre of the Oficina Salitrera Chacabuco — the nitrate town whose stage hosted concerts; the prisoners of the 1973–74 detention camp built their own stage and were taped on it; source: https://commons.wikimedia.org/wiki/File:Teatro_de_la_Oficina_salitrera_Chacabuco.jpg; credit: Danielignacioburgos, CC BY-SA 4.0"
 ---
 
 In 1973 the army turned Chacabuco — a derelict nitrate town in the Atacama desert — into a detention camp for some 800 political prisoners, among them the singer Ángel Parra. The prisoners built a stage and performed. Early in 1974, when 45 prisoners were to be freed, a fellow detainee, Luis Alberto Corvalán, taped one of the concerts on a cassette recorder. Parra had the tape smuggled out and released it nearly intact: Chacabuco, a live LP issued in 1975 on Italy's I Dischi Dello Zodiaco, with Los de Chacabuco, the camp choir and Parra's own songs. Only side B, damaged by the recording conditions, was replaced by versions cut in France after his exile. Corvalán, a student leader and son of the Communist Party chief, had been tortured at Chacabuco; exiled to Bulgaria, he died in Sofia in 1975, aged twenty-seven. "Alma de Chacabuco", Parra's song from the camp, still plays online — the sound of a concert recorded to be heard, from a place designed to make people disappear.

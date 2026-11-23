@@ -20,7 +20,7 @@ urls:
   - "https://katalog.visarkiv.se/lib/views/kt/Default.aspx?item=116"
   - "https://www.prestomusic.com/jazz/products/8544672--same-jiena-the-karl-tiren-collection-of-sami-joik-the-february-1913-journey"
 images:
-  - "media/105-karl-tiren-joik-cylinder-0212-till-galtispuoda-vid-hornavan-feb-1913.jpg | Sáme jiena – The Karl Tirén Collection of Sami Joik: The February 1913 Journey - アルバム情報 | AWA; source: https://s.awa.fm/album/704b21d04ad80f3c4450"
+  - "media/105-karl-tiren-joik-cylinder-0212-till-galtispuoda-vid-hornavan-feb-1913-2.jpg | Sáme jiena – The Karl Tirén Collection of Sami Joik: The February 1913 Journey - アルバム情報 | AWA; source: https://s.awa.fm/album/704b21d04ad80f3c4450"
 ---
 
 Tirén recorded about 100 joikers on about 300 cylinders, 1913–15, now at Svenskt visarkiv and listed by UNESCO as Memory of the World (2025).

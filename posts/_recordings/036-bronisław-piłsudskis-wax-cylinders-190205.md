@@ -23,8 +23,6 @@ urls:
   - "https://kaken.nii.ac.jp/report/KAKENHI-PROJECT-59890001/"
   - "https://culture.pl/en/article/bronislaw-pilsudski-recording-the-ainu"
   - "https://en.wikipedia.org/wiki/Bronis%C5%82aw_Pi%C5%82sudski"
-images:
-  - "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bronis%C5%82aw_Pi%C5%82sudski_1.jpg | Bronisław Piłsudski (1866–1918), ethnographer of the Ainu; source: https://commons.wikimedia.org/wiki/File:Bronis%C5%82aw_Pi%C5%82sudski_1.jpg; credit: public domain"
 ---
 
 In March 1887 Bronisław Piłsudski was arrested for joining the plot to assassinate Tsar Alexander III, alongside Aleksandr Ulyanov — Lenin's brother. Ulyanov was hanged. Piłsudski's sentence became fifteen years' hard labour on Sakhalin, a penal island at the far edge of the empire. There the convict became an ethnographer: he learned Ainu, married an Ainu woman, Chufsanma, and raised two children with her. Between 1902 and 1905 he carried an Edison phonograph through Ainu settlements on Sakhalin and Hokkaido, recording speech and song on wax as assimilation policies pushed the language toward extinction — the last native speaker of Sakhalin Ainu died in 1994. Then the cylinders vanished into Poland, where they were rediscovered in 1977. In 1983 they reached Hokkaido University, whose researchers built a laser-beam player so the cracked wax could be read without a stylus. One of the Ainu songs now plays on Wikimedia Commons. Rights note: any further use requires Ainu community consent.

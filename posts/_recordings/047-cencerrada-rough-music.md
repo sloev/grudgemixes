@@ -22,8 +22,6 @@ urls:
   - "https://academic.oup.com/past/article/263/1/249/7505499"
   - "https://www.eldiario.es/madrid/somos/malasana/de-aquellas-cencerradas-estas-caceroladas_1_6413678.html"
   - "https://commons.wikimedia.org/wiki/File:Hudibras_Encounters_the_Skimmington_(Plate_7-_Illustrations_to_Samuel_Butler's_Hudibras)_MET_DP825448.jpg"
-images:
-  - "https://upload.wikimedia.org/wikipedia/commons/e/e0/Hudibras_Encounters_the_Skimmington_%28Plate_7-_Illustrations_to_Samuel_Butler%27s_Hudibras%29_MET_DP825448.jpg | A skimmington ride, from Illustrations to Samuel Butler's Hudibras (Plate 7), Metropolitan Museum of Art — the English cousin of the cencerrada; source: https://commons.wikimedia.org/wiki/File:Hudibras_Encounters_the_Skimmington_(Plate_7-_Illustrations_to_Samuel_Butler%27s_Hudibras)_MET_DP825448.jpg; credit: Metropolitan Museum of Art, CC0"
 ---
 
 Across Europe there was a custom with many names: *charivari*, *cencerrada*, *scampanata*, *Katzenmusik*, rough music. When a community judged that someone had broken its rules, it gathered at night outside their door and made the worst noise it could: cowbells, pans, horns, whistles. Often the target was a widow or widower who had remarried. The noise was the sentence.

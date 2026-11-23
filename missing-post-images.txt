@@ -11,6 +11,7 @@ posts/_recordings/031-bentley-ball-jesse-james-1919.md
 posts/_recordings/032-bezazian-bam-porotan-1916.md
 posts/_recordings/036-bronisław-piłsudskis-wax-cylinders-190205.md
 posts/_recordings/041-çakum-effendi-malandanzas-del-asker-gramophone-11-12734-1911.md
+posts/_recordings/045-cassettes-from-the-198291-kurdish-language-ban.md
 posts/_recordings/047-cencerrada-rough-music.md
 posts/_recordings/048-chacabuco-clandestine-cassette-lp-lineage-mmdh-centros-de-detenc.md
 posts/_recordings/051-choir-of-the-uzuakoli-leprosy-colony-harcourt-whyte-compositions.md
@@ -34,6 +35,7 @@ posts/_recordings/102-julius-sutton-single-girl-gordon-cylinder-a79-item-nc117-2
 posts/_recordings/103-kalaupapa-settlement-choirs-1952-cassette.md
 posts/_recordings/106-kolkata-theatre-recording-lead-khune-nahak-gana-gana-gana-1902.md
 posts/_recordings/111-liberation-massachusetts-prison-band-c1981.md
+posts/_recordings/115-ma-rainey-and-her-georgia-band-stack-olee-blues.md
 posts/_recordings/119-malinda-jackson-parker.md
 posts/_recordings/125-margaret-valiant-fsa-migrant-camp-discs-193839.md
 posts/_recordings/126-maría-garcía-la-noche-de-reyes-asturias-recorded-19-january-1939.md
@@ -63,10 +65,14 @@ posts/_recordings/198-the-jonestown-express-14-cassettes-91-tracks-peoples-templ
 posts/_recordings/201-thirty-minutes-behind-the-walls-wbap-prison-radio-193844-lost.md
 posts/_recordings/202-time-control-addiction-by-do-1986-home-taped-synth-pop-the-casse.md
 posts/_recordings/207-tuskegee-institute-singers-ive-been-buked-victor-1916.md
+posts/_recordings/213-valentín-mancera-corrido-family-victor-97040-victor-72590-a-1905.md
 posts/_recordings/214-velly-joonas-radio-archive.md
+posts/_recordings/221-womens-a-cappella-songs-parchman-loc-field-discs.md
 posts/_recordings/223-you-ought-to-be-arrested-and-put-in-jail-land-norris-okeh-40374.md
 posts/_recordings/226-zen-bakirkoy-1998.md
 posts/_recordings/228-吉田奈良丸-勝田新左エ門-victor-5018150182-catalogue-year-1915.md
 posts/_recordings/231-john-d-weaver-fox-chase-afs-9833a3-1938.md
 posts/_recordings/232-timmonsville-tobacco-workers-work-songs-1937.md
 posts/_recordings/233-hicks-carmichael-ballad-kirkland-1937.md
+posts/_recordings/234-vivaldirt-four-seasons-in-real-time.md
+posts/_recordings/235-oso-kuka-gramophone-shkoder-1908.md

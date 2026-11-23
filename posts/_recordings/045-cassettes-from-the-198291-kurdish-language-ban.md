@@ -20,8 +20,6 @@ recording_verified: true
 urls:
   - "https://theatticmag.com/reports/2369/on-the-trails-of-a-banned-language.html"
   - "https://theamargi.com/posts/how-a-cassette-shop-in-diyarbakir-preserved-kurdish-music"
-images:
-  - "media/045-cassettes-from-the-198291-kurdish-language-ban-2.jpg | On the Trails of a Banned Language | The Attic; source: https://theatticmag.com/reports/2369/on-the-trails-of-a-banned-language.html"
 ---
 
 After the 1980 coup, Turkey's 1982 constitution made Kurdish illegal to speak, sing, even whistle. Musa Anter, a writer, was dragged before a court for whistling in it. Music moved onto cassette. Copies of copies, made on home tape recorders, were sold under the counter or disguised with Turkish pop covers, hidden in dowry chests, gardens and charcoal stores — Turkish tapes sat openly on the shelf, Kurdish tapes waited underneath. In Diyarbakır, the Studyo Ses shop, founded in 1972, became a quiet archive for the language. Singers like Ayşe Şan circulated on those tapes while the singer herself was persecuted so badly that her own family refused to let her return home, even to see her dying mother; she died in 1996, five years after the ban loosened. The cassette wasn't just a format — under the ban it was the only place the language could still be heard, and families kept it buried like something precious.

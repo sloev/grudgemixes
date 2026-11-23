@@ -20,7 +20,7 @@ urls:
   - "https://savetibet.org/ngawang-sangdrol-testifies-on-human-rights-before-us-congress/"
   - "https://savetibet.org/wp-content/uploads/2013/05/Rukhag3.pdf"
 images:
-  - "media/060-drapchi-14-nuns-cassette-2.jpg | People's Republic of China: Prison terms increased for nuns in Tibet - Amnesty International; source: https://www.amnesty.org/en/documents/asa17/011/1994/en/"
+  - "media/060-drapchi-14-nuns-cassette.jpg | People's Republic of China: Prison terms increased for nuns in Tibet - Amnesty International; source: https://www.amnesty.org/en/documents/asa17/011/1994/en/"
 ---
 
 **Where and when:** Drapchi Prison, Lhasa; Date(s): June 1993; Medium: Cassette (variant copies)
