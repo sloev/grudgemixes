@@ -29,4 +29,4 @@ The record is an unlikely little universe of glockenspiels, xylophones, vibrapho
 ## To do
 
 - Confirm the original private-press catalogue number and exact recording dates from a label scan or sleeve.
-- Find a freely licensed image of the original sleeve or a relevant percussion instrument; no photographs of people.
+- Find a freely licensed image of the original sleeve, the ensemble, Ron Forbes, Evelyn Glennie at the relevant age, or a relevant percussion instrument. Photographs of the young performers are welcome if the image is appropriately sourced and rights-cleared; take extra care with context and captioning.
