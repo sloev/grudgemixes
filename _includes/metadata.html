@@ -1,0 +1,121 @@
+{% assign post = include.post %}
+<div class="graphical-meta{% if include.compact %} graphical-meta-compact{% endif %}" aria-label="Recording details">
+  {% if post.who %}<span class="meta-item"><span class="meta-icon" aria-hidden="true">🎙️</span><span>{{ post.who | escape }}</span></span>{% endif %}
+  {% if post.when %}<span class="meta-item"><span class="meta-icon" aria-hidden="true">📅</span><span>{{ post.when | escape }}</span></span>{% endif %}
+  {% unless include.compact %}{% if post.where %}<span class="meta-item"><span class="meta-icon" aria-hidden="true">📍</span><span>{{ post.where | escape }}</span></span>{% endif %}{% endunless %}
+  {% if post.country %}
+    {% assign countries = post.country | replace: " & ", "|" | replace: " / ", "|" | replace: ", ", "|" | split: "|" %}
+    <span class="meta-item meta-countries" aria-label="Country">
+      {% for country in countries %}
+        {% assign country_key = country | strip | downcase %}
+        {% case country_key %}
+          {% when "italy" %}{% assign flag = "🇮🇹" %}
+          {% when "france" %}{% assign flag = "🇫🇷" %}
+          {% when "usa" or "us" or "united states" %}{% assign flag = "🇺🇸" %}
+          {% when "uk" or "united kingdom" or "england" or "scotland" %}{% assign flag = "🇬🇧" %}
+          {% when "denmark" %}{% assign flag = "🇩🇰" %}
+          {% when "germany" %}{% assign flag = "🇩🇪" %}
+          {% when "poland" %}{% assign flag = "🇵🇱" %}
+          {% when "japan" %}{% assign flag = "🇯🇵" %}
+          {% when "china" %}{% assign flag = "🇨🇳" %}
+          {% when "russia" %}{% assign flag = "🇷🇺" %}
+          {% when "spain" %}{% assign flag = "🇪🇸" %}
+          {% when "portugal" %}{% assign flag = "🇵🇹" %}
+          {% when "brazil" %}{% assign flag = "🇧🇷" %}
+          {% when "argentina" %}{% assign flag = "🇦🇷" %}
+          {% when "chile" %}{% assign flag = "🇨🇱" %}
+          {% when "mexico" %}{% assign flag = "🇲🇽" %}
+          {% when "canada" %}{% assign flag = "🇨🇦" %}
+          {% when "australia" %}{% assign flag = "🇦🇺" %}
+          {% when "new zealand" %}{% assign flag = "🇳🇿" %}
+          {% when "india" %}{% assign flag = "🇮🇳" %}
+          {% when "iran" %}{% assign flag = "🇮🇷" %}
+          {% when "iraq" %}{% assign flag = "🇮🇶" %}
+          {% when "turkey" or "türkiye" %}{% assign flag = "🇹🇷" %}
+          {% when "greece" %}{% assign flag = "🇬🇷" %}
+          {% when "sweden" %}{% assign flag = "🇸🇪" %}
+          {% when "norway" %}{% assign flag = "🇳🇴" %}
+          {% when "finland" %}{% assign flag = "🇫🇮" %}
+          {% when "netherlands" %}{% assign flag = "🇳🇱" %}
+          {% when "belgium" %}{% assign flag = "🇧🇪" %}
+          {% when "switzerland" %}{% assign flag = "🇨🇭" %}
+          {% when "austria" %}{% assign flag = "🇦🇹" %}
+          {% when "czech republic" or "czechia" %}{% assign flag = "🇨🇿" %}
+          {% when "ukraine" %}{% assign flag = "🇺🇦" %}
+          {% when "south africa" %}{% assign flag = "🇿🇦" %}
+          {% when "nigeria" %}{% assign flag = "🇳🇬" %}
+          {% when "ghana" %}{% assign flag = "🇬🇭" %}
+          {% when "egypt" %}{% assign flag = "🇪🇬" %}
+          {% when "ethiopia" %}{% assign flag = "🇪🇹" %}
+          {% when "israel" %}{% assign flag = "🇮🇱" %}
+          {% when "palestine" %}{% assign flag = "🇵🇸" %}
+          {% when "korea" or "south korea" %}{% assign flag = "🇰🇷" %}
+          {% when "taiwan" %}{% assign flag = "🇹🇼" %}
+          {% when "indonesia" %}{% assign flag = "🇮🇩" %}
+          {% when "vietnam" %}{% assign flag = "🇻🇳" %}
+          {% when "cuba" %}{% assign flag = "🇨🇺" %}
+          {% when "jamaica" %}{% assign flag = "🇯🇲" %}
+          {% when "peru" %}{% assign flag = "🇵🇪" %}
+          {% when "colombia" %}{% assign flag = "🇨🇴" %}
+          {% when "ireland" %}{% assign flag = "🇮🇪" %}
+          {% when "romania" %}{% assign flag = "🇷🇴" %}
+          {% when "bulgaria" %}{% assign flag = "🇧🇬" %}
+          {% when "serbia" %}{% assign flag = "🇷🇸" %}
+          {% when "croatia" %}{% assign flag = "🇭🇷" %}
+          {% when "georgia" %}{% assign flag = "🇬🇪" %}
+          {% when "armenia" %}{% assign flag = "🇦🇲" %}
+          {% when "azerbaijan" %}{% assign flag = "🇦🇿" %}
+          {% when "lebanon" %}{% assign flag = "🇱🇧" %}
+          {% when "syria" %}{% assign flag = "🇸🇾" %}
+          {% when "afghanistan" %}{% assign flag = "🇦🇫" %}
+          {% when "pakistan" %}{% assign flag = "🇵🇰" %}
+          {% when "bangladesh" %}{% assign flag = "🇧🇩" %}
+          {% when "myanmar" or "burma" %}{% assign flag = "🇲🇲" %}
+          {% when "thailand" %}{% assign flag = "🇹🇭" %}
+          {% when "philippines" %}{% assign flag = "🇵🇭" %}
+          {% when "mongolia" %}{% assign flag = "🇲🇳" %}
+          {% else %}{% assign flag = "🌍" %}
+        {% endcase %}
+        <span class="country-flag" title="{{ country | strip | escape }}">{{ flag }}</span>
+      {% endfor %}
+    </span>
+  {% endif %}
+  {% unless include.compact %}{% if post.what %}<span class="meta-item"><span class="meta-icon" aria-hidden="true">🎼</span><span>{{ post.what | escape }}</span></span>{% endif %}{% endunless %}
+  {% if post.medium %}
+    {% assign medium_key = post.medium | downcase %}
+    {% case medium_key %}
+      {% when "78 rpm disc" %}{% assign medium_icon = "record" %}
+      {% when "wax cylinder" %}{% assign medium_icon = "🕯️" %}
+      {% when "x-ray record" %}{% assign medium_icon = "🩻" %}
+      {% when "vinyl" %}{% assign medium_icon = "💿" %}
+      {% when "cassette" %}{% assign medium_icon = "📼" %}
+      {% when "reel-to-reel" %}{% assign medium_icon = "🎞️" %}
+      {% when "radio" %}{% assign medium_icon = "📻" %}
+      {% when "field recording" %}{% assign medium_icon = "🎙️" %}
+      {% when "live performance" %}{% assign medium_icon = "🎤" %}
+      {% when "video" %}{% assign medium_icon = "🎬" %}
+      {% when "digital" %}{% assign medium_icon = "💾" %}
+      {% else %}{% assign medium_icon = "🔊" %}
+    {% endcase %}
+    <span class="meta-item meta-medium">
+      {% if medium_icon == "record" %}<span class="meta-icon record-icon" role="img" aria-label="78 rpm record"></span>{% else %}<span class="meta-icon" aria-hidden="true">{{ medium_icon }}</span>{% endif %}
+      <span>{{ post.medium | escape }}</span>
+    </span>
+  {% endif %}
+  {% if post.tags and post.tags.size > 0 %}
+    {% for tag in post.tags %}
+      {% assign tag_key = tag | downcase %}
+      {% case tag_key %}
+        {% when "fighting-words" %}{% assign tag_icon = "⚔️" %}
+        {% when "the-account" %}{% assign tag_icon = "🗣️" %}
+        {% when "out-of-turn" %}{% assign tag_icon = "↗️" %}
+        {% when "made-anyway" %}{% assign tag_icon = "✊" %}
+        {% when "unwanted" %}{% assign tag_icon = "🚫" %}
+        {% when "found" %}{% assign tag_icon = "🔎" %}
+        {% else %}{% assign tag_icon = "🏷️" %}
+      {% endcase %}
+      <span class="meta-item meta-tag"><span class="meta-icon" aria-hidden="true">{{ tag_icon }}</span><span>{{ tag | replace: "-", " " | escape }}</span></span>
+    {% endfor %}
+  {% endif %}
+  {% if post.tracks %}<span class="meta-item"><span class="meta-icon" aria-hidden="true">🎧</span><span>{{ post.tracks.size }} tracks</span></span>{% endif %}
+</div>
