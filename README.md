@@ -16,7 +16,7 @@ GitHub Settings → Pages → Build and deployment → Deploy from a branch → 
 - `media/` contains post images.
 - `_layouts/`, `index.html`, and `mixtapes/index.html` are Jekyll templates. There is no About page.
 - `style.css` is the stylesheet.
-- `jekyll-feed` generates the RSS feed.
+- `feed.xml` generates one Atom feed containing every published recording and mixtape, merged and ordered by the shared catalogue number (newest number first).
 
 All collection documents are rendered. The `draft` field is editorial metadata and does not hide a document from Jekyll output. The catalogue number—not the publication date—is the visible post identifier; dates remain descriptive metadata.
 
