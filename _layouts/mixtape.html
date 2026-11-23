@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
+{% include header.html %}
 {% assign catalogue_number = page.name | split: "-" | first %}
 <article class="single-entry mixtape-entry">
   <p class="back-link"><a href="{{ '/mixtapes/' | relative_url }}">← Mixtapes</a></p>
-  <p class="entry-kicker"><span class="catalogue-number">{{ catalogue_number }}</span><span>Mixtape</span></p>
+  <p class="entry-kicker"><span class="catalogue-number">#{{ catalogue_number }}</span><span>Mixtape</span></p>
   <h1>{{ page.title | escape }}</h1>
   {% if page.description %}<p class="entry-summary">{{ page.description | escape }}</p>{% endif %}
   {% if page.images and page.images.size > 0 %}{% assign image_parts = page.images[0] | split: " | " %}<figure class="entry-image"><img src="{{ '/' | append: image_parts[0] | relative_url }}" alt="{{ image_parts[1] | default: page.title | escape }}"><figcaption>{{ image_parts[1] | escape }}</figcaption></figure>{% endif %}
