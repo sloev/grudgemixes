@@ -13,12 +13,9 @@ permalink: /vivaldirt/
   <h1>VivaldiRT</h1>
   <p class="entry-summary">Four Seasons in Real Time.</p>
   <div class="prose">
-    Vivaldi's *The Four Seasons* becomes a piece of music that unfolds across the year rather than in a single sitting.
-
-    Its playhead is always the present moment.
-    The music follows the calendar, letting the seasons pass at the pace of the world outside the window.
-
-    It is a small act of listening to time itself: a familiar composition turned into a continuous, living stream.
+    <p>Vivaldi's <em>The Four Seasons</em> becomes a piece of music that unfolds across the year rather than in a single sitting.</p>
+    <p>Its playhead is always the present moment. The music follows the calendar, letting the seasons pass at the pace of the world outside the window.</p>
+    <p>It is a small act of listening to time itself: a familiar composition turned into a continuous, living stream.</p>
   </div>
   <section class="listen-section">
     <h2>Listen</h2>
