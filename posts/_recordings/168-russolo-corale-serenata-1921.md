@@ -8,7 +8,7 @@ summary: "The Futurist Luigi Russolo built noise-intoners: boxes with cranks and
 who: "Antonio & Luigi Russolo, with intonarumori"
 when: "1921"
 where: "Milan / Paris, Italy & France"
-country: "Italy"
+country: "Italy & France"
 what: "“Corale” / “Serenata”, Grammofono R6920"
 medium: "78 rpm disc"
 tags:
