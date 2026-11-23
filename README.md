@@ -28,7 +28,7 @@ Site: https://sloev.github.io/grudgemixes/ · Feed: https://sloev.github.io/grud
 - Original recording date must be before 2000, and a named act must have ceased by the end of 2000.
 - The catalogue prioritises marginalised, unknown, and outsider music; sources and uncertainty should be stated.
 - Every recording post must provide either `recording_url` (a verified, recording-specific public listening page or direct audio/video stream) or `recording_embed_url` (a verified player embed for that exact recording). The recording layout renders supported embeds responsively. General archive homepages, catalogues, biographies, and related articles do not count. If the exact recording cannot be played publicly, do not fabricate a link; withhold the post until access is secured. `draft: true` does not hide a post on this site.
-- Genuine image gaps are listed in [missing-post-images.txt](missing-post-images.txt). No placeholders are used.
+- Images may show people: relevant portraits of artists, performers, inventors, composers, communities and historical figures are encouraged, not prohibited. Prefer actual people and objects connected to the recording; use contextual images when direct documentation is unavailable and caption them honestly. Use public-domain, openly licensed or permission-cleared images with creator, source, rights statement and caption. Respect privacy and cultural restrictions. Genuine image gaps are listed in [missing-post-images.txt](missing-post-images.txt); no generic placeholders are used.
 
 See [AGENTS.md](AGENTS.md) for the full editorial and rights rules.
 
