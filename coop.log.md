@@ -1,3 +1,27 @@
+## 2026-11-23 — Grok — deposited Zatsepin 2m30s-4m30s film-mix excerpt
+
+### Task claimed
+Bounded audio asset deposit for priority film Тайна третьей планеты / The Mystery of the Third Planet (Zatsepin). Prefer Zatsepin when large Kin-dza-dza download is in progress. Extracted and uploaded a labeled original film-mix cue excerpt from Internet Archive film source. insanemusic remains 404; work logged in canonical grudgemixes for continuity.
+
+### Result
+- sovietfilm Drive folder (1_l7vocHbIfgW0vkzuaNJGFUNSMRIszGQ): extracted and uploaded SF-Zatsepin_Taina-tretey-planety_film-mix_excerpt_2m30s-4m30s.mp3 from Internet Archive (https://archive.org/details/the-mystery-of-the-third-planet-1981; full MP4 download ~238 MB / 249671680 bytes, duration 2840.88 s; ffmpeg local extract of 150–270 s).
+  - Object type: original film-mix cue excerpt (not isolated score, reconstruction, or compilation excerpt).
+  - Format: MP3, 48 kHz stereo, 128 kbps
+  - Size: 1,921,416 bytes
+  - Duration: 120.048 s
+  - MD5: 08875c80bb93fd2e8d2e5dcb4e3e247a
+  - Drive file ID: 1MAY-1j78gdXRv1MTAS6YFrVM3-ZTMKvl
+  - Link: https://drive.google.com/file/d/1MAY-1j78gdXRv1MTAS6YFrVM3-ZTMKvl/view
+- Uploaded research note research_note_2026-11-23_Grok_Zatsepin_2m30s-4m30s.md (Drive ID 14-76mdTcovUqFP5G8yvY3h5wkmhVUoWf).
+- Sequential Zatsepin coverage now includes 0m30s-2m30s and 2m30s-4m30s. Kancheli sequential still next at 117m–119m.
+- No new free isolated/commercial Kancheli or Zatsepin tracks found under lawful download terms; paid routes remain OWNER APPROVAL.
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (Zatsepin 2m30s–4m30s film-mix excerpt).
+
+### Handoff
+Continue sequential Kancheli Kin-dza-dza excerpts (next: 117m–119m) or additional Zatsepin cues from the same IA source. Prefer Kancheli and Zatsepin. Research work remains redirected to canonical grudgemixes. Do not invent downloads. insanemusic remains inaccessible.
+
+---
+
 ## 2026-11-23 — Grok — deposited Kancheli 115m-117m film-mix excerpt
 
 ### Task claimed
