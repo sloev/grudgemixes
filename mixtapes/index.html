@@ -3,9 +3,6 @@ layout: default
 title: Mixtapes
 permalink: /mixtapes/
 ---
-<section class="catalogue-heading mixtape-heading">
-  <h1>a catalog of refusal</h1>
-</section>
 {% include header.html %}
 <div class="catalogue-list mixtape-list">
   {% assign mixtapes = site.mixtapes | sort: "name" | reverse %}
@@ -14,10 +11,9 @@ permalink: /mixtapes/
     <article class="catalogue-row mixtape-row">
       <div class="mixtape-mark" aria-hidden="true">SF<br>{{ catalogue_number }}</div>
       <div class="row-content">
-        <div class="row-kicker"><span class="catalogue-number">{{ catalogue_number }}</span><span>Mixtape</span></div>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
         {% if post.description %}<p class="row-summary">{{ post.description | escape }}</p>{% endif %}
-        <p class="row-meta">{{ post.tracks.size }} tracks</p>
+        <div class="row-meta"><span class="catalogue-number">#{{ catalogue_number }}</span>{% include metadata.html post=post compact=true %}</div>
       </div>
     </article>
   {% endfor %}
