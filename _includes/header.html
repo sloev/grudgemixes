@@ -1,8 +1,43 @@
+<section class="catalogue-heading">
+  <h1 aria-label="A catalog of refusal"><span>a catalog of</span><span>refusal</span></h1>
+</section>
+<script>
+(function () {
+  function stretchTitle() {
+    var h1 = document.querySelector('.catalogue-heading h1');
+    if (!h1) return;
+    var available = h1.clientWidth || document.documentElement.clientWidth;
+    if (available < 10) return;
+    var probe = document.createElement('span');
+    var cs = getComputedStyle(h1);
+    probe.style.cssText = 'position:absolute;left:-9999px;top:0;white-space:nowrap;visibility:hidden;'
+      + 'font-family:' + cs.fontFamily + ';font-size:' + cs.fontSize + ';font-weight:' + cs.fontWeight + ';'
+      + 'letter-spacing:' + cs.letterSpacing + ';text-transform:' + cs.textTransform + ';';
+    document.body.appendChild(probe);
+    h1.querySelectorAll('span').forEach(function (span) {
+      probe.textContent = span.textContent;
+      var natural = probe.offsetWidth;
+      if (natural > 0) {
+        span.style.transformOrigin = 'left center';
+        span.style.transform = 'scaleX(' + (available / natural) + ')';
+      }
+    });
+    document.body.removeChild(probe);
+  }
+  function run() {
+    stretchTitle();
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(stretchTitle);
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', run);
+  else run();
+  window.addEventListener('resize', stretchTitle);
+})();
+</script>
 <header class="site-header">
   <nav class="site-menu" aria-label="Main navigation">
     <a href="{{ '/' | relative_url }}">Recordings</a>
     <a href="{{ '/mixtapes/' | relative_url }}">Mixtapes</a>
     <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
-    <button class="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-panel" data-filter-toggle>Filter / Sort</button>
+    {% if page.url == '/' %}<button class="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-panel" data-filter-toggle>Filter / Sort</button>{% endif %}
   </nav>
 </header>
