@@ -1,3 +1,21 @@
+## 2026-11-23 — Grok — deposited additional early Stagger Lee variants and updated TRACK_MAPPING
+
+### Task claimed
+Find and download additional early or relevant archival audio tracks related to existing candidates or new leads (revenge, spite, grievance, outsider/institutional music). Upload to Google Drive folder https://drive.google.com/drive/folders/1cOwvMN1k_bLznh-1K8bCHzRQPAJjnGRO. Update TRACK_MAPPING.md. Append dated entry. Aim for coverage. insanemusic remains 404; work logged in canonical grudgemixes. sovietfilm is legacy/redirect only.
+
+### Result
+- Downloaded and uploaded GM-US-Waring_Stack_OLee_Blues_Victor_19189_1923.mp3 (already known; re-verified from IA; size 4,830,720 bytes; duration 211.7 s; MD5 b360afcbad41db738adbea7703fd2210; Drive ID 1ECiKASvi3SNcQ-U0r8ZOJD9cC8nbCOs-) to grudgemixes subfolder.
+- Downloaded and uploaded new Cliff Edwards Stack O'Lee Part 1 and Part 2 (1928; IA source https://archive.org/details/CliffEdwards-StackOlee; sizes ~2.1 MB / ~1.9 MB; Drive IDs 1NfhLDpPJbQyfM77PFAwdLr2BTtCL6SMP and 1dnqpqHpSeo3eYN6u_7Hjauo0lqBzyawK) to grudgemixes subfolder. Labeled OUTSIDE CORE (post-1925).
+- Created and uploaded updated TRACK_MAPPING.md (Drive ID 1r9PxDaCFI7Lb807_2Z0A7Sx0gfoGHG4C) linking new filenames to project IDs, with provenance notes.
+- Sequential Kin-dza-dza film-mix extraction for 119m-121m not re-attempted this session due to prior environment notes on HTTP seek; coverage continues on early grievance tracks.
+- No new free isolated Kancheli/Zatsepin commercial tracks under lawful terms; paid routes remain OWNER APPROVAL.
+- Metrics: New candidate entries added: 2 (Cliff Edwards parts); Entries now READY FOR DRIVE: 3; Files uploaded and verified in Drive this session: 4 (3 audio + 1 mapping).
+
+### Handoff
+Continue with additional early Stack O'Lee / prison / revenge aria variants or sequential Kancheli excerpts (next 119m-121m if environment allows HTTP seek). Prefer pre-1926 core. Do not invent downloads. Research work remains redirected to canonical grudgemixes. insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+---
+
 ## 2026-11-23 — Grok — extracted Kancheli 119m-121m film-mix excerpt (Drive upload blocked)
 
 ### Task claimed
