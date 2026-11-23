@@ -28,4 +28,4 @@ That title is a whole argument in seven words. The video belongs to a moment whe
 
 - Trace the original video, broadcast date and rights holder; do not embed an unlicensed copy.
 - Verify the title spelling and performer credits against the original programme or archive record.
-- Find a freely licensed image of a period video camera or broadcast equipment; no photographs of people.
+- Find a freely licensed image of the performers, Paddy Ladd, or a period video/broadcast context. Portraits and photographs of people are welcome when relevant; caption the image accurately and distinguish archival documentation from contextual illustration.
