@@ -446,3 +446,54 @@ a:active {
   .graphical-meta { gap: .4rem .7rem; font-size: .88rem; }
   .graphical-meta-compact { font-size: .82rem; }
 }
+
+
+/* Post and listing metadata presentation */
+.post-meta {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 1.5rem;
+  row-gap: 0.5rem;
+  max-width: 720px;
+  margin: 1.5rem 0 1rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid #e5e5e5;
+  background: #fafafa;
+}
+.post-meta dt {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #777;
+  font-weight: 600;
+}
+.post-meta dd { margin: 0; color: #111; }
+.post-tags { max-width: 720px; margin: 0 0 1.5rem; }
+.post-tags .tag {
+  display: inline-block;
+  margin: 0 0.4rem 0.4rem 0;
+  padding: 0.15rem 0.55rem;
+  font-size: 0.8rem;
+  color: #555;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+}
+.listing-meta {
+  margin: 0.25rem 0 0.35rem;
+  font-size: 0.9rem;
+  color: #666;
+}
+.listing-tags { margin: 0 0 0.5rem; }
+.listing-tags .tag {
+  display: inline-block;
+  margin: 0 0.35rem 0.35rem 0;
+  padding: 0.1rem 0.45rem;
+  font-size: 0.75rem;
+  color: #666;
+  border: 1px solid #e0e0e0;
+  border-radius: 999px;
+}
+@media (max-width: 600px) {
+  .post-meta { grid-template-columns: 1fr; row-gap: 0.15rem; }
+  .post-meta dd { margin-bottom: 0.5rem; }
+}
