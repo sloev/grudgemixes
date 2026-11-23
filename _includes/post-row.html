@@ -25,7 +25,6 @@
     {% if include.post.summary %}<p class="row-summary">{{ include.post.summary | escape }}</p>{% endif %}
     <div class="row-footer">
       <div class="row-meta">
-        <span class="catalogue-number">#{{ catalogue_number }}</span>
         {% assign meta_artist = include.post.artist | default: include.post.who %}
         {% assign meta_year = include.post.recording_year | default: include.post.when %}
         {% assign meta_location = include.post.location | default: include.post.where %}
