@@ -2,48 +2,6 @@
 layout: default
 title: Recordings
 ---
-<section class="catalogue-heading">
-  <h1 aria-label="A catalog of refusal"><span>a catalog of</span><span>refusal</span></h1>
-</section>
-
-<script>
-(function () {
-  function stretchTitle() {
-    var h1 = document.querySelector('.catalogue-heading h1');
-    if (!h1) return;
-    var available = h1.clientWidth || document.documentElement.clientWidth;
-    if (available < 10) return;
-
-    // Measure natural text width in a detached element (no width:100%)
-    var probe = document.createElement('span');
-    var cs = getComputedStyle(h1);
-    probe.style.cssText = 'position:absolute;left:-9999px;top:0;white-space:nowrap;visibility:hidden;'
-      + 'font-family:' + cs.fontFamily + ';'
-      + 'font-size:' + cs.fontSize + ';'
-      + 'font-weight:' + cs.fontWeight + ';'
-      + 'letter-spacing:' + cs.letterSpacing + ';'
-      + 'text-transform:' + cs.textTransform + ';';
-    document.body.appendChild(probe);
-
-    h1.querySelectorAll('span').forEach(function (span) {
-      probe.textContent = span.textContent;
-      var natural = probe.offsetWidth;
-      if (natural < 1) return;
-      var scale = available / natural;
-      span.style.transformOrigin = 'left center';
-      span.style.transform = 'scaleX(' + scale + ')';
-    });
-    document.body.removeChild(probe);
-  }
-  function run() {
-    stretchTitle();
-    if (document.fonts && document.fonts.ready) document.fonts.ready.then(stretchTitle);
-  }
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', run);
-  else run();
-  window.addEventListener('resize', stretchTitle);
-})();
-</script>
 
 <script>
 (function () {
@@ -68,10 +26,8 @@ title: Recordings
     var a1 = 0.4 + rand() * 0.4, a2 = 0.18 + rand() * 0.32, a3 = 0.08 + rand() * 0.22;
     for (var i = 0; i <= points; i++) {
       var t = i / points;
-      var w = a1 * Math.sin(t * f1 * 6.2832 + p1)
-            + a2 * Math.sin(t * f2 * 6.2832 + p2)
-            + a3 * Math.sin(t * f3 * 6.2832 + p3)
-            + (rand() - 0.5) * 0.3;
+      var w = a1 * Math.sin(t * f1 * 6.2832 + p1) + a2 * Math.sin(t * f2 * 6.2832 + p2)
+            + a3 * Math.sin(t * f3 * 6.2832 + p3) + (rand() - 0.5) * 0.3;
       w = Math.abs(w);
       if (rand() < 0.07) w += 0.4 + rand() * 0.55;
       pts.push((t * 100).toFixed(2) + '% ' + (base - w * amp).toFixed(1) + 'px');
@@ -183,7 +139,7 @@ title: Recordings
     });
     if (count) count.textContent = visible + " of " + rows.length + " recordings";
   }
-  if (sortSelect) sortSelect.addEventListener("change", function () { sortRows(); });
+  if (sortSelect) sortSelect.addEventListener("change", sortRows);
   bar.querySelector("[data-clear-filters]").addEventListener("click", function () {
     selects.forEach(function (select) { select.value = ""; });
     apply();
