@@ -28,4 +28,4 @@ The maker’s identity remains unclear. A full-tape transfer circulated through 
 
 - Find the original No Longer Forgotten Music entry and verify the 1985 date and Rotterdam attribution.
 - Trace the original cassette, maker and rights holder; seek permission or a label/artist-hosted listening link.
-- Find a freely licensed image of a period cassette deck or relevant instrument; no generic stand-ins unless necessary.
+- Find an image of the cassette sleeve, a period cassette deck, or any relevant period gear. Generic stand-ins are acceptable when nothing closer exists; include caption and source.
