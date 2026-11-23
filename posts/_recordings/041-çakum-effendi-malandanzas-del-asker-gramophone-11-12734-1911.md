@@ -22,5 +22,7 @@ urls:
   - "https://music.amazon.com/albums/B08P6MT32N"
   - "https://www.ynet.co.il/articles/0,7340,L-4898292,00.html"
   - "https://folkmasa.org/avshir/pshir_fls.php"
+images:
+  - "https://upload.wikimedia.org/wikipedia/commons/4/4e/Salonica_Jewish_Fire_Department_May_11_1911_Fire_Chief_Selomo_Barzion.jpg | The Jewish Guardia de Fuego of Salonica, May 1911: the Sephardic community of the disc, the year it was recorded; source: https://commons.wikimedia.org/wiki/File:Salonica_Jewish_Fire_Department_May_11_1911_Fire_Chief_Selomo_Barzion.jpg; credit: public domain"
 ---
 The title is usually translated as “Misfortunes of the Soldier.” The Jewish Music Research Centre identifies it as one of the Ladino songs responding to *askerlik*, the compulsory military service imposed on Jews in the Ottoman Empire from 1908. Its lyrics follow a son leaving for the army and the family left behind. Çakum Effendi’s 1911 version is close to a recording by Haim Effendi; the archive notes that rare oral versions likely descend from these commercial discs. The EMI collection places Çakum among the Salonica singers it documented in 1911. This 78 makes the policy’s cost audible at household scale.
