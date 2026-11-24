@@ -1,3 +1,22 @@
+## 2026-11-24 — Grok — deposited Zatsepin 22m30s-24m30s film-mix excerpt
+
+### Task claimed
+Bounded audio asset deposit for priority film Тайна третьей планеты / The Mystery of the Third Planet (Zatsepin). Continue sequential film-mix cue coverage from Internet Archive source (https://archive.org/details/the-mystery-of-the-third-planet-1981). Prefer Zatsepin. insanemusic remains 404; work logged in canonical grudgemixes for continuity. sovietfilm is legacy/redirect only.
+
+### Result
+- Full local download of IA The Mystery of the Third Planet (1981).mp4 (262 MB; duration 2840.88 s) to /tmp, then ffmpeg extract of 1350–1470 s.
+- Deposited and verified SF-Zatsepin_Taina-tretey-planety_film-mix_excerpt_22m30s-24m30s.mp3 in sovietfilm Drive (ID 1FByd-PoZLwD4ExQA2WDnnBv5Xttk3oKl; 1,921,416 bytes; 120.048 s; MD5 2152ec1474099c9e797f7976257c28be). Object type: original film-mix cue excerpt (not isolated score, reconstruction, or compilation excerpt).
+- Uploaded accompanying research note research_note_2026-11-24_Grok_Zatsepin_22m30s-24m30s.md (Drive ID 1z1ubYQJIX6kp54m2KIWCLi-CMlFzKgSv).
+- Updated TRACK_MAPPING.md in parent Drive folder (new ID 1iSI1ufEaaEOj3iSlSKiKdl4UfkHbx9PX) linking the filename to sovietfilm / Zatsepin.
+- Sequential coverage of early-to-mid film-mix continues (prior 0m30s–22m30s exist). Next: 24m30s–26m30s.
+- No new free isolated/commercial Kancheli/Zatsepin tracks under lawful terms; paid routes remain OWNER APPROVAL.
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 3 (Zatsepin 22m30s–24m30s film-mix excerpt + research note + updated TRACK_MAPPING.md).
+
+### Handoff
+Continue sequential Zatsepin Taina-tretey-planety excerpts (next: 24m30s–26m30s) from the IA source. Prefer Kancheli and Zatsepin. Research work remains redirected to canonical grudgemixes. Do not invent downloads. insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+---
+
 ## 2026-11-24 — Grok — extracted Zatsepin 22m30s-24m30s (Drive upload blocked)
 
 ### Task claimed
