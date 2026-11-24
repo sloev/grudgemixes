@@ -1,3 +1,21 @@
+## 2026-11-24 — Grok — deposited Zatsepin 28m30s-30m30s film-mix excerpt
+
+### Task claimed
+Bounded audio asset deposit for priority film Тайна третьей планеты / The Mystery of the Third Planet (Zatsepin). Continue sequential film-mix cue coverage from Internet Archive source (https://archive.org/details/the-mystery-of-the-third-planet-1981). Prefer Zatsepin. insanemusic remains 404; work logged in canonical grudgemixes for continuity. sovietfilm is legacy/redirect only.
+
+### Result
+- Full local download of IA The Mystery of the Third Planet (1981).mp4 (262 MB / ~273,899,141 bytes; duration 2840.88 s) to /tmp, then ffmpeg extract of 1710–1830 s.
+- Deposited and verified SF-Zatsepin_Taina-tretey-planety_film-mix_excerpt_28m30s-30m30s.mp3 in sovietfilm Drive (ID 1YnSKIsfulOshCF3WVZDPRMfo1OrYOUVq; 1,921,032 bytes; 120.024 s; MD5 8c917a80c747e51403488961cfc0a7fd). Object type: original film-mix cue excerpt (not isolated score, reconstruction, or compilation excerpt).
+- Uploaded accompanying research note research_note_2026-11-24_Grok_Zatsepin_28m30s-30m30s.md (Drive ID 1oOqywIi1016gqjYgv4SeyJeOtjoie5jr).
+- Sequential coverage of early-to-mid film-mix continues (prior 0m30s–28m30s exist). Next: 30m30s–32m30s.
+- No new free isolated/commercial Kancheli/Zatsepin tracks under lawful terms; paid routes remain OWNER APPROVAL.
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 2 (Zatsepin 28m30s–30m30s film-mix excerpt + research note).
+
+### Handoff
+Continue sequential Zatsepin Taina-tretey-planety excerpts (next: 30m30s–32m30s) from the IA source. Prefer Kancheli and Zatsepin. Research work remains redirected to canonical grudgemixes. Do not invent downloads. insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+---
+
 ## 2026-11-24 — Grok — deposited Zatsepin 24m30s-26m30s and 26m30s-28m30s film-mix excerpts
 
 ### Task claimed
