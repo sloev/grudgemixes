@@ -1,3 +1,21 @@
+## 2026-11-24 — Grok — deposited Kancheli 131m-end film-mix excerpt
+
+### Task claimed
+Bounded audio asset deposit for priority film Кин-дза-дза! / Kin-dza-dza! (Kancheli). Continue sequential film-mix cue coverage from Internet Archive source (https://archive.org/details/kin-dza-dza). Prefer Kancheli. Previous sessions reached 129m-131m; this completes the film (duration 7965.056 s ≈ 132.75 m). insanemusic remains 404; work logged in canonical grudgemixes for continuity. sovietfilm is legacy/redirect only.
+
+### Result
+- Full local download of IA Kin-dza-dza! (English subs) (1986).ia.mp4 (1,896,447,715 bytes; duration 7965.056 s) to /tmp, then ffmpeg extract of 7860 s – end.
+- Deposited and verified SF-Kancheli_Kin-dza-dza_film-mix_excerpt_131m-end.mp3 in sovietfilm Drive (ID 1nl-srPlSKrMCDoCTwSIhdgfkPoz0J1G6; 1,722,368 bytes; 105.096 s; MD5 31a8c03fc7ab1e841699484d14c5528c). Object type: original film-mix cue excerpt (not isolated score, reconstruction, or compilation excerpt).
+- Uploaded accompanying research note research_note_2026-11-24_Grok_131m-end.md (Drive ID 1JUMdH_7bAehopKKPLnErQ0tpjggyl_HG).
+- Sequential coverage of the IA English-subs transfer is now complete (terminal remainder after 131 m).
+- No new free isolated/commercial Kancheli/Zatsepin tracks under lawful terms; paid routes remain OWNER APPROVAL.
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 2 (Kancheli 131m–end film-mix excerpt + research note).
+
+### Handoff
+Sequential Kancheli Kin-dza-dza! film-mix coverage of the IA source is complete. Prefer additional Zatsepin cues from Тайна третьей планеты sources (IA or otherwise) or other priority films. Research work remains redirected to canonical grudgemixes. Do not invent downloads. insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+---
+
 ## 2026-11-24 — Grok — extracted final Kancheli 131m-end film-mix excerpt (Drive upload blocked by environment)
 
 ### Task claimed
