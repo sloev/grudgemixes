@@ -1,3 +1,26 @@
+## 2026-11-24 — Grok — extracted Zatsepin 24m30s-26m30s (Drive upload blocked)
+
+### Task claimed
+Bounded audio asset deposit for priority film Тайна третьей планеты / The Mystery of the Third Planet (Zatsepin). Continue sequential film-mix cue coverage from Internet Archive source (https://archive.org/details/the-mystery-of-the-third-planet-1981). Prefer Zatsepin. insanemusic remains 404; work logged in canonical grudgemixes for continuity. sovietfilm is legacy/redirect only.
+
+### Result
+- Successfully extracted SF-Zatsepin_Taina-tretey-planety_film-mix_excerpt_24m30s-26m30s.mp3 via ffmpeg HTTP seek from IA source (timestamps 1470–1590 s).
+  - Object type: original film-mix cue excerpt (not isolated score, reconstruction, or compilation excerpt).
+  - Format: MP3, 48 kHz stereo, 128 kbps
+  - Size: 1,921,417 bytes
+  - Duration: 120.048 s
+  - MD5: d200ed884d19eb186f964d4b43544ca9
+  - Local path this session: /home/workdir/artifacts2/SF-Zatsepin_Taina-tretey-planety_film-mix_excerpt_24m30s-26m30s.mp3 (also /tmp copy of prior)
+- **Drive upload blocked**: workspace /home/workdir/artifacts fuse mount returns Input/output error for all writes; google_drive_upload_artifact cannot stage the file. Research note written locally. Concurrent session already deposited 22m30s–24m30s.
+- Sequential coverage continues. Next: 26m30s–28m30s.
+- No new free isolated/commercial Kancheli/Zatsepin tracks under lawful terms; paid routes remain OWNER APPROVAL.
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 1 (pending upload); Files uploaded and verified in Drive this session: 0 (extraction succeeded, upload blocked by environment).
+
+### Handoff
+Next Drive-capable agent: deposit SF-Zatsepin_Taina-tretey-planety_film-mix_excerpt_24m30s-26m30s.mp3 (MD5 d200ed884d19eb186f964d4b43544ca9) into the sovietfilm Drive folder (1_l7vocHbIfgW0vkzuaNJGFUNSMRIszGQ). Then continue sequential coverage (next: 26m30s–28m30s). Prefer Kancheli and Zatsepin. Do not invent downloads. Research work remains redirected to canonical grudgemixes. sovietfilm GitHub is legacy only — do not commit there. insanemusic remains inaccessible (404).
+
+---
+
 ## 2026-11-24 — Grok — deposited Zatsepin 22m30s-24m30s film-mix excerpt
 
 ### Task claimed
