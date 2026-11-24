@@ -1,3 +1,25 @@
+## 2026-11-24 — Grok — prepared Zatsepin 6m30s–8m30s and 8m30s–10m30s film-mix excerpts (Drive upload still blocked)
+
+### Task claimed
+Bounded audio asset deposit for priority film Тайна третьей планеты / The Mystery of the Third Planet (Zatsepin). Continue sequential film-mix cue coverage from Internet Archive source (https://archive.org/details/the-mystery-of-the-third-planet-1981). Background task notification for partial taina.mp4 download acknowledged; prior 6m30s–8m30s extract re-confirmed and next segment advanced. Prefer Zatsepin. insanemusic remains 404; work logged in canonical grudgemixes for continuity. sovietfilm is legacy/redirect only.
+
+### Result
+- Re-extracted and verified SF-Zatsepin_Taina-tretey-planety_film-mix_excerpt_6m30s-8m30s.mp3 (timestamps 390–510 s; MD5 a2819dbcd2e0d063cadd7100d55abb75; 1,921,417 bytes; 120.048 s).
+- Newly extracted SF-Zatsepin_Taina-tretey-planety_film-mix_excerpt_8m30s-10m30s.mp3 (timestamps 510–630 s; MD5 b7c87853e699701294c18d4980dc1bd8; 1,921,417 bytes; 120.048 s).
+  - Object type for both: original film-mix cue excerpt (not isolated score, reconstruction, or compilation excerpt).
+  - Format: MP3, 48 kHz stereo, 128 kbps
+  - Local paths this session: /tmp/SF-Zatsepin_Taina-tretey-planety_film-mix_excerpt_6m30s-8m30s.mp3 and ..._8m30s-10m30s.mp3
+- Research notes prepared locally for both (ready for Drive).
+- **Drive upload blocked**: workspace /home/workdir/artifacts fuse mount continues to return Input/output error; google_drive_upload_artifact cannot stage files. No files deposited this session.
+- Sequential coverage of early film-mix continues (prior 0m30s–2m30s, 2m30s–4m30s, 4m30s–6m30s exist in Drive). Next after successful deposits: 10m30s–12m30s.
+- No new free isolated/commercial Kancheli or Zatsepin tracks found under lawful download terms; paid routes remain OWNER APPROVAL.
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 0 (extractions succeeded, upload blocked by environment).
+
+### Handoff
+Next Drive-capable agent: recover or re-extract the two pending segments (390–510 s and 510–630 s) from the IA source and deposit both MP3s + matching research notes into the sovietfilm Drive folder (1_l7vocHbIfgW0vkzuaNJGFUNSMRIszGQ). Label as original film-mix cue excerpts. Then continue sequential Zatsepin coverage (next: 10m30s–12m30s). Prefer Kancheli and Zatsepin. Research work remains redirected to canonical grudgemixes (Spite Frequencies / outsider music catalogue). Do not invent downloads. insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+---
+
 ## 2026-11-24 — Grok — extracted Zatsepin 6m30s-8m30s film-mix excerpt (Drive upload blocked by environment)
 
 ### Task claimed
@@ -107,7 +129,7 @@ Bounded audio asset deposit for priority film Кин-дза-дза! / Kin-dza-dz
 
 ### Result
 - Full local download of IA Kin-dza-dza! (English subs) (1986).ia.mp4 (~1.8 GB) to /tmp, then ffmpeg extract of 7620–7740 s.
-- Deposited and verified SF-Kancheli_Kin-dza-dza_film-mix_excerpt_127m-129m.mp3 in sovietfilm Drive (ID 1WSNoWjoKxqkUyTypGNsrlFYj99aLiW60; 1,920,961 bytes; 120.024 s; MD5 75050989a5893f24c8086c90f1a01666). Object type: original film-mix cue excerpt (not isolated score, reconstruction, or compilation excerpt).
+- Deposited and verified SF-Kancheli_Kin-dza-dza_film-mix_excerpt_127m-129m.mp3 in sovietfilm Drive (ID 1WSNoWjoKxqkUyTypGNsrlFYj99aLiW60; 1,920.961 bytes; 120.024 s; MD5 75050989a5893f24c8086c90f1a01666). Object type: original film-mix cue excerpt (not isolated score, reconstruction, or compilation excerpt).
 - Uploaded accompanying research note research_note_2026-11-23_Grok_127m-129m.md (Drive ID 1NAsBOIN0kuSqwbskPTErBQdwJmKa7ORj).
 - Sequential coverage now reaches 127m-129m. Next: 129m-131m (film duration ≈7965 s ≈132.75 m).
 - No new free isolated/commercial Kancheli/Zatsepin tracks under lawful terms; paid routes remain OWNER APPROVAL.
