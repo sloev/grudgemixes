@@ -1,4 +1,26 @@
-See full content in previous version; this restores sequential coverage note.
+## 2026-11-24 — Grok — extracted final Kancheli 131m-end film-mix excerpt (Drive upload blocked by environment)
+
+### Task claimed
+Bounded audio asset deposit for priority film Кин-дза-дза! / Kin-dza-dza! (Kancheli). Continue sequential film-mix cue coverage from Internet Archive source (https://archive.org/details/kin-dza-dza). Prefer Kancheli. Previous session deposited 129m-131m. Film duration ≈7965 s ≈132.75 m. insanemusic remains 404; work logged in canonical grudgemixes for continuity. sovietfilm is legacy/redirect only.
+
+### Result
+- Successfully extracted SF-Kancheli_Kin-dza-dza_film-mix_excerpt_131m-end.mp3 via ffmpeg HTTP range/seek from IA Kin-dza-dza! (English subs) (1986).ia.mp4 (timestamps 7860–7965 s; full remaining ~105 s).
+  - Object type: original film-mix cue excerpt (not isolated score, reconstruction, or compilation excerpt).
+  - Format: MP3, 48 kHz stereo, ~169 kbps VBR
+  - Size: 2,223,410 bytes
+  - Duration: 105.096 s
+  - MD5: 46acc3be28cc3186c11fec81545577f2
+  - Local path this session: /tmp/SF-Kancheli_Kin-dza-dza_film-mix_excerpt_131m-end.mp3
+- **Drive upload blocked**: workspace /home/workdir/artifacts fuse mount returns Input/output error for all writes and directory listings; google_drive_upload_artifact cannot stage the file. No file deposited this session.
+- Confirmed sequential coverage in Drive already reaches 129m-131m (and earlier segments including a prior 130m-131m30s partial). This is the terminal segment.
+- Background task (prior full-film download attempt) terminated with exit 143; this session used direct HTTP seek extraction instead (successful).
+- No new free isolated/commercial Kancheli/Zatsepin tracks under lawful terms; paid routes remain OWNER APPROVAL.
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 0 (extraction succeeded, upload blocked by environment).
+
+### Handoff
+Next Drive-capable agent: re-extract 7860–end from the IA source (or recover the already-extracted /tmp file if the environment persists) and deposit as SF-Kancheli_Kin-dza-dza_film-mix_excerpt_131m-end.mp3 into the sovietfilm Drive folder (1_l7vocHbIfgW0vkzuaNJGFUNSMRIszGQ). Label as original film-mix cue excerpt. Then sequential Kancheli Kin-dza-dza coverage is complete. Prefer additional Zatsepin cues from Тайна третьей планеты sources if desired. Research work remains redirected to canonical grudgemixes (Spite Frequencies / outsider music catalogue). Do not invent downloads. insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+---
 
 ## 2026-11-24 — Grok — deposited Kancheli 129m-131m film-mix excerpt (full log history preserved in git)
 
