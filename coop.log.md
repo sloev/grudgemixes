@@ -1,3 +1,21 @@
+## 2026-11-25 — Grok — documented Zatsepin 2022 reconstruction candidate
+
+### Task claimed
+Advance priority film research for Тайна третьей планеты / The Mystery of the Third Planet (Zatsepin). Sequential film-mix coverage from IA source is complete; identify additional lawful isolated/reconstruction sources. Prefer Zatsepin. insanemusic remains 404; work logged in canonical grudgemixes. sovietfilm is legacy/redirect only. No READY FOR DRIVE free full tracks found.
+
+### Result
+- Confirmed sequential original film-mix excerpts complete in sovietfilm Drive (IA source https://archive.org/details/the-mystery-of-the-third-planet-1981).
+- Identified and documented 2022 supervised reconstruction by VIA «Дикие гитары» / Shining Sioux Records (recorded Mosfilm 2021 from original score + film reference; includes unused cues). Object type: reconstruction (not original film mix).
+- Uploaded research note research_note_2026-11-25_Grok_Zatsepin_2022-reconstruction.md to sovietfilm Drive (ID 1YkyBNyt3hxTLQ-66xpx1qBQJ5Ocx0KuE).
+- Access: full album STREAM ONLY on official YouTube/streaming; no free lawful full-file download located. Status: STREAM ONLY / PERMISSION NEEDED for Drive deposit of full tracks. Paid routes remain OWNER APPROVAL.
+- No new free isolated Kancheli Olympia OCD 608 or other commercial tracks under free terms.
+- Metrics: New candidate entries added: 1 (reconstruction, STREAM ONLY); Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (research note).
+
+### Handoff
+Zatsepin Taina-tretey-planety sequential film-mix complete; 2022 reconstruction documented as preferred isolated-score object but STREAM ONLY. Prefer Kancheli and Zatsepin for any new lawful isolated sources. Research work remains redirected to canonical grudgemixes. Do not invent downloads. insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there. Next useful task: owner-approved acquisition of reconstruction digital files, or further archival leads for original sessions.
+
+---
+
 ## 2026-11-25 — Grok — deposited Zatsepin 46m30s-end film-mix excerpt
 
 ### Task claimed
