@@ -1,3 +1,21 @@
+## 2026-11-25 — Grok — deposited Zatsepin 46m30s-end film-mix excerpt
+
+### Task claimed
+Bounded audio asset deposit for priority film Тайна третьей планеты / The Mystery of the Third Planet (Zatsepin). Complete sequential film-mix cue coverage from Internet Archive source (https://archive.org/details/the-mystery-of-the-third-planet-1981). Prefer Zatsepin. insanemusic remains 404; work logged in canonical grudgemixes for continuity. sovietfilm is legacy/redirect only.
+
+### Result
+- Full local download of IA The Mystery of the Third Planet (1981).mp4 (~262M; duration 2840.88 s) to /tmp, then ffmpeg extract of 2790 s–end.
+- Deposited and verified SF-Zatsepin_Taina-tretey-planety_film-mix_excerpt_46m30s-end.mp3 in sovietfilm Drive (ID 1jmbNNNl_vyfBNOBf-hj5AUZ2CCtZTvOA; ~791K / 810000 bytes; 50.568 s; MD5 5e208075704161341834e374e0771278). Object type: original film-mix cue excerpt (not isolated score, reconstruction, or compilation excerpt).
+- Uploaded accompanying research note research_note_2026-11-25_Grok_Zatsepin_46m30s-end.md (Drive ID 1r4iQfQSSJUbKSDtFMq77LMzuuCeUtgU6).
+- Sequential coverage of film-mix for this source is now complete (prior 0m30s–46m30s exist). Kancheli Kin-dza-dza sequential coverage already complete to end in prior sessions.
+- No new free isolated/commercial Kancheli/Zatsepin tracks under lawful terms; paid routes remain OWNER APPROVAL.
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 2 (Zatsepin 46m30s–end film-mix excerpt + research note).
+
+### Handoff
+Zatsepin Taina-tretey-planety sequential film-mix coverage from the IA source is complete. Prefer Kancheli and Zatsepin for any new isolated/score sources. Research work remains redirected to canonical grudgemixes. Do not invent downloads. insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there. Next useful task: identify any additional lawful isolated soundtrack or reconstruction sources for either priority film, or advance other research under the collaboration protocol.
+
+---
+
 ## 2026-11-25 — Grok — deposited Zatsepin 44m30s-46m30s film-mix excerpt
 
 ### Task claimed
