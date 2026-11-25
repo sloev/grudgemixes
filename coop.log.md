@@ -1,3 +1,21 @@
+## 2026-11-25 — Grok — confirmed no new free isolated sources; documented status (session 4)
+
+### Task claimed
+Advance priority film research for Кин-дза-дза! (Kancheli) and Тайна третьей планеты (Zatsepin). Sequential film-mix coverage complete; confirm any additional lawful isolated/reconstruction full-file sources. Prefer these films. insanemusic remains 404; work logged in canonical grudgemixes. sovietfilm is legacy/redirect only. No READY FOR DRIVE free full tracks found.
+
+### Result
+- Reconfirmed sequential original film-mix excerpts complete for both priority films in sovietfilm Drive (Zatsepin IA https://archive.org/details/the-mystery-of-the-third-planet-1981; Kancheli prior sessions / IA).
+- Reconfirmed 2022/2026 Zatsepin reconstruction (VIA «Дикие гитары» / Shining Sioux, Mosfilm 2021) remains STREAM ONLY / commercial (YouTube full album ~43:37, Deezer, siouxstore.ru vinyl/CD; Discogs 2022/2026 reissues). No free lawful full-file download located. Object type: reconstruction.
+- No free lawful full isolated Kancheli score tracks (Olympia OCD 608 and other commercial releases remain paid/streaming). Unauthorized sites noted but not used.
+- Additional IA full-film sources noted but film-mix only; sequential excerpts already deposited.
+- Uploaded research note research_note_2026-11-25_Grok_status_no_new_isolated.md to sovietfilm Drive (ID 1bA1O5V_o7ZKwtFhMW74eeH8wxLv0JaIS).
+- Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (research note).
+
+### Handoff
+Priority film-mix coverage complete for Kancheli and Zatsepin. 2022 reconstruction remains preferred isolated object but STREAM ONLY / OWNER APPROVAL required for full tracks. Prefer Kancheli and Zatsepin for any new lawful isolated sources. Research work remains redirected to canonical grudgemixes. Do not invent downloads. insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there. Next useful task: owner-approved acquisition of reconstruction digital files, or further archival leads for original sessions / other priority films.
+
+---
+
 ## 2026-11-25 — Grok — confirmed no new free isolated sources; documented status (session 3)
 
 ### Task claimed
