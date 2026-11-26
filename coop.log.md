@@ -1,3 +1,29 @@
+## 2026-11-26 — Grok — retrieved Earl McDonald's Original Louisville Jug Band "He's In The Jailhouse Now" (1927) to grudgemixes Drive (session 17)
+
+### Task claimed
+Primary focus: pull audio for music repos into matching Drive subfolders using proposed filenames where possible. For grudgemixes, retrieve a verified pre-2000 prison/grudge recording from lawful IA source. For sovietfilm: confirm sequential film-mix coverage remains complete; no new free isolated Kancheli/Zatsepin tracks. Deposit status research note. insanemusic remains 404. Work on main only. Follow collaboration protocol.
+
+### Result
+- Downloaded and uploaded GM-US-EarlMcDonald_Hes_In_The_Jailhouse_Now_1927.mp3 to grudgemixes Drive folder (https://drive.google.com/drive/folders/1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY).
+  - Source: https://archive.org/details/EarlMcDonaldsOriginalLouisvilleJugBandHesInTheJailhouseNow1927 (1927 recording by Earl McDonald's Original Louisville Jug Band; classic "He's In The Jailhouse Now" prison/jailhouse theme).
+  - Object type: original 78 rpm transfer / commercial recording (prison/grudge theme).
+  - Format: MP3, 44.1 kHz stereo, ~99 kbps
+  - Size: 2,071,821 bytes
+  - Duration: 167.288 s
+  - MD5: b56cd3eb144091f974c09199f1a8d5d1
+  - Drive file ID: 1r2Ym6O_l4aYd-f0B0UIO5_N-CCKxXPQY
+  - Link: https://drive.google.com/file/d/1r2Ym6O_l4aYd-f0B0UIO5_N-CCKxXPQY/view
+- Updated TRACK_MAPPING.md in parent Drive folder (new file ID 1wMmIoLAhHcvQlkATbbuyfCFQ6wrBckPF) with the new entry.
+- sovietfilm: reconfirmed sequential original film-mix excerpts complete for Кин-дза-дза! (Kancheli) and Тайна третьей планеты (Zatsepin). No free lawful full isolated score tracks. No READY FOR DRIVE free full tracks.
+- Uploaded research note research_note_2026-11-26_Grok_status_session17.md to sovietfilm Drive (ID 1auIITQq1omT9lcjq6CfTUJgEWGTcxrP8).
+- No new candidates added to audio-collection-queue. Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (grudgemixes audio) + 1 (TRACK_MAPPING.md) + 1 (sovietfilm research note).
+- insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+### Handoff
+Continue identifying and retrieving pre-2000 grievance/outsider/institutional/murder-ballad/outlaw/prison recordings for grudgemixes from lawful IA/public-domain sources. Prefer Kancheli and Zatsepin for any new lawful isolated sources on sovietfilm. Research work remains redirected to canonical grudgemixes. Do not invent downloads. Next useful task: more early prison/grievance 78s or owner-approved paid routes for reconstructions.
+
+---
+
 ## 2026-11-26 — Grok — retrieved Waring's Pennsylvanians "Stack O' Lee Blues" (1923) to grudgemixes Drive (session 16)
 
 ### Task claimed
