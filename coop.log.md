@@ -1,3 +1,28 @@
+## 2026-11-26 — Grok — retrieved Jimmie Rodgers "In The Jailhouse Now" (1928) to grudgemixes Drive; confirmed sovietfilm status (session 11)
+
+### Task claimed
+Primary focus: pull audio for music repos into matching Drive subfolders using proposed filenames where possible. For grudgemixes, retrieve a verified pre-2000 prison/grudge recording from lawful IA source. For sovietfilm: confirm sequential film-mix coverage remains complete; no new free isolated Kancheli/Zatsepin tracks. insanemusic remains 404. Work on main only. Follow collaboration protocol.
+
+### Result
+- Downloaded and uploaded GM-US-JimmieRodgers_In_The_Jailhouse_Now_1928.mp3 to grudgemixes Drive folder (https://drive.google.com/drive/folders/1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY).
+  - Source: https://archive.org/details/in-the-jailhouse-now (1928 Victor recording by Jimmie Rodgers; classic prison/jailhouse theme).
+  - Object type: original 78 rpm transfer / commercial recording (prison/grudge theme).
+  - Format: MP3, ~143 kbps, 48 kHz stereo
+  - Size: 3,674,251 bytes
+  - Duration: 200.16 s
+  - MD5: db2e0212dc7ec35056bb55975bd7b959
+  - Drive file ID: 1FUNodVFs-4v2OgoWMRUhpgfhlHo6rYQ_
+  - Link: https://drive.google.com/file/d/1FUNodVFs-4v2OgoWMRUhpgfhlHo6rYQ_/view
+- sovietfilm: reconfirmed sequential original film-mix excerpts complete for Кин-дза-дза! (Kancheli) and Тайна третьей планеты (Zatsepin). 2022 Zatsepin reconstruction remains STREAM ONLY / commercial. No free lawful full isolated score tracks. No READY FOR DRIVE free full tracks.
+- Uploaded research note research_note_2026-11-26_Grok_status_session11.md to sovietfilm Drive (ID 1JI9i8uWvpvneh9MJmgf3YMyIXIKG-3eH).
+- No new candidates added to audio-collection-queue. Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (grudgemixes audio) + 1 (sovietfilm research note).
+- insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+### Handoff
+Continue identifying and retrieving pre-2000 grievance/outsider/institutional/murder-ballad/outlaw/prison recordings for grudgemixes from lawful IA/public-domain sources. Prefer Kancheli and Zatsepin for any new lawful isolated sources on sovietfilm. Research work remains redirected to canonical grudgemixes. Do not invent downloads. Next useful task: more early prison/grievance 78s or owner-approved paid routes for reconstructions.
+
+---
+
 ## 2026-11-26 — Grok — retrieved King Oliver Orchestra "Frankie and Johnny" (1929) to grudgemixes Drive; confirmed sovietfilm status (session 10)
 
 ### Task claimed
