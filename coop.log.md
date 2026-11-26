@@ -1,3 +1,36 @@
+## 2026-11-26 — Grok — retrieved Frankie Wallace "In The Jail House Now" (1928) to grudgemixes Drive; deposited Zatsepin opening film-mix excerpt to sovietfilm Drive (session 13)
+
+### Task claimed
+Primary focus: pull audio for music repos into matching Drive subfolders using proposed filenames where possible. For grudgemixes, retrieve a verified pre-2000 prison/grudge recording from lawful IA source. For sovietfilm: deposit at least one verified soundtrack asset (original film-mix excerpt preferred). insanemusic remains 404. Work on main only. Follow collaboration protocol.
+
+### Result
+- Downloaded and uploaded GM-US-FrankieWallace_In_The_Jail_House_Now_1928.mp3 to grudgemixes Drive folder (https://drive.google.com/drive/folders/1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY).
+  - Source: https://archive.org/details/78_in-the-jail-house-now_frankie-wallace-jimmy-rogers_gbia0499610b (1928 Cameo recording by Frankie Wallace; early commercial "In The Jail House Now" prison/jailhouse theme; writer Jimmy Rogers / Jimmie Rodgers).
+  - Object type: original 78 rpm transfer / commercial recording (prison/grudge theme).
+  - Format: MP3, ~213 kbps, 44.1 kHz
+  - Size: 4,201,389 bytes
+  - Duration: 157.968 s
+  - MD5: b552e1c2c7aa47ef2c382cfeaa379e35
+  - Drive file ID: 1-2x-3vxoAiLvqLzQ6cfsxvsixJGisYDM
+  - Link: https://drive.google.com/file/d/1-2x-3vxoAiLvqLzQ6cfsxvsixJGisYDM/view
+- sovietfilm: deposited SF-RU-Zatsepin_Taina_Tretyei_Planety_opening_film-mix_excerpt_original_mix.mp3 (2-minute opening film-mix excerpt from original 1981 Soyuzmultfilm score by Alexander Zatsepin / Александр Зацепин for Тайна третьей планеты / The Mystery of the Third Planet).
+  - Source: https://archive.org/details/the-mystery-of-the-third-planet-1981 (IA film upload; extracted opening 120 s original film mix).
+  - Object type: original film-mix excerpt (not isolated score; reconstruction remains commercial/stream-only).
+  - Format: MP3, ~99 kbps, 44.1 kHz stereo
+  - Size: 1,490,968 bytes
+  - Duration: 120.033 s
+  - MD5: 8ba434b50064c4ead3e32e5e207e805b
+  - Drive file ID: 17jaQuWEgA41CPK95BbrqyEyegA8dGOsJ
+  - Link: https://drive.google.com/file/d/17jaQuWEgA41CPK95BbrqyEyegA8dGOsJ/view
+- No new free lawful full isolated Kancheli/Zatsepin score tracks found. 2022 Zatsepin reconstruction remains STREAM ONLY / commercial.
+- No new candidates added to audio-collection-queue. Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (grudgemixes audio) + 1 (sovietfilm audio excerpt).
+- insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+### Handoff
+Continue identifying and retrieving pre-2000 grievance/outsider/institutional/murder-ballad/outlaw/prison recordings for grudgemixes from lawful IA/public-domain sources. Prefer Kancheli and Zatsepin for any new lawful isolated sources on sovietfilm; continue sequential film-mix excerpts when isolated tracks unavailable. Research work remains redirected to canonical grudgemixes. Do not invent downloads. Next useful task: more early prison/grievance 78s or owner-approved paid routes for reconstructions.
+
+---
+
 ## 2026-11-26 — Grok — retrieved Earl McDonald's Original Louisville Jug Band "He's In The Jailhouse Now" (1927) to grudgemixes Drive; confirmed sovietfilm status (session 12)
 
 ### Task claimed
