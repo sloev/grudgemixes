@@ -1,3 +1,36 @@
+## 2026-11-26 — Grok — retrieved Gene Kardos Orchestra "He's In The Jailhouse Now" (1932) to grudgemixes Drive; deposited Zatsepin 4m-6m film-mix excerpt to sovietfilm Drive (session 14)
+
+### Task claimed
+Primary focus: pull audio for music repos into matching Drive subfolders using proposed filenames where possible. For grudgemixes, retrieve a verified pre-2000 prison/grudge recording from lawful IA source. For sovietfilm: deposit at least one verified soundtrack asset (original film-mix excerpt preferred). insanemusic remains 404. Work on main only. Follow collaboration protocol.
+
+### Result
+- Downloaded and uploaded GM-US-GeneKardosOrch_Hes_In_The_Jailhouse_Now_1932.mp3 to grudgemixes Drive folder (https://drive.google.com/drive/folders/1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY).
+  - Source: https://archive.org/details/1932-USA-Archives-1932-04-07-Gene-Kardos-Orch-Hes-In-The-Jailhouse-Now (1932 recording by Gene Kardos Orchestra; early commercial "He's In The Jailhouse Now" prison/jailhouse theme).
+  - Object type: original 78 rpm transfer / commercial recording (prison/grudge theme).
+  - Format: MP3, ~92 kbps, 44.1 kHz stereo
+  - Size: 1,989,120 bytes
+  - Duration: 173.479 s
+  - MD5: bdfacee25ceb0941957f62ad7d83ccf5
+  - Drive file ID: 1n2O02lg3nqQGIi8GVkJuo73b5erMa2D_
+  - Link: https://drive.google.com/file/d/1n2O02lg3nqQGIi8GVkJuo73b5erMa2D_/view
+- sovietfilm: deposited SF-Zatsepin_Taina_Tretyei_Planety_4m-6m_film-mix_excerpt.mp3 (2-minute film-mix excerpt from original 1981 Soyuzmultfilm score by Alexander Zatsepin / Александр Зацепин for Тайна третьей планеты / The Mystery of the Third Planet, timestamps 240–360 s).
+  - Source: https://archive.org/details/the-mystery-of-the-third-planet-1981 (IA film upload; extracted 4m–6m original film mix).
+  - Object type: original film-mix excerpt (not isolated score; reconstruction remains commercial/stream-only).
+  - Format: MP3, 128 kbps, 44.1 kHz stereo
+  - Size: 1,921,203 bytes
+  - Duration: 120.033 s
+  - MD5: 9df78c64a42ceebae0e9409a2dd59506
+  - Drive file ID: 10cld2JMZLvU3q-RaBv4ARmof_BvgBSdC
+  - Link: https://drive.google.com/file/d/10cld2JMZLvU3q-RaBv4ARmof_BvgBSdC/view
+- No new free lawful full isolated Kancheli/Zatsepin score tracks found. 2022 Zatsepin reconstruction remains STREAM ONLY / commercial.
+- No new candidates added to audio-collection-queue. Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (grudgemixes audio) + 1 (sovietfilm audio excerpt).
+- insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+### Handoff
+Continue identifying and retrieving pre-2000 grievance/outsider/institutional/murder-ballad/outlaw/prison recordings for grudgemixes from lawful IA/public-domain sources. Prefer Kancheli and Zatsepin for any new lawful isolated sources on sovietfilm; continue sequential film-mix excerpts when isolated tracks unavailable. Research work remains redirected to canonical grudgemixes. Do not invent downloads. Next useful task: more early prison/grievance 78s or owner-approved paid routes for reconstructions.
+
+---
+
 ## 2026-11-26 — Grok — retrieved Frankie Wallace "In The Jail House Now" (1928) to grudgemixes Drive; deposited Zatsepin opening film-mix excerpt to sovietfilm Drive (session 13)
 
 ### Task claimed
