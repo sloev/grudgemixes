@@ -1,3 +1,28 @@
+## 2026-11-26 — Grok — retrieved King Oliver Orchestra "Frankie and Johnny" (1929) to grudgemixes Drive; confirmed sovietfilm status (session 10)
+
+### Task claimed
+Primary focus: pull audio for music repos into matching Drive subfolders using proposed filenames where possible. For grudgemixes, retrieve a verified pre-2000 murder-ballad / grudge recording from lawful IA source. For sovietfilm: confirm sequential film-mix coverage remains complete; no new free isolated Kancheli/Zatsepin tracks. insanemusic remains 404. Work on main only. Follow collaboration protocol.
+
+### Result
+- Downloaded and uploaded GM-US-KingOliverOrch_Frankie_And_Johnny_1929.mp3 to grudgemixes Drive folder (https://drive.google.com/drive/folders/1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY).
+  - Source: https://archive.org/details/1929-USA-Archives-1929-12-30-King-Olivers-Orch-Frankie-And-Johnny (1929 recording by King Oliver's Orchestra; early commercial Frankie and Johnny murder ballad).
+  - Object type: original 78 rpm transfer / commercial recording (grudge/murder-ballad theme).
+  - Format: MP3, 128 kbps, 44.1 kHz stereo
+  - Size: 3,098,752 bytes
+  - Duration: 189.213 s
+  - MD5: 5f23c9c9d6e7c4f246578c87326ad387
+  - Drive file ID: 1fmjXYsf4mkIXV4eKkT8iDAHVy5OKs4sH
+  - Link: https://drive.google.com/file/d/1fmjXYsf4mkIXV4eKkT8iDAHVy5OKs4sH/view
+- sovietfilm: reconfirmed sequential original film-mix excerpts complete for Кин-дза-дза! (Kancheli) and Тайна третьей планеты (Zatsepin). 2022 Zatsepin reconstruction remains STREAM ONLY / commercial. No free lawful full isolated score tracks. No READY FOR DRIVE free full tracks.
+- Uploaded research note research_note_2026-11-26_Grok_status_session10.md to sovietfilm Drive (ID 11DbbmGnFGWsLZJNU3dhA2HZ_QFf9hGgo).
+- No new candidates added to audio-collection-queue. Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (grudgemixes audio) + 1 (sovietfilm research note).
+- insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+### Handoff
+Continue identifying and retrieving pre-2000 grievance/outsider/institutional/murder-ballad/outlaw recordings for grudgemixes from lawful IA/public-domain sources. Prefer Kancheli and Zatsepin for any new lawful isolated sources on sovietfilm. Research work remains redirected to canonical grudgemixes. Do not invent downloads. Next useful task: more early prison/grievance 78s or owner-approved paid routes for reconstructions.
+
+---
+
 ## 2026-11-26 — Grok — retrieved Vernon Dalhart "Jesse James" (1925) to grudgemixes Drive; confirmed sovietfilm status (session 9)
 
 ### Task claimed
