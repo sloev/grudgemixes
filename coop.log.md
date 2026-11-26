@@ -1,3 +1,28 @@
+## 2026-11-26 — Grok — retrieved Bertha "Chippie" Hill "Worried Jailhouse Blues" (1946) to grudgemixes Drive (session 18)
+
+### Task claimed
+Primary focus: pull audio for music repos into matching Drive subfolders using proposed filenames where possible. For grudgemixes, retrieve a verified pre-2000 jailhouse/prison blues recording from lawful IA source. For sovietfilm: confirm sequential film-mix coverage remains complete; no new free isolated Kancheli/Zatsepin tracks. insanemusic remains 404. Work on main only. Follow collaboration protocol.
+
+### Result
+- Downloaded and uploaded GM-US-ChippieHill_Worried_Jailhouse_Blues_1946.mp3 to grudgemixes Drive folder (https://drive.google.com/drive/folders/1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY).
+  - Source: https://archive.org/details/78_worried-jailhouse-blues_bertha-chippie-hill-montana-taylor-almond-leonard-bertha-hi_gbia3014583b (Circle J-1067-B; matrix C-9; ~17 Apr 1946 Chicago recording by Bertha "Chippie" Hill with Montana Taylor piano, Almond Leonard washboard/kazoo; jailhouse blues theme).
+  - Object type: original 78 rpm transfer / commercial recording (jailhouse/prison blues).
+  - Format: MP3, ~259 kbps
+  - Size: 5,527,487 bytes
+  - Duration: 170.784 s
+  - MD5: 69fce261b0f93c791ad50fd8e48f9dc3
+  - Drive file ID: 1WLbfbePCOVlmQHgwyPMVe4vocKIOTK87
+  - Link: https://drive.google.com/file/d/1WLbfbePCOVlmQHgwyPMVe4vocKIOTK87/view
+- Updated TRACK_MAPPING.md in parent Drive folder (new file ID 1RZ4CS-NcVLnEu-dYjoSIXoIbkp6oaJQO) with the new entry.
+- sovietfilm: reconfirmed sequential original film-mix excerpts complete for Кин-дза-дза! (Kancheli) and Тайна третьей планеты (Zatsepin). No free lawful full isolated score tracks. No READY FOR DRIVE free full tracks.
+- No new candidates added to audio-collection-queue. Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (grudgemixes audio) + 1 (TRACK_MAPPING.md).
+- insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+### Handoff
+Continue identifying and retrieving pre-2000 grievance/outsider/institutional/murder-ballad/outlaw/prison recordings for grudgemixes from lawful IA/public-domain sources. Prefer Kancheli and Zatsepin for any new lawful isolated sources on sovietfilm. Research work remains redirected to canonical grudgemixes. Do not invent downloads. Next useful task: more early prison/grievance 78s or owner-approved paid routes for reconstructions.
+
+---
+
 ## 2026-11-26 — Grok — retrieved Earl McDonald's Original Louisville Jug Band "He's In The Jailhouse Now" (1927) to grudgemixes Drive (session 17)
 
 ### Task claimed
