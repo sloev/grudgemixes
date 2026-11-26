@@ -1,3 +1,26 @@
+## 2026-11-26 — Grok — retrieved Waring's Pennsylvanians "Stack O' Lee Blues" (1923) to grudgemixes Drive (session 16)
+
+### Task claimed
+Primary focus: pull audio for music repos into matching Drive subfolders using proposed filenames where possible. For grudgemixes, retrieve a verified pre-2000 murder-ballad / grudge recording from lawful IA source. For sovietfilm: confirm sequential film-mix coverage remains complete; no new free isolated Kancheli/Zatsepin tracks. insanemusic remains 404. Work on main only. Follow collaboration protocol.
+
+### Result
+- Downloaded and uploaded GM-US-WaringsPennsylvanians_Stack_OLee_Blues_1923.mp3 to grudgemixes Drive folder (https://drive.google.com/drive/folders/1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY).
+  - Source: https://archive.org/details/1923-USA-Archives-1923-10-16-Warings-Pennsylvanians-Stack-O-Lee-Blues (16 Oct 1923 acoustic recording by Waring's Pennsylvanians; early commercial Stack O'Lee / Stagger Lee murder ballad).
+  - Object type: original 78 rpm transfer / commercial recording (murder-ballad/grudge theme).
+  - Format: MP3
+  - Size: 4,830,720 bytes
+  - Drive file ID: 18Qi7v-x75aQTHsCep2jWYKdUo3VG4hyi
+  - Link: https://drive.google.com/file/d/18Qi7v-x75aQTHsCep2jWYKdUo3VG4hyi/view
+- Updated TRACK_MAPPING.md in parent Drive folder (new file ID 10f3ROymd-znIqYkFs-Y3gwsAy3zKoeGr) with the new entry.
+- sovietfilm: reconfirmed sequential original film-mix excerpts complete for Кин-дза-дза! (Kancheli) and Тайна третьей планеты (Zatsepin). No free lawful full isolated score tracks. No READY FOR DRIVE free full tracks.
+- No new candidates added to audio-collection-queue. Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (grudgemixes audio) + 1 (TRACK_MAPPING.md).
+- insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+### Handoff
+Continue identifying and retrieving pre-2000 grievance/outsider/institutional/murder-ballad/outlaw/prison recordings for grudgemixes from lawful IA/public-domain sources. Prefer Kancheli and Zatsepin for any new lawful isolated sources on sovietfilm. Research work remains redirected to canonical grudgemixes. Do not invent downloads. Next useful task: more early prison/grievance 78s or owner-approved paid routes for reconstructions.
+
+---
+
 ## 2026-11-26 — Grok — retrieved Frankie Marvin "I'm In The Jail House Now" to grudgemixes Drive; confirmed sovietfilm status (session 15)
 
 ### Task claimed
