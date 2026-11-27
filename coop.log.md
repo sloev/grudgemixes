@@ -1,3 +1,29 @@
+## 2026-11-27 — Grok — retrieved Ma Rainey and her Georgia Band "Stack O'Lee Blues" (ca. 1925) to grudgemixes Drive; sovietfilm status note deposited (session 31)
+
+### Task claimed
+Primary focus: identify and retrieve additional pre-2000 grievance/outsider/institutional/murder-ballad recordings for grudgemixes from lawful IA/public-domain sources. Confirm sovietfilm sequential film-mix coverage remains complete (no new free isolated tracks). Deposit research note to sovietfilm Drive. insanemusic remains 404. Work on main only.
+
+### Result
+- Downloaded and uploaded GM-US-MaRainey_Stack_OLee_Blues_1925.mp3 to grudgemixes Drive folder (https://drive.google.com/drive/folders/1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY).
+  - Source: https://archive.org/details/78_stack-olee-blues_ma-rainey-and-her-georgia-band-joe-smith-taylor-williams_gbia0253947b (Signature 908-B; matrix 2376-2; recorded ca. December 1925 by Ma Rainey and her Georgia Band with Joe Smith on cornet; Paramount 12357; blues version of Stack O'Lee / Stagger Lee murder-ballad theme, melody related to Frankie and Johnny).
+  - Object type: original 78 rpm transfer / public-domain upload.
+  - Format: MP3, ~224 kbps stereo
+  - Size: 5,135,378 bytes
+  - Duration: 179.54 s
+  - MD5: fd0652bc165b937d63d0760398cce986
+  - Drive file ID: 19gSXGB_4ujwewNUP9y1tw2qTdE47QiJv
+  - Link: https://drive.google.com/file/d/19gSXGB_4ujwewNUP9y1tw2qTdE47QiJv/view
+- Updated TRACK_MAPPING.md in parent Drive folder (new version uploaded, file ID 1YkQwzZ6_LdHmgj0IJZrIlJot9gvqB5lG).
+- sovietfilm: reconfirmed sequential original film-mix excerpts complete for Кин-дза-дза! (Kancheli) and Тайна третьей планеты (Zatsepin). No free lawful full isolated score tracks. 2021/2022 Zatsepin reconstruction by VIA «Дикие гитары» remains commercial/stream-only.
+- Uploaded research note research_note_2026-11-27_Grok_status_session31.md to sovietfilm Drive (file ID 1esQbr_BsT9udXKfsoqc1YE6DHaNihuaZ).
+- No new candidates added to audio-collection-queue. Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (grudgemixes audio) + 1 (TRACK_MAPPING.md) + 1 (sovietfilm research note).
+- insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+### Handoff
+Continue identifying and retrieving additional pre-2000 grievance/outsider/institutional/murder-ballad/outlaw/prison recordings for grudgemixes from lawful IA/public-domain sources. Prefer Kancheli and Zatsepin for any new lawful isolated sources on sovietfilm. Research work remains redirected to canonical grudgemixes. Do not invent downloads. Next useful task: more early prison/grievance 78s or owner-approved paid routes for reconstructions.
+
+---
+
 ## 2026-11-27 — Grok — retrieved Long Cleve Reed and Little Harvey Hull "Original Stack O'Lee Blues" (1927) to grudgemixes Drive; sovietfilm status note deposited (session 30)
 
 ### Task claimed
