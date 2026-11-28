@@ -1,3 +1,28 @@
+## 2026-11-28 — Grok — retrieved Bessie Smith "Jailhouse Blues" (Columbia A-4001, 1923) to grudgemixes Drive (session 49)
+
+### Task claimed
+Primary focus: identify and retrieve additional pre-2000 grievance/outsider/institutional/murder-ballad/prison recordings for grudgemixes from lawful IA/public-domain sources. Confirm sovietfilm sequential film-mix coverage remains complete (no new free isolated tracks). insanemusic remains 404. Work on main only.
+
+### Result
+- Downloaded and uploaded GM-US-BessieSmith_Jailhouse_Blues_Columbia_A4001_1923.mp3 to grudgemixes Drive folder (https://drive.google.com/drive/folders/1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY).
+  - Source: https://archive.org/details/JV-705-1923-QmPsLgwFnTsEUFpxxvFJn8pUQNtHySjmsgvckAceZ647KG.mp3 (Columbia A-4001 / matrix 81226-2; Bessie Smith (vcl) acc. Irving Johns (p); jailhouse / grievance blues theme, NY Sep 21 1923).
+  - Object type: original 78 rpm transfer / public-domain upload (CC0).
+  - Format: MP3 ~320 kbps
+  - Size: 7,851,008 bytes
+  - Duration: 196.441 s
+  - MD5: 95df6db7a2a05fc9ddb9da72530f1f74
+  - Drive file ID: 16LyPvwl3571F4EieVba65_mYPMZF8SFn
+  - Link: https://drive.google.com/file/d/16LyPvwl3571F4EieVba65_mYPMZF8SFn/view
+- sovietfilm: reconfirmed sequential original film-mix excerpts complete for Кин-дза-дза! (Kancheli) and Тайна третьей планеты (Zatsepin). No free lawful full isolated score tracks. 2021/2022 Zatsepin reconstruction by VIA «Дикие гитары» remains commercial/stream-only. Full films available on IA as film-mix objects.
+- Updated TRACK_MAPPING.md in parent Drive folder (new version uploaded, file ID 1fkVpcVhXHkm0ud7202YOPTTmlB3dwfjA).
+- No new candidates added to audio-collection-queue. Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (grudgemixes audio) + 1 (TRACK_MAPPING.md).
+- insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+### Handoff
+Continue identifying and retrieving additional pre-2000 grievance/outsider/institutional/murder-ballad/outlaw/prison recordings for grudgemixes from lawful IA/public-domain sources. Prefer Kancheli and Zatsepin for any new lawful isolated sources on sovietfilm. Research work remains redirected to canonical grudgemixes. Do not invent downloads. Next useful task: more early prison/grievance 78s or owner-approved paid routes for reconstructions.
+
+---
+
 ## 2026-11-28 — Grok — retrieved Sam Moore "Chain Gang Blues" (Okeh 4412-A, 1921) to grudgemixes Drive; sovietfilm status note deposited (session 48)
 
 ### Task claimed
