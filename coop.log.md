@@ -1,3 +1,29 @@
+## 2026-11-28 — Grok — retrieved Sam Moore "Chain Gang Blues" (Okeh 4412-A, 1921) to grudgemixes Drive; sovietfilm status note deposited (session 48)
+
+### Task claimed
+Primary focus: identify and retrieve additional pre-2000 grievance/outsider/institutional/murder-ballad/prison recordings for grudgemixes from lawful IA/public-domain sources. Confirm sovietfilm sequential film-mix coverage remains complete (no new free isolated tracks). Deposit research note to sovietfilm Drive. insanemusic remains 404. Work on main only.
+
+### Result
+- Downloaded and uploaded GM-US-SamMoore_Chain_Gang_Blues_Okeh_4412-A_1921.mp3 to grudgemixes Drive folder (https://drive.google.com/drive/folders/1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY).
+  - Source: https://archive.org/details/78_chain-gang-blues_sam-moore-sam-moore_gbia0395844a (Okeh 4412-A / matrix A 4412A 1 / S-70054-E; Sam Moore; chain-gang / grievance blues theme, 1921).
+  - Object type: original 78 rpm transfer / public-domain upload (George Blood digitization).
+  - Format: MP3 ~277 kbps
+  - Size: 6,097,177 bytes
+  - Duration: 176.088 s
+  - MD5: bf55b17788f30c4f0d3324f5ef509ccc
+  - Drive file ID: 1rq9nG4IGbTYn_Jwy3BKdF4Z5Sh5mlHCQ
+  - Link: https://drive.google.com/file/d/1rq9nG4IGbTYn_Jwy3BKdF4Z5Sh5mlHCQ/view
+- sovietfilm: reconfirmed sequential original film-mix excerpts complete for Кин-дза-дза! (Kancheli) and Тайна третьей планеты (Zatsepin). No free lawful full isolated score tracks. 2021/2022 Zatsepin reconstruction by VIA «Дикие гитары» remains commercial/stream-only. Full films available on IA as film-mix objects.
+- Uploaded research note research_note_2026-11-28_Grok_status_session48.md to sovietfilm Drive (file ID 1_i5QZnATQjrHRyKCsnXxjrRJjsK6f0bH).
+- Updated TRACK_MAPPING.md in parent Drive folder (new version uploaded, file ID 1uNSWF8nTShl1BdXjxJ_A564GjvF54ZK2).
+- No new candidates added to audio-collection-queue. Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (grudgemixes audio) + 1 (sovietfilm research note) + 1 (TRACK_MAPPING.md).
+- insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+### Handoff
+Continue identifying and retrieving additional pre-2000 grievance/outsider/institutional/murder-ballad/outlaw/prison recordings for grudgemixes from lawful IA/public-domain sources. Prefer Kancheli and Zatsepin for any new lawful isolated sources on sovietfilm. Research work remains redirected to canonical grudgemixes. Do not invent downloads. Next useful task: more early prison/grievance 78s or owner-approved paid routes for reconstructions.
+
+---
+
 ## 2026-11-28 — Grok — retrieved Bertha "Chippie" Hill "Worried Jailhouse Blues" (Circle, 1946 reissue) to grudgemixes Drive; sovietfilm status note deposited (session 47)
 
 ### Task claimed
