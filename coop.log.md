@@ -1,3 +1,37 @@
+## 2026-11-28 — Grok — retrieved Josh White \"Prison Bound\" (Musicraft, 1940) to grudgemixes Drive; sovietfilm film-mix excerpt deposited (session 45)
+
+### Task claimed
+Primary focus: identify and retrieve additional pre-2000 grievance/outsider/institutional/murder-ballad/prison recordings for grudgemixes from lawful IA/public-domain sources. Confirm sovietfilm sequential film-mix coverage remains complete (no new free isolated tracks). Deposit research note and verified film-mix excerpt to sovietfilm Drive. insanemusic remains 404. Work on main only.
+
+### Result
+- Downloaded and uploaded GM-US-JoshWhite_Prison_Bound_Musicraft_1940.mp3 to grudgemixes Drive folder (https://drive.google.com/drive/folders/1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY).
+  - Source: https://archive.org/download/78_prison-bound_josh-white_gbia0066574/02%20-%20Prison%20Bound%20-%20Josh%20White.mp3 (Musicraft 248 B / matrix RS 674; Josh White (vcl, gtr); prison-bound / grievance blues, from Harlem Blues album session ~1940).
+  - Object type: original 78 rpm transfer / public-domain upload (George Blood digitization).
+  - Format: MP3 ~248 kbps
+  - Size: 5,793,700 bytes
+  - Duration: 183.144 s
+  - MD5: 1ddfc67e9fd61af7fe7e9f586f9c82f1
+  - Drive file ID: 1I7v3WRJgRNIzRBpTSbTawEQdLIKZ_JxN
+  - Link: https://drive.google.com/file/d/1I7v3WRJgRNIzRBpTSbTawEQdLIKZ_JxN/view
+- sovietfilm: deposited SF-Zatsepin_Taina_tretey_planety_film-mix_excerpt_0-2min.mp3 (original film-mix excerpt 0–2 min from IA transfer of Тайна третьей планеты / The Mystery of the Third Planet, 1981, Zatsepin score as heard in film mix).
+  - Source: https://archive.org/details/the-mystery-of-the-third-planet-1981 (The Mystery of the Third Planet (1981).mp4).
+  - Object type: original film mix / excerpt.
+  - Format: MP3 ~99 kbps
+  - Size: 1,490,968 bytes
+  - Duration: 120.033 s
+  - MD5: 8ba434b50064c4ead3e32e5e207e805b
+  - Drive file ID: 1kSd6699s5f-Hn2YWYwW54I-zyMIF0DBR
+  - Link: https://drive.google.com/file/d/1kSd6699s5f-Hn2YWYwW54I-zyMIF0DBR/view
+- Uploaded research note research_note_2026-11-28_Grok_status_session45.md to sovietfilm Drive (file ID 1oKPMIQ6oEbXbhxpwrrbw8W8teUccYkYD).
+- Sequential original film-mix excerpts for Кин-дза-дза! (Kancheli) and Тайна третьей планеты (Zatsepin) remain complete. No free lawful full isolated score tracks. 2021/2022 Zatsepin reconstruction by VIA «Дикие гитары» remains commercial/stream-only.
+- No new candidates added to audio-collection-queue. Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (grudgemixes audio) + 1 (sovietfilm audio excerpt) + 1 (sovietfilm research note).
+- insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+### Handoff
+Continue identifying and retrieving additional pre-2000 grievance/outsider/institutional/murder-ballad/outlaw/prison recordings for grudgemixes from lawful IA/public-domain sources. Prefer Kancheli and Zatsepin for any new lawful isolated sources on sovietfilm. Research work remains redirected to canonical grudgemixes. Do not invent downloads. Next useful task: more early prison/grievance 78s or owner-approved paid routes for reconstructions.
+
+---
+
 ## 2026-11-28 — Grok — retrieved Bessie Smith \"Jailhouse Blues\" (Columbia, 1923) to grudgemixes Drive; sovietfilm status note deposited (session 44)
 
 ### Task claimed
