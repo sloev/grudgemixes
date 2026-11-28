@@ -1,4 +1,30 @@
-## 2026-11-28 — Grok — retrieved Bob Crosby And His Orchestra "Chain Gang" (Decca, 1942) to grudgemixes Drive; sovietfilm status note deposited (session 43)
+## 2026-11-28 — Grok — retrieved Bessie Smith \"Jailhouse Blues\" (Columbia, 1923) to grudgemixes Drive; sovietfilm status note deposited (session 44)
+
+### Task claimed
+Primary focus: identify and retrieve additional pre-2000 grievance/outsider/institutional/murder-ballad/prison recordings for grudgemixes from lawful IA/public-domain sources. Confirm sovietfilm sequential film-mix coverage remains complete (no new free isolated tracks). Deposit research note to sovietfilm Drive. insanemusic remains 404. Work on main only.
+
+### Result
+- Downloaded and uploaded GM-US-BessieSmith_Jailhouse_Blues_Columbia_1923.mp3 to grudgemixes Drive folder (https://drive.google.com/drive/folders/1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY).
+  - Source: https://archive.org/details/JV-705-1923-QmPsLgwFnTsEUFpxxvFJn8pUQNtHySjmsgvckAceZ647KG.mp3 (Columbia A-4001 / matrix 81226-2; Bessie Smith (vcl) acc. Irving Johns (p); jailhouse / grievance blues, recorded New York 21 September 1923).
+  - Object type: original 78 rpm transfer / public-domain upload (CC0).
+  - Format: MP3 ~320 kbps
+  - Size: 7,851,008 bytes
+  - Duration: 196.441 s
+  - MD5: 95df6db7a2a05fc9ddb9da72530f1f74
+  - Drive file ID: 1_2_Ox8E9LPnE79JYEOcV5gsc34DAOs-W
+  - Link: https://drive.google.com/file/d/1_2_Ox8E9LPnE79JYEOcV5gsc34DAOs-W/view
+- sovietfilm: reconfirmed sequential original film-mix excerpts complete for Кин-дза-дза! (Kancheli) and Тайна третьей планеты (Zatsepin). No free lawful full isolated score tracks. 2021/2022 Zatsepin reconstruction by VIA «Дикие гитары» remains commercial/stream-only. Full films available on IA as film-mix objects.
+- Uploaded research note research_note_2026-11-28_Grok_status_session44.md to sovietfilm Drive (file ID 19uRvEJYfYWC7WOutR3QxLhpvlyEZ56Ep).
+- Updated TRACK_MAPPING.md in parent Drive folder (new version uploaded, file ID 1v79S4j97qE8M11uCetUMzTx9mvwSpofG).
+- No new candidates added to audio-collection-queue. Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (grudgemixes audio) + 1 (sovietfilm research note) + 1 (TRACK_MAPPING.md).
+- insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+### Handoff
+Continue identifying and retrieving additional pre-2000 grievance/outsider/institutional/murder-ballad/outlaw/prison recordings for grudgemixes from lawful IA/public-domain sources. Prefer Kancheli and Zatsepin for any new lawful isolated sources on sovietfilm. Research work remains redirected to canonical grudgemixes. Do not invent downloads. Next useful task: more early prison/grievance 78s or owner-approved paid routes for reconstructions.
+
+---
+
+## 2026-11-28 — Grok — retrieved Bob Crosby And His Orchestra \"Chain Gang\" (Decca, 1942) to grudgemixes Drive; sovietfilm status note deposited (session 43)
 
 ### Task claimed
 Primary focus: identify and retrieve additional pre-2000 grievance/outsider/institutional/murder-ballad/prison recordings for grudgemixes from lawful IA/public-domain sources. Confirm sovietfilm sequential film-mix coverage remains complete (no new free isolated tracks). Deposit research note to sovietfilm Drive. insanemusic remains 404. Work on main only.
@@ -23,7 +49,7 @@ Continue identifying and retrieving additional pre-2000 grievance/outsider/insti
 
 ---
 
-## 2026-11-28 — Grok — retrieved Johnny Temple "County Jail Blues" (Decca, 1938) to grudgemixes Drive; sovietfilm status note deposited (session 42)
+## 2026-11-28 — Grok — retrieved Johnny Temple \"County Jail Blues\" (Decca, 1938) to grudgemixes Drive; sovietfilm status note deposited (session 42)
 
 ### Task claimed
 Primary focus: identify and retrieve additional pre-2000 grievance/outsider/institutional/murder-ballad/prison recordings for grudgemixes from lawful IA/public-domain sources. Confirm sovietfilm sequential film-mix coverage remains complete (no new free isolated tracks). Deposit research note to sovietfilm Drive. insanemusic remains 404. Work on main only.
