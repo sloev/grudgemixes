@@ -1,3 +1,29 @@
+## 2026-11-28 — Grok — retrieved Jimmy Walker "Prison Blues" (London 16010) to grudgemixes Drive; sovietfilm status note deposited (session 51)
+
+### Task claimed
+Primary focus: identify and retrieve additional pre-2000 grievance/outsider/institutional/murder-ballad/prison recordings for grudgemixes from lawful IA/public-domain sources. Confirm sovietfilm sequential film-mix coverage remains complete (no new free isolated tracks). Deposit research note to sovietfilm Drive. insanemusic remains 404. Work on main only.
+
+### Result
+- Downloaded and uploaded GM-US-JimmyWalker_Prison_Blues_London_16010.mp3 to grudgemixes Drive folder (https://drive.google.com/drive/folders/1W5kjNo0ygmb-rA6NJF2v5QwMT2Iy58iY).
+  - Source: https://archive.org/details/78_prison-blues_jimmy-walker-hazelwood-widner_gbia0417990b (London 16010 / matrix DLG 50127; Jimmy Walker; prison / grievance blues theme).
+  - Object type: original 78 rpm transfer / public-domain upload (George Blood digitization).
+  - Format: MP3 ~203 kbps
+  - Size: 4,363,550 bytes
+  - Duration: 169.44 s
+  - MD5: a804b53d58842029fd0767c53acd79a6
+  - Drive file ID: 1oFJcFK5xo3-WACGg-vPZAfC84xFWcll7
+  - Link: https://drive.google.com/file/d/1oFJcFK5xo3-WACGg-vPZAfC84xFWcll7/view
+- sovietfilm: reconfirmed sequential original film-mix excerpts complete for Кин-дза-дза! (Kancheli) and Тайна третьей планеты (Zatsepin). No free lawful full isolated score tracks. 2021/2022 Zatsepin reconstruction by VIA «Дикие гитары» remains commercial/stream-only. Full films available on IA as film-mix objects.
+- Uploaded research note research_note_2026-11-28_Grok_status_session51.md to sovietfilm Drive (file ID 1irliZ57FootsMh9-T6T4k_-LRMNONtrS).
+- Updated TRACK_MAPPING.md in parent Drive folder (new version uploaded, file ID 1EsdebJq0BBH707W-jTV5GHW0EFYp_3cD).
+- No new candidates added to audio-collection-queue. Metrics: New candidate entries added: 0; Entries now READY FOR DRIVE: 0; Files uploaded and verified in Drive this session: 1 (grudgemixes audio) + 1 (sovietfilm research note) + 1 (TRACK_MAPPING.md).
+- insanemusic remains inaccessible (404). sovietfilm GitHub is legacy only — do not commit there.
+
+### Handoff
+Continue identifying and retrieving additional pre-2000 grievance/outsider/institutional/murder-ballad/outlaw/prison recordings for grudgemixes from lawful IA/public-domain sources. Prefer Kancheli and Zatsepin for any new lawful isolated sources on sovietfilm. Research work remains redirected to canonical grudgemixes. Do not invent downloads. Next useful task: more early prison/grievance 78s or owner-approved paid routes for reconstructions.
+
+---
+
 ## 2026-11-28 — Grok — retrieved Ma Rainey "Cell Bound Blues" (Paramount 12257-A) to grudgemixes Drive; sovietfilm status note deposited (session 50)
 
 ### Task claimed
